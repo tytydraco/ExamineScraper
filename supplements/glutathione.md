@@ -1,0 +1,316 @@
+
+
+
+
+
+
+---
+
+
+### 1Sources and Composition
+
+#### 1.1Origin and Composition
+
+
+Glutathione (*γ-L-Glutamyl-L-cysteinylglycine*) is a small tripeptide molecule composed of three dietary amino acids; L-glutamate, L-cysteine, and [glycine](/supplements/glycine/).[[1]](#ref1) This tripeptide is popularily known as an antioxidant due to the system that it belongs to (the glutathione system) using this tripeptide as the substrate to regulate most oxidative processes in the cell.[[2]](#ref2) Glutathione also has a role in conjugating some compounds in the body and priming them for elimination, which has been interpretated as a detoxificative role[[3]](#ref3) and also used as validation for its dietary supplementation.
+
+
+#### 1.2Sources and Structure
+
+
+Beyond being an endogenous antioxidant, glutathione is present in the food supply via most foods. One study sample had a mean daily intake of 34.8mg, but a wide range of 13-109.9mg. Over half of dietary glutathione came from fruits and vegetables, with less than quarter from meat sources.[[4]](#ref4) Dietary glutathione content, however, does not correlate with systemic glutathione activity.[[4]](#ref4)
+
+
+
+> Glutathione is present in the human diet in food products, although the doses consumed in even the most prolific diets is significantly smaller than can be achieved through supplementation with glutathine or its precursor (N-Acetylcysteine). Dietary glutathine does not correlate with overall glutathine activity.
+
+
+#### 1.3Biological Significance
+
+
+Glutathione is a tripeptide (L-glutamic acid, L-cysteine, and [glycine](/supplements/glycine/)) that is known as the most prominent nonenzymatic antioxidant in the human body, and is a substrate for a system of enzymes involved in regulating glutathione metabolism.[[1]](#ref1)
+
+
+
+> Glutathoine is an intermediate in the 'glutathione system' which regulates oxidation.
+
+
+An enzyme known as *γ-GlutamylCysteine Synthetase* (GCS) is a glutamate-cysteine ligase which is involved in synthesizing glutathione, specifically catalyzing the first reaction of combining glutamate and cysteine to form a dipeptide known as *γ-glutamylcysteine* (hence the name of the enzyme).[[5]](#ref5) This enzyme is a target of certain pharmacological interventions assessing the actions of glutathione in a cell, as it can be inhibited with *Buthionine SulfOximine* (BSO) resulting in a depletion of active GSH[[6]](#ref6) and enhancing its actions can enhance glutathione activity and its antioxidant effects.[[7]](#ref7) A deficiency of GCS results in both a depletion in glutathione as well as a cellular glutathione-S-transferase activity.[[8]](#ref8) Due to glutathione itself exerting a negative regulatory role on this enzyme (in both bacterial[[9]](#ref9) and rat cells;[[10]](#ref10) latter being homologous to human[[11]](#ref11)) an excess of glutathione production from overactivity seems unlikely.
+
+
+The second enzyme involved in the synthesis of glutathione is *glutathione synthetase*, which takes the *γ-glutamylcysteine* created in the previous enzymatic reaction and attaches glycine into it, forming the tripeptide known as glutathione.[[12]](#ref12) This enzyme is present in yeast and bacteria although they share little homology with rat and human variants,[[13]](#ref13)[[14]](#ref14) and the rat variant has around 88% homology with the human variant.[[15]](#ref15) The enzyme appears to requite Cys-422 to function in humans[[16]](#ref16) and its function can be inhibited in experiments with Methionine SulfOximine (MSO).[[17]](#ref17)
+
+
+The rate-limiting step of glutathione synthesis does not appear to be the activity of either enzyme under normal conditions, but rather the provision of one of the amino acids (L-cysteine) making up the tripeptide;[[18]](#ref18) due to this, supplementation of [N-acetylcysteine](/supplements/n-acetylcysteine/) is sometimes used to increase glutathione synthesis (after N-acetylcysteine gets deacetylated to form L-cysteine, however).[[18]](#ref18)
+
+
+
+> The synthesis of glutathione in the body involves two enzymes, the first of which binds L-cysteine and glutamic acid to one another in a gamma configuration (producing γ-glutamylcysteine), and the second enzyme adds a glycine molecule onto it to ultimately form glutathione.
+
+
+Glutathione itself (GSH) is present in both a reduced form known as *reduced glutathione* (GSH) prior to exerting antioxidant effects and an oxidized form (GSSG) after it exerts antioxidant effects on targets; the two form a ratio known as the GSH/GSSG ratio where the former normally constitutes 98% of total glutathione and alterations in the ratio signify changes in cellular oxidative balance.[[19]](#ref19)
+
+
+Oxidized glutathione (GSSG) can be converted back into GSH via the NADPH-dependent *glutathione disulfide reductase* enzyme,[[12]](#ref12) and the activity of this enzyme seems to be in part controlled by glutathione itself.[[20]](#ref20) The activity of this enzyme appears to be a major determinent of the overall GSH/GSSG ratio.[[12]](#ref12)
+
+
+
+> Glutathione exists in two forms: a reduced form (GSH) and an oxidized form (GSSG). The ratio of rGSH to GSSH is indicative of the overall oxidative state of a cell, with increasing oxidized forms (GSSG) relative to the reduced form (GSH) suggestive of a more oxidative state.
+
+
+The antioxidant enzymes that utilize glutathione to exert antioxidative effects are known as *glutathione S-transferases* (GSTs), and work by priming the glutathione molecule to donate an electron pair (known as a nucleophilic attack) and allowing this attack to reach targets that are able to accept the electrons (electrophilic targets) resulting in a transfer of electrons; this transfer itself is the antioxidative effect.[[21]](#ref21)
+
+
+GST enzymes are divided into eight distinct classes in mammals of alpha (α),[[22]](#ref22) mu (μ),[[23]](#ref23) pi (π),[[24]](#ref24) theta (θ),[[25]](#ref25) zeta (ζ),[[26]](#ref26) sigma (σ),[[27]](#ref27) omega (ω),[[27]](#ref27) and the mitochondrial kappa (κ)[[28]](#ref28)[[29]](#ref29) divided into two superfamilies of soluble GSTs located in the cytosol (with the exception of kappa)[[27]](#ref27) and microsomal GSTs collectively known as Membrane-Associated Proteins in Eicosanoid and Glutathione metabolism (MAPEG) which are associated with cellular membranes.[[30]](#ref30)
+
+
+Another group of enzymes are the *glutathione peroxidase* (GPx) enzymes which use glutathione tripeptides to reduce lipid peroxidation and hydrogen peroxide into water, with differing efficacy and targets depending on which of the eight isomers is being investigated.[[31]](#ref31) These enzymes are [selenium](/supplements/selenium/)-dependent enzymes and a reduction in their activity in the body mediates the adverse effects of selenium deficiency.[[31]](#ref31)[[32]](#ref32)
+
+
+
+> Glutathine S-transferase (GST) and gluathione peroxidase (GPx) enzymes mediate many of the antioxidative actions of glutathione.
+
+
+Beyond the usage of glutathione as substrate by its enzymes to exert antioxidant effects, it can directly modify L-cysteine residues on proteins in a process known as S-glutathionylation (or S-glutathiolation)[[33]](#ref33)[[34]](#ref34) and in general this process modifies the proteins actions and is involved in regulating transcription[[35]](#ref35) and both protein folding and degradation.[[36]](#ref36) While vital pathways, the relevance of this information of oral supplementation of either glutathione of N-acetylcysteine is unknown.
+
+
+
+> Glutathione itself can modify protein function via a process known as S-glutathionylation, which is independent of its classical antioxidant effects.
+
+
+[Back to top](#c-sources-and-composition)
+### 2Pharmacology
+
+#### 2.1Absorption
+
+
+Glutathione, due to being a small peptide molecule, is subject to hydrolysis (digestion) in the small intestines usually by *γ-glutamyltransferase* in the brush border of the jejunem[[37]](#ref37) where the enzyme predominates.[[38]](#ref38) There may also be hydrolysis post-absorption, since infusions of glutathione are mostly degraded into its constituent amino acids and increase serum L-cysteine.[[39]](#ref39)
+
+
+There appears to be a transporter for glutathione absorption in human intestinal cells[[40]](#ref40) and increases in serum[[41]](#ref41) and tissue[[42]](#ref42) glutathione have been noted with orally supplemented glutathione in rats, but overall glutathione activity in the human does not correlate with dietary glutathione.[[4]](#ref4)
+
+
+
+> Dietary or orally-ingested glutathione can be hydrolyzed into its constituent amino acids in the intestines and in serum, although there is a possibility of some of the glutathione making it into circulation via absorption from the intestines.
+
+
+#### 2.2Serum
+
+
+Oral ingestion of 3g glutathione (0.15mM/kg) solution in otherwise healthy subjects has failed to increase circulating glutathione concentrations over the course of the next 270 minutes relative to baseline[[43]](#ref43) and infusions of glutathione have noted that the increase in serum L-cysteine is approximately equivalent to the amount of L-cysteine within glutathione[[39]](#ref39)[[44]](#ref44) suggesting degradation of glutathione in serum. While one study has found oral supplementation of 1,000mg glutathione over four weeks failing to increase red blood cell stores of glutathione in otherwise healthy humans[[45]](#ref45) another study (funded by a the producer of the tested supplement, Setria®, but no conflicts of interest declared) using the same dose or a lesser 250mg dose over six months noted increases in red blood cell glutathione reaching 30-35% at peak;[[46]](#ref46) 250mg was less effective at six months relative to 1,000mg.[[46]](#ref46)
+
+
+
+> Glutathione is not stable in the blood, and whether via oral or intravenous administration, glutathione will be readily degraded into L-cysteine or other sulfur containing molecules. It is still possible for oral glutathione to increase bodily glutathione stores though, although this likely requires its degradation into L-cysteine for absorption
+
+
+#### 2.3Cellular Kinetics
+
+
+Glutathione is synthesized intracellularly, and while it can be effluxed from a cell it tends to be hydrolyzed to its constituent amino acids to then be taken back up by cells and resynthesized intracellularly into glutathione.[[18]](#ref18) *γ-glutamyl transpeptidase* cleaves the γ-glutamyl bond in glutathione producing a cysteine-glycine dipeptide and γ-glutamyl moiety which is bound to another amino acid (usually cystine, a product of two L-cysteine molecules[[47]](#ref47)) for extracellular transport, and upon reaching another tissue the γ-glutamylamino acid dipeptide is cleaved by *γ-glutamyl cyclotransferase* to free the amino acid and produce the cyclic form of glutamic acid (5-oxoproline) which is converted into [glutamine](/supplements/glutamine/) by *5-oxoprolinase*.[[48]](#ref48)[[18]](#ref18)
+
+
+Glutathione as the tripeptide, when effluxed from a cell, cannot be absorbed back into most cells intact. This leads to a basal glutathione content in serum, of which the normal range is 3.8–5.5μM[[49]](#ref49) and the half-life has been noted to be around 14.1+/-9.2 minutes.[[44]](#ref44) The cells that have been noted to be able to absorb intact glutathione include hepatocytes (HepG2[[50]](#ref50)), intestinal mucosal cells,[[51]](#ref51) and retinal cells.[[52]](#ref52)[[53]](#ref53)
+
+
+
+> Glutathione can be exported from the cells where it is synthesized, and it exists in its intact form to some degree in the blood. Most cells, however, must break it down in order to absorb it.
+
+
+#### 2.4Phase II Enzyme Interactions
+
+
+Glutathione can be conjugated to other molecules by select Phase II Enzymes; while this process is classically referred to as a detoxification process as this conjugation 'tags' the molecule for removal by the liver and kidneys[[54]](#ref54) in some cases glutathione conjugation serves to bioactive the target molecule.[[55]](#ref55) This process applies to both xenobiotics (things originating from outside the body) as well as some endogenous molecules like steroids[[56]](#ref56) and prostaglandins.[[57]](#ref57)
+
+
+These enzymes are the glutathione S-transferases (GSTs), and the conjugation reaction is similar to an antioxidation reaction where the glutathione performs a nucleophilic attack (donating a pair of electrons) to electrophilic targets in the conjugation process.[[58]](#ref58) After conjugation, it is either ejected immediately from the liver into the intestines (thus forming a fecal metabolite) or it travels to the kidneys to ultimately be excreted in the urine as an aceylated L-cysteine conjugate known as *mercapturic acid*.[[54]](#ref54)[[55]](#ref55)
+
+
+
+> Glutathione is used by glutathione S-transferase (GST) enzymes to conjugate targets. This conjugation modifies the target's structure, and while in most cases this serves a detoxifying role by aiding in the removal of the target from the body, it is implicated in a few instances of enhancing the target's actions/toxicity.
+
+
+[Back to top](#c-pharmacology)
+### 3Cardiovascular Health
+
+#### 3.1Cardiac Tissue
+
+
+In rats subject to treadmill training, oral supplementation of 5g/kg glutathione for 17 days prior to ischemia-reperfusion (IR), supplementation was protective; glutathione reduced the IR-induced increases in left ventricular systolic pressure and also increased contractility (+dP/dt) more than glutathione alone and training alone (the latter of which was not protective).[[59]](#ref59)
+
+
+[Back to top](#c-cardiovascular-health)
+### 4Inflammation and Immunology
+
+#### 4.1Virological Interactions
+
+
+Macrophages from people with HIV appear to have higher concentrations of GSSG (relative to reduced glutathione) than do macrophages from noninfected controls.[[60]](#ref60) This was thought to be related to a reduced expression of glutamine-cysteine ligase (GCLC) seen with HIV infection in macrophages.[[60]](#ref60)
+
+
+Macrophages isolated from patients with HIV on stable antiretroviral therapy and incubated with *M. tuberculosis* and 5-10μM glutathione resulted in an increase in reduced glutathione (53-93% in HIV+ and 80-83% in HIV- controls) which was only matched with [N-acetylcysteine](/supplements/n-acetylcysteine/) at 10mM.[[60]](#ref60) The difference in potency persisted when assessing lipid peroxidation (via malondialdehyde assay) and in reducing the intracellular growth of *M. tuberculosis*.[[60]](#ref60)
+
+
+[Back to top](#c-inflammation-and-immunology)
+### 5Interactions with Oxidation
+
+#### 5.1Superoxide
+
+
+Superoxide (O2-), produced when a single electron is abstracted by an oxygen molecule (O2) or as the byproduct of metabolic reactions,[[61]](#ref61) is a free radical with which both [N-acetylcysteine](/supplements/n-acetylcysteine/)[[62]](#ref62) and glutathione[[63]](#ref63)[[64]](#ref64) are able to directly and nonenzymatically react, although the rate constants for such reactions are poor (and so they are low potency antioxidants in this case). 
+
+
+The formation of superoxide is a common first stage in oxidant production since O2 is able to transverse membranes easily (similar to H2O2 but not O2-)[[65]](#ref65) and since O2 is ubiquitously required in metabolic reactions.[[61]](#ref61)
+
+
+The enzymes that utilize glutathione to exert enzymatic antioxidant effects (the peroxidases and S-transferases) also do not appear to have potent antioxidant effects on this radical, and endogenous sequesteration of O2- tends to be handled by the *superoxide dismutase* (SOD) enzymes which convert O2- into hydrogen peroxide (H2O2).[[66]](#ref66)[[67]](#ref67)
+
+
+
+> Superoxide (O2-) is one of the basic free radicals that can exert oxidative effects in the cell, and is usually handled by the enzyme *superoxide dismutase*, which converts it into hydrogen peroxide for glutathione to then reduce; glutathione and its enzymes do not have much antioxidative potential in directly reducing superoxide.
+
+
+#### 5.2Hydrogen Peroxide
+
+
+The superoxide radical is converted to hydrogen peroxide (H2O2) by *superoxide dismutase* (SOD), and once this occurs the enzyme *glutathione peroxidase* (GPx) is able to reduce it to H2O via utilization of two glutathione tripeptides (and formation of GSSG afterwards).[[68]](#ref68) H2O2 may also be produced as a byproduct in aerobic metabolic reactions.[[61]](#ref61)[[69]](#ref69)
+
+
+The antioxidant enzyme *catalase* also removes H2O2 by decomposing it into into water and oxygen.[[70]](#ref70) Catalase and GPx act cooperatively, as H2O2 can inactivate catalase at high concentrations[[71]](#ref71)[[72]](#ref72) and this inactivation appears to be protected against by GPx.[[73]](#ref73)
+
+
+
+> Glutathione, utilized by the GPx enzymes, has a role alongside catalase in reducing potential buildups of the oxidant known as hydrogen peroxide (H2O2). These enzymes can reduce the hydrogen peroxide back into water (or water and oxygen in the case of catalase).
+
+
+#### 5.3Hydroxyl
+
+
+The hydroxyl radical (OH•, the neutral form of hydroxide which is OH-) is a potent radical produced when O2- reacts with iron via a Fenton reaction, and unlike O2- and H2O2 which are mild and reversible oxidants OH• is an irreversible modifer of protein structures.[[74]](#ref74) Hydroxyl is thought to mediate many of the more adverse effects of elevated H2O2 concentrations in a cell such as the subsequent DNA damage.[[75]](#ref75)[[76]](#ref76)
+
+
+[Back to top](#c-interactions-with-oxidation)
+### 6Peripheral Organ Systems
+
+#### 6.1Intestines
+
+
+Inflammatory bowel diseases, including ulcerative colitis[[77]](#ref77) and Crohn's disease.[[78]](#ref78), are characterized by increases in oxidative stress and simultaneous reductions in oxidative defenses such as glutathione concentrations.[[79]](#ref79) As glutathione is the major nonenzymatic antioxidant in gastrointestinal tissue[[80]](#ref80) and since measures that preserve glutathione tend to reduce inflammation and oxidative stress in animal models of these disease states[[81]](#ref81) glutathione has been investigated as a therapeutic agent.
+
+
+In rats, an injection of glutathione (200mg/kg) an hour before induction of colitis via trinitrobenzensulphonic acid (TNBS) appeared to exert protective effects relative to saline, whereas 50mg/kg glutathione (injections) daily for eight weeks after colitis was induced was noted to nearly ablate the alterations in lipid peroxidation and inflammation.[[82]](#ref82)
+
+
+In humans on mesalamine therapy and then given additional 800mg of N-acetylcysteine (which can restore glutathione levels) or placebo, the protective effect with combination therapy was both mild and failed to reach statistical significance.[[83]](#ref83)
+
+
+#### 6.2Male Sex Organs
+
+
+Male infertility is a state characterized by excessive oxidative stress which suggests a possible therapeutic role of antioxidants in general.[[84]](#ref84) In particular, a glutathione peroxidase deficiency (via [selenium](/supplements/selenium/) deficiency, since the enzyme requires it) appears to result in defective motility and morphology by affecting the midpiece of the spermatozoon (the section between its head and tail).[[85]](#ref85)[[86]](#ref86)
+
+
+Glutathione's therapeutic effect was confirmed in one study using 600mg glutathione as intramuscular injection which yielded improved sperm motility.[[87]](#ref87) This specific benefit (improved motility) has also been noted *in vitro* with N-acetylcysteine[[88]](#ref88) and with 600mg NAC daily in infertile men over the course of three months.[[89]](#ref89)
+
+
+
+> Injections of glutathione may improve male fertility by improving the morphology and motility of sperm. This effect has also been noted in preliminary studies using oral supplementation of N-acetylcysteine; no studies on oral supplementation of glutathione have been conducted to date.
+
+
+[Back to top](#c-peripheral-organ-systems)
+### 7Longevity and Life Extension
+
+#### 7.1Rationale
+
+
+Glutathione content is reduced in cells during the aging process even in the absence of disease,[[90]](#ref90)[[91]](#ref91)[[92]](#ref92) resulting in a more oxidative state.[[93]](#ref93) At least in aging rats, the cause for this appears to be related to reduced synthetic capacities of the second step of glutathione anabolism (catalyzed by *glutathione synthetase*[[94]](#ref94)) with no alterations in its metabolism by *γ-glutamyltranspeptidase* or restoration into an antioxidant by *glutathione reductase*,[[94]](#ref94) although this mechanism has not been explored in humans.
+
+
+It has been established, however, that the glutathione synthesis rate (fractional and absolute) in elderly humans is lower relative to youthful controls.[[95]](#ref95) This decrease could be associated with a reduction in whole-body protein turnover seen in aging,[[96]](#ref96)[[97]](#ref97) which would decrease pools of glycine and cysteine for use in glutathione synthesis.[[95]](#ref95) Indeed, red blood cell glutathione levels, as well as its constituent amino acids L-cysteine and [glycine](/supplements/glycine/) (not glutamate), have been noted to be reduced in the elderly relative to youth,[[95]](#ref95) and oral supplementation of [N-acetylcysteine](/supplements/n-acetylcysteine/) (100mg/kg of L-cysteine) and glycine (100mg/kg) was noted to restore glutathione concentrations by 94.6% within two weeks restoring levels and the synthesis rates of glutathione to those seen in youth.[[95]](#ref95)
+
+
+Insufficient dietary intake of protein may also account for reduced glutathione levels, however, as reduced glutathione synthesis and turnover can be induced in healthy non-elderly adults by limiting dietary protein[[98]](#ref98) or just the sulfur-containing amino acids found in dietary protein.[[99]](#ref99)
+
+
+
+> Glutathione appears to be reduced in the elderly when compared to youthful controls, even if there are no apparent disease states. Orally ingesting precursor amino acids of glutathione (L-cysteine and glycine) can restore glutathione levels to those seen in youthful controls fairly rapidly.
+
+
+[Back to top](#c-longevity-and-life-extension)
+### 8Effects on Aesthetics
+
+#### 8.1Skin
+
+
+Glutathione supplements are commonly used for the purpose of lightening skin tone for aesthetic purposes. There are various proposed mechanisms for its role, largely revolving around its interactions with tyrosinase, an early step in melanin synthesis.[[100]](#ref100) Such proposed mechanisms include chelation of tyrosinase's copper site, interference with the cellular transfer of tyrosinase to premelanosomes, causing the increased synthesis of the lighter red/yellow phaeomelanin and less eumelanin, or scavenging peroxides from ultraviolet radiation, which induce tyrosinase activity.
+
+
+There have been a handful of trials that assessed the effects of glutathione on skin pigmentation and may provide insights.[[101]](#ref101) They are discussed below.
+
+
+In a randomized, double-blind, placebo-controlled trial, 60 participants (23 with Fitzpatrick scale phototype of II, 26 with III, 10 with IV and 1 with V) were allocated to take 500 mg of glutathione or placebo daily for 4 weeks.[[102]](#ref102) Some areas of the body were frequently exposed to the sun, and some were protected from the sun. Melanin index was reduced more in the glutathione group than the placebo group, but the differences weren't statistically significant except for the right side of the face and the left forearm (2 out of 6 areas). There was a possible role of sun exposure in reducing sun-induced melanin synthesis, but it was difficult to determine with confidence. The study provided some weak evidence for a sun-independent effect as well, with effects seen in sun-protected areas. There was a modest, statistically significant difference in the number of UV spots (placebo group increased, glutathione group didn't see increases or saw smaller increases), and a small nonsignificant increase in evenness and reduction in pore size in the glutathione group.
+
+
+In another randomized, double-blind, placebo-controlled trial, 30 female participants with Fitzpatrick scale type III (6 participants) or IV (24 participants) were allocated to use a lotion containing 2% glutathione or a placebo lotion (0.5 g spread evenly on half of the face) for 10 weeks.[[103]](#ref103) Participants were advised to avoid sun exposure. The glutathione group saw a statistically significant reduction in Melanin Index compared with the placebo lotion that continued each week for the entire 10 weeks of the study. There was a small increase in skin moisture compared with placebo that was statistically significant at weeks 8 and 9. Wrinkles increase slightly in both groups at week 6 and afterward, but the glutathione group returned to baseline at week 10, while the placebo group didn't, the difference being statistically significant at 10 weeks. Skin smoothness was also significantly improved after week 6 in the glutathione group.
+
+
+In an open-label, uncontrolled trial, 34 healthy women with Fitzpatrick scale ratings of 4 or 5 were given 500 mg of glutathione in lozenge form for 8 weeks. There was a designated sun-exposed area (extensor surface of the right wrist) and a sun-protected area (mid-sternum). There were statistically significant reductions in Melanin Index for both sun-exposed and sun-protected areas relative to baseline
+
+
+In a randomized, double-blind, placebo-controlled trial 60 healthy participants, almost all with Fitzpatrick scale type IV skin pigmentation, were allocated into equal groups to take 250 mg of reduced glutathione, 250 mg of oxidized glutathione, or placebo for 12 weeks.[[104]](#ref104) The glutathione groups both tended to have lower Melanin Index scores than the placebo group at the end of the trial for all spots on the face and arms, both sun-exposed and sun-protected, but the differences weren't statistically significant. There was a significant reduction in the sun-exposed right arm area in participants aged >40, but not for the other areas. There were some significant reductions in wrinkles and increases in moisture content and elasticity, but they were inconsistent across body parts, though generally favoring glutathione. There were no notable differences in adverse events between groups.
+
+
+
+> Overall, glutathione seems to have an inherent, mild, skin-lightening effect in people with dark skin that's independent of UV-exposure in the short-term, while it's not yet clear the extent to which it causes lightening when used for more than a few months. It's currently not possible to determine the extent of the role of its antioxidant effects in reducing melanin synthesis in response to UV radiation, though there is some suggestive evidence that it does this too. High doses may inherently impair melanin synthesis or lead to the greater synthesis of phaeomelanin (lighter) and less synthesis of eumelanin, which may reduce photoprotection. There may be some modest improvements in measures of skin quality such as wrinkles, moisture, and elasticity, but much more research is needed.
+
+
+[Back to top](#c-effects-on-aesthetics)
+### 9Other Medical Conditions
+
+#### 9.1Autism
+
+
+Glutathione metabolism has been investigated in autistic people, as autism is associated with elevated oxidative metabolites such as malondialdehyde (MDA)[[105]](#ref105)[[106]](#ref106) and reduced mineral-chelating proteins such as ceruloplasma and transferrin (leading to more free minerals, which is known to contribute to oxidative stress), [[105]](#ref105) suggesting that the overall bodily state of autistic children is more prooxidative than antioxidative.[[107]](#ref107)
+
+
+Plasma glutathione[[108]](#ref108) and the reduced form thereof[[109]](#ref109)[[108]](#ref108)[[110]](#ref110) are low in autistic children relative to control and oxidized glutathione is higher.[[111]](#ref111) There are no alterations in the activity of *glutathione reductase* between autistic children and controls[[110]](#ref110) although *glutathione peroxidase* has mixed evidence (suppressed[[112]](#ref112) and elevated[[113]](#ref113) both being noted) and the GSSG:GSH ratio (usually indicative of the activity of *glutathione reductase*[[19]](#ref19)) is also elevated, indicative of more oxidation, compared to controls.[[110]](#ref110)
+
+
+
+> Autism, overall, is a state characterized by excessive oxidative stress relative to controls without autism. As glutathione is the major antioxidant system in the body, the perturbations in whole-body antioxidant status extends to the glutathione system, which appears to be less active in autistic children relative to controls.
+
+
+One study in autistic children using either oral (lipid soluble glutathione at 50-200mg per 30lbs bodyweight twice daily in increasing doses) or transdermal (135-405mg in three divided doses in increasing doses) glutathione supplementation noted insignificant increases in total glutathione in both therapies and an increase in reduced glutathione in the serum of the oral group;[[49]](#ref49) while the study measured baseline autistic severity, the measurement was not repeated post-treatment.[[49]](#ref49)
+
+
+[Back to top](#c-other-medical-conditions)
+### 10Nutrient-Nutrient Interactions
+
+#### 10.1Alpha-lipoic acid
+
+
+[Alpha-lipoic acid](/supplements/alpha-lipoic-acid/) (ALA) is an antioxidant thiol produced in mitochondria from octanoic acid and used as both a REDOX antioxidant (having both an oxidized and reduced form) and mitochondrial enzymatic cofactor.[[114]](#ref114) Although it shares similarities with glutathione in being a sulfur-containing antioxidant, unlike glutathione it can be absorbed intact from the intestines and may influence the body as a dietary supplement.[[115]](#ref115)
+
+
+ALA appears to have a role in promoting the synthesis of glutathione. Glutathione cannot be transferred between cells intact; instead, L-cystine is transported between cells to provide L-cysteine for glutathione synthesis.[[18]](#ref18) Since L-cystine is an oxidative product of L-cysteine (two oxidized L-cysteine molecules bound together) ALA can reduce L-cystine into two L-cysteine amino acids, and thereby increase glutathione synthesis by liberating its precursor,[[116]](#ref116) which is the substrate needed for the rate-limiting step in glutathione synthesis.[[18]](#ref18) Furthermore, GSSG (the oxidized form of glutathione) can be directly reduced back into GSH via reduced alpha-lipoic acid[[117]](#ref117) which in turn becomes its oxidized form (dihydrolipoic acid). This general supportive role of ALA in glutathione activity has been noted in variety of cell lines[[18]](#ref18)[[118]](#ref118)[[117]](#ref117)[[119]](#ref119) and appears to occur *in vivo* with 16mg/kg ALA in rats.[[118]](#ref118)
+
+
+
+> Alpha-lipoic acid can reduce oxidized glutathione, thereby enhancing and preserving glutathione's actions in a cell.
+
+
+#### 10.2Citrulline
+
+
+[L-citrulline](/supplements/citrulline/) is an amino acid that often is used to increase nitric oxide (NO) levels, a potent vasodilator and popular target with pre-workout supplementation. To form NO, [L-arginine](/supplements/arginine/) is combined with oxygen by the nitric oxide synthase (NOS) enzyme. The problem with L-arginine is that after oral ingestion, a significant amount is broken down in the liver before it ever gets to the blood stream. L-citrulline is a byproduct of NO synthesis that can be converted back into arginine through the arginine-citrulline cycle. [[120]](#ref120) For this reason, L-citrulline is a more efficient way to increase blood L-arginine.[[121]](#ref121) 
+
+
+To examine whether glutathione may potentiate NO signaling, 200 mg/day glutathione alongside-2 g/day L-citrulline was tested in a human randomized, controlled trial.[[121]](#ref121) Although increased cGMP levels were observed but did not reach statistical significance, the citrulline and glutathione combo did increase nitrate and nitrite levels more than citrulline alone. Since nitrate and nitrite are substrates for NO synthesis and markers for increased activity of the NO pathway, this indicated that L-citrulline and glutathione supplementation could promote NO production to a greater extent than L-citrulline alone.[[121]](#ref121) 
+
+
+
+> Taking glutathione alongside [citrulline](/supplements/citrulline/) may potentiate nitric oxide (NO) signaling. The mechanism by which this occurs is not yet clear, but may involve prolonged life of NO in the blood stream due to the presence of glutathione.
+
+ 
+
+
