@@ -34,3 +34,9 @@ jobs:
       # Runs a single command using the runners shell
       - name: Scrape
         run: python scrape.py
+        
+      - name: Push
+        run: |
+          git add .
+          git commit -sam "Updated supplements automatically!" || true
+          git push || true
