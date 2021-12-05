@@ -20,6 +20,8 @@ jobs:
         
       - name: Push
         run: |
+          git config --global user.email "scraper@examinescraper.com"
+          git config --global user.name "examinescraper"
           git add .
           git commit -sam "Updated supplements automatically!" || true
           git push || true
