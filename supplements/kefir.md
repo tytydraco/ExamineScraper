@@ -125,7 +125,28 @@ Based on these three small studies, drinking kefir regularly may benefit your or
 
 
 [Back to top](#c-oral-health)
-### 5Weight loss
+### 5Cardiovascular health
+
+#### 5.1Blood pressure
+
+
+There's limited evidence that kefir may help decrease blood pressure. Two small studies of people with metabolic syndrome noted a modest decrease in systolic and diastolic blood pressure, although it wasn't significantly different than milk control in one trial.[[24]](#ref24)[[31]](#ref31) 
+
+
+#### 5.2Framingham score
+
+
+One study of 48 people with metabolic syndrome measured the [Framingham Score](/topics/framingham-score/), which is an estimate of an individual's 10-year cardiovascular risk. The Framingham Risk Score was lowered in the kefir group, compared to yogurt control, but the level of high-sensitivity C-reactive protein ([hs-CRP](/topics/hscrp/), a measure of inflammation that may indicate increased risk of cardiovascular disease) was unchanged.[[31]](#ref31) 
+
+
+#### 5.3C-reactive protein
+
+
+C-reactive protein is a measure of inflammation that may indicate increased risk of cardiovascular disease. There are two tests for [C-reactive protein](/topics/c-reactive-protein/). They both measure the same protein, but one test is more sensitive and is called *high-sensitivity C-reactive protein* ([hs-CRP](/topics/hscrp/)). Two clinical trials of kefir have measured hs-CRP, and neither found any effect from kefir consumption.[[24]](#ref24)[[31]](#ref31) Three clinical trials of kefir measured C-reactive protein: one of patients with [IBD](/topics/ibd/), one of endurance athletes, and one of healthy overweight subjects. Levels of CRP in the first two would be expected to reflect inflammation from IBD and exercise respectively. The participants' CRP levels in the trial with overweight participants could be relevant to cardiovascular health, but that trial didn't find any effect.
+
+
+[Back to top](#c-cardiovascular-health)
+### 6Weight loss
 
 There's been one human clinical trial focused on kefir and weight loss. In that small study, overweight and obese women who drank kefir lost more weight than control (2.4 kg vs. 1 kg), but didn't lose significantly more than those who drank unfermented low-fat milk (2.1 kg). The study found similar results for waist circumference, which decreased by 2.1 cm for those who drank kefir, 2.0 cm for milk, and .9 cm for control. However, other small studies which happened to track waist circumference and weight didn't find any effect.[[11]](#ref11)[[24]](#ref24)[[31]](#ref31)
 
@@ -136,20 +157,17 @@ Several studies whose main outcome wasn't weight loss did track related body mea
 People who want to lose weight often look to reduce appetite. There's no evidence that kefir will have any effect for healthy people here. Chemotherapy patients who took kefir were more likely to have reduced appetite, but a study of healthy overweight people found no effect on appetite.[[32]](#ref32)[[9]](#ref9)
 
 
-To sum all this up, drinking kefir isn't likely to help with weight loss or body composition. Increasing low-fat dairy, if you're able to keep total calories the same, may lead to a small (~1 kg) loss over several months, but the dairy doesn't have to be kefir.[[11]](#ref11)
+To sum all this up, drinking kefir isn't likely to help with weight loss or body composition. Increasing low-fat dairy, if you're able to keep total calories the same, may lead to a small (~1 kg) loss over several months, but the dairy doesn't have to be kefir.[[11]](#ref11) There is one unfortunate exception: patients undergoing chemotherapy for colorectal cancer were more likely to experience negative side effects, including weight loss, if they took kefir.[[9]](#ref9)
 
 
 [Back to top](#c-weight-loss)
-### 6Inflammation
+### 7Inflammation
 
 ⓘ This section is in development. More coming soon.
 
 
-Five clinical trials of kefir measured [C-Reactive protein](/topics/c-reactive-protein/), an inflammatory biomarker for heart disease and arterial plaque, or *high-sensitivity C-reactive protein* ([hs-CRP](/topics/hscrp/)), and didn't find a significant difference from control.[[23]](#ref23)[[32]](#ref32)[[33]](#ref33)[[24]](#ref24)[[31]](#ref31)
-
-
 [Back to top](#c-inflammation)
-### 7Diabetes
+### 8Diabetes
 
 There is limited evidence to suggest that kefir consumption may help with a modest reduction in [fasting glucose](/topics/fasting-glucose/) and [HbA1c](/topics/hba1c/) in people with type 2 diabetes.
 
@@ -161,75 +179,84 @@ It's important to note that the reductions in fasting glucose and HbA1c weren't 
 
 
 [Back to top](#c-diabetes)
-### 8Lipid profile
+### 9Glycemic control
+
+A 2021 meta-analysis examined six RCTs, with a total of 323 participants, which used [fasting glucose](/topics/fasting-glucose/) (FBS)(N=323), *hemoglobin A1c* (glycated hemoglobin, [HbA1c](/topics/hba1c/))(N=271), and/or [insulin](/topics/insulin/) (n=169) as indicators of glycemic control. The patient groups in the six studies were homogenous (diabetic in 3 studies). The meta-analysis found that the pooled kefir treatment group had significantly lower fasting glucose compared to control (mean reduction -10.3), with a high degree of concordance between the six studies; significantly lower insulin compared to control (mean reduction -2.9), with low concordance between three studies; but did not have significantly lower HbA1c compared to control, with low concordance between three studies.
+
+
+At least 50% of the trials were assessed as having an unclear risk of bias in four of the seven domains of the risk of bias assessment. The considerable levels of heterogeneity, the relatively small number of trials, and unclear risk of bias in most of the trials reduce our confidence in the results.[[36]](#ref36)
+
+
+[Back to top](#c-glycemic-control)
+### 10Lipid profile
 
 Several human clinical trials have measured kefir's effect on serum lipids, whether as primary, secondary or experimental endpoints. While these are small trials, the preponderance of the evidence suggests that kefir has little effect on the lipid profile, with the exception of non-HDL cholesterol (total cholesterol minus HDL cholesterol).
 
 
-#### 8.1LDL
+#### 10.1LDL
 
 
 The evidence is mixed but leans toward no effect. 2 human clinical trials found LDL decreased in kefir group, but the decrease in one of these trials was similar to that seen with milk. [[11]](#ref11)[[31]](#ref31) However, 6 studies found no effect.
 
 
-#### 8.2HDL
+#### 10.2HDL
 
 
-The evidence is mixed but leans toward no effect. Six studies found no effect on HDL.[[22]](#ref22)[[11]](#ref11)[[24]](#ref24)[[35]](#ref35)[[36]](#ref36)[[34]](#ref34) One study saw an increase, but only in female particpants.[[37]](#ref37) And one study saw a decrease, but saw the same decrease for the milk group.[[32]](#ref32)
+The evidence is mixed but leans toward no effect. Six studies found no effect on HDL.[[22]](#ref22)[[11]](#ref11)[[24]](#ref24)[[35]](#ref35)[[37]](#ref37)[[34]](#ref34) One study saw an increase, but only in female particpants.[[38]](#ref38) And one study saw a decrease, but saw the same decrease for the milk group.[[32]](#ref32)
 
 
-#### 8.3Triglycerides
+#### 10.3Triglycerides
 
 
-The evidence leans toward no effect. Only one study found a decrease in triglycerides.[[31]](#ref31) Seven other studies found no effect.[[24]](#ref24)[[32]](#ref32)[[35]](#ref35)[[22]](#ref22)[[11]](#ref11)[[36]](#ref36)
+The evidence leans toward no effect. Only one study found a decrease in triglycerides.[[31]](#ref31) Seven other studies found no effect.[[24]](#ref24)[[32]](#ref32)[[35]](#ref35)[[22]](#ref22)[[11]](#ref11)[[37]](#ref37)
 
 
-#### 8.4Non-HDL cholesterol
+#### 10.4Non-HDL cholesterol
 
 
 Kefir may have a lowering effect on non-HDL cholesterol, based on two studies that measured non-HDL cholesterol as a secondary/experimental endpoint. Both studies found a decrease in the kefir group, but evidence is mixed on whether the effect is kefir-specific or just due to the dairy content: One study saw the same reduction in non-HDL cholesterol in its milk group as in its kefir group, but the other saw a reduction in the kefir group and not in its yogurt group.[[11]](#ref11)[[31]](#ref31)
 
 
-#### 8.5Total cholesterol
+#### 10.5Total cholesterol
 
 
-Kefir doesn't appear to have an effect on total cholesterol. No effect was seen in any of the 8 clinical trials of kefir that measured total cholesterol.[[24]](#ref24)[[32]](#ref32)[[35]](#ref35)[[22]](#ref22)[[11]](#ref11)[[36]](#ref36)[[34]](#ref34)[[31]](#ref31)
+Kefir doesn't appear to have an effect on total cholesterol. No effect was seen in any of the 8 clinical trials of kefir that measured total cholesterol.[[24]](#ref24)[[32]](#ref32)[[35]](#ref35)[[22]](#ref22)[[11]](#ref11)[[37]](#ref37)[[34]](#ref34)[[31]](#ref31)
 
 
 [Back to top](#c-lipid-profile)
-### 9 Other body systems
+### 11 Other body systems
 
-#### 9.1 Kidneys
-
-
-This review didn't find any clinical trials designed to study kefir's effect on the kidneys. [Creatinine](/topics/creatinine/), a metabolic byproduct of creatine, is sometimes used as a biomarker for kidney damage. Creatinine levels weren't a primary outcome for any study, but the 4 clinical trials of kefir which measured creatinine found no effect.[[38]](#ref38)[[31]](#ref31)[[36]](#ref36)[[34]](#ref34)
+#### 11.1 Kidneys
 
 
-#### 9.2Liver
+This review didn't find any clinical trials designed to study kefir's effect on the kidneys. [Creatinine](/topics/creatinine/), a metabolic byproduct of creatine, is sometimes used as a biomarker for kidney damage. Creatinine levels weren't a primary outcome for any study, but the 4 clinical trials of kefir which measured creatinine found no effect.[[39]](#ref39)[[31]](#ref31)[[37]](#ref37)[[34]](#ref34)
 
 
-This review didn't find any clinical trials designed to study kefir's effect on the liver. However, several clinical trials of kefir measured liver enzymes and found no significant effect, with the exception of a single trial that found that ALT levels decreased by 13 U/L in kefir+exercise group.[[24]](#ref24)[[38]](#ref38)[[36]](#ref36)[[31]](#ref31)
+#### 11.2Liver
+
+
+This review didn't find any clinical trials designed to study kefir's effect on the liver. However, several clinical trials of kefir measured liver enzymes and found no significant effect, with the exception of a single trial that found that ALT levels decreased by 13 U/L in kefir+exercise group.[[24]](#ref24)[[39]](#ref39)[[37]](#ref37)[[31]](#ref31)
 
 
 [Back to top](#c--other-body-systems-)
-### 10Kefir as a sports drink
+### 12Kefir as a sports drink
 
 ⓘ This section is in development. More coming soon.
 
 
 [Back to top](#c-kefir-as-a-sports-drink)
-### 11Kefir as complementary therapy
+### 13Kefir as complementary therapy
 
 A few human trials have looked at how kefir performs as an add-on to established clinical therapies. It performed well for [H. pylori infection](/topics/helicobacter-pylori-infection/), reducing side effects and increasing cure rate[[27]](#ref27), but is not recommended for patients undergoing chemotherapy.[[9]](#ref9)
 
 
-#### 11.1For stomach ulcers
+#### 13.1For stomach ulcers
 
 
 In a study of 80 patients undergoing "triple therapy" drug treatment for [H. pylori infection](/topics/helicobacter-pylori-infection/) (i. e. a *proton pump inhibitor* (PPI) plus two antibiotics), the patients given kefir had a significantly higher *H. pylori* eradication rate (78% vs 50%) 45 days after starting treatment, and reported significantly less occurrence of the adverse effects diarrhea, headache, nausea, and abdominal pain at follow-up.[[27]](#ref27)
 
 
-#### 11.2For chemotherapy
+#### 13.2For chemotherapy
 
 
 There have been two small human trials of kefir during 5-FU chemotherapy for colorectal cancer. One study found that kefir made the chemo’s side effects notably worse.[[9]](#ref9) The other study, which focused specifically on the side effect of oral mucositis, found that kefir didn't make a significant difference in the incidence of oral mucositis.[[21]](#ref21)
