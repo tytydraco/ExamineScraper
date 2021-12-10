@@ -190,7 +190,7 @@ At least 50% of the trials were assessed as having an unclear risk of bias in fo
 [Back to top](#c-glycemic-control)
 ### 10Lipid profile
 
-Several human clinical trials have measured kefir's effect on serum lipids, whether as primary, secondary or experimental endpoints. While these are small trials, the preponderance of the evidence suggests that kefir has little effect on the lipid profile, with the exception of non-HDL cholesterol (total cholesterol minus HDL cholesterol).
+Several human clinical trials have measured kefir's effect on serum lipids, whether as primary, secondary or experimental endpoints. While these are small trials, the preponderance of the evidence suggests that kefir has little effect on the lipid profile, with the possible exception of non-HDL cholesterol (total cholesterol minus HDL cholesterol).
 
 
 #### 10.1LDL
@@ -236,6 +236,12 @@ This review didn't find any clinical trials designed to study kefir's effect on 
 
 
 This review didn't find any clinical trials designed to study kefir's effect on the liver. However, several clinical trials of kefir measured liver enzymes and found no significant effect, with the exception of a single trial that found that ALT levels decreased by 13 U/L in kefir+exercise group.[[24]](#ref24)[[39]](#ref39)[[37]](#ref37)[[31]](#ref31)
+
+
+#### 11.3Bone health
+
+
+One clinical trial examined kefir's effect on bone mineral density. The average bone mineral density increased in both control and kefir groups, but the difference between control and kefir wasn't significant. The study took blood samples before, during and after the intervention, and found weak evidence for some differences between the kefir group and the control group. However, a lot of irregularities in how this study was registered, analyzed, and reported, coupled with a large loss to follow-up, make this study very weak evidence for any beneficial effects of kefir. Future research is needed to explore this issue.[[40]](#ref40)
 
 
 [Back to top](#c--other-body-systems-)
