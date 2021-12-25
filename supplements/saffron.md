@@ -406,11 +406,11 @@ The LD50 of saffron petal and stigma extracts in mice via injections are 6g/kg a
 Supplementation of saffron at doses higher than normal (200mg) in humans has been associated with some alterations in blood and hemodynamic parameters that, while statistically significant, where not of large enough magnitude to be considered adverse, although abnormal uterine bleeding was found in two women at doses of 200-400mg.[[29]](#ref29) Doses of 1,200-2,000mg saffron in humans can acutely cause symptoms such as nausea, vomiting, diarrhea, and bleeding.[[62]](#ref62)
 
 
-More prolonged supplementation (26 weeks) with 60mg saffron daily in men was associated with reductions in red and white blood cell counts as well as platelets, along with a drop in systolic and diastolic blood pressure of 10.8-11.7% and complaints of sedation, hypomania, and changes in appetite which started to occur after 8 weeks of exposure and increased in magnitude as the study proceded.[[33]](#ref33)
+More prolonged supplementation (26 weeks) with 60 mg saffron extract daily in men was associated with reductions in red and white blood cell counts as well as platelets, along with a drop in systolic and diastolic blood pressure of 10.8-11.7% and complaints of sedation, hypomania, and changes in appetite which started to occur after 8 weeks of exposure and increased in magnitude as the study proceded.[[33]](#ref33)
 
 
 
-> Saffron appears to be well-tolerated acutely at the normal doses (30mg daily), whereas higher doses for more prolonged periods can induce adverse effects.
+> Saffron extract appears to be well-tolerated acutely at the normal doses (30mg daily), whereas higher doses for more prolonged periods can induce adverse effects.
 
  
 
