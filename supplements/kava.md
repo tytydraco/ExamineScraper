@@ -101,7 +101,7 @@ Although the kavapyrone *Kavain* does not alter viability of neurons at rest in 
 #### 3.2GABAergic signalling
 
 
-Despite possessing a similar phenotype to many sedatives, Kavapyrones are weak activators of GABA(A) and GABA(B) receptors[[23]](#ref23) although they appear to enhance GABA(A) signalling vicariously through other ligands, by increasing the amount of binding sites.[[24]](#ref24) These effects appear to be mostly mediated through the kavapyrone known as dihydromethysticin, with methysticin having less potent effects and others having no effects on sedation.[[12]](#ref12)
+Despite having similar effects to many sedatives, kavapyrones are weak activators of GABA(A) and GABA(B) receptors[[23]](#ref23) although they appear to enhance GABA(A) signalling vicariously through other ligands, by increasing the amount of binding sites.[[24]](#ref24) These effects appear to be mostly mediated through the kavapyrone known as dihydromethysticin, with methysticin having less potent effects and others having no effects on sedation.[[12]](#ref12)
 
 
 When injected into rats, as little as 20mg/kg mixed kavalactones is able to induce sedative effects[[12]](#ref12) and interactions with the GABA receptors appear to not be the cause for anti-anxiety effects of Kava, as coingestion with benzodiazepine blockers fail to abolish the effects of Kava on anxiety as assessed by time spent in the Open Arms test in rats.[[16]](#ref16)

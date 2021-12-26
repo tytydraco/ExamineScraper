@@ -1898,7 +1898,7 @@ Creat*ine* is normally metabolized into creat*inine* (note the difference in spe
 
 
 
-> Kidney damage (from anything) will cause high levels of creatinine in blood, and creatine can also increase blood creatinine levels in a manner that is *not* due to damaging the kidneys. This results in a false positive when trying to diagnose kidney damange when the subject also supplements creatine, and does not signify any actual damage to the kidneys.
+> Kidney damage (from anything) will cause high levels of creatinine in blood, and creatine can also increase blood creatinine levels in a manner that is *not* due to damaging the kidneys. This results in a false positive when trying to diagnose kidney damage when the subject also supplements creatine, and does not signify any actual damage to the kidneys.
 
  
 
