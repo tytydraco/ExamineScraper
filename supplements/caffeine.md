@@ -16,7 +16,7 @@ Caffeine is commonly found in:
 
 
 * [Coffee](/supplements/coffee/)
-* Various leaves made into tea, such as [Camellia Sinensis](/supplements/tea-camellia-sinensis/) (Green Tea)
+* Various leaves made into tea, such as [Camellia Sinensis](/supplements/tea/) (Green Tea)
 * Cacao and Cocoa (chocolates)
 * [Paullinia cupana](/supplements/paullinia-cupana/) (Guarana)[[4]](#ref4)
 * [Yerba Mate](/supplements/yerba-mate/)[[5]](#ref5)
