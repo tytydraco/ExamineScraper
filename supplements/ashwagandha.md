@@ -575,7 +575,7 @@ Studies in humans include two where an 'ayurveda' control group consisting of a 
 #### 5.15Obsession and Addiction
 
 
-At least one study has suggested that Withania Somnifera (Ashwagandha) can help with Obsessive-Compulsive Disorder.[[172]](#ref172) Based on the assumption that Ashwagandha has traditionally been used to cure 'mood disturbances', a study was conducted on mouse marble-burying behaviour (an established research model for OCD[[176]](#ref176)) and found that 10-100mg/kg bodyweight ethanolic extract of Withania Somnifera was able to reduce OCD-like symptoms; with 25 and 50mg/kg being seen as best, as 10mg/kg was statistically ineffective and 100mg/kg associated with sedation (the anti-OCD effects still held true, but sedation was suggestive of impairment and lowered internal validity somewhat).[[172]](#ref172) Ashwagandha was about as effective at 10mg/kg as Fluoxetine at 5mg/kg bodyweight (both dosed too low to be significantly different than control) yet the combination of the two abolished OCD-like behaviour while pairing Ashwagandha with ritanserin (a serotonergic antagonist) negated the benefits of both; suggesting Ashwagandha benefits OCD via serotonergic mechanisms.[[172]](#ref172)
+A study has suggested that Withania Somnifera (Ashwagandha) can help with Obsessive-Compulsive Disorder.[[172]](#ref172) Based on the assumption that Ashwagandha has traditionally been used to cure 'mood disturbances', a study was conducted on mouse marble-burying behaviour (an established research model for OCD[[176]](#ref176)) and found that 10-100mg/kg bodyweight ethanolic extract of Withania Somnifera was able to reduce OCD-like symptoms; with 25 and 50mg/kg being seen as best, as 10mg/kg was statistically ineffective and 100mg/kg associated with sedation (the anti-OCD effects still held true, but sedation was suggestive of impairment and lowered internal validity somewhat).[[172]](#ref172) Ashwagandha was about as effective at 10mg/kg as Fluoxetine at 5mg/kg bodyweight (both dosed too low to be significantly different than control) yet the combination of the two abolished OCD-like behaviour while pairing Ashwagandha with ritanserin (a serotonergic antagonist) negated the benefits of both; suggesting Ashwagandha benefits OCD via serotonergic mechanisms.[[172]](#ref172)
 
 
 
@@ -1529,7 +1529,7 @@ In a subchronic toxicity study using a 10:1 ratio of [Panax Ginseng](/supplement
 #### 20.2Case studies
 
 
-At least one confirmed case has established causation with ashwagandha at 5g oral ingestion daily for 10 days (a treatment dosage for libido) caused a burning/itching sensation on the penis mucous membrane, and slight discoloration and reddening of the head and prepuce.[[307]](#ref307)
+One confirmed case has established causation with ashwagandha at 5g oral ingestion daily for 10 days (a treatment dosage for libido) caused a burning/itching sensation on the penis mucous membrane, and slight discoloration and reddening of the head and prepuce.[[307]](#ref307)
 
  
 
