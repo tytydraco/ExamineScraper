@@ -73,7 +73,7 @@ Phosphatidylserine has recently started to be extracted from sunflower oil, and 
 Other studies in children with ADHD have noted promise when pairing PS with [fish oil](/supplements/fish-oil/) supplementation, with some using a phosphatidylserine structure with the fish oil fatty acids (EPA and DHA) attached to the glycerol backbone[[24]](#ref24)(study duplicated in Medline[[3]](#ref3)) and appears to enhance erythrocytic fish oil fatty acid levels to a level greater than fish oil itself[[25]](#ref25) (a phenomena seen with [krill oil](/supplements/krill-oil/);[[26]](#ref26) fish oil fatty acids bound as [phosphatidylcholine](/supplements/phosphatidylcholine/)[[27]](#ref27)).
 
 
-In otherwise healthy young adults given 400mg PS for 2 weeks, a significant improvement in processing speed (20%) and accuracy (13% more correct responses, 39% less wrong responses) is noted relative to placebo and independent of mood state.[[22]](#ref22)
+In otherwise healthy young adults given 400mg PS for 2 weeks, a significant improvement in processing speed (20%) and accuracy (13% more correct responses, 39% less wrong responses) pre-exercise (but not post-exercise) is noted relative to placebo and independent of mood state.[[22]](#ref22)
 
 
 
