@@ -112,8 +112,8 @@ Timeline of important dietary developments in (pre-)human history| Cultural peri
 kya = thousand years ago |  | *Anatomically modern humans first appeared around 200 kya and dispersed out of Africa around 50 ka. Many of the dietary developments in the Paleolithic Period occurred among pre-human ancestors or evolutionary cousins, not modern humans. |
 
 
-[Back to top](#c-what-is-a-paleo-diet)
-### 2🔍 **Digging Deeper:** When was the Stone Age?
+🔍 **Digging Deeper:** When was the Stone Age?
+
 
 The Stone Age refers to a cultural period from 2.5 – 2.6 million to about 8,000 – 5,500 years ago (depending on the region). This age is characterized by archaeological evidence of stone tool use, and is classified into three periods: Paleolithic, Mesolithic, and Neolithic, referring to Old, Middle, and New Stone Age. 
 
@@ -128,8 +128,8 @@ The Neolithic period, which started about 6,000 years ago and ended 2,000 – 3,
 
 
 
-[Back to top](#c--digging-deeper-when-was-the-stone-age)
-### 3How does paleo compare with other diets?
+[Back to top](#c-what-is-a-paleo-diet)
+### 2How does paleo compare with other diets?
 
 Compared with standard Western diets and healthy eating guidelines, paleo diets include more calories from protein and fat and fewer from carbohydrates, according to the dietary intake data in interventional studies.
 
@@ -141,7 +141,7 @@ Compared with national healthy eating guidelines, however, paleo diets have been
 
 
 [Back to top](#c-how-does-paleo-compare-with-other-diets)
-### 4Are paleo diets healthy?
+### 3Are paleo diets healthy?
 
 
 > A moderate, sensible, nonrestrictive paleo diet that generally fits within the contemporary, evidence-based ideas of paleo nutrition is likely to be healthy. A highly restrictive, unsustainable paleo diet, on the other hand, can lead to adverse health outcomes.
@@ -160,7 +160,7 @@ Overall, [the diet that works is the one you can stick to](https://examine.com/m
 
 
 [Back to top](#c-are-paleo-diets-healthy)
-### 5What are the benefits of a paleo diet?
+### 4What are the benefits of a paleo diet?
 
 Most interventional studies comparing a moderate paleo diet to a typical Western diet show marked health improvements with a paleo diet, whereas comparison to one of any number of national healthy eating guidelines reveals comparable positive effects among the groups studied.[[3]](#ref3)
 
@@ -169,7 +169,7 @@ A modest body of research shows that a typical paleo diet may help people lose w
 
 
 [Back to top](#c-what-are-the-benefits-of-a-paleo-diet)
-### 6Is paleo good for weight loss?
+### 5Is paleo good for weight loss?
 
 
 
@@ -189,7 +189,7 @@ The effect on reducing calorie intake may be attributed to the high quantities o
 
 
 [Back to top](#c-is-paleo-good-for-weight-loss)
-### 7Is paleo good for people with type 2 diabetes?
+### 6Is paleo good for people with type 2 diabetes?
 
 
 
@@ -206,7 +206,7 @@ The positive effects of weight loss on blood sugar and insulin regulation are we
 
 
 [Back to top](#c-is-paleo-good-for-people-with-type-2-diabetes)
-### 8Is paleo good for blood pressure, cholesterol, and other heart health markers?
+### 7Is paleo good for blood pressure, cholesterol, and other heart health markers?
 
 
 
@@ -223,37 +223,37 @@ The effect on lowering triglycerides is likely due to eating less total refined 
 
 
 [Back to top](#c-is-paleo-good-for-blood-pressure-cholesterol-and-other-heart-health-markers)
-### 9Does the paleo diet affect cancer?
+### 8Does the paleo diet affect cancer?
 
 No interventional trials have looked at the relationship between a paleo diet and cancer development, progression, or recurrence. In one retrospective case-control study, people without endoscopy-confirmed colorectal cancer were marginally more likely to eat a diet that adhered to general paleo principles compared with people who followed a diet least similar to paleo.[[40]](#ref40) A more rigorous prospective observational study showed that participants who ate a diet most similar to paleo were less likely to die of cancer than those who followed a diet most removed from paleo.[[36]](#ref36)
 
 
 [Back to top](#c-does-the-paleo-diet-affect-cancer)
-### 10Is paleo good for inflammatory autoimmune conditions?
+### 9Is paleo good for inflammatory autoimmune conditions?
 
 Two elimination diets modeled on paleo have been studied in small trials for their effects on inflammatory bowel diseases and multiple sclerosis, but not on other autoimmune diseases. The results suggested by these underpowered studies need to be confirmed by larger trials, but paleo diets may positively affect subjective outcomes like quality of life and level of fatigue to a small extent.
 
 
-#### 10.1Paleo Autoimmune Protocol and inflammatory bowel diseases
+#### 9.1Paleo Autoimmune Protocol and inflammatory bowel diseases
 
 
 The Paleo Autoimmune Protocol (AIP) is an elimination diet based on paleo and developed by biologist researcher Sarah Ballantyne, PhD. The one before-and-after study on people with *Crohn’s disease* or *ulcerative colitis* used the [“SAD to AIP in Six” — SAD standing for the standard American diet — diet transition program](http://www.sadtoaip.com/), in which participants went through an elimination phase followed by a highly restricted maintenance phase.[[27]](#ref27) Negative symptoms decreased, and 73% of participants achieved and maintained clinical remission during the study. The downward trend in fecal *calprotectin* (a marker of inflammation in inflammatory bowel disease) was not significant, and researchers observed no effect on *CRP* or any other biomarker.[[27]](#ref27) 
 
 
-#### 10.2Paleo AIP and Hashimoto’s thyroiditis
+#### 9.2Paleo AIP and Hashimoto’s thyroiditis
 
 
 Only a single before-and-after study has been conducted on the paleo AIP’s effect on Hashimoto’s thyroiditis.[[28]](#ref28) Compared to baseline, mild improvements in quality of life were reported.
 
 
-#### 10.3Wahls Protocol and multiple sclerosis
+#### 9.3Wahls Protocol and multiple sclerosis
 
 
 Another paleo-based dietary protocol, developed by Terry Wahls, MD, has been studied for its effect on multiple sclerosis with and without a lifestyle component. Each randomized study showed a modest improvement in quality of life and level of fatigue but no change in disease activity when compared to a typical American diet,[[41]](#ref41) MCT oil-based ketogenic diet,[[56]](#ref56) or low-fat diet.[[42]](#ref42)
 
 
 [Back to top](#c-is-paleo-good-for-inflammatory-autoimmune-conditions)
-### 11What is the history of the paleo diet?
+### 10What is the history of the paleo diet?
 
 For almost a century, diets informed by evolutionary biology and paleoanthropology have enjoyed a presence in popular media. Weston A. Price’s [“Nutrition and Physical Degeneration: A Comparison of Primitive and Modern Diets and Their Effects”](https://lccn.loc.gov/sg45000322) in 1937 is one early example, but only since Walter Voegtlin’s 1975 chiefly carnivorous [“The Stone Age Diet”](https://lccn.loc.gov/75330232) have these ancestral diet theories come together to form the popular “paleolithic diet” recognized today.[[26]](#ref26)[[57]](#ref57) 
 
@@ -271,7 +271,7 @@ As proponents of paleo update their evidence base, contemporary paleo diets are 
 
 
 [Back to top](#c-what-is-the-history-of-the-paleo-diet)
-### 12What did Paleolithic humans actually eat?
+### 11What did Paleolithic humans actually eat?
 
 
 > The diverse dietary patterns of hunter-gatherers were largely determined by geography. Notwithstanding the claims made by popular paleo diet doctrines, grains (including wheat), tubers, roots, and legumes were all consumed by our Paleolithic ancestors. In addition, nuts, seeds, animal products, honey, and other plants were all regular features of a Paleolithic-era diet, and milk consumption emerged in the Mesolithic and Paleolithic periods.
@@ -293,9 +293,9 @@ Together, this research suggests that rather than one paleo diet, the diets of P
 
 
 [Back to top](#c-what-did-paleolithic-humans-actually-eat)
-### 13How safe is a paleo diet?
+### 12How safe is a paleo diet?
 
-#### 13.1Are there any major side effects or adverse events with paleo diets?
+#### 12.1Are there any major side effects or adverse events with paleo diets?
 
 
 
@@ -311,7 +311,7 @@ Case studies have drawn a connection between ketoacidosis (a harmful level of ac
 When implemented improperly (e.g., without adequate seafood, iodized salt, or dairy), paleo can lower iodine intake,[[13]](#ref13)[[12]](#ref12) which may impair thyroid function. Additionally, low calcium intake on a paleo diet may be problematic for bone health.[[13]](#ref13)[[14]](#ref14)
 
 
-#### 13.2Are there long-term risks with a paleo diet?
+#### 12.2Are there long-term risks with a paleo diet?
 
 
 Long-term consequences of a paleo diet have not been studied. The longest randomized trial is 24 months[[8]](#ref8) and did not show an increase in side effects in the long term.
@@ -320,7 +320,7 @@ Long-term consequences of a paleo diet have not been studied. The longest random
 Some observational studies found a link between an increased risk of cardiovascular disease, cancer, and kidney disease and a higher intake of red meat.[[68]](#ref68) High-protein diets may be associated with risk of kidney problems as well, but this association has been inconsistent.[[69]](#ref69) Low-carbohydrate diets are independently associated with an increased risk of adverse effects such as kidney stones, elevated LDL-C, and (rarely) ketoacidosis.[[70]](#ref70)
 
 
-#### 13.3Is paleo safe for your kidneys?
+#### 12.3Is paleo safe for your kidneys?
 
 
 
@@ -345,7 +345,7 @@ Moderate protein diets — around 0.8 g/kg of body weight — have been shown to
 For healthy individuals, the risk of moderate-to-high protein consumption on kidney function appears to be insignificant in the context of an otherwise healthy diet (i.e., a moderate diet low in sugar and salt). In studies mostly 6 months or shorter on healthy individuals, protein intake on the higher side but still within the recommended range (1.8–2.5 grams of protein/kg/day) was associated with elevated *glomular filtration rate* within the range of normal kidney function.[[11]](#ref11)
 
 
-#### 13.4Is paleo safe for children and pregnant or nursing women?
+#### 12.4Is paleo safe for children and pregnant or nursing women?
 
 
 
@@ -358,7 +358,7 @@ Low-carbohydrate, low-calorie paleo diets have been connected with *lactation ke
 One other case report connected a low-carbohydrate paleo diet with excessive urination in a 2-year-old boy.[[66]](#ref66) Ketogenic diets, which sometimes include paleo, may delay growth in children.[[70]](#ref70)
 
 
-#### 13.5Does the paleo diet lead to any nutrient deficiencies?
+#### 12.5Does the paleo diet lead to any nutrient deficiencies?
 
 
 
@@ -377,7 +377,7 @@ Evidence from clinical trials shows that [iodine](/supplements/iodine/) intake m
 [Vitamin D](/supplements/vitamin-d/), a nutrient in which people are commonly deficient regardless of diet,[[82]](#ref82) may theoretically be hard to come by in a paleo diet.[[15]](#ref15) On the other hand, vitamin D deficiency in connection with a paleo diet has not been reported in scientific literature. This may be because it has not been measured, either because fish-forward paleo diets provide sufficient vitamin D or because appropriate sun exposure — from which the body generates vitamin D — is a component of some paleo lifestyle recommendations.
 
 
-#### 13.6Should you take supplements on a paleo diet?
+#### 12.6Should you take supplements on a paleo diet?
 
 
 Since [iodine](/supplements/iodine/), [calcium](/supplements/calcium/), [vitamin D](/supplements/vitamin-d/), and other essential nutrients may be low in a paleo diet, talk to your healthcare provider to see if you should take supplements to meet your nutritional needs. Kelp, bone meal, and fish liver oil are paleo-friendly supplements that address the nutritional needs of people on a paleo diet.
