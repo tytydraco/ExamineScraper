@@ -49,7 +49,7 @@ PLP can be hydrolyzed back into pyridoxal via *PLP phosphatase*, and this enzyme
 It was initially thought that intestinal uptake of vitamin B6 as pyridoxine hydrochloride,[[14]](#ref14)[[15]](#ref15) pyridoxal (including its phosphate form[[16]](#ref16)), and pyridoxamine (as well as its phosphate[[17]](#ref17)) were via passive diffusion in the rat. 
 
 
-Human studies on isolated intestinal cells (Caco-2) have noted a saturatable transporter which is concentration and pH dependent, capable of absorbing PLP and pyridoxamine;[[18]](#ref18) this is in contrast to a colonic transporter which which does not uptake PLP[[19]](#ref19) and neither transporter appears to be capable of uptaking pyridoxamine.[[18]](#ref18)[[19]](#ref19)
+Human studies on isolated intestinal cells (Caco-2) have noted a saturatable transporter which is concentration and pH dependent, capable of absorbing PLP and pyridoxamine;[[18]](#ref18) this is in contrast to a colonic transporter which does not uptake PLP[[19]](#ref19) and neither transporter appears to be capable of uptaking pyridoxamine.[[18]](#ref18)[[19]](#ref19)
 
 
 
