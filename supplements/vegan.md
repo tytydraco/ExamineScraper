@@ -9,7 +9,13 @@
 
 ### 1Why do vegans avoid animal products?
 
-Health, animal welfare, and environmental protection are the three most commonly stated motives for eating a vegan diet.[[4]](#ref4) However, the motives for eating vegan can vary quite a bit and also include economic, ethical, and hedonic reasons.[[60]](#ref60) Also, veganism may be politically motivated, aiming to bring societal change.[[61]](#ref61)
+Health, animal welfare, and environmental protection are the three most commonly stated motives for eating a vegan diet.[[4]](#ref4)
+
+
+However, the motives for eating vegan can vary quite a bit and also include economic, ethical, and hedonic reasons.[[60]](#ref60)
+
+
+Also, veganism may be politically motivated, aiming to bring societal change.[[61]](#ref61)
 
 
 The most common reason seems to be animal welfare, as evidenced by many surveys.[[4]](#ref4)[[61]](#ref61)[[60]](#ref60)[[62]](#ref62) For instance, a study from 2016[[4]](#ref4) found that most vegans mention animal welfare (89.7%) as the most prominent motive, followed by health (69.3%) and environmental reasons (46.8%). Overall, protecting animals seems to be the key determinant of a vegan’s self-identification. 
@@ -116,7 +122,10 @@ If you are unsure whether your diet covers all essential nutrients, talk to a pr
 [Back to top](#c--caution-nutrient-needs-vary-for-different-populations)
 ### 5Is a vegan diet appropriate for every stage of life?
 
-There is a lot of controversy around this topic.[[94]](#ref94)[[95]](#ref95)[[89]](#ref89)[[90]](#ref90)[[91]](#ref91)[[92]](#ref92) Currently, it remains unclear whether a vegan diet is appropriate for all stages of life, especially pregnancy and childhood. Professional bodies sometimes disagree specifically about these stages of life. 
+There is a lot of controversy around this topic.[[94]](#ref94)[[95]](#ref95)[[89]](#ref89)[[90]](#ref90)[[91]](#ref91)[[92]](#ref92)
+
+
+Currently, it remains unclear whether a vegan diet is appropriate for all stages of life, especially pregnancy and childhood. Professional bodies sometimes disagree specifically about these stages of life. 
 
 
 For example, some nutrition societies consider a well-planned vegan diet appropriate for all stages of life[[89]](#ref89)[[90]](#ref90) while others disagree[[92]](#ref92)[[96]](#ref96) or don’t take a stance[[91]](#ref91) — even though all position papers rely on the same body of evidence.
@@ -203,8 +212,7 @@ Lastly, observational evidence on hard clinical outcomes also suggests that vega
 [Back to top](#c-can-a-vegan-diet-reduce-the-risk-of-heart-disease)
 ### 7Can a vegan diet prevent cancer?
 
-
-> According to a large body of observational evidence, adopting a vegan diet may reduce the risk of developing cancer by 14–19%. However, there are several caveats with the current evidence:
+According to a large body of observational evidence, adopting a vegan diet may reduce the risk of developing cancer by 14–19%. However, there are several caveats with the current evidence: 
 
 
 * The evidence is inconclusive regarding specific cancer types.
@@ -646,10 +654,10 @@ However, there is one plant-based protein source that can meet all essential ami
 That may surprise you, but potatoes are a true all-rounder when it comes to protein. In fact, the essential amino acid content of potato protein (37%) is higher than egg (32%) and casein (34%).[[190]](#ref190) Also, potato protein provides more lysine (8.3%) than egg (7.0%) and casein (8.3%).[[190]](#ref190) And even though potato is high in lysine, it is one of the few plant-based sources that also provides sufficient amounts of methionine (1.6%).[[190]](#ref190) Overall, 30 grams of pure potato protein contains as many essential amino acids as 25 grams of pure whey protein.[[190]](#ref190)
 
 
-However, one drawback with using potatoes as a protein source is their low protein content. Depending on the preparation method, the protein content of most potato varieties can range from 1–4%.​​[[193]](#ref193) Thus, to obtain 30 grams of pure protein, one would have to eat 750–3000 grams of potatoes. 
+However, one drawback with using potatoes as a protein source is, ironically, their low protein content. Depending on the preparation method, the protein content of most potato varieties ranges from 1 to 4%.[[193]](#ref193) Thus, to obtain 30 grams of pure protein, one would have to eat 750–3,000 grams of potatoes. 
 
 
-That said, an attractive alternative to raw potatoes is potato protein isolate, which contains up to 80% of protein.[[190]](#ref190) Thus, a protein shake of approximately 38 g of potato protein isolate delivers 30 g of high-quality plant protein with sufficient amounts of all essential amino acids.
+That said, an attractive alternative to raw potatoes is potato protein isolate, which contains up to 80% protein.[[190]](#ref190) Thus, a protein shake containing approximately 38 grams of potato protein isolate delivers 30 grams of high-quality plant protein alongside sufficient amounts of all essential amino acids.
 
 
 To conclude, a well-balanced vegan diet can provide all essential amino acids. To make sure that a diet includes sufficient amounts of lysine and methionine (for the average person) and BCAAs such as leucine (for the vegan athlete), a variety of plant-based protein sources should be consumed. Alternatively, potato protein can also provide all essential amino acids, though eating a variety of different sources is nevertheless recommended to meet other nutrient requirements, such as vitamins and minerals.
@@ -662,7 +670,7 @@ However, this raises yet another question: If plant protein can provide all the 
 
 
 
-> No, not necessarily. When compared food by food, animal protein is of higher quality (as measured, for example, by the biological value) than plant protein because of a generally better amino acid profile, bioavailability, and digestibility. However, when cooked and in the context of a well-planned vegan diet, plant protein is not necessarily of lower quality than animal protein. That’s because (as discussed in the [previous question](https://examine.com/supplements/vegan/research/#can-a-vegan-diet-cover-all-essential-amino-acids) combining different sources of plant protein can provide a sufficient intake of all essential amino acids and because food processing can improve the digestibility of plant protein, thus increasing its biological value. As a result, a diverse combination of properly cooked plant proteins can be as valuable of a protein source as animal protein.
+> No, not necessarily. When compared food by food, animal protein is of higher quality (as measured, for example, by the biological value) than plant protein because of a generally better amino acid profile, bioavailability, and digestibility. However, when cooked and in the context of a well-planned vegan diet, plant protein is not necessarily of lower quality than animal protein. That’s because (as discussed in the [previous question](https://examine.com/supplements/vegan/research/#can-a-vegan-diet-cover-all-essential-amino-acids)) combining different sources of plant protein can provide a sufficient intake of all essential amino acids and because food processing can improve the digestibility of plant protein, thus increasing its biological value. As a result, a diverse combination of properly cooked plant proteins can be as valuable of a protein source as animal protein.
 
 
 It’s true that animal protein is of higher protein quality than plant protein.[[88]](#ref88) But what does “better” mean, exactly?
