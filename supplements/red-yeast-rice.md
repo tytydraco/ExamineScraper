@@ -22,10 +22,11 @@ Other mechanisms of cholesterol uptake from LDL-C include the lipoprotein lipase
 
 
 It should be noted that gross overexpression of LPL in skeletal muscle may cause a myopathy, though to be related to increased fatty acid influx (as LPL mediates fatty acids and cholesterol)[[12]](#ref12) similar to an increase in LPL on cardiomyocytes.[[13]](#ref13) Furthermore, competitive athletes who have increased LDL expression[[14]](#ref14) seem to be more likely to have complications from statin usage.[[15]](#ref15)
+.
 
 
 
-> Cholesterol uptake into skeletal muscle cells (myocytes) appears to be mediated by both LPL and the LDL receptor, with statin usage increasing the activity of the LDL receptor
+> Cholesterol uptake into skeletal muscle cells (myocytes) appears to be mediated by both LPL and the LDL receptor, with statin usage increasing the activity of the LDL receptor.
 
 
 #### 1.2Myopathy
@@ -41,7 +42,7 @@ Less GGPP in a cell system is associated with less protein synthesis due to redu
 
 
 
-> Myopathy from lovastatin appears to be associated with reducing GGPP (a consequence of inhibiting HMG-CoA, the target enzyme of statins) and independent of the reduction in cholesterol *per se*
+> Myopathy from lovastatin appears to be associated with reducing GGPP (a consequence of inhibiting HMG-CoA, the target enzyme of statins) and independent of the reduction in cholesterol *per se*.
 
 
 Lovastatin is also known to induce atrogin-1, a protein that mediates protein catabolism and this induction of atrogin-1 is ablated by excessive incubation of PGC-1a.[[27]](#ref27)
@@ -54,7 +55,7 @@ One study (otherwise healthy men aged 60-69) that noted that cholesterol was lin
 
 
 
-> One study suggests that chronic usage of statin drugs and pairing statins with exercise can increase lean mass accrual from exercise, apparently synergistic with dietary and serum cholesterol. Although statins during exercise are not well studied, they appear to reduce the rate of muscle regeneration
+> One study suggests that chronic usage of statin drugs and pairing statins with exercise can increase lean mass accrual from exercise, apparently synergistic with dietary and serum cholesterol. Although statins during exercise are not well studied, they appear to reduce the rate of muscle regeneration.
 
 
 The connection between GGPP and RhoA is unlikely to explain the observed reactions as there are differences between lovastatin and pravastatin, as the latter is known to not be taken up into myocytes to a large degree[[29]](#ref29) due to being selectively taken up by OATP1B1,[[30]](#ref30) a transport expressed on hepatocytes almost exclusively;[[31]](#ref31) thus limiting the muscle exposure to pravastatin.[[32]](#ref32) Although pravastatin would induce the same effects if cultured *in vitro*,[[22]](#ref22) it does not appear to reach skeletal muscle well after ingestion.
@@ -64,7 +65,7 @@ The only possible link here is that cholesterol ester and free cholesterol influ
 
 
 
-> Reductions of GGPP and, subsequently, RhoA are a possible explanation for the observed hypertrophic response to statins but cannot explain the difference between pravastatin and lovastatin; these reductions are also inherently catabolic
+> Reductions of GGPP and, subsequently, RhoA are a possible explanation for the observed hypertrophic response to statins but cannot explain the difference between pravastatin and lovastatin; these reductions are also inherently catabolic.
 
 
 Another possible explanation is using Selenoproteins (proteins made with [selenium](/supplements/selenium/) as a component) and particularly Selenoprotein N, encoded by the SEPN1 gene; due to HMG-CoA inhibition, there is less isopentenylpyrophosphate (IPP) availability (in the cholesterol biosynthetic chain after mevalonate) and IPP appears to be critical for a selenocysteine transfer RNA to make selenoproteins.[[34]](#ref34)
@@ -77,7 +78,7 @@ Furthermore, although ablation of SEPN1 and reduced selenoprotein N is not adver
 
 
 
-> Selenoprotein deficiency appears to be somewhat related to both myopathy as well as enhanced exercise-induced hypertrophy, and statins may reduce cellular selenoprotein concentrations. This seems to correlate better with the observed effects of statins on muscle protein synthesis, but assumes that a hormetic response occurs (this hypothesized hormetic response that ultimately builds muscle is not known yet)
+> Selenoprotein deficiency appears to be somewhat related to both myopathy as well as enhanced exercise-induced hypertrophy, and statins may reduce cellular selenoprotein concentrations. This seems to correlate better with the observed effects of statins on muscle protein synthesis, but assumes that a hormetic response occurs (this hypothesized hormetic response that ultimately builds muscle is not known yet).
 
 
 [Back to top](#c-skeletal-muscle-interactions)
