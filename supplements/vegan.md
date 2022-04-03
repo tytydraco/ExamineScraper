@@ -371,7 +371,7 @@ How much truth is in these rumors?
 The short answer is: not that much.
 
 
-The long answer is: the supposedly negative health effects of soybeans seem to stem from exaggerated claims based on early preclinical and observational evidence,[[144]](#ref144)[[145]](#ref145)[[146]](#ref146)[[147]](#ref147)[[148]](#ref148)[[149]](#ref149)[[150]](#ref150) which have later been disproved by a large of body of clinical trials.[[151]](#ref151)[[152]](#ref152)[[153]](#ref153)[[154]](#ref154)[[155]](#ref155)[[156]](#ref156)
+The long answer is: the supposedly negative health effects of soybeans seem to stem from exaggerated claims based on early preclinical and observational evidence,[[144]](#ref144)[[145]](#ref145)[[146]](#ref146)[[147]](#ref147)[[148]](#ref148)[[149]](#ref149)[[150]](#ref150) which have later been disproved by a large meta-analyses of randomized controlled trials.[[151]](#ref151)[[152]](#ref152)[[153]](#ref153)[[154]](#ref154)[[155]](#ref155)[[156]](#ref156)
 
 
 #### 12.1Does soy decrease sexual hormones in men?
