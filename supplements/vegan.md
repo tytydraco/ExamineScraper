@@ -28,7 +28,7 @@ There are also differences between a *dietary vegan* and an *ethical vegan*. Whi
 
 
 [Back to top](#c-why-do-vegans-avoid-animal-products)
-### 2🔍 **Digging Deeper:** The facets of vegan motives
+### 🔍 **Digging Deeper:** The facets of vegan motives
 
 Even though ethical motives such as animal welfare and environmental protection are enshrined in the definition of veganism, some studies indicate that self-serving (unconscious) drivers may also play a role.[[63]](#ref63)[[61]](#ref61) For instance, in-depth interviews conducted using the morphological psychology approach suggest that some vegans may also be driven by the desire to gain empowerment and autonomy and create identity and superiority.[[63]](#ref63) Another study using a comparable methodology found similar motives for vegans.[[61]](#ref61)
 
@@ -37,8 +37,8 @@ Overall, these data indicate that there are many facets to veganism, both consci
 
 
 
-[Back to top](#c--digging-deeper-the-facets-of-vegan-motives)
-### 3Do vegan diets cover all essential nutrients?
+[Back to top](#c-why-do-vegans-avoid-animal-products)
+### 2Do vegan diets cover all essential nutrients?
 
 
 > Contrary to common belief, a vegan diet can cover all essential nutrients — if it is well planned and supported by supplementation. The turmoil around vegan-related nutrient deficiencies revolves around a handful of manageable but critical micronutrients: the vitamins B2, B3, B12 and D, and the minerals zinc, calcium, iodine, and selenium. If properly designed, a vegan diet supported by supplementation and fortified foods can meet all these nutrients in sufficient amounts.
@@ -98,7 +98,7 @@ Critical nutrients and sources in a vegan diet.| Nutrient | Risk of deficiency* 
 
 
 [Back to top](#c-do-vegan-diets-cover-all-essential-nutrients)
-### 4⚠️ **Caution:** Nutrient needs vary for different populations
+### ⚠️ **Caution:** Nutrient needs vary for different populations
 
 Some people need to be extra careful when eating a vegan diet. Specifically, infants and children, pregnant and breastfeeding women, and populations with certain diseases or genetic dispositions. [Click here](https://examine.com/supplements/vegan/research/#is-a-vegan-diet-appropriate-for-every-stage-of-life) to find out more.
 
@@ -116,8 +116,8 @@ If you are unsure whether your diet covers all essential nutrients, talk to a pr
 
 
 
-[Back to top](#c--caution-nutrient-needs-vary-for-different-populations)
-### 5Is a vegan diet appropriate for every stage of life?
+[Back to top](#c-do-vegan-diets-cover-all-essential-nutrients)
+### 3Is a vegan diet appropriate for every stage of life?
 
 There is a lot of controversy around this topic.[[95]](#ref95)[[96]](#ref96)[[90]](#ref90)[[91]](#ref91)[[92]](#ref92)[[93]](#ref93)
 
@@ -131,7 +131,7 @@ For example, some nutrition societies consider a well-planned vegan diet appropr
 Some nutritional societies are cautious when recommending a vegan diet because they are concerned about nutrient deficiencies, which can arise if a vegan diet is unbalanced. Thus, families eating a vegan diet should be cautious that all essential nutrients are met, either through diet or supplements. 
 
 
-#### 5.1Is a vegan diet appropriate for pregnant and lactating women?
+#### 3.1Is a vegan diet appropriate for pregnant and lactating women?
 
 
 
@@ -156,7 +156,7 @@ However, it bears repeating that these potential benefits hinge on getting enoug
 Nevertheless, consulting a dietitian and talking to your primary care pediatricians about your decision to eat a vegan diet during pregnancy and lactation is warranted to ensure the safety of you and your baby. 
 
 
-#### 5.2Is a vegan diet appropriate for infants and children?
+#### 3.2Is a vegan diet appropriate for infants and children?
 
 
 
@@ -185,7 +185,7 @@ To conclude, there is no evidence that a vegan diet is appropriate for infants. 
 
 
 [Back to top](#c-is-a-vegan-diet-appropriate-for-every-stage-of-life)
-### 6Can a vegan diet reduce the risk of heart disease?
+### 4Can a vegan diet reduce the risk of heart disease?
 
 
 > A well-designed vegan diet may lower cardiovascular disease (CVD) risk to a small extent — with a caveat. On the one hand, vegan diets reliably lower the two most important CVD risk factors — lipids and blood pressure — with observational evidence linking vegan diets to lower CVD risk. On the other hand, the associations between vegan diets and CVD were found to vary between countries and specific CVD outcomes. More research is needed to explain these differences. Fortunately, several [registered trials](https://clinicaltrials.gov/ct2/results?term=%22plant-based%22+OR+%22vegan%22&recrs=b&recrs=a&recrs=f&recrs=d&age_v=&gndr=&type=&rslt=&Search=Apply) are on the way, so stay tuned for updates.
@@ -207,7 +207,7 @@ Lastly, observational evidence on hard clinical outcomes also suggests that vega
 
 
 [Back to top](#c-can-a-vegan-diet-reduce-the-risk-of-heart-disease)
-### 7Can a vegan diet prevent cancer?
+### 5Can a vegan diet prevent cancer?
 
 According to a large body of observational evidence, adopting a vegan diet may reduce the risk of developing cancer by 14–19%. However, there are several caveats with the current evidence: 
 
@@ -229,13 +229,13 @@ In light of these caveats, it becomes evident that more evidence is needed. Howe
 
 
 [Back to top](#c-can-a-vegan-diet-prevent-cancer)
-### 8Is a vegan diet appropriate for type 2 diabetes?
+### 6Is a vegan diet appropriate for type 2 diabetes?
 
 
 > A vegan diet may be an effective dietary intervention to prevent and treat type 2 diabetes (T2D), as supported by accumulating evidence from cohort and clinical studies. On the one hand, vegans show a 49–77% reduced risk of developing T2D in the first place. On the other, randomized controlled trials demonstrated that adopting a vegan diet improves glycemic control, β-cell function, and insulin resistance. A vegan diet may even be better than a conventional diabetes diet for glycemic control. Future studies comparing a vegan diet to a DASH or ​Mediterranean diet would be desirable and insightful.
 
 
-#### 8.1Can a vegan diet prevent or treat type 2 diabetes?
+#### 6.1Can a vegan diet prevent or treat type 2 diabetes?
 
 
 Diabetes is widespread: 13% of U.S. adults have diabetes.[[123]](#ref123) By 2050, this number is projected to climb to 21–33%,[[124]](#ref124) mostly because of T2D.[[125]](#ref125)
@@ -250,7 +250,7 @@ Large-scale cohort studies showed that vegans have a 49–62% reduced risk of de
 Vegan diets may also be an effective dietary intervention for people with T2D to improve their treatment. In a number of randomized controlled trials, vegan diets were shown to improve several risk factors for T2D: body weight,[[20]](#ref20) blood pressure,[[35]](#ref35)[[36]](#ref36)[[37]](#ref37) lipid profiles,[[32]](#ref32)[[129]](#ref129) glycemic status,[[26]](#ref26)[[27]](#ref27)[[28]](#ref28)[[29]](#ref29) β-cell function[[22]](#ref22), and insulin resistance.[[30]](#ref30)[[31]](#ref31)[[30]](#ref30)
 
 
-#### 8.2How effective is a vegan diet compared to other diabetes diets?
+#### 6.2How effective is a vegan diet compared to other diabetes diets?
 
 
 A vegan diet is not the only diet that can potentially treat and prevent T2D. Several diets, such as the Mediterranean diet, the ADA diet (recommended by the American Diabetes Association) diet, and the DASH diet (Dietary Approaches to Stop Hypertension) are backed by a large and compelling body of evidence. How does the vegan diet compare to these established diabetes diets?
@@ -275,7 +275,7 @@ In conclusion, there is a growing body of evidence that a vegan diet is not only
 
 
 [Back to top](#c-is-a-vegan-diet-appropriate-for-type-2-diabetes)
-### 9Can a vegan diet help you lose weight?
+### 7Can a vegan diet help you lose weight?
 
 Yes, a vegan diet is a useful tool to lose weight and shed some fat.
 
@@ -311,7 +311,7 @@ To conclude, a vegan diet is a useful tool to lose weight because it creates a c
 
 
 [Back to top](#c-can-a-vegan-diet-help-you-lose-weight)
-### 10Do vegans have weaker bones and joints?
+### 8Do vegans have weaker bones and joints?
 
 It’s possible, but not definite. 
 
@@ -338,7 +338,7 @@ In summary: An unbalanced vegan diet will negatively affect bone health and incr
 
 
 [Back to top](#c-do-vegans-have-weaker-bones-and-joints)
-### 11💡 **Tip:** Drinking nutrient-fortified plant drinks to prevent osteoporosis
+### 💡 **Tip:** Drinking nutrient-fortified plant drinks to prevent osteoporosis
 
 Plant-based milk alternatives such as soy, oat, and almond drinks are often fortified with critical nutrients for a vegan diet, such as calcium and vitamins B2, D3, E, and B12. 
 
@@ -353,8 +353,8 @@ For these reasons, nutrient-fortified plant drinks are a good choice for vegans 
 
 
 
-[Back to top](#c--tip-drinking-nutrient-fortified-plant-drinks-to-prevent-osteoporosis)
-### 12Is soy bad for you?
+[Back to top](#c-do-vegans-have-weaker-bones-and-joints)
+### 9Is soy bad for you?
 
 Soybeans are an excellent source of plant protein and contain a number of vitamins, minerals, antioxidants, and phytochemicals (especially isoflavones).
 
@@ -371,7 +371,7 @@ The short answer is: not that much.
 The long answer is: the supposedly negative health effects of soybeans seem to stem from exaggerated claims based on early preclinical and observational evidence,[[144]](#ref144)[[145]](#ref145)[[146]](#ref146)[[147]](#ref147)[[148]](#ref148)[[149]](#ref149)[[150]](#ref150) which have later been disproved by a large meta-analyses of randomized controlled trials.[[151]](#ref151)[[152]](#ref152)[[153]](#ref153)[[154]](#ref154)[[155]](#ref155)[[156]](#ref156)
 
 
-#### 12.1Does soy decrease sexual hormones in men?
+#### 9.1Does soy decrease sexual hormones in men?
 
 
 The idea that soy decreases men’s sexual hormones came from *in vitro*,[[144]](#ref144) animal studies,[[145]](#ref145) and small clinical trials using high concentrations of isolated isoflavones in the early 2000s.[[146]](#ref146) These studies found that isoflavones can bind to estrogen receptors and thus it was hypothesized that they could negatively affect the sexual hormones of men.
@@ -383,7 +383,7 @@ However, this hypothesis is challenged by a vast trove of new clinical evidence 
 And so, after almost two decades, the tide has turned: the current clinical evidence clearly suggests that soy does not seem to affect men’s reproductive hormones. 
 
 
-#### 12.2Does soy impair thyroid function?
+#### 9.2Does soy impair thyroid function?
 
 
 Cell culture and animal studies suggest that some compounds found in soy may affect thyroid function.[[147]](#ref147)[[148]](#ref148)
@@ -401,7 +401,7 @@ However, the role of soy consumption in other populations is less clear. For exa
 More comprehensive studies are needed to investigate if soy consumption is safe for populations with existing diseases.
 
 
-#### 12.3Does soy impair cognitive function and increase the risk of Alzheimer’s disease?
+#### 9.3Does soy impair cognitive function and increase the risk of Alzheimer’s disease?
 
 
 
@@ -433,7 +433,7 @@ In summary, the current evidence seems sufficient to conclude that soy consumpti
 
 
 [Back to top](#c-is-soy-bad-for-you)
-### 13How does a vegan diet affect athletic performance?
+### 10How does a vegan diet affect athletic performance?
 
 
 > There is a small amount of evidence that suggests athletes following a well-planned vegan diet can achieve all their nutritional needs and enjoy similar strength and endurance exercise performance as athletes on an omnivorous diet. However, contrary to what some researchers may boldly claim, there is no evidence that a healthy vegan diet results in superior sports performance than a healthy omnivorous diet. Even though there are cross-sectional studies showing vegan athletes outperforming their omnivorous counterparts, these observational findings do not prove a cause-effect relationship. For this reason, randomized controlled trials are warranted to shed more light on this topic.
@@ -451,7 +451,7 @@ The long answer is: There is currently no convincing evidence that vegan diets a
 However, don’t mistake the ‘absence of evidence’ for the ‘evidence of absence’. Even though the evidence is limited, it deserves to be considered. 
 
 
-#### 13.1Can adopting a vegan diet influence sports performance or body composition?
+#### 10.1Can adopting a vegan diet influence sports performance or body composition?
 
 
 There are two case studies that have investigated the effects of adopting a vegan diet on an athlete’s sports performance and body composition. One involved an elite male football player and had a duration of 14 weeks[[165]](#ref165) and the other involved a powerlifter and had a duration of 6 weeks.[[166]](#ref166)
@@ -472,7 +472,7 @@ Second, the athlete had considerable support in terms of personal nutrition cons
 Besides these two caveats, the studies are sufficient proof-of-concept that, given the right support, planning, and training, vegan athletes can maintain — and even improve — their performance and body composition.
 
 
-#### 13.2How do vegan athletes perform compared to their omnivorous counterparts?
+#### 10.2How do vegan athletes perform compared to their omnivorous counterparts?
 
 
 There are three small-scale cross-sectional studies that compared vegan athletes with omnivorous athletes in the context of sports performance and may shed light on this question.
@@ -500,7 +500,7 @@ Second, a vegan diet is not superior to an omnivorous diet in the context of spo
 
 
 [Back to top](#c-how-does-a-vegan-diet-affect-athletic-performance)
-### 14Is a vegan diet healthy for the gut microbiome?
+### 11Is a vegan diet healthy for the gut microbiome?
 
 
 > Gut health is challenging to study, in part because of the microbiome’s complexity. The effect of vegan diets on the gut microbiome is no exception. On the one hand, observational evidence has linked vegan diets to beneficial changes in gut microbiome composition, probably because vegan diets are high in fiber. On the other hand, the available evidence has significant limitations, such as low study quality and inconsistent findings across different studies. Moreover, few clinical trials have examined the causal link between vegan diets on gut health. Overall, it’s difficult to draw any conclusions at this point.
@@ -525,7 +525,7 @@ For all these reasons, it is currently difficult to associate a vegan diet and i
 
 
 [Back to top](#c-is-a-vegan-diet-healthy-for-the-gut-microbiome)
-### 15Do vegans live longer?
+### 12Do vegans live longer?
 
 There is no definitive link between eating a vegan diet and life expectancy. 
 
@@ -539,7 +539,7 @@ In one study that analyzed vegans and vegetarians separately, a vegan diet was a
 Overall, more comprehensive studies are needed to shed more light on the association between veganism and longevity. 
 
 
-#### 15.1If vegan diets are healthier, then vegans should also live longer, right?
+#### 12.1If vegan diets are healthier, then vegans should also live longer, right?
 
 
 Vegan diets may indeed reduce the risk of [cancer](https://examine.com/supplements/vegan/research/#can-a-vegan-diet-prevent-cancer), [heart disease](https://examine.com/supplements/vegan/research/#can-a-vegan-diet-reduce-the-risk-of-heart-disease), and [type 2 diabetes](https://examine.com/supplements/vegan/research/#is-a-vegan-diet-appropriate-for-type-2-diabetes), which could extend life expectancy. 
@@ -563,7 +563,7 @@ This study was not the first one to uncover differences in the mortality rates o
 To conclude, there is some evidence to suggest that a vegan diet may reduce mortality risk and thus extend life expectancy, but larger and longer trials are needed to confirm this relationship.
 
 
-#### 15.2What mechanisms could explain the supposed longevity effect of a vegan diet?
+#### 12.2What mechanisms could explain the supposed longevity effect of a vegan diet?
 
 
 Vegan diets are associated with many longevity-enhancing practices:[[183]](#ref183) 
@@ -596,7 +596,7 @@ In summary, a handful of practices and mechanisms by which a vegan diet could pr
 
 
 [Back to top](#c-do-vegans-live-longer)
-### 16Do vegans get enough protein?
+### 13Do vegans get enough protein?
 
 
 > Yes, vegans generally get enough protein through their diet. Even though an unbalanced vegan diet may sometimes lead to inadequate protein intake, studies find that most vegan diets provide enough protein above the recommended intake of 0.8–1.0 grams of protein per kilogram of body weight (approximately 50–80 grams for an average person). In addition, a vegan diet can cover all essential amino acid needs by including a variety of plant protein sources and using proper food processing like heating and extrusion, which increases the quality of plant protein by making it more digestible. Assuming that vegans consume a variety of plant proteins and cook them properly, plant protein can provide the same benefits as animal protein.
@@ -614,7 +614,7 @@ For instance, some plant protein sources are low in lysine and the branched-chai
 This raises the question of whether a vegan diet can provide all essential amino acids.
 
 
-#### 16.1Can a vegan diet cover all essential amino acids?
+#### 13.1Can a vegan diet cover all essential amino acids?
 
 
 
@@ -663,7 +663,7 @@ To conclude, a well-balanced vegan diet can provide all essential amino acids. T
 However, this raises yet another question: If plant protein can provide all the essential amino acids, why is animal protein still considered to be superior in terms of overall protein quality? 
 
 
-#### 16.2Is plant protein less valuable than animal protein?
+#### 13.2Is plant protein less valuable than animal protein?
 
 
 
