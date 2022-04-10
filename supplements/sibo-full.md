@@ -62,9 +62,6 @@ The carbohydrate used during the test also affects the results. Glucose is more 
 
 Clinicians and researchers may also set their own cutoffs for the level of gas production required to diagnose SIBO, which would obviously have an impact on results.[[9]](#ref9)
 
-
-Interestingly, a small pilot study sought to determine the effects of a low-fiber, high-sugar intervention on GI symptoms in healthy individuals, some of whom had asymptomatic SIBO. For one week, 16 participants followed a diet that was very low in fiber (<10 grams per day), with over 50% of their daily carbohydrates coming from simple sugars. Thirteen of the participants experienced GI distress that subsided within a week of returning to their habitual diets, which provided about 23–27 grams of fiber per day.) The researchers noted that the symptoms were unrelated to SIBO, however, leaving the question of a relationship between sugar intake and SIBO unanswered.[[3]](#ref3)
-
  
 
 
