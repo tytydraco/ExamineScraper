@@ -230,7 +230,7 @@ The leaves of Pueraria Lobata (sometimes termed *Pueraria flos*) are used in [Tr
 The leaves of Pueraria Lobata (sometimes termed *Pueraria flos*) appear to enhance the rate of acetaldehyde clearance from the body[[22]](#ref22) and may protect against ethanol-induced neuronal injury.[[23]](#ref23)
 
 
-The root extract, which is not traditionally used, appears to inhibit the Aldehyde dehydrogenase (ALDH) enzyme[[24]](#ref24)[[25]](#ref25) (similar to the pharmaceutical Disulfiram) which is thought to reduce tolerance and create an aversion to [alcohol](/supplements/alcohol/) from a build-up of acetaldehyde.[[26]](#ref26) Reduced activity of the ALDH enzyme (Homozygote ALDH2*2) occurs to a greater degree in Asian populations and is known to increase the frequency of intolerance to alcohol consumption.[[27]](#ref27)[[28]](#ref28)
+The root extract, which is not traditionally used, appears to inhibit the Aldehyde dehydrogenase (ALDH) enzyme[[24]](#ref24)[[25]](#ref25) (similar to the pharmaceutical Disulfiram) which is thought to reduce tolerance and create an aversion to [alcohol](/supplements/alcohol/) from a build-up of acetaldehyde.[[26]](#ref26) Reduced activity of the ALDH enzyme (Homozygote ALDH2\*2) occurs to a greater degree in Asian populations and is known to increase the frequency of intolerance to alcohol consumption.[[27]](#ref27)[[28]](#ref28)
 
 
 It has been noted in a review[[21]](#ref21) that the ALDH inhibitor Disulfiram has been linked to both alcohol aversion (as intended) and euphora from alcohol[[29]](#ref29) and cocaine;[[30]](#ref30) studies investigating the interactions of *Pueraria flos* and euphoria from alcohol are lacking.

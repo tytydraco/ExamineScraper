@@ -94,7 +94,7 @@ Low-carbohydrate paleo diets can cause nutritional ketosis; some paleo diets are
 
 Timeline of important dietary developments in (pre-)human history| Cultural periods | Approximate dates | Important dietary developments |
 | --- | --- | --- |
-| Paleolithic period* | 2.5 million ya to 10,000 – 12,000 ya[[21]](#ref21)[[22]](#ref22) | * 2.5–2.6 million ya - first use of stone tools for processing meat [[21]](#ref21)
+| Paleolithic period\* | 2.5 million ya to 10,000 – 12,000 ya[[21]](#ref21)[[22]](#ref22) | * 2.5–2.6 million ya - first use of stone tools for processing meat [[21]](#ref21)
 * 30–250 kya - earliest fire and hearth structures [[21]](#ref21)
 * 100–130 kya - earliest evidence of seed and wheat-predecessor consumption[[24]](#ref24)
 * 44–100 kya - possible first evidence of bean consumption[[24]](#ref24)
@@ -109,7 +109,7 @@ Timeline of important dietary developments in (pre-)human history| Cultural peri
 | Neolithic period | 8,000 – 5,500 ya to the beginning of the Bronze Age (depending on location)[[22]](#ref22) | * Widespread agrarian practices (e.g., domestication of plants and animals, food production practices) mark the beginning of the Neolithic period
  |
 | ya = years ago
-kya = thousand years ago |  | *Anatomically modern humans first appeared around 200 kya and dispersed out of Africa around 50 ka. Many of the dietary developments in the Paleolithic Period occurred among pre-human ancestors or evolutionary cousins, not modern humans. |
+kya = thousand years ago |  | \*Anatomically modern humans first appeared around 200 kya and dispersed out of Africa around 50 ka. Many of the dietary developments in the Paleolithic Period occurred among pre-human ancestors or evolutionary cousins, not modern humans. |
 
 
 🔍 **Digging Deeper:** When was the Stone Age?
