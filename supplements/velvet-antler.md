@@ -68,7 +68,7 @@ One study[[14]](#ref14) (duplicated in Medline[[15]](#ref15)) that used a water 
 
 
 
-> Only one study currently, but Velvet Antler may have anti-additive properties on opioid compounds
+> Only one study currently, but Velvet Antler may have anti-addictive properties on opioid compounds.
 
 
 #### 2.3Neurogenesis
