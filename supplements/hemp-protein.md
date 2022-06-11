@@ -15,7 +15,7 @@
 Hemp is the common name for the plant *Cannabis sativa*, which has a history of being a multipurpose crop for fiber, food, and medicinal products; farming of Hemp was banned around 1930 due to the psychoactives in [Marijuana](/supplements/cannabis/) and was repermitted in 1998 (Canadian data but appears to extend to Australia, Austria, China, Great Britain, France and Spain but not the US[[1]](#ref1)) due to Hemp being bred to contain less than 0.3% of the main main marijuana psychoactive (delta-9-tetrahydrocannabinol).[[2]](#ref2) All hemp products sold as food products (legally) abide by this and appear to contain less than 0.3% THC (in reference to total product weight).[[3]](#ref3)[[4]](#ref4)
 
 
-Hemp can be cultivated for the oil component or the fiber component with the latter being more popular economically, and has some roots in [Traditional Chinese Medicine](/supplements/traditional-chinese-medicine/) where the seed kernel is referred to as *Huo Ma Ren*[[5]](#ref5) for the treatment of conspitation, gastrointestinal disease, and aging.[[6]](#ref6) Hempseeds are also referred to as *Fructus cannabis* (fruits of cannabis).[[6]](#ref6)
+Hemp can be cultivated for the oil component or the fiber component with the latter being more popular economically, and has some roots in [Traditional Chinese Medicine](/supplements/traditional-chinese-medicine/) where the seed kernel is referred to as *Huo Ma Ren*[[5]](#ref5) for the treatment of constipation, gastrointestinal disease, and aging.[[6]](#ref6) Hempseeds are also referred to as *Fructus cannabis* (fruits of cannabis).[[6]](#ref6)
 
 
 #### 1.2Composition
