@@ -231,7 +231,7 @@ In children with ADHD, 30mg elemental zinc daily for 13 weeks (final five weeks 
 
 
 
-> While zinc at 30mg elemental zinc appears to be slightly effective as an addition to D-amphetamine therapy, it does not appear to inhernetly have a significant therapeutic benefit
+> While zinc at 30mg elemental zinc appears to be slightly effective as an addition to D-amphetamine therapy, it does not appear to inherently have a significant therapeutic benefit
 
 
 #### 3.8Depression
@@ -264,7 +264,7 @@ In persons given imipramine but were resistant to treatment, supplementation of 
 
 
 
-> Zinc appears to be notably effective in treatment resistant depression alongside other pharmaceuticals, although it does not seem to inhernetly have an effect in depression that is responsive to treatment. The *per se* antidepressant effects of zinc supplementation in persons without treated depression are modest at best
+> Zinc appears to be notably effective in treatment resistant depression alongside other pharmaceuticals, although it does not seem to inherently have an effect in depression that is responsive to treatment. The *per se* antidepressant effects of zinc supplementation in persons without treated depression are modest at best
 
 
 #### 3.9Memory and Learning
@@ -668,7 +668,7 @@ Orally supplemented zinc to research animals is able to reduce oxidative damage 
 
 
 
-> Supplemental zinc may reduce the damage done by oxidative stressors to the testes in rodents that are not inhernetly deficient in zinc
+> Supplemental zinc may reduce the damage done by oxidative stressors to the testes in rodents that are not inherently deficient in zinc
 
 
 In infertile men, supplementation of zinc can increase sperm count only in men who also have low testosterone concentrations in their blood; this is associated with an increase in fertility, and not observed in men who are infertile with adequate testosterone concentrations.[[171]](#ref171)
@@ -805,7 +805,7 @@ While studies that investigate ZMA *per se* don't tend to measure DHT directly, 
 
 
 
-> Zinc is inhernetly a potent 5α-reductase inhibitor (type I) and this potency is augmented by the addition of B6. While this leads to the assumption that the combination would cause an increase in testosterone at the expense of DHT, this doesn't appear to occur following oral supplementation of standard doses of either supplements. This may be due to such a large concentration being required for potent inhibition and this concentration just not occurring with oral supplementation of zinc, even after the requirements are lowered by B6
+> Zinc is inherently a potent 5α-reductase inhibitor (type I) and this potency is augmented by the addition of B6. While this leads to the assumption that the combination would cause an increase in testosterone at the expense of DHT, this doesn't appear to occur following oral supplementation of standard doses of either supplements. This may be due to such a large concentration being required for potent inhibition and this concentration just not occurring with oral supplementation of zinc, even after the requirements are lowered by B6
 
 
 #### 14.2Ethanol
