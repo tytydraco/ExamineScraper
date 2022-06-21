@@ -166,7 +166,7 @@ One study of 48 people with metabolic syndrome measured the [Framingham Score](/
 #### 5.4Atherosclerosis
 
 
-No clinical trials have studied kefir's effect on atherosclerosis. However, one small clinical trial of kefir in people with metabolic syndrome did measure levels of [oxidised LDL](/topics/ox-ldl/), which is associated with atherosclerosis, and found a modest reduction in the kefir group compared to yogurt control.[[32]](#ref32) See the [lipid profile](#lipid-profile) section below as well.
+No clinical trials have studied kefir's effect on atherosclerosis. However, one small clinical trial of kefir in people with metabolic syndrome did measure levels of [oxidised LDL](/contribute/supplements/oxidised+LDL/), which is associated with atherosclerosis, and found a modest reduction in the kefir group compared to yogurt control.[[32]](#ref32) See the [lipid profile](#lipid-profile) section below as well.
 
 
 [Back to top](#c-cardiovascular-health)
