@@ -12,7 +12,7 @@
 #### 1.1Sources and Structure
 
 
-The three amino acids [Leucine](/supplements/leucine/), [Isoleucine](/supplements/isoleucine/), and [Valine](/supplements/valine/) are referred to as Branched Chain Amino Acids (BCAAs) as they are the only three amino acids to possess a branched side chain. They are all essential amino acids,[[4]](#ref4) and collectively form the largest pool of essential amino acids in the bodily pool (35–40%) and are present in high levels (14–18%) in muscle tissue.[[5]](#ref5)[[6]](#ref6)[[7]](#ref7) The content of BCAAs in the free amino acid pool is relatively small compared to bodily stores (at around 0.1g/kg or 0.6–1.2mmol/kg of muscle tissue[[7]](#ref7)) and the fasted serum concentration of BCAAs tends to be 0.3–0.4mM (which is relatively high compared to all other amino acids, aside from [glutamine](/supplements/glutamine/)).[[8]](#ref8)[[9]](#ref9)
+The three amino acids [Leucine](/supplements/leucine/), [Isoleucine](/supplements/isoleucine/), and [Valine](/supplements/valine/) are referred to as Branched Chain Amino Acids (BCAAs) as they are the only three amino acids to possess a branched side chain. They are all essential amino acids,[[9]](#ref9) and collectively form the largest pool of essential amino acids in the bodily pool (35–40%) and are present in high levels (14–18%) in muscle tissue.[[10]](#ref10)[[11]](#ref11)[[12]](#ref12) The content of BCAAs in the free amino acid pool is relatively small compared to bodily stores (at around 0.1g/kg or 0.6–1.2mmol/kg of muscle tissue[[12]](#ref12)) and the fasted serum concentration of BCAAs tends to be 0.3–0.4mM (which is relatively high compared to all other amino acids, aside from [glutamine](/supplements/glutamine/)).[[13]](#ref13)[[14]](#ref14)
 
 
 
@@ -22,7 +22,7 @@ The three amino acids [Leucine](/supplements/leucine/), [Isoleucine](/supplement
 #### 1.2Formulations and Variants
 
 
-Livact is a brand name for BCAA granules that are used in some cases of cirrhosis, or in clinical settings.[[10]](#ref10)
+Livact is a brand name for BCAA granules that are used in some cases of cirrhosis, or in clinical settings.[[15]](#ref15)
 
 
 [Back to top](#c-sources-and-composition)
@@ -31,45 +31,45 @@ Livact is a brand name for BCAA granules that are used in some cases of cirrhosi
 #### 2.1Absorption
 
 
-After ingestion, leucine from food is catalyzed by digestive enzymes into either peptides or free amino acids. Both of these are then taken up from the gut into the liver via their respective transporters. Leucine is taken up into cells via its respective Heterodimeric Amino Acid Transporter[[11]](#ref11), most notably the glycoprotein CD98 which also mediates uptake of isoleucine, valine, tryptophan, and tyrosine (branched and aromatic amino acids).[[12]](#ref12)[[13]](#ref13) This inhibition applies to both the blood brain barrier and the intestines.[[14]](#ref14)
+After ingestion, leucine from food is catalyzed by digestive enzymes into either peptides or free amino acids. Both of these are then taken up from the gut into the liver via their respective transporters. Leucine is taken up into cells via its respective Heterodimeric Amino Acid Transporter[[16]](#ref16), most notably the glycoprotein CD98 which also mediates uptake of isoleucine, valine, tryptophan, and tyrosine (branched and aromatic amino acids).[[17]](#ref17)[[18]](#ref18) This inhibition applies to both the blood brain barrier and the intestines.[[19]](#ref19)
 
 
 #### 2.2Metabolism
 
 
-Under normal resting unfed states, the enzymes that mediate BCAA catabolism are at about 4-6% activity in the skeletal muscle of rats[[15]](#ref15)[[16]](#ref16) despite being near full capacity in the liver, which is not a main site of catabolism.[[15]](#ref15)
+Under normal resting unfed states, the enzymes that mediate BCAA catabolism are at about 4-6% activity in the skeletal muscle of rats[[20]](#ref20)[[21]](#ref21) despite being near full capacity in the liver, which is not a main site of catabolism.[[20]](#ref20)
 
 
-Increased dietary protein (from 8% to 30% of the diet) is known to increase the enzyme that catabolizes BCAAs[[17]](#ref17) and this effect is observed with an increase in dietary BCAAs alone (4.8% or 6.2% of the diet of rats)[[18]](#ref18) and with exercise.[[19]](#ref19) This suggests that BCAA serum concentrations are highly regulated and further suggests an increased dietary need with exercise.[[7]](#ref7)
+Increased dietary protein (from 8% to 30% of the diet) is known to increase the enzyme that catabolizes BCAAs[[22]](#ref22) and this effect is observed with an increase in dietary BCAAs alone (4.8% or 6.2% of the diet of rats)[[23]](#ref23) and with exercise.[[24]](#ref24) This suggests that BCAA serum concentrations are highly regulated and further suggests an increased dietary need with exercise.[[12]](#ref12)
 
 
 
 > BCAAs have their bodily stores regulated by the BCAA dehydrogenase complex, which is increased in activity with both exercise and a dietary surplus of BCAAs.
 
 
-BCAA catabolism occurs in the cell's mitochondria.[[20]](#ref20) The BCAAs undergo reversible conversion to α-keto derivatives (known as branched-chain α-keto acids) via the enzyme *branched-chain aminotransferase* (BCAT) and then is irreversibly metabolized (oxidative decarboxylation) via the *branched-chain α-keto acid dehydrogenase* (BCKDH) enzyme,[[7]](#ref7) which is thought to be the rate-limiting step of BCAA catabolism.[[20]](#ref20)[[15]](#ref15)
+BCAA catabolism occurs in the cell's mitochondria.[[25]](#ref25) The BCAAs undergo reversible conversion to α-keto derivatives (known as branched-chain α-keto acids) via the enzyme *branched-chain aminotransferase* (BCAT) and then is irreversibly metabolized (oxidative decarboxylation) via the *branched-chain α-keto acid dehydrogenase* (BCKDH) enzyme,[[12]](#ref12) which is thought to be the rate-limiting step of BCAA catabolism.[[25]](#ref25)[[20]](#ref20)
 
 
-The rate-limiting step (BCKDH enzyme) is regulated by covalent modification and is activated by BCKDH phosphatase[[21]](#ref21) and inactivated by BCKDH kinase[[22]](#ref22)[[23]](#ref23) (dephosphorylation and phosphorylation of E1α, respectively). It is thought that the activity of BCKDH kinase is a determinant of BCKDH activity overall, as they are inversely correlated,[[24]](#ref24) but a lack of information on BCKDH phosphatase exists in general.[[7]](#ref7)
+The rate-limiting step (BCKDH enzyme) is regulated by covalent modification and is activated by BCKDH phosphatase[[26]](#ref26) and inactivated by BCKDH kinase[[27]](#ref27)[[28]](#ref28) (dephosphorylation and phosphorylation of E1α, respectively). It is thought that the activity of BCKDH kinase is a determinant of BCKDH activity overall, as they are inversely correlated,[[29]](#ref29) but a lack of information on BCKDH phosphatase exists in general.[[12]](#ref12)
 
 
-Due to the high concentration of BCAT and BCKDH in skeletal muscle and low concentrations in the liver, BCAA catabolism tends to occur in skeletal muscle, [[25]](#ref25)[[16]](#ref16) hence its susceptibility to physical exercise.[[19]](#ref19) Most other essential amino acids are catabolized in the liver. There is also a higher concentration of the inhibitory enzyme (BCKDH kinase) in skeletal muscle, [[26]](#ref26) which is thought to underlie the low rates of catabolism at rest in skeletal muscle (which is not observed in liver tissue).[[15]](#ref15)[[16]](#ref16)
+Due to the high concentration of BCAT and BCKDH in skeletal muscle and low concentrations in the liver, BCAA catabolism tends to occur in skeletal muscle, [[30]](#ref30)[[21]](#ref21) hence its susceptibility to physical exercise.[[24]](#ref24) Most other essential amino acids are catabolized in the liver. There is also a higher concentration of the inhibitory enzyme (BCKDH kinase) in skeletal muscle, [[31]](#ref31) which is thought to underlie the low rates of catabolism at rest in skeletal muscle (which is not observed in liver tissue).[[20]](#ref20)[[21]](#ref21)
 
 
 
 > BCAA catabolism is controlled by the rate of the rate-limiting enzyme (BCKDH complex). This enzyme is positively (BCKDH phosphatase) and negatively (BCKDH kinase) regulated by other enzymes. They are located in high concentrations in skeletal muscle (hence localized catabolism of BCAAs) and their activity determines BCAA concentrations in a cell.
 
 
-When [leucine](/supplements/leucine/) is reversibly metabolized into *α-ketoisocaproic acid* (KIC) by BCAT using α-ketoglutarate as a cofactor (and producing glutamine in this process) and then irreversibly metabolized into isovaleryl-CoA, [Isoleucine](/supplements/isoleucine/) is reversibly metabolized into *3-methyl-2-oxopentanoate* (KMV) by BCAT using the same cofactor, and KMV is irreversibly metabolized into 2-Methylbutyryl-CoA while [valine](/supplements/valine/) is metabolized reversibly into 2-ketoisovalerate and then irreversibly into isobutyryl-CoA.[[7]](#ref7)
+When [leucine](/supplements/leucine/) is reversibly metabolized into *α-ketoisocaproic acid* (KIC) by BCAT using α-ketoglutarate as a cofactor (and producing glutamine in this process) and then irreversibly metabolized into isovaleryl-CoA, [Isoleucine](/supplements/isoleucine/) is reversibly metabolized into *3-methyl-2-oxopentanoate* (KMV) by BCAT using the same cofactor, and KMV is irreversibly metabolized into 2-Methylbutyryl-CoA while [valine](/supplements/valine/) is metabolized reversibly into 2-ketoisovalerate and then irreversibly into isobutyryl-CoA.[[12]](#ref12)
 
 
-The BCKDH complex is important in muscle protein synthesis (via leucine preservation, more preservation of this amino acid promotes more signaling from it), which is evidenced by the BCKDH kinase inhibitor clofibric acid[[27]](#ref27)[[28]](#ref28) causing myopathy after prolonged usage.[[29]](#ref29)[[30]](#ref30)
+The BCKDH complex is important in muscle protein synthesis (via leucine preservation, more preservation of this amino acid promotes more signaling from it), which is evidenced by the BCKDH kinase inhibitor clofibric acid[[32]](#ref32)[[33]](#ref33) causing myopathy after prolonged usage.[[34]](#ref34)[[35]](#ref35)
 
 
-Other activators of the BCKDH complex (increasing BCAA catabolism) include TNF-α (following injections which raised activity from 22% to 69-86% at 25-50mcg/kg) secondary to decreasing levels of the negative regulator[[31]](#ref31) and starvation (by decreasing the negative regulator).[[17]](#ref17) Additionally, all BCAA metabolites (the alpha keto acids) are inhibitors of BCKDH kinase and may increase the activity of the complex[[27]](#ref27) with α-ketoisocaproate (from leucine) being more potent than the others.[[32]](#ref32)[HMB](/supplements/hmb/) at 2mM does not inhibit this kinase.[[27]](#ref27) 
+Other activators of the BCKDH complex (increasing BCAA catabolism) include TNF-α (following injections which raised activity from 22% to 69-86% at 25-50mcg/kg) secondary to decreasing levels of the negative regulator[[36]](#ref36) and starvation (by decreasing the negative regulator).[[22]](#ref22) Additionally, all BCAA metabolites (the alpha keto acids) are inhibitors of BCKDH kinase and may increase the activity of the complex[[32]](#ref32) with α-ketoisocaproate (from leucine) being more potent than the others.[[37]](#ref37)[HMB](/supplements/hmb/) at 2mM does not inhibit this kinase.[[32]](#ref32) 
 
 
-Exercise (localized muscle contraction specifically[[32]](#ref32)) is well known to activate this complex[[17]](#ref17)[[26]](#ref26) and has been confirmed in human tissue[[33]](#ref33) associated with decreasing BCKDH kinase (negative regulator) activity thought to be secondary to altering the levels of bound kinase relative to free kinase.[[26]](#ref26)
+Exercise (localized muscle contraction specifically[[37]](#ref37)) is well known to activate this complex[[22]](#ref22)[[31]](#ref31) and has been confirmed in human tissue[[38]](#ref38) associated with decreasing BCKDH kinase (negative regulator) activity thought to be secondary to altering the levels of bound kinase relative to free kinase.[[31]](#ref31)
 
 
 
@@ -82,17 +82,17 @@ Exercise (localized muscle contraction specifically[[32]](#ref32)) is well known
 #### 3.1Serotonin
 
 
-The central hypothesis of fatigue (which assumes that elevated serotonin concentrations in the brain are associated with induction of fatigue[[34]](#ref34)[[35]](#ref35)) is thought to be related to the antifatigue effects of BCAA supplementation.[[36]](#ref36) During exercise, the plasma ratio of aromatic amino acids (applies to both tryptophan and [L-tyrosine](/supplements/l-tyrosine/) although the central hypothesis only regards the former) to long chain neutral amino acids (the BCAAs and a few others) is altered in favor of the former[[35]](#ref35)[[37]](#ref37)[[38]](#ref38) due to BCAAs undergoing oxidation and being destroyed,[[19]](#ref19) and due to tryptophan and BCAAs sharing the same transport into the brain.[[39]](#ref39)[[40]](#ref40)[[41]](#ref41) This act of transportation is the rate-limiting step.[[36]](#ref36) Any alteration in the ratio will alter what amino acids transport into the brain. Exercise has been confirmed to increase tryptophan uptake in as little as 30 minutes[[42]](#ref42)[[43]](#ref43) and increasing tryptophan availability via supplementation (without supplemnetal BCAAs) appears to promote fatigue in rats.[[44]](#ref44) 
+The central hypothesis of fatigue (which assumes that elevated serotonin concentrations in the brain are associated with induction of fatigue[[39]](#ref39)[[40]](#ref40)) is thought to be related to the antifatigue effects of BCAA supplementation.[[41]](#ref41) During exercise, the plasma ratio of aromatic amino acids (applies to both tryptophan and [L-tyrosine](/supplements/l-tyrosine/) although the central hypothesis only regards the former) to long chain neutral amino acids (the BCAAs and a few others) is altered in favor of the former[[40]](#ref40)[[42]](#ref42)[[43]](#ref43) due to BCAAs undergoing oxidation and being destroyed,[[24]](#ref24) and due to tryptophan and BCAAs sharing the same transport into the brain.[[44]](#ref44)[[45]](#ref45)[[46]](#ref46) This act of transportation is the rate-limiting step.[[41]](#ref41) Any alteration in the ratio will alter what amino acids transport into the brain. Exercise has been confirmed to increase tryptophan uptake in as little as 30 minutes[[47]](#ref47)[[48]](#ref48) and increasing tryptophan availability via supplementation (without supplemnetal BCAAs) appears to promote fatigue in rats.[[49]](#ref49) 
 
 
-It is thought the increased tryptophan transport into the brain (which produces serotonin via [5-HTP](/supplements/5-htp/)) is a possible causative factor of fatigue, and replenishing oxidized BCAAs to preserve the ratio can attenuate fatigue production.[[36]](#ref36)
+It is thought the increased tryptophan transport into the brain (which produces serotonin via [5-HTP](/supplements/5-htp/)) is a possible causative factor of fatigue, and replenishing oxidized BCAAs to preserve the ratio can attenuate fatigue production.[[41]](#ref41)
 
 
 
 > Theoretically, tryptophan uptake into the brain increases during exercise. The increased synthesis of serotonin promotes fatigue and sedation. As BCAAs share the same transport into the brain as tryptophan, it is thought loading them prior to exercise is able to hinder tryptophan uptake and serotonin production, thus hindering the onset of fatigue.
 
 
-Rats fed a diet containing 3.57-4.76% BCAAs for 6 weeks (control at 1.78%) failed to alter post-exercise serotonin in the hypothalamus as assessed by biopsy[[45]](#ref45) but elsewhere valine supplementation (20mg/kg bodyweight) injected immediately prior to running was able to prevent an exercise-induced increase in serotonin production (measured in the hippocampus) at 30 minutes, with mixed efficacy at 90 minutes (serotonin was lower, tryptophan and 5-HIAA were not)[[46]](#ref46)
+Rats fed a diet containing 3.57-4.76% BCAAs for 6 weeks (control at 1.78%) failed to alter post-exercise serotonin in the hypothalamus as assessed by biopsy[[50]](#ref50) but elsewhere valine supplementation (20mg/kg bodyweight) injected immediately prior to running was able to prevent an exercise-induced increase in serotonin production (measured in the hippocampus) at 30 minutes, with mixed efficacy at 90 minutes (serotonin was lower, tryptophan and 5-HIAA were not)[[51]](#ref51)
 
 
 
@@ -102,17 +102,17 @@ Rats fed a diet containing 3.57-4.76% BCAAs for 6 weeks (control at 1.78%) faile
 #### 3.2Excitation
 
 
-Although the association between athletes and Amyotrophic Lateral Sclerosis (ALS) is somewhat unreliable and is still up for debate[[47]](#ref47) with both positive[[48]](#ref48)[[49]](#ref49) and null[[50]](#ref50) evidence, investigation into agents possibly used by these athletes were conducted and BCAAs were suspected.
+Although the association between athletes and Amyotrophic Lateral Sclerosis (ALS) is somewhat unreliable and is still up for debate[[52]](#ref52) with both positive[[53]](#ref53)[[54]](#ref54) and null[[55]](#ref55) evidence, investigation into agents possibly used by these athletes were conducted and BCAAs were suspected.
 
 
 
 > The epidemiological link between ALS and athletes is somewhat weak and inconsistent, and even the link between ALS and BCAA supplementation (hypothesized to be more commonly occurring in athletes) is currently unsupported.
 
 
-BCAAs have been noted to cause hyperexcitation of neurons (without affecting resting membrane potential) *in vitro* via mTOR dependent means (blocked by rapamycin) while requiring a sodium channel (blocked by Riluzole). Dose-dependence between 10-300μM was shown with [valine](/supplements/valine/), though [[51]](#ref51) this did not occur with amino acids without a branched chain.
+BCAAs have been noted to cause hyperexcitation of neurons (without affecting resting membrane potential) *in vitro* via mTOR dependent means (blocked by rapamycin) while requiring a sodium channel (blocked by Riluzole). Dose-dependence between 10-300μM was shown with [valine](/supplements/valine/), though [[56]](#ref56) this did not occur with amino acids without a branched chain.
 
 
-As hyperexcitability of neurons is a pathological feature of ALS in humans[[52]](#ref52)[[53]](#ref53) and in the mouse model which mimicks ALS (the G93A model[[54]](#ref54)[[55]](#ref55)), it was thought that this induced hyperexcitability could be a mechanism of action. BCAA-induced hypersensitivity also appeared to be sodium channel dependent, and occurred in mice (B6SJL strain) raised from birth with 2.5% of their diet being BCAAs (1:1:1 ratio).[[51]](#ref51)
+As hyperexcitability of neurons is a pathological feature of ALS in humans[[57]](#ref57)[[58]](#ref58) and in the mouse model which mimicks ALS (the G93A model[[59]](#ref59)[[60]](#ref60)), it was thought that this induced hyperexcitability could be a mechanism of action. BCAA-induced hypersensitivity also appeared to be sodium channel dependent, and occurred in mice (B6SJL strain) raised from birth with 2.5% of their diet being BCAAs (1:1:1 ratio).[[56]](#ref56)
 
 
 
@@ -125,43 +125,43 @@ As hyperexcitability of neurons is a pathological feature of ALS in humans[[52]]
 #### 4.1Mechanisms
 
 
-Leucine has the potential to promote insulin-induced activation of Akt, but it requires PI3K to be inhibited or suppressed first (and then leucine preserves insulin-induced Akt activation).[[56]](#ref56)
+Leucine has the potential to promote insulin-induced activation of Akt, but it requires PI3K to be inhibited or suppressed first (and then leucine preserves insulin-induced Akt activation).[[61]](#ref61)
 
 
-In conditions where insulin is not present, 2mM leucine and (to a lesser degree) its metabolite α-ketoisocaproate appear to promote glucose uptake via PI3K/aPKC (atypical PKC[[57]](#ref57)) and independent of mTOR (blocking mTOR does not alter the effects).[[58]](#ref58) This study noted stimulation only at 2-2.5mM for 15-45 minutes (resistance developed at 60 minutes) and was comparable in potency to physiological concentrations of basal insulin but underperformed (50% as potent) as 100nM insulin.[[58]](#ref58)
+In conditions where insulin is not present, 2mM leucine and (to a lesser degree) its metabolite α-ketoisocaproate appear to promote glucose uptake via PI3K/aPKC (atypical PKC[[62]](#ref62)) and independent of mTOR (blocking mTOR does not alter the effects).[[63]](#ref63) This study noted stimulation only at 2-2.5mM for 15-45 minutes (resistance developed at 60 minutes) and was comparable in potency to physiological concentrations of basal insulin but underperformed (50% as potent) as 100nM insulin.[[63]](#ref63)
 
 
 
 > It is possible that leucine can promote glucose uptake in some instances, such as when PI3K is inhibited or when insulin is not present in a cell culture but leucine is (acutely). It appears to have similar mechanisms to isoleucine.
 
 
-[Leucine](/supplements/leucine/) is also able to hinder cellular glucose uptake, [[59]](#ref59)[[60]](#ref60)[[61]](#ref61) which is thought to either be related to activation of mTOR signaling, which naturally suppresses AMPK signaling,[[62]](#ref62) (AMPK signaling being one that mediates glucose uptake during periods of low cellular energy and exercise[[63]](#ref63)[[64]](#ref64)) or due to leucine suppressing glucose oxidation, as seen during fasting in muscle cells[[59]](#ref59) (a relative preservation of glucose would result in higher cellular concentrations and thus less recompensatory uptake) which is also possibly related to mTOR signaling. Signaling via this pathway is a negative-feedback mechanism of glucose uptake, as it is normally activated by insulin[[65]](#ref65) and activation or mTOR eventually hinders IRS-1 signaling[[66]](#ref66) (the first substrate after the insulin receptor in the signaling pathway) as mTOR's activation of S6K1 (which induces protein synthesis) also creates serine-threonine kinases, which degrade IRS-1.[[67]](#ref67)
+[Leucine](/supplements/leucine/) is also able to hinder cellular glucose uptake, [[64]](#ref64)[[65]](#ref65)[[66]](#ref66) which is thought to either be related to activation of mTOR signaling, which naturally suppresses AMPK signaling,[[67]](#ref67) (AMPK signaling being one that mediates glucose uptake during periods of low cellular energy and exercise[[68]](#ref68)[[69]](#ref69)) or due to leucine suppressing glucose oxidation, as seen during fasting in muscle cells[[64]](#ref64) (a relative preservation of glucose would result in higher cellular concentrations and thus less recompensatory uptake) which is also possibly related to mTOR signaling. Signaling via this pathway is a negative-feedback mechanism of glucose uptake, as it is normally activated by insulin[[70]](#ref70) and activation or mTOR eventually hinders IRS-1 signaling[[71]](#ref71) (the first substrate after the insulin receptor in the signaling pathway) as mTOR's activation of S6K1 (which induces protein synthesis) also creates serine-threonine kinases, which degrade IRS-1.[[72]](#ref72)
 
 
-This effect does not appear to be immediate, and cellular culture studies that note glucose uptake also note that prolonged (60 minutes) exposure to leucine eliminates any glucose uptake induced by it,[[58]](#ref58) which suggests some form of negative feedback. Additionally, this may explain why the leucine-stimulated increase in glucose uptake is suppressed after 60 minutes.[[58]](#ref58)
+This effect does not appear to be immediate, and cellular culture studies that note glucose uptake also note that prolonged (60 minutes) exposure to leucine eliminates any glucose uptake induced by it,[[63]](#ref63) which suggests some form of negative feedback. Additionally, this may explain why the leucine-stimulated increase in glucose uptake is suppressed after 60 minutes.[[63]](#ref63)
 
 
-The state of hyperaminoacidemia has been noted to induce a transient and reversible state of insulin resistance, thought to be related to leucine content.[[60]](#ref60) Elevated plasma BCAAs are observed during obesity and are correlated with insulin resistance.[[68]](#ref68)[[69]](#ref69) Fasting is accompanied by reduced amino acids in serum and increased insulin sensitivity, thought to be due to the amino acid reduction.[[61]](#ref61) On a cellular level, this is alleviated with leucine[[59]](#ref59) and seen with mixed amino acids *in vivo*.[[61]](#ref61)
+The state of hyperaminoacidemia has been noted to induce a transient and reversible state of insulin resistance, thought to be related to leucine content.[[65]](#ref65) Elevated plasma BCAAs are observed during obesity and are correlated with insulin resistance.[[73]](#ref73)[[74]](#ref74) Fasting is accompanied by reduced amino acids in serum and increased insulin sensitivity, thought to be due to the amino acid reduction.[[66]](#ref66) On a cellular level, this is alleviated with leucine[[64]](#ref64) and seen with mixed amino acids *in vivo*.[[66]](#ref66)
 
 
-Valine has also shown an inhibitory effect on glucose uptake into muscle cells, but it appears to be more fast acting than leucine (0.3g/kg of either amino acid causing a spike in glucose relative to control at 30 minutes (valine) or 90 minutes with leucine).[[70]](#ref70)
+Valine has also shown an inhibitory effect on glucose uptake into muscle cells, but it appears to be more fast acting than leucine (0.3g/kg of either amino acid causing a spike in glucose relative to control at 30 minutes (valine) or 90 minutes with leucine).[[75]](#ref75)
 
 
 
 > Leucine, secondary to signaling for muscle protein synthesis, can also suppress glucose uptake into a cell after incubation for about an hour, since it may be stimulatory until it suppresses its own actions. Valine has been noted to increase serum glucose more rapidly in the body, suggesting either a faster negative regulation or just no promotion of glucose uptake.
 
 
-[Isoleucine](/supplements/isoleucine/) is known to promote muscular uptake of glucose.[[70]](#ref70)[[71]](#ref71)[[72]](#ref72) The effects of [isoleucine](/supplements/isoleucine/) (which can be examined in-depth on its respective page) appear to mostly be independent of the mTOR/AMPK axis, fully dependent on PI3K/PKC, and possibly related to reducing gluconeogenesis of fatty acids (producing less glucose would cause more to need to be taken up from the blood to meet cellular demands).
+[Isoleucine](/supplements/isoleucine/) is known to promote muscular uptake of glucose.[[75]](#ref75)[[76]](#ref76)[[77]](#ref77) The effects of [isoleucine](/supplements/isoleucine/) (which can be examined in-depth on its respective page) appear to mostly be independent of the mTOR/AMPK axis, fully dependent on PI3K/PKC, and possibly related to reducing gluconeogenesis of fatty acids (producing less glucose would cause more to need to be taken up from the blood to meet cellular demands).
 
 
-Isoleucine is not known to increase glycogen synthesis[[70]](#ref70) like leucine is[[73]](#ref73) possibly due to glycogen synthesis from amino acids being dependent on mTOR activation,[[74]](#ref74)[[73]](#ref73) which is the result of leucine[[62]](#ref62) and not isoleucine.[[58]](#ref58)
+Isoleucine is not known to increase glycogen synthesis[[75]](#ref75) like leucine is[[78]](#ref78) possibly due to glycogen synthesis from amino acids being dependent on mTOR activation,[[79]](#ref79)[[78]](#ref78) which is the result of leucine[[67]](#ref67) and not isoleucine.[[63]](#ref63)
 
 
 
 > Isoleucine counters leucine and can promote glucose uptake into a muscle cell, and although the mechanisms are not fully established, it may be a secondary effect to reducing gluconeogenesis of amino acids. Glycogen synthesis is not upregulated with isoleucine, only uptake and consumption.
 
 
-Both [valine](/supplements/valine/) and isoleucine are glucogenic amino acids and may be converted into glucose in the human body.[[75]](#ref75) Leucine is unable to do this and is known as ketogenic, meaning it produces ketone bodies.
+Both [valine](/supplements/valine/) and isoleucine are glucogenic amino acids and may be converted into glucose in the human body.[[80]](#ref80) Leucine is unable to do this and is known as ketogenic, meaning it produces ketone bodies.
 
 
 
@@ -171,19 +171,19 @@ Both [valine](/supplements/valine/) and isoleucine are glucogenic amino acids an
 #### 4.2Glycogen
 
 
-It has been observed that activation of BCAA transaminase occurs during glycogen depletion[[76]](#ref76)[[77]](#ref77) and that the two BCAAs known as isoleucine and valine are capable of being converted to succinyl-CoA (and possibly increase fat oxidation secondary to oxaloacetate;[[78]](#ref78) any increase in fat oxidation being able to suppress the rate of glycogen loss during exercise due to comparatively using more lipids).
+It has been observed that activation of BCAA transaminase occurs during glycogen depletion[[81]](#ref81)[[82]](#ref82) and that the two BCAAs known as isoleucine and valine are capable of being converted to succinyl-CoA (and possibly increase fat oxidation secondary to oxaloacetate;[[83]](#ref83) any increase in fat oxidation being able to suppress the rate of glycogen loss during exercise due to comparatively using more lipids).
 
 
-Branched chain amino acid supplementation has been noted to preserve hepatic and skeletal muscle glycogen stores after a bout of acute exercise relative to placebo,[[18]](#ref18)[[45]](#ref45) which has been noted in humans subject to submaximal cycling tests with 90mg/kg BCAAs[[79]](#ref79) with no inherent effect on glycogen at rest.[[18]](#ref18)
+Branched chain amino acid supplementation has been noted to preserve hepatic and skeletal muscle glycogen stores after a bout of acute exercise relative to placebo,[[23]](#ref23)[[50]](#ref50) which has been noted in humans subject to submaximal cycling tests with 90mg/kg BCAAs[[84]](#ref84) with no inherent effect on glycogen at rest.[[23]](#ref23)
 
 
-Another study reported 300mg/kg BCAA supplementation (distribution not disclosed) resulting in an increase in blood glucose without altering plasma free fatty acids and lactate in otherwise healthy men subject to glycogen depletion, although a reduction in RER (indicative of more fat oxidation) was noted.[[78]](#ref78)
+Another study reported 300mg/kg BCAA supplementation (distribution not disclosed) resulting in an increase in blood glucose without altering plasma free fatty acids and lactate in otherwise healthy men subject to glycogen depletion, although a reduction in RER (indicative of more fat oxidation) was noted.[[83]](#ref83)
 
 
 #### 4.3Blood Glucose
 
 
-Possibly related to the general benefits in liver pathology (usually chronic hepatitis),[[80]](#ref80)[[81]](#ref81) increased muscular glucose uptake has been noted in a rat model of liver cirrhosis[[82]](#ref82) which has spurred human research. In people with chronic hepatitis C and insulin resistance given BCAA supplementation (12.45g after breakfast and dinner and one dose before sleep) was able to improve insulin sensitivity (Matsuda; no change in HOMA-IR) in a subset of the sample who also benefitted with reduced HbA1c. This did not occur in all participants.[[83]](#ref83)
+Possibly related to the general benefits in liver pathology (usually chronic hepatitis),[[85]](#ref85)[[86]](#ref86) increased muscular glucose uptake has been noted in a rat model of liver cirrhosis[[87]](#ref87) which has spurred human research. In people with chronic hepatitis C and insulin resistance given BCAA supplementation (12.45g after breakfast and dinner and one dose before sleep) was able to improve insulin sensitivity (Matsuda; no change in HOMA-IR) in a subset of the sample who also benefitted with reduced HbA1c. This did not occur in all participants.[[88]](#ref88)
 
 
 
@@ -193,13 +193,13 @@ Possibly related to the general benefits in liver pathology (usually chronic hep
 #### 4.4Insulin Sensitivity
 
 
-Serum BCAAs appear to be elevated in the fasted state in both obesity[[84]](#ref84)[[85]](#ref85) and when investigating dietary intake of insulin sensitive and resistant people (resistance is also associated with higher fasting BCAA intake[[68]](#ref68) and improvement upon weight loss is correlated with normalization of BCAA metabolism[[86]](#ref86)). There do not appear to be large dietary differences between the two states.[[87]](#ref87)[[69]](#ref69)
+Serum BCAAs appear to be elevated in the fasted state in both obesity[[89]](#ref89)[[90]](#ref90) and when investigating dietary intake of insulin sensitive and resistant people (resistance is also associated with higher fasting BCAA intake[[73]](#ref73) and improvement upon weight loss is correlated with normalization of BCAA metabolism[[91]](#ref91)). There do not appear to be large dietary differences between the two states.[[92]](#ref92)[[74]](#ref74)
 
 
-At least in rats, the increase in serum BCAAs appears to correlate with less activity of the BCKDH enzyme complex in adipose tissue[[88]](#ref88) and this enzyme complex appears to be downregulated in the adipose of obese, insulin resistant individuals, relative to their monozygotic twins.[[89]](#ref89) Although less researched, it is possible this effect extends to skeletal muscle tissue as well, as a downregulation of some enzymes in the BCAA catabolic chain (*methyl-malonate-semialdehyde dehydrogenase* and *propionyl-CoA carboxylase β*) has been noted in humans.[[90]](#ref90)
+At least in rats, the increase in serum BCAAs appears to correlate with less activity of the BCKDH enzyme complex in adipose tissue[[93]](#ref93) and this enzyme complex appears to be downregulated in the adipose of obese, insulin resistant individuals, relative to their monozygotic twins.[[94]](#ref94) Although less researched, it is possible this effect extends to skeletal muscle tissue as well, as a downregulation of some enzymes in the BCAA catabolic chain (*methyl-malonate-semialdehyde dehydrogenase* and *propionyl-CoA carboxylase β*) has been noted in humans.[[95]](#ref95)
 
 
-It is theoretically plausible that excess serum leucine can exacerbate insulin resistance, but the overall relationship is not completely clear[[91]](#ref91) since both leucine deprivation[[92]](#ref92) and high leucine feeding[[93]](#ref93) improve insulin resistant states in rats.
+It is theoretically plausible that excess serum leucine can exacerbate insulin resistance, but the overall relationship is not completely clear[[96]](#ref96) since both leucine deprivation[[97]](#ref97) and high leucine feeding[[98]](#ref98) improve insulin resistant states in rats.
 
 
 
@@ -212,30 +212,30 @@ It is theoretically plausible that excess serum leucine can exacerbate insulin r
 #### 5.1Mechanisms (Skeletal Muscle)
 
 
-[Leucine](/supplements/leucine/) is able to activate a protein called 'Target of Rapamycin' (TOR or mTOR in mammals) which stimulates protein synthesis. Inhibiting this protein can prevent the anabolic effects of leucine in rats[[94]](#ref94) and humans.[[95]](#ref95) mTOR is commonly referred to as the main metabolic target of leucine, and mTOR itself activates the p70 subunit of S6 Kinase (p70S6K in short, ultimately via Ser483[[96]](#ref96)) which upregulates ribosomal protein S6 and protein synthesis via signaling through the genome.[[97]](#ref97) The eukaryotic binding factor (eIF) is activated and its binding factor (the eukaryotic initiation factor 4E-binding protein; 4E-BP1) is suppressed by mTOR.[[98]](#ref98)[[99]](#ref99)[[100]](#ref100) Beyond leucine, mTOR can be activated by exercise (muscle contraction, requires a 1-2 hour delay[[101]](#ref101)[[102]](#ref102) related to increasing phosphatidic acid signaling[[103]](#ref103) and reducing negative regulators[[104]](#ref104)) insulin,[[105]](#ref105) and caloric excess (without altering nutrition).[[106]](#ref106)
+[Leucine](/supplements/leucine/) is able to activate a protein called 'Target of Rapamycin' (TOR or mTOR in mammals) which stimulates protein synthesis. Inhibiting this protein can prevent the anabolic effects of leucine in rats[[99]](#ref99) and humans.[[100]](#ref100) mTOR is commonly referred to as the main metabolic target of leucine, and mTOR itself activates the p70 subunit of S6 Kinase (p70S6K in short, ultimately via Ser483[[101]](#ref101)) which upregulates ribosomal protein S6 and protein synthesis via signaling through the genome.[[102]](#ref102) The eukaryotic binding factor (eIF) is activated and its binding factor (the eukaryotic initiation factor 4E-binding protein; 4E-BP1) is suppressed by mTOR.[[103]](#ref103)[[104]](#ref104)[[105]](#ref105) Beyond leucine, mTOR can be activated by exercise (muscle contraction, requires a 1-2 hour delay[[106]](#ref106)[[107]](#ref107) related to increasing phosphatidic acid signaling[[108]](#ref108) and reducing negative regulators[[109]](#ref109)) insulin,[[110]](#ref110) and caloric excess (without altering nutrition).[[111]](#ref111)
 
 
-These effects have been observed in human muscle (assessed via biopsy) following exercise and ingestion of BCAAs. [[97]](#ref97) mTOR activation has been noted in human muscle at rest following ingestion of BCAAs[[107]](#ref107) and isolated leucine.[[108]](#ref108)[[109]](#ref109) Both 4E-BP1 and p70S6K have also been confirmed with BCAAs[[110]](#ref110) and leucine.[[111]](#ref111)
+These effects have been observed in human muscle (assessed via biopsy) following exercise and ingestion of BCAAs. [[102]](#ref102) mTOR activation has been noted in human muscle at rest following ingestion of BCAAs[[112]](#ref112) and isolated leucine.[[113]](#ref113)[[114]](#ref114) Both 4E-BP1 and p70S6K have also been confirmed with BCAAs[[115]](#ref115) and leucine.[[116]](#ref116)
 
 
-Although Akt (also known as Protein Kinase B or PKB; downstream of the insulin receptor and upstream of mTOR) can activate mTOR directly[[112]](#ref112) or indirectly via TSC2,[[113]](#ref113)[[114]](#ref114) which enhances protein translation (via deactivating GSK-3 and enhancing eIF2B signaling[[115]](#ref115)) induced by S6K1,[[116]](#ref116) this pathway is mostly irrelevant to leucine supplementation as leucine does not influence Akt or GSK-3.[[111]](#ref111)[[97]](#ref97)
+Although Akt (also known as Protein Kinase B or PKB; downstream of the insulin receptor and upstream of mTOR) can activate mTOR directly[[117]](#ref117) or indirectly via TSC2,[[118]](#ref118)[[119]](#ref119) which enhances protein translation (via deactivating GSK-3 and enhancing eIF2B signaling[[120]](#ref120)) induced by S6K1,[[121]](#ref121) this pathway is mostly irrelevant to leucine supplementation as leucine does not influence Akt or GSK-3.[[116]](#ref116)[[102]](#ref102)
 
 
 
 > The anabolic effects of leucine are mediated via the mTOR pathway, which responds to dietary leucine to induce muscle protein synthesis. Although mTOR is activated by Akt/PKB signaling (usually from insulin signaling), leucine does not activate this protein and seems to selectively activate mTOR.
 
 
-MAFbx (*muscle atrophy F-box*) and MuRF-1 (*muscle RING-finger 1*) are two muscle-specific proteins associated with catabolism and atrophy,[[117]](#ref117)[[118]](#ref118) which are positively regulated by FOXO signaling[[119]](#ref119) (FOXO signaling is negatively regulated by PI3K/Akt[[120]](#ref120)).
+MAFbx (*muscle atrophy F-box*) and MuRF-1 (*muscle RING-finger 1*) are two muscle-specific proteins associated with catabolism and atrophy,[[122]](#ref122)[[123]](#ref123) which are positively regulated by FOXO signaling[[124]](#ref124) (FOXO signaling is negatively regulated by PI3K/Akt[[125]](#ref125)).
 
 
-mRNA for MAFbx appears to be reduced by BCAA supplementation (85mg/kg with 45% leucine and 30% valine) following rest (30%) and exercise (50%). MuRF-1 levels, which are induced by exercise, are augmented (50% greater than placebo) with BCAA supplementation, despite the protein content of MuRF-1 being suppressed (20% increase in placebo).[[121]](#ref121)
+mRNA for MAFbx appears to be reduced by BCAA supplementation (85mg/kg with 45% leucine and 30% valine) following rest (30%) and exercise (50%). MuRF-1 levels, which are induced by exercise, are augmented (50% greater than placebo) with BCAA supplementation, despite the protein content of MuRF-1 being suppressed (20% increase in placebo).[[126]](#ref126)
 
 
 
 > Proteins involved in muscle protein atrophy (breakdown) appear to be suppressed following ingestion of BCAA supplementation and exercise, which could be an indirect mechanism of muscle protein synthesis.
 
 
-Leucine may also increase insulin secretion,[[122]](#ref122)[[123]](#ref123) and insulin can induce phosphorylation of mTOR via its receptor.[[105]](#ref105) So, although branched chain amino acids and leucine regulate protein synthesis via an Akt/mTOR axis, so does insulin.[[100]](#ref100) The usage of norleucine, which shares properties of leucine in regard to mTOR, but not in the secretion of insulin, demonstrates that insulin *per se* is not required to achieve relatively similar levels of protein synthesis.[[124]](#ref124)[[125]](#ref125)[[126]](#ref126)
+Leucine may also increase insulin secretion,[[127]](#ref127)[[128]](#ref128) and insulin can induce phosphorylation of mTOR via its receptor.[[110]](#ref110) So, although branched chain amino acids and leucine regulate protein synthesis via an Akt/mTOR axis, so does insulin.[[105]](#ref105) The usage of norleucine, which shares properties of leucine in regard to mTOR, but not in the secretion of insulin, demonstrates that insulin *per se* is not required to achieve relatively similar levels of protein synthesis.[[129]](#ref129)[[130]](#ref130)[[131]](#ref131)
 
 
 
@@ -245,10 +245,10 @@ Leucine may also increase insulin secretion,[[122]](#ref122)[[123]](#ref123) and
 #### 5.2Mechanisms (Fatigue)
 
 
-Ammonia (a possible promoter of fatigue associated with muscle breakdown[[127]](#ref127)[[34]](#ref34)) appears to have bilateral influences with BCAA supplementation. Increasing the dietary intake of BCAAs to 3.57% in rats (a 50% dietary intake for 6 weeks) is able to improve exercise by 37%, associated with a reduction in ammonia production, while a 100% increase (4.76% overall) reverses this trend and impairs exercise by 43% and is associated with an increase in ammonia production.[[45]](#ref45) In humans, 100mg/kg of a 2:1:1 BCAA solution (favoring leucine) prior to a squat exercise in untrained females appears to increase ammonia concentrations relative to placebo 0-2 hours after exercise, yet decrease it 2 days after, with no difference at 3 days.[[128]](#ref128)
+Ammonia (a possible promoter of fatigue associated with muscle breakdown[[132]](#ref132)[[39]](#ref39)) appears to have bilateral influences with BCAA supplementation. Increasing the dietary intake of BCAAs to 3.57% in rats (a 50% dietary intake for 6 weeks) is able to improve exercise by 37%, associated with a reduction in ammonia production, while a 100% increase (4.76% overall) reverses this trend and impairs exercise by 43% and is associated with an increase in ammonia production.[[50]](#ref50) In humans, 100mg/kg of a 2:1:1 BCAA solution (favoring leucine) prior to a squat exercise in untrained females appears to increase ammonia concentrations relative to placebo 0-2 hours after exercise, yet decrease it 2 days after, with no difference at 3 days.[[133]](#ref133)
 
 
-Lactate has been noted to decrease in untrained females given 100mg/kg of BCAAs[[128]](#ref128) but does not appear to be a requirement in rats (fatigue has been noted to be reduced despite no changes in lactate).[[45]](#ref45)
+Lactate has been noted to decrease in untrained females given 100mg/kg of BCAAs[[133]](#ref133) but does not appear to be a requirement in rats (fatigue has been noted to be reduced despite no changes in lactate).[[50]](#ref50)
 
 
 
@@ -258,10 +258,10 @@ Lactate has been noted to decrease in untrained females given 100mg/kg of BCAAs[
 #### 5.3Interventions (Aesthetics)
 
 
-A study shows that 4g of isolated leucine supplementation in untrained men (dietary protein intake of 0.90g/kg) given a new workout program for 12 weeks is able to promote power output (from 31.0% in placebo to 40.8%) without significantly affecting lean mass or fat mass.[[129]](#ref129)
+A study shows that 4g of isolated leucine supplementation in untrained men (dietary protein intake of 0.90g/kg) given a new workout program for 12 weeks is able to promote power output (from 31.0% in placebo to 40.8%) without significantly affecting lean mass or fat mass.[[134]](#ref134)
 
 
-In trained men given 14g BCAAs daily for 8 weeks alongside a routine weightlifting plan, consumption of BCAAs promoted fat loss (2.2% body fat) and promoted lean mass accrual (4.2kg) to a greater extent than 28g of whey protein (2.1kg lean mass and 1.2% body fat) and 28g carbohydrate (1.4kg lean mass and 0.6% body fat).[[2]](#ref2) Although this study is promising, it has a few complications (diet was not recorded nor controlled, BCAAs were confounded with the inclusion of [glutamine](/supplements/glutamine/) (5g) and [citrulline](/supplements/citrulline/) malate (2g), funded by a supplement company called Scivation).[[2]](#ref2)
+In trained men given 14g BCAAs daily for 8 weeks alongside a routine weightlifting plan, consumption of BCAAs promoted fat loss (2.2% body fat) and promoted lean mass accrual (4.2kg) to a greater extent than 28g of whey protein (2.1kg lean mass and 1.2% body fat) and 28g carbohydrate (1.4kg lean mass and 0.6% body fat).[[7]](#ref7) Although this study is promising, it has a few complications (diet was not recorded nor controlled, BCAAs were confounded with the inclusion of [glutamine](/supplements/glutamine/) (5g) and [citrulline](/supplements/citrulline/) malate (2g), funded by a supplement company called Scivation).[[7]](#ref7)
 
 
 
@@ -271,24 +271,24 @@ In trained men given 14g BCAAs daily for 8 weeks alongside a routine weightlifti
 #### 5.4Interventions (Fatigue)
 
 
-A study that recruited twelve elite male offshore racers divided into two groups prior to a prolonged test (33 hours and 155 miles), ingesting a supplement containing high levels of BCAAs (36.25g valine, 25.4g leucine, 10.9g isoleucine) every six hours noted that the supplementation group took until the second day of sailing to report themselves as less tired. The increase in memory errors noted in control did not occur in the BCAA group.[[130]](#ref130) Elsewhere, participants engaging in 6-8 hours of ski mountaineering failed to experience a benefit (assessed by power output on a erg) with BCAA supplementation[[131]](#ref131) while one study comparing a 91g glucose beverage as placebo against a 40g glucose/51g amino acid (BCAA and [Arginine](/supplements/arginine/)) in fatigue on a mountain trial walking test (14km, 2857m mountain) in older individuals noted that the substitution of amino acids preserved jump squat performance by 10% (but only due to a trend to reduce perceived soreness).[[132]](#ref132)
+A study that recruited twelve elite male offshore racers divided into two groups prior to a prolonged test (33 hours and 155 miles), ingesting a supplement containing high levels of BCAAs (36.25g valine, 25.4g leucine, 10.9g isoleucine) every six hours noted that the supplementation group took until the second day of sailing to report themselves as less tired. The increase in memory errors noted in control did not occur in the BCAA group.[[135]](#ref135) Elsewhere, participants engaging in 6-8 hours of ski mountaineering failed to experience a benefit (assessed by power output on a erg) with BCAA supplementation[[136]](#ref136) while one study comparing a 91g glucose beverage as placebo against a 40g glucose/51g amino acid (BCAA and [Arginine](/supplements/arginine/)) in fatigue on a mountain trial walking test (14km, 2857m mountain) in older individuals noted that the substitution of amino acids preserved jump squat performance by 10% (but only due to a trend to reduce perceived soreness).[[137]](#ref137)
 
 
 
 > For trials that are prolonged and involve outdoor activities (skiing, hiking, sailing), supplementation of BCAAs in high doses (usually above 50g taken over multiple hours) appears to reduce physical and mental fatigue by a small amount.
 
 
-In trained cyclists given supplemental BCAAs (90mg/kg of 40% valine and 35% leucine) during cycling and told to rate their perceived fatigue every 10 minutes, BCAA supplementation was associated with a 7% reduction in percieved exertion and 15% reduction in mental fatigue, and an antifatigue effect was noted after the workout as assessed by Stroop test.[[79]](#ref79) There was no significant performance enhancement associated with BCAA supplementation, since 3 subjects experienced improvements while the other 4 did not.[[79]](#ref79) This lack of performance enhancement has been noted elsewhere in trained cyclists given 6-18g BCAA.[[133]](#ref133) Researchers examining BCAA supplementation during a marathon noted benefits to performance only in the slower runners and not in the faster runners (although antifatigue effects were noted in both groups given BCAAs as assessed via Stroop test)[[134]](#ref134) while a test in 'active healthy males' (no indication of having a training status) noted a 17.2% increased time to exhaustion in cycling with 300mg/kg BCAA supplementation.[[78]](#ref78)
+In trained cyclists given supplemental BCAAs (90mg/kg of 40% valine and 35% leucine) during cycling and told to rate their perceived fatigue every 10 minutes, BCAA supplementation was associated with a 7% reduction in percieved exertion and 15% reduction in mental fatigue, and an antifatigue effect was noted after the workout as assessed by Stroop test.[[84]](#ref84) There was no significant performance enhancement associated with BCAA supplementation, since 3 subjects experienced improvements while the other 4 did not.[[84]](#ref84) This lack of performance enhancement has been noted elsewhere in trained cyclists given 6-18g BCAA.[[138]](#ref138) Researchers examining BCAA supplementation during a marathon noted benefits to performance only in the slower runners and not in the faster runners (although antifatigue effects were noted in both groups given BCAAs as assessed via Stroop test)[[139]](#ref139) while a test in 'active healthy males' (no indication of having a training status) noted a 17.2% increased time to exhaustion in cycling with 300mg/kg BCAA supplementation.[[83]](#ref83)
 
 
-Six females given a drink containing 7.5g BCAAs per liter (40% valine and 35% leucine) with 6% carbohydrates (relative to carbohydrate only placebo) during a soccer game noted that the Stroop color and word test after the game (biomarker of fatigue) improved with BCAAs. Physical performance was not measured and overall liquid consumption was not recorded.[[135]](#ref135) Another study using a simulated soccer test (via treadmill) with 7g of BCAAs one hour prior to exercise noted that BCAA supplementation was able to preserve reaction time after exercise.[[136]](#ref136)
+Six females given a drink containing 7.5g BCAAs per liter (40% valine and 35% leucine) with 6% carbohydrates (relative to carbohydrate only placebo) during a soccer game noted that the Stroop color and word test after the game (biomarker of fatigue) improved with BCAAs. Physical performance was not measured and overall liquid consumption was not recorded.[[140]](#ref140) Another study using a simulated soccer test (via treadmill) with 7g of BCAAs one hour prior to exercise noted that BCAA supplementation was able to preserve reaction time after exercise.[[141]](#ref141)
 
 
 
 > In aerobic exercise, such as cycling or team sports (soccer), supplementation of BCAAs appears to preserve cognition in the later stages of exercise and appears to reduce neural fatigue. There does not appear to be a reliable enhancement of physical performance, although it may occur in untrained people.
 
 
-Researchers observing 12 untrained females given BCAA supplementation (approximately a 2:1:1 ratio favoring leucine) at 100mg/kg prior to high volume squat exercises noted that the BCAA group (relative to carbohydrate placebo) experienced less soreness when measured 2 days later (peak soreness from this protocol[[7]](#ref7)) and the reduction of power output seen in placebo at this time (80% of baseline) was abolished[[128]](#ref128) (study replicated in Medline[[137]](#ref137)).
+Researchers observing 12 untrained females given BCAA supplementation (approximately a 2:1:1 ratio favoring leucine) at 100mg/kg prior to high volume squat exercises noted that the BCAA group (relative to carbohydrate placebo) experienced less soreness when measured 2 days later (peak soreness from this protocol[[12]](#ref12)) and the reduction of power output seen in placebo at this time (80% of baseline) was abolished[[133]](#ref133) (study replicated in Medline[[142]](#ref142)).
 
 
 
@@ -301,7 +301,7 @@ Researchers observing 12 untrained females given BCAA supplementation (approxima
 #### 6.1Amyotrophic Lateral Sclerosis (ALS)
 
 
-Branched chain amino acid (BCAA) metabolism is implicated in the pathology of *amyotrophic lateral sclerosis* (ALS) arising from initial hypotheses that since *β-methylamino-L-alanine* (BMAA) may be a toxic component of some indigenous diets[[138]](#ref138)[[139]](#ref139) amino acid metabolism is implicated, and the high rates of ALS in athletes (both contact[[140]](#ref140) and noncontact[[49]](#ref49) sports) have been hypothesized to be related to BCAA supplementation as activation of mTOR in genetically susceptible mouse motorneurons seems to promote excitotoxicity,[[141]](#ref141) which has been demonstrated *in vitro* with high concentrations of valine.[[51]](#ref51)
+Branched chain amino acid (BCAA) metabolism is implicated in the pathology of *amyotrophic lateral sclerosis* (ALS) arising from initial hypotheses that since *β-methylamino-L-alanine* (BMAA) may be a toxic component of some indigenous diets[[143]](#ref143)[[144]](#ref144) amino acid metabolism is implicated, and the high rates of ALS in athletes (both contact[[145]](#ref145) and noncontact[[54]](#ref54) sports) have been hypothesized to be related to BCAA supplementation as activation of mTOR in genetically susceptible mouse motorneurons seems to promote excitotoxicity,[[146]](#ref146) which has been demonstrated *in vitro* with high concentrations of valine.[[56]](#ref56)
 
 
 
@@ -314,7 +314,7 @@ Branched chain amino acid (BCAA) metabolism is implicated in the pathology of *a
 #### 7.1General
 
 
-Testing the Tolerable Upper Intake (TUL) in young healthy men given graded intakes of Leucine (50-1250mg/kg bodyweight, correlating to Estimated Average Requirement[[6]](#ref6) and up to 25-fold the EAR) resulted in the estimated TUL to be set at 500mg/kg bodyweight (about 35g daily for average weight males) due to levels higher than that causing an increase in serum ammonia.[[142]](#ref142)
+Testing the Tolerable Upper Intake (TUL) in young healthy men given graded intakes of Leucine (50-1250mg/kg bodyweight, correlating to Estimated Average Requirement[[11]](#ref11) and up to 25-fold the EAR) resulted in the estimated TUL to be set at 500mg/kg bodyweight (about 35g daily for average weight males) due to levels higher than that causing an increase in serum ammonia.[[147]](#ref147)
 
  
 
