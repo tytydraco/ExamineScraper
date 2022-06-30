@@ -243,7 +243,7 @@ It has been noted in a review[[21]](#ref21) that the ALDH inhibitor Disulfiram h
 #### 11.2Salvia Miltiorrhiza
 
 
-[Salvia Miltiorrhiza](/supplements/salvia-miltiorrhiza/) (Danshen) appears to have been used alongside *Pueraria Lobata* (Gegen) for the purpose of cardiovascular health,[[31]](#ref31) under the combination name of DG (Danshen-Gegen)[[2]](#ref2) which is a 7:3 ratio of Danshen to Gegen dry weight.[[32]](#ref32)
+Salvia Miltiorrhiza (Danshen) appears to have been used alongside *Pueraria Lobata* (Gegen) for the purpose of cardiovascular health,[[31]](#ref31) under the combination name of DG (Danshen-Gegen)[[2]](#ref2) which is a 7:3 ratio of Danshen to Gegen dry weight.[[32]](#ref32)
 
 
 In activated macrophages, concentration-dependent antiinflammatory effects were noted on nitric oxide, iNOS and PGE2 (weak inhibition of COX2) while cytokine release was attenuated in a dose dependent manner on IL-6 and IL-1β, with the latter cytokine noting full suppression to levels below control at 1mg/mL; TNF-α was not highly affected, and these effects were thought to be due to NF-kB inhibition.[[2]](#ref2) The anti-inflammatory effects of the herb combination, in regards to LPS-stimulated macrophages, is synergistic (combination index 0.75) as the IC50 value of either herb (1.01 and 1.10mg/mL) is less potent than that of the combination (IC50 0.50mg/mL).[[31]](#ref31) The anti-artherogenic effects as assessed by foam cell formation was merely additive while the inhibitory effect of either herb on vascular smooth muscle cells (vSMCs) appeared to antagonize each other when in combination.[[31]](#ref31)

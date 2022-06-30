@@ -482,7 +482,7 @@ Serum [Vitamin D](/supplements/vitamin-d/) has been noted to increase when 2.9x1
 #### 15.2Vitamin B12
 
 
-Cobalamin ([Vitamin B12](/supplements/vitamin-b12/)) is known to be synthesized by a few bacteria which include *L. reuteri* CRL 1098,[[137]](#ref137)[[138]](#ref138) which the bacterium uses in the production of the antimicrobial reuterin since the first enzyme in reuterin synthesis (*glycerol dehydratase*) is dependent on B12.[[139]](#ref139) The genes required for B12 synthesis have also been detected in the strains JCM 1112[[140]](#ref140)[[141]](#ref141) and ATCC PTA 6475.[[140]](#ref140) It is thought that most strains of *L. reuteri* produce B12 since most strains produce reuterin.[[4]](#ref4) 
+Cobalamin (Vitamin B12) is known to be synthesized by a few bacteria which include *L. reuteri* CRL 1098,[[137]](#ref137)[[138]](#ref138) which the bacterium uses in the production of the antimicrobial reuterin since the first enzyme in reuterin synthesis (*glycerol dehydratase*) is dependent on B12.[[139]](#ref139) The genes required for B12 synthesis have also been detected in the strains JCM 1112[[140]](#ref140)[[141]](#ref141) and ATCC PTA 6475.[[140]](#ref140) It is thought that most strains of *L. reuteri* produce B12 since most strains produce reuterin.[[4]](#ref4) 
 
 
 The form of B12 that is produced from *L. reuteri* (CRL 1098) has been identified as pseudovitamin B12.[[142]](#ref142) While one study found that oral ingestion of *L. reuteri* CRL 1098 by mice improved symptoms of B12 deficiency (1x107 CFU daily),[[143]](#ref143) it was noted that the medium for cultivating CRL 1098 may have been contaminated with B12 of other origins.[[144]](#ref144)

@@ -12,7 +12,7 @@
 #### 1.1Sources
 
 
-*Codonopsis Pilosula* is a herb belonging to the family of *Campanulaceae* and is also known as Dangshen (not to be confused with Danshen, a name for the herb [Salvia miltiorrhiza](/supplements/salvia-miltiorrhiza/)) that is commonly used in [Traditional Chinese Medicine](/supplements/traditional-chinese-medicine/); where it is most well known for being a low-cost substitute for [Panax Ginseng](/supplements/panax-ginseng/), where some historical texts falsely call Codonopsis 'Chinese Ginseng'.[[2]](#ref2) Codonopsis Pilosula is sometimes found to be mixed with *Campanumoea javanica* in the same plant family as an adulterant.[[3]](#ref3)
+*Codonopsis Pilosula* is a herb belonging to the family of *Campanulaceae* and is also known as Dangshen (not to be confused with Danshen, a name for the herb Salvia miltiorrhiza) that is commonly used in [Traditional Chinese Medicine](/supplements/traditional-chinese-medicine/); where it is most well known for being a low-cost substitute for [Panax Ginseng](/supplements/panax-ginseng/), where some historical texts falsely call Codonopsis 'Chinese Ginseng'.[[2]](#ref2) Codonopsis Pilosula is sometimes found to be mixed with *Campanumoea javanica* in the same plant family as an adulterant.[[3]](#ref3)
 
 
 *Codonopsis Pilosula* has intentionally been used itself mostly for a spleen and lung tonic, as well as a digestive aid targeted towards the stomach.

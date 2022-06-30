@@ -330,7 +330,7 @@ As extracellular alkalosis (reduction in acidity) tends to increase lactate effl
 #### 7.2Hypertrophy
 
 
-It has been noted that both acute[[142]](#ref142) and chronic[[143]](#ref143) metabolic acidosis promote [branched chain amino acid](/supplements/branched-chain-amino-acids/) catabolism associated with an increase in the rate limiting catabolic enzyme[[144]](#ref144) and in kidney disease patients (a study population for chronic acidosis) the elevation of acidity is associated with muscle protein breakdown via stimulating for proteolysis via the ubiquitin-proteosome system.[[145]](#ref145)[[146]](#ref146)
+It has been noted that both acute[[142]](#ref142) and chronic[[143]](#ref143) metabolic acidosis promote branched chain amino acid catabolism associated with an increase in the rate limiting catabolic enzyme[[144]](#ref144) and in kidney disease patients (a study population for chronic acidosis) the elevation of acidity is associated with muscle protein breakdown via stimulating for proteolysis via the ubiquitin-proteosome system.[[145]](#ref145)[[146]](#ref146)
 
 
 

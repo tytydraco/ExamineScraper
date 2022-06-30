@@ -91,7 +91,7 @@ Ornithine supplementation (2,000mg) has been noted to *not* increase serum citru
 Supplementation of Ornithine (100mg/kg as hydrochloride) before exhaustive exercise has been noted to increase plasma glutamate concentrations at both rest and after exhaustive exercise (to a small degree, around 50nmol/mL or 9%).[[1]](#ref1)
 
 
-One study has noted a transient increase in the three [branched chain amino acids](/supplements/branched-chain-amino-acids/) after 4 hours of exhaustive exercise that was preloaded with 6g ornithine (two doses of 3g separated by 2 hours) in the range of 4.4-9%.[[16]](#ref16)
+One study has noted a transient increase in the three branched chain amino acids after 4 hours of exhaustive exercise that was preloaded with 6g ornithine (two doses of 3g separated by 2 hours) in the range of 4.4-9%.[[16]](#ref16)
 
 
 

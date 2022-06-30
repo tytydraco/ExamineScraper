@@ -39,7 +39,7 @@ With some bioactive amines:
 
 * Cordymin (amino acid sequence MAPPYGYRTPDAAQ)[[14]](#ref14)
 * 'CMP' from the fruiting bodies[[15]](#ref15)
-* Peptides containing alpha-aminoisobutyric acid[[3]](#ref3) which have both water-soluble and water insoluble components with similar testosterone boosting properties[[16]](#ref16)
+* Peptides containing alpha-aminoisobutyric acid[[3]](#ref3) which have both water-soluble and water insoluble components with similar [testosterone](/topics/testosterone/)-boosting properties[[16]](#ref16)
 
 Bioactive polysaccharides
 

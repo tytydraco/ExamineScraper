@@ -58,14 +58,14 @@ In energy metabolism, FMN is involved in complex I of the respiratory chain, whi
 FAD also plays an important role in the body’s antioxidant system, being a cofactor for glutathione reductase. It serves as the link between energy metabolism and the antioxidant system as electrons move from NADPH to FAD to glutathione.
 
 
-Four riboflavin-dependent enzymes are involved in [folate](/topics/serum-folate/) metabolism, [vitamin B12](/supplements/vitamin-b12/) metabolism, and the methionine-homocysteine cycle: *methylenetetrahydrofolate reductase* (MTHFR), *methionine synthase reductase* (MTRR), *dimethylglycine dehydrogenase* (DMGDH), and *sarcosine dehydrogenase* (SARDH).[[9]](#ref9)
+Four riboflavin-dependent enzymes are involved in [folate](/topics/serum-folate/) metabolism, vitamin B12 metabolism, and the methionine-homocysteine cycle: *methylenetetrahydrofolate reductase* (MTHFR), *methionine synthase reductase* (MTRR), *dimethylglycine dehydrogenase* (DMGDH), and *sarcosine dehydrogenase* (SARDH).[[9]](#ref9)
 
 
 Other biosynthetic roles of riboflavin include:
 
 
 * The biosynthesis of heme requires the FAD-dependent *protoporphyrinogen IX oxidase* (PPOX).
-* The activation of pyridoxal 5-phosphate (PLP), a form of [vitamin B6](/supplements/vitamin-b6/), requires the FMN-dependent *pyridoxine 5-phosphate oxidase* (PNPO).[[10]](#ref10)
+* The activation of pyridoxal 5-phosphate (PLP), a form of vitamin B6, requires the FMN-dependent *pyridoxine 5-phosphate oxidase* (PNPO).[[10]](#ref10)
 * Synthesis of niacin from tryptophan requires FAD for *kynurenine 3-monooxygenase* (
 * The biosynthesis of coenzyme A from [pantothenic acid](/supplements/vitamin-b5/) requires the FMN-dependent *4-phosphopantothenoylcysteine decarboxylase* (PPCDC).
 * The biosynthesis of cholesterol depends on two FAD-dependent enzymes: *squalene monooxygenase* (SQLE) and *3β-hydroxysterol 24-reductase* (DHCR24).
@@ -230,8 +230,8 @@ In a large assessment of MTHFR mutations, it was found that overall subjects who
 > Subjects who are homozygous for the *MTHFR 677C->7* polymorphism (aka. *MTHFR 677TT*) appear to experience greater reductions in homocysteine in response to a relatively low supplemental doses of riboflavin, which is thought to then reduce the risk of coronary heart disease.
 
 
-Administration of riboflavin at a dose of 1.6mg over 12 weeks failed to significantly reduce total homocysteine concentrations in healthy elderly subjects with suboptimal riboflavin status (11.1% of whom had the MTHFR 677TT genotype).[[20]](#ref20) Although the next phase of the study introducing 400µg folic acid alongside the riboflavin effectively reduced homocysteine levels, riboflavin did not appear to confer additional benefits over folic acid alone.[[20]](#ref20) This was investigated since it was previously noted that after folic acid-induced reductions in homocysteine, [Vitamin B12](/supplements/vitamin-b12/) has a more prominent homocysteine-reducing role[[73]](#ref73)
-and [Vitamin B6](/supplements/vitamin-b6/) is also effective after folic acid[[74]](#ref74) (although working via a different pathway, reducing homocysteine concentrations by converting it into L-cysteine via *cystathionine β-synthase*[[75]](#ref75)). 
+Administration of riboflavin at a dose of 1.6mg over 12 weeks failed to significantly reduce total homocysteine concentrations in healthy elderly subjects with suboptimal riboflavin status (11.1% of whom had the MTHFR 677TT genotype).[[20]](#ref20) Although the next phase of the study introducing 400µg folic acid alongside the riboflavin effectively reduced homocysteine levels, riboflavin did not appear to confer additional benefits over folic acid alone.[[20]](#ref20) This was investigated since it was previously noted that after folic acid-induced reductions in homocysteine, Vitamin B12 has a more prominent homocysteine-reducing role[[73]](#ref73)
+and Vitamin B6 is also effective after folic acid[[74]](#ref74) (although working via a different pathway, reducing homocysteine concentrations by converting it into L-cysteine via *cystathionine β-synthase*[[75]](#ref75)). 
 
 
 One other study using 10mg riboflavin for a month in elderly subjects with low riboflavin status did find a minor reduction in homocysteine concentrations in serum, although this was not correlated to MTHFR genotype.[[61]](#ref61)
@@ -314,7 +314,7 @@ One preliminary trial using deferiprone (an iron chelator which may have a role 
 #### 9.1Vitamin B6
 
 
-[Vitamin B6](/supplements/vitamin-b6/) needs to be converted in the human body to its active coenzyme form, *pyridoxal 5'-phosphate* (PLP), in a process which requires riboflavin in its cofactor form of *flavin mononucleotide* (FMN).[[10]](#ref10)
+Vitamin B6 needs to be converted in the human body to its active coenzyme form, *pyridoxal 5'-phosphate* (PLP), in a process which requires riboflavin in its cofactor form of *flavin mononucleotide* (FMN).[[10]](#ref10)
 
 
 #### 9.2Alcohol

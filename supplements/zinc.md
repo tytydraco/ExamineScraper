@@ -792,7 +792,7 @@ Pruritus (itch) during hemodialysis is alleviated with 440mg zinc sulfate daily 
 #### 14.1Vitamin B6
 
 
-Vitamin B6 (pyridoxine) is commonly supplemented alongside zinc and [magnesium](/supplements/magnesium/) (as aspartate) in the formulation known as [ZMA](/supplements/zma/). This formulation is recommended in part due to both minerals being common deficiencies for athletes (and thus replenishment a priority), yet it is also claimed to be a [Testosterone Booster](/supplements/testosterone-booster/).
+Vitamin B6 (pyridoxine) is commonly supplemented alongside zinc and [magnesium](/supplements/magnesium/) (as aspartate) in the formulation known as [ZMA](/supplements/zma/). This formulation is recommended in part due to both minerals being common deficiencies for athletes (and thus replenishment a priority), yet it is also claimed to be a testosterone booster.
 
 
 It appears that the inhibitor effect of zinc on the 5α-reductase enzyme *in vitro* that can reach 98% at 15mM of zinc sulphate is potentiated by vitamin B6, as the addition of 0.025% B6 to the medium produced a similar levels of inhibition despite only using 1.5-3mM zinc sulphate.[[175]](#ref175) Beyond the combination of those two, 500µM zinc sulphate paired with 0.025% B6 with an additional 100µM azelaic acid produced similarly potent inhibition[[175]](#ref175) and this apparent synergism has been noted in skin cells as well[[175]](#ref175) which is likely due to inhibition of 5α-reductase in particular.[[178]](#ref178)

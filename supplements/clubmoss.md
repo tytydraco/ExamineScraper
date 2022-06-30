@@ -82,8 +82,6 @@ permeability increases, it was found that the most active fragment (500mg/kg chl
 *Lycopodium clavatum* appears to have traditional usage in Turkey for wound healing properties[[2]](#ref2) and has usage for burn healing as well.[[16]](#ref16)
 
 
-[]
-
  
 
 

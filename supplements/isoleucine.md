@@ -12,7 +12,7 @@
 #### 1.1Introduction
 
 
-Isoleucine (*2-amino-3-methylpentanoic acid*) is one of the three [branched chain amino acids](/supplements/branched-chain-amino-acids/), an essential amino acid that possesses a chiral side-chain (only other amino acid to do so is [Threonine](/contribute/supplements/Threonine/)); although it may exist in four isomers, it tends to naturally occur (in foods) as the double S isomer (*(2S,3S)-2-amino-3-methylpentanoic acid*).[[1]](#ref1) Isoleucine, as evidenced by its name, is the isomer of [leucine](/supplements/leucine/).
+Isoleucine (*2-amino-3-methylpentanoic acid*) is one of the three branched chain amino acids, an essential amino acid that possesses a chiral side-chain (only other amino acid to do so is [Threonine](/contribute/supplements/Threonine/)); although it may exist in four isomers, it tends to naturally occur (in foods) as the double S isomer (*(2S,3S)-2-amino-3-methylpentanoic acid*).[[1]](#ref1) Isoleucine, as evidenced by its name, is the isomer of [leucine](/supplements/leucine/).
 
 
 [Back to top](#c-sources-and-structure)
@@ -30,7 +30,7 @@ Isoleucine at 500mg in menopausal women has failed to significantly reduce sympt
 #### 3.1Mechanisms
 
 
-Of the three [branched chain amino acids](/supplements/branched-chain-amino-acids/), [leucine](/supplements/leucine/) and valine appear to be somewhat suppressive of cellular glucose uptake during an oral glucose tolerance test[[3]](#ref3) while promoting muscle protein synthesis while isoleucine promotes cellular glucose uptake and consumption.
+Of the three branched chain amino acids, [leucine](/supplements/leucine/) and valine appear to be somewhat suppressive of cellular glucose uptake during an oral glucose tolerance test[[3]](#ref3) while promoting muscle protein synthesis while isoleucine promotes cellular glucose uptake and consumption.
 
 
 The actions of isoleucine on glucose uptake are dependent on PI3K and PKC activation[[3]](#ref3) but independent of mTOR[[3]](#ref3) and is not dependent on AMPK activation (this study noting no activation of the α1 subunit and a suppression of the α2 subunit);[[4]](#ref4) this differs a bit from leucine signalling, which although it is also dependent on PI3K/PKC and not mTOR[[5]](#ref5) leucine itself activates mTOR and (consequently) reduced AMPK signalling[[6]](#ref6) which suppresses its own efficacy on increasing glucose uptake. Isoleucine is a fairly weak mTOR activator *in vitro* with an EC50 of around 8mM (weaker than leucine, stronger than valine)[[7]](#ref7) and when looking at Akt/mTOR *in vivo* leucine depleted amino acid mixtures are no longer effective.[[8]](#ref8)

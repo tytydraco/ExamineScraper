@@ -541,7 +541,7 @@ One study using Astragalus for the purpose of reducing allergic rhinitus noted t
 #### 14.2Salvia miltiorrhiza
 
 
-[Salvia miltiorrhiza](/supplements/salvia-miltiorrhiza/), also known as Danshen, has been tested in conjunction with Astragalus Membranaceus at a 1:1 ratio for its effects on Fatigue. This concoction, known as Myelophil, was administered at either 3g or 6g daily for 4 weeks and was noted to decrease fatigue relative to control.[[149]](#ref149) However, the control did use a herbal concoction themself as an active placebo (*Hyangsapyunweesan*) and the group seeing the most benefit (3g) was significantly worse off at baseline.
+Salvia miltiorrhiza, also known as Danshen, has been tested in conjunction with Astragalus Membranaceus at a 1:1 ratio for its effects on Fatigue. This concoction, known as Myelophil, was administered at either 3g or 6g daily for 4 weeks and was noted to decrease fatigue relative to control.[[149]](#ref149) However, the control did use a herbal concoction themself as an active placebo (*Hyangsapyunweesan*) and the group seeing the most benefit (3g) was significantly worse off at baseline.
 
 
 #### 14.3Angelicae Sinensis

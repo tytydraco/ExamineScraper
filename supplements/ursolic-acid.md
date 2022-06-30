@@ -20,9 +20,9 @@ Major sources (Food products or common supplements) include:
 
 * Apples (high in the peels),[[1]](#ref1) Cranberry juices,[[2]](#ref2) and Grape skins[[3]](#ref3)
 * Ayurvedic herbs such as [Holy Basil](/supplements/holy-basil/) (0.25-0.48% dry weight)[[4]](#ref4), *Ocimum gratissimum*,[[5]](#ref5) [Boswellia Serrata](/supplements/boswellia-serrata/), [Boerhaavia Diffusa](/supplements/boerhaavia-diffusa/), and [Asparagus Racemosus](/supplements/asparagus-racemosus/)
-* Traditional Chinese Medicine herbs including [Ziziphus Jujuba](/supplements/ziziphus-jujuba/), [Salvia Miltiorrhiza](/supplements/salvia-miltiorrhiza/), and [Licorice](/supplements/licorice/)
+* Traditional Chinese Medicine herbs including [Ziziphus Jujuba](/supplements/ziziphus-jujuba/), Salvia Miltiorrhiza, and [Licorice](/supplements/licorice/)
 * A Variety of herbs with reported anti-diabetic effects including [Banaba Leaf](/supplements/banaba-leaf/), [Gynostemma Pentaphyllum](/supplements/gynostemma-pentaphyllum/), and [Crataegus Pinnatifida](/supplements/crataegus-pinnatifida/)
-* [Yerba Mate](/supplements/yerba-mate/), [Stinging Nettle](/supplements/stinging-nettle/), [Vitex Agnus Castus](/supplements/vitex-agnus-castus/)
+* [Yerba Mate](/supplements/yerba-mate/), [Stinging Nettle](/supplements/stinging-nettle/), Vitex Agnus Castus
 * The Silphium family of plants, averaging around 1.5% dry weight[[6]](#ref6)
 * *Lantana Camara*,[[7]](#ref7) *Orthosiphon aristatus*,[[8]](#ref8)
 * *Eriobotrya japonica*[[9]](#ref9)

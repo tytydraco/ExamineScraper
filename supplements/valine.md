@@ -12,7 +12,7 @@
 #### 1.1Sources
 
 
-Valine is one of the essential amino acids (EAAs), and belongs to the subclass of [branched chain amino acids](/supplements/branched-chain-amino-acids/) with the other two EAAs [leucine](/supplements/leucine/) and [isoleucine](/supplements/isoleucine/); similar to the latter two, valine is in this group due to having a branched side-chain which is common to these three amino acids and no others.
+Valine is one of the essential amino acids (EAAs), and belongs to the subclass of branched chain amino acids with the other two EAAs [leucine](/supplements/leucine/) and [isoleucine](/supplements/isoleucine/); similar to the latter two, valine is in this group due to having a branched side-chain which is common to these three amino acids and no others.
 
 
 #### 1.2Metabolism
