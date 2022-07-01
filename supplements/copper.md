@@ -89,7 +89,7 @@ These studies on reduced intake have noted effects that are similar to but less 
 > In rodents given a 'marginal' copper deficiency, (50% of the standard copper intake or less) there are negative changes in immune and cardiovascular function. These changes can be normalized when copper is introduced back into the diet at sufficient levels.
 
 
-True copper deficiency may result in myelopathy,[[38]](#ref38)[[39]](#ref39) which has been noted in instances following gastrointestinal surgery.[[25]](#ref25) Such myelopathy is known to occur in ruminants, where it is known as 'swayback'[[25]](#ref25) and presents in both ruminants and humans as gait ataxia and sensory symptoms.[[38]](#ref38)[[39]](#ref39) As assessed by MRI, copper deficiency myelopathy appears similar to subacute degeneration of the dorsal column in cases of [Vitamin B12](/supplements/vitamin-b12/) deficiency.[[38]](#ref38)[[39]](#ref39)[[40]](#ref40)
+True copper deficiency may result in myelopathy,[[38]](#ref38)[[39]](#ref39) which has been noted in instances following gastrointestinal surgery.[[25]](#ref25) Such myelopathy is known to occur in ruminants, where it is known as 'swayback'[[25]](#ref25) and presents in both ruminants and humans as gait ataxia and sensory symptoms.[[38]](#ref38)[[39]](#ref39) As assessed by MRI, copper deficiency myelopathy appears similar to subacute degeneration of the dorsal column in cases of Vitamin B12 deficiency.[[38]](#ref38)[[39]](#ref39)[[40]](#ref40)
 
 
 

@@ -132,7 +132,7 @@ A possible structural explanation for the above effects is hydroxylation at the 
 
 
 
-> Estrogenicity as it applies to Icariin and related compounds is complex, like many bioflavonoid-related compounds. It doesn't seem to be large enough of a concern to negate its potential usage as a [Testosterone Booster](/supplements/testosterone-booster/), however.
+> Estrogenicity as it applies to Icariin and related compounds is complex, like many bioflavonoid-related compounds. It doesn't seem to be large enough of a concern to negate its potential usage as a testosterone booster, however.
 
 
 [Back to top](#c-interactions-with-bone)

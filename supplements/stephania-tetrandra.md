@@ -98,7 +98,7 @@ Tetrandrine appears to directly interact with α1-adrenergic receptors via compe
 #### 4.1Glutaminergic Neurotransmission
 
 
-A water extract of *stephania tetrandra* was able to inhibit NMDA induced currents by 38.65+/-7.50%, which was less effective than both [scutellaria baicalensis](/supplements/scutellaria-baicalensis/) (83.45+/-4.34%) and [salvia miltiorrhiza](/supplements/salvia-miltiorrhiza/) (52.97+/-1.78%); as these plants had a [magnesium](/supplements/magnesium/) content and the study was conducted *in vitro*, this may not apply to oral ingestion of this herb.[[27]](#ref27)
+A water extract of *stephania tetrandra* was able to inhibit NMDA induced currents by 38.65+/-7.50%, which was less effective than both [scutellaria baicalensis](/supplements/scutellaria-baicalensis/) (83.45+/-4.34%) and salvia miltiorrhiza (52.97+/-1.78%); as these plants had a [magnesium](/supplements/magnesium/) content and the study was conducted *in vitro*, this may not apply to oral ingestion of this herb.[[27]](#ref27)
 
 
 
@@ -269,7 +269,7 @@ In isolated rat primary mesangial cells (kidney cells) stimulated with IL-1β (t
 In rats subject to bile duct ligation, tetrandrine (1-5mg/kg) appears to show anti-fibrotic effects associated with less gene expression (TGF-β, α-SMA, collagen 1α2 and angiogenesis gene products) which was attributed to its NF-kB inhibition.[[62]](#ref62) *Stephania tetradra* (200mg/kg water extract) itself has shown anti-fibrotic potential as assessed by histology (fibrotic area) and stellate cell activation, again attributed to NF-kB inhibition.[[63]](#ref63)
 
 
-When compared to other agents, 5mg/kg tetrandrine is equally effective at reducing collagen accumulation as 50mg/kg silymarins (from [milk thistle](/supplements/milk-thistle/))[[62]](#ref62) and 200mg/kg of the water extract of *stephania tetrandra* five times weekly for five weeks was as effective as 300mg/kg [Salvia miltiorrhiza](/supplements/salvia-miltiorrhiza/) (water extract) in reducing liver enzymes but more effective in reducing fibrosis from CCl4;[[63]](#ref63) pairing *stephania tetrandra* and *salvia miltiorrhiza* was not additive in efficacy.[[63]](#ref63)
+When compared to other agents, 5mg/kg tetrandrine is equally effective at reducing collagen accumulation as 50mg/kg silymarins (from [milk thistle](/supplements/milk-thistle/))[[62]](#ref62) and 200mg/kg of the water extract of *stephania tetrandra* five times weekly for five weeks was as effective as 300mg/kg Salvia miltiorrhiza (water extract) in reducing liver enzymes but more effective in reducing fibrosis from CCl4;[[63]](#ref63) pairing *stephania tetrandra* and *salvia miltiorrhiza* was not additive in efficacy.[[63]](#ref63)
 
 
 

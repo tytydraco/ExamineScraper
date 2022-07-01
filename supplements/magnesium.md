@@ -417,7 +417,7 @@ One study has noted that Magnesium supplementation was able to reduce the AUC of
 #### 6.3Water Weight
 
 
-At least one study has noted that menstration-related water weight gain can be slightly attenuated with Magnesium supplementation, but this study only noted it during the second menstral cycle of supplementation.[[120]](#ref120) Not inherntly related to [fat mass](/topics/fat-mass/), but may cause false positive if measuring overall [weight](/topics/weight/).
+At least one study has noted that menstration-related water weight gain can be slightly attenuated with Magnesium supplementation, but this study only noted it during the second menstral cycle of supplementation.[[120]](#ref120) Not inherntly related to fat mass, but may cause false positive if measuring overall [weight](/topics/weight/).
 
 
 
@@ -693,7 +693,7 @@ Magnesium L-Threonate has begun to be looked into for specifically increasing br
 #### 17.1ZMA
 
 
-[ZMA](/supplements/zma/) is a blend of [Zinc](/supplements/zinc/), Magnesium (as L-Asparate), and Vitamin B6; it is falsely deemed a [Testosterone Booster](/supplements/testosterone-booster/). A few studies appear to be conducted on ZMA formulations themselves, which fail to find benefits to performance[[220]](#ref220) or hormonal status.[[220]](#ref220)[[221]](#ref221)
+[ZMA](/supplements/zma/) is a blend of [Zinc](/supplements/zinc/), Magnesium (as L-Asparate), and Vitamin B6; it is falsely deemed a testosterone booster. A few studies appear to be conducted on ZMA formulations themselves, which fail to find benefits to performance[[220]](#ref220) or hormonal status.[[220]](#ref220)[[221]](#ref221)
 
 
 Possible uses of ZMA include an economical means to get both Zinc and Magnesium supplementation, and the Vitamin B6 content tends to be in the dosage range where synergistic benefit to anxiolysis in PMS.[[119]](#ref119)
@@ -715,7 +715,7 @@ When investigating the absorption rates of a supplement containing both Calcium 
 #### 17.3Vitamin D
 
 
-[Vitamin D](/supplements/vitamin-d/) is currently the only [Essential Vitamin or Mineral](/supplements/essential-vitamin-or-mineral/) which appears to have deficiency rates at a similar level to Magnesium, if not greater. The metabolism of Vitamin D inherently is linked to Magnesium.
+[Vitamin D](/supplements/vitamin-d/) is currently the only Essential Vitamin or Mineral which appears to have deficiency rates at a similar level to Magnesium, if not greater. The metabolism of Vitamin D inherently is linked to Magnesium.
 
 
 Magnesium levels in the brain can be negatively regulated by an excess of parathyroid hormone (PTH), where PTH causes release of calcium into the blood (being met with an increase of magnesium to retain homeostasis) possibly being a contributing factor to chronic depletion of magnesium concentration in neural tissue.[[224]](#ref224) As vitamin D reliably suppresses excess PTH,[[225]](#ref225)[[226]](#ref226) it may exert neural benefits secondary to preservation of Magnesium levels in the brain.

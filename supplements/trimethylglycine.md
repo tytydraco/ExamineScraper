@@ -659,7 +659,7 @@ In a small 24-week pilot study, supplementation of betaine (3g twice daily for a
 #### 11.2Angelman Syndrome
 
 
-Supplementation of betaine with other factors thought to improve methylation in the body ([creatine](/supplements/creatine/), [B12](/supplements/vitamin-b12/), and levomefolic acid) to subjects with angelman syndrome has failed to exert therapeutic effects.[[121]](#ref121)
+Supplementation of betaine with other factors thought to improve methylation in the body ([creatine](/supplements/creatine/), B12, and levomefolic acid) to subjects with angelman syndrome has failed to exert therapeutic effects.[[121]](#ref121)
 
 
 [Back to top](#c-other-medical-conditions)
@@ -712,7 +712,7 @@ When 1mg folic acid is added to 6,000mg betaine, the reduction in homocysteine s
 #### 12.5Vitamin B12
 
 
-Cobalamin ([Vitamin B12](/supplements/vitamin-b12/)) does not appear to have its serum concentrations altered with ingestion of betaine at doses of 1,000mg up to 6,000mg, even if the highest dose has an additional 1mg of folic acid added to it of periods of up to six weeks of supplementation.[[27]](#ref27)[[129]](#ref129)
+Cobalamin (Vitamin B12) does not appear to have its serum concentrations altered with ingestion of betaine at doses of 1,000mg up to 6,000mg, even if the highest dose has an additional 1mg of folic acid added to it of periods of up to six weeks of supplementation.[[27]](#ref27)[[129]](#ref129)
 
 
 One study noted an increase in plasma B12 relative to placebo, but there was a decrease noted in placebo which may have caused the relatively significant increase.[[72]](#ref72) Similar to this, a relative increase has been noted with TMG relative to folic acid in one study[[129]](#ref129) where B12 nonsignificantly decreased with folic acid supplementation (800µg).

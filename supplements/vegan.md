@@ -68,7 +68,7 @@ The second reason why vegan diets are not necessarily dangerous is that suboptim
 Hence, individuals eating a vegan diet should be aware of the most common dietary deficiencies in order to prevent them and enjoy the health benefits of a vegan diet. The snag, of course, is that meeting all these nutrient requirements can be difficult. The table below lists the most important nutrients to consider in the context of a vegan diet, including their risk of deficiency and recommended plant sources to cover them.
 
 
-A major exception is vitamin B12, which is not readily available in most plant-based foods (except fermented foods, which are, however, not sufficient to obtain healthy vitamin B12 levels).[[65]](#ref65) This is why vegans need to supplement [vitamin B12](/supplements/vitamin-b12/) for optimal health outcomes.
+A major exception is vitamin B12, which is not readily available in most plant-based foods (except fermented foods, which are, however, not sufficient to obtain healthy vitamin B12 levels).[[65]](#ref65) This is why vegans need to supplement vitamin B12 for optimal health outcomes.
 
 
 Overall, a well-planned vegan diet supported with vitamin B12 supplementation (and other potentially critical nutrients, depending on the specific diet) can meet all nutrient requirements. 
@@ -79,7 +79,7 @@ Overall, a well-planned vegan diet supported with vitamin B12 supplementation (a
 
 Critical nutrients and sources in a vegan diet.| Nutrient | Risk of deficiency\* | Plant-based sources with the highest nutrient amounts | Do vegans need to supplement? | Comment |
 | --- | --- | --- | --- | --- |
-| [Vitamin B12](/supplements/vitamin-b12/) | High | Fermented[[66]](#ref66) and fortified foods [[67]](#ref67) | Yes | While animal studies[[68]](#ref68) indicate that “natural” vitamin B12 is better for restoring a low B12 status than supplementation, human observational studies[[65]](#ref65) suggest that fermented and fortified foods may improve vitamin B12 levels slightly, but not enough to obtain optimal levels. Overall, a mixture of both could yield the greatest benefits.[[65]](#ref65) |
+| Vitamin B12 | High | Fermented[[66]](#ref66) and fortified foods [[67]](#ref67) | Yes | While animal studies[[68]](#ref68) indicate that “natural” vitamin B12 is better for restoring a low B12 status than supplementation, human observational studies[[65]](#ref65) suggest that fermented and fortified foods may improve vitamin B12 levels slightly, but not enough to obtain optimal levels. Overall, a mixture of both could yield the greatest benefits.[[65]](#ref65) |
 | [Vitamin D3](/supplements/vitamin-d/) | High | Mushrooms,[[69]](#ref69) fortified foods,[[70]](#ref70) sunshine[[71]](#ref71) | Yes, probably | Depends on exposure to the sun, distance from the equator, and skin pigmentation. |
 | [Iodine](/supplements/iodine/) | Medium | Seaweeds[[72]](#ref72) (e.g., kelp or laver), iodized salt[[73]](#ref73) | No, not necessarily | Algae vary widely in iodine content, making overdosing a severe risk.\*\* |
 | [Fish oil](/supplements/fish-oil/): EPA & DHA | Medium | Algal oil[[74]](#ref74) | Yes, probably | Endogenous production of EPA and DHA from alpha-linolenic acid (ALA)[[75]](#ref75) could make up for some nutritional deficits but not replace EPA and DHA entirely.[[76]](#ref76) Notably, the clinical relevance of reduced EPA and DHA status among vegetarians and vegans is unknown.[[77]](#ref77) |

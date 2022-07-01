@@ -141,7 +141,7 @@ A positive ionotropic effect of Higenamine also exists with an EC50 of 97nM (95%
 #### 5.1Mechanisms
 
 
-Higenamine is known as a Beta-adrenergic receptor agonist, a mechanism shared by [ephedrine](/supplements/ephedrine/) and [synephrine](/supplements/synephrine/) for their ability to reduce [fat mass](/topics/fat-mass/). These effects appears to be wide-reaching affecting intestinal tissue,[[27]](#ref27) bronchiol tissue (where it acts as a vasodilator),[[8]](#ref8) cardiac tissue (atria[[26]](#ref26)[[28]](#ref28) and ventricles[[6]](#ref6)). It appears to act on both the Beta(1) and Beta(2) subunit, with the Beta(3) subunit unexplored.
+Higenamine is known as a Beta-adrenergic receptor agonist, a mechanism shared by [ephedrine](/supplements/ephedrine/) and [synephrine](/supplements/synephrine/) for their ability to reduce fat mass. These effects appears to be wide-reaching affecting intestinal tissue,[[27]](#ref27) bronchiol tissue (where it acts as a vasodilator),[[8]](#ref8) cardiac tissue (atria[[26]](#ref26)[[28]](#ref28) and ventricles[[6]](#ref6)). It appears to act on both the Beta(1) and Beta(2) subunit, with the Beta(3) subunit unexplored.
 
 
 In regards to the alpha-adrenergic receptors, Higenamine appears to be a weak A(1) antagonist and a weak A(2) agonist.[[29]](#ref29)[[8]](#ref8)

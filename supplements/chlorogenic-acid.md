@@ -137,7 +137,7 @@ Chlorogenic acid, as well as coffee (both caffeinated and decaf) is able to act 
 [Back to top](#c-neurology)
 ### 7Epidemiology
 
-There has been a noted correlation between [coffee](/supplements/coffee/) ingestion and less [fat mass](/topics/fat-mass/) in both rodents and humans, results which are confounded with the inclusion of [caffeine](/supplements/caffeine/) which may suppress fat gain over time. Additionally, there may be social differences between coffee drinkers and non-coffee drinkers leading to weight discrepancies.
+There has been a noted correlation between [coffee](/supplements/coffee/) ingestion and less fat mass in both rodents and humans, results which are confounded with the inclusion of [caffeine](/supplements/caffeine/) which may suppress fat gain over time. Additionally, there may be social differences between coffee drinkers and non-coffee drinkers leading to weight discrepancies.
 
 
 There is some evidence, however, that this association between coffee and weight (inverse relation, more coffee being linked to less fat mass) extends to decaffeinated coffee; excluding [caffeine](/supplements/caffeine/) as a variable.[[42]](#ref42) Laboratory results, however, suggest that most of the weight loss effects of coffee are done via caffeine (as coffee compared to decaffeinated coffee exerts significant differences in fat mass reduction).[[43]](#ref43)[[44]](#ref44)

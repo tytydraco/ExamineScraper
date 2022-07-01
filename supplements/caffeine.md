@@ -966,7 +966,7 @@ Additionally, propanolol has been implicated in reducing the thermogenic respons
 #### 13.8Danshen
 
 
-Danshen, otherwise known as [Salvia miltiorrhiza](/supplements/salvia-miltiorrhiza/), is a Chinese medication that is commonly seen as heart healthy. The active compounds, the tanshinones, can inhibit the CYP1A enzymes that degrade caffeine to paraxanthine and increase the time caffeine spends in the blood by 11-25% and increase half-life by 12-16%.[[361]](#ref361)[[362]](#ref362) This effect occurs at 100-200mg/kg daily in rats, a human equivalent dose of 16-32mg/kg bodyweight. The effects over a period of 7 days appear to be the same as a single bolus of both.[[362]](#ref362)
+Danshen, otherwise known as Salvia miltiorrhiza, is a Chinese medication that is commonly seen as heart healthy. The active compounds, the tanshinones, can inhibit the CYP1A enzymes that degrade caffeine to paraxanthine and increase the time caffeine spends in the blood by 11-25% and increase half-life by 12-16%.[[361]](#ref361)[[362]](#ref362) This effect occurs at 100-200mg/kg daily in rats, a human equivalent dose of 16-32mg/kg bodyweight. The effects over a period of 7 days appear to be the same as a single bolus of both.[[362]](#ref362)
 
 
 #### 13.9Genistein

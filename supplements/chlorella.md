@@ -12,7 +12,7 @@
 #### 1.1Sources
 
 
-Chlorella is a unicellular fresh water algae, known for being a vegan source of both iron and bioavailable [B12](/supplements/vitamin-b12/) (cobalamin), which is one of the few green algaes to possess a bioactive B12 form alongside *porphyra yezoensis* (Nori)[[2]](#ref2)[[3]](#ref3) and *pleurochrysis carterae*.[[4]](#ref4) Consuming these seaweed sources in the diet is associated with higher serum B12 concentrations in vegans when compared to vegans not consuming seaweed products.[[5]](#ref5)
+Chlorella is a unicellular fresh water algae, known for being a vegan source of both iron and bioavailable B12 (cobalamin), which is one of the few green algaes to possess a bioactive B12 form alongside *porphyra yezoensis* (Nori)[[2]](#ref2)[[3]](#ref3) and *pleurochrysis carterae*.[[4]](#ref4) Consuming these seaweed sources in the diet is associated with higher serum B12 concentrations in vegans when compared to vegans not consuming seaweed products.[[5]](#ref5)
 
 
 #### 1.2Composition
@@ -28,7 +28,7 @@ Noncaloric micronutrients found in *chlorella* species include:
 
 
 * Chlorophyll at 1.3% dry weight of *chlorella vulgaris*[[8]](#ref8)
-* Active [Vitamin B12](/supplements/vitamin-b12/) at 205-223mcg/100g (Cobalamin) [[10]](#ref10), unlike [Spirulina](/supplements/spirulina/) which does not have active B12 but instead *7-adenyl cyanocobamide* (pseudovitamin B12)[[11]](#ref11)
+* Active Vitamin B12 at 205-223mcg/100g (Cobalamin) [[10]](#ref10), unlike [Spirulina](/supplements/spirulina/) which does not have active B12 but instead *7-adenyl cyanocobamide* (pseudovitamin B12)[[11]](#ref11)
 
 #### 1.3Formulations and Variants
 
@@ -137,7 +137,7 @@ One study has been conducted with 200 or 400mg Chlorella supplementation for a p
 One study that had no control group, but used Chlorella (9g daily; two doses of 4.5g) in either healthy persons or obese persons with symptoms similar to metabolic syndrome over a period of 12 weeks (with 4 monitored weeks thereafter) noted that there was a statistically significant reduction in body fat at week 12 in both groups, which was attenuated by week 16; the decrease was not apparent at weeks 0-8.[[28]](#ref28)
 
 
-One study investigating the immune system but also measuring anthropometric measures noted that 4 weeks of supplementation of 6g chlorella to otherwise healthy non-obese adult men failed to modify either [lean mass](/topics/lean-mass/) or [fat mass](/topics/fat-mass/).[[31]](#ref31) This has also been noted with a higher dose (10g) of GABA-rich Chlorella over a period of 12 weeks.[[25]](#ref25)
+One study investigating the immune system but also measuring anthropometric measures noted that 4 weeks of supplementation of 6g chlorella to otherwise healthy non-obese adult men failed to modify either [lean mass](/topics/lean-mass/) or fat mass.[[31]](#ref31) This has also been noted with a higher dose (10g) of GABA-rich Chlorella over a period of 12 weeks.[[25]](#ref25)
 
 
 

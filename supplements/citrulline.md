@@ -90,7 +90,7 @@ Interestingly, the aforementioned studies using 0.18g/kg citrulline noted a 6-11
 > Oral Citrulline supplementation can increase plasma urea cycle amino acids which include citrulline itself (most drastic increase), [ornithine](/supplements/ornithine/), and [arginine](/supplements/arginine/). Ornithine and Arginine can reach up to a doubling or tripling with 5-10g citrulline supplementation and then seems to be restricted from increasing further, while citrulline simply follows linear dose-response patterns (more oral supplementation causing more serum citrulline)
 
 
-Citrulline has been noted to *not* influence serum levels of any of the [branched chain amino acids](/supplements/branched-chain-amino-acids/) at rest,[[22]](#ref22) but can accelerate depletion of BCAAs induced by prolonged exercise (via increasing their utilization as fuel).[[21]](#ref21)
+Citrulline has been noted to *not* influence serum levels of any of the branched chain amino acids at rest,[[22]](#ref22) but can accelerate depletion of BCAAs induced by prolonged exercise (via increasing their utilization as fuel).[[21]](#ref21)
 
 
 A reduction of [glutamine](/supplements/glutamine/) (13% following 0.18g/kg citrulline for 7 days) has been noted with citrulline supplementation[[22]](#ref22) although another study noted acute usage of 6g Citrulline (0.08g/kg) failed to alter glutamine concentrations.[[21]](#ref21)
@@ -294,7 +294,7 @@ In men with erectile dysfunction as assessed by weak erections (assessed b yerec
 #### 10.1Branched Chain Amino Acids (special reference to Leucine)
 
 
-[Branched Chain Amino Acids](/supplements/branched-chain-amino-acids/) (BCAAs) are a group of three amino acids ([leucine](/supplements/leucine/), [isoleucine](/supplements/isoleucine/), and [valine](/supplements/valine/)) which are involved with skeletal muscle synthesis and degradation. Of these three, leucine is commonly said to be the most 'important' since it is the prime mediator of muscle protein synthesis (and that appears to be the most common reason people supplement BCAAs).
+Branched Chain Amino Acids (BCAAs) are a group of three amino acids ([leucine](/supplements/leucine/), [isoleucine](/supplements/isoleucine/), and [valine](/supplements/valine/)) which are involved with skeletal muscle synthesis and degradation. Of these three, leucine is commonly said to be the most 'important' since it is the prime mediator of muscle protein synthesis (and that appears to be the most common reason people supplement BCAAs).
 
 
 When looking at citrulline ingestion at rest, 0.18g/kg has been found to improve nitrogen balance in one study when ingested in the fed state[[12]](#ref12) while another noted a failure with the same dose, with both whole body protein synthesis and leucine oxidation rates being unaffected.[[22]](#ref22)

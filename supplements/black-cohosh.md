@@ -25,7 +25,7 @@ Black Cohosh has a variety of names such as bugbane or bugwort, blackroot or bla
 As a herbal product, Black Cohosh contains a variety of bioactive compounds such as:
 
 
-* Cycloartanol compounds such as acteol and actein, cimigenol and cimicifugoside; these tend to be seen as the active ingredients and are sometimes referred to simply as *triterpene glycosides*. There are about 50 of them.[[8]](#ref8)[[9]](#ref9)[[10]](#ref10)[][[11]](#ref11)[[12]](#ref12)[[13]](#ref13)
+* Cycloartanol compounds such as acteol and actein, cimigenol and cimicifugoside; these tend to be seen as the active ingredients and are sometimes referred to simply as *triterpene glycosides*. There are about 50 of them.[[8]](#ref8)[[9]](#ref9)[[10]](#ref10)[[11]](#ref11)[[12]](#ref12)[[13]](#ref13)
 * Flavonoids such as Formononectin
 * (E)-isoferulic acid
 * Dopargine, a derivative of dopamine[[14]](#ref14)

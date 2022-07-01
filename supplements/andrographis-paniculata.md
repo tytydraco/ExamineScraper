@@ -293,7 +293,7 @@ An extract known as HMPL-004 at 1200mg (thrice daily dosing of 400mg) in persons
 #### 8.5Testes
 
 
-Interestingly, one study on [Eurycoma Longifolia Jack](/supplements/eurycoma-longifolia-jack/) showed the efficacy of said supplement in a rat model of "*Andrographis Paniculata* induced infertile rats".[[56]](#ref56) This may have originated from a study in male albino rats where 20mg powder for 60 days induced infertility and a cessation of spermatogenesis[[57]](#ref57) and another study noting that 25-50mg/kg isolated Andrographolide for 48 days inducted testicular toxicity and altered spermatozoa.[[58]](#ref58)
+Interestingly, one study on Eurycoma Longifolia Jack showed the efficacy of said supplement in a rat model of "*Andrographis Paniculata* induced infertile rats".[[56]](#ref56) This may have originated from a study in male albino rats where 20mg powder for 60 days induced infertility and a cessation of spermatogenesis[[57]](#ref57) and another study noting that 25-50mg/kg isolated Andrographolide for 48 days inducted testicular toxicity and altered spermatozoa.[[58]](#ref58)
 
 
 In opposition to the above, doses of 1000mg/kg *Andrographis Paniculata* (6.1% Andrographolide) for 60 days in male rats has failed to exert appreciable testicular toxicity[[22]](#ref22) and these lack of effects persist when looking at fertility of male rats over 65 days, where the lack of testicular toxicity was replicated.[[45]](#ref45) It should be noted that the latter two studies appear to have better methodology than the former two (involving electron microscope analysis of testicular histology and measuring serum levels of biomarkers).[[45]](#ref45)

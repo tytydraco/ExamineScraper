@@ -781,7 +781,7 @@ In regards to Oxytocin-induced dysmenorrhea, Myrrh was able to reduce writhing t
 #### 14.4Salvia miltiorrhiza
 
 
-[Salvia miltiorrhiza](/supplements/salvia-miltiorrhiza/) and Boswellia have been investigated for their combination on hepatic fibrosis in mice where Boswellia (50mg/kg) and Salvia (150mg/kg) were both tested in isolation and in combination against DMN-induced hepatic fibrosis.[[147]](#ref147) Combination therapy was able to suppress the pathology of liver fibrosis in mice associated with reductions in TGF-β1, Smad3 and Smad7 signalling and mostly attributed to Salvia Miltiorrhiza.[[147]](#ref147)
+Salvia miltiorrhiza and Boswellia have been investigated for their combination on hepatic fibrosis in mice where Boswellia (50mg/kg) and Salvia (150mg/kg) were both tested in isolation and in combination against DMN-induced hepatic fibrosis.[[147]](#ref147) Combination therapy was able to suppress the pathology of liver fibrosis in mice associated with reductions in TGF-β1, Smad3 and Smad7 signalling and mostly attributed to Salvia Miltiorrhiza.[[147]](#ref147)
 
 
 [Back to top](#c-nutrient-nutrient-interactions)

@@ -843,7 +843,7 @@ Ginkgo has been shown to be effective (thrice daily dosing of 40mg EGb-761) in a
 
 
 
-> The active dose of ginkgo biloba may be beneficial in reducing symptoms of PMS, although larger trials are needed to confirm. No direct comparisons have been conducted, but it seems less potent than [Vitex Agnus Castus](/supplements/vitex-agnus-castus/)
+> The active dose of ginkgo biloba may be beneficial in reducing symptoms of PMS, although larger trials are needed to confirm. No direct comparisons have been conducted, but it seems less potent than Vitex Agnus Castus
 
 
 #### 8.2Sexual Dysfunction

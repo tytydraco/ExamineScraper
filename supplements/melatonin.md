@@ -38,7 +38,7 @@ Common supplements (or herbs not commonly used as food products) that contain me
 * *Coptis chinensis* (Huanglian) at 1mcg/g[[14]](#ref14)
 * *Angelica sinsensis* (Danghui) at 698ng/g[[14]](#ref14)
 * *[Ziziphus jujuba](/supplements/ziziphus-jujuba/)* (Suanzhaoren) at 256ng/g, or 146ng/g in the variant referred to as Dazao[[14]](#ref14)
-* *[Salvia miltiorrhiza](/supplements/salvia-miltiorrhiza/)* (Danshen) at 187ng/g[[14]](#ref14)
+* *Salvia miltiorrhiza* (Danshen) at 187ng/g[[14]](#ref14)
 * *Panax notoginseng* (Sangqui) at 169ng/g[[14]](#ref14)
 * *Curcuma aeruginosa* (Erzhu) at 120ng/g[[14]](#ref14)
 * *[Schisandra Chinensis](/supplements/schisandra-chinensis/)* (Wuweizi) fruits at 86ng/g[[14]](#ref14)

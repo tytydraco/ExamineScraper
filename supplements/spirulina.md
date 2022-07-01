@@ -56,7 +56,7 @@ C-Phycocyanin comprises about 20% of spirulina’s dry weight when spirulina is 
 Spirulina also contains immunostimulatory bioactive carbohydrates, called Immulina, at 0.5–2.0% dry weight,[[9]](#ref9) and γ-Linolenic acid (C18:3, ω6, GLA) at about 20% of the total fatty acid content (18–30 mg/g dry weight).[[10]](#ref10) 
 
 
-Spirulina is a source of several minerals, including [iron](/supplements/iron/) (0.38–0.54 mg/g), [calcium](/supplements/calcium/) (1.48–1.8 mg/g), [magnesium](/supplements/magnesium/) (2.7–3.98 mg/g), [zinc](/supplements/zinc/) (0.056–0.058 mg/g), [manganese](/supplements/manganese/) (0.024–0.033 mg/g), and [copper](/supplements/copper/) (5–10 µg/g).[[11]](#ref11) Spirulina also contains [vitamin B12](/supplements/vitamin-b12/) (0.56 µg/g) and pseudovitamin B12 (7-adenyl cyanocobamide; 2.74 µg/g),[[12]](#ref12) the latter of which is not readily usable by humans and has a binding affinity to intrinsic factor that is about one-third that of true vitamin B12.[[13]](#ref13)
+Spirulina is a source of several minerals, including [iron](/supplements/iron/) (0.38–0.54 mg/g), [calcium](/supplements/calcium/) (1.48–1.8 mg/g), [magnesium](/supplements/magnesium/) (2.7–3.98 mg/g), [zinc](/supplements/zinc/) (0.056–0.058 mg/g), [manganese](/supplements/manganese/) (0.024–0.033 mg/g), and [copper](/supplements/copper/) (5–10 µg/g).[[11]](#ref11) Spirulina also contains vitamin B12 (0.56 µg/g) and pseudovitamin B12 (7-adenyl cyanocobamide; 2.74 µg/g),[[12]](#ref12) the latter of which is not readily usable by humans and has a binding affinity to intrinsic factor that is about one-third that of true vitamin B12.[[13]](#ref13)
 
 
 Finally, spirulina is a source of various carotenoids, including [zeaxanthin](/supplements/zeaxanthin/) (0.12–1.27 mg/g), β-carotene (0.02–2.3 mg/g), and chlorophyll a (2.6–10.8 mg/g).[[14]](#ref14) The consumption of spirulina is positively correlated with [vitamin A](/supplements/vitamin-a/) status in native African women,[[15]](#ref15) and its β-carotene appears to be twice as bioavailable as that found in spinach (4.5:1 versus 9:1 ratio of β-carotene to retinol conversion).[[16]](#ref16) Similarly, consuming 4–5 grams of spirulina is capable of increasing zeaxanthin status.[[17]](#ref17) 
@@ -646,7 +646,7 @@ In studies measuring cell colonies, less aggregation is noted following both C-P
 #### 13.1Muscle Hypertrophy
 
 
-A study conducted in young rats (30 day old pups) comparing a diet with 17% Spirulina (64% protein by weight) against 17% [casein protein](/supplements/casein-protein/) (84% protein by weight) as the sole protein source over the course of 60 days noted that although total muscle weight, size, and DNA content were similar in both groups that Spirulina had 44% higher levels of the contractile protein Myosin, suggestive of increased protein synthesis rates relative to casein.[[154]](#ref154) No significant differences were observed in the Actin protein component.[[154]](#ref154)
+A study conducted in young rats (30 day old pups) comparing a diet with 17% Spirulina (64% protein by weight) against 17% casein protein (84% protein by weight) as the sole protein source over the course of 60 days noted that although total muscle weight, size, and DNA content were similar in both groups that Spirulina had 44% higher levels of the contractile protein Myosin, suggestive of increased protein synthesis rates relative to casein.[[154]](#ref154) No significant differences were observed in the Actin protein component.[[154]](#ref154)
 
 
 

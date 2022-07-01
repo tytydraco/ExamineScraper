@@ -705,7 +705,7 @@ The deposition of calcium in the arterial wall (a process known as arterial calc
 One study with garlic (1,200mg aged garlic extract) in persons at high risk for cardiovascular disease who were already on aspirin and statin therapy but further given garlic for one year noted that the 22.2% increase in coronary calcium seen in placebo was attenuated to 7.5%.[[230]](#ref230)
 
 
-White adipose tissue appears to be highly correlated to coronary artery calcium levels[[231]](#ref231) and an aged garlic extract (250mg) alongside some other confounds (100μg of [B12](/supplements/vitamin-b12/), 300μg of folic acid, 12.5mg of B6, and 100mg [Arginine](/supplements/arginine/)) in humans for one year appears to prevent the progression of coronary calcium buildup, associated with a relative (to placebo) reduction in homocysteine and less white adipose generation.[[231]](#ref231)
+White adipose tissue appears to be highly correlated to coronary artery calcium levels[[231]](#ref231) and an aged garlic extract (250mg) alongside some other confounds (100μg of B12, 300μg of folic acid, 12.5mg of B6, and 100mg [Arginine](/supplements/arginine/)) in humans for one year appears to prevent the progression of coronary calcium buildup, associated with a relative (to placebo) reduction in homocysteine and less white adipose generation.[[231]](#ref231)
 
 
 
@@ -1100,7 +1100,7 @@ In research animals, garlic supplementation at 0.8% of the diet is known to stim
 Brown fat tissue in rodents given garlic extracts (0.8% of the diet) tend to have higher mitochondrial content than do controls irrespective of diet.[[327]](#ref327)
 
 
-A supplement containing aged garlic extract (250mg) alongside some other confounds (100μg of [B12](/supplements/vitamin-b12/), 300μg of folic acid, 12.5mg of B6, and 100mg [Arginine](/supplements/arginine/)) in humans for one year appears to promote the production of brown adipose tissue relative to placebo.[[231]](#ref231)
+A supplement containing aged garlic extract (250mg) alongside some other confounds (100μg of B12, 300μg of folic acid, 12.5mg of B6, and 100mg [Arginine](/supplements/arginine/)) in humans for one year appears to promote the production of brown adipose tissue relative to placebo.[[231]](#ref231)
 
 
 

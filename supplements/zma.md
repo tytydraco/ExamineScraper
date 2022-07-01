@@ -4,7 +4,7 @@
 
 * [Zinc](/supplements/zinc/)
 * [Magnesium](/supplements/magnesium/)
-* [Vitamin B6](/supplements/vitamin-b6/)
+* Vitamin B6
 
  
 

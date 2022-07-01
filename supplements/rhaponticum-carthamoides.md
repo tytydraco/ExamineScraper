@@ -322,7 +322,7 @@ In women with ovarian cancer assigned to take an adaptogenic herb mixture contai
 #### 12.1Libido
 
 
-One study in boars testing fertility and libido in response to supplementation of *Rhaponticum carthamoides* mixed with other agents ([eurycoma longifolia jack](/supplements/eurycoma-longifolia-jack/) and [tribulus terrestris](/supplements/tribulus-terrestris/)) using 6.66mg/kg of the herb (0.1mg/kg 20-hydroxyecdysone) daily noted an increase in sperm concentration per volume ejaculate, although this conclusion was confounded by a reduction in total ejaculate volume.[[46]](#ref46) There was no apparent influence on libido relative to control, although libido was enhanced 20% relative to the baseline values in the experimental group.[[46]](#ref46)
+One study in boars testing fertility and libido in response to supplementation of *Rhaponticum carthamoides* mixed with other agents (eurycoma longifolia jack and [tribulus terrestris](/supplements/tribulus-terrestris/)) using 6.66mg/kg of the herb (0.1mg/kg 20-hydroxyecdysone) daily noted an increase in sperm concentration per volume ejaculate, although this conclusion was confounded by a reduction in total ejaculate volume.[[46]](#ref46) There was no apparent influence on libido relative to control, although libido was enhanced 20% relative to the baseline values in the experimental group.[[46]](#ref46)
 
 
 

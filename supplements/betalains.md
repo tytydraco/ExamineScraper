@@ -12,7 +12,7 @@
 #### 1.1Sources
 
 
-Betalains are nitrogen containing pigments found in a variety of foods that are reddish in hue, and occur in red plants that do *not* contain [anthocyanin](/supplements/anthocyanins/) molecules as the red pigment (ie. [beet root](/faq/are-nitrates-from-beetroot-and-processed-meats-the-same-thing-html/) contains betalains, whereas strawberries contains anthocyanins such as [pelargonidin](/supplements/pelargonidin/) for their reddish hue).[[1]](#ref1) They are at times used for food coloration in products such as ice cream, candies, and processed meat[[1]](#ref1)[[2]](#ref2) and the quantity in these foods rarely exceeds 50mg/kg due to their strong pigment coloration[[3]](#ref3) stronger even than red radish anthocyanins.[[4]](#ref4) Betalains in general as a food colorant, since they almost exclusively come from beets, are usually referred to as 'beetroot red' and are considered a natural food colorant.[[2]](#ref2)
+Betalains are nitrogen containing pigments found in a variety of foods that are reddish in hue, and occur in red plants that do *not* contain [anthocyanin](/supplements/anthocyanins/) molecules as the red pigment (ie. beet root contains betalains, whereas strawberries contains anthocyanins such as [pelargonidin](/supplements/pelargonidin/) for their reddish hue).[[1]](#ref1) They are at times used for food coloration in products such as ice cream, candies, and processed meat[[1]](#ref1)[[2]](#ref2) and the quantity in these foods rarely exceeds 50mg/kg due to their strong pigment coloration[[3]](#ref3) stronger even than red radish anthocyanins.[[4]](#ref4) Betalains in general as a food colorant, since they almost exclusively come from beets, are usually referred to as 'beetroot red' and are considered a natural food colorant.[[2]](#ref2)
 
 
 The majority of plants containing betalains are in the *caryophyllales* family with exception to the *caryophyllaceae* and *molluginaceae* genera, which accumulate anthocyanins for their red coloration.[[5]](#ref5)
@@ -25,7 +25,7 @@ The majority of plants containing betalains are in the *caryophyllales* family w
 Common dietary sources of betalains include:
 
 
-* [Beet root](/faq/are-nitrates-from-beetroot-and-processed-meats-the-same-thing-html/) products (*Beta vulgaris* subspecies *vulgaris*)[[6]](#ref6) with the content in red beets ranging from 0.02-0.21% depending on cultivar[[2]](#ref2) with the major red components being *betanidin* and *betanin* (as well as their isomers) while the major yellow components are *vulgaxanthin I* and *vulgaxanthin II*[[7]](#ref7)
+* Beet root products (*Beta vulgaris* subspecies *vulgaris*)[[6]](#ref6) with the content in red beets ranging from 0.02-0.21% depending on cultivar[[2]](#ref2) with the major red components being *betanidin* and *betanin* (as well as their isomers) while the major yellow components are *vulgaxanthin I* and *vulgaxanthin II*[[7]](#ref7)
 * Colored swiss chard (*Beta vulgaris* subspecies *cicla*)[[8]](#ref8)
 * Amaranth (*Amaranthus* genus)[[9]](#ref9)
 * Cactus fruits (*Opuntia* and *hylocereus* genera)[[10]](#ref10)[[6]](#ref6) and pitahaya (*Hylocereus*)[[11]](#ref11)
@@ -46,7 +46,7 @@ Many betalains are actually glycosides (bound to sugar) or acylglycosides (bound
 > Most betalain structures are based off of the molecule known as betalamic acid, and two very similar structures to betalamic acid are betanidin and indicaxanthin; these three molecules form the majority of betalains as they are glycosylated (various sugars added) to form a variety of molecules
 
 
-Similar to how proline is added to betalamic acid to form betanidin, the amino acid [glycine](/supplements/glycine/) can be added to betalamic acid to form *portulacaxanthin III* which can then have a [Tyrosine](/supplements/l-tyrosine/) added to it to form *portulacaxanthin II*;[[1]](#ref1) a structually related betalain is *dopaxanthin* where the phenol group more closely resembles dopamine, or there is *miraxanthin V* which is structually dopamine-betalamic acid.[[1]](#ref1) Tryptophan-betalamic acid (Tryptophan-betaxanthin) also exists alongisde a betxanthin for [GABA](/supplements/gaba/), serine, phenylalanine, and each of the [branched chain amino acids](/supplements/branched-chain-amino-acids/).
+Similar to how proline is added to betalamic acid to form betanidin, the amino acid [glycine](/supplements/glycine/) can be added to betalamic acid to form *portulacaxanthin III* which can then have a [Tyrosine](/supplements/l-tyrosine/) added to it to form *portulacaxanthin II*;[[1]](#ref1) a structually related betalain is *dopaxanthin* where the phenol group more closely resembles dopamine, or there is *miraxanthin V* which is structually dopamine-betalamic acid.[[1]](#ref1) Tryptophan-betalamic acid (Tryptophan-betaxanthin) also exists alongisde a betxanthin for [GABA](/supplements/gaba/), serine, phenylalanine, and each of the branched chain amino acids.
 
 
 ![](https://2e9be637a5b4415c18c5-5ddb36df15af65ab8482e83373c53fe5.ssl.cf1.rackcdn.com/images/512.png)
