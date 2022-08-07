@@ -123,7 +123,7 @@ Out of studies that paired exercise with keto diets, and compared them to non-ke
 Initial weight loss on a keto diet (meaning the first week) is nearly entirely water and glycogen, rather than fat. You simply cannot lose several pounds of fat in one week absent extreme situations. 
 
 
-As you ratchet down carbs, you use up liver glycogen. Since each gram of glycogen is paired with about 2.4 grams of water,[[72]](#ref72) a full male liver is heavier by 289–432 grams (0.6–1.0 lb), and a full female liver is heavier by 241–364 grams (0.5–0.8 lb).[[73]](#ref73)[[74]](#ref74)[[75]](#ref75) Eventually, you'll tap more and more into your muscle glycogen and empty those stores as well, to the tune of 1.1-1.4 kg (2.4-3.2 lb)[PMID: 60579979](/contribute/supplements/PMID%3A+60579979/). Adding this to your liver glycogen, it's easy to lose at least 2-3 kg (5-7 lb) or more of glycogen and water weight.
+As you ratchet down carbs, you use up liver glycogen. Since each gram of glycogen is paired with about 2.4 grams of water,[[72]](#ref72) a full male liver is heavier by 289–432 grams (0.6–1.0 lb), and a full female liver is heavier by 241–364 grams (0.5–0.8 lb).[[73]](#ref73)[[74]](#ref74)[[75]](#ref75) Eventually, you'll tap more and more into your muscle glycogen and empty those stores as well, to the tune of 1.1-1.4 kg (2.4-3.2 lb). Adding this to your liver glycogen, it's easy to lose at least 2-3 kg (5-7 lb) or more of glycogen and water weight.
 
 
 [Back to top](#c-effects-on-body-composition)
