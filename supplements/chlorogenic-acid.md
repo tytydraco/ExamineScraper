@@ -112,7 +112,9 @@ Green Coffee water-soluble extract has been used multiple times in hypertensive 
 
 Although benefit can be seen with Chlorogenic acid from coffee, supplementation may be a better option. A compound produced during roasting of coffee beans called HHQ can inhibit the actions of Chlorogenic Acid in vivo;[15] coffee without HHQ shows dose-dependent decreases in blood pressure as a result of Chlorogenic acid, which does not occur with HHQ-containing coffee.[16][17]
 
+
 Despite sufficient levels of Chlorogenic acid in coffee, supplementing the same dose might confer more benefits due to a higher bioactivity of chlorogenic acid
+
 
 1.3
 
@@ -246,7 +248,9 @@ Additionally, chlorogenic acid can increase muscular glucose uptake by two means
 
 Chlorogenic acid and related caffeic structures can inhibit the enzyme glucose-6-phosphatase (G6P) in vitro and potentially reduce the amount of glucose produced by the body, which can be seen as therapeutic for glucose control in diabetics.[55] 0.5-1mM of chlorogenic acid, in vitro, has been shown to reduce 40% of active G6P in liver cells[56] and oral administration of 3.5mg/kg bodyweight in rats did not change when the peak of blood sugar after feeding occurred (Tmax), but lowered the severity of the peak (Cmax) and overall exposure to glucose (AUC).[56]
 
+
 Seems to be a pretty effective carb-blocker; and one that is not well-absorbed where it blocks carbs in the small intestines. Which is good, you don't want to absorb something that should stay in the intestines to do its job.
+
 
 9.
 
@@ -266,5 +270,7 @@ Safety and Toxicology
 
 There have been reports of allergies to Green Coffee Beans and thus the extract, although this does not seem to be due to chlorogenic acid.[60] It has been investigated as to whether it is the causative agent in numerous herb-related instances of harm (due to it being in many plants) but does not appear to be causative of harm in and of itself.[61][62]
 
+
 Doesn't appear to be harmful at all, and a lack of case studies despite chlorogenic acid being very prominent in food sources. That being said, a lack of evidence precedes any conclusions.
+
 

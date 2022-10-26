@@ -166,7 +166,9 @@ Butea monosperma (of the family Fabaceae; synonymous with butea frondosa[1]) is 
 
 The plant overall is commonly referred to as traditional names such as Kimsuk (Bengali), palash or Palăśa (Hinda), Purasu (Tamali), 'Flame of the Forest' (English), Moduga (Teluga), and Muriku (Malayalam)[1][2][14] with other names including Bastard Teak,[6] dhak, and "The Treasurer of the Gods and of Sacrifice".[2]
 
+
 Butea monosperma (Palăśa or Flame of the Forest) is a tree bearing bright red flowers that appears to have all parts of the tree used medicinally, although the flowers are the most commonly used for aphrodisiac and liver protective purposes
+
 
 1.2
 
@@ -178,13 +180,17 @@ The prenylated methylenedioxybenzo(4,5)furo(3,2-c)chromene-6-one structure known
 
 The extraction process in most studies using the bark is initially an ethanol extraction, and from there the acetone soluble components are derived and used as supplementation; this includes the main methoxylated flavonoids.[16][19] The phenolics in the bark tend to be lower than other plants, being measured at 8.02 +/-0.05mg/g in the 80% aqueous:methanolic extract (with only 01.04+/-0.06mg/g flavonoid content).[20]
 
+
 The bark extract appears to contain a large amount of methoxylated flavonoids as well as some alkaloid structures that bear structural resemblence to steroid structures; the majority of these flavonoids belong to the isoflavone class
+
 
 Whereas components of the flowers include:
 
 The flavanones Butin (0.04% dry weight), Butrin (7,3′,4′-trihydroxyflavanone-7,3′-diglucoside) at 1.5% and its isomer Isobutrin (3,4,2′,4′-tetrahydroxychalcone-3,4′-diglucoside)[4][21] and liquirtigenin;[22] also the Butin glycoside (Isomonospermoside)[22] and butein (0.37%)[22]The flavone 7,3',4'-trihydroxyflavone[22] and monospermoside (chalcone)[22] and a variant of the latter known as dihydromonospermoside (dihydrochalcone)[22]The flavone 5,7-dihydroxy-3,6,4'-trimethoxyflavone (Santin) as a triglycoside[23]The isoflavones Formononetin and Afrormosin (as well as the formononetin glycoside Ononin)[22]Coreopsin and Isocoreopsin[22]Palasitrin[22]Sulphuresin[22]The water and butanol extracts tend to have greater antioxidant properties, which are thought to be due to higher concentrations of butein and butrin relative to the acetone, ethyl acetate, and methanolic extracts.[4]
 
+
 The flower extracts appear to contain a variety of chalcone molecules as well as some flavonoids, and the steroid-like structures in the bark have not yet been detected in the flowers
+
 
 The leaves of butea monosperma have been noted to contain:
 
@@ -192,7 +198,9 @@ Stigmasterol its βD-glucopyranoside[24]Nonacosanoic acid;[24] also present in t
 
 The seeds of butea monosperma contain:
 
-Fatty acids (10.48% of seed weight) which are mostly oleic cid (33.37%), palmitic acid (30.56%), behenic acid (13.65%), linoleic acid (7.69%), and arachidic acid (7.30%)[25]Butin (flavone)[26]The flavone 5,2'-dihydroxy-3,6,7-trimethoxyflavone as a diglucoside[27]Vitamin C[28]The leaves and seeds are less commonly used than the bark and flowers are, and due to this their composition is not well studied at this moment in time
+Fatty acids (10.48% of seed weight) which are mostly oleic cid (33.37%), palmitic acid (30.56%), behenic acid (13.65%), linoleic acid (7.69%), and arachidic acid (7.30%)[25]Butin (flavone)[26]The flavone 5,2'-dihydroxy-3,6,7-trimethoxyflavone as a diglucoside[27]Vitamin C[28]
+The leaves and seeds are less commonly used than the bark and flowers are, and due to this their composition is not well studied at this moment in time
+
 
 1.3
 
@@ -210,7 +218,9 @@ Serum
 
 In rats fed 10mg/kg of cladrin, the Tmax of 30 minutes and an overall AUC of 571+/-73ng/h/mL; oral bioavailability was deemed to be 13.7%[30] while 50mg/kg formononetin orally to rats possesses a Tmax of one hour and an overall AUC of 278±39ng/h/mL with an oral bioavailability of 4.3%.[30]
 
+
 Cladrin and formononetin (two components of the bark) have been detected in the serum of rats following oral ingestion, with cladrin having a decent bioavailability (for a flavonoid of course, which tend to have poor absorption) while formononetin has the typical low bioavailability
+
 
 2.2
 
@@ -218,7 +228,9 @@ Metabolism
 
 Following oral ingestion of cladrin, there is no apparent metabolism into equol nor daidzein (estrogenic and weakly estrogenic soy isoflavones, respectively) while oral ingestion of a high dose of formononetin (50mg/kg) was noted to be metabolized into daidzein.[30] Since the AUC of formononetin was 278+/-39ng/h/mL while the AUC for daidzein was 147.25ng/h/mL, it seems that 47% of formononetin is metabolized into daidzein.[30]
 
+
 Formononetin can metabolize into daidzein following oral ingestion, while cladrin cannot
+
 
 3.
 
@@ -230,7 +242,9 @@ Appetite and Food Intake
 
 200-800mg/kg of the ethanolic bark extract of butea monosperma in two diet induced models of obesity and an MSG model (intracerebrovascular injections in rat pups to induce overfeeding symptoms) for 40-60 days noted that all doses were able to reduce food intake in the rats; 800mg/kg was also effective in normal control rats (food intake reduced by 13%) and no group outperformed the reference drug of 5mg/kg sibutramine.[31]
 
+
 One study noted that high intakes of the bark extract have suppressed food intake in otherwise normal rats, mechanism for this is unknown
+
 
 3.2
 
@@ -238,7 +252,9 @@ Epilepsy and Convulsion
 
 The acetone soluble fragment of the petroleum extract from the flowers (1% yield[6]) appears to be the only part with significant anti-convulsive properties[32] thought to be due to its triterpenoids (750mg per gram of extract; 0.75% total yield[6]), and injections of the triterpenoids at 10-100mg/kg into mice prior to seizures induced by various stimuli noted that it was able to protect against electroshock induced seizures (PD50 of 34.2mg/kg) with a potency greater than phenytoin although it failed against all other seizure tests (lithium-pilocarpine, picrotoxin, and pentylenetetrazol).[6] The acetone extract itself (rather than isolated triterpenoids) injected at 50-200mg/kg was weakly effective.[32]
 
+
 The potential anticonvulsive effects seem to be too impractical to apply to oral supplementation of this plant at this moment in time; although it was more potent than phenytoin on one paramter, it seemed to fail at others
+
 
 3.3
 
@@ -248,7 +264,9 @@ Due to a traditional usage of butea monosperma as being used to treat burning se
 
 Butea monosperma is associated with a decrease in oxidative damage (MDA reduced in plasma while glutathione was increased) without affecting baseline oxidation status.[9][33]
 
+
 There may be a potential usage for this plant in treating neuropathic pain, but the efficacy of it seems to be less than the reference drug of pregabalin
+
 
 3.4
 
@@ -258,7 +276,9 @@ In toxicology screening, it was noted that injections of 100mg/kg of the triterp
 
 When tested in the context of phenobarbital induced sleep time, the triterpenoids at around 60-100mg/kg were able to greatly increase sleep duration (298% of the time induced by phenobarbital alone) which was not significantly attenuated after a week of continued usage.[6]
 
+
 Higher doses may have a sedative effect associated with reductions in motor control
+
 
 3.5
 
@@ -266,7 +286,9 @@ Memory and Learning
 
 100-400mg/kg of the 50% ethanolic extract of the leaves given to rats impaired by scopolamine shows dose-dependent improvements in memory (assessed by object recognition and water maze performance) and protective changes in oxidative markers in the brain (glutathione being preserved and MDA reduced), although no group outperformed the reference drug of 1mg/kg donepezil.[1]
 
+
 Possible antiamnesiac effects that are less effective than the reference drug
+
 
 4.
 
@@ -280,7 +302,9 @@ In otherwise normal rats given 300mg/kg of the ethanolic seed extract (21% yield
 
 In diabetic (alloxan) rats that are given an oral glucose tolerance test following a single dose of 200mg/kg of the flower ethanolic extract, there is no significant influence after 2-4 hours but a relative decrease in blood glucose relative to diabetic control after 6 hours;[34] the reduction was less than that seen with the reference drug of 400µg/kg glibenclamide.[34]
 
+
 There do not appear to be any effects of acute or chronic intake of this herb on the blood glucose of otherwise normal rats, and in diabetics there may be a weak acute reduction in blood glucose following an oral glucose tolerance test (although not a hypoglycemic effect, and weaker than the reference drug)
+
 
 4.2
 
@@ -290,13 +314,17 @@ Type II Diabetes
 
 In diabetic (streptozotocin induced) rats, the leaf and bark water extracts at 500mg/kg oral ingestion for six weeks only weakly reduced blood glucose by 28% and 11%, respectively;[35] this magnitude of reduction has been seen with the water extract elsewhere (28% reduction within 5 hours of ingestion by alloxan induced diabetic rats[36]) and the authors suggested no curative effects due to a lack of changes in basal insulin or histological examination.[35]
 
+
 In streptozotocin induced diabetic mice, there appears to be a mild reduction in blood glucose relative to diabetic control, and it does not appear to be anything remarkable since the one study to assess histology of the rats did not find protective effects on the liver or any serum indicator to suggest a better pancreas
+
 
 300mg/kg of a basic bark extract (50% ethanolic) in alloxan-induced diabetic rats over the course of 45 days, there was a reduction in blood glucose associated with the extract (reversed 65% of the increase in blood glucose) that was nonsignificantly greater than the reference drug glibenclamide;[37] this was thought to be associated with the antioxidant properties due to an induction in glutathione and catalase (less of an influence on SOD and glutathione peroxidase) with reductions in lipid peroxidation;[37] this was replicated elsewhere with a similar research model and dose but from the seeds (70.9% normalization again outperforming glibenclamide)[38] although when looking at causative molecules three (unidentified) molecules appeared to be effective in reducing blood glucose, with the most potent (50mg/kg causing 54.9% normalization) being a triterpenoid structure.[38]
 
 The flower extract (50% ethanolic) at 300mg/kg for 45 days in alloxan diabetic mice also appears to be effective to a similar level as the bark extract and showed similar changes to oxidative status of the mouse while outperforming glibenclamide (10mg/kg);[14] this study is duplicated in medline[39] but has been noted previously with 200mg/kg of a full ethanolic extract (8.6% yield) which, when fed to alloxan induced diabetic rats for two weeks resulted in a reduction in blood glucose that underperformed relative to 0.4mg/kg glibenclamide.[34]
 
+
 There seem to be positive effects of the ethanolic extracts against alloxan induced diabetes, and they correlate well with the antioxidant effects. It seems comparable to glibenclamide overall (underperforming in the short term and outperforming over the long term) but the mechanisms underlying this are not known as this moment in time
+
 
 5.
 
@@ -308,7 +336,9 @@ Weight Gain
 
 The weight gain assocaited with ovarectomy (rat model of menopause) has been found to not be reversed with 10mg/kg cladrin despite 100μg/kg estrogen being effect, despite this dose of cladrin.[40]
 
+
 One study in a rat model of menopause failed to find a beneficial effect on menopause related weight gain, which indirectly suggests no estrogenic effect in this state of estrogen deficiency
+
 
 6.
 
@@ -322,13 +352,17 @@ Cajanin appears to stimulate osteoblastogenesis in the concentration range of 1-
 
 100pM of medicarpin can suppress TNF-α mRNA (about 50%) from primary calvarial osteoblasts, and subsequently abolish IL-1 and IL-6 secretion.[42] This was due to fully abolishing TNF-α induced NF-kB activation in a manner that is dependent on the estrogen receptors, with 100pM of medicarpin being as potent as 1nM of 17β-estradiol.[42]
 
+
 Both cajanin and medicarpin stimulate osteoblast growth in the picomolar range at a potency and concentrations with is comparable to the biologically relevant form of estrogen (17β-estradiol), and while this action of medicarpin may be mediated by estrogen signalling the influence of cajanin is not. Cladrin, formononetin, and isoformononein are similar to cajanin in activating MAPKS (MEK, Erk, p38) but weaker in potency
+
 
 When rats are fed 10mg/kg medicarpin for 4 weeks and their bone cells removed, putting said BMC in culture with minerals for 18 days was associated with increased bone mineralization suggesting a stimulatory effect on osteoprogenitor cells.[42]
 
 10mg/kg cajanin and isoformononetin (but not lower doses) fed to female rats both increased ALP, but cajanin was the only one to increase the compressive energy required to snap bones (by 82%) after 30 days of supplementation, with 30% more bending force also required.[41] This is also noted with 10mg/kg of cladrin and formononetin with comparable potency over 30 days in otherwise normal female rats.[30]
 
+
 30 days of supplementation of cajanin appears to increase the force required to snap bones, demonstrating the ability to increase the structural rigidity of bones
+
 
 6.2
 
@@ -338,11 +372,15 @@ Medicarpin has been noted to suppress osteoclastogenesis in bone marrow cells at
 
 One study coincubating osteoblasts with osteoclasts noted that the production of OPG in osteoblasts with 100pM medicarpin was comparable to 1nM 17β-estradiol, but while 17β-estradiol had no influence on RANKL medicarpin was able to suppress it;[42] this was similar with TRAP and RANK, since 17β-estradiol reduced the former with no influence on the latter while medicarpin reduced both.[42]
 
+
 Medicarpin appears to potently suppress the proliferation of osteoclasts (negative regulators of bone mass) which indirectly promote bone growth, and due to influencing both the estrogenic pathway and an inflammatory pathway it seems to be overall more effective than estrogen itself
+
 
 Oral ingestion of 1-10mg/kg medicarpin for four weeks in menopausal rats noted that only the higher dose was able to reduce TRAP positive osteoclasts to control levels.[42]
 
+
 The suppressive effects on osteoclastic function have been confirmed after oral ingestion of medicarpin, with other flavonoids not tested
+
 
 6.3
 
@@ -352,18 +390,24 @@ While a basic ethanolic extract of the bark from butea monosperma appears to be 
 
 In otherwise normal female rats given supplementation of the acetone soluble fragment of butea monosperma (100mg/kg) for 12 weeks, there are increases in femur (5%) and tibia (8%) length with a 9% increase in growth plate height relative to control.[19] Bone mineral density also increased at the femur diaphysis (5%) and metaphysis (29.5%) as well as the tibial diaphysis (5.6%) and metaphysis (35.2%) relative to control.[19]
 
+
 Appears to promote bone growth and mineral density in otherwise healthy female rats more than control
+
 
 Supplementation of the acetone soluble fragment of butea monosperma bark extract at 100mg/kg oral intake for 12 weeks in otherwise normal rats before ovarectomy (induction of menopause) noted that the increase in bone mass seen during treatment 'buffered' subsequent bone loss during menopause.[19] The rate of bone loss seen in the butea monosperma preloaded rats against the full control rats was not significantly different when supplementation was not continued.[19]
 
 In the opposite type of study where ovaractomy is induced and then left for 12 weeks (to allow estrogen-related bone degeneration to occur), oral ingestion of 10mg/kg cladrin for the subsequent 12 weeks was able to reverse the negative changes to bone mass and strength with the same efficacy as the reference drug of 17β-estradiol (100μg/kg).[40]
 
+
 The benefits to bone mass do not appear to persist after supplementation is stopped, but bone growth that is achieved before menopause causes a sort of 'buffer' where more bone needs to be lost to achieve critically low mass, and is an indirect way of reducing risk for osteoporosis
+
 
 When looking at Trabecular bone architecture, 10mg/kg medicarpin was not only able to abolish the changes seen during the rat model of menopause but increased bone mass relative to control rats (despite being in a state of menopause).
 [42]
 
+
 Has been noted to, at least in one instance, abolish bone losses during a rat model of menopause and actually cause an increase relative to normal control rats
+
 
 7.
 
@@ -375,7 +419,9 @@ Mast Cells
 
 A methanolic extract of the flowers yields butrin, isobutrin, isocoreopsin, and butein; when tested in a mast cell line (HMC-1) prior to stimulation with PMA noted that both isobutrin and butein 1-10μg/mL suppressed TNF-α while isobutrin was the only flavonoid to suppress IL-6 to a relevant degree;[43] no isolated flavonoid outperformed the reference drug of parthenolide (from Feverfew) and this appeared to be due to NF-kB inhibition.[43]
 
+
 Possible antiinflammatory or antiallergic propertues of unknown practical relevance
+
 
 8.
 
@@ -391,7 +437,9 @@ In a rat uterine assay, medicarpin at 10mg/kg daily for three days (a dose assoc
 
 One flavone that is not commonly thought to benefit bone health (butin) has estrogenic properties in a uterine assay at the oral doses of 10-20mg/kg, associated with causing termination of pregnancy;[26] estrogenic effects were noted at an oral dose as low as 500µg (in young female rats; about 5mg/kg) although 50mg/kg was needed to be comparable in potency to 500µg/kg 17β-estradiol injections.[26]
 
+
 When looking at in vivo tests for estrogenicity, all the isoflavones associated with bone growth have since failed to show either estrogenic or antiestrogenic effects while a single flavone (butin) that is thought to be the antifertiltiy agent in the seeds shows estrogenic properties
+
 
 9.
 
@@ -405,11 +453,15 @@ In a DPPH assay, the flower extracts have scavenging properties in the range of 
 
 In the bark, the potency assessed by DPPH seems to be disconnect from the phenolic content (due to being higher in the bark than in the leaf, and the bark having an abysmal phenolic content).[20] The flower extract seems to have most potency correlating with its phenolics in the methanolic and ethyl acetate fractions, with the water extracts being less potent.[44]
 
+
 The direct antioxidant properties of this plant appear to be present, but they have failed to outperform vitamin C as the reference
+
 
 Supplementation of 100mg/kg of the butea monosperma acetone soluble ethanolic extract (of the bark) to otherwise normal female rats for 12 weeks has increased total antioxidant capacity of the blood by 57% relative to control.[19]
 
+
 The lone study assessing antioxidant status of the body following ingestion of this herb has noted a surprisingly large increase in antioxidant capacity; practical significance unknown
+
 
 10.
 
@@ -425,7 +477,9 @@ A 50% ethanolic bark extract at 100-200mg/kg showed dose-dependent protection ag
 
 A water extract of the plant has shown hepatoprotective effects against CCl4 in rats when fed at 250mg/kg in four doses within two days (48, 24, and 2 hours prior to CCl4 as well as six hours after), it appeared to normalize nuclear morphology relative to control which was also seen with the reference drug (25mg/kg silymarin taken at the same times).[3] A single dose of 400-800mg/kg of the water extract taken at the same time of CCl4 noted dose-dependent reductions in the elevated enzymes although the highest dose was comparable to 50mg/kg silymarin.[47]
 
+
 There appear to be liver protective effects associated with oral ingestion of this plant which are antioxidative in nature, but they have failed to be more effective than the reference drug of milk thistle
+
 
 11.
 
@@ -437,7 +491,9 @@ Breast Cancer
 
 In MCF-7 cancer cells, 1μM of butein is able to reduce mRNA levels of COX2 at baseline (associated with reduced ERK1/2 and PKC phosphorylation) and when stimulated with PMA 0.1-25μM of butein suppressed the inflammatory response in a concentration dependent manner with 25μM causing absolute inhibition.[48] These effects were also noted in noncancerous MCF-10A cells, although 10μM was required to suppress COX2 while 0.1-10μM all suppressing PGE2 from PMA fully.[48]
 
+
 The antiinflammatory effects of butein against PMA (which appear to be quite respectable) occur in both breast cancer and normal cells, suggesting a possible anti-cancer effect
+
 
 11.2
 
@@ -447,7 +503,9 @@ In hepatoma cells (Huh7 and HepG2) there is a decrease in cell viability with an
 
 In rats, hepatic carcinogens that work via oxidative means (2-AAF and thioacetamide) have been noted to be attenuated with oral ingestion of butea monosperma.[49][50]
 
+
 Possible anticancer effects in liver cells associated with antioxidant effects and apoptosis, but on both accounts it has been noted to be less effective than milk thistle
+
 
 12.
 
@@ -459,7 +517,9 @@ Skin
 
 The ethanolic bark extract of butea monosperma applied topically to rats with dermal wounds (via excision) over 16 days noted an increase in DNA synthesis alongside a higher protein and collagen concentration for the first 12 days while all values were normalized when measured at day 16; this was thought to be due to the faster wound healing observed in the rats given butea monosperma at day 12 and increase tensile strength of the skin after the study.[10]
 
+
 May promote wound healing, although the practical significance (or relative potency against other agents) is currently unknown
+
 
 13.
 
@@ -475,7 +535,9 @@ It is thought that the flavone butin carries antifertility effects (since it is 
 
 In testicular cells, the ethanolic extract of the bark has been noted to inhibit hyaluronidase (IC50 values of 12µg/mL and 49µg/mL for ovine and mouse testicular cells), with the water and methanolic extracts being less potent.[12]
 
+
 The seeds appear to have antifertility effects in both genders, mechanisms are currently unknown for males (confounded with general toxicity at the higher dose) while the lower doses seen as antifertility in females are associated with antiestrogenic effects
+
 
 14.
 
@@ -489,9 +551,13 @@ The LD50 for injections of the triterpenoids in the flower (0.75% of total yield
 
 A powdered bark extract (50% ethanolic extract) does not appear to have any apparent clinical toxicity in rats at oral doses up to 2,000mg/kg.[46]
 
+
 There does not appear to be any concerns associated with the bark extract at this point in time (and the flower toxicity is much higher than orally supplemented doses), but there is overall a lack of toxicological research
+
 
 The seeds have been associated with low toxicity (relative to other parts of the plant) in acute toxicity tests in mice[54] and has been reported to agglutinate erythrocytes at a dietary dose of 0.9% in rat;[53] possible related to a galactose specific lectin referred to as butea monosperma agglutinin.[55][56] oral ingestion of the seeds of butea monosperma (infrequently used for dietary supplementation) at 800mg/kg over 90 days in rats only minorly affected organ and total weight but was associated with toxicity to red blood cells (reduction in RBC count, hemoglobin content, and hematocrit) and altered histology of 6/18 organs examined including glomerular congestion and tubular hemorrhage (kidney), slight decrease in the cellularity (spleen), epithelial disruption (intestines) and proliferation (prostate) while there were antifertility effects in males by suppressing spermatogenesis.[53]
 
+
 The seeds seem to be assocaited with minor toxic symptoms at a dose not significantly higher than the recommended dose for the seeds (300mg/kg is the recommended dose in rat equivalents, and the toxicity is less than 3-fold higher than that)
+
 

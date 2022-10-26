@@ -79,7 +79,9 @@ Other mechanisms of cholesterol uptake from LDL-C include the lipoprotein lipase
 It should be noted that gross overexpression of LPL in skeletal muscle may cause a myopathy, though to be related to increased fatty acid influx (as LPL mediates fatty acids and cholesterol)[10] similar to an increase in LPL on cardiomyocytes.[11] Furthermore, competitive athletes who have increased LDL expression[12] seem to be more likely to have complications from statin usage.[13]
 .
 
+
 Cholesterol uptake into skeletal muscle cells (myocytes) appears to be mediated by both LPL and the LDL receptor, with statin usage increasing the activity of the LDL receptor.
+
 
 1.2
 
@@ -91,7 +93,9 @@ Lovastatin is an HMG-CoA reductase inhibitor, preventing the conversion of HMG-C
 
 Less GGPP in a cell system is associated with less protein synthesis due to reduced RhoA (a small protein kinase)[21] and may inhibit complex IV of the mitochondria, reducing cellular ATP levels.[22] RhoA is known to be reduced due to less Melavonate availability[23] and lower RhoA concentrations are associated with muscle cell catabolism.[24]
 
+
 Myopathy from lovastatin appears to be associated with reducing GGPP (a consequence of inhibiting HMG-CoA, the target enzyme of statins) and independent of the reduction in cholesterol per se.
+
 
 Lovastatin is also known to induce atrogin-1, a protein that mediates protein catabolism and this induction of atrogin-1 is ablated by excessive incubation of PGC-1a.[25]
 
@@ -101,13 +105,17 @@ Hypertrophy
 
 One study (otherwise healthy men aged 60-69) that noted that cholesterol was linearly associated with more lean mass gain in older individuals on a standardized diet and given resistance training noted that usage of lovastatin (in the recommended range) was associated with more muscle building than persons not using statins;[26] this study noted comparable increases with lovastain and pravastatin, both of which outperformed atorvastatin and simvastatin which comparatively outperformed no statin usage.[26] The authors hypothesized this was a recompensatory effect from the known ability of statin drugs to augment exercise-induced muscle injury as assessed by marathons[16] or downhill treadmill walking[17] and when measured 48-72 hours after (intense exercise is also an independent risk factor for myopathy from statins, suggestive of augmenting muscle damage or attenuating the rate of repair[18]).
 
+
 One study suggests that chronic usage of statin drugs and pairing statins with exercise can increase lean mass accrual from exercise, apparently synergistic with dietary and serum cholesterol. Although statins during exercise are not well studied, they appear to reduce the rate of muscle regeneration.
+
 
 The connection between GGPP and RhoA is unlikely to explain the observed reactions as there are differences between lovastatin and pravastatin, as the latter is known to not be taken up into myocytes to a large degree[27] due to being selectively taken up by OATP1B1,[28] a transport expressed on hepatocytes almost exclusively;[29] thus limiting the muscle exposure to pravastatin.[30] Although pravastatin would induce the same effects if cultured in vitro,[20] it does not appear to reach skeletal muscle well after ingestion.
 
 The only possible link here is that cholesterol ester and free cholesterol influx into a cell (thought to be anabolic to skeletal muscle) is inversely dependent on RhoA, being increased with lower RhoA concentrations.[31]
 
+
 Reductions of GGPP and, subsequently, RhoA are a possible explanation for the observed hypertrophic response to statins but cannot explain the difference between pravastatin and lovastatin; these reductions are also inherently catabolic.
+
 
 Another possible explanation is using Selenoproteins (proteins made with selenium as a component) and particularly Selenoprotein N, encoded by the SEPN1 gene; due to HMG-CoA inhibition, there is less isopentenylpyrophosphate (IPP) availability (in the cholesterol biosynthetic chain after mevalonate) and IPP appears to be critical for a selenocysteine transfer RNA to make selenoproteins.[32]
 
@@ -115,7 +123,9 @@ SEPN1-related myopathies (genetic faults) are phenotypically similar to statin-i
 
 Furthermore, although ablation of SEPN1 and reduced selenoprotein N is not adverse to muscle growth per se[33] and is not present in high levels in adult skeletal muscle without physical injury,[37] introduction of a mutant selenocysteine tRNA to reduce selenoprotein amounts, in rats, is associated with a 50% increase in muscle protein synthesis that is mTOR and exercise dependent.[38]
 
+
 Selenoprotein deficiency appears to be somewhat related to both myopathy as well as enhanced exercise-induced hypertrophy, and statins may reduce cellular selenoprotein concentrations. This seems to correlate better with the observed effects of statins on muscle protein synthesis, but assumes that a hormetic response occurs (this hypothesized hormetic response that ultimately builds muscle is not known yet).
+
 
 2.
 

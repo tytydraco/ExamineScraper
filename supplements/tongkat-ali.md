@@ -100,7 +100,9 @@ Composition
 
 Eurycoma Longifolia tends to contain:
 
-Quassinoid compounds, which are found in the Simaroubaceae family of plants[4][5] of which the compounds Eurycomanone (usually averaged at 1.6% content dry weight) and eurycomanol are seen as the main bioactives.[6] Currently, over 150 quassinoids are known to exist among the four species of Eurycoma[3]Eurycolactones[3]Canthin-6-one metabolites[7] such as 9-hydroxycanthin-6-one[8] and 9-methoxycanthin-6-one[9]Eurylene and teurilene , derivatives of Squalene[10]A tirucallanoid compound known as 23,24,25-trihydroxytirucall-7-en-3,6-dione[11]Eurypeptides, composing parts of the protein fragmentGlycosaponinsMostly based around the 'quassinoid' triterpenoid structures, with the main one being known as eurycomanone. Other bioactives include the canthin-6-one class and possibly the eurypeptides for sexuality; contribution of other ingredients not known
+Quassinoid compounds, which are found in the Simaroubaceae family of plants[4][5] of which the compounds Eurycomanone (usually averaged at 1.6% content dry weight) and eurycomanol are seen as the main bioactives.[6] Currently, over 150 quassinoids are known to exist among the four species of Eurycoma[3]Eurycolactones[3]Canthin-6-one metabolites[7] such as 9-hydroxycanthin-6-one[8] and 9-methoxycanthin-6-one[9]Eurylene and teurilene , derivatives of Squalene[10]A tirucallanoid compound known as 23,24,25-trihydroxytirucall-7-en-3,6-dione[11]Eurypeptides, composing parts of the protein fragmentGlycosaponins
+Mostly based around the 'quassinoid' triterpenoid structures, with the main one being known as eurycomanone. Other bioactives include the canthin-6-one class and possibly the eurypeptides for sexuality; contribution of other ingredients not known
+
 
 1.3
 
@@ -108,11 +110,15 @@ Patented or Research extracts
 
 LJ100 is a patented blend of Eurycoma Longifolia (with the LJ referencing the name Longjack) that consists of 22% eurypeptides and 40% glycosaponins; it is a 100:1 extract, being concentrated so that 1g is bioequivalent to 100g Eurycoma Longifolia dry weight in regards to the two aforementioned ingredients. The patent details can be viewed here.[12]
 
+
 Populat patented extract for eurypeptides and glycosaponins
+
 
 TAF 273 is an extract enriched for quassinoids and has a 23.6+/-0.9% eurycomanone content, a 6.4+/-0.1% 13α(21)-epoxyeurycomanone content, an 0.8+/-0.1% 13α,21-dihydroeurycomanone content, and a 4.8+/-0.2% eurycomanol content.[13]
 
+
 TAF 273 is enriched for the eurycomanone content and related molecules
+
 
 2.
 
@@ -134,7 +140,9 @@ Aphrodisia
 
 Eurycoma Longifolia is commonly looked into for Aphrodisia due to that being one of its traditional roles when used by humans.[1] It has been claimed that the glycoprotein content of Eurycoma is responsible for pro-aphrodisiac effects (and the eurypeptide content partially contributing via increasing testosterone) but these claims are from conference presentations and not yet in peer-reviewed journals.[15] These claims originate from the patents surrounding LJ100, a concentrated extract of glycoproteins and eurypeptides.[16]
 
+
 Mechanisms are unknown for the most part, and possibly unreliable when mentioned
+
 
 In regards to animal studies, one using 500mg/kg Eurycoma Longifolia daily in sexually sluggish male rats for 6-12 days noted a decreased ejaculation latency but failed to find significant difference in mounting, intromission, or post-ejaculatory latency after the first dose, but both post-ejaculatory latency (24.1% decrease) and ejactulatory latency (45.2%) became more significant when treatment was extended to 6 days with no further improvement over 12 days.[17] Mounting frequency also increased from 0% at baseline (with no influence of single dose treatment) to 25% at 6 days and 37.5% at 12 days; these effects were thought to be mediated via an increase in testosterone levels.[17] This model of sexually sluggish rats has been used elsewhere at 200-800mg/kg bodyweight for 10 days, but although it showed significant promise the quality of this study is questionable due to the measurement of aphrodisia used being yawning, which the authors suggested was reliable (not a commonly used biomarker of aphrodisia).[18]
 
@@ -142,7 +150,9 @@ The first study failed to find improvements in a partner selection test,[17] whi
 
 The more reliable improvement seem to be in rats localizing themselves around to females more than other possible areas as well as anorectal sniffing (both indicators of aphrodisia) as well as increased mounting frequency; decreased latency in ejaculation and decreased post-ejaculatory latency (time between rounds) is less reliable but still shows significant improvements in studies.
 
+
 Appears to be a reliable aphrodisiac in research animals and its aphrodisiac effects do not appear to be confounded with patent issues
+
 
 When tested in humans, supplementation of 300mg of a water extract daily for 6-12 weeks is able to increase libido in the range of 8.4-10.8% (relative to baseline) as assessed by self-report survey.[28]
 
@@ -154,7 +164,9 @@ In an open-field elevated plus maze test, different extracts of Eurycoma Longifo
 
 Mice were also inbred and those with more than 5 fighting episodes were also tested, in a foot-shock induced fighting test Eurycoma Longifolia reduced the control's 18.0+/-0.4 fighting episodes to 5.3-6.2 fighting episodes; again slightly weaker than Diazepam (3.5+/-0.2).[29]
 
+
 Only one study currently, but shows anxiolytic properties. Could potentially aid aphrodisia via reducing the chance of psychogenic erectile dysfunction
+
 
 In otherwise stressed humans, supplementation of eurycoma daily for a period of four weeks is associated with a betterment of stress as assessed by self-report survey.[30]
 
@@ -170,7 +182,9 @@ Either secondary to or in conjunction to the aphrodisiac properties of Eurycoma 
 
 Eurycoma Longifolia (more specifically the isolated 9-hydroxycanthin-6-one) appears to be a candidate for bioactive compound.[8] In vitro, 9-hydroxycanthin-6-one was able to induce relaxation of ephineprine-contracted cavernosal strips with an EC50 of 6.7+/-0.9uM, and removing the endothelium increased the EC50 to 7.5+/-1.1uM.[8] It does not appear to be mediated by Nitric Oxide (as L-NAME incubation did not abolish the effects) nor the alpha-adrenoreceptors like yohimbine, but appears to inhibit Ca2+ release which would result in penile contraction (an anti-erectile result). In vivo testing in rabbits noted that direct injections of up to 0.2mg of this compound increased intracavernosus pressure and injections in rats of 1mg/kg was as potent as clomipramine in delaying ejaculation, as assessed by seminal vesicle pressure.[8]
 
+
 Pro-erectile, and possibly able to delay ejaculation (needs more studieson the latter claim)
+
 
 4.2
 
@@ -182,7 +196,9 @@ In vitro, Eurycoma at 2.5ug/mL (based on 200mg oral administrationed used in the
 
 It also has the ability to increase seminal viscocity in healthy individuals given 200mg of Eurycoma Longifolia, and may boost the sperm count of those classified as 'infertile' enough to impregnate.[15] This study used 200mg of and found increases of sperm concentration of 65.5% at 9 months time (with a lesser degree of increase measured at 3 and 6) while the 19.3% increase in seminal volume noted failed to reach statistical significance; at 9 months time, approximately twice as many sperm exhibited normal morphology (from 5.28+/-0.66 at baseline to 10.29+/-2.52 at 9 months, with benefits seen of similar potency at 6 months).[15] A similar increase in seminal volume has been seen in boars over a shorter period of time, but this study was confounded with Tribulus Terrestris and Leuzea carthamoides.[36]
 
+
 May increase seminal volume and count, with mixed results on concentration because the former changes the volume; appears to be pro-fertility in males
+
 
 5.
 
@@ -194,11 +210,15 @@ Interventions
 
 A pilot study conducted with Eurycoma Longifolia using 14 men circuit training every other day (60% 1RM for 2 sets of 10 reps, over the course of 10 stations with 1 minute rest intervals) using 100mg Eurycoma Longifolia extract noted that the treatment group experienced an increase in lean body mass over the course of 5 weeks (52.26+/-7.18 kg to 54.39+/-7.43; 4% increase) while placebo experienced no increase in lean mass.[37] Both groups experienced increases in strength with the Eurycoma group gaining significantly more strength, and the decreases in fat mass observed in both groups were not significantly different.[37]
 
+
 One pilot study presented at a conference showing promise with Eurycoma on weightlifting performance in otherwise healthy men, has not been replicated
+
 
 Other studies have been conducted using a product called AgroMas, which is a solution containing a water-soluble extract of Eurycoma Longifolia at 0.1mg/100mL and is confounded with Cinnamomum cassia at 2mg/100mL; it contains electrolytes calcium, sodium, potassium and phosphate and was administered at 3mL/kg every 20 minutes of testing and averaged about 0.67mg Eurycoma per subject.[38] Studies using this drink note that although cycling endurance was 3.4% higher with the herbal drink, it was not statistically significant.[38] Due to the poor amounts ingestion, another study was conducted where 12 athletes were given 150mg Eurycoma daily for 7 days and then again one hour preceding a trial (60 minute treadmill run at 60% VO2 max, followed by a 20 minute time trial on an erg bike) on the 8th day, and this study failed to find any improvements in running economy, performance, or overall physiological responses such as temperature, heart rate, blood glucose or lipids.[39]
 
+
 No significnat demonstrated benefit to cardiovascular exercise
+
 
 6.
 
@@ -222,7 +242,9 @@ Testosterone
 
 The currently touted mechanism of Eurycoma Longifolia for increasing testosterone levels is traced to the eurypeptide content, which is claimed to increase the activity of the CYP17 (17 α-hyroxylase/17,20 lyase) enzyme in the testes, which increases the conversion rate of pregnenoline precursors into dehydroepiandrosterone and subsequent androgens. These claims are traced back to a university dissertation by Ali and Saad (1993) entitled 'Biochemical effect of Eurycoma Longifolia Jack on the sexual behavior, fertility, sex hormone and glycolysis' from the University of Malaya; this dissertation is not available online.
 
+
 Mechanisms currently not supported by the literature, only included in patents
+
 
 In otherwise normal rats, 15mg/kg of concentrated Eurycoma extract (22% eurypeptides, 1.6% eurycomanone) failed to increase testosterone over a period of 6 weeks; this dose is equivalent to 100mg oral dose in humans according to the authors.[43] The only other study conducted in otherwise healthy noncastrated male rats used much higher doses of 200-800mg/kg and found increases in the size of the leavator ani muscle, indicative of a pro-androgenic effect; this study did not measure serum testosterone levels.[32]
 
@@ -230,13 +252,17 @@ In hypogonadic or sexually sluggish animals, 500mg/kg Eurycoma Longifolia appear
 
 One study where the rats were castrated failed to show any improvement in testosterone levels, but used a dose lower than the aforementioned studies noting testosterone improvement in hypogonadic rats.[43]
 
+
 Evidence in rats to suggest that it increases testosterone levels in periods of low testosterone (hypogonadism) or in rats showing clinical signs of hypogonadism (sexually sluggish), there is a lack of conclusions that can be made on otherwise healthy rats
+
 
 In individuals with late-onset hypogonadism, Longfolia (dosed as a 200mg water soluble extract) is effective in enhancing libido and serum testosterone levels.[44] This study ran 4 years at hypogonadism clinic in Malaysia and evaluated 320 men with a serum testosterone below 6umol/L (clinical hypogonadism) and noted that over a period of 1 month the average testosterone levels increased from 5.66+/-1.51umol/L to 8.31+/-2.47umol/L, an average 46% increase; no placebo group was used in this study.[44]
 
 A few studies[45][46] cite up to 4 other articles presented by the author M.I Tambi at various conferences that cannot be accessed online. M.I Tambi is not the patent holder of the extract used (LJ100)[12] and a later independent trial in otherwise healthy men failed to find an increase in testosterone.[28]
 
+
 The evidence in humans that are also infertile (hypogonadic) supports a small increase in testosterone, but the lone study in otherwise healthy humans without problems has failed to find an increase in testosterone
+
 
 7.2
 
@@ -248,7 +274,9 @@ These effects may underlie some anti-cancer effects of Eurycoma, as it has been 
 
 Finally, one study conducted in female rats injected with testosterone (where irregular estrus cycles and polycystic ovaries result) given 50mg/kg Eurycoma Longifolia (TAF 273 concentrated extract, 23.6% Eurycomanone) was able to attenuate the adverse changes of testosterone injection, normalizing the amount of healthy ovarian follicles and acting to normalize abnormal estrus cycles (improved a 10-30% normal estrus cycle rate to 40-62.5%, while control was at 100%).[13] The authors hypothesized these were secondary to anti-estrogenic actions downstream of testosterone conversion, but did not establish such a link.[13]
 
+
 Although its in vivo efficacy is currently unknown, Eurycoma Longifolia via its Eurycomanone content appears to possess potent anti-estrogenic activities
+
 
 8.
 
@@ -260,7 +288,9 @@ Propanolol
 
 Propanolol is a non-selective beta-blocker that is sometimes uesd to treat hypertension. After consumption of a water-extract of Eurycoma Longifolia at 200mg alongside propanolol, it was found that Eurycoma Longifolia significantly reduced the bioavailability and actions of propanolol.[51] This study noted a decreased AUC of 28.7%, a decreased Cmax of 42.02% and a delayed Tmax of 86% and used these results paired with a insignificantly different elimination half-life to conclude that it was inhibition at the level of absorption. The authors hypothesized P-glycoprotein induction but did not validate this with evidence.[51]
 
+
 Eurycoma Longifolia may hinder the absorption and efficacy of Propanolol
+
 
 9.
 

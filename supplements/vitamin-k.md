@@ -298,7 +298,9 @@ The term 'Vitamin K' refers to quinone structures and can be subdivided into vit
 
 Vitamin K was discovered in 1929 in studies on sterol metabolism,[1] and was named after its coagulation properties (as it was discovered in Germany, Vitamin K was named after Koagulation rather than Coagulation) by Henrik Dam.[2] Vitamin K has clinical usage in preventing hemhorrage[3][4] while vitamin K antagonists (dicoumarol or warfarin[5]) prevent excessive blood clotting or induce hemhorrage.
 
+
 Vitamin K is a term used to refer to a collection of molecules with structural similarity that are important in blood clotting. They are divided into plant based (phylloquinone) or bacterial based (menaquinone) sources mostly
+
 
 The main dietary form of Vitamin K is K1 (known as phylloquinone or Phytonadione)[6], which derives its name from the sidechain being the same phytyl sidechain as chlorophyll and being a quinone structure (hence, phylloquinone).[7] The main dietary sources of phylloquinone in the (American) diet include dark green vegetables and added fats (such as cooking oils)[8]. Vegetables also appear to be the main source of phylloquinone in the Japanese diet.[9]
 
@@ -306,7 +308,9 @@ Menaquinones are either synthesized in animals (short chain menaquinones) or syn
 
 It should be noted that dietary values may not necessarily reflect serum values (weak correlation[13] and sometimes no correlation[14]), which is thought to be due to unreliability with absorption, since phylloquinone (the main dietary source of vitamin K) from plants is poorly absorbed,[15][16]. Unreliability is still seen with isolated phylloquinone,[17], which may be related to serum triglycerides (positively related);[18] plasma vitamin K doesn't, however, appear to be related to heredity or genetics but instead related to biological and environmental factors.[19][20]
 
+
 Although dietary intake is the main predictor of vitamin K status, it is surprisingly a poor predictor. There appears to be a lot of variability between vitamin K intake and vitamin K status in the body and the reasons for these variations, while many mechanisms are speculated, are currently unknown
+
 
 The foods that contain the highest levels of vitamin K (phylloquinone unless otherwise specified) include:
 
@@ -333,6 +337,7 @@ Walnuts (2.8µg/100g)[21][22]
 Deep-fried bean curd (62+/-40µg/100g)[9]
 
 Fermented soybean products such as Natto (796-939µg/100g; vitamin K as MK-7)[9]
+
 
 Fruits
 
@@ -367,6 +372,7 @@ Tomatoes (6.0µg/100g)[7]
 Strawberries (3.0µg/100g)[7]
 
 Nectarines (3.0µg/100g)[7]
+
 
 Vegetables and other Herbs
 
@@ -406,6 +412,7 @@ Eggplants (6.0µg/100g)[7]
 
 Carrots (6.0µg/100g)[7]
 
+
 Oils and Condiments
 
 Mayonnaise (197+/-17µg/100g for whole egg type; 189+/-19µg/100g for egg yolk type)[9] although eggs themselves are not good sources for vitamin K (0.6-7µg/100g phylloquinone, 7-64µg/100g MK-4 concentrated in the yolk)[9]
@@ -422,6 +429,7 @@ Margarine (67+/-68µg/100g phylloquinone)[9]
 
 Curry powder (mostly turmeric) at 6+/-3µg/100g MK-7 and 1+/-2µg/100g MK-4 (mostly phylloquinone at 93+/-23µg/100g)[9]
 
+
 Animal Products
 
 Hen egg yolk (64+/-31µg/100g)[9]
@@ -434,9 +442,12 @@ Chicken thigh (27+/-15µg/100g)[9]
 
 Vitamin K does not appear to be significantly damaged with gamma-irradiation,[25] and perhaps due to weakening the cell walls broccoli that is microwaved has been noted to have approximately double the bioavailability of raw broccoli.[16][26] Damaging the bacteria in natto (Bacillus subtilis) appears to be able to reduce MK-7 concentrations in natto, and methods that are successful in doing this include boiling whereas washing is not destructive and single or double heating (Steamed at 100°C for 15 minutes) are less destructive than boiling.[27]
 
+
 For the most part, phylloquinone is found in dark green or otherwise leafy vegetables with particularly high levels in some vegetables common to the Japanese diet (green tea, although Matcha is likely the only type that is bioactive, and seaweeds). MK-4 is found in animal products (although there is not much MK-4 and it is not sure how relevant this is to the human diet) and while MK-7 is found in a variety of fermented foods, it is only appreciably found in natto.
 
+
 Cooking does not seem to damage phylloquinone (microwaving actually enhances absorption), while boiling natto appears to destroy the bacteria and reduce serum MK-7 from the food
+
 
 1.2
 
@@ -450,7 +461,9 @@ While phylloquinone only refers to a single structure, the term menaquinone refe
 
 All of the above quinones are known to be fat soluble (lipophilic), and as the chain length increases into the MK-7 to MK-10 range the lipophilicity further increases relative to shorter quinones (such as MK-4).[30]
 
+
 Phylloquinones (K1) and Menaquinones (K2) form the basic structural classes of Vitamin K vitamers (with the n referring to an undetermined amount of repeating units within the brackets), while the menadione ring (K3) and the menaquinone with three additional isoprenoid groups (MK-4) or six additional groups (MK-7) are also notable 'Vitamin K structures'
+
 
 1.3
 
@@ -462,11 +475,15 @@ The synthesis of γ-carboxyglutamate (from glutamate) is considered the central 
 
 γ-carboxyglutamate is important since, relative to glutamate, it can bind to calcium ions, which alters biological activity of the protein that has become carboxylated.[35] This reaction is delocalized in the body and while the liver appears to be the prime location for carboxylation[36][37], it has also been detected in the lungs,[38] spleen,[37] testes,[37] bone,[39] and kidneys.[40]
 
+
 Vitamin K is required to synthesize γ-carboxyglutamate from glutamate via the Vitamin K cycle (a cycle where phylloquinone is converted into hydroquinone and then a vitamin K epoxide, to return to phylloquinone). The production of γ-carboxyglutamate from glutamate on some specific enzymes is able to alter their function, and these enzymes are known to be 'Vitamin K dependent' and mediate the effects of dietary or supplement vitamin K
+
 
 The proteins that are 'Vitamin K dependent' tend to be clustered around blood clotting (where they positively regulate blood clotting) and bone metabolism. Although the actions of vitamin K are not exclusive to these areas of the body, these two are commonly thought to be the main areas of action. A list of known vitamin K dependent enzymes include:
 
-Osteocalcin, a protein with three carboxyglutamic acid residues[41][42], which is a negative regulator of bone growth[43][44] and soft tissue calcification,[45] positive regulator of bone maturation[43][44] and angiogenesis.[46] May also reduce blood glucose and improve pancreatic β-cell proliferation[47] and have antiobese effects[48][47] and appears to be maximally carboxylated at around 1,000mcg phylloquinone[49] or around 320-500mcg MK-7[50]Prothrombin (also known as \_factor II\_or FII), which is sufficiently stimulated with 200mcg phylloquinone[51]Factor VII,[52], which works in concert with factor IX and X to promote blood coagulation[53]Factor IXFactor XFetuin-A (a 48kDa protein involved in inhibiting soft tissue calcification[45][54])Matrix Gla protein (MGP; involved in bone metabolism[44][43] and a negative regulator of soft tissue calcification[45])Gla-rich protein (GRP, a 10.2kDa protein with 16 glutamic acids in the 72 amino acid sequence[55]), which is a negative regulator of soft tissue calcification[45]Protein S (involved in bone metabolism,[43] blood clotting,[56] and neurology[57])Protein C (involved in blood coagulation with protein S as its cofactor[58])Protein MProtein ZGrowth Arrest Specific Gene-6 protein (Gas6),[59][60] a 75kDa protein with 11-12 carboxyglutamic acid resides, with 44% homology to protein S that works via Tyro3, Axl, and Mer (TAM) family receptors as a ligand[61][62] and is involved in cell cycle regulation and neurology (chemotaxis, mitogenesis, cell growth, and myelination).[63]Periostin (osteoblast specific factor-2 at 90kDa) expressed mostly in collagen and bone tissue[64][65] with roles in wound repair,[64] allergies/inflammation (pro-asthmatic and exacerbates ectopic dermatitis),[66][67] and bone tissue[68]Various enzymes require vitamin K, and their activities are reduced when vitamin K is insufficient. Their activities may be increased with increasing dietary vitamin K until they reach their rate limit
+Osteocalcin, a protein with three carboxyglutamic acid residues[41][42], which is a negative regulator of bone growth[43][44] and soft tissue calcification,[45] positive regulator of bone maturation[43][44] and angiogenesis.[46] May also reduce blood glucose and improve pancreatic β-cell proliferation[47] and have antiobese effects[48][47] and appears to be maximally carboxylated at around 1,000mcg phylloquinone[49] or around 320-500mcg MK-7[50]Prothrombin (also known as \_factor II\_or FII), which is sufficiently stimulated with 200mcg phylloquinone[51]Factor VII,[52], which works in concert with factor IX and X to promote blood coagulation[53]Factor IXFactor XFetuin-A (a 48kDa protein involved in inhibiting soft tissue calcification[45][54])Matrix Gla protein (MGP; involved in bone metabolism[44][43] and a negative regulator of soft tissue calcification[45])Gla-rich protein (GRP, a 10.2kDa protein with 16 glutamic acids in the 72 amino acid sequence[55]), which is a negative regulator of soft tissue calcification[45]Protein S (involved in bone metabolism,[43] blood clotting,[56] and neurology[57])Protein C (involved in blood coagulation with protein S as its cofactor[58])Protein MProtein ZGrowth Arrest Specific Gene-6 protein (Gas6),[59][60] a 75kDa protein with 11-12 carboxyglutamic acid resides, with 44% homology to protein S that works via Tyro3, Axl, and Mer (TAM) family receptors as a ligand[61][62] and is involved in cell cycle regulation and neurology (chemotaxis, mitogenesis, cell growth, and myelination).[63]Periostin (osteoblast specific factor-2 at 90kDa) expressed mostly in collagen and bone tissue[64][65] with roles in wound repair,[64] allergies/inflammation (pro-asthmatic and exacerbates ectopic dermatitis),[66][67] and bone tissue[68]
+Various enzymes require vitamin K, and their activities are reduced when vitamin K is insufficient. Their activities may be increased with increasing dietary vitamin K until they reach their rate limit
+
 
 1.4
 
@@ -476,7 +493,9 @@ Although carboxylation of the above proteins is by far the most prominent role o
 
 Vitamin K also has a role in sphingolipid metabolism (elaborated on in the neurology section),[75] antioxidative stress (neurology section),[57] and has been noted to bind to the SXR/PXR receptor (bone and skeleton section)[76][77] and a large protein (40,000kDa) in osteoblasts that is homologous to GADPH (glyceraldehyde-3-phosphate dehydrogenase) of which both phylloquinone and menaquinone bind to.[69] These aforementioned mechanisms are not blocked by warfarin treatment, and are thought to be independent of the vitamin K cycle because of that.
 
+
 Although the vitamin K cycle and its target proteins consist of the largest system, which vitamin K influences, there are some direct effects of vitamin K vitamers that do not require the vitamin K cycle
+
 
 1.5
 
@@ -488,7 +507,9 @@ For studies that assess overall dietary intake assuming an RDI of 65-80mcg, it h
 
 Despite the above RDI, it appears that osteocalcin (a protein involved in bone metabolism, see appropriate section) is maximally activated at a dietary intake of 1,000mcg of phylloquinone daily (specifically, 1,000mcg was greater than 500mcg but 2,000mcg was not significantly better than 1,000mcg).[49] This maximal activation (as assessed by percent ucOC) is not common even among sufficient dietary intakes[84][85][86] and appears to be correlated with lower bone mass[87][88] and increased hip fractures rates (relative to lower ucOC in serum via higher vitamin K intake).[88][89][90] 500mcg appears to be more than sufficient for normalizing osteocalcin concentrations following dietary restriction.[79]
 
+
 The RDI of vitamin K is fairly reasonable at 1mcg/kg or so (a lack of consensus from one country to another) and usually a mixed diet is sufficient to reach the RDI. The 'optimal' intake of vitamin K is not currently known, but there are benefits associated with consuming more than the RDI in some cases
+
 
 1.6
 
@@ -498,7 +519,9 @@ As vitamin K is an essential vitamin, it does have deficiency states and the bod
 
 Severe deficiencies of Vitamin K are known to lead to muscular and subcutaneous hemhorrhages[1] and is known to cause bleeding disorders in infancy (called either 'Vitamin K Deficiency Bleeding' or simply VKDB) that are treatable with Vitamin K supplementation.[92][93] Vitamin K deficiencies are also associated with reduced locomotion in rats (lethargy).[94]
 
+
 True deficiencies of Vitamin K manifest themselves as excessive bleeding disorders mostly
+
 
 A subclinical deficiency of Vitamin K (not a true deficiency that results in hemhorraging, but below optimal levels) is known as 'undercarboxylation' of vitamin K dependent proteins. Two of the three proteins involved in soft tissue calcification (Ostecalcin and MGP[45]) appear to be generally undercarboxylated in non-supplementing populations (10-40% of the proteins not being activate[45]) and osteocalcin is known to be maximally stimulated at 1,000mcg dietary intake or so, which is more than 10-fold higher than the RDA.[49] At the RDA, proteins involved in clotting appear to be maximally carboxylated despite those involved in calcification being slightly less active.[95][96]
 
@@ -508,13 +531,17 @@ Either reduced vitamin K dietary intake or demonstrated undercarboxylation is as
 
 A vitamin K deficiency is not necessarily associated with lower bone mineral density; with some sources suggesting a relationship in women only[111] and others finding no correlation.[107] Furthermore, antagonists of vitamin K (Warfarin usually) are further noted to be associated with modest increased fracture rates[112][113] (some data suggest no relation[114]) and also not associated with bone mineral density.[115]
 
+
 Subclinical deficiencies of Vitamin K (a reduced level of carboxylated vitamin K dependent proteins, but not low enough to cause symptoms of a true deficiency state) appear to be somewhat common in society despite meeting the RDI of vitamin K intake, and survey research suggests this increases the risk of cardiovascular disease (via tissue calcification) and fracture rate
+
 
 It appears that there is a molecule known as PIVKA-II (protein induced by vitamin K absence II or alternatively known as des-γ-carboxy prothrombin) that has its production suppressed by Vitamin K and is normally below 2ng/mL in healthy persons[116] but is increased in deficiency states induced by either dietary restriction[79] or drug treatment.[117] 
 
 Other possible biomarkers of a vitamin K deficiency include the percentage of osteocalcin that is not γ-carboxylated in serum (% ucOC),[118] as variances in the percentage of osteocalcin that is carboxylated is due to variations in dietary vitamin K intake in humans (and ingestion of vitamin K antagonsists such as warfarin).[119][120] Percent ucOC appears to be the most sensitive biomarker for vitamin K status in humans,[49][84][119] is responsive to supplemental phylloquinone,[119] and it is consistently decreased (improved) up until a dietary intake of around 1,000mcg daily.[49]
 
+
 When vitamin K is lower than optimal, the carboxylation rate of proteins is also reduced. Uncarboxylated proteins can be measured in the blood and the percentage of some of these proteins (usually osteocalcin) that remain uncarboxylated can indicative vitamin K status
+
 
 1.7
 
@@ -522,7 +549,9 @@ Supplemental Forms of Vitamin K
 
 Vitamin K tends to be supplemented in one of three forms; Vitamin K1 (phylloquinone) or one of two possible Vitamin K2s (menaquinones), MK-4 or MK-7. Phylloquinone tends to have the standard vitamin-like action of supporting vitamin K dependent proteins, while MK-4 and MK-7 have alternate mechanisms of action.
 
+
 Vitamin K1 (phylloquinone) or one of the two vitamin K2 variants (MK-4 or MK-7) are the most common vitamin K supplements to be used. Vitamin K3 (menadione) is not commonly used
+
 
 MK-4 is the most popular menaquinone to supplement, synonymous with the name menatetrenone.[121] 100mcg of MK-4 is equivalent to 225nmol (molar mass of 444.65). Supplementation of MK-4 increases bodily levels of MK-4, but either has no influence or lowers bodily concentrations of phylloquinone.[122][123]
 
@@ -530,7 +559,9 @@ MK-4 is a supplement that appears to have benefits at a dose of around 1,500mcg[
 
 For its unique properties, MK-4 appears to induce differentiation of leukemic cells (a property useful in differentiation therapy[127]) potently at 1µM, which is not observed with phylloquinone.[128] It has been speculated[129][130] that MK-4 has a direct action independent of the vitamin K cycle either through proteins (direct binding rather than carboxylation) or acting upon a receptor. There are also differences in transportation and distribution between menaquinones and phylloquinone (elaborated on in the pharmacology section), which can be summed up with menaquinones being better partitioned to the periphery and not the liver, and MK-4 appears to have a unique role on osteoclasts that is not seen with phylloquinone or MK-7 (and perhaps underlies why superloading of MK-4 is used rather than other menaquinone sources).
 
+
 MK-4 (Menatetrenone) does not appear to increase the amount of active vitamin K in the body, although still appears to be active in carboxylating proteins. It requires higher dosages than phylloquinone, and although 45mg (a very high pharmacological dose) is used it is possible that 1,500mcg is also effective. MK-4 may have a unique role on inducing bone growth that is not seen with phylloquinone or MK-7
+
 
 MK-7 is another popular supplemental menaquinone, and is known to be pretty much unique to fermented soy products (also found in other fermented products, but to a much lower level[30]). It has a molar mass of 649.0 and 100mcg of MK-7 is equivalent to 154nmol. MK-7 is not the only long-chain menaquinone (fermented foods also possess MK-8 and MK-9[30][30]) but it is the most popular supplemental form of a long-chain menaquinone. Phylloquinone and MK-4 are thought to be more similar than MK-4 and MK-7 as the prolongation of the chain increases lipophilicity (fat solubility).[131]
 
@@ -538,7 +569,9 @@ Supplemental MK-7 (90-360mcg) has been noted to increase plasma MK-7 concentrati
 
 When comparing MK-7 against MK-4, the efficacy of long chain menaquinones such as MK-7 on blood clotting seem to exceed that of phylloquinone and MK-4[131][134][135], which is thought to be due to the prolonged half-life relative to other forms of Vitamin K.[131] 
 
+
 MK-7 is similar to MK-4 in the sense that it does not increase phylloquinone concentrations, but can support the Vitamin K cycle and improve vitamin status in the body. Unlike MK-4, you can modify the diet to get sufficient MK-7 (albeit only natto, really) and for most instances MK-7 is more bioactive than MK-4 on a weight basis
+
 
 Menadione (Vitamin K3) is the isolated backbone to other vitamin K vitamers. It is also an intermediate in the conversion of phylloquinone into MK-4,[1][136][137] and due to this is able to increase bodily MK-4 without affecting phylloquinone concentrations.[122] The MK-4 increase implicates oral menadione as conferring vitamin-like properties[138] although the menadione molecule itself cannot function as a cofactor of the vitamin K cycle.
 
@@ -546,7 +579,9 @@ Menadione is not a commonly supplemented form of vitamin K in part due to it not
 
 Menadione does have some unique properties when it comes to cancer therapy, but this is currently experimental and this isn't to say that other forms of vitamin K are inactive.
 
+
 Menadione appears to be a prodrug for MK-4, and can support vitamin K status in the body without influencing phylloquinone concentrations. That being said, Menadione is not a common supplement due to a less than desirable toxicity profile (relative to the other vitamin K vitamers)
+
 
 2.
 
@@ -558,7 +593,9 @@ Absorption
 
 Intestinal absorption of vitamin K (phylloquinone used most in studies, the following also applies to menaquinones) occurs via the enterocytes, where packaging of fatty acids into micelles enters the enterocyte and is repackaged into a chylomicron for transport via the lymphatic system.[139][140][141] This method of absorption is similar to dietary fatty acids and the other fat-soluble essential vitamins (A, D, and E), and this requires dietary lipids to be coingested (Review of fat absorption[142]), which is evidenced by vitamin K deficiencies in scenarios associated with fat malabsorption.[99][100]
 
+
 Vitamin K is absorbed via formation of micelles, standard fat absorption that occurs with fat soluble vitamins. This means that absorption of dietary fat alongside the vitamin K is fairly important (and consuming fatty acids alongside plant based sources of vitamin K appears to be a prudent idea to enhance absorption)
+
 
 Phylloquinone has been determined to have a bioavailability of 5-10% when consumed from plant based foods,[143][15] and this bioavailability is enhanced when consumed alongside fatty acids (3-fold) or when the phylloquinone is taken out of the food matrix (supplemental form).[144] When comparing the 10-hour AUC of phylloquinone food-bound sources have been noted to have 4% the AUC of supplements,[144] although later studies pinpointed this value at either 9-28%;[16] studies comparing oils against plants have noted that either the oil has 60% the AUC[18] or is not significantly different.[145] Supplementation tends to have bioavailability of 80% or more.[144][146]
 
@@ -568,11 +605,15 @@ MK-4 has been implicated in having more complete intestinal absorption[143] yet 
 
 Longer chain menaquinones are sort of the opposite, as MK-9 has also been found to have less absorption than MK-4 and phylloquinone but a very long half-life;[149] MK-7 has been noted to support vitamin K status better than MK-4 due to this.[11]
 
+
 MK-4 appears to be moderately well absorbed, but MK-7 is better absorbed. In regards to phylloquinone, it appears to inherently be well absorbed but when it is consumed via plants it may have reduced bioavailability
+
 
 In accordance with fat absorption, vitamin K gets initially distributed to the body via chylomicrons that leave the lymphatic duct[139][140][141] prior to being taken up by the liver as chylomicron fragments[150] and repackaged into lipoproteins (see the distribution section). This is assumed due to other fat soluble vitamins following the same motif and vitamin K being transported in chylomicrons (although apparently no direct proof exists[82]). The excretion into bile acids following parental administration[151] supports hepatic uptake of vitamin K.
 
+
 Following a single pass around the body in the form of chylomicrons (directly absorbed from the intestines), vitamin K is then thought to be taken up by the liver and repackaged into lipoproteins for constant transportation that is elaborated on in the distribution section
+
 
 2.2
 
@@ -582,13 +623,17 @@ Phylloquinone appears to be transported in the blood mostly in the triacylglycer
 
 Long chain menaquinones (this study used MK-9) appear to be transported more by LDL and are not at all present in HDL;[149] MK-4 is transported somewhat evenly in both the aforementioned.[149] The differences in transportation are thought to be due to differences in lipophilicity (fat solubility) which is known to differ depending on chain length.[30]
 
+
 In accordance with vitamin K being absorbed via chylomicrons, it is also distributed via lipoproteins. The higher length menaquinones appear to be partitioned into LDL whereas others including phylloquinone are in the triglyceride rich fraction
+
 
 Unlike other fat soluble vitamins, although vitamin K can bioaccumulate in tissue it appears to have a shorter duration; phylloquinone (45-1000μg) has been noted to be 60-70% excreted within 5 days.[146]
 
 MK-4 has been confirmed to bioaccumulate in the rat testes (525% increase to 995.9pmol/g) and concomitantly lower concentrations of vitamin K1 (20% of baseline).[123]
 
+
 Vitamin K does appear to bioaccumulate in various tissues following oral ingestion, and among the fat soluble vitamins it appears to have a relatively short time in the body prior to being excreted
+
 
 When comparing the different forms of vitamin K against one another, it seems that phylloquinone has preferential uptake towards the liver (relative to extrahepatic tissue such as bone) whereas menaquinone uptake is somewhat more balanced.
 
@@ -606,7 +651,9 @@ MK-4 (2µmol; 889mcg) appears to be fully normalized in serum following 24 hours
 
 Supplemental MK-9 (2µmol; 1,298mcg) has been found to be detectable in plasma 48 hours following oral ingestion, whereas it reached its peak after 4 hours and remained at 25% of this peak value when measured at 24 hours,[149] and this prolonged half-life extends to MK-7.[131] Daily supplementation of MK-7 has been found to plateau at day 20 at an oral dose of 0.22µmol (143mcg) reaching 7-8 fold higher levels than an equimolar dose of phylloquinone and being more biologically active (assessed by γ-carboxylation of osteocalcin).[131]
 
+
 Phylloquinone is the basic form of vitamin K in serum, and relative to that MK-4 appears to have a relative quick half-life whereas MK-7 and other long chain menaquinones have a very prolonged half-life and greater bioactivity
+
 
 2.4
 
@@ -616,13 +663,17 @@ Bone cells (osteoblasts) appear to be able to uptake phylloquinone from lipoprot
 
 Interestingly, the chylomicrons may also deposit vitamin K into bone tissue (prior to reaching the liver) via perisinusoidal macrophages[166][167] and this appears to account to about 20-50% of the liver's vitamin K uptake[168] and can occur within 4 hours after an injection of chylomicrons containing vitamin K.[169] Vitamin K delivery to bone tends to be less than the liver, as in instances where biomarker proteins (Gla) are fully γ-carboxylated in the liver they are not in bone.[82]
 
+
 Phylloquinone is taken up into bone cells either from lipoproteins (via the LDL receptors) or directly from chylomicrons (via macrophages). Uptake via the LDL receptors appears to be associated with apolipoproteins and may have a genetic component to it (ApoE4 having better uptake than ApoE2)
+
 
 Phylloquinone has also been noted to be taken up specifically into sinusoidal endothelial cells[169] and is thought to be taken up into stem cells in bone.[170]
 
 Due to being taken up by LDL, it is thought that the menaquinones have more bone uptake as MK-4 is concentrated more in the LDL fraction than is phylloquinone[149] and longer chain menaquinones even more localized to LDL.[149] An equimolar dose of MK-7 relative to phylloquinone does appear to have more of an ability to γ-carboxylate osteocalcin,[131] which only occurs in bone marrow cells and is thought to be reflective of enhanced uptake.[82]
 
+
 Due to vitamin K being taken up in part by the LDL receptor, the forms of vitamin K that are localized to the LDL portion of lipoproteins are thought to (and have some evidence) for better cellular uptake. This implicates longer chain menaquinones in being better than phylloquinone
+
 
 2.5
 
@@ -632,11 +683,15 @@ Vitamin K (as menaquinones) are bacterial fermentation byproducts and as such, t
 
 However, colonic absorption of vitamin K (phylloquinone and menaquinones) appears to be somewhat poor,[134][174] possibly since vitamin K absorption across the intestinal wall requires bile acids to solubilize fat (to make micelles) and there are much less of these in the large intestines[175] although the smaller absorptive area may also play a role. This poor absorption, and the fact that dietary restriction is enough to cause insufficiency symptoms (should not occur readily if the colon was able to support vitamin K status)[176] suggests that colonic menaquinone production does not significantly contribute to systemic vitamin K status (although there does appear to be some absorption thought to occur, since MK-10 and MK-13 are detectable in rat and human liver[28][29]). 
 
+
 Colonic microflora can ferment phylloquinone into menaquinones of various chain lengths, but due to the poor absorption from the colon into circulation this is not thought to contribute too much to bodily vitamin K status
+
 
 Phylloquinone is able to convert into MK-4 in the body, and this appears to be indepedent of colonic microflora since it has been noted to occur in germ free rats.[177] It is currently thought that the human gene UBIAD1 (a prenylase) mediates this conversion,[178] and it is thought to comprise about 5-25% of total ingested phylloquinone.[177][82]
 
+
 Phylloquinone may be converted into MK-4 in the body after absorption, not associated with colonic microflora
+
 
 2.6
 
@@ -646,7 +701,9 @@ Phylloquinone and menaquinones are metabolized via having their polyisoprenoid s
 
 When phylloquinone, MK-4, or MK-7 are orally ingested urinary levels of menadione (vitamin K3) which are normally around 5μg are increased suggesting it is a metabolite.[137]
 
+
 Vitamin K appears to be metabolized via the CYP4F2 enzyme, and after its side chain is shortened it is glucuronidated and excreted. Alternatively, menadione appears to be a metabolite (possibly another pathway)
+
 
 2.7
 
@@ -656,7 +713,9 @@ Vitamin K (as phylloquinone) does appear to be absorbed through the skin as evid
 
 Vitamin K has been noted to, upon single administration in vitro, accumulate for up to 12 hours with the highest rate of absorption in the 2-6 hour range becoming fairly linear afterwards.[183]
 
+
 Vitamin K can be absorbed through the skin when topically applied in creams, although it is better absorbed either as nanodispersion capsules or with monoolein (fatty acid based delivery system). Phylloquinone has been tested, but although theoretically menaquinones should be better absorbed (due to enhanced fat solubility) they have not yet been tested
+
 
 3.
 
@@ -670,11 +729,15 @@ It has been noted that, relative to phylloquinone, MK-9 seems to be partitioned 
 
 Furthermore, application of vitamin K antagonists (2-chloro-3-phytyl-1,4-naphthoquinone)[189] or the mitochondria derived from vitamin K deficiency chicks[189] seem to have impaired ATP production. Addition of MK-4 to mitochondria that do not have any functional impairment has failed to improve ATP production.[187][189]
 
+
 Vitamin K (particularly the menaquinones) appears to preserve mitochondrial ATP production when the mitochondria is influenced by stimuli that reduce ATP production, with no apparent effect on normal mitochondria. The mechanisms underlying this protective effect are not currently known
+
 
 The enzymes that synthesize MK-4 from phylloquinone (MenA[190] and UBIAD1[178]) are structurally similar to one known as Heix, which is known to be protective against pink1 deficiencies when overexpressed[191][192] (Pink1 is a protein involved in longevity and Parkinson's). Supplementation of MK-4 to pink1 defective drosophilia enhances energy production and locomotion and reverses the phenotype associated with pink1 defective drosophilia, with no apparent effect on otherwise normal controls.[187]
 
+
 Vitamin K appears to preserve the phenotype of a defect in drosophilia that suggests it could play a role in longevity and aging. Implications for oral supplementation not currently known
+
 
 3.2
 
@@ -698,7 +761,9 @@ Despite phylloquinone being the predominant circulating vitamin K vitamer, MK-4 
 
 Both phylloquinone and MK-4 are readily taken up by neurons (oligodendrocytes).[57]
 
+
 Vitamin K appears to have some roles in the brain as evidenced by expression of the vitamin K cycle in neonates and warfarin (vitamin K antagonist) being able to cause mental retardation when given to neonates. Dietary vitamin K (usually phylloquinone) increases brain concentrations of vitamin K, and the most relevant vitamer is MK-4
+
 
 Vitamin K is involved in sphingolipid synthesis[200] (Sphingolipids are a class of complex lipids that help form cell membranes with the main classes being ceramide, sphingomyelin, cerebroside, sulfatide, and ganglioside[200][201]) and the lipid sulfatide (comprises 4-7% of myelin[202][203]) appears particularly sensitive to vitamin K as it is known to be influenced by vitamin K status,[204] readily rescued with oral vitamin K after depleted by warfarin,[205] and unlike total sphingolipids the lipid sulfatides appear to linearly correlate with dietary intake of phylloquinone[194] and brain concentrations of MK-4.[206]
 
@@ -706,7 +771,9 @@ When looking at studies using the bacterial strain B. melaninogenicus, it appear
 
 In line with increasing dietary vitamin K increasing brain concentrations of MK-4, a dietary surplus (2000mcg/kg of food intake in rats; four-fold the adequate intake) is able to increase enzyme activity within 1-2 weeks (26-31%) and increase brain concentrations of sulfatides (15-18%).[204] It has also been noted that the class of sphingolipids known as gangliosides appears to be negatively correlated with MK-4 in rats[194] but over a lifetime of feeding the opposite persists (higher intakes being associated with lower sulfatide and cerebrosides concentrations than an adequate intake and lower gangliosides in some brain regions).[195]
 
+
 Vitamin K supports sphingolipid synthesis, and production of sulfatide in particular seems sensitive to changes in the diet (whereas total sphingolipid synthesis rates are more resistant). This is potentially a supplemental avenue due to higher than needed doses further stimulating the enzyme of production
+
 
 4.2
 
@@ -718,7 +785,9 @@ Vitamin K has also demonstrated potency in protecting neurons from glutamate-ind
 
 Although the mechanisms for the antioxidative effects is not fully known, blocking activation of the 12-LOX enzyme is shown to play at least a partial role[216] and the vitamin K epoxide reductase complex subunit 1-like 1 (VKORC1L1) mediates the antioxidative effects.[217]
 
+
 Vitamin K appears to protect against oxidative stress (Glutathione depletion) and glutamate. While it does not appear to protect against all forms of oxidative stress, it is remarkably potent at doing so with MK-4 being more potent than phylloquinone (thankfully, it bioaccumulates there on its own)
+
 
 The vitamin K dependent protein Gas6 also appears to be anti-apoptotic in serum deprived cells,[218] hippocampal cells,[219] TNF-α cytotoxicity,[220] phospholipase A2IIA induced apoptosis,[221] and in response to β-amyloid toxin.[222] This preservation is via MAPK and PI3K dependent means[220][219][218] which are known to respond to the receptors Gas6 binds to (Tyro3 and Axl).[218][223] Activation of MAPK from gas6 is known to recruit ERK and cREBP while activation of PI3K is known to activate Akt, all of which can explain the prosurvival effects.[200]
 
@@ -728,11 +797,15 @@ Protein S also appears to be expressed in the brain, to a lesser extent than Gas
 
 It should be noted that not all pro-survial actions are due to these two proteins, as sometimes warfarin (inhibitor of the vitamin K cycle, and thus hinders protein functions) does not abolish the enhanced survival.[229]
 
+
 Gas6 and Protein S, two structurally related proteins that both act through the same class of receptors (the TAM family) appear to protect neurons and other brain cells from apoptosis
+
 
 Gas6 also has growth inducing properties in isolated neurons, and was synergistic with cAMP activation (forskolin from coleus forskohlii)[230] and in the presence of NGF both phylloquinone and MK-4 seem to promote neurite outgrowth in PC12D cells (albeit at a very high concentration of 50μg/mL) with MK-4 being slightly more potent.[231]
 
+
 There appear to be neuronal growth inducing properties for vitamin K, both through the proteins (Gas6 and Protein S) and possibly independent of them as well. It is not sure if the independent mechanisms are related to sphingolipid metabolism or not
+
 
 4.3
 
@@ -746,7 +819,9 @@ Cognition
 
 In older persons with Alzheimer's relative to age-matched healthy controls, dietary phylloquinone intake was lower in persons with AD (63+/-90μg) relative to healthy controls (139+/-233μg)[104] and this correlation appears to persist when looking at serum values of phylloquinone and percent ucOC which are less desirable in those with Alzhiemer's (lower phylloquinone and higher percent ucOC) and even in those with AD lower levels are associated with worse scores on the MMSE.[235] and at least in rats a lifetime dietary restriction of vitamin K to low levels is associated with cognitive impairment upon aging.[195]
 
+
 Although there are currently no interventions, there appears to be an inverse correlation with vitamin K status and cognitive health in older individuals. Paired with the neuroprotective properties of vitamin K, this suggests that vitamin K could attenuate diseases of cognitive aging
+
 
 4.5
 
@@ -754,7 +829,9 @@ Multiple Sclerosis
 
 Vitamin K appears to have a few interactions with myelin, including supporting the production of one of its components (sulfatide) and the vitamin K dependent protein Gas6 appears to be involved with myelination (mice lacking Gas6 have less myelin and are more sensitive to multiple sclerotic stressors[236] and injections of Gas6 stimulate remyelination[237]).
 
+
 Somewhat similar in essence to Vitamin D, vitamin K is also implicated in supporting the myelin sheath of neurons
+
 
 4.6
 
@@ -774,11 +851,15 @@ Cardiac Tissue
 
 Vitamin K is known to accumulate in cardiac tissue of rats, and a sufficient diet has been reported to have a concentration of 23.3+/-4.7pmol/g (second only to the liver).[122] In the heart, vitamin K may positively influence cell growth (secondary to carboxylating Gas6, which then acts via ERK).[239]
 
+
 Vitamin K is present in cardiac tissue, and the vitamin K dependent protein Gas6 also positively regulates cell division and growth in this tissue
+
 
 Vitamin K has been noted to inhibit potassium channels in the heart (IC50 2.6+/-0.3µmol/L[240]) and inhibits the influx of sodium (IC50 of around 10µmol/L[240]); these effects are seen as antiarrythmic, and have occurred at 1.5µmol/L infusions.[241] The authors[240] remarked that these observations may explain instances of lethality with vitamin K injections (see case study section), and are though to occur at too high doses to be relevant to oral ingestion.
 
+
 Although injections of vitamin K appear to have anti-arrythmic properties, this doesn't appear to be relevant to oral supplementation due to the high concentration of vitamin K required
+
 
 5.2
 
@@ -788,7 +869,9 @@ The most important and popular role for vitamin K is that of promoting blood clo
 
 Vitamin K promotes coagulation secondary to the vitamin K cycle as there are various proteins that can be γ-carboxylated by vitamin K (to become activated) which are involved in coagulation, and inhibiting the vitamin K cycle confers anti-coagulant effects (hence, the efficacy of Warfarin).[242][33]
 
+
 The first known mechanisms of action for vitamin K and the one it is best known for is promoting proper blood clotting (coagulation), since a collection of proteins that all positively mediate blood clotting are vitamin K dependent and malfunction during a vitamin K deficiency
+
 
 The most well known target protein is prothrombin (also known as Factor II), which was the first protein to be discovered to be γ-carboxylated by vitamin K.[243][244] Subsequently factors VII, IX, and X as well as proteins C, S, and Z were discovered to be vitamin K dependent[245][246] which collectively is seven different vitamin K dependent proteins which all regulate clotting with most of them exclusively regulating this process (exception is likely protein S, which is similar to Gas6 in action and may mediate cellular proliferation[61][62])
 
@@ -800,7 +883,9 @@ Calcification of arteries is a process known to contribute to atherosclerosis[24
 
 Incidence of new cases of coronary arterial calcification are said to increase by around 6% each year,[256][257][258] with older individuals (80 or above) having greater risk than younger individuals (60 or below).[258]
 
+
 Arterial calcification is excessive deposition of calcium in the arteries, and aside from contributing to arterial stiffness it is an independent risk factor for all cause mortality
+
 
 Matrix Gla protein (MGP) is a vitamin K dependent protein with 9 glutamate residues with at least five needing to be carboxylated to increase activity of MGP.[259] It exists in a few 'species', like most vitamin K dependent proteins it can be carboxylated or uncarboxylated (MGP and ucMGP) but can also be phosphorylated or unphosphorylated (pMGP and p-ucMGP; dpMGP and dp-ucMGP).[96][50]
 
@@ -808,7 +893,9 @@ MGP is known as a negative regulator of calcification since it sequesters calciu
 
 MGP is not the only negative regulator of calcification (as there is a network of proteins involved in calcification such as osteocalcin[267][263] and sometimes benefit observed is not associated with MGP[256]) but it is the most potent vitamin K dependent protein for removing calcium from arterial walls.[260] Other proteins involved in calcification including osteonectin, osteopontin, and sialoprotein are not vitamin K dependent and thought to be independent of supplementation (whereas MGP and osteocalcin are implicated in supplementation).
 
+
 MGP is the main protein of a small network of proteins that negatively regulates arterial calcification, and acts to remove calcium from the arterial wall (subsequently, reducing the risk for all cause mortality and arterial stiffness). It is the most relevant vitamin K depedent protein, with osteocalcin playing a role
+
 
 A comparative study in rats between phylloquinone and MK-4 has found that both were equally effective in reducing calcification induced by the vitamin K antagonist Warfarin,[266] an observation that has not always been seen (sometimes phylloquinone fails[155] where MK-4 succeeds[154]). Furthermore, the study that noted a therapeutic effect of vitamin K on calcification (removing preformed plaques) was the one finding no difference between forms.[266]
 
@@ -816,9 +903,12 @@ Supplemental vitamin K appears to have unreliable effects on total MGP (decrease
 
 When looking at survey research, there appears to be an inverse association between dietary MK-4 and cardiovascular disease/arterial calficiation[12] although phylloquinone in the diet has twice failed to be associated with calcification.[12][270] This lack of assocaition does not hold in interventions, where both phylloquinone (500mcg; in addition to vitamin D and calcium) is able to reduce arterial stifness[271] and elsewhere has been noted at the same dose to reduce the progression of calcification when in a multivitamin format over three years.[256]
 
+
 Vitamin K appears to carboxylate MGP, and vitamin K appears to reduce coronary calcification and improve arterial elasticity based on the limited trials in existence right now. Oddly, the studies that try to find an association between MGP and the beneficial effect on calcium fail to find a relationship
 
+
 While MK-4 and MK-7 are thought to be better, phylloquinone is not ineffective. Human evidence to support the usage of menaquinones over phylloquinone currently does not exist, but it is plausible that they are better suited to reduce arterial calcification
+
 
 6.
 
@@ -830,7 +920,9 @@ Insulin
 
 One study in healthy males noted that subjects (prior to treatment) with higher serum decarboxylated prothrombin (indicative of a worse vitamin K status) experienced higher spikes in insulin for 120 minutes after an oral glucose tolerance test (relative to better vitamin K status), and that supplemental MK-4 at 90mg for one week was able to normalize the elevated glucose in the worse off group.[272] The groups with better vitamin K status at baseline did not experience significant alterations in postprandial insulin spikes.[272]
 
+
 May reduce postprandial insulin spikes in those who are relatively deficienct (and normalizing said deficiency), but the limited evidence suggests that this does not occur as a per se effect
+
 
 6.2
 
@@ -842,17 +934,23 @@ Both total osteocalcin (regardless of carboxylation status) and total carboxylat
 
 It has also been noted that this increased sensitivity may be selective for skeletal muscle rather than hepatic tissue (adipose not assessed)[273] and the aforementioned correlation between higher osteocalcin carboxylation and improved insulin sensitivity is also seen with dietary phylloquinone[279][280] and dietary phylloquinone is further associated with reduced diabetes risk (17% reduced risk per every additional 100mcg)[281] and hyperglycemia (OR 0.18; 95% CI of 0.05-0.73).[282]
 
+
 Higher levels of total osteocalcin and a higher rate of carboxylation (indicative of a better vitamin K status) appear to be positively associated with a better sensitivity to insulin. That being said, currently there are no interventions assessing the effects of vitamin K supplementation
+
 
 It is thought that the actions on insulin sensitivity are explained by either the pancreatic benefits or interactions with adiponectin. Vitamin K (via osteocalcin) can increase adiponectin content and secretion.[48]
 
 Osteocalcin has also been implicated in proliferating pancreatic β-cells (the cells that produce insulin)[48] with a remarkable potency of doubling a pancreatic culture at 0.03ng/mL (6pM).[47] Increased pancreatic β-cell count has also been noted with genetic overexpression of osteocalcin[48] or incubations of cells with ostecalcin.[47]
 
+
 The aforementioned insulin sensitivity may be regulated through either enhancing adiponectin activity in the body, or from promoting pancreatic beta-cell proliferation
+
 
 In regards to interventions, one study using 10mg thrice dail (30mg each day) MK-4 in otherwise healthy young men over the course of 4 weeks improved both insulin sensitivity and the deposition index. These changes occurred without apparent changes in fasting blood glucose or adiponectin, but improvements in insulin sensitivity were associated with the increase in carboxylated osteocalcin.[283]
 
+
 High dose MK-4 has been noted to, fairly acutely, increase insulin sensitivity associated with osteocalcin but not adiponectin
+
 
 7.
 
@@ -866,7 +964,9 @@ Osteocalcin secreted from bone and activated by Vitamin K appears to be an endoc
 
 The role for vitamin K in the aforementioned mechanisms is not fully ascertained since uncarboxylated osteocalcin also appears active[48] (and thus the above information would be more reflective of total osteocalcin rather than the percent carboxylated, and thus supplements that increase osteocalcin per se such as Vitamin D). Total osteocalcin levels in serum are positively associated with adiponectin and negatively associated with fat mass as well,[277][278][275][276] and higher carboxylation rates of osteocalcin are also associated with reduced body mass (and it was suggested in cross-sectional analysis that supplemental MK-4 protected from the increase in body fat seen in control).[287]
 
+
 While not directly reflective of Vitamin K, osteocalcin (one of the major vitamin K dependent proteins) appears to have anti-obese properties via stimulating adiponectin secretion in fat cells. Osteocalcin appears to form a link between bone metabolism and fat metabolism
+
 
 8.
 
@@ -880,11 +980,15 @@ In regards to osteoblasts (promotes bone formation and mineral accrual), vitamin
 
 MK-4 has also been found to accumulate carboxylated osteocalcin in the extrcellular matrix of bone cells, where it aids in mineral accumulation[73] and while it had no inherent effect on total protein content of osteocalcin it was able to augment the increase in mRNA seen with vitamin D.[73] Along these lines, MK-4 also promotes vitamin D induced bone cell mineralization[291] but these mechanisms are dependent on osteocalcin (inhibited by warfarin) which may explain why some studies do note that Warfarin prevents bone mineralization induced by vitamin K in osteoblasts.[292]
 
+
 In regards to osteoblasts, both phylloquinone and menaquinones appear to promote osteoblast differentiation (independent of the vitamin K cycle) and increase bone mineralization rates, although the latter is partially dependent on ostecalcin and the vitamin K cycle
+
 
 In regards to osteoclasts, MK-4 has been found to inhibit osteoclast-like multinucleated cell formation (where it antagonizes vitamin D[293]) in a concentration dependent manner with phylloquinone not having any effect on osteoclastic function,[70][71] although at least one study has suggested efficacy from phylloquinone.[288] The sidechain appears to be important, and MK-4 may be the only menaquinone to do so (as the sidechain is a geranylgeraniol group, which appears important).[70] Elsewhere, incubating an osteoclast with geranylgeraniol has been found to exert the same effects as MK-4 and it was thought that MK-4 is merely a prodrug for geranylgeraniol (its sidechain).[71] Inhibition occurs at 10µM (not 1µM),[71] which suggest that a pharmacological dose of MK-4 is required for interactions with osteoclasts.
 
+
 In regards to osteoclasts, vitamin K appears to be able to antagonize the actions of vitamin D (ultimately, this would promote bone growth since osteoclasts are negative regulators of bone mass) but this may require pharmacological dosing of MK-4 to have effects
+
 
 8.2
 
@@ -896,11 +1000,15 @@ Osteocalcin appears to be a negative regulator of bone growth, as in vitro it ca
 
 It also has a role in bone maturation, appearing to collect in the protein fragment of bone tissue during skeletal growth and tissue maturation[301][302] and reducing osteocalcin activity in mature bone is associated with reduced remodelling.[303] Osteocalcin deficiency in menopausal rats is associated with less bone remodelling.[304]
 
+
 Osteocalcin is a protein that is subject to carboxylation from Vitamin K dependent enzymes, and its activity is suppressed in Vitamin K deficiencies. While this protein's activity is suppressive of excessive bone growth in youth, it appears to support bone remodelling during aging
+
 
 As mentioned previously in the deficiency section, the percentage of overall osteocalcin that remained uncarboxylated (% ucOC) is a biomarker of vitamin K status (more carboxylation indicates a better status, less carboxylation indicates a worse status)[49][84][119] and osteocalcin continually gets carboxylated up until a daily intake of around 1,000mcg phylloquinone.[49] MK-7 is better at carboxylating osteocalcin than an equal dose of MK-4,[11] although the exact oral dose for maximal carboxylation for menaquinones is not ascertained, and it is thought to be the best biomarker to reflect bone health since osteocalcin can only be carboxylated from within bone cells (osteoblasts).[44]
 
+
 The percentage of uncarboxylated osteocalcin is indicative of vitamin K metabolism in bone tissue, and may be maximally stimulated (indicative of maximal benefits to bone) at an intake of 1,000mcg phylloquinone
+
 
 8.3
 
@@ -916,11 +1024,15 @@ In contrast to the above, there have been failures of vitamin K to preserve bone
 
 It is currently not sure what can explain the differences observed. The form of supplementation does not appear to be an issue (assuming the correct dose is used) as there have been failures and successes with phylloquinone,[316][308] MK-4,[312][319] and MK-7.[320][321]
 
+
 MK-4 appears to have some limited evidence that practical dosages of 1,500mcg or so can preserve bone mineral density over time in older individuals, whereas there is more evidence to suggest that pharmacological superdoses of 45mg are effective
+
 
 In persons who experienced surgery (which tends to be associated with increased risk of osteoporosis), the addition of supplemental MK-7 (180µg) was able to attenuate losses in lumbar bone mineral density.[320] Elsewhere, MK-4 (15mg) is able to attenuate bone losses induced by corticosteroids.[313]
 
+
 Vitamin K, currently the menaquinones are researched for this, appear to potentially have benefit with post-surgery related bone losses
+
 
 8.4
 
@@ -928,11 +1040,15 @@ Fractures
 
 Lower vitamin K status appears to be correlated with a higher risk for fractures as assessed by serum phylloquinone,[322] dietary intake,[108] and percentage uncarboxylated osteocalcin.[89][323] It has been noted in reviews[324][325][326] that the inverse association (protective) of vitamin K on fractures seems to be more reliable than that for bone mineral density (BMD), despite BMD being the golden standard for predicting fracture risk in osteoporosis. One study in postmenopausal women given MK-4 at the standard pharmacological dose (45mg) noted that despite not improving BMD there was an improvement in biomarkers of bone strength (femoral neck width; FMW) and bone mineral content (BMC).[327]
 
+
 Despite there being somewhat unreliable benefits to bone mineral density, there do appear to be other benefits to bone width and overall mineral content that can occur independently of density changes and the reduced risk of fractures appears to be more reliable than changes in BMD
+
 
 In older women with osteopenia, 5,000mcg of phylloquinone daily (with calcium and vitamin D) reduced the risk of fracture with a hazard ratio (HR) of 0.45 (less than half the risk)[328] which was similar to the risk reduction seen with 45mg MK-4 daily for 2 years in women with osteoporosis (RR of 0.44).[121] One trial using 15mg MK-4 noted that there was a reduced risk (RR 0.61) but only in persons with worse bone constitution (5 or more vetebral fractures reported).[329]
 
+
 Studies using high dose supplementation of vitamin K appear to report a halving of risk
+
 
 8.5
 
@@ -942,7 +1058,9 @@ Subclinical vitamin K deficiency appears to be associated with a greater risk fo
 
 Mechanistically, it has been noted that chondrocytes isolated from persons with osteoarthritis secrete less carboxylated MGP[332] which is produced within chondrocytes (specifically the proliferative and late hypertrophic phases but not in the early hypertrophy[333][334]) where it regulates mineralization.[335][333] Cartilage is one of the few places MGP is known to accumulate, alongside bone and dentin (a type of bone teeth are composed of)[336] and similar to what is observed with arterial calcification mice that are deficient in MGP also experience cartilage calcification;[261] genetic faults in MGP in humans are also associated with cartilage calcification[337] and polymorphisms associated with osteoarthritis.[338]
 
+
 Low vitamin K status is associated with a greater risk of developing osteoarthritis, although the relationships are not incredibly strong. This is possible related to MGP (a vitamin K dependent protein) having roles in cartilage maturation and calcification, and currently there are no interventions using vitamin K to treat osteoarthritis
+
 
 9.
 
@@ -956,11 +1074,15 @@ Interleukin 6 (IL-6) appears to be negatively correlated with dietary phylloquin
 
 Elsewhere, it has been noted that LPS stimulation of cells (normally produces IL-6 via acting on TLR4[340]) is inhibited by vitamin K (both phylloquinone and MK-4) which is thought to be independent of the vitamin K cycle.[232] In a rat model using a control and both a deficient and surplus phylloquinone (75mg/kg), it was found that LPS-induced inflammation was greater in the deficient rats and lesser than control in the supplemented rats (which had less IL-6 expression).[234]
 
+
 It is possible that higher levels of vitamin K are able to actively suppress IL-6 secretion from inflammatory stressors, although the mechanisms underlying this are not currently known
+
 
 Menadione (Vitamin K3) has been noted to inhibit NF-kB translocation induced by TNF-α at 50µM, which was not replicated with phylloquinone or MK-4.[341]
 
+
 Menadione has some other potential antiinflammatory properties, but they appear to be a moderate potency relative to some other supplements (in regards to NF-kB inhibition, Feverfew still outperforms)
+
 
 10.
 
@@ -974,7 +1096,9 @@ SHBG is a negative regulator protein that binds to sex hormones (both testostero
 
 The vitamin K dependent protein known as Gas6 is known to interact with TAM family receptors[225] but is also thought to do this primarily via its laminin G-like[342] (some support from carboxylation[343][344]) that looks structurally similar to the binding site of SHBG.[342][345]
 
+
 Gas6 has some structural similarities to SHBG, which is a protein that sequesters steroid hormones. The implications of this structural similarity are not currently known
+
 
 10.2
 
@@ -984,11 +1108,15 @@ Oral MK-4 at 75mg/kg in rats over 5 weeks is able to increase circulating testos
 
 This was independent of changes in luteinizing hormone, and in vitro analysis noted that the increase in testosterone was local to the testes in a dose dependent manner; the mechanism appears to be from an upregulation of CYP11A (via activatin PKA, this enzyme mediates conversion of cholesterol to pregnenolone[346]) without influencing StAR, and vitamin K1 was ineffective.[123]
 
+
 MK-4 has been found to increase testosterone in rats (human equivalent dose of 12mg/kg) whereas phylloquinone was ineffective
+
 
 It has been noted that testosterone acting upon its receptor is able to induce activity of Gas6, a vitamin K dependent protein, which is thought to mediate the interactions of testosterone on reducing arterial calcification.[347]
 
+
 Testosterone itself can induce activity of some vitamin K dependent proteins
+
 
 10.3
 
@@ -996,7 +1124,9 @@ Cortisol
 
 Patients recieving glucocorticoids (medications that act similar to cortisol) appear to be at greater risk for fractures over time[348][349] and 15mg of MK-4 for one year has been found to significantly reduce the losses in bone mineral density associated with glucocorticoid usage.[313] This may be related to the increase in osteoprotegerin (OPG; a cytokine[350][351] that interferes with RANKL acting upon RANK and thus osteoclastogenesis[352]) which is suppressed by glucocorticoids[353] yet preserved with MK-4.[313] OPG has been found to not be significantly influenced when glucocorticoids are not used (500mcg phylloquinone),[318] suggesting that this suppression is not unilateral.
 
+
 Although not completely reflective of 'how vitamin K influences cortisol', the cortisol-induced bone losses seen with pharmaceutical glucocorticoid usage appear to be protected against with supplemental vitamin K
+
 
 11.
 
@@ -1014,7 +1144,9 @@ Pancreas
 
 The pancreas is known to actually secrete MK-4 upon stimulation with cholecystokinin-8 or secretin alongside phospholipase and calveolin-1.[354] Although the role of MK-4 in the pancreas is not fully known, it is thought to be independent of the vitamin K cycle as staining for glutamate residues on pancreatic proteins suggest they are not overly prominent.[355]
 
+
 MK-4 is present in the pancreas, its role there is currently unknown
+
 
 11.3
 
@@ -1022,7 +1154,9 @@ Male Sex Organs
 
 Supplementation of Vitamin K (as MK-4) has been found to increase testicular concentrations of MK-4 to 525% of baseline (995.9pmol/g) following oral supplementation of 75mg/kg in rats for 5 weeks.[123]
 
+
 MK-4 is known to bioaccumulate in the testicles (and appears to be biologically active; see the testosterone section)
+
 
 12.
 
@@ -1034,11 +1168,15 @@ Mechanisms
 
 Vitamin K (Menadione) has been demonstrated to inhibit cancer cell growth both in vitro secondary to DNA damage[356][357][358][359] which seems to persist in vivo.[359]
 
+
 Menadione appears to have anti-cancer properties, which suggests a role for the backbone of the vitamin K molecules rather than the side-chain seen with the common forms of the vitamin
+
 
 It is thought that the ability of some vitamin K dependent proteins to (once carboxylated) act upon receptors that interact with cell survival and regulation underlie their interactions with cancer cells[360][361] and the Gas6 protein is implicated due to promoting cell survival under conditions that do not allow cell proliferation,[362] possible suppression of inflammation (interfering with inflammatory cytokines),[363] and aiding in phagocytosis of cells that express phosphatidylserine.[364]
 
+
 Gas6 (and by extension due to sharing the same receptors, Protein S) may play an antiproliferative role and confer some anticancer properties. The practical significance of this information towards vitamin K supplementation is not yet known
+
 
 12.2
 
@@ -1046,7 +1184,9 @@ Hepatocellular Carcinoma
 
 Hepatocellular carcinomas are tumors that commonly occur after infection of hepatitis B or C that has a fairly poor long-term prognosis.[365] Vitamin K3 (menadione) appears to have potent anti-proliferative properties[366][367] whereas MK-4 also has anti-proliferative effects, albeit somewhat weaker[368][369] with vitamin K1 (phylloquinone) having the weakest anti-proliferative properties.[369] MK-4 tends to be used since menadione has a less than desirable safety profile whereas MK-4 is comparatively safe.[370]
 
+
 Vitamin K appears to have antiproliferative effects in liver tumors, with MK-4 being more potent than phylloquinone
+
 
 In persons who underwent surgery to remove a liver tumor (curative hepatectomy for primary hepatocellular carcinoma) given either 45mg of MK-4 daily or placebo, there appeared to be greater survival rates with MK-4 supplementation (58.1% and 31.0% at 36 and 60 months) than placebo (all patients passed away by month 36).[371] A previous pilot study also noted a decrease in death rates (64% survival after 36 months improved to 87%), but failed to reach statistical significance (P=0.51).[372]
 
@@ -1054,7 +1194,9 @@ For recurrence rates, a pilot study noted that the 83.2% and 91.6% recurrence ra
 
 Although the trials cannot be found online, four trials have been referred to in review articles[360][373] where supplemental phylloquinone at a pharmacological dose (40mg) have also benefitted persons with hepatocellular carcinoma. Results from these trials appear to suggest beneficial responses in about 20% of participants and about half of the participant pool having disease stasis (other half of treatment not noting any particular benefit with phylloquinone).
 
+
 Pharmacologically high doses of MK-4 supplementation (45mg) appear to reduce the risk of a liver tumor re-emerging (after it has been removed from surgery) and can prolong survival of this group of persons as well
+
 
 13.
 
@@ -1068,17 +1210,24 @@ Purpura is a condition usually seen after operations or laser treatment which ca
 
 5% phylloquinone has been found to be ineffective,[374] while elsewhere 2% phylloquinone epoxide was effective in a pilot study.[181] It is thought that topical phylloquinone epoxide, rather than phylloquinone itself, is more effective due to being less allergenic and susceptable to heat or light damage.[181]
 
+
 In regards to purpurea, it appears that vitamin K is able to reduce symptoms somewhat. However, the quality of studies at this point in time are pretty lacklustre
+
 
 In persons with bags under their eyes, topical vitamin K (1% phylloquinone) paired with retinol and both vitamin C and vitamin E (all 0.1%) was able to reduce the darkening of these bags (which was due to hemostasis, or the accumulation of blood) and reduced wrinkles; no control was used.[375]
 
+
 Vitamin K has been implicated in reducing bags under the eyes and removing wrinkles, but the evidence for this is currently confounded with the inclusion of other vitamins. While vitamin K may have a role in clearing blood from the area, it is not known how it influences wrinkles
+
 
 For studies on bruising, vitamin K pretreatment of 5% phylloquinone before laser therapy (to induce bruising) was able to reduce the severity of bruising without influencing how many subjects bruised.[182] Elsewhere, 0.5% phylloquinone cream has failed to influence bruising from a physical stressor (suction).[376]
 
+
 Has some potential usage against bruising, but the evidence is mixed. The first study was promising but conditional in how bruises occurred, whereas the latter showed no effect
 
+
 Despite the potential for fat soluble compounds on topical application, menaquinones have not yet been tested for topical application despite their increased fat solubility. It is not sure if they can replace phylloquinone since the mechanisms underlying the observed effects are not yet known
+
 
 14.
 
@@ -1092,7 +1241,9 @@ An absolute maternal deficiency of vitamin K (fairly rare) has been noted to cau
 
 There does appear to be a placental barrier to vitamin K (20:1-40:1 higher levels in the mother rather than neonate) which suggests that the neonate is resistant to spikes in vitamin K from dietary supplements.[379][82] The levels of vitamin K in the livers of infants at term are lower than an adult (2.2pmol/g relative to an adults 12pmol/g; another study noting 2-4pmol/g at gestation week 10[82]), but due to not being 20-40 fold different there does seem to be controlled uptake of vitamin K on an as needed basis.
 
+
 While there is no direct research into the topic, vitamin K appears to have a role in development of a children where it needs to be consumed in standard dietary amounts and supplementation of vitamin K might not influence the neonate due to the placental barrier (so supplementing vitamin K during this time may not influence the neonate in a beneficial nor negative manner)
+
 
 14.2
 
@@ -1104,7 +1255,9 @@ Vitamin K is detectable in breast milk[383] and also added to infant formulas. T
 
 Breast fed infants tend to have a circulating concentration in the range of 0.13–0.24μg/L[380] (which is hypothesized to be increased by 80.0+/-37.7ng/mL with supplementation of 5,000mcg phylloquinone[384]) while formula fed infants appear to have circulating levels of 4.4–6.0μg/L.[380]
 
+
 Vitamin K is actually at lower concentrations in breast milk than it is in formulas for infants. Supplemental vitamin K to the mother is able to increase concentrations of vitamin K in the breast milk. While this should logically reduce the risk of infant bleeding from vitamin K deficiency within the first 0-6 months of life (higher rates in breast feeding mothers) there are no trials currently investigating this
+
 
 15.
 
@@ -1126,7 +1279,9 @@ Pseudoxanthoma elasticum is a genetic disorder characterized by calcified elasti
 
 For interventions, in mice that are double deficient for the ABCC6 gene (mice with Pseudoxanthoma elasticum) supplemental phylloquinone or MK-4 at up to 100mg/kg have failed to influence calcification despite higher circulating phylloquinone and MK-4 in the blood (no changes noted in carboxylated status of MGP);[392] this study is duplicated in medline.[392]
 
+
 Pseudoxanthoma elasticum (PE) is a disease state characterized by excessive calcification of peripheral tissue, which is something that vitamin K normally treats. The limited evidence in animals at this moment in time does not support a usage for vitamin K in treating PE
+
 
 16.
 
@@ -1138,7 +1293,9 @@ Vitamin C
 
 At least one study has noted that the chemotherapeutic effects of vitamin K3 (Menadione) are synergistic with vitamin C in vitro at a 1:100 ratio[393][394] which has been replicated elsewhere.[395][396] Although vitamin C is the most common supplement to be implicated in being synergistic with menadione, this appears to be more a property of menadione itself since it has also demonstrated synergism with 5-Fluorouracil, bleomycin, cisplatin, doxorubicin, vinblastine, and dacarbazine[397][398] while being additive with other chemotherapeutics.[399]
 
+
 Vitamin C is one of the many compounds that is synergistic with menadione in cell cultures. The practical significance of this information towards oral supplementation of other forms of vitamin K is not clear
+
 
 16.2
 
@@ -1148,15 +1305,21 @@ Vitamin D and Vitamin K are thought to be highly synergistic as they both intera
 
 The most important interaction between the two is in bone health, where the addition of vitamin K (usually MK-4) to bone cells is able to augment a vitamin D induced osteocalcin production[73] and due to MK-4 localizing osteocalcin to the extracellular matrix to promote mineralization[73] they appear synergistic in osteoblasts (dependent on the vitamin K cycle).[291][402] In osteoclasts (negative regulators of bone mass), vitamin K (MK-4 only, phylloquinone inactive) suppresses the proliferative effects of vitamin D;[293] this can also indirectly support bone mass and is independent of the vitamin K cycle, but may only apply to pharmacological doses of MK-4 (45mg or so).
 
+
 Vitamin D and Vitamin K (vitamin A as well to a degree, but is not the topic here) are vitamins that appear to work together in the function of some vitamin K dependent enzymes. Additionally, vitamin K appears to promote the beneficial effects of vitamin D on osteoblasts while higher doses of MK-4 are able to suppress the negative effects of vitamin D on osteoclast formation
+
 
 In studies that compare a vitamin K only group against a vitamin K group also given vitamin D, the combination therapy groups tend to experience greater benefits to bone health as assessed by bone mineral density.[310][312]
 
+
 Some trials on bone health either use vitamin D regardless (keeping the only difference between groups the vitamin K) or they compare vitamin K against combined therapy with vitamin D and vitamin K; it appears that combination therapy routinely outperforms vitamin K alone
+
 
 Toxicity of Vitamin D is hypothesized to be related to an imbalance with Vitamin K, as the former vitamin can increase a protein known as matrix Gla protein (MGP) while Vitamin K activates it via carboxylation; if MGP is not carboxylated then it can independently promote arterial calcification.[400] This hypothesis is supported by how Vitamin D toxicity and Vitamin K deficiency are phenotypically similar, and how Warfarin can augment the toxicity of Vitamin D[403] while having a similar toxicity profile[403] and both Vitamin D and Warfarin toxicity being protected against by a common drug (ibandronate).[404][405]
 
+
 Vitamin D toxicity is thought to be secondary to either vitamin K depletion (excessive levels of vitamin K dependent proteins depleting the bodily reserves) or secondary to an accumulation of unactivated proteins due to a relatively higher vitamin D intake to vitamin K
+
 
 16.3
 
@@ -1164,7 +1327,9 @@ Vitamin E
 
 Supplementation of high dose vitamin E (1000 IU) daily for 12 weeks has been shown to increase circulating levels of PIVKA-II (suggesting less coagulant effects of vitamin K) although it was unable to influence plasma phylloquinone or the carboxylation state of osteocalcin.[406]
 
+
 May antagonize the coagulatory effects of vitamin K. Whether this is good or bad depends on context
+
 
 16.4
 
@@ -1172,7 +1337,9 @@ Sesamin
 
 Sesamin is a lignan compound from sesame seeds, most well known to inhibiting the metabolism of Vitamin E which indirectly causes a preservation of bodily levels of vitamin E. It appears that dietary inclusion of 0.2% sesamin to rats has this same effect on phylloquinone in rats[407] and while 1-10% of sesame seeds also have a similar effect, that tissue concentrations of MK-4 require a higher intake of 20% sesame seeds.[407]
 
+
 Sesamin inhibits the metabolism of vitamin E, which indirectly preserves vitamin E concentrations in the body. It appears that sesamin may do this same thing to vitamin K but there is less overall evidence investigating this synergism
+
 
 16.5
 
@@ -1184,7 +1351,9 @@ It has been noted that in persons on stable anticoagulant therapy, the dose of p
 
 In instances where anticoagulant therapy is unstable, low dose vitamin K supplementation in persons with insufficient intake (100-150mcg phylloquinone supplementation) has been found to improve stability during therapy.[411][412][413] It has been noted that the logic behind this combination therapy is that vitamin K antagonists and oral vitamin K need to be balanced, and while dietary fluctuations precede fluctuations in coagulation deprivation of all vitamin K is unpractical; supplementation of vitamin K (with an appropriate increase in anticoagulant to counter it) reduces possible variance from the diet.[414][245]
 
+
 While supplemental vitamin K is normally seen as antagonistic to anticoagulants that work via inhibiting vitamin K utilization (for obvious reasons), in a few instances where the patient is unstable and not reliably responding to anticoagulants then low doses of phylloquinone (with an appropriate increase in anticoagulant) can be useful. This is a nutrient interaction that needs to be mentioned to a medical doctor
+
 
 17.
 
@@ -1202,7 +1371,9 @@ Case Studies
 
 In the past, clinical injections of vitamin K have been used (for its procoagulant effects to minimize bleeding) and although they were potentially safely used there have been case studies where it caused facial flushing, altered sensations of taste, diaphoresis, chest pain, dyspnea, cyanosis, and respiratory and cardiac arrest[416][417][418][419][420][421] which sometime led to death.[419] These cases may be related to electrophysiological effects of vitamin K at high concentrations (micromolar range)[240] and are not thought to be related to oral supplementation as the high concentrations are not reached; currently, no cases of cardiovascular complications from oral vitamin K supplements have been reported.
 
+
 It is possible to induce toxicity and possibly death with injections of vitamin K, but this likely does not apply to oral supplementation in the standard dosage range
+
 
 17.3
 
@@ -1212,9 +1383,13 @@ Menadione (Vitamin K3) is a particular vitamer of vitamin K that is known to act
 
 Injections of menadione have been noted to kill rats at 20mg/kg[422] and both renal apoptosis and heart lesions have been noted following injections.[415]
 
+
 Injections of menadione at fairly low concentrations have been found to be lethal to research animals
+
 
 Disruption of NQO2 gene expression (NQO2−/− mice) reduces menadione toxicity[422] and cellular accumulation of NADPH and NAD[423] whereas ablation of NQO1 has the oppposing effect and increases menadione toxicity.[424] NQO1 is known to catalyze the metabolism of quinone structures[425] including menadione,[426] which is converted into menadiol and confers both antioxidant and prooxidant properties.[426][427] Glutathione also appears to have a role, as glutathione acting upon menadione is able to create semiquinone metabolites (prooxidants) and the superoxide radical[428][429][430][431][432][433] and can cause mitochondrial dysfunction via increasing calcium cycling to an excessive level.[434]
 
+
 Excessive menadione concentrations in a cellular system are converted (by enzymes that are normally antioxidative, particular glutathione) into free radicals, causing oxidative stress
+
 

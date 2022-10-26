@@ -68,13 +68,17 @@ Sources
 
 Caesalpinia benthamiana (of the Fabaceae family and Caesalpiniaceae subfamily; synonymous with Mezoneuron benthamianum) is an African medicine for erectile dysfunction and libido enhancement[1] and has been used in the topical treatment of wounds.[2] The parts of this plant that have been used traditionally include the leaves and the root bark.[3]
 
+
 Has traditional usage as a treatment for male sexual impotence and, when mixed into an oil base, has been used topically to treat wounds and infections
+
 
 1.2
 
 Composition
 
-Benthaminin A-B (bark)[2]Deoxycaesaldekarin C (aka. methyl vouacapenate) in the bark[2]Gallic acid[1]trans-resveratrol[1]β-sitosterol and stigmastenone[2]Similar to the rest of its genera (caesalpinia), this plant appears to contain cassane type diterpenoid structures and has a stilbene (resveratrol) and tannin content. That being said, its composition is pretty much unknown at this time
+Benthaminin A-B (bark)[2]Deoxycaesaldekarin C (aka. methyl vouacapenate) in the bark[2]Gallic acid[1]trans-resveratrol[1]β-sitosterol and stigmastenone[2]
+Similar to the rest of its genera (caesalpinia), this plant appears to contain cassane type diterpenoid structures and has a stilbene (resveratrol) and tannin content. That being said, its composition is pretty much unknown at this time
+
 
 A water extract has been noted to contain 15.5% polyphenols and 9.9% tannin structures.[1]
 
@@ -120,7 +124,9 @@ Hypochlorous Acid
 
 The water extract of caesalpinia benthamiana appears to directly sequester hypochlorous acid (HOCl) with an IC50 of 1.5+/-0.1µg/mL (in an acellular system) and, in a cellular system, appears to be weaker with an IC50 of 5.2+/-0.3µg/mL.[1]
 
+
 The direct antiradical properties against hydrochlorous acid appear to be quite respectable in vitro
+
 
 5.
 
@@ -134,7 +140,9 @@ When male rats are given 50mg/kg of a water extract of caesalpinia benthamiana (
 
 When given to male rats placed alongside receptive females, there are increases in intromission frequencey and decreases in latency seen as the 15-30 minutes (latency down to 9% of control; frequency up 85.2%), 75-90 minutes (latency down to 5%; frequency up 95.9%), and 180-205 minutes (latency down to 2% of control; frequency up 228%) after single dosing.[1]
 
+
 The magnitude of libido enhancement seen in these rats greatly exceeds most other aphrodisiac compounds in the database, and pending a replication of data this could be a very promising application of the plant. The reductions in latency (how long it takes a rat to mount or insert his penis into the female) are remarkable in that study
+
 
 6.
 

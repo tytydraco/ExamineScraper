@@ -90,7 +90,9 @@ Enzymatic Interactions
 
 Damiana Leaf (methanolic extract) was found to, in vitro, inhibit the aromatase enzyme with an IC50 value of 63.1mcg/mL.[3] Compounds from Damiana were tested in isolation, and both pinocembrin and acacetin appeared to be effective in inhibiting 50.5% and 42.6% of aromatase activity at 10μM concentration and having IC50 values of 10.8μM and 18.7μM, respectively.[3] These results were weaker than the active control of aminoglutethimide (5.4+/-0.3μM).[3]
 
+
 Moderate efficacy in inhibiting the aromatase enzyme
+
 
 3.
 
@@ -102,7 +104,9 @@ Aphrodisia
 
 In a model of sexually exhausted rats (after 24 hours of ad libitum copulation), Damiana Leaf at 80mg/kg was able to improve mounting, ejaculations, and intromission in male rats with both 20 and 40mg/kg trending towards improvement but failing to be statistically significant.[8] The effects of Damiana were most pronounced during recovering copulation (shortly after copulation), and compared to the active control of Yohimbine at 2mg/kg bodyweight Damiana at 80mg/kg was equally effective at aphrodisia but with a mixed comparison on their pro-erectile effects.[8] These aphrodisiac effects have only been noted once elsewhere, with some benefit to sexually sluggish rats.[11]
 
+
 Lacklustre evidence for the aphrodisiac properties of Damiana Leaf, despite historical usage
+
 
 3.2
 
@@ -110,7 +114,9 @@ Anxiety
 
 When tested in rats using an elevated maze-plus, only the methanolic extract of Damiana Leaf appears to be effective as an anxiolytic at 25mg/kg.[12] This is thought to be due to the Apigenin content.[13] When increasing the dose 12-fold above the effective anxiolytic dose, Damiana appears to have sedative properties.[14]
 
+
 Some anxiolytic effects, possibly related to the Apigenin-related molecules, of unknown practical relevance
+
 
 3.3
 
@@ -118,7 +124,9 @@ Analgesia
 
 In a pain test in rats (tail-flick test), 10mg/kg Apigenin (one of the main bioactives of Damiana) appears to be approximately as effective as 5mg/kg Morphine Sulfate; the pain reduction was dose-dependent.[14] Given a 0.2% Apigenin content of Damiana, this correlates to quite a high oral dose (5g/kg, toxicology untested).
 
+
 The bioactive appears to be a very effective pain killer, but the amount of Damiana that must be consumed to reach this level may be excessive and impractical
+
 
 4.
 

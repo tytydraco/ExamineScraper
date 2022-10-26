@@ -36,9 +36,12 @@ An in vitro study using testes slices and investigating the traditional mixture 
 
 This same plant preparation with Basella Alba and ratio has been administered to otherwise healthy adult rats (30mg/kg of the extract, correlating to 720mg/kg fresh plant weight) was given orally for 15 days with testing at days 7 and 15.[4] This study noted up to 17% increased body weight (food given ad libitum, not reported whether it differed) and 60% larger seminal vesicles on day 15 with normal histological morphology but a greater concentration of spermatozoa. Serum testosterone was increased 90% above controls on day 7 and remained 80% higher on day 15.[4]
 
+
 The combination of Basella Alba and Hibiscus Macranthus appears to significantly increase testosterone in otherwise healthy mice, which deserves some replication. Basella Alba may be more of an active ingredient though, and the herbs have not been tested in isolation
 
+
 All current studies are conducted by one research group, however
+
 
 2.2
 
@@ -46,7 +49,9 @@ Estrogen
 
 Currently, all studies on Hibiscus Macranthus and estrogen are highly confounded Aloe buettneri, Justicia insularis, and Dicliptera verticillata.[5][6][7] The mixture has shown efficacy in increasing circulating estrogen levels in otherwise healthy 22-day old female rats,[7] but the contribution of Hibiscus Macranthus to these effects is not known.
 
+
 Confounded with other nutrients, no conclusions on Hibiscus Macranthus can be drawn
+
 
 3.
 
@@ -54,5 +59,7 @@ Safety and Toxicology
 
 Currently, the extent of toxicological information of Hibiscus Macranthus is the study feeding this herb (alongside Basella Alba in a 2:1 ratio) to otherwise healthy rats, where 720mg/kg of dry plant weight daily (480mg/kg Hibiscus Macranthus) was not associated with any toxicological clinical signs of testicular histology.[4]
 
+
 Limited to no toxicological information currently
+
 

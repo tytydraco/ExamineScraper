@@ -262,7 +262,9 @@ The mushroom Ganoderma Lucidum holds a place in a variety of Asian traditional m
 
 Traditional usage of Ganoderma Lucidum extends to as anti-cancer and anti-tumor, anti-microbial, anti-fungal, and anti-viral (specifically against herpes and HIV), as well as anti-inflammatory or immunomodulatory. Pro-longevity claims have also been made.[2]
 
+
 Traditionally known as the God of Fungi, although associations with nobility may have raised it to undeserved god-like status. Used for almost everything and said to work for everything; tends to be more focused on immunity, sickness, and cancer
+
 
 1.2
 
@@ -274,7 +276,9 @@ They (in reference to the two main strains, Purple and Red Lingzhi) differ in le
 
 Beyond species, different locations that grow Ganoderma Lucidum can markedly differ in quantities of bioactives.[10] At least one study investigating over-the-counter Reishi products noted that out of 11 randomly selected products, the triterpenoids ranged from indeterminate to 7.8% and polysaccharides from 1.1-5.8%, the differences was attributed to differences in production method (with water soluble extracts possessing less triterpenoids) and growth conditions.[3] One study growin Reishi noted somewhat similar levels of triterpenoids overall, but the specific triterpenoids fluctuated wildy between samples.[11]
 
+
 The triterpenoid (ethanolic extract) of these two species (Lucidum and Sinensis) markedly differs in their biological effects, but neither species is inactive in any way; the polysaccharides have more similarities between the two. There is also moderate to large differences between crops of Ganoderma Lucidum
+
 
 1.3
 
@@ -284,7 +288,9 @@ Mushrooms in general tend to be 90% water or so, which makes a basic mushroom 'e
 
 A variety of Bioactive polysaccharides[14][15][16][17] that tend to be the components that interact with the immune system[18] and are subdivided into β-1,3-glucans and polysaccharide peptides like peptidoglycan.Water-soluble Polysaccharide Peptides, or carbs with amino acids in the structure. They include GLPS peptide (GLPP),[19][6] GLPG,[20] GLIS,[21] PGY,[22] and F3[23]β-1,3-Glucans (subset of polysaccharides) sometimes called 'Curdlan' [24] and some other Glucan molecules[25]Over 120 triterpenoid compounds[26][27] which can be separated into those with a carboxylic side chain (Ganoderma Acids) and those without (Ganoderma alcohols). Some are referred to as lucidenic acids[28][29]Nucleotide bases (thymine, uridine, inosine, guanosine, adenosine) the sum of all ranging from 303-1217mcg/g (in the mushroom cap) and 22-334mcg/g in the stem.[30]Some bioactive proteins, such as LZ-8 (Lingzhi-8)[31] and Ganodermin[32]A 114kDa hexameric lectin, a glycoprotein with 9.3% sugar[33]A reversible and highly specific competitive alpha-glucosidase inhibitor known as SKG-3 with an IC50 value of 4.6mcg/mL[34]Ergostane sterols[35] and ergosterol, known as pro-vitamin D2[36]C19 fatty acids (nonadecenoic acid and cis-9-nonadecenoic acid)[37][38]RiboflavinVitamin CCopper and Zinc[39]Selenium at up to 72mcg/g dry weight (best estimate of wet weight is 7.2ug/g) and can biotransform selenium into selenium-containing proteins[40][41]Germanium (the ion, not to be confused with Geranium) at up to 489mcg/g[42]There is also a large Chitin content in the Ganoderma Lucidum mushroom, which is indigestible (and for the most part, not bioactive) and makes the mushroom tough to chew.[3] The mushroom is hazel/red in color, which is due to the polysaccharide content.
 
+
 Polysaccharides (the carb and fiber content), Peptidoglycans (carbs with amino acids branching off of them), and Triterpenoids (fat-soluble molecules with a structure similar to cholester) are the main reasons for the activity of Ganoderma Lucidum. Other molecules, like the C19 fatty acids, may also play a role but are less studied. The mushroom is pretty to look at and pretty hard to chew
+
 
 1.4
 
@@ -328,7 +334,9 @@ Antlered
 
 The antlered form of Ganoderma (Ganoderma Lucidum AF; rokkaku-reishi) is the same species of Ganoderma Lucidum but varies in appearance, looking more like antlers than the standard mushroom.[46] It is rarely found in nature (although recently has been cultivated to higher levels), but consists of mostly the same bioactive compounds in regular Ganoderma Lucidum.[47][48] Although polysaccharide content is roughly similar at 40.1% of dry weight,[46] Triterpenoid compounds such as lucidenic acid, however, are higher in the antlered version[49][46] The specific amount of triterpene structures in the Antlered version range from 5875.8+/-80mcg/g and 7034.2+/-274.8mcg/g, whereas regular Ganoderma ranges from 2443.1+/-45.6mcg/g to 4441.2+/-328.4mcg/g; the lowest and highest recorded values being 140% and 58% higher in the Antlered version, respectively.[11]
 
+
 Same as standard Ganoderma Lucidum, except with a higher triterpenoid content. Completely irrelevant if you are using a hot-water extract, but possibly beneficial to use the antlered version if consuming the entire mushroom or an ethanolic extract
+
 
 2.5
 
@@ -336,7 +344,9 @@ Mycelium
 
 The mycelium of a mushroom is a branching vegetable network that is seen as a growth of the mushroom, but not the stem nor the cap. Ganoderma Mycelium appears to contain many of the same bioactives that the fruiting body (cap) does,[50] and polysaccharides from the Mycelia have been used to similar efficacy as the fruiting body.[51][52][53]
 
+
 A cheaper way to sell Ganoderma polysaccharides, and isn't completely inactive; can be useful for the frugal
+
 
 2.6
 
@@ -364,13 +374,17 @@ When looking at the activation of NF-kB (correlates well with TLR4 activation in
 
 These same trends are seen with TNF-α (consequence of NF-kB activation, among other things) where Ganoderma Lucidum suppresses the increase of TNF-α induced by LPS[60] associated with less phosphorylation of Akt (Ser473)[61] and less IkB degradation and NF-kB activity.[62] When there is no proinflammatory stimuli, Ganoderma Lucidum polysaccharides reliably increase TNF-a in animal models[63][64] and isolate human cells[65][66] secondary to macrophage activation.[67] One human study on persons with breast cancer noted an improvement in immunomodulation as it pertains to cancer in response to 3g Ganoderma spores daily, suggesting the above works in humans.[68]
 
+
 Ganoderma Lucidum polysaccharides appear to be a TLR4 receptor modulator, and using Lipopolysaccharide (LPS) as a proinflammatory reference Ganoderma can increase inflammation when there is no inflammatory stimuli present and attenuate inflammation when there is a stimuli present. NF-kB activation and TNF-α levels follow this same pattern, and Ganoderma appears to be a context dependent pro and anti-inflammatory (immune system modulator)
+
 
 The cytokine known as Matrix metallopeptidase 9 (MMP9) is normally induced by TNF-α,[69] yet does not occur with Ganoderma-induced TNF-α;[62] a compound in Ganoderma appears to interfere with MMP9 mRNA and protein content by interfering with the promotor in the nucleus;[62] this may be related to the triterpenoids[70][71][72] and at least one peptidoglycan.[62] Another cytokine, MCP-1, is suppressed by the water soluble extract (usually polysaccharides) yet induced by the ethanolic extract (triterpenoids).[73]
 
 Some triterpenoids (usually in ethanolic extracts) may also have immunomodulatory properties as they have been noted ot upregulate IL-2, IL-4, and IL-8 in vitro[73] while inhibiting NF-kB activation via AP-1[72] which is due to ERK phosphorylation; MEK inhibitors are synergistic in this regard with Ganoderma triterpenoids.[71]
 
+
 Ganoderma may disregulate the connections between inflammation and the carcinogenic consequences of inflammation, but more research is required to assess practical relevance of this (as many compounds in Ganoderma act in different manners)
+
 
 4.
 
@@ -392,7 +406,9 @@ Cholinergic Neurotransmission
 
 Numerous (18) triterpenoids from Ganoderma Lucidum have been shown to possess acetylcholinesterase inhibitory actions with an IC50 value ranging from 9.40μM to 31.03μM, potency favoring those with an n-butyl ester side chain.[76]
 
+
 Some triterpenoids have shown acetylcholinesterase inhibition when tested in vitro; the practical relevance of this to oral supplementation is currently not known
+
 
 5.2
 
@@ -414,7 +430,9 @@ One large study has been conducted on Ganoderma Lucidum and 'Neurasthenia', whic
 
 The study found that in a sample of 132 persons with diagnosed neurasthenia (as assessed by the criteria mentioned before from the ICD-10) given Ganopoly (Ganoderma Polysaccharide at 25% by weight) at 5,400mg daily, bioequivalent to 81g of the mushroom, found that after 2 months of supplementation that there were significant improvements in measured parameters overall with more persons reporting 'significant improvement' and less reporting 'regression' of well-being.[45] Improvements in fatigue and well-being were both noted with no significant side-effects, although a pilot study done by the same research group ntoed that 4 weeks usage was insufficient in alleviating symptoms; suggesting chronic usage is needed.[45]
 
+
 Mechanism as to why Ganoderma aids in fatigue syndrome is unknown, but apparently it does
+
 
 5.5
 
@@ -424,7 +442,9 @@ Ganoderma Lucidum has traditionally been used as a tranquilizing agent (An-Shen 
 
 In regards to general locomotor activity (moving around), moderate doses (80mg/kg) in rats do not inherently reduce spontaneous activity after a single dose but appear to reduce spontaneous activity after 3 days of supplementation.[87] Chronic usage appears to be more effective than acute usage,[89] although injections of Ganoderma (Jisheng injections) can induce reductions quite acutely.[54]
 
+
 Ganoderma Lucidum appears to be a sedative, able to induce relaxation and sleep while reducing spontaneous movement during waking; might be good to pair with other compounds (Valerian or Melatonin?) as it does not inherently increase REM sleep time (instead increasing overall sleep time and reducing sleep latency, the time it takes to fall asleep)
+
 
 6.
 
@@ -444,7 +464,9 @@ After oral ingestion of 0.3g/kg Ganoderma extract in diabetic mice, hepatic and 
 
 When tested in vivo, three separate studies on rats suggest that cholesterol levels can be reduced after consumption of Ganoderma polysaccharides; however, these studies were in models of type I diabetes.[100][101][102]
 
+
 Ganoderma Lucidum may be able to reduce cholesterol, but whether this affects healthy persons and the mechanism(s) by which it is practically relevant need a bit more research
+
 
 7.
 
@@ -456,11 +478,15 @@ Interleukins
 
 Reishi has been noted to increase IL-2 production in T cells (Specifically, Foxp3+CD4+ T cells) secondary to the CD18 receptor, which is activated when the reishi protein LZ-8 (1μg/mL) acts on the CD45 receptor.[103] An increase in IL-2 secretion from murine, jurkat, and human CD4+ T cells has been noted with LZ-8 at 1μg/mL even without any antigen present.[104][105] This production of IL-2 depends on phospholipase C (PLC) activation and subsequent activation of calcium channels recruiting PKC alpha (PKCα) and theta (PKCθ)[104] which serve as intermediates in CD18 signalling in T cells, with MAPKs and ROS production both also playing intermediate roles.[104]
 
+
 The LZ-8 immunomodulatory protein found in Reishi increases IL-2 secretion from CD4+ T cells secondary to activating PLC and two PKC proteins
+
 
 The increase in IL-2 that occurs with Reishi (from 1μg/mL LZ-8 acting on CD45) results in an increase in IL-10 secreted from T cells.[103]
 
+
 The increase in IL-2 from the LZ-8 protein in Reishi also promotes an increase in IL-10
+
 
 7.2
 
@@ -470,11 +496,15 @@ Natural Killer (NK) cells are an immune cell that exhibit cytotoxicity towards c
 
 When looking at Human Interventions and NK-cells, both studies noted increases in NK cell activity although one was statistically insignificant[110] whereas the other noted a statistically relevant increase of 34.5 +/- 11.8%[111] associated with ingestion of Ganoderma polysaccharides. These effects have been reported in mice after administration of either Ganoderma polysaccharides[112] or select triterpenoids.[113]
 
+
 May increase the overall count of Natural Killer cells in the immune system, although the two human studies that noted an inrease only had one returning statistically significant
+
 
 It has been noted that Ganoderma can prevent fibrogenin-induced protection of tumor cells (where fibrin coagulates and forms a coat, preventing NK cells from acting on tumors[114]) by preventing fibrin from associating with cancer cells; indirectly enhancing NK-cell cytotoxicity.[115] Fibrin normally associates with αvβ3 and α5β1 integrins on tumor cell surfaces, and Ganoderma can reduce this association to near control levels.[115] This same study noted that Ganoderma decreased lung metastasis in mice (after injection) via the polysaccharide component,[115] and Ganoderma can enhance cytotoxicity of tumors in 'evasive' tumors.[116]
 
+
 May, independent of NK cell count, increase the cytotoxicity of NK cells on tumors by preventing fibrin formation on tumor cells. Fibrin protection on tumor cells may 'coat' them against NK cells, and Ganoderma can preserve the actions of NK cells by reducing this protective coat
+
 
 7.3
 
@@ -488,11 +518,15 @@ Consumption of 500mg/L (drinking water) in mice enhanced macrophage activation b
 
 One study investigating the effects of polysaccharides on intracellular calcium noted that Ganoderma can induce cellular release of Ca2+ ions and also induce extracellular influx of Ca2+.[6] It is hypothesized that these may be secondary to IP3 formation, or secondary to PKC activation which has been observed.[124][125] Alternate theories include TLR4 activation and the signalling cascade from that receptor, which some polsaccharides have been shown to act upon.[57][56]
 
+
 Mechanistically, Macrophages appear to have their activity and phagocytic ability increase secondary to increase cytokine production (from nitric oxide signalling). What exactly causes this nitric oxide signalling is not completely hammered out yet, but may be through acting on TLR4 receptors
+
 
 Polysaccharide peptides from Ganoderma at 100mg/kg oral ingestion have also been shown to protect macrophages from oxidative damage in vivo (mice) and prevent morphological changes to the mitochondria and endoplasmic reticulum as assessed by electron and light microscope.[126][6] It also demonstrated a rehabilitative effect, and 5 days of supplementation with the same dose mitochondrial membrane potential in macrophages (previously damaged by oxidative insult) was recovered.[6]
 
+
 A protective effect may also exist for macrophages, which could possible extend to cardioprotection (preventing foam cell formation, could alleviate artherosclerotic buildup)
+
 
 7.4
 
@@ -502,7 +536,9 @@ On dendritic cells, Ganoderma polysaccharides can increase the expression of I-A
 
 At least one study has noted that extracts produced by organic solvents (containing triterpenoids) do not influence dendritic cells[127] like the polysaccharides do.[23]
 
+
 Increasing expression and activity of Dendritic cells (which 'present' toxins to the killing immune cells) via inflammatory signalling can increase adaptive immunity, and theoretically could be used acutely to fight off sickness
+
 
 7.5
 
@@ -514,13 +550,17 @@ Ganoderma has been implicated in increase Th1 differentiation. Additionally, the
 
 An increase in Treg cell (Foxp3+; a major class of T regulatory cells[133]) has been noted with the LZ-8 protein in Reishi, where 1μg/mL applied to CD4+ cells increased Treg expression 4 to 10-fold resulting in increased IL-2 and IL-10 secretion;[103] implanting these activated Treg cells into mice with intestinal inflammation show suppressive effects (seen with other Treg cell inducers such as lactobacillus reuteri).[103]
 
+
 The stimulatory effect of Reishi appears to extend to T cells
+
 
 There is a method of training for athletes known as "living high and training low" which involves training at or near sea level and training at a higher altitude, thought to achieve the benefits of hypoxic training[134] although it is associated with immunosuppression (related to NK cells and T cells).[135]
 
 In football players subject to a hypoxic sleep condition (mimicking 2500m altitude) and training in normoxic conditions Reishi supplementation at 2.5-5g (water soluble polysaccharide extract) for 28 days noted that while the short-term immunosuppression (assessed by CD3+, CD4+, and CD8+ T-cell counts) was attenuated in control the CD3+ T-cells with 5g Reishi were stimulated past control and placebo levels.[136]
 
+
 Alterations in CD3+ T-cells from hypoxic training appear to be fully normalized and a bit reversed with 5,000mg Reishi supplementation
+
 
 7.6
 
@@ -552,13 +592,17 @@ Testosterone
 
 Ganoderma Lucidum possesses 5-alpha reductase inhibitors, able to attenuate the conversion of testosterone to dihydrotestosterone (DHT). Out of a cluster (n=19) of medicinal mushrooms examined, Ganoderma appears to be the most effective.[142][143] The ethanolic extracts are more potent than the water-soluble extracts, and Ganoderols F[144] and B[145] appear to be the most bioactive molecules. The inhibition is concentration dependent.[146]
 
+
 Ganoderols from Reishi appear to have inhibitory potential on 5-alpha reductase enzymes, and underlie how Reishi is one of the more potent tested medicinal mushrooms for its anti-androgenic effects
+
 
 Beyond 5α reductase inhibition, triterpenoids such as Ganoderic acid DF can block the androgen receptor when their concentration is high (15uM) and prevent androgen-receptor activation by DHT.[146] Increasing DHT concentration does not appear to override the blockade, and once a certain threshold is passed Ganoderma exerts potent in vitro androgen receptor blocking.[146]
 
 Increases in testosterone have been reported in mice, and are synergistic with 5α-reductase inhibitors (including finasteride).[147] After oral ingestion of 6mg ethanolic extract in older men, however, no significant effects were seen on circulating testosterone.[148]
 
+
 In humans, does not appear to affect circulating testosterone levels. However, it possesses multiple mechanisms in how it can exert anti-androgenic activity and may reduce the effects of androgens independent of circulating testosterone levels. The one human study noted a nonsignificant decrease in PSA levels, a biomarker for androgen receptor activity
+
 
 9.2
 
@@ -582,24 +626,34 @@ Mechanisms
 
 Aldose reductase is the first enzyme that reduces glucose into polyols (such as sorbitol), and its inhibition serves a therapeutic role in diabetes management, specifically diabetic retinopathy.[151] Reishi possesses aldose reductase activity, and appears to be one of the most potent mushrooms at doing so,[152] the ethanol extract has been shown in vivo to reduce polyol formation in the rat eye.[152] When looking at the IC50 values of Ganoderma acids (the more potent portion of the triterpenoids), 17 tested fragments have an IC50 value below 200uM whereas some are very potent at 22.8uM (ganoderic acid Df) and 43.8uM (ganoderic acid C2).[27] It appears the carboxyl group on the side-chain is critical for aldose reductase inhibition, and double bonds on C20-C22 as well as hydroxyl groups on C3,7,11, and 15 increase inhibition (this 'ideal' molecule is ganoderic acid C2).[27]
 
+
 Aldose Reductase inhibition may underlie the ability of the ethanolic extract for alleviating some complications of diabetes
+
 
 The first investigation on Reishi and diabetes came from a study injecting 100mg/kg bodyweight polysaccharides (Ganoderan A and B) into mice, which subsequently demonstrated a 50% reduction in blood glucose levels with some noticeable effect on blood glucose reduction for up to 24 hours after injection.[153] Ganoderan B
 was later reported to increase insulin secretion and modulate glucose metabolism in liver tissue.[154] A related polysaccharide, Ganoderan C, also possesses hypoglycemic action via increasing insulin.[155] Polysaccharides can act on pancreatic beta-cells (where insulin is producted) where they induce Ca2+ influx into beta-cells to induce insulin secretion.[156] Ganoderma polysaccharides also exert an anti-oxidative protective effect on pancraetic beta-cells, and can reduce apoptosis while modulating biomarkers of apoptosis such as Bax/Bcl-2.[157][100][158]
 
+
 Polysaccharides, if reaching the pancreas, may stimulate insulin release and subsequently reduce blood glucose levels
+
 
 Ganoderma also appears to possess a proteoglycan (polysaccharide with amino acids) PTP1B competitive inhibitor, dubbed Fudan-Yueyang-Ganoderma Lucidum, possessing an IC50 value of 5.12+/-0.05 μg/mL.[159][160] This proteoglycan, called FYGL for short, contains 77+/-3% polysaccharide and 16.8+/-0.9% protein, and possesses a certain extraction process mentioned here.[159] Oral administration of FYGL can decreased blood glucose in type 1 diabetic mice, as well as both reducing serum insulin and increasing insulin sensitivity.[160] At oral doses of 50 and 150mg/kg bodyweight in mice over 4 weeks, improvements in glucose and insulin sensitivity are observed and the higher dose is comparable to 300mg/kg Metformin.[159] These effects have been observed in Type II diabetes as well, increasing the insulin sensitivity of skeletal muscle.[101] No toxicity of this particular extract was seen at up to 6g/kg daily.[159]
 
+
 A proteoglycan from Ganoderma appears to act as a PTP1B inhibitor, and may prolong signalling through its receptor (which would reduce the rate of which the receptor desensitizes to insulin); it is moderately potent and has in vivo support for efficacy, but its IC50 value is weaker than other compounds such as ursolic acid or berberine
+
 
 In diabetic mice, reductions in blood glucose have been seen and attributed to reduced hepatic expression of phosphoenolpyruvate carboxykinase (PEPCK) after 0.3g/kg oral ingestion for 4 weeks.[93] In vitro, activation of AMPK and increased glucose uptake have been noted with Reishi in fat cells as well.[161] Reductions in blood glucose after ingestion of 400mg/kg Ganoderma polysaccharides are roughly as potent as 30mg/kg Berberine, a potent hypoglycemic.[162]
 
+
 Can reduce expression of PEPCK, and thus endogenous production of glucose in the liver; it is not as potent as Berberine, used as a reference compound
+
 
 The Farnesoid X Receptor (FXR), a nuclear transcription activator, is induced by five triterpenpoids from the ethanolic fragment of Ganoderma Lucidum; ergosterol peroxide , lucidumol A, ganoderic acid TR, ganodermanontriol, and ganoderiol F.[163] General Lucidum extracts at 100ug/mL were able to induce FXR to 150% the level of the active control, CDCA (Chenodeoxycholic acid), whereas the 5 isolated triterpenoids at 10uM were similar in potency to CDCA at 25uM (with ganodermanontriol causing the highest increase, and erogsterol peroxide having the lowest EC50 of 0.85uM).[163] As the FXR monomer can activate GLUT4 vesicles,[164] this mechanism of action may play a role in the anti-diabetic effects of Ganoderma.
 
+
 May activate FXR, which has potential relations to glucose uptake in cells
+
 
 10.3
 
@@ -613,7 +667,9 @@ Via the ability of triterpenoids to inhibit the aldose reductase enzyme, Ganoder
 
 In diabetic mice, Ganoderma polysaccharides have been shown to reduce morphological damage to kidney tissue and exert a protective effect on kidney tissue.[168] This protective effect may extend to the pancreas[158] and has once been implicated in rats to reduce progression of type 1 diabetes via modulating the immune response, although the study has not been replicated.[169]
 
+
 Shows potential to aid in wound healing, eye health, and kidney harm induced from Diabetes type II; either secondary to reducing blood glucose or via separate mechanisms (anti-inflammatory, aldose reductase)
+
 
 11.
 
@@ -641,7 +697,9 @@ Prostate
 
 The triterpenoids in Ganoderma possess 5α-reductase inhibitory potential, inhibiting the conversion of testosterone into dihydrotestosterone (DHT)[182] and a triterpenoid concentrated ethanolic extract (10-50mg/kg) in rats can reduce the effects testosterone has on prostate growth with a potency between B-sitosterol (stronger than) and Finasteride (weaker than).[147] While the water extract had an IC50 of 0.29mg/mL, the ethanol extract was found to have an IC50 of 0.01mg/mL in inhibiting testosterone-induced prostatic growth in vitro (Finasteride had an IC50 of 1.06mcg/mL).[147] A complete recovery of urine flow (impeded during prostatic hypertrophy) was seen with 50mg/kg bodyweight, although beyond that there was no significant difference between the doses of 20 or 50mg/kg in rats[147] and this increase in urine flow rate has been seen after 6mg ethanolic extract in men with slight-to-moderate lower urinary tract symptoms.[148] Effects in these studies kicked in 2-4 weeks after the beginning of ingestion.
 
+
 May reduce prostatic size secondary to anti-androgenic effects, and increase urinary flow rate in instances of benign prostatic hyperplasia
+
 
 13.
 
@@ -655,7 +713,9 @@ Ganoderma appears to be a highly popular anti-cancer herb in the China area, as 
 
 In the year of 2002, global production of Ganoderma Lucidum was estimated at 4700 tons; with 3800 tons being made in China.[184]
 
+
 People like this mushroom for rehabilitative cancer treatment. No indication whether this is due to social renown or efficacy however
+
 
 13.2
 
@@ -663,7 +723,9 @@ General Cytotoxicity Overview
 
 Ganoderma Lucidum has been demonstrated to induce apoptosis (cell death) in a remarkably wide amount of cells. It has been demonstrated to show in vitro efficacy in:
 
-Murine Leukemia cells (L1210)[185]Human Leukemia HL-60[178][186][187]Other human Leukemia cell lines Blin-1, U937, K562, Nalm-6, and RPMI8226[188][187]Lung Carcinoma cells[189][190] with regard to the PG line[191][192]Small cell lung carcinoma NCI-H69 and Multidrug resistant strain VPA[193]Mouse reticulocyte sarcinoma L-II[194]Murine sarcoma Meth-A[185]Murine S180[194][195]Human liver cancer cells (hepatoma) PLC/PRF/5, HepG2, HepG3, Huh-7 and SMMC7721[66][196][196][177][190]Breast cancer cell lines MDA-MB-123,[72] MCF-7,[149] T-47D,[195] and MT-1[197][198]Prostate cell line PC-3[199][200]Human Cervix tumor HeLa[190][188]Bladder (low-grade) cell line MTC-11[201]Uroepithelial cancer cell HUC-PC[202]Colon cancer cell lines HT-29[203] and SW480[204]At least in vitro (not in a living creature), various mixtures of Ganoderma Lucidum appear to be able to induce tumor cell death. This seemingly broad and non-specific anti-cancer mechanism of action is not limited to one bioactive molecule. Triterpenoids (Ganoderic acids and alcohols, as well as Lucidenic acids) polysaccharides (regular, and selenium containing ones) and peptidoglycans have all been implicated
+Murine Leukemia cells (L1210)[185]Human Leukemia HL-60[178][186][187]Other human Leukemia cell lines Blin-1, U937, K562, Nalm-6, and RPMI8226[188][187]Lung Carcinoma cells[189][190] with regard to the PG line[191][192]Small cell lung carcinoma NCI-H69 and Multidrug resistant strain VPA[193]Mouse reticulocyte sarcinoma L-II[194]Murine sarcoma Meth-A[185]Murine S180[194][195]Human liver cancer cells (hepatoma) PLC/PRF/5, HepG2, HepG3, Huh-7 and SMMC7721[66][196][196][177][190]Breast cancer cell lines MDA-MB-123,[72] MCF-7,[149] T-47D,[195] and MT-1[197][198]Prostate cell line PC-3[199][200]Human Cervix tumor HeLa[190][188]Bladder (low-grade) cell line MTC-11[201]Uroepithelial cancer cell HUC-PC[202]Colon cancer cell lines HT-29[203] and SW480[204]
+At least in vitro (not in a living creature), various mixtures of Ganoderma Lucidum appear to be able to induce tumor cell death. This seemingly broad and non-specific anti-cancer mechanism of action is not limited to one bioactive molecule. Triterpenoids (Ganoderic acids and alcohols, as well as Lucidenic acids) polysaccharides (regular, and selenium containing ones) and peptidoglycans have all been implicated
+
 
 In regards to mouse studies, injections of the water-soluble polysaccharide (GL-1) can inhibit 95-98% of transplanted sarcoma 180 tumors in mice.[205] And similar results have been reported on S180 cells with injected glycoproteins at 50mg/kg bodyweight with 88% inhibition rates and full regression in a third of test animals.[206] These effects have been noted with low dose injections of 2mg/kg bodyweight with lower potency (74%) with 30% of animals showing complete regression, and daily oral administration had a lesser potency of 45-63% inhibition, and was seen in two trials feeding rats oral water-soluble Reishi extract.[3] Finally, oral administration of 2.5% Ganoderma Lucidum to the diet of mice resulted in inhibition of S180 tumor carrying mice as well as mammary tumors (MM-46).[48]
 
@@ -675,7 +737,9 @@ Reductions of count and size of hepatoma (HepG2) liver tumors up to 99% have bee
 
 For colon cancers, preloading of a hot water extract can reduce the development of aberrant crypt foci and precancerous lesions in rats[211][212]
 
+
 Mouse studies appear to be mimicking the anti-cancer effects seen in vitro, and a good deal of them are done in a rehabilitative/therapeutic manner as well. Only problem appears to be studies randomly using different fragments of Ganoderma Lucidum, which makes there surprisingly little replication done amongst the large amount of animal studies
+
 
 13.3
 
@@ -695,7 +759,9 @@ One recent human intervention noted that Ganoderma water-soluble extract (1.5g d
 
 One study in lung cancer patients given a blend of Reishi known as Ganopoly (Polysaccharides) found increases in T cells, NK cells, and CD4/CD8 after treatment, and reported back 65% of patients having greater well-being.[217]
 
+
 Surprisingly little human studies on people with cancer. The colon cancer study looks incredibly promising, but the latter two studies use the same protocol and dosage yet come up with slightly different conclusions. More replication and trials will be needed
+
 
 14.
 
@@ -719,7 +785,9 @@ Soy Isoflavones, particularily Genistein, has been created using Ganoderma as a 
 
 In a larger scale study[220] using 5g of the above supplement daily (900mg total isoflavones, 3g polysaccharides) this case study was not replicated, and only 1 patient out of 52 had significant reduction of prostate specific antigen (PSA) of 61% over 6 months. 35 patients continued progression of prostate cancer while 8 were stable and 9 regressed slightly between 3-19% reductions.[220] The patient with a 61% reduction was the only one noting a significant reduction in serum testosterone after 3 months, dropping from 3.3ng/mL to 1.94ng/mL whereas other persons experiencing minor regression merely fluctuated randomly.
 
+
 This supplement has been reported to (for lack of a better term, despite being inaccurate) cure prostate cancer, but attempted replication suggests it was rare. There appears to be some thing with some people that makes them respond to this combination supplement more, and that thing is currently unknown but may be related to reductions in testosterone
+
 
 15.2
 
@@ -760,5 +828,7 @@ Case Studies
 Two case studies associate powdered Ganoderma with hepatotoxic effects.[223] The subject was a 47 year old women with schizophrenia using lithium,
 perphenazine, and trihexyphenidil and who had been using traditionally boiled Lingzhi slices for several years with no effects, but developed hepatitis after 2 months of taking a 400mg powdered capsule.[223] There was necrosis of the liver cells (+70%) noted, and this is not observed with any of her other medications.[223] The other case study[224] was in a 78 year old chinese woman using felodipine for 2 years and had reported usage of Ganoderma via boiling the mushroom (traditional preparation) for up to a year, but switching to a new powdered formulation in the previous 4 weeks who suffered from signs of lethary and anorexia.[224] Neither case study was able to demonstrate causation.
 
+
 The fact that both case studies had boiled Ganoderma Lucidum for a year or more prior to switching to capsules suggests that Ganoderma is not to blame per se, but not enough evidence exists to rule anything out
+
 

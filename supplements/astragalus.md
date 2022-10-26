@@ -284,7 +284,9 @@ It contains over 126 different components[3], primarily flavonoids, saponins, an
 
 As a herb, Astragalus Membranaceus contains:
 
+
 The bolded ones are probably the ones that are most relevant to know
+
 
 Steroidal Saponins, Astragalosides I through VII, based on the cylcoastragenol backbone.[4][5][6] Astrgaloside IV is at around 1083.14mcg/g dry weight of the root; or 1% of weight, without standardization[7] although higher values have been recorded at 0.8-1.7% and 1.58%; root extracts tend to have a higher percentage than whole plant extracts.[8][9][7]Related compounds known as isoastragalosides, I-III[10][11][12]Astragalus Polysaccharides, two of them known as APS-I and APS-II. APS-I is a carbohydrate chain of arabinose and glucose in a 1:3.45 ratio, and APS-II is a chain of rhamnose, arabinose and glucose in a 1:6.25:17.86 ratio[13]Astragalin, which is actually Kaempferol-3-O-b-Glucoside.[14][4][14] This molecule may be the only bioactive polysaccharide, or at least the most prominent one, in Astragalus Membranaceus[15] and at around 72.46mcg/g (0.073mg/g) dry root extract, and equally dispersed throughout the root and head of the plant.[7]HDTIC isomers[16]Formononectin and related glycosides.[4][17] The glycoside of Formononectin-7-O-b-D-glycoside is also known as Ononin, and 6-acetylononin has also been seen in Astragalus.[4][17][18]Dimethylhomoptercarpin and a glucoside[4][17]Calycosin and related glycosides[4][17] at 33.1mg per kg dried root extract[10]{3R}-7,2'-dihydroxy-3',4'-dimethoxyisoflavan-7-O-beta-D-glucoside; a flavonoid[4][17]Methylinissolin glycosides at 106mg per 1kg dried root, mostly methylinissolin-3-O-b-glucoside[10]Licoagroside D, similar to methylinissolin structurally[10]Isomucronulatol[10][19]Other various, more common, flavonoids like kaempferol, quercetin, isorhamnetin, and rhamnocitrin[20]Vesticarpan[10]Pendulone, a benzoquinone[10]Cyclocephaloside II[21][10]GABA[22]L-canavanine[23]Astrapterocarpan[24]Gluconic Acid[2]An anti-proliferative lectin at 7.8mg per 5g root extract, glycoprotein in structure and relatively heat stable but not acid resistant[25]The lignanoids bifenidate, (+)-Lariciresinol, and (–)-Syringaresinol [20]Choline and Betaine (trace amounts)Nicotinic Acid[20]The main ingredient of Astragalus Membranaceus is one of the Astragalosides, specifically Astragaloside IV. It is a steroidal saponin, but more specifically a cycloartane type triterpenoid glycoside.[26] Its content in Astragalus plants is seen as a standard of quality. Other active ingredients that are noteworthy are the HDTIC isomers, the polysaccharides, and the flavonoids (half of the above list, anything deemed as having a 'glycoside').
 
@@ -306,7 +308,9 @@ Application of 25mg/kg TA-65 was not able to significantly extend lifespan in sa
 
 Unpublished data by TA Sciences suggest that circulating levels of TA-65 reach 1-20nM after 4-8 hours after ingestion of 5-100mg oral TA-65.[28]
 
+
 It seems to be effective in enhancing telomerase and reversing the aging phenotype, but the studies at this moment in time are somewhat confounded (all from sources which could profit) and an empirical enhancement of lifespan has not been shown. No mention whatsoever about the oral bioavailability of TA-65, whereas Astragaloside IV normally has poor (2.2%) bioavailability
+
 
 2.
 
@@ -322,7 +326,9 @@ Unpublished data by TA Sciences (a producer of TA-65, patented Astragaloside IV)
 
 The actual intestinal absorption of Astragaloside IV appears to be passively via a paracellular route, as evidenced by interactions with calcium ions in the intestinal lumen.[36] The high molecular weight paired with paracellular transport may be a reason for it's low bioavailability, and it may be enhanced by compounds that reduce paracellular competition such as chitosan and sodium deoxycholate[36] or perhaps compounds in whole Astragalus, as the whole plant appears to have greater uptake rate than unmodified and isolated Astrgaloside IV.[26] As TA Sciences report a similar bioavailability, it is assumed their proprietary blend contains some modifications for bioavailability.[28]
 
+
 Astragaloside IV appears to have poor bioavailability, around 1.5-2.2%. Effects of Astragaloside IV in vitro would need to be near 1-5nM to be practical after oral administration
+
 
 In regards to the flavonoid content of Astragalus Membranaceus; the compounds that have been found in human urine after consumption are calycosin and formononectin as well as their metabolites (both glucuronide, and calycosin sulfate).[20] Dimethoxypterocarpan-3-O-b-D-glucuronide was also detected in urine, indicating that the parent dimethoxypterocarpan molecule was absorbed; Dihydroxy-2′,4′-dimethoxyisoflavan glucuronides are also detected.[20] This information was derived from a study on a single person whose diet was highly controlled, but the sample size is a major limitation.
 
@@ -330,7 +336,9 @@ This study also noted that there was no detectable serum levels of saponins in t
 
 Coingestion of the plant Angelicae Sinensis Radix may increase the bioavailability of the flavonoids Calycosin and Formononectin.[37]
 
+
 The flavonoid content, as well as glycosides of the flavonoids (this possibly being the polysaccharide content) appears to be absorbed; no evidence on the absolute bioavailability of this absorption though
+
 
 2.2
 
@@ -340,7 +348,9 @@ At this moment in time, only preliminary studies on the pharmacology of Astragal
 
 When an oral dose of 20mg/kg bodyweight (isolated Astragalus IV) is given to rats, various measured parameters are a Cmax of 0.38ug/mL, a Tmax of 0.43 hours, a half-life of 4.65 hours, and an AUC to infinity of 1.06ug/mL/h.[26]
 
+
 Parameters in the blood look fairly normal, with a moderately long half-life; only real limitation with Astragaloside IV is the bioavailability
+
 
 2.3
 
@@ -348,7 +358,9 @@ Distribution
 
 When looking at the volume of distribution at the central compartment, relative to total body water at 0.61kg rats had 0.201/kg and dogs 0.14+/-0.07 l/kg which suggests limited but present availability of Astragalus IV to peripheral tissues.[39] When measuring Astragaloside IV levels in organs after injection, it appears that a limited amount can reach all measured organs (skin, stomach, heart, adipose, skeletal muscle, duodenum, spleen, ovary) with slightly higher levels reaching the lungs and kidneys and very high levels relative to other organs in the liver; minimal amounts of Astragaloside IV reached the brain, suggesting problems in crossing the blood brain barrier.[39] Levels in these organs are high at 60 minutes after intravenous injection, and deplete rapidly to near baseline at 240 minutes after injection.[39]
 
+
 Appears to reach all organs, with more reaching areas that the herb is traditionally used for (lung and spleen) with a predictably high amount in the liver and relatively low amount in the brain
+
 
 2.4
 
@@ -367,7 +379,9 @@ Elimination
 Preliminary pharmacokinetic studies suggest that injection of 0.75mg/kg in rats (0.5mg/kg in dogs) showed that Astragalus had an elimination rate of 3ml/kg/min
 in rats and 4+/-1 ml/kg/min in dogs, which is about 5.43 and 12.9% of hepatic blood ﬂow (respectively) and suggests low systemic clearance.[41][39] Elimination half-lives for rats (at 0.75mg/kg) were 98.1 minutes and 60.02+/-8.39 in dogs, and these results are similar after oral administration of Astragalus in rats.[26] The rate of elimination increases with dosages, as bolus injections of 0.75, 1.5 and 3 mg/kg Astragalus IV lead to elimination half-lives of 98.1, 67.2 and 71.8 minutes; respectively.[39] Interestingly, this trend is reversed in females, with the same ascending dosages leading to elimination half-lives of 34.0, 66.9 and 131.6 minutes.[39]
 
+
 Does not appear to build up in the body, and is excreted both by the urine and by ejection through the liver into the intestines
+
 
 The flavonoid components of calycosin and formononectin appear to be excreted in the urine, although this particular study did not measure fecal excretion.[20]
 
@@ -393,7 +407,9 @@ When investigating the mechanisms of action of HDTIC isomers, it appears they (i
 
 Astragaloside IV has also been implicated in increasing telomerase activity and telomere length after oral ingestion of 5-10mg, so there may be more than one bioactive in Astragalus Membranceus contributing to telomere length.[28] More information on this topic can be read under the heading of TA-65.
 
+
 Whole Astragalus might be better than isolated Astragaloside IV due to bioactivity of HDTIC isomers towards telomere preservation; however, pharmacokinetic or in vivo data on oral HDTIC isomers is lacking
+
 
 4.
 
@@ -415,7 +431,9 @@ It has been noted that the anti-inflammatory effects of Astragalus at doses of 4
 
 It is not known which ingredients contribute towards these effects, but despite limited absorption of Astragaloside IV it may be an active component. By itself, it can reduce damages associated with Ischemia/Reperfusion[56][57] and general neuroprotection.[58] When looking at the anti-stress effects of Astragalus, on a gram per gram basis the extract with more Astragalosides[52] appears to be more potent than standard (1-2%) Astrgalus.[53] The contribution of the flavonoid and polysaccharide fragments are not known.
 
+
 Appears to be neuroprotective and adaptogenic. Probably due to the Astragaloside IV, but it hasn't been shown how the other bioactives contribute to these effects
+
 
 5.
 
@@ -439,7 +457,9 @@ Additionally, Astragaloside IV preserve relaxing stimuli (acetylcholine) during 
 
 Endothelial benefit has been seen in a rat model of metabolic syndrome with injections of 0.5-2mg/kg Astragaloside IV,[64] but has yet to be shown through oral ingestion.
 
+
 Astragaloside IV appears to have potent endothelial protective effects, but it's practical relevance when orally ingested is not known
+
 
 5.3
 
@@ -515,7 +535,9 @@ The flavonoids from Astragalus, Formononectin and Calycosin, appear to interact 
 
 Finally, two other astragalosides (Astragaloside II and Isoastragaloside I) have been shown to increase adiponectin secretion from adipocytes (without affecting adipogenic genes) and, vicariously through this mechanism, improves the glucose parameters of rats who were suffered from metabolic syndrome both by diet and genetically induced models.[94] Adiponectin mRNA increase to 1.2-fold control levels and enhanced the rate of secretion into medium from 80% to 100% at 5ug/mL concentration,[94] and the in vivo experiment was done with a high dose of 50mg/kg bodyweight Astragaloside II + Isoastragaloside I for 6 weeks.[94]
 
+
 Astragalus appears to have the ability to, via adipocytes, improve glucose metabolism and possibly the diabetic state by a variety of mechanisms and compounds. Not much research on how it influences body fat, but it is possible it possesses a pro-obesogenic effect via increasing adipocyte differentiation
+
 
 7.
 
@@ -529,7 +551,9 @@ The flavonoids from Astragalus, Formononectin and Calycosin, appear to interact 
 
 Finally, two other astragalosides (Astragaloside II and Isoastragaloside I) have been shown to increase adiponectin secretion from adipocytes (without affecting adipogenic genes) and, vicariously through this mechanism, improves the glucose parameters of rats who were suffered from metabolic syndrome both by diet and genetically induced models.[94] Adiponectin mRNA increase to 1.2-fold control levels and enhanced the rate of secretion into medium from 80% to 100% at 5ug/mL concentration,[94] and the in vivo experiment was done with a high dose of 50mg/kg bodyweight Astragaloside II + Isoastragaloside I for 6 weeks.[94]
 
+
 Astragalus appears to have the ability to, via adipocytes, improve glucose metabolism and possibly the diabetic state by a variety of mechanisms and compounds. Not much research on how it influences body fat, but it is possible it possesses a pro-obesogenic effect via increasing adipocyte differentiation
+
 
 7.2
 
@@ -567,7 +591,9 @@ This is in contrast to the flavonoid content, as formononectin appears to be abl
 
 Although the steroidal saponin (Astragaloside) content of Astragalus can influence immunity,[107][108] most beneficial effects are secondary to the Astragalus polysaccharide content.
 
+
 Astragalus polysaccharide appears to induce secretion of pro-inflammatory cytokines and stimulate immune cell production when there is no pro-inflammatory insult, but actively prevent large pro-inflammatory signals from acting on macrophages that would induce large spikes of inflammation. There is biological plausibility for Astragalus' claim to be an 'immune system modulator'
+
 
 9.2
 
@@ -599,7 +625,9 @@ Insulin-Like Growth Factors
 
 After administration of HT042 (mixture of Astragalus Membranaceus root, Phlomis umbrosa root, and Eleuthercoccus Senticoccus stem at a 31.2:26.5:42.3 ratio) at 200mg/kg bodyweight daily in 2 divided doses for 3 weeks was found enhance bone length and thickness in adolescent rats, which may be related to higher circulating IGF-1 levels.[118] Astragalus is one of a few herbs traditionally used (in Korea) to enhance growth in youth.[118][119] Astragalus has been shown, in isolation, to increase IGF-1 levels in serum in rats with cerebral degeneration.[120]|published=2007 Feb|authors=Wu HL, Zhou HJ|journal=Zhongguo Zhong Yao Za Zhi]
 
+
 Might increase circulating IGF-1 levels, but needs more research on it
+
 
 10.2
 
@@ -631,9 +659,12 @@ The mechanism of protection seems to be in part anti-oxidative[135] and anti-inf
 
 Astragalus has been associated with increasing diuresis (urination) at an oral dose of 0.3g/kg bodyweight in humans.[138] The mechanism is through enhancing the effects of atrial natriuretic peptide (ANP) on kidney tissue within 4 hours after ingestion, and although the bioactive responsible is unknown it is not Astragaloside IV.[138]
 
+
 Although the effects of Astragalus on protecting the kidneys during disease states appears to be quite potent and reliable, its effects on the kidneys as a preventative medicine at basic oral doses is not known. It seems likely that Astragalus as a supplement would confer protection, but it has not been demonstrated
 
+
 The above notice is prudent as the active ingrient of Astragalus has not been located and polysaccharides, flavonoids, and Astragaloside IV are all suspect; due to low oral bioavailability of Astragaloside IV, low doses of Astragalus may not confer renal protective effects if taken orally yet exert them with intravenous injections
+
 
 12.
 
@@ -661,7 +692,9 @@ Via it's ability to inhibit MMPs, specifically MMP1, astragalus may be able to p
 
 Additionally, the putative components HDTIC-1 and 2 seem to preserve human fibroblast quality and negate the visible effects of aging in vitro at concentrations of 0.1uM and 1uM, respectively.[16] The potency was of HDTIC-2 at 1uM was similar to carnosine at 20mM, while HDTIC-1 at 0.1uM was more effective; protein glycosylation and oxidation was also lower in cells incubated with HDTIC isomers.[16]
 
+
 Via mechanisms that parallel anti-inflammatory mechanisms (MMP-1, NF-kB), Astragalus may protect protect the skin from harmful insults. The best estimate of a topical dose is 0.5% (from skin healing rate studies), and best delivered via a hydrogel with sodium alginate at 1% (with gelatin and 1:100 DimethylSulfoxide:Astragalus for solubility)
+
 
 Interestingly, another component of Astragalus Membranaceus called calycosin (a flavonoid) seems to be able to inhibit melanin pigmentation formation in skin cells by inhibiting tyrosinase;[142] suggesting that calycosin may reduce tan formation and lighten skin.
 
@@ -713,7 +746,9 @@ The combination is also being investigated for stimulating erythropoesis in vivo
 
 In regards to menopausal symptoms (traditional usage of this herb pairing), a 5:1 ratio appears to be synergistic at promoting osteoclast differentiation in vitro, stimulating estrogen signalling in vitro, and at anti-platelet functions.[151] In vitro studies also suggest that the combination is synergistic in regards to promoting endothelial differentiation and DNA expression.[157]
 
+
 One of the more traditionally used combinations with Astragalus Membranaceus; seems to be a fairly prudent combination if it isn't too hard to get a hold of. The traditional preparation and extraction of 5:1 Astragalus:Angelicae with a bit of wine actually appears to be the best scientifically as well, according to one study.
+
 
 14.4
 
@@ -725,7 +760,9 @@ They combination is being looked at for wound healing in diabetics, and the comb
 
 The combination of the two, however, has been found to inhibit both CYP3A4 (IC50 of 0.88mg/mL and Ki of 1.6mg/mL) and CYP2C9 (IC50 of 0.86mg/mL, Ki of 0.57mg/mL).[163] The high Ki values suggest lower potential for adverse herb-drug interactions.[163]
 
+
 The combination of these two herbs in a 2:1 ratio of Astagalus:Rehmanniae appears to be effective in producing angiogenesis in vivo and aids in wound healing
+
 
 14.5
 
@@ -777,7 +814,9 @@ Stephania tetrandra is a plant also from traditional chinese medicine. The two c
 
 The water extract of Astragali was shown to potentiate the effects of Fangchinoline,[171] and later it was found that both formononectin and calycosin (flavonoids from Astragalus) synergistically potentiated the fangchinoline induced release of insulin, although only formononectin was statistically significant.[172] While 3-100mg/kg astragalus had no effect, and 0.3g/kg fangchinoline had no effect, when coingested a dose-dependent effect of astragalus on blood sugar and insulin was seen vicariously through fangchinoline; all effects seen may be secondary to enhancing insulin release.[172]
 
+
 Astragalus may enhance Stephania's effects on blood glucose reduction and insulin secretion, and enhance the anti-diabetic effects of Stephania Tetrandra
+
 
 15.
 

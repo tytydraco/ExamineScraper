@@ -96,11 +96,15 @@ Absorption
 
 Euonymus alatus methanolic extract has inhibitory potential on the α-glucosidase enzyme with an IC50 value of 272µg/mL (in a yeast assay),[18] and of 8 compounds purified from the plant for interactions with the α-glucosidase noted that 6 compounds had more efficacy than the active control Arcabose (IC50 679.7µM) including catechin (119.1µM), quercetin 3,7-dirhamnoside (39.6µM), hyperoside (31.6µM), kaempferitrin (23.0µM), catechin lactone A (71.8µM) and dehydrodicatechin A (102.5µM).[10] Another compound (quercitrin) was found inactive on this assay[10] but has been noted elsewhere to have an IC50 of 38.4 µM.[19]
 
+
 Components have inhibitory potential on alpha-glucosidase, a carbohydrate digestive enzyme
+
 
 When 500mg/kg of Euonymus Alatus (methanolic extract) is given to rats alongside a 1g/kg bolus of starch and having blood measured for the next 4 hours, supplementation was able to reduce the subsequent AUC of glucose by 25.5% relative to starch control;[18] fecal analysis was not performed.
 
+
 Inhibition of starch absorption has been noted to occur in rats following concomitant ingestion of Euonymus Alatus and starch
+
 
 4.2
 
@@ -118,7 +122,9 @@ Mechanisms
 
 Euonymus Alatus (80% methanolic extract) can inhibit NF-kB activation at 10-30ug/mL with an IC50 of IC50 value of 11.83μg/mL, via inhibiting the IKKβ pathway.[21] Anti-inflammatory effects in this same in vitro model (RAW264.7 macrophage activation via LPS) have been noted to occur with all lignan compounds that were not dilignans[7] (although flavonoids and isoprenoids may also be active[4]) and the methanolic extract also appears to inhibit JNK1 (40.6%), JNK2 (28.7%), and JNK3 (32.9%) activation.[21]
 
+
 General anti-inflammatory properties in macrophage stimulation tests
+
 
 At least one study has noted that, without incubation with LPS or another pro-inflammatory insult, that Euonymus Alatus was able to increase NF-kB activity and inflammatory biomarkers vicariously though recombinant IFNγ.[22]
 

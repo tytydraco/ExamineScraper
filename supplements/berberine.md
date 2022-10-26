@@ -430,11 +430,15 @@ Berberine (2,3-methylenedioxy-9,10-dimethoxy-protoberberine) has been used histo
 
 It has shown efficacy against various bacteria strains such as cholera, giardia, shigella, and salmonella; potentially also staphylococcus, streptococcus, and clostridium.[1][2] Its actions against protozoa extend to Giardia lamblia, Trichomonas vaginalis, Leishmania donovani, and Malaria.[3][4][5] Surprisingly, crude extracts are more potent than isolated berberine in these anti-protozoan effects suggesting synergistic or additive effects with other compounds in these plants.[6]
 
+
 Various effects against bacteria and protozoa, which underlies a fair bit of traditional usage of the plants containing Berberine
+
 
 Berberine has been isolated from various plant families including Papaveraceae, Berberidaceae, Fumariaceae, Menispermaceae, Ranunculaceae, Rutaceae, and Annonaceae[7]
 
-(Berberidaceae family) Berberis Aristata (Tree Turmeric or Indian Barberry)[1] at 5% of the roots or 4.2% of stem and bark.[8] The Berberis genera that also includes Berberine include vulgaris (1.24%), petiolaris (0.43%) as well as thunbergii, aquifolium, and asiatica.[1] Other plant sources of Berberine in this family include Caulis mahoniae[8] and Mahonia aquifolium (Oregon Grape)(Ranunculaceae family) Coptis Chinensis (Chinese Goldenthread)[1][9] but higher levels in Coptis teeta (8-9% of the rhizome; Huang-Lian or 'Coptidis Rhizoma')[8] Goldenseal (Hydrastis canadensis) is also in this family and contains Berberine[1] at 0.5-6.0%[10](Menispermaceae family) Tinospora cordifolia stem (Guduchi)[1][11](Rutaceae family) Phellodendron Amurense (Amur Cork Tree, Huang Bai)[1]Appears to be a common alkaloid present in a variety of plant families, and most of these plants have traditionally been used for digestion or glucose/diabetes related issues in traditional medicine
+(Berberidaceae family) Berberis Aristata (Tree Turmeric or Indian Barberry)[1] at 5% of the roots or 4.2% of stem and bark.[8] The Berberis genera that also includes Berberine include vulgaris (1.24%), petiolaris (0.43%) as well as thunbergii, aquifolium, and asiatica.[1] Other plant sources of Berberine in this family include Caulis mahoniae[8] and Mahonia aquifolium (Oregon Grape)(Ranunculaceae family) Coptis Chinensis (Chinese Goldenthread)[1][9] but higher levels in Coptis teeta (8-9% of the rhizome; Huang-Lian or 'Coptidis Rhizoma')[8] Goldenseal (Hydrastis canadensis) is also in this family and contains Berberine[1] at 0.5-6.0%[10](Menispermaceae family) Tinospora cordifolia stem (Guduchi)[1][11](Rutaceae family) Phellodendron Amurense (Amur Cork Tree, Huang Bai)[1]
+Appears to be a common alkaloid present in a variety of plant families, and most of these plants have traditionally been used for digestion or glucose/diabetes related issues in traditional medicine
+
 
 1.2
 
@@ -450,7 +454,9 @@ Berberine Complexes
 
 Berberine can complex at a 1:1 ratio with the flavonoid baicalin (and to a degree, wogonoside),[13] the complex of which can be formed when Radix Scutellariae and Rhizoma Coptidis (sources of Baicalin and Berberine, respectively) are mixed which occurs in a few Traditional Chinese Medicine combination therapies. It is thought that these complexes (and another Berberine–glycyrrhizin complex) enhance absorption through forming ion-pairs and enhancing fat solubility, where the glucuronide of Baicalin has its carboxylate ion bind to the quaternary ammonium ion of Berberine.[13]
 
+
 Berberine, due to its quaternary ammonium ion, can form complexes with other compounds also present in Chinese herbal decoctions; these may have different properties or absorption than Berberine per se
+
 
 1.4
 
@@ -460,7 +466,9 @@ A related protoberberine compound, Dihydroberberine, appears to have similar eff
 
 Dihydroberberine is also found naturally occurring in some plants (such as Arcangelisia flava[16] and Coptidis Chinensis[17])
 
+
 Dihydroberberine, although less studied than Berberine itself, appears to be more effective on the main parameter of Berberine inducing AMPK when used in vitro; may merely convert to Berberine in practical situations
+
 
 The synthetic deriviative known as CPU86017 (p-chlorobenzyltetrahydroberberine chloride or Raisanberine) appears to be a novel cardioprotective drug.[18][19]
 
@@ -478,15 +486,21 @@ Berberine appears to be subject to P-Glycoprotein mediated efflux from the intes
 
 Using an analogue that doesn't get subject to P-Glycoprotein (IMB-Y53) it is shown that increasing uptake contributes to further anti-diabetic effects[29] and pairing Berberine with compounds that are known to inhibit P-Glycoprotein (Milk Thistle,[30] Ketoconazole,[31] or d-α-tocopheryl polyethylene glycol 1000 succinate (TPGS)[22]) enhances the biological activity of Berberine.
 
+
 Berberine has low rates of absorption when taken orally due to both being subject to P-Glycoprotein (ejects Berberine back into the intestines) and increasing the activity of P-Glycoprotein (augmenting its own ejection), but absorption is greatly increased when taken with P-Glycoprotein inhibitors such as Silymarin from Milk Thistle.
+
 
 Absorption has also been enhanced with Sodium Caprate, a medium chain fatty acid that increases the size of tight junctions between intestinal cells (increasing paracellular permeability reversibly[32]) and appears to not be associated with adverse structural changes to the intestines when used with Berberine in vivo.[33][34] Sodium caprate is associated with improvements in AUC of Berberine by 28% (100mg/kg Berberine with or without 50mg/kg Sodium Caprate[34]) and appears to be further increased with 100mg/kg Sodium Caprate.[35] Enhanced absorption precedes greater post-absorptive effects, such as enhanced AMPK activation over 4 weeks (50mg/kg Sodium Caprate).[33]
 
+
 Sodium Caprate, an ester of Capric Acid (Decanoic Acid; a constituent of milk fat at 2-3% and Coconut Oil at 10%) appears to enhance absorption via reversibly widening the gaps between intestinal cells and allowing passive diffusion. It is theoretical, but not yet demonstrated, that coingestion of Berberine with food sources of Capric acid could increase absorption of Berberine (and assuming 10% Capric acid content of Coconut oil, it is about 5.5g of Coconut oil for a 150lb human)
+
 
 Due to low intestinal uptake rate, large doses (1g) are associated with constipation.[36] This constipative effect is also due to some properties of berberine in the colon, and can be useful to reducing watery diarrhea at 400mg, four 100mg doses.[37]
 
+
 Low absorption may precede intestinal side-effects with high doses, due to large colonic levels
+
 
 2.2
 
@@ -504,11 +518,15 @@ One experiment with a molecular docking program suggested that CYP2E1, CYP2A6, a
 
 Berberrubine isomers exert the most potent AMPK activation and LDL receptor upregulation among the metabolites, but to a lesser extend than the parent compound Berberine;[41][40] this appears to also apply to the insulin receptor.[41]
 
+
 Berberine can be possibly metabolized into four different metabolites, with all four metabolites both being active on the same mechanisms as Berberine but to a lesser potency
+
 
 In rats, all four metabolites have been detected in serum following ingestion of 40mg/kg Berberine[42] and when measuring Berberine concentrations 3 hours after ingestion (rat liver) most Berberine appears to not be metabolized but a small increase in Thalifendine is noted relative to other metabolites.[43]
 
+
 Berberine appears to be somewhat preserved in the parent form after oral administration
+
 
 After incubation with intestinal bacteria for 7 days (human and rat), no visible metabolism of Berberine by intestinal bacteria was noted and the tested metabolites were similarly not metabolized further; it is thought that intestinal bacteria does not play a role in the metabolism of Berberine.[42]
 
@@ -520,7 +538,9 @@ Orally ingested Berberine (chloride) at 900mg daily for 3 days was metabolized i
 
 One other metabolite has been found, columbamine-2-O-β-D-glucuronide;[43] both Jatrorrhizine and Columbamine can be found naturally occurring in Enantia chlorantha.[45]
 
+
 Most urinary excretion of Berberine appears to be Jatrorrhizine, with all metabolites having at least once been detected in sulfated or glucuronidated form
+
 
 {OLD-IMG-ID:173}
 
@@ -534,13 +554,17 @@ For human studies, three divided doses of 300mg Berberine (900mg total) confirme
 
 Many herbs that Berberine is derived from including Goldenseal[50][51] and Berberis Vulgaris[52] have been shown to inhibit CYP3A4 which is thought to be due to the Berberine content.
 
+
 The inhibitory effect of Berberine on CYP3A4, an enzyme that metabolizes a fair bit of pharmaceuticals (the same one that St.John's Wort inhibits) appears to be relevant
+
 
 Berberine has been shown in vitro to inhibit CYP1A2 (IC50 73.2+/-5.5uM; 24.6+/-1.8µg/mL) and CYP2D6 (7.4+/-0.36uM; 2.49+/-0.12µg/mL), suggesting possibly relevant inhibitory potential on CYP2D6.[46] A later study in humans confirmed biolologically relevant CYP2D6 inhibition by 900mg Berberine (in three divided doses of 300mg) and CYP2C9 was also found to be inhibited.[47] This study failed to note any significant inhibition of CYP1A2.[47]
 
 Berberine has been noted to, in vitro, prevent the induction of a variety of CYP mRNAs and when administered to diabetic mice normalize CYP3A11, CYP4A10, and Cyp4A14[53] which are elevated during experimental diabetes.[54] Berberine also suppressed CYP2E1 in vivo.[53]
 
+
 Various other enzymes appears to be inhibited following oral administration of Berberine to rats or in vitro
+
 
 3.
 
@@ -554,7 +578,9 @@ Adenosine Mono-phosphate Kinase (AMPK) is a nutrient sensor protein that is cent
 
 This increase in AMPK appears to be biologically relevant as it has been found in vivo when rats are injected with 5mg/kg Berberine.[60] 
 
+
 AMPK is induced after Berberine administration, which has been observed in living systems. The regulation appears to be indirect. Mitochondrial uncoupling and a protein known as PKCζ both appear to be involved, but the exact mechanistic pathway it not fully established
+
 
 AMPK activation by Berberine in HepG2 (liver) cells was found to inhibit both cholesterol and triglyceride synthesis with an IC50 value of 15ug/mL and reduced their respective IC50 values of 10.4 and 5.8 μg/ml.[61] These IC50 values are similar to those seen with LDL-C receptor upregulation and occured at similar time points,[62] suggesting that they are tied in to similar mechanistic roots. Although mediated by AMPK, inhibiting MAPK/ERK appears to attenuate the effects.[61]
 
@@ -562,7 +588,9 @@ Injections of Berberine into the brain also decrease Malonyl-CoA; which is incre
 
 This activation of AMPK extends to adipocytes (fat cells), skeletal myocytes (skeletal muscle cell), and the liver; please refer to their respective sections for more information.
 
+
 The indirect activation of AMPK appears to extend to a wide variety of tissues in the body
+
 
 4.
 
@@ -576,7 +604,9 @@ Binding of an agent to the 3' cap of telomeric DNA can interfere with the telome
 
 It is thought that telomerase inhibition of Berberine reaches 50% at 35mM concentration,[72] and expression of hTERT has been suppressed at 100ug/mL in SiHa and HeLa cancer cells.[73]
 
+
 May have telomerase inhibitory potential; of interest mostly to cancer research but with some possible crossover into life extension. Currently no evidence to suggest how this influences lifespan in living models
+
 
 5.
 
@@ -588,7 +618,9 @@ Pharmacokinetics
 
 Berberine appears to cross the blood-brain barrier and reach the brain parenchyma in a dose/time-dependent manner.[74]
 
+
 Berberine can cross the blood brain barrier (BBB)
+
 
 5.2
 
@@ -596,13 +628,17 @@ Adrenergic Neurotransmission
 
 In regards to the Alpha-Adrenergic receptors (molecular targets of yohimbine), Berberine appears to have relatively more affinity for post-synaptic Alpha-1-Adrenergic receptors than presynaptic A2A receptors.[75] It appears to act as a partial agonist and potential competitive antagonist of these receptors, as assessed by platelets,[76] and appears to extend to its molecular class of Berbanes rather than being a unique property of Berberine.[77] Berberine has been found to interact with a binding site on the Beta-2-Adrenergic receptor.[78]
 
+
 Appears to interact with adrenergic receptors; practical relevance unknown
+
 
 Acute administration of Berberine at 5mg/kg injections can raise neural norepinephrine by 31% in mice.[79] Prolonging this treatment for 15 days maintains similar potency (29%), yet increasing the dose to 10mg/kg lessened the increase (12%, not statistically significant).[79] An increase in noradrenaline concent in both the hippocampus and frontal cortex (not striatum) have been noted following oral consumption of 20mg/kg bodyweight in mice, where noradrenaline was increased by 10.8% (hippocampus) and 26.1% (frontal cortex).[80]
 
 Berberine is known to inhibit Monoamine oxidase enzymes with IC50 values of 126uM for MAO-A,[81] and 98.2-98.4uM for MAO-B.[82] These potencies are fairly low and likely not biologically relevant, although a metabolite of Berberine (Jatrorrhizine) has increased potencies on MAO-A and MAO-B with 6uM and 62uM, respectively.[81]
 
+
 Has been shown to increase noradrenaline in mice brains following both injections and oral treatment, serum levels not yet measured
+
 
 5.3
 
@@ -610,7 +646,9 @@ Serotoninergic Neurotransmission
 
 Acute administration of Berberine at 5mg/kg injections can raise neural serotonin by 47% in mice, but chronic (15 day) dosing attenuates the increase to 19% but was preserved (53%) with 10mg/kg injections.[79] Oral ingestion of 20mg/kg in mice increased serotonin levels in the hippocampus (22.8%) and frontal cortex (23.6%) but not striatum.[80]
 
+
 Has been shown to increase serotonin content in some areas of the brains of mice following oral ingestion; serum levels of serotonin following Berberine not yet known
+
 
 5.4
 
@@ -620,7 +658,9 @@ Berberine has been found to inhibit the tyrosine hydroxylase enzyme in PC12 cell
 
 Acute administration of Berberine at 5mg/kg injections can raise neural dopamine by 31% in mice, which increased to 53% over 15 days of administration; no further increase was noted at 10mg/kg injections over 15 days though (31%).[79] Ingestion of 20mg/kg Berberine in mice failed to significantly modify dopamine in the striatum, frontal cortex, or hippocampus.[80]
 
+
 Has been shown to increase dopamine concentration in some areas of the brain following oral administration
+
 
 5.5
 
@@ -634,13 +674,17 @@ Depression
 
 A mouse study using 5mg/kg Berberine (injection) noted time-dependent reduction in immobility time in a forced swim test, indicative of anti-depressive effects.[79] Berberine was also effective at reversing Reserpine-induced depression (which depletes catecholamines), and enhanced the anti-depressant effects of imipramine, tranylcypromine, fluoxetine, and venlafaxine but not trazodone or mianserine;[79] 10mg/kg fluoxetine (an SSRI) and 5mg/kg Berberine abolished the depressive effects in the forced swim test,[79] and the effect of Berberine (5mg/kg) is as effective as 10mg/kg Imipramine.[79] Anti-depressive effects have been noted following oral administration of 10-20mg/kg in mice, but 100mg/kg (human equivalent dose of 8mg/kg) was ineffective; it underperformed relative to 20mg/kg desipramine, but was synergistic with this one as well.[80]
 
+
 Berberine appears to exert anti-depressive effects in mice, and appears to work synergistically with a wide variety of standard anti-depressant drugs; oddly, these effects have been observed at 20mg/kg in mice but not at 100mg/kg in mice (equivalent human doses of 1.6mg/kg and 8mg/kg, respectively) No human evidence, however
+
 
 Oddly, these anti-depressant effects are abolished with injections of 750mg/kg L-Arginine (substrate of which nitric oxide is created) and Viagra (increases nitric oxide in the brain) and was enhanced by inhibitors of nNOS, an enzyme that creates nitric oxide in the brain;[79] this study is duplicated in Medline.[89]
 
 Anti-depressant effects can also be traced back to Sigma receptors, where activation of Sigma receptors σ1 enhances anti-depressive effects and antagonism abolishes the anti-depressive effects.[79][89] Berberine is known as a positive Sigma1 receptor modulator, which is considered a relatively new class of therapeutic options for depression.[90] Sigma receptors are novel intracellular receptors (expressed on the endoplasmic reticulum (ER)[91]) and their activation may modulate glutamingeric signalling such as NMDA.[92] They can regulate calcium signalling at both the level of the ER as well as cytoplasm,[93] and a known naturally occurring ligand for S1 receptors is the hallucinogenic N,N-dimethyltryptamine[94] (not to be confused with Hordenine, N,N-dimethyltyramine).
 
+
 The mechanism of action for Berberine and anti-depression may be via acting as a positive modulator of Sigma-1 receptors (molecular target of the hallucinogen DMT), and enhancing signalling via this receptor; this is likely to occur at rat oral doses of 20mg/kg (preliminary evidence) which correlates to a human oral dose of 1.6mg/kg bodyweight yet may not occur at five-fold the dose (8mg/kg)
+
 
 5.7
 
@@ -648,7 +692,9 @@ Sedation
 
 Although injections of 2-5mg/kg Berberine fail to alter locomotion, 20mg/kg injections can reduce locomotion in mice[79] (same dose not effective after oral administration[80]). This high dose injection also augmented phenobarbitol-induced sleep time, with lower doses ineffective.[79]
 
+
 May have sedative properties at higher doses
+
 
 5.8
 
@@ -664,7 +710,9 @@ Berberine has been found to have inhibitory potential against Acetylcholinestera
 
 In vitro, Berberine can reduce β-Amyloid levels (APPNL-H4 cells) by 47.1+/-11.5% and 49.1+/-13.6% (Aβ40 and Aβ42, respectively) at 5uM with no further benefit at 50uM[99] possibly secondary to stimulating α-secretory activity (311.9+/-7.9% of control) and downregulating β-secretase (55.5+/-11.1%).[99] The downregulation of β-secretase appears to be secondary to ERK1/2 activation by Berberine.[100]
 
+
 May beneficially alter the content of β-Amyloid levels in isolated neurons, which is thought to be therapeutic for Alzheimer's Disease. May also have pro-cholinergic effects via enzyme inhibition (also thought to be therapeutic) at a potency that might be relevant in vivo
+
 
 One rat study using Phellodendron amurense at 100-200mg/kg but with another group injected with 20mg/kg isolated Berberine for 14 days prior to scopolamine injections (anti-cholinergic toxin) was able to attenuate deficits to learning, with an efficacy lesser than 0.2mg/kg tacrine used as active control.[101]
 
@@ -676,11 +724,15 @@ Pretreatment of Berberine in the range of 10nM to 1µM caused dose-dependent cel
 
 Conversely, when PC12 cells (Pheochromocytoma, used to assess survival and differentiation in vitro) are incubated with 6-OHDA (a pro-oxidative metabolite of dopamine that may induce cell death) and subsequently 10-50µM Berberine, Berberine augments 6-OHDA induced neurotoxicity in a dose-dependent manner.[104] The concept of Berberine augmenting PC12 toxicity in the presence of 6-OHDA has been reported elsewhere,[83] and this has been found in response to CoCl2 only when Berberine was applied after the toxin.[102] Pretreatment of a toxin followed by Berberine appears to enhance cytotoxicity, which may be due to Berberine's interaction with the mitochondrial since it interfere with mitochondrial complex I (to activate AMPK[14]) but excessive inhibition of this complex, as is seen with the MPP+ toxin[105] is neurotoxic.
 
+
 There appears to be a protective effect of Berberine when it precedes toxins (preventative), but Berberine applied after the toxin (therapy) appears to have limited evidence to suggest potentiation of toxicity. This may be due to berberine's main mechanism (inhibition of mitochondrial complex I) inhernetly being hormetic and hormesis not being the smartest thing in instances of cellular damage as is seen with pretreatment of a toxin
+
 
 When rats were lesioned with 6-OHDA (metabolite of dopamine used in research to mimic Parkinson's Disease lesions) and then subsequently orally treated with 5 or 30mg/kg Berberine (injections) for 21 days, 30mg/kg but not 5mg/kg was associated with less surviving neurons in the substantia Nigra.[104] This mechanism appears to be common to isoquinoline derivatives such as tetrahydropapaveroline, salsolinol, and TIQs.[106]
 
+
 This adverse effect of Berberine therapy appears to occur in living models
+
 
 5.11
 
@@ -688,7 +740,9 @@ Addiction and Dependence
 
 One study in morphine dependent mice noted that Berberine (50mg/kg injections) was able to partially normalize the reductions in BDNF mRNA, CRF, and TH expression which predisposed morphine-dependent mice to anxiety and depression.[107] The dose of 50mg/kg Berberine was able to normalize anxiety and depression as was 10mg/kg Fluoxetine, with 10-20mg/kg showing a trend to benefit (not statistically significant).[107]
 
+
 May attenuate withdrawal from Morphine, may require high doses to do so; no human evidence nor oral consumption evidence currently
+
 
 6.
 
@@ -700,11 +754,15 @@ Cardiac Tissue
 
 Ischemia-Reperfusion injury in cardiac tissue may be alleviated by Berberine. Rats fed 100mg/kg Berberine daily for 14 days prior to insult (both in vitro testing of cardiac tissue and in vivo testing conducted) Berberine pretreated hearts were associated with preservation of LVDP (75%), LVEDP (29%), +dp/dtma (75%), and −dp/dtmin (69%) without any influence on these parameters per se (without IR injury).[108] Protective effects were noted in vivo as well (LVDP by 9-10% and LVEDP by 40-45%) alongside reduced infarct size and protection from arrythmia; these protective effects are thought to be related to AMPK regulation, with a reduction in AMPK phosphorylation noted in the Berberine IR group.[108] These protective effects have been noted elsewhere with Berberine in diabetic rats[109] and may be related to the structural class rather than being novel to Berberine, as both Coptisine[110] and Palmatine[111] have similar protective effects.
 
+
 May protect cardiac tissue from Ischemia-Reperfusion (oxidative) injury via AMPK, but the regulatory effects on AMPK are atypical of Berberine's other AMPK-related actions
+
 
 In regards to cardiac fibrosis, Berberine has once been noted to form G-quadruplexes with the rat relaxin-1 gene promoter region, which attenuated STAT3 downregulation of Relaxin expression (STAT3 is a negative regulator of Relaxin[112]) to 55% of control (20uM) and indirectly promoted mRNA and protein content of Relaxin.[113] Due to Relaxin's role in preventing cardiac fibrosis,[114] Berberine administration (injections) resulted in less fibroblast activation, collagen synthesis, and extent of cardiac fibrosis.[113] Berberine administration appears to promote relaxin in a dose-dependent manner, with 100uM injections increasing Relaxin more than 2.5-fold relative to baseline, and did not inherently influence STAT3 expression nor did it influence nuclear translocation of STAT3 following activation.[113]
 
+
 May have potential to reduce cardiac fibrosis, but limited evidence with no studies assessing oral Berberine ingestion nor comparison to reference drugs (to assess potency)
+
 
 Berberine has been shown to have Muscarinic (M2) acetylcholine receptor agonist activities, which has been noted in cultured rat cardiomyocytes where antagonists of the Muscarinic receptor but not beta-blockers abolished the benefits on heart tissue contractility.[115]
 
@@ -722,17 +780,23 @@ Beyond modifying the expression of the receptor, activating ERK can also preserv
 
 One study investigating proprotein convertase subtilisin/kexin type 9 (PCSK9; also known as NARC-1 or proprotein convertase 9), an enzyme that degrades the LDL receptor and increases serum LDL as a consequence,[122] noted that Berberine at an oral dose of 10-30mg/kg in rats attenuated the spike in PCSK9 associated with inflammation which was associated with somewhat normalized lipid parameters in blood.[119] PCSK9 is a molecular target connecting inflammation to LDL-C since its expression is positively correlated with inflammation.[123]
 
+
 The LDL receptor (which takes up LDL from the blood and contributes to an LDL lowering effect) can have its degradation attenuated and its synthesis increased by Berberine by two separate mechanisms; this may underlie the recorded reductions of LDL following Berberine administration to humans which has reached up to 25% in 3 months in people with high cholesterol
+
 
 Berberine may inhibit lipid synthesis, secondary to the activation of AMPK seen as the main mechanism of action.[124]
 
 Triglycerides have been noted to be reduced 16% following 1g of Berberine ingestion for 4 weeks[125] and 1500mg daily for 12 weeks in otherwise healthy obese persona has noted a reduction of 23%.[126] A placebo-controlled challenge-rechallenge in people with high cholesterol but who were otherwise at low risk for cardiovascular disease also found a statistically significant lowering of triglycerides during the second rechallenge (but not the first) along with a lowering of LDL-C and raising of HDL-C during both phases when compared to placebo; anthropometric measurements and blood sugar were not effected by berberine, although these patients did not have high blood sugar at the start of the trial.[127] A meta-analysis conducted on diabetics (with concurrently high triglycerides) has noted that the reduction of triglycerides averaged 0.48mmol/L with a CI 0.39-0.57, reaching statistical significance.[128]
 
+
 AMPK activation is a mechanism by which triglycerides can be reduced, which has been reported in humans and appears to be reliable
+
 
 One meta-analysis has been conducted on diabetic persons that also measured lipid parameters as endpoints, and this meta-analysis concluded significant reductions in Triglycerides (0.48mmol/L reduction; CI 0.39-0.57), Total Cholesterol (0.58mmol/L; CI 0.14-1.02), and LDL-C (0.58mmol/L reduction; CI 0.39-0.78) with an increase in HDL-C (0.07mmol/L increase; CI 0.04-0.10) in these diabetic patients;[128] specifics of the meta-analysis can be reviewed in the Glucose Interventions section.
 
+
 Appears to have beneficial effects on lipid parameters in Diabetics
+
 
 6.3
 
@@ -740,7 +804,9 @@ Blood Flow
 
 Berberine is a known vasorelaxant in animals[129][130] and has been used with success in humans.[131]
 
+
 Appears to have vasorelaxing properties
+
 
 It is known that berberine works on the endothelium itself and underlying smooth muscle (mostly the former)[132] and it is thought that berberine may work via ACE enzyme inhibition of the NO-cGMP axis[133] or through α1-adrenergic receptor blocking.[134][75] One study has noted that berberine at 25-200µM is able to inhibit ephedrine and histamine induced aortic contractions in a reversible manner yet failed to inhibit contractions from high potassium or caffeine.[135]
 
@@ -770,19 +836,25 @@ In preadipocytes incubated with 1-10uM Berberine for 3 days during differentiati
 
 Although AMPK is known as the main mechanism of Berberine, it appears that Berberine (3uM) activates an unfolded protein response independent of endoplasmic reticulum stress (vast majority of the time, it is directly linked[145]) which induces activity of CHOP; inhibiting CHOP appears to abolish the reductions in PPARγ and C/EBPα.[146]
 
+
 In preadipocytes, Berberine appears to suppress differentiation and has mixed effects on proliferation; both studies suggest a reduction in the pro-adipogenic receptor PPARγ (which, oddly, is anti-diabetic when activated)
+
 
 In mature adipocytes, a suppression of PPARγ is still noted at 1.25-10uM concentration at both the mRNA and protein level; incubation with 10uM Berberine and PPARγ activators (troglitazone and rosiglitazone) demonstrated that PPARγ in inhibitory and reduced the effects by 70-80%.[143] This inhibitory potential extends to PPARα, but to a lesser degree (40-60%), and Berberine was said to not be a ligand of the PPAR recepetors.[143] This may be related to the aformentioned activation of an unfolding protein response, which induces CHOP activity and suppresses PPARγ and C/EBPα activity; this was noted to also occur in mature adipocytes.[146] The influence of the WNT/β-Catenin pathway has been ruled out.[147]
 
 When cells are taken from diabetic rats (diabetes induced, fed a high carbohydrate diet, then white adipose tissue excised), appeared to reduce TNF-α concentration (-39%) and increase content of all PPAR subsets with the induction of PPARδ and PPARα similar to Fenofibrate and PPARγ similar to Rosiglitazone.[148] These benefits were also seen in another group of rats fed Berberine at 75-300mg/kg for 16 weeks, where both 150 and 300mg/kg outright normalized serum and adipose Lipoprotein Lipase (LPL), serum free fatty acids and TNF-α, and expression of all PPAR subsets and Cyclin T1 (potency was similar to the additive benefits of 100mg/kg fenofibrate and 4mg/kg rosiglitazone).[148]
 
+
 In mature non-diabetic adipocytes, appears to suppress the activity of PPARy (a protein that is pro-adipogenic). In diabetic adipocytes (confirmed in vivo), Berberine can normalize expression of PPARs that is normally suppressed
+
 
 Berberine may have anti-lipolytic effects.[149] This study noted that while Berberine did not influence baseline cAMP levels, stimulation of cAMP via PDE inhibitors was attenuated (not abolished) by Berberine; Berberine lessened the inhibitory effects of other compounds, without inherently inhibiting the enzyme action independently of AMPK.[149] This anti-lipoytic effect has been noted elsewhere in 3T3-LI adipocytes where lipolysis was stimulated by IBMX, forskolin and 8-bromo-cAMP.[150]
 
 Berberine may induce HSL activity (a pro-lipolytic effect) via an AMPK independent manner.[149]
 
+
 Theoretically possible that Berberine can reduce the fat burning effects of PDE inhibitors (luteolin, resveratrol) and forskolin (active ingredient in coleus forskohlii)
+
 
 7.2
 
@@ -792,7 +864,9 @@ In regards to adiponectin, an adipokine (signalling molecule derived from fat ce
 
 It should be noted that studies using Berberine in predifferentiated adipocytes noted less secretion of adiponectin which was the natural consequence of suppressing differentiation.[144] This was also replicated in the aforementioned study on enhancing adiponectin function, with both phenomena occurring at similar concentrations.[154]
 
+
 Appears to enhance the activity of adiponectin, but practical relevance of this mechanism for insulin sensitivity is unknown
+
 
 Berberine is known to enhance glucose uptake into fat cells, and at 25uM concentration it is equally potent as 15uM 2,4-thiazolidinedione (TZD, an anti-diabetic drug, by 3.3 fold) and slightly outperformed both arecoline (3.2 fold) and vanillic acid (2.9 fold), natural products.[156] This study also noted that Berberine acted synergistically with both TZD and Metformin.[156] Berberine has also been shown to be more effective at enhancing glucose uptake than polysaccharides from Astragalus Membranaceus.[157]
 
@@ -802,7 +876,9 @@ Berberine may also inhibit the PTP1B enzyme and promote glucose uptake into adip
 
 Berberine has been found to partly normalize the decrease of glucose uptake induce by palmatate (a fatty acid), which is through anti-inflammatory effects in inhibiting increased activity of IKKβ and NF-kB; which subsequently increase IRS-1 and reduce glucose uptake via the insulin receptor.[162] This anti-inflammatory effect has been noted elsewhere when measuring cytokines,[163] and fatty-acid induced insulin resistance has also been replicated elsewhere related to NF-kB.[164]
 
+
 Multiple mechanisms of increasing glucose uptake into fat cells, despite inhibting their proliferation. Augments insulin-dependent glucose uptake (PTP1B), insulin-indepenendent glucose uptake (AMPK), increasing the affinity of low-activity glucose transporters (GLUT1), and attenuating insulin resistant effects
+
 
 7.3
 
@@ -812,7 +888,9 @@ One study in persons with newly diagnosed metabolic syndrome noted that 300mg Be
 
 Another trial in humans with nonalcoholic fatty liver disease who were given either lifestyle interventions alone, or lifestyle interventions plus 15mg pioglitazone daily or 0.5mg berberine thrice daily for 16 weeks found a significant reduction in BMI of 1.51 in the berberine group compared to a 0.72 reduction in BMI with lifestyle interventions alone; pioglitazone had a reduction similar to lifestyle interventions alone.[165]
 
+
 Not too much evidence in humans, but some studies confirm weight loss with one suggesting a very slight preference for fat loss based on percentages; seemingly more potent in unhealthy persons, no studies in persons of normal weight yet.
+
 
 8.
 
@@ -834,9 +912,12 @@ In regards to alpha-amylase (mediates starch digestion), Berberine has been test
 
 The downregulation of enzyme activity (Maltase and SI complex) appears to be partly PKA dependent, and inhibiting PKA with the inhibitor H89 attenuates (but does not abolish) these effects.[168]
 
+
 Direct inhibition of carbohydrate digestive enzymes appears to be either weak or non-existent. Prolonged treatment of Berberine may cause a reduction in synthesis of the enzymes that mediate sugar absorption (lactose, sucrose, and maltose) with possible but currently unexplored direction inhibition of the enzyme mediating starch absorption
 
+
 Studies that compare the potency of Berberine to the reference drug, Arcabose, suggest that it is slightly (statistically significant) less potent
+
 
 8.2
 
@@ -854,7 +935,9 @@ Other trials on Berberine note that 0.3g thrice a day (900mg total) for 12 weeks
 
 Comparative studies using Berberine note that 1g daily find that it is equally effective at improving measured parameters (usually fasting blood glucose, insulin, HbA1c, and triglycerides) when compared to Metformin[175][173] and Rosiglitazone[173] when they are used within the standard dosage range of 1.5g (Metformin) or 4mg (Rosiglitazone).
 
+
 Appears to be beneficial for blood glucose control in diabetic persons, and the potency of 0.5-1.5g daily does not appear to be significantly different than standard anti-diabetic pharmaceuticals and may be additive
+
 
 9.
 
@@ -868,7 +951,9 @@ Berberine has been shown to stimulate glucose uptake into skeletal muscle[176] p
 
 AMPK activation can increase mitochondrial biogenesis in skeletal muscle cells, which Berberine has been shown to do; the inactivity of Berberine in cells lacking SIRT-1 (a required intermediate) has been established.[178]
 
+
 Appears to increase glucose uptake and mitochondrial biogenesis in muscle cells via AMPK
+
 
 The inhibition of PTP1B, which promotes insulin receptor signalling with an IC50 of 156.9nM,[161] also appears to occur in muscle cells.[158]
 
@@ -876,7 +961,9 @@ Berberine appears to induce glucose uptake into muscle cells by itself whether t
 
 The upregulation of the insulin receptor protein content (amount of insulin receptor expressed on the cell surface) appears to extend to L6 rat myocytes at 7.5uM to 2.5-fold that of control, with significant but lesser benefits noted at 2.5uM.[180] This was due to increasing transcription of the receptor at the genomic level, and is PKC dependent, which Berberine appears to dose-dependently activate.[180]
 
+
 Can enhance both the expression of the insulin receptor and improve its signalling (via PTP1B inhibition), fairly potent at the latter in a nanomolar range. PKC and its subset PKCζ (zeta) appear critical in the potentiation and preservation of insulin signalling as well
+
 
 9.2
 
@@ -886,7 +973,9 @@ Berberine (5mg/kg injections) has been found to induce muscle protein atrophy in
 
 The increase of Atrogin-1 may also be partly mediated by mitochondrial stress, as overexpression of PGC-1a prevents Berberine-induced Atrogin-1 release.[58] Berberine has been found to interfere with complex I of the mitochondria, and augment protein uncoupling (UCP2,3)[60][14] and this interference is the same thing that underlies AMPK activation from Berberine (as well as Metformin).[14][55] When the Myotubes were overexpressing PGC-1α, the decrease in myocyte diameter was abolished as was the increase in AMPK activation.
 
+
 AMPK activation appears to lead to suppressed Myocyte growth, which is mediated by Atrogin-1 induction; overexpression of PGC-1α prevents this, but may abolish the AMPK induction. Abolishing Atrogin-1 reverses suppression into hypertrophy. Limited evidence all around
+
 
 10.
 
@@ -904,11 +993,15 @@ Joint Inflammation
 
 In vitro with synoviocytes (proliferation of which is involved with pathology of Rheumatoid Arthritis), Berberine was able to inhibit cell proliferation at G0/G1 phase (thought to be from reducing mitochondrial membrane potential).[182] In chondrocytes, Berberine was able to attenuate MMP concentrations (seen as being involved in osteoarthritis[183]) and increase TIMP-1 at 25-100uM, which worked against IL-1b actions and exerted an anti-osteoarthritic effect; 50uM showed almost normalization of these levels to control values.[184]
 
+
 Shows mechanisms that could aid both Rheumatoid and Osteoarthritis, moderately potent
+
 
 In a rat model of adjuvant-induced Arthritis, 10mg/kg Berberine (injected) daily 9 days was able to attenuate the paw edema (marker of disease progression) in mice while a shorter supplement time frame of 3 days exerted nonsignificant benefit and irregular injections actually exacerbated paw edema.[185] An acute injection of 50-100uM Berberine into a rat knee three hours prior to inflammatory insult was able to abolish the effects of IL-1b at 100uM Berberine.[184]
 
+
 Highly potent anti-inflammatory effects, but the animal models use injections; not known how oral ingestion affects joint health
+
 
 11.
 
@@ -920,7 +1013,9 @@ Inflammation (General)
 
 Oral ingestion of Berberine for 4 weeks can dose-dependently reduce the serum rise of 8-isoprostane in response to the pro-inflammatory LPS, with oral ingestion of 30mg/kg effectively abolishing the LPS-induced rise in 8-isoprostane.[119] The LPS-induced increase of TNF-α (53-86%), IFN-γ (74-88%), and IL-1α (68-93%) was also attenuated with 10-30mg/kg ingestion of Berberine.[119] An attenuation of these proinflammatory biomarkers has also been noted in response to dextran sulfate sodium (research chemical to induce colitis)[186] and in response to TNBS-induced colitis, where the degree of cytokine reductions following 20mg/kg reached 100% (TNF-α), 78% (IL-1β), and 98% (IL-6) while the levels of IL-10 (reduced to 11% in colitis control) had the reductions attenuated to 53%.[187]
 
+
 Chronic ingestion of Berberine appears to be associated with less inflammation in response to pro-inflammatory stimuli.
+
 
 When looking at the interaction of Berberine and Cyclooxygenase enzymes, Berberine does not interact with COX1 or COX2 at concentrations up to 100uM.[188]
 
@@ -930,13 +1025,17 @@ Macrophages
 
 Acutely, Berberine incubation with RAW264.7 macrophages that are stimulated with LPS (proinflammatory agent) appears to have an IC50 value in inhibiting nitric oxide release of greater than 30uM (weak effect).[189]
 
+
 Has not yet been demonstrated to have effective anti-inflammatory effects in acute studies on macrophages
+
 
 Berberine (10-50uM; concentrations below 75uM are nontoxic[190]) can suppress the activity of a protein known as AEBP1, which prevents the uptake of oxidized LDL by macrophages in a dose-dependent manner and attenuates formation of foam cells (atherogenic deposites of macrophages).[139] Suppressing AEBP1 leads to less expression of the scavenging receptors LOX-1 and CD36 and less influx of oxidized LDL (which promotes foam cell formation); CD68 was unaffected by Berberine.[139] Suppression of LOX-1 and another scavenger receptor, SR-BI, were noted to nearly control levels at 5-10mg/L Berberine over 24 hours incubation with no effect on ABCA1.[191]
 
 This inhibition of oLDL uptake may also prevent other consequences of oLDL uptake, such as MMP9 secretion and NF-kB activation in macrophages.[190]
 
+
 May prevent macrophages from becoming foam cells, which is a consequence when they absorb oxidized LDL (an acutely protective effect, but over time makes the foam cells themselves become plaque in arteries)
+
 
 11.3
 
@@ -946,7 +1045,9 @@ Berberine at 10-20mcg/mL concentrations in vitro appears to slightly enhance T-c
 
 Berberine appears to be an selective inhibitor of JAK3 with 20-fold more affinity for JAK3 than JAK2 (with no apparent affinity for JAK1),[192] the JAK3/STAT pathway being one that induces a fair bit of inflammation from cytokines in models of arthritis and mediates immunology (inhibition of which is a novel class of immunosuppressants).[193][194] Berberine can inhibit IL-2 induced signalling via JAK3 with an IC50 of 3.78µM and the IC50 on JAK2 was 80µM, and in vitro at 3µM Berberine nuclear activity of JAK3 (via STAT5) is mostly undetectable.[192] The mechanism of inhibition appears to be from blocking JAK3 kinase activity at the ATP-binding site.[192]
 
+
 May mediate immunosuppression via being a selective JAK3 inhibitor
+
 
 11.4
 
@@ -968,7 +1069,9 @@ In cancer cells, Berberine has been at times noted to induce apoptosis secondary
 
 In other cells, Berberine appears to attenuate inflammation-dependent ER Stress in endothelial cells where apoptotis was 95% reversed at 20uM[202] and was noted to suppress the induction of GRP78/BiP (correlated with ER stress) and less caspase-3 (released from mitochondria after stress to induce apoptosis).[202] HepG2 (liver) cells have also noted an attenuation of ER stress,[203] and a study in mouse macrophages incubated with HIV has also noted a dose-dependent reduction of ER stress.[204] 
 
+
 There appears to be regulatory aspects of Berberine on the the endoplasmic reticulum, inducing oxidant stress in cancer cells while attenuating oxidant stress under some conditions in healthy cells. Exact mechanisms mediating this regulation not yet characterized
+
 
 12.2
 
@@ -976,7 +1079,9 @@ Lipid Peroxidation
 
 In an ex vivo assay of lipid peroxidation, Berberine inhibited lipid peroxidation directly with an IC50 of 72μM, and was found to be active in TNBS-induced colitis in reducing lipid peroxidation in the colon.[187] Lipid peroxidation has also been shown to be reduced in the β-cells of the pancreas following oral ingestion of 150-300mg/kg bodyweight.[205]
 
+
 Appears to be a direct anti-oxidant, but is quite weak at directly preventing lipid peroxidation; appears to be much more potent in living systems, and possibly not mediated by direct effects
+
 
 13.
 
@@ -988,7 +1093,9 @@ Testosterone
 
 Due to interactions with CYP3A4 (inhibition of which may increase testosterone) and CYP1A2 (Aromatase),[46] it is theoretical that Berberine may increase circulating testosterone levels; this is currently untested in living systems.
 
+
 Theoretical testosterone boosting properties that are currently not demonstrated
+
 
 13.2
 
@@ -1022,7 +1129,9 @@ Berberine also seems to supress the expression of certain proteins which are ant
 
 Another possible mechanism of berberine's efffect on cancer is via JAK3 selective inhibition, as at least one study has noted that berberine could decrease viability in cancer cell lines overexpressing active JAK3 (Ba/F3-JAK3V674A and L540) while not having a significant effect in other cell lines (HDLM-2 and DU145) at the same concentration of 3uM.[192]
 
+
 Several plausible molecular mechanisms exist which suggest berberine may have anti-cancer effects.
+
 
 14.2
 
@@ -1040,7 +1149,9 @@ The migration of a human tongue squamous cell carcinoma line has been shown to b
 
 Injection of berberine into a mouse model of metastatic melanoma inhibited tumor nodule formation; the mechanism for this was an associated downregulation of matrix metalloproteases by negatively regulating ERK1/2.[218]
 
+
 In vitro studies as well as one in vivo mouse model study suggest that berberine may exhibit anti-metastatic effects.
+
 
 14.4
 
@@ -1050,7 +1161,9 @@ Autophagy is the process a cell undergoes to degrade cellular components and to 
 
 Berberine has been shown in vitro to induce autophagic cell death in human liver cancer cells through the distinct increase in Beclin-1, which is one of the main proteins involved in this pathway, as well as an inhibition of mTOR (through MAPK activation and AKT inhibition), which is one of the main regulators of this pathway.[220] Berberine, at least when combined with radiation, has been shown to induce autophagic cell death in lung carcinoma cells, which also led to tumor shrinkage in a xenograft mouse model.[221] 
 
+
 In addition to inducing classical apoptosis, beberine also may induce autophagic cell death in some cancer cell lines.
+
 
 14.5
 
@@ -1116,13 +1229,17 @@ Glucose Interactions
 
 In regards to hepatic gluconeogensis (the production of glucose from non-glucose sources; tends to be drastically increased in the state of diabetes which contributes to elevated fasting glucose) Berberine at high doses (380mg/kg daily) for 5 weeks in diabetic rats is able to reduce the activity of the two rate-limiting enzymes in hepatic gluconeogenesis (PEPCK and G6Pase), which was not related to an increase in insulin (normally suppressive of these two genes).[236] This appeared to be related to normalization of FOXO1 activity, which was increased in diabetic rats,[236] and both the protein content and mRNA (genomic transcription) have been noted to be reduced.[33]
 
+
 Appears to suppress hepatic gluconeogenesis in diabetic rats, a mechanism that would reduce endogenous glucose production and may confer anti-diabetic effects
+
 
 In human liver cells (in vitro study), 10mcg/mL over 12 hours can cause an increase in insulin receptor content in hepatocytes; this also extends to other tested cell lines (pancreatic, colon, lymphocyte, fibroblast) between a 1.6 to 1.9 fold increase[173] and appears to work in a PKC dependent and dose-dependent manner.[180] Insulin signalling has also been found to be enhanced secondary to reducing endoplasmic reticulum stress,[203] which is secondary to the insulin receptor.
 
 When tested in CEM cells, coincubation of 0.5nM insulin with 10mcg/mL Berberine induces Akt activation to the same degree as 10nM insulin.[173]
 
+
 Appears to enhance the signalling of insulin in liver cells, both at the receptor level as well as after the receptor.
+
 
 15.2
 
@@ -1134,7 +1251,9 @@ Berberine has been found to reduce the expression of SREBP2 in hepatocytes,[237]
 
 Berberine can attenuate the increase in SREBP1 and ChREBP activity, and lessened activity of these two proteins resulted in less activity of Fatty Acid Synthase (FAS) mRNA level which may underlie fatty liver therapeutic potential.[236]
 
+
 Appears to preserve fatty acid and cholesterol metabolism of the liver during states of inflammation and diabetes
+
 
 One clinical trial in humans with nonalcoholic fatty liver disease who were given either lifestyle interventions alone, or lifestyle interventions plus 15mg pioglitazone daily or 0.5mg berberine thrice daily for 16 weeks found a significant reduction in total cholesterol in the berberine group compared to lifestyle interventions alone and lifestyle changes plus pioglitazone (-0.52mmol/L versus -0.12mmol/L and -0.11mmol/L respectively) primarily due to triglyceride-lowering, with no significant differences in LDL or HDL between the three groups..[165] Another study found improvements in people with the metabolic syndrome, where 0.5g of berberine three times a day for three months resulted in improved triglycerides versus placebo (2.4mmol/L placebo vs. 1.4mmol/L berberine), with no effect on HDL-C.[174]
 
@@ -1146,7 +1265,9 @@ Not too many studies have looked at Berberine as it pertains to liver fibrosis, 
 
 One comparative study that induced liver fibrosis in rats with CCL4 injections, Bile Duct Ligation, or alcohol induced fibrosis noted that Berberine (120mg/kg) given therapeutically for 7 weeks noted that Berberine exerted protective effects against all three models; compared to 20mg/kg Tauroursodeoxycholic acid (TUDCA from bear bile) and 150mg/kg Silymarin (Milk Thistle bioactive) Berberine was the most potent against CCL4 fibrogenesis (54% reduction of fibrotic area) and Bile Duct Ligation (57%) but least effective against alcohol (35%, where TUDCA and Silymarin reached 73% and 48%).[241]
 
+
 In regards to Fibrosis specifically, Berberine has fairly potent anti-fibrotic effects comparable to both Milk Thistle and TUDCA, which is fairly remarkable since those two are highly regarded liver health supplements
+
 
 15.4
 
@@ -1154,7 +1275,9 @@ Liver Enzymes
 
 Studies that assess liver enzymes note that Berberine can attenuate the increase in liver enzymes seen with streptozotocin-induced diabetes (380mg/kg for 5 weeks)[236] and CCL4 injections (hepatotoxin) by up to 57% (ALT) or 56% (AST) with 200mg/kg Berberine but 50mg/kg also having a significant effect[239][241] and 400mg/kg being the highest reported oral dose in rats which still follows a dose-dependent reduction of liver enzymes.[240]
 
+
 When looking at the biomarker of liver enzymes (higher levels in serum are indicative of their release from liver cells which were damaged, and thus correlated with liver damage), Berberine appears to confer protection to liver cells in a very general manner but not overly potent, but appears to be highly dose-dependent against CCL4
+
 
 One clinical trial in humans with nonalcoholic fatty liver disease who were given either lifestyle interventions alone, or lifestyle interventions plus 15mg pioglitazone daily or 0.5g berberine thrice daily for 16 weeks found a significant reduction in AST and ALT in the berberine group compared to lifestyle interventions alone.[165] There was no difference between the berberine and pioglitazone groups.
 
@@ -1166,7 +1289,9 @@ Berberine has been found to mitigate nonalcoholic fatty liver disease (NAFLD) al
 
 Success in animals led the researchers to examine the effects of berbirine on NAFLD in humans. People with NAFLD were randomized to receive one of three treatments: lifestyle interventions alone, or with 15mg pioglitazone daily or 0.5g berberine thrice daily for 16 weeks.[165] Adding berberine to lifestyle interventions lowered liver fat content by 17.4% versus 11.4% for lifestyle interventions alone, which was a statistically significant difference.[165] The difference between berberine and pioglitazone was of barely insignificant (p = 0.054).[165] The dose of pioglitazone used in the trial was the lowest usual dose for the drug.
 
+
 One clinical trial in humans with nonalcoholic fatty liver disease showed that adding berberine to lifestyle interventions decreased fat content of the liver significantly, to an extent similar to the drug pioglitazone at its lowest usual dose.
+
 
 16.
 
@@ -1192,7 +1317,9 @@ Ulcerative Colitis (UC) is an Inflammatory Bowel Disease but a condition indepen
 
 TNBS (2,6,4-trinitrobenzenesulfonic acid) is a research toxin that replicates colitis via disturbing the immune system in the intestines, and Berberine has repeated evidence for protecting from TNBS induced colitis at a dosage range of 15-100mg/kg bodyweight,[249][187][250] with one noting significant benefit at a dose as low as 5mg/kg (for a 150lb human, 55mg).[251] Studies using Dextran Sulfate (DSS), another colitis producing toxin, reproduce these protective effects where 100mg/kg Berberine Chloride for 5 days after DSS where the increases in TNF-α, IFN-γ, KC, and IL-17 (protein content and mRNA) were all markedly reduced to near control levels, associated with less macrophage activity (inflammatory secretion and response to LPS).[186] These rehabilitative effects on colitis have been replicated at doses as low as 10-40mg/kg in another study, where 10 days of supplementation confered marked protection on inflammatory parameters measured.[252]
 
+
 Repeated rat studies on Colitis, which suggest that Berberine has remarkable protective effects at fairly low oral doses (as the low absorption rate of Berberine requiring higher doses is no longer required as Berberine does not need absorption to reach the colon)
+
 
 16.4
 
@@ -1218,7 +1345,9 @@ In regards to the beta cells (β-cells) of the pancreas, which secrete insulin, 
 
 Acutely, incubations of Berberine with 0.5mM Palmitate (known to damage these cells via lipotoxicity) is dose-dependently reduced between 0.1-1uM concentrations of Berberine.[255] Protection against lipotoxicity and preservation of insulin secretion during lipotoxicity has been noted elsewhere,[150] and the reduction in insulin receptor expression that occurs during a high fat diet (rodents) appears to not occur when 200mg/kg Berberine is ingested.[256]
 
+
 β-cells of the pancrease appear to both be protected from stressors as well as have their regenerative rates enhanced by Berberine, to a potency similar to the anti-diabetic drug Rosiglitazone
+
 
 Incubation of normal pancreatic β-cells may slightly (nonsignificantly) increase glucose-stimulated insulin secretion (GSIS) in HIT-T15 cells,[255] with statistical significance being reported elsewhere at 1-10mM (HIT-T15 cells)[257] and up to 50mM (MIN6 cells).[258] This effect has failed to be reported in the βTC3 cell line.[259]
 
@@ -1226,7 +1355,9 @@ One study noted that incubation of Berberine in MIN6 caused somewhat regulatory 
 
 Berberine can activate AMPK in pancreatic cells, which does not appear to suppress GSIS; Berberine appears to suppress GSIS via cAMP.[150] cAMP is elevated by activation of PKA, which is sensitive to calcium influx into β-cells[260][261] or directly by intracellular Ca2+ mobilization.[262] These interactions, seemingly independent of AMPK, may be related to Berberine being an agonist of the GPR40 receptor (induces calcium mobilization upon activation) with an EC50 of 0.76mM.[263]
 
+
 For the most part, Berberine appears to induce glucose-dependent insulin secretion from pancreatic cells, which may be due to regulating cAMP-induced insulin secretion. This might be related to being an agonist of the GPR40 receptor, a novel anti-diabetic effect
+
 
 The protein content of the insulin receptor itself may be increased on pancreatic cells at 10mcg/mL in as little as 12 hours in vitro.[173]
 
@@ -1248,7 +1379,9 @@ Other possible mechanisms of protection to the kidneys that do not appear to be 
 
 These protective effects may extent to non-diabetic kidneys, as evidence by a study in diet-induced hypertensive rats that recieved renal protection.[280]
 
+
 Berberine appears to be effective in disconnecting the adverse effects of high blood glucose on the kidneys, and is most well studied in preventing the fibrotic progression of diabetic nephropathy; this appears to be related to anti-inflammatory mechanisms of action
+
 
 Berberine has been implicated as having antiurolithic effects (reducing kidney stones),[279] due to one of the herbs it is derived from (Berberis Vulgaris) being used traditionally for this purpose.[281] Berberine was found to have slight diuretic effects between the oral doses of 5-20mg/kg (up to 78%) while increasing urinary sodium and potassium but reducing calcium (similar to hydrochlorothiazide).[279]
 
@@ -1268,7 +1401,9 @@ In isolated corpus cavenosum smooth muscle cells, Berberine at 10-1000uM concent
 
 This study[287] noted that Paparvine (Papaver somniferum) as active control was more potent acutely, but Berberine appeared to increase penile tumescence for a longer duration of time (reviewed here).[290]
 
+
 Appears to have pro-erectile effects, which appear to be nitric oxide mediated and long lasting; no studies in living systems that use oral administration (only a direct injection) and practical relevance of the above is unknown
+
 
 17.7
 
@@ -1286,7 +1421,9 @@ Polycystic Ovarian Syndrome
 
 Polycystic Ovarian Syndrome (PCOS) is a condition affecting women that is commonly associated with insulin resistance, where Metformin is a common pharmaceutical to control side-effects. One trial alongside standard therapy (antiandrogens and estrogen) that compared Berberine and Metformin (both at 1500mg in three doses) against placebo over 3 months noted that Berberine was associated with the largest reduction in waist circumference (despite no significant differences in weight) yet no significant differences existed between measures of insulin resistance, blood glucose, or insulin with both being better than placebo.[293]
 
+
 Limited evidence, but may be as effective as Metformin for reducing biochemical symptoms of PCOS
+
 
 18.2
 
@@ -1308,7 +1445,9 @@ Metformin (2.7 fold uptake at 15uM) and Berberine (2.9 fold at 20uM) show additi
 
 Metformin and berberine have the potential to interact with each other through interaction with the organic cation transporters 1 and 2; berberine has been shown to inhibit these proteins, which are one of the major ways cells take up metformin in circulation, which could in theory limit the effects of metformin.[296] Indeed, AUC and plasma levels of metformin were higher after an IV bolus of metformin coadministered with berberine in rats.[296]
 
+
 Of comparable anti-diabetic potential to Metformin (although less studied than Metformin), and may be either additive or synergistic based on some preliminary in vitro evidence. However, cell uptake of metformin may be limited by berberine due to blockade of organic anion transporters, which could in theory limit the efficacy of metformin. More evidence is needed to explore the clinical effects of this interaction.
+
 
 19.2
 
@@ -1316,7 +1455,9 @@ Statins
 
 Berberine by itself is implicated in reducing cholesterol levels by up to 25% in persons with high cholesterol, which is though to be through upregulating and preserving the expression of the LDL receptor (which takes up LDL from the blood into tissues).[62] Berberine has been implicated in attenuating increases of PCSK9 (a protein that suppresses expression of the LDL receptor)[119] which may disconnect the side effect of high cholesterol from conditions that induce PCSK9 activity; this includes inflammation[123] (leading to it being referred to as 'the next statin' by some[297]) and statin drugs, where the induction of PCSK9 appears to limit the statin's own ability to reduce cholesterol.[298][299][300] and as such the combination of statin drugs and berberine for the purpose of lipid and cholesterol reduction appears to be synergistic.[301]
 
+
 Statin drugs reduce circulating lipids and cholesterol, but over time may induce the activity of a protein known as PCSK9 that suppresses the LDL receptor and curbs further benefits; Berberine inhibits this protein induction, and can both exert cholesterol reducing effects itself and may prolong the benefits of statin drugs on cholesterol
+
 
 19.3
 
@@ -1326,9 +1467,12 @@ The combination of Berberine (usually 500mg), Red Yeast Extract (3mg) and Polico
 
 Despite this combination being used very frequently, the one study to compare the combination against Berberine in isolation suggest that most benefit is secondary to Berberine rather than a possible synergistic relationship.[125]
 
+
 The combination of the three appears to be used frequently, most likely not synergistic and the observed benefit seems to be mostly related to Berberine itself
 
+
 It should be noted that Policosanol tends to be marketed as a cholesterol lowering agent with statin-like mechanisms, which tie into the evidence in the former section on PCSK9; however, Policosanol itself may not be a suitable choice for this due to geographical issues with the research that need to be elucidated (can be read up on the Policosanol page). Red Yeast Extract is a naturally occurring source of Lovastatin[306]
+
 
 19.4
 
@@ -1336,7 +1480,9 @@ Sodium Caprate
 
 Sodium Caprate (decanoic acid or capric acid, bound to sodium) a fatty acid found in coconut oil and other sources, has been demonstrated to enhance the absorption of Berberine when both are stimulaneously fed to rats.[33] This enhancement has been repeated elsewhere,[34] where absorption was increased 1.49-3.49 fold depending on where the absorption was measured in the intestines (greater enhancement in the ileum, less in the jujenum). Neither of these studies noted damage to the intestinal mucosa.[33][34]
 
+
 Pairing Sodium Caprate with Berberine may increase the absorption rates of berberine significantly
+
 
 19.5
 
@@ -1346,7 +1492,9 @@ Berberol is a mixture of the two herbs Berberis aristata at 588mg (Tree Turmeric
 
 Berberol was tested in 22 type II diabetics with poor glycemic control using two of the above tablets daily for 90 days noted reductions in HbA1c (-10.6%), Total Cholesterol (-21%), LDL-C (-19.2%), Triglycerides (-44.1%), and an improvement of insulin resistance as assessed by HOMA-R (26.1%).[30]
 
+
 Brand name for the mixture of Berberine and Milk Thistle, said to increase absorption of Berberine via inhibition of P-Glycoprotein (known to increase absorption of Berberine per se); whether Milk Thistle is the best method is unclear, and the study demonstrated enhanced absorption is against another study on Milk Thistle (where it failed to alter Digoxin kinetics suggesting no inhibition) and also has potential personal investment by the lead author
+
 
 19.6
 
@@ -1370,7 +1518,9 @@ However, one in vitro study has shown that berberine may have serious interactio
 
 A mouse study found that 5 mg/kg injections of berberine could induce skeletal muscle atrophy through increasing atrogin-1 expression (see Skeletal Muscle and Physical Performance section).[311] Whether this effect extends to humans is not currently known.
 
+
 In most persons, berberine appears to be relatively safe. A potentially serious interaction between macrolide antibiotics such as azithromycin and berberine exists, though.
+
 
 20.2
 
@@ -1380,5 +1530,7 @@ Due (partially) to inhibition of the CYP3A4 enzyme, berberine can adversely inte
 
 It also displaces bilirubin from albumin at a very high rate, which may be a factor for reported green stools alongside berberin's natural coloration as yellow. Because of the former reactions, however, it should not be used in jaundiced neonates and pregnant women.[137][312]
 
+
 Berberine can interact with many drugs, and some of these interactions may increase the chances of serious complications. It should also not be used during pregnancy.
+
 

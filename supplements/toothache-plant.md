@@ -106,7 +106,9 @@ As a herbal compound, Spilanthes Acmella contains a variety of molecules includi
 
 The triterpenoid 3-acetylaleuritolic acid[8]The coumarin Scopoletin[8]Vanillic acid, trans-ferulic acid, and trans-isoferulic acid[8] the latter being a bioactive of Cimicifuga plants[reference|url=http://www.ncbi.nlm.nih.gov/pmc/articles/PMC1781695/|title=Administration of isoferulic acid improved the survival rate of lethal influenza virus pneumonia in mice|β-sitostenone and Stigmasterol[8]The bioactives appear to be N-akylamide compounds, which have been implicated in enhancing sexuality via Maca (Macamide[9]) and Anacyclus Pyrethrum (pellitorine[10]); these are different from most aphrodisiac compounds, which work via terpenoids or saponins. The N-akylamide class tends to be extracted in ethyl acetate:butanolic extracts due to their relatively high polarity.[7] Spilanthol can be concentrated in the ethanolic extract, which has once been found to contain 9.04% of total N-Akylamides yet 88.84% Spilanthol.[11]
 
+
 The bioactives in Spilanthes are still being weeded out, but they appear to belong to the N-Akylamide class of molecules and Spinathol appears to be the bioactive currently seen as the 'primary' bioactive
+
 
 2.
 
@@ -132,7 +134,9 @@ Spilanthes has been investigated for its pain relieving effects since it was obs
 
 Other possible bioactives include Acmellonate, which has demonstrated in isolation a weak numbing effect on the tongue.[3]
 
+
 Possible pain killing effects when applied topically, apparently numbs the tongue when the herb itself is eaten as a salad
+
 
 4.
 
@@ -160,7 +164,9 @@ Mechanisms
 
 Hexane and Chloroform extracts of Spilanthes Acmella appear to suppress Nitric Oxide production in stimulated macrophages at 80mcg/mL by 72% and 85% respectively, and isolated Spilanthol appears to dose-dependently prevent macrophage activation (assessed by nitric oxide and morphology after LPS stimulation) with 90uM reducing Nitric Oxide production to 60% and 360uM nearing 20% production.[19] These inhibitory properties were accompanied by less iNOS and COX2 mRNA and protein content, less cytokine production from macrophages, and less NF-kB activation in the nucleus (90uM and 180uM reducing activation to 57% and 38% of control); these were thought to all be secondary to general anti-oxidant properties.[19]
 
+
 Possible anti-inflammatory effects, otherwise unexplored in animal models
+
 
 6.
 
@@ -174,7 +180,9 @@ Spilanthes Acmella confers aphrodisiac effects in male rats dose-dependently imp
 
 In regards to pro-erectile properties, one study which established a 293% increase in the penile erection index (PEI) to Viagra (5mg/kg) noted a 202% increase with Spilanthes Acmella[1] and appears to still exist up to 2 weeks after supplement cessation; suggesting long elimination rates of the active compounds, as when measured 14 days after cessation the Viagra group normalized and the highest dose of 150mg/kg Spilanthes remained 177% above baseline.[1] These effects were dose-dependent in nature, built up over 28 days (more potency on day 28 of supplementation relative to day 14), and a subsequent in vitro test in DS-1 cells noted that the increase in Nitric Oxide was 52% as potent as Viagra at the same dose.[1]
 
+
 Appears to beneficially influence all parameters of male sexuality to a degree more than Viagra except for pro-erectile properties, of which Viagra outperformed. Preliminary evidence suggests that it is fairly potent
+
 
 7.
 
@@ -186,7 +194,9 @@ Testosterone
 
 With controls at 1.73 ± 0.11 ng/mL testosterone, supplementation increased testosterone levels by 20%, 68%, and 115% at 50mg/kg bodyweight, 100mg/kg and 150mg/kg respectively after 28 days of supplementation.[1]
 
+
 At least one study suggesting increases in testosterone after supplementation
+
 
 7.2
 
@@ -210,7 +220,9 @@ Bladder
 
 Spilanthes Acmella has been touted to have diuretic properties in Sri Lankan medicine,[20] and when the flowers were tested at oral doses of 500, 1000, or 1500mg/kg in rats with 13mg/kg furosemide as an active control the highest dose of Spilanthes Acmella induced urine output within 1 hour after ingestion with similar potency to furosemide (523% relative to 405% with Furosemide) yet continued to have potency over 5 hours, eventually outperforming Furosemide in overall urine output.[20] This diuretic effect by the highest dose was accompanied by an increase in urinary sodium (51%) and potassium (213%) although the ratio did not appear significantly altered, and a decrease in urinary pH existed with no changes in proteinurea, glucoseurea, or urine color.[20]
 
+
 Appears to be a very potent diuretic when the flowers are consumed at high doses, stronger than furosemide in one study
+
 
 9.
 

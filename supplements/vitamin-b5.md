@@ -126,7 +126,9 @@ Co-enzyme A (CoA) is required in approximately 4% of all known enzymes as a cofa
 
 Subsequently the metabolite is converted into 4'-phospho-N-pantothenoylcysteine (via phosphopantothenoylcysteine synthetase adding a cysteine molecule[8]), into 4'-phosphopantetheine (by phosphopantothenoylcysteine decarboxylase[9]), into dephospho-CoA (by phosphopantetheine adenylyl transferase[10]), and finally dephospho-CoA gains a phosphorus group via dephosphocoenzyme A kinase[11] and becomes CoA.
 
+
 Pantothenic acid's major role in the human body is to be provided as a substrate that is required to form Co-enzyme A, a required cofactor for many enzymes in the human body
+
 
 1.3
 
@@ -146,7 +148,9 @@ When it comes to animals, a deficiency of pantothenic acid impairs numerous syst
 
 Surprisingly, studies in young rats investigating CoA metabolism find that levels are similar between pantothenic acid deficient rats and those fed normal levels despite abnormalities to nearly all organs and slowed growth; pantothenic acid concentrations were also reduced to less than 10% in all organs except the liver where they reached 30% of normal levels.[17] Other studies in adult rats do note decreases in CoA,[18][19] hypothesized to be due to a resilience in this pathway in younger rats.[17]
 
+
 While it is near unheard of in humans with an even decent diet (as pantothenic acid in found in most foods), a deficiency of pantothenic acid reduces growth thought to be related to impairing the activity of CoA. While a deficiency does not appear outright fatal, most systems in the body are adversely affected
+
 
 1.5
 
@@ -162,7 +166,9 @@ Formulations and Variants
 
 Dexpanthenol is the name for D-panthenol, the biologically active enantiomer of an alcohol analogue of pantothenic acid known as 'Panthenol' (aka. pantothenylalcohol). This form is hygroscopic similar to pantothenic acid but more stable, the increased stability being relevant when used on the skin as an external cosmetic.[21] It does, however, convert directly into pantothenic acid[22] and is considered to be a more stable prodrug for pantothenic acid due to being highly soluble and stable in water and alcohol solutions.[21][23]
 
+
 Dexpanthenol/D-Panthenol is a more stable form of pantothenic acid suited for cosmetic purposes
+
 
 2.
 
@@ -250,11 +256,15 @@ It has been hypothesized that pantothenic acid deficiency could be related to ac
 
 It was initially found that, in an eight week trial using a supplement which contains pantothenic acid (Panthogen; containing 2,200 mg pantothenic acid, 733.3 mg L-carnitine, and other B-vitamins in two divided doses) found benefits to skin health of which less acne was noted[46] and later the same formulation was found (in subjects with mild to moderate blemishes) to reduce facial lesions by 68.21% with an improvement in quality of life (assessed by DLQI) over the course of 12 weeks when taken orally.[47] 
 
+
 Panthothenic acid may be able to reduce acne, but current studies only use formulations that are highly confounded with the other B-vitamins and L-carnitine. The role of panthothenic acid alone is not yet known
+
 
 In humans who underwent tattoo removal surgery who were given both Vitamin C and pantothenic acid, supplementation of these two (1-3 g and 0.2-0.9 g respectively; no placebo control) for 21 days after surgery appeared to benefit the strength of the skin in the group given the higher doses;[20] the energy required to break scar tissue was greater (indicative of stronger tissue) and, while both groups showed beneficial changes in scar content of magnesium, manganese (increases) and iron (a decrease) both groups had significant increases relative to baseline with the higher doses having a faster rate.[20] The effort required to break scar tissue has previously been associated with the changes in the content of these minerals within the scar[48] and the overall count of fibroblasts and hydroxyproline content appeared to increase when compared to placebo.[48]
 
+
 Supplementation of pantothenic acid (and Vitamin C) appears to improve some aspects of scarring, but a direct increase in the time required to heal a scar has not yet been found
+
 
 Dexpanthenol (D-Panthenol) 
 
@@ -270,7 +280,9 @@ Pantothenic acid has been long linked to hair health (dating back to at least 19
 
 Elimination of pantothenic acid in the urine doesn't seem to differ between control subjects and those with graying hair (achromotrichia) or hair loss (alopecia), suggesting increased elimination may not be leading to a deficiency state that impairs hair health.[53]
 
+
 Despite being known as a hair health supplement, there is a stark lack of evidence conducted in the past half-century on the topic and only a few small trials conducted around 1950; many of which cannot be located online
+
 
 9.
 

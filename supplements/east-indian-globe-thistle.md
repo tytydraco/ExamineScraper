@@ -142,7 +142,9 @@ Anxiety and Depression
 
 An ethanolic extract of Sphaeranthus Indicus at either 100, 200, or 500mg/kg orally to rats acutely with testing an hour after ingestion noted that only the 100mg/kg oral dose induced significant anxiety-reducing effects (Elevated Plus Maze) and to a lesser potency than 1mg/kg Diazepam (intraperitoneal injection; testing 30 minutes later); the two higher doses were sedative in nature, reducing locomotion.[15] Similar effects were noted in an open-field test, and tests assessing anti-depressive effects or anti-convulsant effects of Sphaeranthus Indicus were similarly lacklustre in their results not showing any apparent differences to control.[15]
 
+
 May have weak anxiety reduction at low doses, with increasing sedative properties that may be relatively potent (lack of comparison to reference drugs); does not appear to have anti-depressive properties at these doses
+
 
 3.2
 
@@ -150,7 +152,9 @@ Pain
 
 A study using 300-500mg/kg ethanolic extract of the flowers of Sphaeranthus Indicus noted that the analgesic effect in a model of acetic-acid induced writhing (seen as a reliable test for pain-reducing effects in animals) noted 62.71-68.21% inhibition of writhing; this was statistically similar to 300mg/kg Aspirin (71.31%).[16]
 
+
 Possible acute pain killing effects when pre-loaded
+
 
 3.3
 
@@ -170,7 +174,9 @@ In type I diabetic mice, 200mg/kg of an ethanolic root extract of Sphaeranthus i
 
 In dexamethasone-induced insulin resistant mice (1 week of 1mg/kg intramuscular injections), Sphaeranthus indicus methanolic extract was able suppress the increase in glucose and triglycerides in a dose-dependent manner. When compared to ketoconazole (24mg/kg) and pioglitazone (2mg/kg), 400mg/kg Sphaeranthus indicus was equally effective in normalizing glucose and triglycerides as ketoconazole while 800mg/kg was needed to be equal to pioglitazone.[19] In isolated hemidiaphragms to assess glucose uptake, Sphaeranthus indicus was able to encourage glucose uptake in insulin free and insulin stimulated conditions while pioglitazone was only effective in insulin-stimulated conditions. [19]
 
+
 Seemingly potent effects in diabetic animals for reducing blood glucose, but the mechanisms are not currently elucidated; effects may be related to the immune system. Has only once been tested in an acute oral glucose tolerance test and has seemingly failed to influence serum glucose in this instance
+
 
 5.
 
@@ -192,17 +198,23 @@ Mechansims
 
 7-hydroxyfrullanolide, extracted from flower heads, was able to attenuate pro-inflammatory cytokines release from stimulated PBMCs with IC50 values of 0.8μM and 1.4μM for TNF-α and IL-6 with cytotoxicity not being apparent below 100uM;[14] similar potency was observed in synovial cells extracted from persons with Rheumatoid Arthritis, with IC50 values of 1μM for both TNF-α and IL-6.[14]
 
+
 General anti-inflammatory effects, which require relatively low concentrations and may be practically relevant following oral administration
+
 
 One study has noted that with 150-300mg/kg of the ethyl acetate and ethanolic fractions, Mast Cell degranulation was suppressed 77–86% in a sheep serum model and 77–88% when cells were incubated with compound 48/80;[21] both of these tests were more potent than the reference drug ketotifen fumarate (75% and 69%, respectively, at 1-100mg/kg). The petroleum ether and water extracts were also effective, but to a lesser degree.[21]
 
+
 Possibly potent anti-allergic effects by preventing degranulation of mast cells, with more efficacy than Ketotifen
+
 
 Oral ingestion of the petroleum ether extract to mice noted that macrophage phagocytic activity is enhanced in a relatively dose dependent manner up to 400mg/kg (with only 300-400mg/kg being statistically significant) and that only 200mg/kg was effective in increasing the humoral response to SRBCs, with 50-100mg/kg and 300-400mg/kg trending to be effective but not significantly so.[22]
 
 That being said, the extracts of Sphaeranthus indicus have once been found to preserve the humoral response in the presence of Cyclophosphamide; normally suppressive.[23]
 
+
 May have immunomodulatory properties, but no real indicative of practical relevance or potency relative to other compounds
+
 
 6.2
 
@@ -212,7 +224,9 @@ A basic ethanolic extract of the flowers at 300-500mg/kg was given orally to rat
 
 Oral administration of 7-HF to mice at 25, 50, and 75mg/kg was able to suppress TNF-α and IL-6 release in LPS-stimulated mice by 53-86% and 29-59% respectively; acting in a dose-dependent manner;[14] in a septic shock test, 50mg/kg 7-HF was as protective as Dexamethasone.[14] In chronic inflammation tests, 100mg/kg 7-HF was as potent as Dexamethasone at attenuating the pathology of colitis, collagen-induced arthritis, and edema.[14]
 
+
 Interventions in animals following oral administration of Sphaeranthus Indicus appear to establish potent effects of isolated 7-HF and the ethanolic extract; similar to reference drugs
+
 
 7.
 
@@ -230,13 +244,17 @@ Prostate
 
 Prostatic DU145 and PC3 cells have been shown to have their growth inhibited at 100ug/mL concentration of Sphaeranthus Indicus aqueous (55% and 30%), petroleum ether (98% both cell lines), and ethanolic (61% and 43%) extracts; both outperforming 1uM mitomycin C (51-54%).[2]
 
+
 Appears to significantly attenuate cell proliferation, which may be related to induction of apoptosis
+
 
 These three extracts have also been tested in a model of Benign Prostatic Hyperplasia (not inherently cancerous) in rats, and increasing doses (10, 20, 50mg/kg oral ingestion) of these three extracts was given alongside 3mg/kg testosterone and compared to 1mg/kg Finasteride.[20] While Finasteride attenuated the increase in prostatic weight to 19.9% of control, the highest dose of the most effective extract (petroleum ether) attenuated this increase to 26.62% and was deemed to not be significantly different; the higher doses of the aqueous and ethanolic extract suppressed growth to 39.99% and 55.83% of control respectively.[20] A subsequent reduction in PSA levels was noted to be similar as Finasteride as well.
 
 When tested in vitro, the IC50 of the petroleum extract in inhibiting 5α-Reductase was 0.132mg/mL which was more effective than the water (0.387mg/mL) and ethanolic (0.317mg/mL) extracts but less than Finasteride (1.06mcg/mL).[20]
 
+
 Appears to possess 5α-Reductase inhibitory potential
+
 
 7.3
 
@@ -280,7 +298,9 @@ Kidney
 
 150-300mg/kg of the ethanolic extract of Sphaeranthus Indicus alongside 12mg/kg Cisplatin in rats for 10 days (after 6 days of Cisplatin only treatment) was able to effectively normalize GSH and MDA in renal tissue, both of which were altered with Cisplatin in isolation and both Creatinine and Urea were almost normalized.[24] Ingestion of the extract in isolation did not result in any significant differences relative to control, and histopathological analysis appeared to revert acute tubular necrosis (seen with 6 days of Cisplatin) back to near-similar morphology.[24]
 
+
 Preliminary evidence suggests that Sphaeranthus Indicus is highly renoprotective
+
 
 9.
 

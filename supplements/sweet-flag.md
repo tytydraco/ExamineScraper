@@ -154,7 +154,9 @@ Acorus calamus (of the family Araceae) is a plant known as Sweetflag and in Ayur
 
 The rhizome of this plant appears to have traditional usage for the treatment of insomnia, melancholia, neurosis, remittent fevers, delirium, hysteria,[3] memory, epilepsy, cough, and schizophrenia.[1]
 
+
 Appears to be a traditional herbal medicine for the treatment of neurological disorders
+
 
 1.2
 
@@ -164,11 +166,15 @@ The rhizome contains:
 
 β-asarone (1, 2, 4-trimethoxy-5-prop-1-enyl-benzene) at 30mg/g in a 70% ethanolic extract,[4][5] 8.4% in a 60% ethanolic extract,[6] and between 0.1-0.44% of the overall (non-extracted) rhizome[2]α-asarone (0.1% of a 60% ethanolic extract)[6]Sequesterpenes known as calamusin A-H and norsequesterpine calamusin I[7](1R,4R,6S,10R)-1-hydroxy-7(11)-cadinen-5,8-dione and  (2R,6R,7S,9S)-1(10),4-cadinadiene-2,9-diol (cadinane-type sequesterpenes)[8] and some other structurally related sequesterpenes[9]β-daucosterol[10]3β,22α,23-trihydroxyolean-30-methoxycarbonyl-12-ene-22-O-α-l-rhamnoside, a pentacyclic triterpenoid[10]There is also a water-soluble polysaccharide within the rhizome (over 85% D-galacturonic acid with residues of galactose at 3%, arabinose at 1%, xylose at 2%, and rhamnose at 3%) which may interact with the immune system.[11]
 
+
 The rhizome contains the bioactives of the volatile oil (since the rhizome itself does contain calamus oil) as well as some other bioactives that may not be present in the extracted oil
+
 
 The essential oil (volatile component which reaches 1.7–9.3% of the plants dry weight[12]) contains (ppm refers to the content of a 60% ethanolic extract of the rhizome[6] whereas percents refer to the volatile oil overall[13]):
 
-β-asarone (77.68% and 1,723ppm of the Indian variety) and α-asarone (6.8% or 21ppm) as well as β-asarone oxidation products (1.3%)[6] and γ-asarone (trace)[13]Methyl isoeugenol (41.5% of a variety with a low β-asarone content)[14]Acorone (5,425ppm), Isoacorone (329ppm), and acorenone (1,431ppm)[6]Pre-isocalamendiol (0.91% and 1,557ppm)[13](+)-dioxosarcoguaiacol[12]α-calacorene (0.89%)[13]Shyobunone (490ppm) and Isoshyobunones (0.46%)[6]Camphor (613ppm)[6]Camphene (421ppm)[6]Linalool (0.1% and 171ppm)[13]trans-carveol (109ppm)[6]Spathulenol (0.15% and 194ppm)[13]Eugenol (0.09%), Elemol (0.04%), Elemicin (0.58%), and cis-Isoelemicin (1.29%)[13]2-Furaldehyde (1.02%)[13]The essential oil (Calamus oil) is mostly concentrated β-asarone
+β-asarone (77.68% and 1,723ppm of the Indian variety) and α-asarone (6.8% or 21ppm) as well as β-asarone oxidation products (1.3%)[6] and γ-asarone (trace)[13]Methyl isoeugenol (41.5% of a variety with a low β-asarone content)[14]Acorone (5,425ppm), Isoacorone (329ppm), and acorenone (1,431ppm)[6]Pre-isocalamendiol (0.91% and 1,557ppm)[13](+)-dioxosarcoguaiacol[12]α-calacorene (0.89%)[13]Shyobunone (490ppm) and Isoshyobunones (0.46%)[6]Camphor (613ppm)[6]Camphene (421ppm)[6]Linalool (0.1% and 171ppm)[13]trans-carveol (109ppm)[6]Spathulenol (0.15% and 194ppm)[13]Eugenol (0.09%), Elemol (0.04%), Elemicin (0.58%), and cis-Isoelemicin (1.29%)[13]2-Furaldehyde (1.02%)[13]
+The essential oil (Calamus oil) is mostly concentrated β-asarone
+
 
 1.3
 
@@ -178,13 +184,17 @@ There are varieties of acorus calamus due to ploidy level (number of sets of chr
 
 A related species known as acorus gramineus is known as Japanese or Dwarf sweet grass, and it has a variable β-asarone content (somewhere between 0.65% and less than 0.07%).[2]
 
+
 There are different variants of acorus calamus, and it appears that the variety grown in North America and Siberia may be free of β-asarone while other varieties may have a higher content (with the Southeast Asian variety having highest levels)
+
 
 Indian medicine has been noted to 'purify/detoxify' acorus calamus plants via a process known as Sodhana prakriya, which involves boiling the calamus rhizomes in cow urine for 3 hours followed by boiling in a solution of Sphaeranthus indicus (3 hours) and then Panchapallav (3 hours) before being subject to a process known as gandhodak.[1] It seems that cow urine is interchangeable with a simple hot water extraction, and this process has been confirmed to reduce the β-asarone content of the plant.[1]
 
 Traditional chinese medicine also appears to attempt to purify the herb from the β-asarone content, and does so via a one hour decoction which seems to be sufficient to reduce up to 85% of the β-asarone content with a further 2 hours of heat treatment effectively eliminating most β-asarone from the herb (reducing the content from 1.5-2.5% down to 0.0005%).[15]
 
+
 Both traditional indian and chinese medicine appear to have processes to remove β-asarone from acorus calamus, and it appears that both processes are somewhat effective
+
 
 2.
 
@@ -202,7 +212,9 @@ Enzymatic Interactions
 
 Acorus calamus ethanolic extract is known to inhibit CYP3A4 (IC50 46.84+/-1.83μg/mL) and CYP2D6 (36.81+/-3.93μg/mL) in vitro.[16]
 
+
 Potential to inhibit enzymes of drug metabolism, and while the concentrations are high it may still be somewhat relevant to oral supplementation
+
 
 3.
 
@@ -214,7 +226,9 @@ Cholinergic Neurotransmission
 
 200μg/mL of acorus calamus extract is able to cause 53.7+/-5.5% inhibition of the acetylcholinesterase enzyme[17] yet when looking exclusively at the essential oil component it appears to be more potent at inhibiting acetylcholinesterase (IC50 of 10.67+/-0.81μg/mL) mostly due to β-asarone (IC50 of 3.33+/-0.02μM);[18] α-asarone was not overly potent (46.38+/-2.69μM) and β-asarone failed to outperform the reference drug phygostigmine (0.28+/-0.015μM).[18]
 
+
 While the plant extract overall doesn't seem to potent at inhibiting acetylcholinesterase, isolated β-asarone does appear to be a respectably potent inhibitor of this enzyme
+
 
 3.2
 
@@ -222,7 +236,9 @@ GABAergic Neurotransmission
 
 A petroleum ether extract of acorus calamus rhizome has been noted to show promise in signalling through GABAA receptors of the α1β2γ2S subtype relative to other screened plants[19] can enhance signalling through the GABAA receptor to 277+/-9.7% of control when at 100μg/mL, which was thought to be mostly due to β-Asarone (EC50 of 171.5+/-34.6μM to reach 1200+/-163% of control) and (+)-dioxosarcoguaiacol (EC50 of 65.3+/-21.6μM reaching 588+/-126% of control).[12]
 
+
 While a high concentration seems to be required, the potency of which β-asarone enhances the GABAA receptor is quite remarkable
+
 
 3.3
 
@@ -230,7 +246,9 @@ Neuroprotection
 
 Acrylamide-induced neurotoxicity (toxicity associated with increased dopamine receptor content in the striatum and reduced glutathoine concentrations[20]) is reduced in rats given 25mg/kg of a 50% ethanolic extract of the rhizome over 10 days alongside acrylamide as assessed by limb paralysis;[21] the increase in dopamine receptor content and reduction in glutathoine are normalized.[21]
 
+
 Some minor neuroprotective effects, mechanisms not known
+
 
 3.4
 
@@ -238,11 +256,15 @@ Analgesia
 
 An ethanolic extract of acorus calamus rhizome is able to prevent 15.16% and 54.51% of the acetic acid induced writhing response with 250mg/kg and 500mg/kg of the extract; a potency comparable to kigella pinata and 500mg/kg being as potent as 25mg/kg diclofenac.[22]
 
+
 May possess some pain killing properties
+
 
 In a rat model of vincristine induced neuropathy (neuropathic pain via inflammatory signalling[23]), a hydroalcoholic extract of the rhizome at 100-200mg/kg oral intake for 14 days alongside vincristine was able to significantly reduce neuropathic pain as assessed by the hot plate, pinprick, and Von Frey hair tests as well as the sciatic functional index with a potency comparbale to pregabalin (10mg/kg).[24][25] This dose and extract has also shown efficacy in a tibial and sural nerve transection model of neuropathic pain[26] and a chronic constriction injury model of sciatic pain.[27]
 
+
 Rat research on various neuropathies (models of nerve damage) suggest that acorus calamus has relatively respectable benefits to neuropathy with a potency comparbale to Pregabalin (albeit requiring 10-20 fold higher of an oral dose)
+
 
 3.5
 
@@ -250,7 +272,9 @@ Depression
 
 Injections of 50-100mg/kg of the methanolic extract of aconus calamus to rats over seven days exhibits dose-dependent anti-depressant effects with a potency comparable to 5mg/kg imipramine.[28]
 
+
 Possible anti-depressant effects; potency is not remarkable nor are the mechanisms known
+
 
 3.6
 
@@ -258,7 +282,9 @@ Memory and Learning
 
 12.5-50mg/kg β-asarone oral ingestion for 28 days (starting three days after β-amyloid toxicity) is able to preserve cognition in rats with a potency comparable to 0.33mg/kg donepezil hydrochloride which was associated with a reduction in hippocampal apoptosis rates (of which donepezil was ineffective).[29]
 
+
 Possible anti-amnesiac effects associated with high dose β-asarone, thought to be a combination of the acetylcholinesterase inhibition and neuroprotective effects
+
 
 4.
 
@@ -272,11 +298,15 @@ An aqueous-methanolic extract of the rhizomes is able to cause depressant effect
 
 100-200mg/kg of the rhizome extract of acorus calamus for 30 days alongside isoproterenol (can induce cardiotoxicity in animal models[31]) appears to reduce cardiotoxicity with a potency comparable to 9mg/kg amlodipine although trending to be less potent.[32]
 
+
 Short term usage appears to be somewhat cardioprotective
+
 
 Alongside the formation of intestinal tumors and general organ damage associated with chronic (2 years) consumption of this herb, acorus calamus (due to β-asarone) appears to also be associated with the formation of cardiac lesions.[33]
 
+
 Long term consumption (2 years) has been associated with the formation of cardiac lesions in rats
+
 
 4.2
 
@@ -284,7 +314,9 @@ Blood Flow
 
 An aqueous-methanolic extract of the rhizome causes relaxation at an EC50 value of 2.5mg/mL in a manner similar to methacholine, and was able to reduce precontraction induced by a high potassium concentration with an EC50 of 230µg/mL;[30] the hexane fraction was more potent, causing relaxing effects with an EC50 in the range of 40-80µg/mL.[30]
 
+
 Weakly beneficial to blood flow with acute usage
+
 
 4.3
 
@@ -292,7 +324,9 @@ Blood Pressure
 
 In hypertensive rats, 250mg/kg of the ethyl acetate extract of acorus calamus for seven days prior to survery (renal artery occlusion to induce hypertension) noted that the increase in systolic and diastolic blood pressure was attenuated alongside an attenuation in plasma renin and preservation of oxidation biomarkers (MDA and glutathione in the kidneys).[34]
 
+
 Secondary to kidney protective effects (with acute usage), acorus calamus may be anti-hypertensive
+
 
 5.
 
@@ -312,7 +346,9 @@ In both fat cells[10] and L6 skeletal muscle cells[36] in the 6.25-25μg/mL rang
 
 6.25-25μg/mL of the ethyl acetate extract appears to stimulate insulin secretion from pancreatic cells with a potency comparable or greater than 10μM gliclazide.[35] This was thought to underlie a small reduction in blood glucose seen in fasted and glucose fed normal mice with 200-800mg/kg ethyl acetate extract at one hour post ingestion, with a potency lesser than the reference drug Gliclazide (100mg/kg).[35]
 
+
 There appear to be some direct mechanisms that may result in reductions in blood glucose, including cellular mechanisms (increasing glucose uptake at the cellular level) and stimulating insulin release from the pancrease
+
 
 Three weeks supplementation of 100mg/kg of the ethyl acetate fraction was able to reduce serum glucose with a potency lesser than the reference drug (10mg/kg rosiglitazone).[36] The methanolic extract also appears effective, as a study in streptozotocin induced diabetic rats given 200mg/kg of this extract over 21 days showed reductions in blood glucose and other beneficial effects indicative of an anti-diabetic effect.[37]
 
@@ -328,7 +364,9 @@ Mechanisms
 
 An ethyl acetate extraction of acorus calamus devoid of β-asarone at 10-50µg/mL (but not 2µg/mL) appears to promote adipocyte differentiation associated with enhancing GLUT4 translocation, whereas the fraction containing β-asarone had neither effect.[10] This effect was said to be due to 3β,22α,23-trihydroxyolean-30-methoxycarbonyl-12-ene-22-O-α-l-rhamnoside, as the other molecule in this fraction (β-daucosterol) was ineffective[10] and may be related to PPARs since they are known to interact with acorus calamus[39] and the mechanisms of glucose uptake seem similar to (albeit less potent than) rosiglitazone.[36]
 
+
 A pentacyclic triterpenoid in the plant may promote adipocyte differentation; practical significance of this information is not known
+
 
 7.
 
@@ -346,7 +384,9 @@ Mast Cells
 
 In vitro, antigen induced mast cell degranulation (assessed by β-hexosaminidase release) is concentration dependently attenuated with all extracts except the hot water extraction while only the hot water extract suppressed IL-4 secretion from IgE sensitized mast cells;[40] in vivo, topical application of the hot water extract to mice exposed to an allergin showed anti-anaphylaxic properties with a potency less than the reference drug (Azelastine).[40]
 
+
 May possess some minor anti-allergic properties
+
 
 7.3
 
@@ -366,7 +406,9 @@ In vitro, a 50% ethanolic extract of acorus calamus appears to prevent gamma rad
 
 250mg/kg of an acorus calamus 50% ethanolic rhizome extract (with an asarone content) to mice one hour prior to gamma radiation was able to protect against both lethal and sub-lethal levels of radiation as assessed by mortality (reduced 100% mortality to 40% after 30 days) and DNA damage (near full protection at low doses and still significant at lethal levels; assessed by DNA tail, tail length, tail moment and olive tail moment in splenocytes, bone marrow cells, and leucocytes).[42]
 
+
 Acute usage appears to be relatively potent in protecting DNA from damage
+
 
 9.
 
@@ -378,7 +420,9 @@ Lungs
 
 The crude extract of acorus calamus is able to relax tracheal cells that are precontracted with potassium (EC50 of 60µg/mL) and carbachol (270µg/mL), similar to vermapril in selectivity but less potent.[43] The hexane extract is equally potent on potassium (EC50 of 540µg/mL) and carbachol (560µg/mL) precontracted trachea cells which is similar to papaverine in nonselectivity but again less potent[43] while the potency on carbachol induced contractions is drastically increased when the ethyl acetate fraction is used (EC50 of 4.01μg/mL) suggesting the presence of an anticholinergic.[43]
 
+
 There may be therapeutic benefits associated with acorus calamus extract due to potency, although the exact bioactive molecules and their mechanisms needs a bit more elucidation
+
 
 10.
 
@@ -400,17 +444,23 @@ General
 
 β-asarone is known to be used as a pesticide where it has first been evaluated for its potential toxicity.[45] According to the CEFS (Council of Europe Committee of Experts in Flavouring Substances) who evaluated the usage of β-asarone in food flavoring, it was determined carcinogenic and limited to 0.05mg/kg food intake and 0.5mg/kg for alcoholic beverages.[46] Additionally, it was suggested that calamus was unfit for human consumption due to the β-asarone content and there is no established 'adequate daily intake' level due to this.[33] Other sources suggest that the limit for daily consumption of β-asarone is 0.115mg (115µg) daily.[15]
 
+
 Expert panels tend to say that acorus calamus, due solely to the β-asarone content, is unfit for human consumption
+
 
 A hydroalcoholic extract of the rhizome at 500mg/kg for 28 days failed to exert any toxic effects in rats[26] and elsewhere doses of up to 1,000mg/kg for up to 28 days has been well tolerated in rodents aside from a small elevation in liver enzymes (ALT and AST) alongside histopathological changes in the liver (was not stated if these were clinically relevant). [47] When looking at the oil component, an LD50 of 777mg/kg has been established in young rats and 8,880mg/kg in older rats; the LD50 level for β-asarone itself has been suspected to be 175-216mg/kg in rats (or a human dose of 28-35mg/kg)[33] and elsewhere noted to be 1,010mg/kg (Joint FAO/WHO Expert Committee).[48]
 
 A single acute dose of 5,000mg/kg of the hydroalcoholic rhizome extract has failed to exert toxic effects in rats[26] while in mice the LD50 has been determined to be 5063.62-5077.56mg/kg bodyweight.[47] Elsewhere, 2,000mg/kg of the methanolic extract has shown some lethality in female mice whereas 300mg/kg was safe (and 500mg/kg assumed to be an LD50 value).[28]
 
+
 The standard supplemental dosages appear to be below the level of toxicity although not by a comfortable level. The dose that has been cleared for short term periods seems to be 2-3 fold higher than the supplemental dose and the acutely toxic dose is about 10-fold higher
+
 
 Rodent studies that have lasted for prolonged periods of time (2 years or more) have noted a significantly lower No Observed Adverse Effects Limit (NOAEL) of 5-10mg/kg β-asarone daily, with higher doses up to 100mg/kg β-asarone (or oil equivalents) causing dose and time dependent toxic effects in rodents such as weight loss, minor but ubiquitous organ damage, and intestinal tumors mostly located in the duodenum.[33]
 
+
 Chronic usage of β-asarone for a period of two years appears to have a very high level of toxicity including organ damage and intestinal tumors, leading to the conclusion that this herb is unfit for human consumption
+
 
 11.2
 

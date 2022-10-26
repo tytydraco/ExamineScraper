@@ -126,7 +126,9 @@ Vitex agnus-castus belongs to the Verbenaceae family of plants. The most well-kn
 
 Traditional usage of Vitex Agnus in Turkish medicine includes its usage as a diuretic, digestive, antifungal, anti-anxiety, early birth and stomachache medication.[3] It has been used in Greece, where it derived the name of Chastetree (and the berries Chasteberries), as it was believed consumption of the berries promoted Chastity. It was popular among clergymen wishing to be celibate.[4][5]
 
+
 Historical usage for a myriad of female-related symptoms and complications associated with PMS and Menopause, with some other usage related to fighting inflammation-related conditions
+
 
 The berries of Vitex Agnus appear to contain:
 
@@ -138,11 +140,15 @@ Variants and Formulations
 
 A particular extract known as BNO-1095 is sometimes used due to standardization; it is a 70:30 ethanolic:water extract of the herb Vitex Agnus Castus and is the extract used for the brand name Agnucaston.[7] 4mg of this extract appears to be bioequivalent to 40mg of the plants dry weight, and it is thus referred to as a 10:1 concentrated extract (pdf in German[17]).
 
+
 BNO 1095 is a 10:1 concentrated extract of Vitex, and is mostly an ethanolic extract which is under the brand name of Agnucaston
+
 
 Ze 110 is another standardized extract that tends to be dosed around 10-20mg, with 20mg being derived from 120-240mg of the Vitex Agnus fruits, and has a drug:extract ratio of 6-12:1 while being standardized for casticin content.[18] Ze 110 is a 60% ethanolic extract.[19]
 
+
 Ze 110 is an alternative extraction which has a more variable, but overall comparable, drug to plant ratio as BNO 1095 does
+
 
 2.
 
@@ -182,11 +188,15 @@ The flavonoids of apigenin, luteolin, 3-methylkaempferol, and casticin have been
 
 Casticin appears to be the most prominent player here (as defatted extracts do not have affinity, suggesting fatty acids play no role[1]), binding to both receptors with IC50 values on Gamma-Opioid and Delta-Opioid being 2.84+/-0.707uM and 2.05+/-0.631uM while other flavonoids ranged in the 20-40uM range.[22] It is unable to activate the Gamma-Opioid receptor, but activates the Delta-Opioid receptor with an EC50 value of 15.3+/-6.32uM and Emax of 74.6+/-18.2%.[22]
 
+
 Fat soluble compounds in Vitex Agnus appear to have efficacy in interacting with opioid receptors, and Casticin has been demonstrated to activate the opioid receptors
+
 
 Opioid activity may play a role in Hot Flash symptoms due to a decrease of opioid activity preceding adrenergic instability (assessed by withdrawal from Opioid acting drugs)[23][24] with is hypothesized to be normalized with opioid activity.[25] Lower levels of B-endorphin (opioid peptide) has also been noted in menopause,[26][27] and activation of Opioid receptor expressing neurons tends to release B-endorphin compounds.[28][29]
 
+
 Activation of Opioid receptors may release B-endorphin, which is inversely correlated with symptoms of menopause
+
 
 3.4
 
@@ -196,7 +206,9 @@ In evaluating a variety of bioactives including flavonoids, no molecule appeared
 
 One study has noted that binding directly to serotonin receptors failed to occur with Vitex in vitro,[6] yet at least one study suggests a possible increase in anxiety at higher doses (100-300mg/kg rats) of Vitex Agnus via acting as an modulator of 5-HT1A receptors, increasing the anxiogenic effects of 5-HT1A antagonists while attenuating the anxiolytic effects of agonists.[30]
 
+
 May interact with serotonergic mechanisms, but no evidence supports direct agonist roles. Unknown significance for supplementation
+
 
 3.5
 
@@ -206,11 +218,15 @@ When incubated in vitro with Prolactin cells, extracts from Vitex Agnus appear t
 
 Histamine, which may influence prolactin, does not have its receptor (H1) affected with incubated Vitex Agnus.[6] This release of prolactin appears to be a downstream effect of activation of Dopamine D2 receptors.[31][32]
 
+
 In vitro, reductions of prolactin appear to be apparent which may be mediated via D2 (dopamine) activation
+
 
 The inhibition of prolactin release from isolated Casticin has been noted in vivo, where injections of 10, 20, and 40mg/kg for a week reduced prolactin levels by 33.9%, 54.3%, and 64.7%;[33] 1mg/kg Bromocriptine used as a reference was approximately as effective as 15mg/kg (measuring at a 44.9% reduction).[33] Another study in rats (800,1600mg/kg ethanolic extract) only noted this decrease of prolactin in rats undergoing experimental menopause (-30.44% and -37.83% at respective doses) and failed to find influence on otherwise normal female rats.[34]
 
+
 This reduction of prolactin may be mediated via the flavonoid Casticin, although due to other compounds exerting dopaminergic actions (Clerodane Diterpenoids) it may not be the only active ingredient
+
 
 In otherwise healthy males an extract (BP1095E1) at 120, 240, and 480mg daily for 14 days was associated with an increase in prolactin (24 hour AUC and also in response to a TRH-stimulation test) was noted with 120mg but reductions were noted with 480mg.[35]
 
@@ -230,11 +246,15 @@ Mastalgia (Breast Tenderness)
 
 Mastalgia is a common symptom of pre-mentrual syndrome (PMS) that affects anywhere between 50-80% of women, while being benign in most cases (only 1% of cases are associated with breast cancer).[36] It is a tenderness of breast tissue that, in most cases, associated with menstration and is highly associated with an increase in serum prolactin[37][38][39] and sensitive to stressful situations.[37] The current hypothesis regarding Vitex Agnus and breast tenderness is secondary to acting as a prolactin antagonist (secondary to activating dopaminergic receptors) and suppressing prolaction secretion which subsequently reduces the tenderness associated with higher serum prolactin.[36] Either the suppression of prolactin or the reduction of prolactin is also associated with reduced hot flash symptoms, as evidenced by administration of Bromocriptine (a D2 agonist).[40]
 
+
 Breast tenderness during PMS is associated with high prolactin levels, which are reduced secondary to dopamine activation
+
 
 One systemic review[36] notes that the anti-estrogenic effects of Vitex Agnus may play a role in Mastalgia etiology, as anti-estrogenic compounds have shown efficacy in Mastalgia elsewhere.[41][42] The review noted that although the possibility of diterpenoids acting as an selective estrogen receptor modulator (SERM) may exist, which would attenuate the levels of excess estrogen while inducing weak estrogenic effects, that this possibility was not fully elucidated.[36]
 
+
 Anti-estrogenic effects may also play a role, but evidence for this is currently subpar
+
 
 4.2
 
@@ -246,15 +266,21 @@ The BNO 1095 (4mg of a 10:1 ethanolic extract, correlating to 40mg of the herb e
 
 Null studies include one (cannot be found online, sourced in this study[44]) noting that 600mg of basic Vitex Agnus extract daily (n=217) thrice a day had benefits to neurological symptoms of PMS but failed to influence bloating and edema.
 
+
 Symptoms in general, assessed by total scores of self-reported rating scales (MMDQ or VAS) note global improvements of menopausal symptoms. Many studies are not blinded (which is important as placebo is active on PMS), but the blinded studies appear to show similar benefits that are both statistically significant and clinically relevant (with over half of users reporting over a 50% reduction in symptoms)
+
 
 In regards to headaches specifically, one study assessing women who are prone to Migraines during menstrural cycles noted that 40mg/day of Vitex Agnus extract daily for 3 months was associated with a 66% response rate for 'dramatic' reductions in headaches (with 44% and 57% reporting over a 50% reduction in headaches per month and days each month suffering a headache; respectively) and an 8% nonresponse rate.[50] This study was not blinded.
 
+
 May reduce headaches associated with PMS
+
 
 One review assessing studies on menopause (with variable stages of menopause, from 3-12 months after amenorrhea)[37] notes that studies on Vitex Agnus Castus and menopause tend to be confounded with the inclusion of other herbs and botanicals (such as Black Cohosh or Soy Isoflavones[51][52] or just St.John's Wort[53]), although one study using the essential oils of Vitex Agnus (both leaves and fruit), where 2.5mL of a 1.5% cream, applied daily most days for 3 months, was associated with a 33% persons reporting significant reduction of symptoms (mostly mood and hot flushes) and 36% reporting mild reduction in symptoms (7.5% reporting no effects and 23.5% reporting worsened symptoms).[54]|published=2003 Aug|authors=Chopin Lucks B|journal=Complement Ther Nurs Midwifery] This study is limited due to its lack of placebo, which limits conclusions on Menopausal symptoms (due to high placebo influence[55]).
 
+
 Interventions with Vitex Agnus Castus do not currently support its usage for menopausal symptoms despite its theoretical benefit
+
 
 4.3
 
@@ -264,7 +290,9 @@ It appears one study (cited vicariously through a review[56]) found benefits to 
 
 Trials that report side-effect note infrequent side effects including intermenstrual bleeding[57] and prolonged menstrual periods.[48]
 
+
 While there appear to be some early evidence for benefits to menstrual disorders, these studies do not appear to be indexed online and they appear to be all using the same brand name product; more evidence is required
+
 
 4.4
 
@@ -274,7 +302,9 @@ One study (n=43) noted that 16 persons were concurrently using contraceptive med
 
 It has been noted that there are no current case studies of clinically relevant or letahl herb-drug interactions with Vitex Agnus supplementation.[44] One review hypothesized that it may interfere with hormonal therapy or contraceptives acting via hormonal means (due to dopaminergic interactions)[58] and these same dopaminergic actions are also a reason Vitex is currently contraindicted in persons undergoing medical therapy for Parkinson's disease (treated with dopaminergic drugs).[59]
 
+
 No known medication interactions exist, although there isn't a sufficient body of evidence to declare that there aren't any interactions
+
 
 In general, studies in women for the purpose of controlling symptoms of PMS either report no adverse effects or adverse effects that are no different than placebo, statistically.[19][44][18]
 
@@ -290,7 +320,9 @@ Casticin, a bioactive flavonoid in Vitex and standardized in the extracts, in co
 
 In regards to T-cells, Casticin was able to abolish (100% prevention) PHA-induced T-cell activation (as assessed by thymidine incorporation) at concentrations of 7.5µg/mL and above; outperforming Prednisolone on average (but not statistically significant due to high variability seen with Prednisolone).[60] No toxicity was seen acutely up to 50µg/mL, but some was noted in an MDBK cell line after 5 days incubation with an IC50 of 0.7µg/mL.[60]
 
+
 Casticin may have immunosuppressive properties, relevance to oral consumption unknown
+
 
 Cytotoxic effects have been observed with Casticin in three Leukemia cell lines with IC50 values varying from 5.95-15.56uM.[61] 
 
@@ -302,7 +334,9 @@ Casticin (as well as artemetin, a related flavonoid) can suppress lipoxygenase w
 
 Several compounds (Casticin, Artemetin, and benzoic acid derivatives) show some anti-inflammatory effects in activated neutrophils, but no compound surpassed the efficacy of Aspirin at the same concentrations.[62]
 
+
 May possess anti-inflammatory properties, significance unknown
+
 
 6.
 
@@ -314,7 +348,9 @@ Estrogen
 
 In vivo studies measuring serum levels of estrogen in female rats note increases in circulating estrogen (and progesterone), with 600mg/kg and 1200mg/kg of the ethanolic fruit extracts increasing estrogen by 332 and 432% as assessed by vaginal smears; estradiol (positive control) increased this number 625%.[34] When measuring plasma estrogen in this same study, the increase was 24.3% and 115.5% (and progesterone changes being 32.14% and 76.79%, respectively).[34] These increases in serum were attenuated to 11.99% and 23.62% in rats undergoing experimental menopause.[34]
 
+
 At least one study has noted increased serum estrogen (and progesterone) in female rats as a result of supplementation with Vitex Agnus
+
 
 Vitex Agnus extract appears to have affinity for the estrogen receptor (ER; cytosolic prepared from human endometrium) and appears to have affinity for the beta-subunit of the ER with no affinity for the alpha subunit,[7] which has been noted elsewhere.[9] The binding affinity of BN1095 extract appears to have an EC50 value of 10µg/mL, and this may be mediated by penduletin (EC50 of 0.25µg/mL), vitexin (10µg/mL), or Apigenin (EC50 0.08µg/mL).[9]
 
@@ -322,7 +358,9 @@ Due to this, administration of the Vitex Agnus extract for up to 3 months failed
 
 Other studies note that a methanolic extract of Vitex Agnus can displace 50% of estrogen from the ERa and ERb receptors with IC50 values of 46+/-3µg/mL and 64+/-4µg/mL, respectively.[63][64] Linoleic acid in isolation (found in the extract) was able to bind to both receptors with an IC50 of 27+/-2uM and 30+/-2uM (respectively)[63] but this may be too high a concentration to be practically relevant for oral Vitex.[36] Additionally, this studies that actually noted binding to ERa[63][64] appear to stand alone against other studies that fail to find any binding to ERa at all concentrations tested,[7][9] and even in one study noting ERa binding there was a failure to induce estrogenic effects as measured by Alkaline Phosphatase Induction (Ishikawa cells);[64] one other study actually notes a decrease of ERa mRNA trancription levels that coexist with an increase in ERb mRNA content.[33]
 
+
 Vitex Agnus has the classification of containing phytoestrogens, but due to potent binding to the beta subunit of the Estrogen Receptors (ERb) and not the alpha subunit typically associated with 'estrogen-like effects', the overall actions of Vitex Agnus may be practically anti-estrogenic
+
 
 6.2
 
@@ -332,7 +370,9 @@ One study conducted in male rats with injections of Vitex Agnus (fruit hydroalco
 
 The only human study in males investigating the effects of Vitex Agnus noted that 120-480mg of a BP1095E1 extract failed to influence testosterone levels after 20 days of supplementation, despite influencing prolactin.[35]
 
+
 Injections of Vitex Agnus appear to have anti-androgenic effects, but the dosage range showing reductions in testosterone (165-365mg/kg) equate to a human dose of 1.8-4g of an 80:20 hydroalcoholic extract (150lb male, significantly higher than that commonly supplemented)
+
 
 One study that noted a large increase in estrogens in menopausal mice suggested that this was indicative of increased androgen synthesis being converted to estrogens (via aromatase); androgens were not measured in this study.[34]
 
@@ -354,7 +394,9 @@ St.John's Wort and Vitex Agnus are commonly associated with each other due to be
 
 The combination has been assessed in women going through menopause with PMS-like symptoms, and over 16 weeks in this double-blind trial[67] with the daily dose of St.Johns Wort (5.4g dry plant extract conferring 990µg Hypericin and 9mg Hyperforin) and Vitex Agnus (1000mg dry herb equivalent) noted that while both placebo and treatment had significant reductions in overall symptoms at week 4 that placebo had partial attenuation of this improvement while treatment proceeded to exert slightly more benefit over 16 weeks, with significant differences at the time points of 8, 12, and 16 weeks between groups.[67] When looking at subscales, it appeared to have more benefit for cravings and depression associated with PMS-like symptoms and less significant effects on hydration and anxiety (although a positive trend was noted, with hydration failing to be statistically significant).[67]
 
+
 The combination is used and both appear effective, but interventions do not currently support additive or synergistic effects of the two
+
 
 8.
 

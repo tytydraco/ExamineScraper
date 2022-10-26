@@ -136,7 +136,9 @@ Physicochemical Properties
 
 Myricetin is chemically known as 3,3′,4′,5,5′,7-hexahydroxyflavone. It is thought to possess a larger antioxidant property than other flavonoids due to possessing three hydroxyl groups on the B ring (which, as they are beside each other, form catechol groups) and since the double bonded oxygen group is beside two hydroxyl groups, each of which can aid in mineral chelation in vitro.[11][12] There is a prooxidative effect possible with this structure as the catechol groups can form semi-quinone radicals following oxidation, and the 4-hydroxyl group on the C ring (to the right of the ketone) and the 4-hydroxyl on the B ring (middle hydroxyl) can form a quinine methide following oxidation.[12]
 
+
 Secondary to the structure of Myricetin (depicted above), it possesses both prooxidative and antioxidative properties depending on the context of the system it is in. It is one of the more hydroxylated flavanol structures
+
 
 Removing the right-most hydroxyl group (5'-hydroxyl) on the B ring creates Quercetin, and then removing the hydroxyl on the right side of the ketone group (on the C ring) from quercetin creates Luteolin. Working back to the myricetin structure, if you remove both the 3-hydroxyl and 5-hydroxyl groups (ie. not the middle one) on the B ring you get Kaempferol, and removing the hydroxyl to the right of the ketone group again will create Apigenin; the isomer for apigenin is Naringenin. Removing all hydroxyls from the B ring results in Galangin, and removing the 4-hydroxyl from the C ring then results in Chrysin.
 
@@ -192,7 +194,9 @@ Myricetin has been noted to prolong average (18%) and maximal (21.7%) lifespan i
 
 Elsewhere, DAF-16 (the human homologue is FOXO) was confirmed to modulate the effects of myricetin on increasing average lifespan (32.9%) in C. Elegans as there was no influence on SKN-1 (human homologue is Nrf2) and abolishign DAF-16 function prevented myricetin from enhancing lifespan.[11] There was no influence of myricetin on thermal stress to C. Elegans and food intake in C. Elegans was not altered (since a reduction in food intake via caloric restriction can increase lifespan).[11]
 
+
 Myricetin appears to prolong lifespan in nematodes secondary to activating the DAF-16 (FOXO human homologue) pathway, and does not appear to increase stress resistance in nematodes
+
 
 5.
 

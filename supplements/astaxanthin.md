@@ -204,7 +204,9 @@ Sources
 
 Astaxanthin is a reddish pigment that belongs to the structural class known as the 'carotenoids' alongside some others dietary carotenoids such as β-carotene, fucoxanthin, and lutein. It was first the shells of lobster (Astacus gammaus) in 1942 and was later to be widespread among other aquatic organisms including microalgae, fish, and crustacea.[1][2][3] Astaxanthin is mostly aquatic in nature (except for some instances where it is the red pigmentation of the feathers of flamingos and quail,[4][5] where it is thought to be stored due to these birds consuming fish), and the two major souces of it are either salmon (dietary) and the microalgae haematococcus pluvialis (supplemental).[3]
 
+
 Astaxanthin is a red pigmented carotenoid structure that appears to mostly be aquatic in its origin (similar to fucoxanthin) and is most well known to be a component of wild salmon, conferring the red coloration of these salmon
+
 
 Dietary sources of Astaxanthin include:
 
@@ -228,7 +230,9 @@ It exerts itself as an anti-oxidant due to multiple oxygenated groups, two per r
 
 Relative to other carotenoids (β-carotene, lutein/zeaxanthin, lycopene), astaxanthin fails to increase membrane width and was the only carotenoid that failed to induce peroxide formation (prooxidative effects) under periods of autooxidation;[18] lutein/zeaxanthin were minimally oxidative while lycopene and β-carotene were more so.[18]
 
+
 Like most carotenoids, astaxanthin can incorporate itself in cellular membranes where it can reach both the cytoplasmic (intracellular) side as well as the external side.
+
 
 1.3
 
@@ -236,7 +240,9 @@ Biological Significance
 
 Humans cannot synthesize astaxanthin in the body, nor does it appear to act as a pro-vitamin for Vitamin A (retinol) in mammals under normal conditions[5][20] although it appears that in states of Vitamin A deficiency astaxanthin (in rats) can be forced into a provitamin role.[21]
 
+
 Astaxanthin may be able to act as a provitamin for Vitamin A in rats under conditions of dietary Vitamin A deficiency, but this capacity does not appear to exist under normal dietary conditions (and thus, astaxanthin is unlikely to cause Vitamin A toxicity symptoms)
+
 
 2.
 
@@ -250,11 +256,15 @@ Like all carotenoids such as β-carotene or lutein, astaxanthin is absorbed alon
 
 Astaxanthin is approximately 40% less bioavailable in smokers, although this is more related to peripheral metabolism of astaxanthin rather than intestinal absorption.[26]
 
+
 Astaxanthin is fat soluble and has its absorption enhanced in the presence of fatty acids
+
 
 Astaxanthin is absorbed via micelles made from dietary fat and then travels through the blood as a component of both LDL and HDL cholesterol. As a xanthophyll, it is more evenly spread between the two relative to carotenes (which favor LDL for transportation).[13][27][28]
 
+
 Astaxanthin is absorbed from the intestines via micelles made from dietary fatty acids, which is similar to all other carotenoid structures and thus requires coingestion with fatty acids (to make the micelles) to absorbed appreciable levels of astaxanthin
+
 
 2.2
 
@@ -300,7 +310,9 @@ Rationale
 
 In neural progenator cells, astaxanthin is able to increase proliferation and colony formation at 1-10ng/mL with 10ng/mL showing a two-fold increase associated with PI3K and MEK signalling pathways eventually increasing the activity of proteins involved in proliferation (Rex1 mostly).[36]
 
+
 Appears to stimulate stem cell proliferation at a very low concentration relevant to oral supplementation
+
 
 3.2
 
@@ -308,7 +320,9 @@ Non-Mammalian Interventions
 
 In Caenorhabditis elegans (Nematodes, used to research metabolic pathways of longevity[37][38]), 0.1-1mM of astaxanthin is able to increase lifespan by 16-30% in all nematodes except the DAF-16 deficient ones.[39] This enhanced lifespan was associated with increased nuclear accumulation of DAF-16 (the nuclear target of the Ins/IGF-1 signalling pathway[40]) and increased antioxidant defenses which were thought to be due to DAF-16 gene product expression (superoxide dismutase enzymes in particular[41]).[39]
 
+
 Astaxanthin may be able to promote cellular longevity secondary to boosting antioxidant defenses, which may be due to enhancing signalling through the Caenorhabditis elegans growth hormone pathway (DAF-16 nuclear accumulation)
+
 
 4.
 
@@ -320,7 +334,9 @@ Blood Pressure
 
 Astaxanthin is known to be a more potent antioxidant than Vitamin E in regards to sequestering singlet oxygen (dioxide; O2) in particular[49][50] which is known to produce superoxide (O2-) that can sequester nitric oxide by forming peroxynitrate (ONOO-);[51] as high superoxide concentrations are known to impair blood flow by interfering with nitric oxide signalling, it is thought that astaxanthin could preserve signalling by nitric oxide.[5]
 
+
 Astaxanthin is thought to promote blood flow in part secondary to its antioxidant properties, since excessive oxidation (via superoxide) can impair proper blood flow
+
 
 In rats, 50mg/kg astaxanthin oil (2.25-2.75mg/kg astaxanthin) was able to reduce both systolic and diastolic blood pressure in SHR/mrc-cp rats (a model for metabolic syndrome).[52]
 
@@ -336,7 +352,9 @@ Red Blood Cells
 
 Red blood cell (RBC) concentrations of astaxanthin have been noted to be increased following 4 and 12 weeks of 3mg astaxanthin but not 1mg astaxanthin; RBC concentrations of other measured carotenoids (lutein, β-carotene, zeaxanthin, and β-cryptoxanthin) were not affected by astaxanthin content.[56] This study failed to find a significant different in basal concentrations of phospholipid hydroperoxide in the RBCs[56] although a previous study using 6-12mg found a reduction in total lipid peroxidation associated with astaxanthin being acummulated up to 86-109nM (relative to 8nM at baseline)[57] also failing to find altered levels of other carotenoids in RBCs or tocopherols (Vitamin E).[57] These two studies assessed lipid peroxidation via the content of phospholipid hydroperoxides (PLOOHs) and phosphatidylcholine hydroperoxides (PCOOHs)[56][57] which carotenoids are known to reduce in vivo.[58]
 
+
 Oral ingestion of 6mg astaxanthin or higher appears to reduce membrane oxidation in red blood cells, although lower doses (in the 1-3mg range) do not appear to be effective despite possibly increasing the levels of astaxanthin in red blood cells
+
 
 Oral ingestion of 6mg astaxanthin nightly for 10 days has been noted to improve (reduce) blood transit time to 90% of baseline values which was significantly better than placebo which saw no change.[59]
 
@@ -376,7 +394,9 @@ Adipokines
 
 Supplementation of 12-18mg of astaxanthin daily for 12 weeks in persons with mild hyperlipidemia but of normal weight was able to increase circulating adiponectin by approximately 20-25%, while the increase seen with 6mg (of approximately 14%) was not statistically significant while 12mg nonsignificantly outperformed 18mg;[61] this change was assocaited with benefits seen in HDL cholesterol[61] of which the two are well known to be positively correlated.[64] Adiponectin is also thought to partially underlie the triglyceride reducing effects of astaxanthin in the hyperlipidemic[61] due to it being able to increase vLDL uptake and LDL expression in skeletal muscle.[52][65]
 
+
 Astaxanthin has once been noted to increase adiponectin in normal weight adults with hyperlipidemia, and this increase in thought to underlie the reductions in triglycerides and increase in HDL-C seen in these adults
+
 
 6.2
 
@@ -440,7 +460,9 @@ Antioxidant Enzymes
 
 In isolated ARPE-19 (retinal) cells, astaxanthin (5-20µM) is able to reduce H2O2 induced losses in cell viability and reactive oxygen species (ROS) production secondary to activating the PI3K/Akt pathway, which then induced the proteins NQO1, HO-1, GCLC, and GCLM.[76] In these cells, the PI3K/Akt pathway regulate Nrf2[77] which is known to induce the aforementioned antioxidant enzymes and it was confirmed that Nrf2 was localized to the nucleus.[76]
 
+
 Astaxanthin can increase Nrf2 activity and antioxidant enzymes in retinal cells secondary to activating the PI3K/Akt pathway
+
 
 9.3
 
@@ -450,7 +472,9 @@ Obesity and overweight (according to BMI in persons of which lean mass is not a 
 
 In overweight adults given 20mg astaxanthin daily for 12 weeks, there appears to be an increase in total antioxidant capacity of the blood (20%) seen at a minimum of four weeks (34.5%) which is associated with reductions in the lipid peroxidation biomarker MDA at both four (10%) and 12 (33%) weeks of supplementation.[60] This has been noted previously with 5mg and 20mg astaxanthin over three weeks in the same demographic,[32] and it appeared that the large increasss in superoxide dismutase (193-194%) and total antioxidant capacity (121-125%) were merely being normalized to normal weight control while the reduction in lipid peroxidation (34.6-35.2% reduction, down to 1.72-1.77µM) failed to be normalized to normal weight control (0.265µM).[32] Both studies noted a reduction in another biomarker of lipid peroxidation known as isoprostane[60][32] but the reduction is different than MDA where the reduction is large (64.7-64.9%; down to 1.64-1.88ng/mL from 4.63-5.34ng/mL) yet normalizes the parameter relative to normal weight controls (2.54ng/mL).
 
+
 Studies in overweight persons have noted significant improvements in general oxidation and the superoxide dismutase enzyme which seem to be normalized to the levels seen in lean controls; biomarkers of lipid peroxidation are either normalized (isoprostane) or are reduced but not to the level of normalization (MDA)
+
 
 10.
 
@@ -484,23 +508,31 @@ In the eyes, astaxanthin has been noted to protect cellular DNA from UV(A) radia
 
 While astaxanthin can be active at concnetrations as low as 1-10nM,[87] the protective effect of 100nM astaxanthin is nonsignificantly less than 1mM N-acetylcysteine[87] and neither of these agents are inherently prooxidative without any oxidative stressor in retinal cells.[87] The increase in antioxidant enzymes or genetic transcription (SOD, MT-II, and MT-III) seen with light-induced oxidation is not ablated with astaxanthin.[87]
 
+
 Astaxanthin appears to have general antioxidant properties in eye tissue. While it is not as potent in vitro as the reference drug of NAC, it is active at a level which is known to occur following low dose oral administration and does not appear to cause pro-oxidative effects under any circumstance
+
 
 Choroidal neovascularization (CNV) in mice appears to be attenuated with injections of astaxanthin associated with antiinflammatory effects[88] similar to lutein[89] and EPA from fish oil.[90] CNV is known to be a pathological factor in age-related macular degeneration (AMD)[91] and is promoted by standard angiogenic factors such as VEGF[92] and inflammatory factors such as macrophage infiltraton,[93][94] and the effects of astaxanthin (10-100mg/kg injections) appear to be mediated by attenuating the increase in inflammatory factors (ICAM-1, IL-6) resulting in less macrophage accumulation and VEGF receptor expression (VEGF itself unaffected).[88]
 
 Since these effects were traced back to NF-kB activation being prevented by astaxanthin[88] and this inflammatory mediator is known to be positively influenced by oxidative stress[95][96] it is possible that the above mechanisms are secondary to an antioxidant effect of astaxanthin.
 
+
 Astaxanthin appears to be implicated in preliminary research for reducing age-related choroidal neovascularization, which is due to an antiinflammatory effect which may be secondary to the known antioxidative properties of astaxanthin
+
 
 In mice exposed to white light, 100mg/kg astaxanthin (one dose prior to, and five doses afterwards) is able to partially (47-63%) inhibit oxidative damage relative to control and attenuate retinal cell apoptosis[85] with the protective effect at this dose extending to excitotoxins.[87]
 
 When looking at more practical lower doses, 5mg/kg astaxanthin in rats can attenuate oxidative damage caused by an increase in intraocular pressure.[97]
 
+
 Rodent studies have noted a large degree of protection seen with astaxanthin superloading, but some studies using more moderate doses (being similar to human supplementation) have also noted protective effects
+
 
 In humans given 12mg of astaxanthin daily for four weeks, choroidal blood flow to the eye (assessed by laser speckle flowgraphy) was increased relative to placebo although there were no differences in intraocular pressure.[98] This increase was time-dependent (10.3% at two weeks being lesser than 15.3% at four weeks), and was not associated with any changes 
 
+
 Astaxanthin may increase ocular blood flow without any significant changes in ocular blood pressure measurements
+
 
 11.2
 
@@ -508,7 +540,9 @@ Lungs
 
 In smokers given a dose of 48mg astaxanthin, the Cmax (peak absorption) does not appear to be significantly different from nonsmokers although the halflife of astaxanthin was reduced from around 30 hours to 18 hours[26] causing overall bodily exposure to astaxanthin (MRT; Mean Residence Time) to be reduced 25% and elimination rate to be doubled.[26] Reduced exposure to carotenoids has been noted previously (with β-carotene)[99] and smokers tend to have lower carotenoid levels at baseline due to this increaed elimination[99] thought to be related to higher oxidative stress causing more rapid elimination of antioxidants from the blood.
 
+
 Smokers appear to have less overall exposure to astaxanthin following oral supplementation which is not related to impairments in absorption
+
 
 12.
 
@@ -522,11 +556,15 @@ Astanxathin is thought to be beneficial for the skin due to its lipid soluble pr
 
 Topical application of a cream containing 5% of an astaxanthin containing oil (0.094% astaxanthin within the oil; 78.9µM final concentration) in otherwise healthy women at 1mL twice daily to the face for eight weeks was sufficient to reduce wrinkle and 'Crows feet' formation associated with improved elasticity of the skin.[100] Age spots were also reduced as assessed by normal and UV lamp photographs, and while there was no overall moisturizing effect a subgroup with dry skin appeared to see some benefits and TEWL (whole group) was reduced.[100]
 
+
 Topical application of astaxanthin appears to improve elasticity and symptoms of skin aging, and there may be a moisturizing effect only present in those with dry skin
+
 
 Oral ingestion of 3mg astaxanthin via an oil product in otherwise healthy men noted reductions in total area and volume of wrinkles, and similar to topical appliation there was a trend to improve moisture only in those with dry skin and there was a signficant improvement in elasticity of the skin in the 'Crows feet' after eight weeks relative to control.[100]
 
+
 Oral supplementation of the standard doses of astaxanthin also appear to be beneficial for the skin in the same ways that topical application is
+
 
 13.
 
@@ -546,7 +584,9 @@ Menopausal Symptoms
 
 One study has used astaxanthin (0.27mg) alongside other ingredients such as lycopene, calcium, vitamin D, and citrus bioflavonoids (ie. hesperidin) relative to placebo noted that treatment was associated with a 48% reduction in symptoms as assessed by the MSSQ relative to the 10% increase seen in placebo.[106] Symptoms improved were mostly related to hot flashes, libido, depression/anxiety, incontinence, and vaginal dryness.[106]
 
+
 One study using astaxanthin among many other compounds; astaxanthin may not be the major component due to its low levels ingested suggesting it is underactive
+
 
 14.
 

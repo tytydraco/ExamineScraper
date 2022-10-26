@@ -110,7 +110,9 @@ Composition
 
 Shilajit tends to contain:
 
-Fulvic Acid, seen as the main bioactive component[8]Di-benzo-alpha-pyrones (DBPs) and the chromoproteins associated with DBPs;[8] several other compounds such as 3,8-dihydroxy-dibenzo-α-pyrone that belong to the Dibenzo-α-pyrone class of molecules[1][9]4′-methoxy-6-carbomethoxybiphenyl24(Z)-3/3-hydroxytirucalla-7,24-dien-26-oic acid, a triterpenoic molecule[1]Glycine, Aspartic Acid, and Glutamic Acid in minor quantities[1]Fulvic acid is probably the most relevant molecule of interest, as many modern supplements are standardized for Fulvic acid. Tirucalloic-type triterpenoids appear to also be relevant. Shilajit possesses a good deal of variability naturally based on growing conditions
+Fulvic Acid, seen as the main bioactive component[8]Di-benzo-alpha-pyrones (DBPs) and the chromoproteins associated with DBPs;[8] several other compounds such as 3,8-dihydroxy-dibenzo-α-pyrone that belong to the Dibenzo-α-pyrone class of molecules[1][9]4′-methoxy-6-carbomethoxybiphenyl24(Z)-3/3-hydroxytirucalla-7,24-dien-26-oic acid, a triterpenoic molecule[1]Glycine, Aspartic Acid, and Glutamic Acid in minor quantities[1]
+Fulvic acid is probably the most relevant molecule of interest, as many modern supplements are standardized for Fulvic acid. Tirucalloic-type triterpenoids appear to also be relevant. Shilajit possesses a good deal of variability naturally based on growing conditions
+
 
 1.3
 
@@ -152,7 +154,9 @@ Shilajit is thought to be able to influence the perception of pain (nociorecepti
 
 In isolated Substantia Gelatinosa (SG) neurons from the Trigeminal Subnucleus Caudalis (involved in nocioreception) of mice, Shilajit caused repeated inward currents in neurons (thought to be mediated post-synaptically) in a concentration-dependent manner up to 1mg/mL and as low as 100ug/mL, with an estimated EC50 of 562 µg/ml.[13] These effects were abolished with 2uM strychnine (glycine receptor antagonist) and partially reduced by a GABAA antagonist.[13]
 
+
 Some interactions with pain in the direction of reducing the perception of pain, but efficacy is unknown
+
 
 3.3
 
@@ -170,7 +174,9 @@ Blood Glucose
 
 One human intervention with 200mg (54.8% Fulvic Acid) Shilajit daily for 90 days was associated with a decrease blood glucose by 6.8% relative to baseline in otherwise healthy males relative to their own baseline.[8] A reduction in blood glucose was not observed with 2g (6.61% Fulvic Acid) Shilajit over 45 days in otherwise healthy persons.[12]
 
+
 Two human studies, differing results with different doses. Too preliminary to say anything
+
 
 5.
 

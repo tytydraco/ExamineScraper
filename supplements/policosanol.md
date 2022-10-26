@@ -114,7 +114,9 @@ Policosanol is a term that refers to a mixture of fatty acid alcohols, and is so
 
 Policosanol can also be found in:
 
-Perilla Seeds (Perilla frutescens), alongside Rosmarinic Acid and the gamma forms of Vitamin E[3] in approximately the same ratios as in Cane Sugar[4] In Perilla oil, the content is 427.83mg/kg oil (10mg Policosanol per 23.4g oil)[5]Wheat and Wheat Germ[6]Peanuts[7]Rice (Orzya species only such as Gamma Oryzanol)[8] and Rice Bran Oil[5] at 171.17mg/kg oil (10mg Policosanol per 58.4g oil)Pomegranate seeds[9]Grape seed oil, at 245.15mg/kg oil (10mg Policosanol per 40.8g oil)[5]Corn, Sesame, and Soybean oil in minute quantities[5]Switchgrass (Panicum virgatum)[10]Guduchi (Tinospora cordifolia)[11]Found mostly in seeds and the waxy coating of Cane Sugar, but is seen in a variety of unique sources
+Perilla Seeds (Perilla frutescens), alongside Rosmarinic Acid and the gamma forms of Vitamin E[3] in approximately the same ratios as in Cane Sugar[4] In Perilla oil, the content is 427.83mg/kg oil (10mg Policosanol per 23.4g oil)[5]Wheat and Wheat Germ[6]Peanuts[7]Rice (Orzya species only such as Gamma Oryzanol)[8] and Rice Bran Oil[5] at 171.17mg/kg oil (10mg Policosanol per 58.4g oil)Pomegranate seeds[9]Grape seed oil, at 245.15mg/kg oil (10mg Policosanol per 40.8g oil)[5]Corn, Sesame, and Soybean oil in minute quantities[5]Switchgrass (Panicum virgatum)[10]Guduchi (Tinospora cordifolia)[11]
+Found mostly in seeds and the waxy coating of Cane Sugar, but is seen in a variety of unique sources
+
 
 1.2
 
@@ -126,7 +128,9 @@ The fatty acid alcohols in question (with their carbon length designated as Cxx)
 
 C20, Eicosanol at less than 0.1%[12]C22, Docosanol at less than 0.1%[12]C23, Tricosanol at less than 1%[12]C24, Tetracosanol at approximately 2%[12]C26, Hexacosanol at approximately 6%[12] but standardized to the 3-10% rangeC27, Heptacosanol at less than 1%[12]C28, Octacosanol at approximately 66%[12] but standardized to the 60-70% rangeC29, Nonacosanol at less than 0.1%[12]C30, Triacontanol at approximately 17%[12] and standardized to the 10-15% range usuallyC32, Dotriacontanol at approximately 5%[12] and standardized to the 5-10% range at timesC34, Tetratriacontanol at less than 1%[12]The bolded terms are those that are in highest amounts. Octacosanol is seen as the primary bioactive fatty alcohol whereas Triacontanol is seen as a significant source of bioactivity as well; the others should be noted as their bioactivity may be relevant.
 
+
 For all intents and purposes, 'Policosanol' is a term used to refer to a collection of fatty acid alcohols
+
 
 1.3
 
@@ -148,7 +152,9 @@ Policosanol appeared to enhance cholesterol ester and free fatty acid uptake int
 
 Interestingly, it was found that 1.14ug/mL Policosanol inhibited growth of the CaCo-2 cells, whereas half the concentration (0.57ug/mL) had no effect.[15]
 
+
 Absorbed fairly well and in vitro is rapidly metabolized, does not appear to prevent a large deal of cholesterol uptake
+
 
 2.2
 
@@ -186,11 +192,15 @@ This inhibition of AMPK may reduce cholesterol synthesis, and in isolated rat ce
 
 All the previous mechanisms have been replicated in vitro in human fibroblasts.[27][28] When tested in vivo, suppression of cholesterol synthesis has been noted twice with rats[29] and rabbits[30] and has not been demonstrated in two studies using hamsters.[31][32]
 
+
 The mechanisms appear to exist for policosanol to reduce cholesterol synthesis, via AMPK acting as the main lever but the true activation probably occurring more upstream of that. Ultimately, it is an indirect inhibition of HMG-CoA (rate limiting step of cholesterol synthesis) which is credited
+
 
 Interestingly, policosanol fatty acid alcohols appear to work mostly through their metabolites; the fatty acids. Elimination of peroxisomal metabolism (converting alcohols to acids) eliminates influence on HMG-CoA and halves the influence on AMPK, but coincubation with acetate preserved this.[12] Interestingly, despite similar in vitro potencies between policosanol and Metformin, Metformin was not influenced by peroxisomal elimination.[12]
 
+
 Possible lifestyle interactions here, where the liver must be 'burning fat' in order for conversion to the active molecules to occur
+
 
 3.2
 
@@ -200,15 +210,20 @@ At least in regards to literature on policosanol, there appears to be a schism o
 
 Going on the assumption that the above studies are valid, the range of improvement in blood lipids tends to be quite reliably in the range of 20+/-5% reductions in LDL cholesterol, 10+/-5% reductions in total cholesterol, and 15+/-10% increases in HDL cholesterol (numbers approximations). Studies range from 6-12 weeks[38][41] to 12[33] to 24 months[37] and tend to have similar overall reductions. Doses used tend to be 5-20mg taken in two divided doses daily, and studies investigating varying dosages usually find no significant differences between lower and higher doses.[34]
 
+
 The only study originating from Cuba painting Policosanols in a bad light is a comparative study that was testing out a product called D-003, which is a purified form of Policosanols.[49] However, if these studies are true then 5-20mg of Policosanol daily is about as effective as statin therapy in reducing cholesterol levels
+
 
 For studies conducted outside of cuba, ones that show benefit are conducted in Chile,[50] and Mexico,[51] with a study from Croatia showing mixed benefits[52]; studies from Italy,[53][54], the Netherlands,[55] Germany,[56] South Africa,[57] Canada,[58][17] and the USA[59][60][61][62] note no effects on circulating cholesterol or triglyceride levels, and some studies do make note that they use 'authentic' Cuban Cane Sugars.[58][54] When assessing non-Cuban studies for possible conflicts of interest, none are reported and only 3 studies report external funding; all from companies not directly involved with statin or pharmaceutical distribution.[56][61][57]
 
 These possible publication bias shows in studies on LDL oxidation, where a Cuban study reported benefit[63] while a study conducted in Montreal, Canada reported no such effect.[64] It is possible that studies on blood flow are also subject to this, as although there is a multitude of research originating from Cuba showing benefits on platelet aggregation[65][66][67][68][69][70] physical performance secondary to blood flow (intermittent claudation or heart disease)[71][72] and adverse effects reduction related to heart disease.[33] Counter-evidence to this point is minimal, but the only study conducted outside Cuba on blood clotting (Croatia) noted no effects[73] and an Australian study noted no interactions with Warfarin efficacy (a blood thinner).[74]
 
+
 Not to sound all conspiracy theorist like, but the chances of the above occurring by pure chance are next to nothing and 'true' Policosanols are derived from Cuban Cane Sugar; this discord in the evidence undermines a lot of the beneficial studies on the subject matter, and despite the large body of evidence there really is not much quality evidence if we assume the Cuban studies are undermined
 
+
 A 100% success rate is seen with studies conducted in Cuba while the success rate for every other location combined is 2 out of 14 (14.2%). The possibility that Policosanol is ineffective in treating cholesterol levels but suffers from a large degree of publication bias cannot be ruled out
+
 
 When looking at studies that are both conducted within Cuba and those that find benefit, some are seen using the step I NCEP (National Cholesterol Education Program) diet found here.[75] and these studies include the following.[76][34][33][40] Other studies specified a lipid-lowering diet,[43][35][42] while some a cholesterol-lowering diet.[45][38][44] and some unspecified but present.[36][47][46] Several studies using diets do include a 2-6 week 'run-in' period where diet is adapted to and made routine before the intervention is conducted.
 
@@ -220,7 +235,9 @@ When looking at the studies that found no effects of policosanol on blood lipids
 
 Of those, two studies used the dietary 'lead-in' period of accustomizing persons to a lifestyle change diet before introducing policosanol intervention. A study from Croatia[8] can back with a reduction of total cholesterol (down to 94% of baseline) and no significant influence on LDL-C or HDL-C between groups and a study from Germany[56] found no significant effects and no patients reporting more than a 10% drop in LDL-C regardless of statistical significance.
 
+
 The notion that policosanol's efficacy is reliant on a controlled diet is a plausible counter-hypothesis that has not yet been ruled out, and may play some importance given the 2011 in vitro study suggesting fatty acid metabolism is mandatory for fatty acid alcohols to become effective. This is the only significant difference between Cuban studies and non-Cuban studies that persists, and the differences can be explained currently by either location or dietary intervention
+
 
 4.
 
@@ -232,7 +249,9 @@ Cognition
 
 One study in karate athletes found that fish oil at 2.25g daily paired with 10mg policosanol found that after 21 days of supplementation that the combination was able to reduce reaction time and increase mood, with the increased mood persisting 21 days after cessation of supplementation while reaction time returned to normal.[77] These effects have been seen with isolated policosanol compounds at 3.6mg daily in as short as a week[78] Both studies were carried out on otherwise healthy and youthful persons, although the degree of improved speed is minor; the study in athletes noted decreased reaction time from approximately 860milliseconds (ms) to 840ms (data extracted from graphs, approximately a 2% decrease)[77] whereas in healthy sedentary persons the decreases range from 90% of baseline values to 94% of baseline depending on the manner of testing.[78]
 
+
 May increase reaction time in humans after ingestion, but aside from being relatively understudied the effects do not seem overly potent. Kava Kava or Vinpocetine may be better options
+
 
 4.2
 
@@ -264,7 +283,9 @@ When policosanol and Warfarin were investigated alongside each other, Policosano
 
 A study in rats using D-003 (the fatty acids of policosanol) did note synergism, however, and suggests that the combination may confer much greater anti-platelet activity than Warfarin and D-003 in isolation.[82]
 
+
 May interact adversely with Warfarin, possibly mediated through the active metabolites
+
 
 6.2
 
@@ -272,7 +293,9 @@ Aspirin
 
 The formulation of D-003, which is the fatty acids of policosanol rather than the fatty alcohols, appears to be synergistic with Aspirin in both positive and negative manners; the combination of D-003 (50mg/kg) and Aspirin (3mg/kg) synergistically enhanced bleeding time from preventing platelet aggregation (negative) but the combination enhanced a 33% survival rate seen with the isolated treatments in response to a blood clotting stimuli to 88% survival with combination therapy.[83]
 
+
 May work synergistically with Aspirin
+
 
 6.3
 
@@ -280,7 +303,9 @@ Fish Oil
 
 Policosanol has been investigated with fish oil, as Policosanol has evidence for benefitting lipoproteins with minimal influence on triglycerides while fish oil can reduce triglycerides while possible raising LDL-C. One Cuban trial done into this combination in hypercholesterolemic patients[76] found that combination therapy led to LDL-C decreases of 21.1-26.2% at 5-10mg daily, although the fish oil only group had a decrease of 2.1% (possibly due to following a NCEP cholesterol reduction diet); Triglycerides decreased by 13% in the fish oil group at 2g daily (44% EPA, 37% DHA), and the addition of policosanol did not significantly influence the triglyceride reduction.[76]
 
+
 Preliminary evidence that they can nicely compliment each other, although no synergism has been demonstrated
+
 
 6.4
 
@@ -290,7 +315,9 @@ CoQ10 is a vitamin-like compound that becomes important to ingest or supplement 
 
 As the mechanisms of policosanol are ultimately mediated via HMG-CoA, a long-term deficiency of CoQ10 could be suspect. This has not been reported in chronic studies with Policosanol currently (1-2 years) when dosed at 10-20mg, but has not been ruled out either.
 
+
 Possible interaction with these two based on the mechanisms of Policosanol, under the assumption that it works
+
 
 6.5
 
@@ -318,5 +345,7 @@ A study in monkeys, the most repesentative animal model to humans, was found to 
 
 No differences between groups have been noted in rats fed 500mg/kg in regards to tumor growth, suggesting policosanol may not influence cancer metabolism.[85] This study was replicated and extended 6 months (from 18 to 24) and a lack of effects was again noted.[91]
 
+
 Independent of whether it works or not, Policosanol appears to be quite a safe supplement to ingest and has not been linked to side-effects currently
+
 

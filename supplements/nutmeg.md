@@ -110,7 +110,9 @@ Myristica fragrans (of the family Myristicaceae) is a plant which bears seeds, a
 
 Nutmeg seeds have been used in traditional medicine as a general tonix and nervous system stimulant, but also for the purposes of treating paralysis, respiratory ailments, and sickness or improving the libido, appetite, and blood circulation; it also bears the properties of being a stomachic and carminative agent.[1][2]
 
+
 Nutmeg refers to the seeds of the plant Myristica fragrans, and these seeds appear to have general aphrodisiac properties and are said to interact with the nervous system, digestive system, and blood circulation
+
 
 1.2
 
@@ -122,7 +124,9 @@ Macelignan ((8R, 8′S)-7-(3,4-methylene-dioxyphenyl)-7′-(4-hydroxy-3-methoxyp
 
 Trimyristin (triglyceride composed of three myristic acids) at 20-25% total dehydrated seed weightThe essential oil component (5-10% dry seed weight[6]) of the nutmeg seeds includes:
 
-Sabinene (21.38%[6])Myristicin (5-allyl-1-methoxy-2,3-methylenodioxybenzene), seen as the main bioactive of nutmeg[7] present at 13.57%[6] and also present in dill to a limited degreeElemicin (1-allyl-3,4,5-trimethoxybenzene) at 1.42%[6]4-terpineol (13.92%[6]) and α-terpineol (3.11%[6])Safrole (4.28%[6])Methyl eugeunol (0.77%), Isoeugeunol (1.74%), and Methoxyeugeunol (0.10%)[6]α-pinene (10.23%[6])α-thujene (0.78%[6])α-myrcena (2.38%[6])β-asarone (0.03%[6])α-terpinene (2.72%) and γ-terpinene (3.98%) as well as Terpinolene (1.62%)[6]Limonene (5.57%)[6]β-ocimene (0.03%)[6]Linalool (0.75%)[6]Citronellol (0.77%)[6]Keep in mind that Myristicin (phenolic), Myristin/Myristic acid (fatty acids), and the flavonoid Myricetin are all different but similarly named molecules
+Sabinene (21.38%[6])Myristicin (5-allyl-1-methoxy-2,3-methylenodioxybenzene), seen as the main bioactive of nutmeg[7] present at 13.57%[6] and also present in dill to a limited degreeElemicin (1-allyl-3,4,5-trimethoxybenzene) at 1.42%[6]4-terpineol (13.92%[6]) and α-terpineol (3.11%[6])Safrole (4.28%[6])Methyl eugeunol (0.77%), Isoeugeunol (1.74%), and Methoxyeugeunol (0.10%)[6]α-pinene (10.23%[6])α-thujene (0.78%[6])α-myrcena (2.38%[6])β-asarone (0.03%[6])α-terpinene (2.72%) and γ-terpinene (3.98%) as well as Terpinolene (1.62%)[6]Limonene (5.57%)[6]β-ocimene (0.03%)[6]Linalool (0.75%)[6]Citronellol (0.77%)[6]
+Keep in mind that Myristicin (phenolic), Myristin/Myristic acid (fatty acids), and the flavonoid Myricetin are all different but similarly named molecules
+
 
 2.
 
@@ -142,13 +146,17 @@ Following administration to the rat and in vitro analysis in liver microsomes, m
 
 Myrislignan (acyclic neolignan in the seeds) has been noted to form seven metabolites referred to as myrislignanometins A-G in liver microsomes, whereas C/D and E/F were isomers pairs.[5] 
 
+
 Myriscitin appears to form two metabolites in the rat, one of which is a hydroxylated variant (similar to other phenolics such as safrole and elemicin) and the other is simply oxidation of the methylenedioxy group
+
 
 It was initially hypothesized that elemicin and myristicin can form known hallucinogenic drugs in the brain following amination processes (formation of 3,4-methylenedioxy-5-methoxyamphetamine from myricitin and mescaline from elemicin[9]) since the only structural modification is said amination; this pathway was initially doubted to occur[10] and has not been demonstrated in vivo.
 
 Other studies on the metabolism of myriscitin or elemicin, either in vitro or in vivo, have failed to detect either mescaline or amphetamine-like compounds[8] and measuring human urine following nutmeg ingestion has failed to find the aforementioned amphetamine derivative.[11]
 
+
 Currently no evidence to support conversion of nutmeg bioactives into known amphetamines (3,4-methylenedioxy-5-methoxyamphetamine) or phenethylamines (mescaline) following oral consumption
+
 
 2.3
 
@@ -210,7 +218,9 @@ Anxiety and Stress
 
 Injections of trimyristin (10-100mg/kg) in rats was able to cause an anxiogenic response in various tests, and when anxiolytic drugs (buspirone, diazepam, ondansetron) were coadministreted trimyristin was able to attenuate their effects.[16]
 
+
 Injections of the major fatty acid in nutmeg seeds appears to cause anxiety in research rodents
+
 
 3.8
 
@@ -274,5 +284,7 @@ The doses of which toxicity have been reported include 50g in a shake of which 2
 
 Cardiovascular symptoms that have been reported include tachycardia, sinus arrythmia, and increased respiratory rate while both mild hypotension and hypertension have been reported.[22][26][24] Neurological symptoms that have been reported include giddiness, nausea, delirium and hallucinations, anxiety, restlessness, (general) algesia, blurred vision, and feelings of impending doom.[22][26][23] Symptoms occur about 4-6 hours after ingestion and may persist for up to 72 hours at worst[24][26][23] and case studies have noted dissipation in 16[22] or 48 hours (some dizziness after the third day remained).[26]
 
+
 Nutmeg toxicity has been reported numerous times associated with persons who are using the spice in an attempt to induce cheap hallucinations. The toxicology reports are highly variable, and while some persons tolerate or have mild adverse effects to high doses there have been fatalities associated with more moderate dosages
+
 

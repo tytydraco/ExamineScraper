@@ -169,7 +169,9 @@ Studies regarding breast cancer note that Black Cohosh may exert an anti-estroge
 
 When looking at isolated compounds in Black Cohosh, the main four triterpenoids compounds (cimiracemoside A, 25-O-methyl-cimigenoside, actein, nor 26-deoxy-actein) fail to increase estrogen levels.[25]
 
+
 Does not actually possess estrogenic activity nor does it increase circulating estrogen levels. It may be anti-estrogenic as assessed by studies in breast cancer cell lines
+
 
 3.2
 
@@ -177,7 +179,9 @@ Testosterone
 
 In a study on Japanese Medaka (fish used as a research model), it was found that Black Cohosh was able to reduce circulating testosterone via testicular release.[25] However, this effect was not seen after a single injection into male mice.[26]
 
+
 Not enough evidence to draw any conclusions
+
 
 3.3
 
@@ -187,7 +191,9 @@ Acute supplementation of Black Cohosh in rats has been shown to suppress LH secr
 
 12 weeks supplementation with 40mg isopropanolic extract Black Cohosh was found to not significantly influence Luteinizing Hormone secretion in post-menopausal women.[21] This parallels a year-long study with Black Cohosh in post menopausal women that, even after double-blind, there were no influences on circulating LH.[22]
 
+
 Long term human studies suggest no practically relevant suppression of luteinizing hormone associated with Black Cohosh supplementation
+
 
 3.4
 
@@ -211,7 +217,9 @@ In fact, one 12 month long blinded study comparing black cohosh to placebo found
 
 Of the double blinded studies mentioned in the meta-analysis, three has industry funding.[40][41][42] The two studies excluded from meta-analysis due to lack of ability to analyze them both showed positive results.[32][31] Five studies, although blinded, did not analyze Black Cohosh in isolation and either investigated the combination with St.John's Wort[40][41] or a multi-botanical approach.[42][43][44]
 
+
 Overall, there appears to be a slight trend towards beneficial effects on hot flashes and night sweats associated with Black Cohosh. There is a large amount of studies showing this benefit, but many are unblinded (on a topic where the placebo effect can confer tons of benefit) and the double blind studies are many times confounded with other supplements (making it hard to attribute the benefit to Black Cohosh).
+
 
 4.2
 
@@ -289,7 +297,9 @@ An isopropanolic extract of Black Cohosh paired with St.John's Wort has shown ef
 
 The only study to compare Black Cohosh against the combination was an unblinded but controlled study, and found the combination to be superior but not synergistically so.[55]
 
+
 Both compounds seem to be complementary towards the same goals, but have not yet been shown to 'work together' or be synergistic
+
 
 9.
 
@@ -303,7 +313,9 @@ When looking at vaginal bleeding in postmenopausal women, one large scaled (yet 
 
 A study on 400 women measuring endometrial thickness via biopsy after 52 weeks of supplementation with the BNO 1055 extract of Black Cohosh failed to show any increases in endometrial thickness or vaginal hyperplasia despite being able to reduce hot flashes.[57]
 
+
 No significant adverse effects related to menopause or estrogen have been reported with Black Cohosh supplementation, although an increase of breast tenderness and swelling has been noted in some studies
+
 
 9.2
 
@@ -317,7 +329,9 @@ When investigating this claim via trials, a trial of 87 otherwise healthy postme
 
 Due to the popularity of Black Cohosh, ranking as the 10th most popular nutraceutical in the year of 2008,[2] it is possible that said hepatotoxicity is due to poor regulation and spiking of 'Black Cohosh' products. A study investigating popular sold Cohosh products found that some did not contain Black Cohosh, but asian varieties of the Actaea genus that have not been as adequately studied.[64]
 
+
 There are indeed case studies associating Black Cohosh supplementation with liver failure, but whether this is actually due to the Black Cohosh plant is not known. Attempts to prove toxic effects to the liver have failed and controlled trials have not noted any dysfunction to the liver's functions; the possibility of tainted supplements due to the popularity of Black Cohosh cannot be ruled out
+
 
 9.3
 

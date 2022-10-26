@@ -314,7 +314,9 @@ Glycyrrhiza is a plant family that is commonly known as Liquorice. It is divided
 
 When used in traditional medicines, it is sometimes referred to as Yashtimadhu (Ayurveda[5]) or Gan cao (Traditional Chinese Medicine in reference to the root extract[6]) or Kanzoto (aqueous extract[7]). In Traditional Chinese Medicine, it is usually recommended to consume 8-25g of Licorice daily (as a decoction) and up to 100g during periods of disease[8][9] and tends to be catered to respiratory, cardiovascular, endocrine, and digestive system diseases.[9] In greek medicine, it has the standard usages of treating pectoral and respiratory diseases but appears to have been a treatment for Addison’s Disease[2] while in Chinese Medicine licorice is said to be useful for (according to Shen Nong Ben Cao Jing) life-enhancing properties, improving health, cure of injury or swelling, and for its detoxification effects.[10]
 
+
 Licorice is a plant where the roots are both used for medicinal properties and also sometimes used to make confectionaries. The root is highly sweet, from which it derives its name
+
 
 Another form of “licorice” exists and is referred to as Brazilian Licorice (with the official name of Periandra Mediterranea) and is unrelated to the Glycyrrhiza family of plants. The phrasing of “Chinese Licorice” tends to refer to the species of Glycyrrhiza Uralensis,[11] although sometimes pallidiflora is used in replacement of Uralensis for confectionary purposes.[2]
 
@@ -326,12 +328,16 @@ Composition
 
 (Potentially) bioactive components of Glycyrrhiza include:
 
-Glycyrrhetinic Acid and its diglycoside of Glycyrrhizin. The latter said to be between 2-15% dry weight of the plant[12] but measured appears to be in the range of 1.212-40.7mg/g (0.1-4%; most values around 1.5%).[13] Up to 9.1% can be found in a hydroalcoholic extract,[14] and when identifying both the 18α and 18β isomers of Glycyrrhetinic Acid, their ranges in mg/g dry weight are 0.062-0.475 and 0.015-0.13 respectively[13]Glycyrrhyzic Acid (inactive analogue of Glycyrrhetic Acids)[15]Glabridin at 0.92mg/g licorice by dry weight,[16] although another study suggests a range of 0.08 to 0.35% (0.92mg/g being 0.09% and within this range)[17] and one study reporting up to 11.9%;[18] 100g of Licorice gives 80–350mg Glabridin within the normal rangeLiquiritigenin (flavanoid; 0.108-2.174mg/g) and when diprenylated, Glabrol (2.3mg/g dry weight).[19] Also Isoliquiritigenin (0.073-0.489mg/g),[7] and Liquiritigenin’s glycoside Liquirtin (0.451-30.7mg/g; up to 3% Licorice by dry weight). Liquirtigenin is unique to Licorice and Alfalfa[20]Coumarins (Licopyranocoumarin, Licoarylcoumarin, Glycycoumarin)[21][22]Formononectin[23]Glisoflavone[22]Various prenylated flavanoids (Prenylicoflavone A, Glysasperin A, Licoricidin, Hispaglabridin A, Isoagnusone A, Kanzonol K, and Glycyrrhisoflavone)[10]Various volatiles such as β-caryophyllene oxide, decadienol, 1α, 10α-epoxyamorpha-4-ene, β-dihydroionone, thymol, and carvacrol (mostly related to flavor and scent)[1]Isoangustone A (Glycyrrhiza Uralensis)[24]Licochalcone A-E (mostly from the inflata species[25][26]) with at least A[27] and C[28] isolated form Glycyrrhiza Glabra and limited amounts in Uralensis[29]The main active component of Liquorice is known to be Glycyrrhizin and its metabolite 18-β glycyrrhetinic acid, flavanoids which focus mostly on Liquirtigenin and Isoliquirtigenin, and the subset of polyphenolics centering on Glabridin. Although there are many different bioactives (and an entire class of prenylated flavanoids with promise), those three categories seem to be most researched
+Glycyrrhetinic Acid and its diglycoside of Glycyrrhizin. The latter said to be between 2-15% dry weight of the plant[12] but measured appears to be in the range of 1.212-40.7mg/g (0.1-4%; most values around 1.5%).[13] Up to 9.1% can be found in a hydroalcoholic extract,[14] and when identifying both the 18α and 18β isomers of Glycyrrhetinic Acid, their ranges in mg/g dry weight are 0.062-0.475 and 0.015-0.13 respectively[13]Glycyrrhyzic Acid (inactive analogue of Glycyrrhetic Acids)[15]Glabridin at 0.92mg/g licorice by dry weight,[16] although another study suggests a range of 0.08 to 0.35% (0.92mg/g being 0.09% and within this range)[17] and one study reporting up to 11.9%;[18] 100g of Licorice gives 80–350mg Glabridin within the normal rangeLiquiritigenin (flavanoid; 0.108-2.174mg/g) and when diprenylated, Glabrol (2.3mg/g dry weight).[19] Also Isoliquiritigenin (0.073-0.489mg/g),[7] and Liquiritigenin’s glycoside Liquirtin (0.451-30.7mg/g; up to 3% Licorice by dry weight). Liquirtigenin is unique to Licorice and Alfalfa[20]Coumarins (Licopyranocoumarin, Licoarylcoumarin, Glycycoumarin)[21][22]Formononectin[23]Glisoflavone[22]Various prenylated flavanoids (Prenylicoflavone A, Glysasperin A, Licoricidin, Hispaglabridin A, Isoagnusone A, Kanzonol K, and Glycyrrhisoflavone)[10]Various volatiles such as β-caryophyllene oxide, decadienol, 1α, 10α-epoxyamorpha-4-ene, β-dihydroionone, thymol, and carvacrol (mostly related to flavor and scent)[1]Isoangustone A (Glycyrrhiza Uralensis)[24]Licochalcone A-E (mostly from the inflata species[25][26]) with at least A[27] and C[28] isolated form Glycyrrhiza Glabra and limited amounts in Uralensis[29]
+The main active component of Liquorice is known to be Glycyrrhizin and its metabolite 18-β glycyrrhetinic acid, flavanoids which focus mostly on Liquirtigenin and Isoliquirtigenin, and the subset of polyphenolics centering on Glabridin. Although there are many different bioactives (and an entire class of prenylated flavanoids with promise), those three categories seem to be most researched
+
 
 And polysaccharides found in Licorice (bioactive compounds that belong to the carbohydrate class; found in caloric vessels of Licorice but not isolated calorie-free extracts):[10]
 
 Glycyrrhizin UC (69,000kDa; L-arabinose, D-galactose, D-glucose, and L-rhamnose at 10:30:27:1 in arabino-3, 6-
-galactoglucan-type structure)[30][31] found in UralensisGlycyrrhizin UA[32] found in UralensisA collection of lesser known Uralensis polysaccharides (n=10)[33]Glycyrrhizin GA (85,000kDa; L-arabinose: D-galactose: L-rhamnose: D-galacturonic acid: D-glucuronic acid at 22:10:1:2:1)[34][35] found in GlabraUnidentified pro-immunity polysaccharide[36]Like many medicinal herbs, licorice has a collection of bioactive polysaccharides
+galactoglucan-type structure)[30][31] found in UralensisGlycyrrhizin UA[32] found in UralensisA collection of lesser known Uralensis polysaccharides (n=10)[33]Glycyrrhizin GA (85,000kDa; L-arabinose: D-galactose: L-rhamnose: D-galacturonic acid: D-glucuronic acid at 22:10:1:2:1)[34][35] found in GlabraUnidentified pro-immunity polysaccharide[36]
+Like many medicinal herbs, licorice has a collection of bioactive polysaccharides
+
 
 About 20% of the bioactives can be removed from the water extract, which consist of the sweetened fragment (mostly Glycyrrhizin up to 7-25% of the water extract) and flavanoids related to Liquirtigenin (1-1.5% total weight, 5-7.5% of the water extract).[2]
 
@@ -349,7 +355,9 @@ One study assessing confectionaries noted that the amount of Glycyrrhizin in tre
 
 One study noted that, in a small uncontrolled trial of 4 persons, that consuming 200g of Licorice (containing 100mg Glycyrrhisin and 1.6mg Glycyrrhetic Acid) as food product in 45 minutes resulted in a (range) of values from 250-434ng/mL after 250 minutes that persisted until the experiment ended at 500 minutes; one of the four subjects had a significantly lesser (150ng/mL) peak at 350 minutes.[38] This is despite Glycyrrhizin having apparently reduced absorption when consumed via licorice products (relative to isolated supplements).[39]
 
+
 Food products may have the same or comparable levels of bioactives as basic licorice root and unconcentrated supplements, and licorice should be viewed as a functional food due to this
+
 
 At least in the US, regulations are in place for maximal Glycyrrhizin content in food products:[2][40]
 
@@ -361,7 +369,9 @@ Glavanoid
 
 Glavonoid is a brand name used in some trials as “Licorice Flavanoid Oil” (LFO) patented by Kaneka Nutrients and sourced from Glycyrrhiza Glabra, concentrated for the flavanoid Glabridin. It is standardized to 30% Polyphenolics with 3% Glabridin according to one study[42] while another measuring the oil found that 90% of LFO by weight consisted of Medium Chain Triglycerides, 10% of Licorice extract, and 1% by total weight was Glabridin; other components included glabrene (0.2%), glabrol (0.2%), and 0.1% 4′-O-methylglabridin with under 0.005% glycyrrhizin (diglycoside of Glycyrrhetic Acids).[43] These claims of undetectable levels of Glycyrrhizinic Acid have been confirmed by a European Food Safety Panel.[3]
 
+
 Glavanoid is a concentrated (patented) formula of flavanoids standardized for its Glabridin content with little to no Glycyrrhizin content
+
 
 1.6
 
@@ -385,13 +395,17 @@ In Caco-2 cells, Glabridin appears to be absorbed in vitro and reaches serum whe
 
 Glabridin does appear to be an inhibitor of P-Glycoprotein itself when incubated in vitro, as it can accumulate Digoxin, but this does not appear to biologically relevant as mice lacking this receptor have enhanced absorption of Glabridin (relative to normal mice) and a stronger P-Glycoprotein inhibitor (Vermapril) can enhance absorption rates.[8]
 
+
 P-Glycoprotein inhibitors may increase intestinal absorption of Glabridin
+
 
 In regards to Glycyrrhizin, it appears to also have relatively low absorption with 50mg/kg being the lowest dose that can be detectable in rat plasma after oral administration;[47][48] despite this correlating to 8mg/kg in humans (545mg for a 150lb person), Glycyrrhizin can be found circulating in blood of humans at lower doses of 100mg increasing relatively lineraily up to 1600mg.[49][50][51] Absorption of Glycyrrhizin and its metabolites are dependent on metabolism by intestinal bacteria prior to absorption, as germ-free rats do not get spikes in serum after oral ingestion.[52][53]
 
 The diammonium salt of Glycyrrhizin results in an apparent bioavailability of 98.88±12.98%, near complete absorption over 24 hours.[54]
 
+
 Glycyrrhizin and its aglycone Glycyrrhetic Acid can both be absorbed after oral ingestion of either licorice or isolated supplements (with higher apparent bioavailability with supplements), and hydrolysis by intestinal bacteria appears to be critical for absorption. Glycyrrhetic Acid has near perfect absorption but is prolonged
+
 
 2.2
 
@@ -403,7 +417,9 @@ After ingestion of 10mg/kg Glabridin in rats either in isolation or as a compone
 
 During multiple dosing testing, the increase in serum Glabridin after consumption of LFO appears to be enhanced after repeated doses (4-55% higher, with higher doses resulting in more serum levels).[43]
 
+
 Glabridin appears to have a favorable pharmacokinetic profile and remains bioavailable (unconjugated) in serum
+
 
 In serum, Licochalcone A appears to bind to serum albumin.[56][57]
 
@@ -418,13 +434,17 @@ Glyyrrhizin (Diglycoside of Glycyrrhetic Acid) is metabolized to its aglycone fo
 After absorption, the aglycone terpenoid (Glycyrrhetic Acid) can be metabolized to 18β-glycyrrhetyl-3-O-hydrogen
 sulfate, 18β-glycyrrhetyl-3-O-monoglucuronide, or 18β-glycyrrhetyl-30-monoglucuronide via hepatic biotransformation.[59][60] Another metabolite known as 3-ketoglycyrrhetic acid has been reported in animals, but no human data exists for this particular metabolite.
 
+
 Some metabolism of Glycyrrhizin metabolites further in the liver
+
 
 Liquirtigenin appears to be hydroxylated by the Aromatase enzyme (specifically CYP1A2, 1A1 not tested) into 4′′,5,7-trihydroxyflavanone by C5 hydroxylation and is prevented with aromatase inhibitors,[61] Liquirtigenin can also be rapidly metabolized (6.2 minutes after incubation) into 7,4′′-dihydroxyflavone and is mediated by CYP3A4.[61][62] 
 
 Beyond those two metabolites linked to an enzyme, other metabolites that have been noted in rat liver microsomes are 7,3′′,4′′-trihydroxyflavone, a hydroxyl quinine metabolite, two A-ring dihydroxymetabolites, and 7-hydroxychromone.[63]
 
+
 Liquirtigenin goes through metabolism via Phase I enzymes of P450
+
 
 2.4
 
@@ -446,15 +466,21 @@ Enzymatic Interactions
 
 One study on cAMP phosphodiesterases (PDE, subunit not specified) noted that a variety of flavanoids and courmarins had inhibitory potential; mostly Isoliquiritigenin (IC50 18uM), Glabridin (8.2uM), Licoricidin (4.9uM), Licoarylcoumarin (1uM), Glycycoumarin (0.7uM) and Licoricone (2.3uM).[21] Liquiritin and Liquiritigenin were less potent.[21]
 
+
 Appears to have inhibitory potential towards Phosphodiesterases in vitro; practical relevance of these inhibitory potentials is unknown
+
 
 Glycyrrhizin and Licorice extract itself are both able to induce P-Glycoprotein expression and CYP3A4 activity, which have been shown to reduce Cyclosporin AUC after both are given to rats.[66] P-Glycoprotein inhibition has been noted elsewhere with both Glycyrrhetic Acid and Glabridin, while Glycyrrhetic Acid also inhibited MRP1.[67]
 
+
 Glycyrrhizin induces (increases) activity of P-Glycoprotein and CYP3A4 activity, while other compounds in Licorice may inhibit P-Glycoprotein
+
 
 When looking at Glabridin (one of the main bioactives in Licorice supplements without Glycyrrhizin or its derivatives), Gliabrin also appears to inhibit P-Glycoprotein weakly[67] and inhibited the P450 enzymes of CYP2B6, CYP2C9, and CYP3A4.[68] When licorice extract is incubated with CYP3A4, activity was reduced at concentrations of 1.4, 6.9, 14, and 69ug/mL to 73%, 45%, 25%, and 12% of control levels after 15 minutes and was completely inhibited with 50uM of pure Glabridin and was not reversible.[68] With CYP2B6 inhibition was weaker but followed a similar irreversible trend, and it appeared Glabridin destroyed the heme fragment of these P450 enzymes and thought to be due to its anti-oxidant abilities (as the derivative 2,4-Dimethylglabridin, with no anti-oxidant capabilities, failed to inhibit CYP3A4).[68] Inhibition of CYP2C9 appeared to be reversible and weaker (50% inhibition at 100uM), CYP2D6 was weakly inhibited (15% at 100uM), and CYP2E1 was unaffected.[68]
 
+
 Glabridin appears to be a potent CYP3A4 inhibitor and possible relevant CYP2B6 inhibitor, and thus has high potential for adverse drug-nutrient interactions
+
 
 Deglycosylation of Liquirtin (the glycone of Liquirtigenin) appears to enhance inhibitory potential towards UDP-Glucuronosyltransferase enzymes, with the inhibitory Ki of Liquirtigenin towards UGT1A1 and UGT1A9 appearing to be 9.1μM and 3.2μM respectively.[69]
 
@@ -470,7 +496,9 @@ Absorption of Glabridin into the brain appears to be 2-3-fold higher than efflux
 
 Oral ingestion of Glabridin at 5mg/kg to rats notes that the brain accumulates less Glabridin than any other organ in the body and only reached 2.8ng/g wet weight in the brain with a half-life of 3.56±1.08 hours.[46] Ingestion of Vermapril (P-Glycoprotein inhibitor) at 25 or 100mg/kg rested in brain concentrations of 4.5±1.3 and 9.5±2.8ng/mL (60% and 240% increase) while increasing the brain 24-hour AUC by 200%, and similar increases were seen with Quinidine (another P-Glycoprotein inhibitor).[46]
 
+
 Any neural effect of Glabridin may be enhanced with concomitant ingestion of P-Glycoprotein inhibiting compounds
+
 
 3.2
 
@@ -484,7 +512,9 @@ Addiction
 
 Isoliquirtigenin appears to have the ability to suppress dopamine release induced by Cocaine as well as the subsequent locomotion (reflective of dopaminergic release)[72] which is also mimicked by Glycyrrhiza Glabra methanolic extracts and acts in a dose-dependent manner via GABA(B) receptor agonism.[73] These results were later replicated with Liquirtigenin (an isomer of Isoliquirtigenin) at 5mg/kg oral ingestion where this dose appeared to halve the locomotion induction of 20mg/kg cocaine and almost normalized CREB and c-Fos phosphorylation induced by Cocaine in the Nuclear Accumbens.[74]
 
+
 Liquirtigenin isomers appear to attenuate the dopaminergic effects of Cocaine at oral doses which can be achieved via Licorice supplementations, showing promise for reducing addiction to dopaminergic compounds
+
 
 3.4
 
@@ -502,7 +532,9 @@ Glycyrrhiza is able to bind to the benzodiazepine binding site of GABAA receptor
 
 The ethanolic extract of Glycyrrhiza is able to decrease sleep latency (time required to fall asleep) and increase sleep duration in rats in a dose dependent manner from 50-500mg/kg, being statistically significant at 250-500mg/kg and its potency was not significantly different than Diazepam at 2mg/kg.[19] These changes correlated with how both Diazepam and the higher doses of Glycyrrhiza were able to increase the amount of non-REM sleep, but not REM sleep.[19]
 
+
 Glabrol and related flavanoids may be able to act as a sedative; these effects may not be achived by a whole licorice extract (due to Glycyrrhetic Acids increasing cortisol acutely, which is not conducive to sleep)
+
 
 3.6
 
@@ -520,17 +552,23 @@ Some studies that use Chinese Licorice per se note a protective effect against �
 
 The decrease in latency (indicative of cognitive decline in rats) induced by both scopolamine and diazepam both appear to be wholly abolished with pretreatment of 150mg/kg of a Glycyrrhiza Glabra extract (5.19g dry plant extract) when preloaded;[81] this study is duplicated in Medline.[82]
 
+
 Licorice itself appears to be neuroprotective and, by protecting cognitive during periods of exogenous toxins or organic cognitive decline, may appear cognitive enhancing
+
 
 250-500mg/kg of the aqueous root extract of Glycyrrhiza (glabra) for 14 days was able to reduce the negative effects of hypoxia (induced by sodium nitrite in drinking water), with the higher dose of 500mg/kg effectively normalizing the impairment to locomotion and memory that occurred with hypoxia.[83] This study also noted that the increase in glutamate and acetylcholinesterase were normalized with the higher dose, and that the levels of dopamine that were increased in hypoxia were not only normalized but reduced by 7% relative to control;[83] a reduction in injury-induced acetylcholinesterase activity has been noted elsewhere with isolated Glabridin at 2-4mg/kg (in response to scopolamine (toxin) administration) with similar efficacy as 400mg/kg Piracetam.[84] These protective effects have been tested in an animal model of stroke (MCAO stroke induction) where one week of injections of Glabridin at 25mg/kg was able to attenuate the stroke-induced neurological deficit (with 5mg/kg being ineffective).[85]
 
 Glabridin has been tested in diabetic rats at 5-50mg/kg was able to prevent the reduction in cognitive (assessed by passive avoidance learning over 30 days) that occurred in Type II Diabetic control.[86]
 
+
 Glabridin appears to attenuate deficits in learning induced by exogenous toxins or states of cognitive decline (limited evidence for the latter claim)
+
 
 Liquirtigenin (flavonoid) at 3, 10, or 30mg/kg oral ingestion in mice genetically predisposed to Alzheimer’s Disease-like symptoms and overproduction of Beta-amyloid pigmentation (Tg2576 mouse line) for 90 days noted that subsequent learning was less hindered with the two higher doses of Liquirtigenin (10-30mg/kg) with 30mg/kg almost normalizing the rate of learning (compared to control).[87] This was related to a significant reduction in oligomeric Aβ proteins by 77.5±6.1% and 65.3±5.3% with 10 and 30mg/kg, respectively, and a decrease in astrocytosis in the hippocampus which correlated in magnitude with decreased Notch-2IC expression.[87] These benefits have been replicated in a model where Aβ proteins were injected into the hippocampus, where Liquirtigenin confered a protective effect thought to be secondary to its ability to act as a Selective Estrogen Receptor Modulator (SERM) on ERβ.[88]
 
+
 Liquirtigenin appears to have some anti-Alzhiemer’s properties, of unknown practical relevance (no comparison to other known compounds)
+
 
 3.8
 
@@ -546,7 +584,9 @@ One study assessing the neuroprotective effects of isolated Glabridin in diabeti
 
 Improvements in cognitiion have been noted with 75, 150, and 300mg/kg concentrated licorice extract (Glycyrrhiza Glabra) when control groups were given these doses and compared to toxin groups; these groups themselves (when compared to true control) noted improvements in memory (as assessed by transfer latency) with 150mg/kg yet impairment with 300mg/kg.[81] This optimal dose of 150mg/kg was said to be equivalent to 5.19g of dried plant material.[81]
 
+
 Limited evidence, but it appears to support the notion that Licorice extracts can improve cognition in otherwise healthy rodents; at least one study has noted higher doses than optimal are detrimental to cognition
+
 
 3.10
 
@@ -570,7 +610,9 @@ Absorption
 
 When bioactives from licorice were screened for their ability to reduce lipid absorption in the intestines, four molecules showed inhibition against Pancreatic Lipase with IC50 valuse of 7.3μM (Isoliquiritigenin), 35.5μM (3,3′,4,4′-tetrahydroxy-2-methoxychalcone), 14.9μM (Liquiritigenin) and 37.6μM (Licuroside)[92] with all compounds showing more than 90% inhibition at 250mcg/mL and Liquirtigenin recording 99±1.9% inhibition.[92]
 
+
 Licorice flavanoids may reduce lipid absorption from the intestines (may also underlie anti-obesogenic actions)
+
 
 4.2
 
@@ -592,15 +634,20 @@ Isolated Glabridin at 20mcg or 200mg of an ethanolic extract of licorice to ApoE
 
 It appears that Glabridin has high affinity for LDL, with 75-85% of Glabridin binding to LDL ex vivo,[101][98] and appears to protect LDL from oxidation via binding to LDL-C and preventing oxidation to that site;[102] with an IC50 of 6-22uM.[102]
 
+
 Appears to reduce oxidation of Low density Lipoprotein (LDL), and appears to be active in humans at reasonably low oral doses. Appears to be a relevant mechanism of action
+
 
 Another possible mechanism to explain the reduced LDL oxidation, rather than direct anti-oxidative effects, would be the ability of Glabridin to accumulate in macrophages and drastically reduced Macropage-mediated LDL oxidation (a prooxidative event due to immune cell activation) due to possible being a PKC inhibitor.[103] Inhibition of PKC has been noted previously with Licorice, but due to Glycyrrhetic acid (direct inhibitor with 1mM reducing activity of PKC by 90%).[104]
 
 Glabridin also appears to, secondary to anti-inflammatory effects, reduce secretion of cellular adhesion factors (ICAM-1, VCAM-1, and E-Selectin)[105] which can possibly reduce adhesion of immune cells to the endothelium, as in vitro 3uM and 10uM of Glabridin inhibited 46 and 65% binding of Monocytes.[105]
 
+
 Some anti-atherogenic effects of Glabridin appear to be mediated by anti-inflammatory effects and the immune system
 
+
 The dose range of 5-10mg Glabridin can feasibly be consumed via foods (at 0.92mg/g Chinese Licorice (Glabra); lower levels in the Uralensis species)
+
 
 5.
 
@@ -620,7 +667,9 @@ An apparent phenomena exists where women are more protected from Cardiovascular 
 
 One study assessing monocytes (immune cells that contribute to atherosclerosis) noted that Glabridin was able to reverse the glucose-induced decrease in PON2 (as well as estradiol, possibly mediated by the estrogen receptor) and preserved levels of Mn-Superoxide Dismutase and Catalase, possibly via anti-oxidant properties.[110]
 
+
 May reduce the adverse effects of hyperglycemia on atherosclerosis
+
 
 In regards to aldose reductase (an enzyme that, when inhibited, confers protection to neurons and eyes from high blood glucose) a few compounds form licorice appear to have inhibitory potential; semilicoisoﬂavone B (exclusive to Glycyrrhiza Uralensis) inhibits with an IC50 of 1.8-10.6uM (rat and human aldose reductase) and both liquirtigenin and isoliquirtigenin had IC50 values of 2.0uM and 3.4uM, comparable to the active control of Quercetin of 2.5uM.[111]
 
@@ -636,7 +685,9 @@ In vitro with adipocytes, Glabridin (flavanoid from Glycyrrhiza) appears to inte
 
 Other studies that look at anti-obese effects (attenuating weight gain over time) with 2% Licorice Flavanoid Oil (LFO; 1% Glabridin content) have noted that the reduction of fat mass was accompanied by a reduction in liver triglycerides, which were thought to be due to decreased mRNA of ACCα, FAS, and SREBP-1c (79.9%, 52.2%, and 64.8%) with an increase in PPARα mRNA (134.8%) over 21 days.[115] Reductions in adipogenesis genes of the liver have been noted elsewhere with 2% LFO in rats.[116]
 
+
 Possible anti-obese mechanisms of unknown relevance, but seem to be related to interference with PPARγ (a pro-adipogenic gene) or otherwise attenuating an adipogenic gene shift in the liver in response to caloric intake
+
 
 One study has mentioned that Glycyrrhetic Acid is, in vitro, a potent oxidative uncoupler (claimed to be nearing 2,4-Dinitrophenol in potency)[117] and is dependent on the 3-hydroxy, 11-oxo, and 30-carboxyl groups in its structure and was more potent than two other triterpenoids measured, polyporenic acid A and fusidic acid.[117] The potency of the two has been compared at a concentration of 0.05mM (in cartilage cells as the experiment was arthritic in goalset) and the uptake of inorganic phosphorus by 35% with Glycyrrhetic acid and 65% with 2,4-Dinitrophenol, making Glycyrrhetic acid 54% as potent as DNP at the same concentration.[118] Another study noted an increase in liver ATPase of 23.1% (no effect on brain ATPase) in normal rats given an injection of 20mg/kg Glycyrrhetic acid for 10 days,[119] which was said to be a biomarker of mitochondrial uncoupling; neither weight nor body heat were measured.[119]
 
@@ -646,15 +697,21 @@ Other studies on Glycyrrhizin metabolites note that 18β-Glycyrrhetic Acid can a
 
 Glycyrrhetic Acid may also inhibit the 11βHSD enzymes in adipocytes, which would have varying results based on which enzyme is inhibited (as cortisol positively mediates lipolysis). Although inhibition of 11βHSD1 results in less lipolysis secondary to less cortisol,[123] a study using the pharmaceutical derivative of Glycyrrhetic Acid (Carbenoxolone) noted that oral administration failed to alter 11βHSD1 activity in adipocytes.[124] The relevance of 11βHSD interactions in adipocytes is not known.
 
+
 A variety of mechanisms that insinuate that Glycyrrhetic Acid is a potent fat burning compound (mitochondrial uncoupling; augmenting adrenergic signalling), but these mechanisms have not been demonstrated in interventions
+
 
 Additionally, Glabridin appears to activate AMPK (Adenosine Monophosphate Kinase) in a variety of tested tissues (adipocytes, muscle tissue, liver cells, kidney cells) in a dose and time dependent manner.[75] Secondary to activation of AMPK, a trend towards more fatty acid oxidative and less lipogenic genes result.[75] The activation of AMPK appears to be secondary to the mitochondria, where Glabridin interfered with Mitochondrial Complexes I and II and (by reducing ATP production about 15%) increased the AMP/ATP ratio;[75] increases in this ratio are known to signal energy deficit to AMPK and activate its activity.[125] When compared to an active control of Berberine, although they were not significantly different at increasing cAMP Glabridin trended to underperform relative to Berberine (with Berberine outperfoming significantly on the ratio of AMP/ATP).[75]
 
+
 Appears to activate AMPK which may underlie potential fat burning properties of Licorice. On a molecular basis, Glabridin is almost as effective as Berberine (but with less reaching systemic circulation)
+
 
 One study noted that some compounds, including Isoliquirtigenin and Licuroside, were able to attenuate weight gain from a high-fat diet when consumsed at 30mg/kg secondary to attenuating absorption of fatty acids; both were less potent than the active control of Orlistat.[92]
 
+
 Overall, there are a wide variety of mechanisms that lead to the assumption that Licorice can be useful as a fat burning compound; these have not been thoroughly tested in vivo so their practical relevance is currently unknown
+
 
 6.2
 
@@ -670,7 +727,9 @@ Two animal studies have noted that the addition of Glycyrrhiza flavanoids concen
 
 One study noted that isolated Glabridin (150mg/kg) to mice was associated with a reduction in body weight that was highly significant when it suppressed food intake, and remained significant even when food intake was controlled for.[75] 20mg/kg of Glabridin for 28 days is not associated with body weight changes in lean mice.[91]
 
+
 In mice, studies note lacklustre fat burning effects with feasible doses of Licorice extract but may have minor anti-obese effects. Fat burning effects can be forced with high dose Glabridin supplementation
+
 
 In a trial on recreationally active obese men given Licorice Flavanoid Oil (LFO) at 300mg (brand name Glavonoid) for 8 weeks failed to provide any benefit to fat loss or body weight.[42] This study also had a subset of athletic men undergoing slight overfeeding conditions, and the addition of LFO at 300mg did not alter body composition any different than placebo (although trended towards better body composition).[42] One other study using 300mg LFO for 12 weeks in obese men noted that the intervention group did not increase body fat when placebo gained weight (resulting in significant differences at the end of the trial).[129]
 
@@ -678,7 +737,9 @@ One study has concluded reductions in body fat in normal weight persons when ass
 
 One study has been conducted in humans with Glycyrrhetic acid applied topically to 18 non-obese females, where a cream containing 2.5% Glycyrrhetic acid (80mg total) was compared against a placebo cream for one month and noted that while body weight did not change between groups there was a reduction in the size of superficial fat on the thigh as assessed by Ultrasound.[130]
 
+
 Limited evidence for the efficacy of Licorice and body fat reductions, with lower doses showing some promise for actual fat burning associated with Glycyrrhetinic acid while a Glycyrrhetinic acid free suppleent (Licorice Flavanoid Oil; mostly Liquirtigenin and Glabridin) exert anti-obesity effects
+
 
 7.
 
@@ -712,7 +773,9 @@ Mechanisms
 
 Glabridin appears to possess anti-inflammatory actions via inhibiting NF-kB/Rel activation (which does not appear to be cell type specific)[105] secondary to preventing TNF-α induced Akt and ERK activation (both of which induce NF-kB activity) with weak influence on p38 MAPK and SAPK/JNK; these effects are known to be mediated by Sphingosine-1-Phosphate (S1P)[135] which is produced from the enzyme Sphingosine Kinase (SK) in response to TNF-α.[136] Glabridin inhibits this enzyme weakly at basal levels and strongly prevents the increase of activity of SK in response to TNF-α.[105] This theory was strengthed as exogenous addition of S1P bypassed SK inhibition and overcame the effects of Glabridin.[105]
 
+
 Anti-inflammatory effects secondary to preventing induction of a pro-inflammatory mediator, appears to be a relatively novel mechanism of action for nutraceuticals
+
 
 Licochalcone A (a chalcone found mostly in Glycyrrhiza Inflata, but to a degree in Glabra) is able to suppress secretion of pro-inflammatory cytokines (IL-1β, IL-6, iNOS) and the enzyme COX-2 secondary to inhibiting activation of AP-1 and NF-kB both in vitro and when given mice undergoing septic shock.[137] These results were replicated in macrophages indubated with 5-20uM Licochalcone A with minimal suppression of IL-6 (more dose-dependent suppression of TNF-α and IL-1β),[138] and when 20, 40, or 80mg/kg of Licochalcone A given an hour (injected) before LPS injection was able to attenuate inflammatory changes to lung tissue.[138]
 
@@ -720,7 +783,9 @@ The inhibition of NF-kB from Licochalcone appears to be mediated via preventing 
 
 Licochalone A is also a specific STAT3 inhibitor.[143]
 
+
 Licochalcone A shows anti-inflammatory effects, which may be biologically relevant but are otherwise not too remarkable (in their efficacy in suppressing cytokines as well as the active concentration)
+
 
 Similar to other nutrients, Liquirtigenin is also able to reduce cytokine release from activated macrophages.[144] 3-30uM Liquirtigenin was able to attenuate iNOS protein and mRNA levels and almost abolished iNOS genomic activity; nitrite accumulation in the macrophage and subsequent release of nitric oxide were also attenuated in response to LPS.[144] These effects were thought to underlie the anti-inflammatory effects of Liquirtigenin when rats were fed 50mg/kg (or injected with 15mg/kg) where paw edema was reduced, but with less potency than 1mg/kg dexamethasone.[144]
 
@@ -750,7 +815,9 @@ Angiogenesis is the process of constructing new blood vessels, and tends to be a
 
 Licochalcone A appears to potentially have anti-angiogenic properties, as 20uM or less concentration of Licochalcone in rat HUVECs was able to suppress proliferation, migration, and tube formation.[151] Similar antiangiogenic potential exists with Liquirtigenin by inhibiting HIFα-mediated VEGF expression, exerting complete inhibition at 75nmol/mL and abolishing HIFα protein content at 100nmol/mL which preceded an inhibition of angiogenesis in vitro in HUVECs; these effects were mediated via Liquirtigenin greatly attenuating activation of Akt/mTOR.[152] Inhibition of angiogenesis by Liquirtigenin has been replicated elsewhere in vivo when tumors were implanted, where dose-dependent benefits were noted with oral intakes of 10-40mg/kg Liquirtigenin with the highest tested dose inhibiting half of tumor size over 28 days.[153]
 
+
 Compounds in licorice appears to have anti-angiogenic potential, and Liquirtigenin appears to have animal evidence that it can be effective 
+
 
 10.2
 
@@ -770,7 +837,9 @@ A possible direct role of Glycyrrhetic Acid in preventing proliferation can be t
 
 Glycyrrhetic Acid itself is able to exert anti-proliferative effects via apoptosis in MCF-7 cells (thought to be selective apoptosis[158]) secondary to a reduction in mitochondrial membrane potential; the apoptotic effects appeared to be associated with a reduction of Akt signalling and an increase in FOXO3 nuclear accumulation (Activation of Akt excludes FOXO3 from the nucleus[159]).[160] The degree of proliferation inhibition measured 91.1% after 48 hours incubation with 100uM Glycyrrhetic Acid with an IC50 of 32.6µM, and this dose was not associated with any toxicity in MCF-10A cells (noncancerous breast cells) and the level of apoptosis after 24 hours at 100uM (20.5%) was greater than the active control of Paclitaxel at 10nM (14.5%).[160]
 
+
 The bioactive Glycyrrhetic Acid (derivative of Glycyrrhizin) appears to have anti-proliferative effects which may be secondary to preserving the anti-proliferative effects of cortisol, and may have direct cytotoxic effects on breast cancer cells
+
 
 Isoangustone A (ethanolic extract of Uralensis species) is able to dose-dependently decrease DNA synthesis rates and induce apoptosis at G1 in 4T1 murine mammary cancer cells.[24]
 
@@ -794,7 +863,9 @@ Interconversion of some hormones (of most pertinent concern is glucocorticoids) 
 
 In this sense, inhibition of 11βHSD1 increases cortisone relative to cortisol (reducing cortisol levels) while inhibition of 11βHSD2 increases cortisol relative to cortisone (increasing cortisol). Glycyrrhetic Acid from Licorice is able to inhibit both enzymes with the IC50 of inhibiting 11βHSD2 at 0.36uM and the IC50 of 11βHSD1 being 0.09uM.[161] Inhibition of 11βHSD2 is well noted with Licorice[162] as is the subsequent increase of bioavailable cortisol.[163] 
 
+
 Glycyrrhetinic Acid inhibits both 11β-hydroxysteroid dehydrogenase enzymes (Type 1 and Type 2), with slightly more affinity for Type I (Anti-cortisol) than Type II (Pro-cortisol)
+
 
 The degree of cortisol increase has been noted to be 39-50% after 500mg glycyrrhetinic acid (salivary cortisol)[164] and has been noted with serum measurements following the same dose.[165][166][167][168][96] Cortisone has been demonstrated to be reduced as well by around 45%, which further implicates 11βHSD2 inhibition as the root cause.[169][168][167]
 
@@ -802,11 +873,15 @@ At least one study using 3.5g Licorice (half the oral dose of the aforementioned
 
 Furthermore, compounds in Licorice appear to have a direct agonistic effect on mineralocorticoid receptors.[166][170] The affinity is lesser than that of normal circulating corticosteroids and aldosterone,[171] which may explain why an oral dose of 500mg Glycyrrhetic acid is required to decrease testosterone (see below).
 
+
 Via inhibition of 11βHSD2, an increase of cortisol results alongside a concomitant decrease in cortisone (as 11βHSD2 converts cortisol to cortisone). This occurs at around 500mg oral intake of Glycyrrhetic Acid, and although dose-dependent lower oral doses of Glycyrrhetic Acid may not increase cortisol to a significant degree
+
 
 When looking at cortisol synthesis, glycyrrhetinic acid does not appear to influence either ACTH-stimulant of forskolin-stimulated cortisol synthesis.[169]
 
+
 Independent of the enzymes mediating the balance of cortisol and inactive corticosteroids, Glycyrrhetinic acid does not appear to otherwise induce synthesis of Cortisol
+
 
 11.2
 
@@ -818,19 +893,26 @@ In otherwise healthy men given 7g of liquorice containing 0.5g glycyrrhizic acid
 
 One other study giving 100g of candy containing 3% liquorice to partipants failed to find any influence on total testosterone in either gender, but noted a slight but statistically significant increase in unconjugated (free) testosterone by 25.6%.[169] Exact dose of glycerrhetinic acid not disclosed, but another study using 100g of licorice (150mg Glycyrrhetic Acid) also noted a failure of licorice to reduce testosterone levels.[178]
 
+
 500mg of Glycyrrhizic Acid (5-7g Licorice extract) appears to be able to reduce testosterone in otherwise healthy men, although the degree of reduction seems to vary between individuals and the sample sizes of human studies are not the best to assess this variability. The reduction in testosterone appears to be benign and transient
 
+
 As the reduction in testosterone appears to be dose dependent, small intakes of liquorice (100g of licorice as food product, ot 150mg Glycyrrhizic Acid) does not appear to significantly reduce testosteron levels as the dose is too low
+
 
 Reductions in testosterone synthesis have been noted in ovarian slices in response to glycerhetinic acid and an increase in the estrogen:androgen ratio,[179] and a herbal (Kampo) mixture known as Shakuyaku-Kanzo-To with the active ingredients of Liquorice and Paeonia lactiflora has shown some efficacy in women with Polycystic Ovarian Syndrome (PCOS), a state characterized by abnormal testosterone synthesis in women.[180] Similar to men, testosterone reductions can occur in otherwise healthy women given Licorice which is normalized upon cessation of Licorice,[173] and has been measured at 32-37%.[181]
 
 One study assessing the potential for licorice to be used as combination therapy alongside Spironolactone (androgen receptor and glucocorticoid receptor antagonist) found that the normally adverse effects of Licorice (increase in blood pressure and edema) were effective in reducing the side-effects of Spironolactone related to reduced blood volume.[182]
 
+
 Limited evidence suggesting benefit to females with PCOS in reducing androgen status (preliminary evidence suggests it works well with Spironolactone), but also appears to work in otherwise healthy women as well. The testosterone reducing effects of Glycyrrhiza appear to influence both genders
+
 
 Glycerrhizin (Glycoside of Glycerrhetinic Acid) has been found to interact with the androgen receptor with similar affinity to paeoniflorin and DHT itself;[183] this study did not note whether this was an agonistic or antagonistic property.[183] A study in rats where the prostate weight was measured after testosterone injections (as a in vivo measurement of androgenicity) did note reductions of androgenic effects possibly related to interfering with the receptor, but the magnitude was minimal (150-300mg/kg alcoholic extract reducing the growth in prostate rate around 10% compared to testosterone-only control).[184]
 
+
 Might have direct anti-androgenic effects, but the evidence is limited and direct androgenic effects (weaker than testosterone, thus being an androgen modulator) have not been ruled out
+
 
 11.3
 
@@ -838,9 +920,12 @@ Estrogen
 
 At least one rat study noted that, after injections of testosterone into castrated rats, that those consuming 150-300mg/kg alcoholic extract had less circulating testosterone than the active control group;[184] this study used castrated rats (excluding reductions in testosterone synthesis) implicating metabolism, and the authors mentioned aromatase could be an explanation (although did not demonstrate this).[184] When assessing Glycyrrhiza Uralensis for possible bioactives that interact with aromatase, 7 compounds appeared to have good affinity for the aromatase enzyme and thus interacted while four of these compounds appeared to inhibit aromatase by 64.48%, 63.25%, 57.2% (Dihydrolicoisoflavone[185]), and 82.78% (Glyasperin F[186]) at 20ug/mL, with the former two unnamed compounds sharing structural similarity to Glabrene.[187] One other study using MCF-7 cells noted that isoliquiritigenin was able to inhibit aromatase with an IC50 of approximately 2.5-3.8uM as a mixed inhibitor, and appeared to be active in vivo due to reducing the rate of testosterone-induced breast tumor growth in mice (mediated after conversion to estrogen) at 0.05-0.5% of the diet.[188]
 
+
 Possible interactions at the level of aromatase (CYP1A), the enzyme that converts androgens to estrogens. Evidence of induction has been seen yet inhibitors have been noted, so the practical relevance of orally ingested licorice is not clear
 
+
 Isoliquirtigenin appears to be most likely to be manipulated as an AI due to not being inherently estrogenic
+
 
 When looking at the level of the receptor not in the presence of estrogen, the ethanolic extract of licorice root appears to induce signalling via the estrogen receptor (alpha) in HEK293 cells as well as a Yeast assay with 50-60% the potency of 10nM estradiol when the ethanolic extract was at 1/2000th of solution (with descending activity thereafter, similar to a bell curve).[189] These estrogenic actions appear to be mediated via the prenylated isoflavonoids Glabrene[190] and Glabridin,[191] and both compounds appear to be agonists of the estrogen receptor alpha (ERα) with EC50 values of 5-50uM.[192][193] There are most likely other active components, as water extracts have some activity.[189] As Genistein (one of the soy isoflavones) has an EC50 of 1.73uM for ERα,[194] Licorice root phytoestrogens have comparatively less estrogenicity.
 
@@ -850,13 +935,18 @@ Liquiritigenin (flavanoid) appears to be a selective ERβ agonist, activating th
 
 One study coincubating licorice root flavonoids with the estrogen receptor noted that they were capable of superinduction of the estrogen receptor;[196] and were found to prolong signalling in vitro for up to 24 hours and eventually exceeded 100% of signalling (assuming control was 100%).[194] It was not established which compound mediated these effects or how.[194]
 
+
 Licorice Root contains phytoestrogenic compounds. Glabrene appears to just activate the estrogen receptor while the other related compound Glabridin appears to be a moderately selective SERM and modulate the estrogen receptor
+
 
 Liquiritigenin appears to be a highly selective ERβ agonist, active at nanomolar concentrations; a promising Selective Estrogen Receptor Modulator (SERM)
 
+
 For studies that measure serum estrogens, no significant effects are seen after 2 months of using 3.5g Licorice extract (7.9% Glycyrrhetic Acid)[181] or 100g of Licorice (150mg Glycyrrhetic acid) for 4 weeks.[178]
 
+
 No significant influences on circulating estrogens
+
 
 When comparing the estrogenic effects of Licorice (95% ethanolic extract of Uralensis root) against other medicinal herbs in a yeast assay (transfected with ERα), Licorice appears to be more estrogenic than Sophora Flavescens, similar potency to Rheum undulatum rhizome, Eriobotrya japonica leaf, and Ginger Rhizome, and despite being much more effective than the root of Pueraria lobata it was greatly outperfomed by the leaves (with an EC50 of 9.39ug/mL relative to Licorice’s 76.4ug/mL).[197]
 
@@ -900,7 +990,9 @@ Additionally, Liquirtigenin and its isomer Isoliquirtigenin appear to inhibit IL
 
 By itself, Glycyrrhiza Uralensis appears to prevent LPS-induced upregulation of ICAM-1 and IL-8 in cultured A549 epithelial cells in a methanolic solution (containing Liquirtigenin and Glycyrrhetic Acid) with an IC50 of 78ug/mL being slightly more potent than Morus alba;[203] these results were observe in vivo when Xia-bai-san (mixture of four herbs of which include Licorice) was fed at 0.5-4mg/kg 30 minutes before LPS injections.[203]
 
+
 Licorice supplementation appears to be effective as an anti-asthmatic supplement, with most potency derived from nutrient-nutrient interactions (increasing the efficacy of other components, with limited evidence to suggest licorice is effective in isolation)
+
 
 12.3
 
@@ -910,7 +1002,9 @@ Male Reproductive Organs
 
 More moderate doses of licorice extract appear to have protective effects on toxin-induced testicular damage induced by Carbendazim[204] and ochratoxin A,[205] where the latter study compared 100mg/kg Glycyrrhiza Glabra extract against 15mg/kg Melatonin (relatively strong anti-oxidant) and Glycyrrhiza Glabra appeared to slightly outperform Melatonin when both were administrated for 28 days prior to the toxin.[205]
 
+
 Despite potential testosterone reducing effects, Licorice appears to be protective of testicular function at low to moderate doses and not significantly toxic to the testicles at a dose commonly considered slightly toxic
+
 
 12.4
 
@@ -920,7 +1014,9 @@ Liquirtigenin can attenuate LXRα-induced SREBP-1c activation due to its ability
 
 Inhibition os SREBP-1c has also been noted with Carbenoxolone (synthetic derivative of Glycyrrhetic Acid)[208] which is downstream of 11βHSD Type 1 inhibition and seen as therapeutic for conditions with a fatty liver.[209][210] It is possible that Glycyrrhetic acid acts via these means as 11βHSD1 inhibition per se mediates these effects, but this has not yet been demonstrated.
 
+
 Several components of licorice appear to reduce fatty liver build-up in mice, all by different mechanisms (meaning the root itself could be potentially useful therapy). However, no human studies have been conducted to assess potency of licorice in this regard
+
 
 12.5
 
@@ -928,13 +1024,17 @@ Intestines
 
 The gap junctions of intestinal cells (space between each cell) are able to facilitate muscle contraction along the intestines when the cells have tigher gap junctions,[211] and the ability of Glycyrrhetic Acid (10uM) to uncouple these junctions can reduce Ca2+ currents alongside the intestines with an IC50 of 1.9uM.[212] Glycyrrhetic Acid isomers (both 18α and 18β) are reversible Tight Junction uncouplers that act in intestinal cells.[213][214]
 
+
 Glycyrrhizin derivatives may have anti-motility actions through a mechanism called tight junction uncoupling
+
 
 The flavonoid isoliquiritigenin appears to have spasmolytic properties in the lower intestines and exerted concentration-dependent inhibition of contraction with IC50 values of 4.96±1.97uM (against CCh), 4.03±1.34uM (against KCl) and 3.70±0.58uM (against BaCl2) which were similar to Papavarine as active control; pretreatmented inhibited acetylcholine-induced contraction with similar potency as well.[7] Oddly, the mechanism of action does not appear to be related to PDE inhibition (similar to papaverine), and appeared to have more efficacy in the rectum than in the jujenum or ileum.[7]
 
 Other compounds found in Glycyrrhiza do appear to have PDE inhibitory properties related to intestinal relaxation, such as Glycycoumarin[215] and Licochalcone A.[216]
 
+
 May have spasmolytic (muscle relaxant) effects on the lower intestines; which is possibly related to both laxative effects and cramp alleviation
+
 
 13.
 
@@ -964,7 +1064,9 @@ Vitamin D
 
 3.5g of licorice (7.6% glycyrrhizic acid) daily for 2 months appeared to increase circulating levels of pro-vitamin D (25-hydroxycalciferol) from 27.3±11.3ng/mL to 36.3±12.3ng/mL (33% increase) without significantly influencing the circulating levels of hormonally active Vitamin D known as 1,25-dihyroxyvitamin D.[181] Levels did not normalize one month after treatment cessation, and since this study was conducted in spring sun exposure could be a confounding factor.[181]
 
+
 Increase in Vitamin D may be a false positive due to seasonal changes
+
 
 14.3
 
@@ -972,7 +1074,9 @@ Lycopene
 
 One study comparing Lycopene to a nutraceutical mixture (6% Lycopene, 0.1% beta-carotene, 1% Vitamin E, various polyphenolics including carnosic acid and Glabridin) noted that Lycopene’s 22% inhibition of LDL oxidation prevention was increased to 97% when combined with other nutraceuticals.[219] Further tested noted that while Glabridin was able to inhibit LDL oxidation in a concentration-dependent manner with an IC50 of 1.8umol/L (more effective than rosmarinic acid or Carnosic acid), that the addiction of 5umol/L lycopene had a degree of synergism of 1.95 (1.95-fold higher actual value relative to additive value); this degree of synergism was similar for Rosmarinic acid and Carnosic acid[219]
 
+
 Appears to work synergistically with Lycopene in preventing LDL oxidation
+
 
 14.4
 
@@ -988,7 +1092,9 @@ Proanthocyanidins from cranberries (6.25-25ug/mL) and Licochalcone A (2.5-5ug/mL
 
 When testing the macrophage’s response to an inflammatory antigen, Cranberry proanthocyanidins and Licochalcone A synergistically suppress the release of IL-1b, TNF-a, IL-6, and IL-8 with concentrations of 50ug/mL Cranberry proanthocyanidins and 5ug/mL Licochalcone A almost wholly abolishing the increase in the latter three cytokines.[225]
 
+
 Cranberry polyphenolics and a compound form Licorice known as Licochalcone A appear to be synergistic in anti-inflammatory and oral anti-bacterial effects; possibly good candy combination
+
 
 15.
 
@@ -1002,7 +1108,9 @@ Eating 200g of Licorice within 45 minutes has been shown to make 75% of persons 
 
 Dosing of up to 1200mg for 7 days[43] or 1800mg for 4 weeks[129] of Licorice Flavanoid Oil (LFO) without Glycyrrhizin appears to not be associated with any serum indicators of toxicity. Up to 800mg/kg bodyweight for 90 days in male mice (400mg/kg in females) has been tested in rats with no apparent toxicity, with the next highest tested doses (1600mg/kg in males, 800mg/kg in females) associated with excessive anticoagulative effects..[226]
 
+
 Licorice supplements with Glycyrrhetininc Acid removed do not appear to have significant toxicity associated with them in moderate doses
+
 
 15.2
 
@@ -1016,5 +1124,7 @@ Case Studies
 
 Death has been associated with Licorice in one women who only ate Licorice for an undisclosed time, and appeared to have died from a hyperglycemic coma; mostly through interactions with the carbohydrate content of licorice and bioactives (and lack of other nutrients).[38] Rhabdomyolysis has been associated with licorice intoxication associated with hypokalemia, which is mostly reversed upon cessation.[230][231]
 
+
 Licorice intoxication or overdose is possible
+
 

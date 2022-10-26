@@ -50,7 +50,9 @@ Aphrodisia
 
 A 50% hydroalcoholic extract of syzygium aromaticum at 500mg/kg acutely is able to increase mounting of male mice with a potency nonsignificantly lesser than nutmeg (Myristica fragrans) and significantly less than 5mg/kg Viagra.[3] Later, oral intake of 100-500mg/kg of a 50% hydroalcoholic extract of syzygium aromaticum for seven days showed dose-dependent libido enhancement with a potency still lesser than 5mg/kg Viagra.[4]
 
+
 Appears to have libido enhancing properties, although they are significantly less than that of Viagra and nonsignificantly less than the other libido enhancer tested (Nutmeg)
+
 
 3.
 

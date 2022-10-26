@@ -90,7 +90,9 @@ There are three variants of Polygonum Cuspidatum; namely Polygonum Cuspidatum va
 
 Interestingly, Japanese Knotweed is seen as an invasive plant species and causing problems in a variety of areas in the globe.[3][4][5]
 
+
 Its simple, we eat the knotweed and save the other plants
+
 
 1.2
 
@@ -98,7 +100,9 @@ Composition
 
 The following molecules are found in the three variants of Polygonum Cuspidatum, but the quantities specified below are specific to var. Japonicus; this variant tends to be highest in stilbenes, with minimal levels in the other two species.[2]
 
+
 Focus on the stilbenes (first four bullets) and the quinones (bullets 5-8) as the active ingredients; the other compounds are found in the herb, but either to lesser amounts or are not the focus of current research
+
 
 Resveratrol[6] varying from 0.15-1.77mg/g dry weightPiceid (5,4'-dihydroxystilbene-3-O-β-D-glucopyranoside), a glucoside of resveratrol[7] at around 9.91-16.4mg/g dry weight, and Polydatin (aka. Polygonin or 3,4',5-trihydroxystilbene-3-β-single-D-glucoside) another glucoside of Resveratrol[8]Piceatannol (a stilbene related to Resveratrol) and its glucoside, Astringin[2] at 0.025-0.067mg/g and 0.98-1.22mg/g; respectively[2]Resveratroloside, a structure that is a glucoside of resveratrol but at a different spot than Piceid[9]Anthraquinones such as Rhein and Physcion; but mostly Emodin[10][11] as well as their glucosides[12] At 35.3mg (Emodin) and 8.2mg (Physcion) from 6.7g dry extract, and 17.6mg (anthraglycoside B) from 4.6g dry extract; 5.2mg/g, 1.2mg/g, and 3.8mg/g respectively.[13]The anthraquinone Chrysophanol/Chrysophanic acid[14][15] which may protect from colon carcinogenesis[16]Anthraquinone derivatives such as Citreorosein[17]The \_Naptho\_quinone compound 2-Methoxystypandrone[18] more officially known as 2-methoxy-6-acetyl-7-methyljuglone;[19] found at 1mg per 100g chloroform extract[20]5,7-Dimethoxy-isobenzofuran-1(3H)-one(aka. 5,7-dimethoxyphthalide)[21]Tachioside[22]Tryptophan[22]2,6-dihydroxybenzoic acid[22]Gallic Acid[22](+)- catechin (one of the Green Tea Catechins) and a glucoside, (+)- catechin-5-O-β-D glucopyranoside[22]1-(3-O-β-D-glucopyranosyl-4,5-dihydroxyphenyl)-ethanone[22]Overall, a phenolic content of 641.1 +/- 42.6 mg/g (60-68%) and a flavonoid content of 62.3 +/- 6.0 mg/g (5.4-6.8%) has been reported for the dry weight of general Japanese Knotweed extract.[23]
 
@@ -106,7 +110,9 @@ Resveratrol and its glucoside piceid range from 0.04-0.1mg/g and 0.2-0.51mg/g in
 
 Resveratroloside appears to be similar in content to piceatannol when measured.[9]
 
+
 The wide range of content for the stilbenes (resveratrol and piceatannol) vary both depending on species as well as between samples of the same species; quite an unreliable content. As for what a 'glucoside' or 'glycoside' are, they are storage forms of the parent molecule which may or may not also be absorbed and thus be bioactive; piceid is literally a resveratrol molecule bound to a glucose molecule
+
 
 1.3
 
@@ -118,7 +124,9 @@ Resveratrol and its glucoside Piceid appear to be structurally stable when expos
 
 In general, Japanese Knotweed extract possesses moderately potent anti-oxidant capabilities,[23] second to the species of capitatum but higher than chinensis and multiflorum as assessed in vitro.[27] The anti-oxidant capacity of Polygonum Cuspidatum has been reported to be 56.22mmol/100g Trolox equivalents and 6.33g/100g Gallic acid equivalents, and has been shown to extend to the leaves and stems as well as the roots.[27] According to this study[28] which analyzed 112 herbs and summed up that anti-cancer herbs from Traditional Chinese Medicine tend to have higher anti-oxidative capacities than common fruits and vegetables, it was found that (according to Trolox equivalents of the methanolic extract, a way to measure anti-oxidant potential) Japanese knotweed placed 14th out of 112, with 35% of the potency (on a gram to gram basis) as Camellia Sinensis, the most common source of Green Tea catechins and 5th place overall. The winners were the gall of Rhus chinensis and the branch/stem of Acacia catechu, with 3.28x and 2.12x greater anti-oxidative effects relative to Camellia Sinensis, respectively.[28]
 
+
 Three main classes of compounds, and their content and individual anti-oxidant potential is pretty good relative to other herbs out there
+
 
 2.
 
@@ -168,7 +176,9 @@ Allergies
 
 Emodin, the anthraquinone compound, is being investigated for its ability to suppress activation of mast cells via preventing IgE from associating with FcɛRI. The binding of IgE to FcɛRI on mast cells is the first stage of the anaphylactic response on mast cells,[38] and eventually results in histamine release. Emodin seems to inhibit this response dose-dependently after oral administration of 5-40mg/kg bodyweight[39] and Japanese Knotweed extract appears to be quite effective as well, with an IC50 value of 62+/-2.1ug/mL on mast cells.[40]
 
+
 Interactions with Japanese Knotweed and reducing allergies, potency of this effect in humans is not known; may extend to topical usage for nickel dermatitis
+
 
 4.
 
@@ -180,7 +190,9 @@ Napthaquinones from Japanese Knotweed do show protective effects as well in vitr
 
 Emodin has been demonstrated to protect neurons from damage in vitro, but these results may not be practically relevant as emodin possesses a low bioavailability.[42]
 
+
 Although the doses requires to show neuroprotection are high (20mg/kg resveratrol, 12.5mg/kg polydactin) there appear to be multiple neuroprotective compounds; whether this is better or worse than isolated but more potent compounds is not known
+
 
 5.
 
@@ -194,7 +206,9 @@ In a study on 32 traditional Chinese plants, it was found that Japanese Knotweed
 
 The active molecules behind this estrogenicity may be the anthraquinone content,[44] although they appear to inhibit binding of 17β-estradiol to its receptor when coincubated and may act as both agonists (during estrogen deficiency) and competitive antagonists (during estrogen surplus).[44] However, emodin (the most prominent anthraquinone) has an EC50 of 10.1+/-0.36 ng/mL[45] while the whole knotweed was more effective at 6.4ug/mL.[43] suggesting there is another compound with potency estrogenic effects. One study dividing fragments of Polygonum saw that the fragment with the most emodin (Hzs1) was matched by one with no emodin content (Hzs6), and this was contributed to an unknown compound.[45]
 
+
 Seems to be a phytoestrogenic compound in vitro, but anthraquinones usually have low bioavailability (percentage absorbed in the intestines; hence why they make good laxative compounds) and so this estrogenicity may not be practically relevant
+
 
 6.
 
@@ -218,5 +232,7 @@ Beyond lightening, Japanese Knotweed has been shown in rats to accelerate wound 
 
 Eradication of the biofilms produced by the bacteria Propionibacterium acnes, which plays a role in acne, can also be done by Resveratrol; by extension, Japanese Knotweed may alleviate acne when topically applied.[55] Interestingly, this study extends to both Rhodiola Rosea via Salidroside and Horny Goat Weed via Icariin.
 
+
 Possibly by pure changes, compounds in Japanese Knotweed appear to all inhibit tyrosinase activity via different mechanisms and may be highly synergistic with each other when applied topically; this has not been tested, however. Japanese Knotweed does appear to reduce inflammation when topically applied, and may reduce both acne and nickel dermatitis as well (although these leads need more evidence to fully validate)
+
 

@@ -34,7 +34,9 @@ Gluten refers to a group of proteins found in numerous grain products that form 
 
 Prolamins are found in other grains, including barley, rye, and corn. They are hordein, secalin, and zein respectively. Avenin, found in oats, is also a prolamin.[5] In a few cases, these prolamins can also influence celiac disease[6] as is the case with oat intolerance, [7] although gliadin is the major culprit.
 
+
 Gluten refers to a mixture of proteins called prolamins and other compounds, which exist in grains as storage proteins. Their content and manipulation can influence the composition and taste of bread products, but the gliadin prolamins cause a reaction in people with celiac disease.
+
 
 2.
 
@@ -50,7 +52,9 @@ The first trial assessing NCGS found that, in a small group of people given glut
 
 A rechallenge study during which gluten was given before and after a dietary reduction in FODMAPs (short-chain carbohydrates known to promote intestinal distress by fermenting and producing gas[13]) found that gluten didn't promote intestinal distress on a low FODMAP diet,[14] suggesting that perhaps FODMAPs are a major cause of sensitivity. Wheat, rye, and barley are known to possess fructan FODMAPs.[13]
 
+
 People that report sensitivity to gluten despite not being diagnosed with celiac disease may exhibit intestinal symptoms of discomfort, but more research is needed to determine whether gluten or other carbohydrates like FODMAPs are the cause. There is a lack of evidence on people who claim gluten sensitivity but do not have any symptoms. 
+
 
 3.
 
@@ -66,5 +70,7 @@ Diagnosis of celiac disease is still not 100% accurate, with biomarkers such as 
 
 Gluten is not a single problematic compound, but rather a group of related prolamins that can trigger an autoimmune response. The most common prolamin is gliadin, a component of gluten.[24]
 
+
 Celiac disease is a somewhat rare (approximately 1% rate of occurrence) genetic disorder of the intestines during which the body exhibits an autoimmune responses after gliadin consumption, and potentially other related prolamins.
+
 

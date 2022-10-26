@@ -168,7 +168,9 @@ Royal Jelly is a nutritive cocktail designed for bee growth and Queen Bee susten
 
 Lipids, of which the total lipid content is about 80–85% fatty acids, 4–10% phenols, 5–6% waxes, 3–4% steroids and 0.4–0.8% phospholipids[3] with the total lipid fragment being 3-6% in fresh Royal Jelly[4]Dietary Fatty acids, such as 10-hydroxy-2-decanoic acid (10-HDA unique to Royal Jelly at 32% of fatty acids)[5] and others, such as gluconic acid (24%) 10-hydroxydecanoic acid (22%) and 5% other dicarboxylic acidsPeptides 2-4 amino acids in length, derived from the proteins, which may be anti-oxidants[6] or insulin-like mimetics[7] and totalling 12-15% of Royal Jelly by weight[4]The 57-kDa protein known as Royalactin that differentiates honey bees into queen bees[8]Carbohydrates, mostly sugars, at 10-16% by weight.[4] These sugars tend to be 90% glucose or fructose with the majority (50-70%) being glucose, although some other monosaccharides and oligosaccharides may be present which varies on the age of the Royal Jelly[9][10]Mineral salts at about 1.5% by weight[3] with their contents being recorded in one study as (all in mg/kg) 215.006 Calcium, 6.39 Copper, 20.054 Iron, 0.501 Gallium, more than 2517 Potassium, 0.139 Lithium, 217.493 Magnesium, 33.203 Zinc, 0.556 Selenium and 0.302 Strontium[11]Acetylcholine[12][13]Adenosine Triphosphate (ATP) and catabolites[14] such as AMP and AMP-N1 oxide[15] with total adenosine content ranging from 5.9 to 2057.4mg/kg over 45 products in one study[16] but another study using Royal Jelly creams finding between 27-50mcg/g (0.0027-0.005%) yet a more variable 2-173mcg/g for oral supplements[17]Testosterone, not a mimetic but the actual hormone[18] at 11.63+/-0.4ng/g in the basic extract and 36.16+/-2.6ng/g in the lysophilized extractAll the above numbers based on weight assume an active water content, and percentages may become relatively higher if using a lyophilised (freeze-dried) product, where water is dropped to less than 5% while protein, fats, and carbohydrates increase to 27–41%, 15–30%, and 22–31% respectively. [3] The composition of royal jelly (percentage-wise) may also vary based on season and cultivar, hence the wide range of possible macronutrient content.[3]
 
+
 The composition of Royal Jelly, by weight, appears to be similar to a food product in where a good portion of the weight comes from macronutrients. As such, Royal Jelly supplementation confers a protein content and has a caloric value to it and may be treated as a food product similar to a protein-rich honey
+
 
 In regards to the testosterone content, it has been hypothesized that since Royal Jelly comes from the salivary glands of worker bees, that the testosterone level was sapped from circulating levels in the bees; insects tend to use ecdysteroids for their own biological purposes, but testosterone itself has been found in insects before as well.[18] Testosterone is a component of Pollen,[19] thus it is possible that the testosterone content of pollen just translated into Royal Jelly through production in the worker bee.
 
@@ -180,7 +182,9 @@ Royal jelly has a jelly-like consistency with a uniform water content of approxi
 
 Royal Jelly tends to be white with hints of yellow, growing a bit more yellow pigentation with storage. When not properly stored (not frozen or kept in a refrigerator), Royal jelly may turn from its white-yellowish state into a darker hue while developing a rancid taste.[3] The fatty acid component seems relatively stable, with 0.4-0.6% of total 10-hydroxy-2-decanoic acid degrading over 12 months.[20]
 
+
 Royal Jelly may need to be stored in a cold environment in order to keep some bioactives preserved
+
 
 2.
 
@@ -230,13 +234,17 @@ A small human study of 15 persons (7 given Royal Jelly at 6g daily for 4 weeks) 
 
 In a letter to an editors here,[25] a trial was outlined in 49 overweight persons with hypercholesterolemia (greater than 200mg/dL) found that 10g of Royal Jelly daily for 14 days found a trend towards reduction of LDL (no statistical significance) and an increase in HDL cholesterol that, although occurring in all patients, was more potent in persons over 60 years of age. HDL at baseline was 67.1+/-22mg/dL and HDL after 2 weeks was 68.8+/-23.2, and although medications were not controlled for there were no side effects reported.[25]
 
+
 Three human interventions recently suggest positive or inert effects on LDL-C and positive or inert effects on HDL-C, with mixed results on triglycerides; more studies are needed to hammer out inconsistencies and some blinding would be needed as all studies have used unblinded (ex. jelly on toast) methodology
+
 
 A meta-analysis of human studies conducted in 1995 (24 found, 9 reviewed, 5 meeting meta-analysis criteria) of which the above three studies were not included (published after 1995) found that oral ingestion of 30-150mg of Royal Jelly is associated with a 30-52mg/dL (10-20%) decrease in total cholesterol over a time period ranging from 3-5 weeks, and data on HDL-C and LDL-C were not able to be meta-analyzed.[26] Studies in question do not appear to be indexed online and are subject to an english-language barrier, being published in Eastern European countries, USSR, and Italy in the 60s and 70s.[26]
 
 This study also reported data for serum lipids, or triglycerides, and the 5 studies fitting meta-analysis found unanimous results in decreasing triglycerides with an average weighted effect size of a 52mg/dL decrease in triglycerides with a 95% confidence interval of 37.8mg/dL to 66.19mg/dL decrease.[26] Percentage-wise, these five trials ranged from 6.2% decrease to 15% decrease in total lipids, yet three trials noted an increase the the lipid subset of 'phospholipids'.[26]
 
+
 Apparently more studies conducted on Royal Jelly that are indexed online currently, and the quality of each study cannot be independently assessed. Still seems to hold a trend for reducing total cholesterol, however
+
 
 6.
 
@@ -252,7 +260,9 @@ In rats, low doses (0.1% of feed) are associated with increases in circulating t
 
 For human studies, one conducted in infertile men using Royal Jelly at 25, 50, and 100mg daily for 3 months was able to increase testosterone by 22.01%, 19.8%, and 20.4% whereas the control group experienced a non-significant increase of 8.33%; it was concluded that Royal Jelly was significantly more effective than control in increasing testosterone levels in men.[1] Later, a 6-month trial of otherwise healthy persons aged 41-83 consuming 3000mg Royal Jelly found a slight increase in the testosterone/DHEA ratio (+0.12+/-0.04ng/mL) which was though to be from greater conversion from Dehydroepiandrosterone, increases in testosterone did not reach significance per se, just missing with a P-value of 0.0503 in men.[22]
 
+
 Needs a lot more human studies on it, especially one on optimal dosage. Very promising and at the same time the dose-relation and time-relation are very abnormal for supplements. Promising but inconsistent at this time
+
 
 6.2
 
@@ -260,13 +270,17 @@ Estrogen
 
 A study in rats, geared for toxicological purposes, found that 800mg/kg bodyweight Royal Jelly was able to significantly increase estrogen levels in the blood while other tested doses (200mg/kg, 400mg/kg) did not significantly influence estrogen.[2] These lack of results were replicated in healthy humans of both genders with 6 months usage of 3000mg Royal Jelly.[22]
 
+
 Limited evidence suggests that it does not alter circulating estrogen levels
+
 
 That being said another study noted that Royal Jelly may have weak estrogenic activity, with Royal Jelly binding to and activating the estrogen receptors and inducing MCF-7 cell proliferation (inducing estrogen-like activity)[30] which is blocked by the receptor antagonist tamoxifen.[30][31] Royal Jelly appears to inhibit estradiol binding to receptors in a dose-dependent manner, and at concentration of 1mg/mL can induce more transcription than estrogen at 10nM (when not in the same assay).[31] When tested in vivo, an injection of Royal Jelly to an animal model of menopause noted that it induced estrogenic activity in the uterus but not in the brain; suggesting the bioactives may not cross the blood brain barrier.[31] This study noted that the binding affinity of RJ to inhibit estrogen, when compared to the standard of diethylstilbestrol, was fairly low and nonselective for the ER subtypes.[31] It took upwards of 10,000ng/mL (10mcg/mL) to inhibit estradiol from the estrogen receptors at 20-40% capacity.[31]
 
 A later study suggested that the unique fatty acids in Royal Jelly named 10-H2DA, 10-HDA and Sebacic Acid were contributors.[32] These fatty acids only influenced ERβ (binding to pS2) and appeared to be antagonistic to signalling from estradiol when both are coincubated. These results also do not support direct binding of RJ fatty acids to estrogen receptors, except when 10H2DA is at abnormally high concentrations; the mechanism appears to be from preventing the estrogen receptor from binding to co-activators and thus inducing the nuclear effects.[32] The authors also suggested that the observed ranges tested (10-5 to 10-10M) were within physiological concentrations with 1-3g Royal Jelly.[32]
 
+
 It is possible that, within physiologically relevant dosages, that the fatty acids in Royal Jelly may be indirect selective estrogen receptor modulators (SERMs) and exert pro-estrogenic effects when there is no or little circulating estrogen (menopause) and anti-estrogenic effects otherwise
+
 
 6.3
 
@@ -402,5 +416,7 @@ Allergies and Anaphylaxis
 
 Royal Jelly has been associated with anaphylaxis[44] bronchospasms[45] and asthma[46] sometimes leading to death.[47] These appear to be associated with allergins in Royal Jelly, specifically some of the protein compounds that are common to bees and pollen.[48][49][50] It is highly probably that persons with a severe bee or pollen allergy may have allergic reactions to Royal Jelly supplements. 
 
+
 It is definitely possible to be allergic to Royal Jelly, and this allergy appears to be highly similar to general allergies to bee pollen or bees
+
 

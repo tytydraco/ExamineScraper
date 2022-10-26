@@ -228,11 +228,15 @@ Drug Interactions
 
 Fenugreek (300mg/kg of the seed powder for eight days with the final dose an hour before testing) has failed to significantly interact with CYP3A4 as assessed by a carbamazepine tracer test.[24]
 
+
 At this moment in time there are no known interactions with CYP3A4 enzymatic activity
+
 
 Fenugreek (300mg/kg of the seed powder for eight days in rabbits with the final dose an hour before testing) has failed to significantly interact with P-glycoprotein function as assessed by a cyclosporine tracer test.[24]
 
+
 There does not appear to be any inhibitory nor inductive property on the P-glycoprotein efflux protein.
+
 
 3.
 
@@ -246,7 +250,9 @@ An ethanolic extract of fenugreek seeds appears to inhibit monoamine oxidase A (
 
 A high trigonelline extract (84%) has been noted to inhibit monoamine oxidase B (MAO-B) with an IC50 of 391µg/mL (2.1µM assuming pure trigonelline).[23]
 
+
 Fenugreek seeds have a potential to inhibit both forms of the monoamine oxidase (MAO) enzyme with no apparent sensitivity. This may be related to the trigenolline content in part although there may be a more potent molecule able to inhibit MAO-A in the ethanolic extract
+
 
 3.2
 
@@ -262,11 +268,15 @@ Serotonergic Neurotransmission
 
 An ethanolic extract of fenugreek has failed to show affinity to the serotonin transporter (SERT) at concentrations up to 10mg/mL, suggesting no potential usage as an SSRI.[3]
 
+
 Fenugreek does not appear to have any affinity for the serotonin transporter
+
 
 Fenugreek is known to exert analgesic properties when injected into the periphery, and when the serotonergic system of the spine is irreversibly damaged (injections of 5,7-dihydroxytryptamine) the analgesic properties of low doses of fenugreek were abolished and higher doses were attenuated.[26]
 
+
 Serotonergic signalling appears to be involved in the analgesic properties of fenugreek in the periphery
+
 
 3.4
 
@@ -276,7 +286,9 @@ A study in rats using 42mg/kg of Fenugreek suggests an increase in appetite[27] 
 
 In obese persons, fenugreek (1176mg) taken daily appeared to reduce spontaneous fat intake without significantly affecting appetite overall[29][30] while the isolated fibers (4-8g) daily seem to induce satiety in obese persons.[31]
 
+
 Has been implicated in modulating appetite, with an increasing effect in persons of normal weight (association, not known if normal weight is a mandatory prerequisite) and either satiating or no stimulating effect in obese persons. At least one study has noted a preferential switch of appetite away from dietary fatty acids
+
 
 3.5
 
@@ -334,7 +346,9 @@ In streptozotocin-induced diabetic rats, 1,500mg/kg of fenugreek seeds daily for
 
 21 days of 1,500mg/kg Fenugreek is associated with improvements in the hepatic enzymes G6P (59% of the change seen via diabetes was reversed) and G6P dehydrogenase (30%) as well as improving hepatic glycogen storage; phosphofructokinase, reduced during diabetes, was unaffected.[47] A beneficial alteration of hepatic enzymes has also been noted in Alloxan-induced diabetic rats in both the kidneys and liver (5% of the rat diet)[49]
 
+
 Appears to hold some promise in reducing biochemical markers of diabetes in diabetic rats
+
 
 One study using high doses of Fenugreek (2-8g daily) in alloxan induced diabetic rats noted that the healthy control rats also experienced a reduction in blood glucose.[48]
 
@@ -378,13 +392,17 @@ Testosterone
 
 In rats, oral intake of 10-35mg/kg Fenugreek furostanols for 4 weeks has caused an increase in the weight of the levator ani muscle (thought to be indicative of anabolic actions in males) with no significant influence on circulating testosterone levels.[64] Prostate weight was not altered in this study.
 
+
 Possible androgenic effects independent of testosterone, although no evidence exists to support the notion that this is at all a powerful androgenic effect (if it is replicated)
+
 
 Fenugreek has once been shown at 500mg (brand name Testofen) to increase serum testosterone over a period of 8 weeks in resistance trained males relative to placebo (experiencing a decline in testosterone relative to baseline)[65] although another study (which noted a decrease in DHT, a testosterone metabolite) failed to find any significance influence on total or free testosterone using similar methodology[66] and a study using 600mg of Testofen for a period of 6 weeks in otherwise healthy man has similarly failed to find an increase in testosterone.[67]
 
 In regards to DHT, the one study to measure DHT noted a 9.42% decrease relative to baseline over 8 weeks supplementation of 500mg Fenugreek.[66]
 
+
 Mixed results on an increase in testosterone in otherwise healthy men, although there appears to be support for the 5alpha-reductase properties of Fenugreek via the reduction in DHT
+
 
 8.2
 
@@ -409,7 +427,9 @@ An in vitro study using Chang liver cells (non-malignant cell model for studying
 A water extract of Fenugreek seeds concurrently during 60 days of alcohol ingestion was associated with a
 reduction in the rise of oxidation and liver enzymes noted in the serum of rats given ethanol alone, suggesting protective effects.[73]
 
+
 May protect liver cells in response to ethanol ingestion (coadministration), although there is not a large amount of evidence for this claim. One study, comparing Fenugreek to Silymarin, suggest the potency is not remarkable either
+
 
 9.2
 
@@ -445,7 +465,9 @@ A few trials have been conducted on the matter, and fenugreek seems to be able t
 
 The mechanism of action is not specifically known, but may be related to phytoesteogens or diosgenin.[79] Not many studies have detected the presence of Fenugreek bioactives in breast milk, but one assessing the anti-oxidant capacity of breast milk from mothers drinking Fenugreek tea failed to find a significant difference relative to placebo.[81]
 
+
 Limited evidence to support Fenugreek enhancing milk production, but Fenugreek Tea does have preliminary evidence in support of this traditional usage.
+
 
 10.3
 

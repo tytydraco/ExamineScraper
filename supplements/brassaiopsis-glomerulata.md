@@ -40,7 +40,9 @@ Brassaiopsis glomerulata (of the family Araliaceae) is a deciduous tree found in
 
 Composition
 
-Acankoreoside A[1]3α-hydroxy-lup-20(29)-en-23,28-dioic acid[1]3α,11α-dihydroxy-23-oxo-lup-20(29)-en-28-oic acid[1]Stigmasterol, 6β-hydroxystimasta-4-en-3-one, 7β-hydroxy-4,22-stigmastadien-3-one[2]N-benzoyl-L-phenylalaninyl-N-benzoyl-L-phenylalaninate, N-acetyl-L-phenylalaninyl-N-benzoyl-L-phenylalaninate, and N-benzoyl-L-phenylalanine methyl esterSpinasterone and spinasterolOleanolic acid(−)-dihydroactinidiolide(−)-dehydrololiolide4-hydroxybenzaldehydeLinoleic acid (fatty acid)Not fully elucidated, but appears to have a general assortment of triterpenoids that may be unique to this plant
+Acankoreoside A[1]3α-hydroxy-lup-20(29)-en-23,28-dioic acid[1]3α,11α-dihydroxy-23-oxo-lup-20(29)-en-28-oic acid[1]Stigmasterol, 6β-hydroxystimasta-4-en-3-one, 7β-hydroxy-4,22-stigmastadien-3-one[2]N-benzoyl-L-phenylalaninyl-N-benzoyl-L-phenylalaninate, N-acetyl-L-phenylalaninyl-N-benzoyl-L-phenylalaninate, and N-benzoyl-L-phenylalanine methyl esterSpinasterone and spinasterolOleanolic acid(−)-dihydroactinidiolide(−)-dehydrololiolide4-hydroxybenzaldehydeLinoleic acid (fatty acid)
+Not fully elucidated, but appears to have a general assortment of triterpenoids that may be unique to this plant
+
 
 2.
 
@@ -54,7 +56,9 @@ In vitro at 20mcg/mL, a hexane-soluble extract appears to reduce aromatase activ
 
 Although linoleic acid was more effective than the reference drug aminoglutethimide in an enzyme assay, it was inactive in a cell assay;[2] this may be due to false positives associated with fatty acids in cell-free cultures.[3]
 
+
 Some compounds of Brassaiopsis glomerulata\_ appear to be able to inhibit the aromatase enzyme
+
 
 3.
 

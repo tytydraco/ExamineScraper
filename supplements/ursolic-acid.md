@@ -158,7 +158,9 @@ Ursolic Acid is a pentacyclic triterpenoid that is very widely distributed in fo
 
 Major sources (Food products or common supplements) include:
 
-Apples (high in the peels),[1] Cranberry juices,[2] and Grape skins[3]Ayurvedic herbs such as Holy Basil (0.25-0.48% dry weight)[4], Ocimum gratissimum,[5] Boswellia Serrata, Boerhaavia Diffusa, and Asparagus RacemosusTraditional Chinese Medicine herbs including Ziziphus Jujuba, Salvia Miltiorrhiza, and LicoriceA Variety of herbs with reported anti-diabetic effects including Banaba Leaf, Gynostemma Pentaphyllum, and Crataegus PinnatifidaYerba Mate, Stinging Nettle, Vitex Agnus CastusThe Silphium family of plants, averaging around 1.5% dry weight[6]Lantana Camara,[7] Orthosiphon aristatus,[8]Eriobotrya japonica[9]Common Spice herbs such as rosemary, thyme, oregano, and lavender[10] and Sage (Salvia Officinalis)[11]Gentiana striata,[12] Damnacanthus indicus,[13] Periploca forrestii,[14] Eucommia ulmoides,[15] and various other non-supplemental herbsThis thing looks to be as common in herbs as Vitamin C, which is in pretty much everything; a lot of herbs were omitted from this list that are not common supplements or otherwise not exceedingly high in Ursolic Acid content
+Apples (high in the peels),[1] Cranberry juices,[2] and Grape skins[3]Ayurvedic herbs such as Holy Basil (0.25-0.48% dry weight)[4], Ocimum gratissimum,[5] Boswellia Serrata, Boerhaavia Diffusa, and Asparagus RacemosusTraditional Chinese Medicine herbs including Ziziphus Jujuba, Salvia Miltiorrhiza, and LicoriceA Variety of herbs with reported anti-diabetic effects including Banaba Leaf, Gynostemma Pentaphyllum, and Crataegus PinnatifidaYerba Mate, Stinging Nettle, Vitex Agnus CastusThe Silphium family of plants, averaging around 1.5% dry weight[6]Lantana Camara,[7] Orthosiphon aristatus,[8]Eriobotrya japonica[9]Common Spice herbs such as rosemary, thyme, oregano, and lavender[10] and Sage (Salvia Officinalis)[11]Gentiana striata,[12] Damnacanthus indicus,[13] Periploca forrestii,[14] Eucommia ulmoides,[15] and various other non-supplemental herbs
+This thing looks to be as common in herbs as Vitamin C, which is in pretty much everything; a lot of herbs were omitted from this list that are not common supplements or otherwise not exceedingly high in Ursolic Acid content
+
 
 1.2
 
@@ -178,7 +180,9 @@ Absorption
 
 A study investigating the intestinal uptake of ursolic acid (from an ethanolic extract of Sambucus chinensis) found that a dose contributing 80mg/kg bodyweight ursolic acid had about an 0.6% oral bioavailability based on the compound's AUC.[20] When incubated with Caco-2 cells, basolateral (side of membrane facing away from the lumen) recovery of ursolic acid ranges between 15.9+/-3.2% and 19.0+/-4.2%.[11] There do not appear to be significant difference when comparing Ursolic Acid bioavailability in isolation following oral administration to Ursolic Acid from plant sources (in this study, the spice known as Sage).[11]
 
+
 Very poor intestinal absorption rates
+
 
 2.2
 
@@ -186,7 +190,9 @@ Serum parameters
 
 In a study using an oral dose of 80mg/kg bodyweight Ursolic Acid in rats it was found that; the half-life was 4.3 hours, the Tmax was 1 hour, the Cmax was 294.8ng/mL (645.5nM) and the AUC to infinity was 1175.3 ng/h/ml.[20] The half-life in this study was replicated in humans given an injection of Ursolic Acid microsomes (3.9+/-2.1 hours), and other parameters attained in this study following injections of an average dose of 98mg/m2 (based on body surface area, average is 1.7m2 for adult males) were a Tmax of 4 hours, Cmax of 3404.6+/-748.8ng/mL, and an AUC0-∞ of 9918.4+/-1215.2ng/h/mL with a Clearance rate of 10.0+/-1.2L/h/m2.[21]
 
+
 Due to the poor bioavailability, low serum levels appear to be achieved; despite this, a half-life of around four hours exists and oral administration seems to peak one hour after ingestion
+
 
 2.3
 
@@ -214,7 +220,9 @@ Conversely, a low dose of Ursolic Acid (0.2% of the diet) fed to mice with diabe
 
 The discord between the two studies above[24][25] has been investigated by a third part.[26] In general, the two cannot be directly compared due to large differences in methodology.
 
+
 At this moment in time, it appears Ursolic Acid is not a significant concern for cardiovascular health and may be protective; more studies to iron out the differences would be needed
+
 
 3.2
 
@@ -236,7 +244,9 @@ At concentrations of 50-100μM, Ursolic acid may act as an insulin mimetic and a
 
 Concentrations as low as 1mcg/mL Ursolic Acid (0.45uM) can increase the efficacy of biologically relevant concentrations of insulin,[33] where insulin alone reaches maximum stimulation of its receptor within 5 minutes yet with 10mcg/mL ursolic acid maximal stimulation is increased up to 15 minutes with more overall post-receptor actions of insulin, measured by Akt and ERK phosphorylation as well as GLUT4 translocation, where 1nM insulin with 10mcg/mL ursolic acid reached a level of GLUT4 translocation seen with 100nM insulin.[33]
 
+
 Beneficially influences actions on the insulin receptor, although it is more likely that it works on the PTP1B enzyme and augments insulin's actions on the receptor as the concentration for it to act on the receptor itself is rather high
+
 
 4.2
 
@@ -252,17 +262,23 @@ Ursolic Acid appears to beneficially influence parameters of Diabetes when used 
 
 In streptozotocin-induced diabetic mice, Ursolic acid as monotherapy note that 0.05% of the diet (approximately 10mg/kg) can reduce blood glucose by 12.3% relative to control in 4 weeks[37] with another study using fourfold this dose (0.2%) over a period of 11 weeks decreased blood glucose to 53% of high-fat fed diabetic control (although still twice that of healthy control).[25] Ursolic acid tends to decrease blood glucose in a dose dependent manner (as some studies have tested graded intakes of Ursolic acid within this range of 0.05-0.2%[22]) with similar potency to Oleanolic Acid.[22]
 
+
 Ursolic Acid appears to be beneficial either by itself or in conjunction with anti-diabetic agents for reducing serum glucose over an experimental period
+
 
 Decreases in HbA1c have been noted with 0.05% of the diet as Ursolic Acid in diabetic mice (9.5%), with 0.1% (19%) and 0.2% (34%; all values relative to diabetic control) over 10 weeks, which coexisted with a reduction in urinary glycosylated proteins and Ursolic acid being nonsignificantly less effective than Oleanolic acid.[22] 
 
 A decrease of Aldose Reductase activity has been noted in vivo with oral Ursolic Acid in a dose dependent manner, which at 0.2% reached 67% of diabetic control (still 59% higher than nondiabetic control, and was not absolute protection),[22] which validates previous in vitro studies noting Aldose Reductase inhibition with Ursolic Acid in a noncompetitive manner.[38] The in vivo study also noted minor beneficial trends in the activities of sorbitol dehydrogenase and glyoxalase I,[22] and anti-glycative properties have been noted to occur in hepatic tissue as well,[37] where a beneficial trend of glucose regulatory enzymes (suppressing glucose-6-phosphatase and upregulating glucokinase) occurs with 0.05% of the feed .[37]
 
+
 Appears to have anti-glycative effects, and may attenuate the side-effects of diabetes associated with high blood glucose
+
 
 Beyond anti-glycative protective effects, low doses of Ursolic Acid (0.01% of rat feed) have been noted to attenuate the rate of developing diabetic nephropathy possibly secondary to anti-inflammatory properties[39] and less atherosclerotic lesions have been noted with Ursolic Acid, which were slightly more protective than an equal dose (0.2% of the diet) resveratrol.[40]
 
+
 Low to moderate doses of Ursolic Acid also appear to protect rats from immune-system related side effects of diabetes, and may offer putative protective effects
+
 
 5.
 
@@ -302,7 +318,9 @@ Irisin is a myokine (although it can be secreted from other tissues such as the 
 
 Supplementation of 150mg ursolic acid three times daily with meals (totalling 450mg daily for eight weeks) in otherwise healthy men subject to resistance training appears to be effective in increasing serum irisin by 12% relative to placebo.[49] This observation occurred alongside a 22.8% increase in IGF-1 relative to baseline despite no change occurring in the placebo group given resistance training, although eight weeks was insufficient to alter lean or fat mass significantly.[49]
 
+
 Supplementation of ursolic acid is thought to increase circulating levels if Irisin, a peptide secreted from a few organs (including skeletal muscle) that browns adipose tissue and may have antiobese effects. More research is needed to confirm this function of ursolic acid
+
 
 6.2
 
@@ -320,7 +338,9 @@ Ursolic acid can also increase insulin-induced phosphorylation of Akt (an interm
 
 In rats subject to resistance training, an infusion of ursolic acid appears to sustain the exercise-induced activation of p70S6K (downstream of mTOR) for a more prolonged period of time than control exercise.[52]
 
+
 Low dosages appear to beneficially influence skeletal muscle, but higher dosages have been implicated in preserving muscle mass during fasting. These higher dosages may not be feasible due to low oral bioavailability, but lower dosages are definitely possible. Many of the effects seen are related to the insulin-signalling pathway of muscle anabolism.
+
 
 7.
 
@@ -342,7 +362,9 @@ Corticosteroids
 
 Ursolic acid-like compounds (11-ketoursolic acid and 3-acetyl,11-ketoursolic acid) have been implicated in inhibiting the 11β-Hydroxysteroid Dehydrogenase type 1 enzyme (11βHSD1), which converts cortisone to active cortisol, with IC50 values of 2.06 and 1.35uM respectively.[54] Corosolic Acid was more effective than other compounds tested at 0.81uM, and Ursolic acid itself had an IC50 of 1.9uM.[54] At least at the concentrations tested, none of the above pentacyclic triterpenoids inhibited the 11βHSD2 enzyme, which catalyzes the conversion of cortisone to cortisol.
 
+
 Should theoretically reduce cortisol, but this has not yet been tested in a living system
+
 
 8.2
 

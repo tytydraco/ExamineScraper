@@ -352,7 +352,9 @@ The RDA of Magnesium (amount predicted to meet the needs of 97-98% of the popula
 
 Based on this RDA, approximately 68% of adults in the US eat below the recommended intake of Magnesium with 19% consuming less than half the RDA.[26] These results are slightly more promising than the United States NHANES 2005-2006 survey, which recorded that 60% of adults ate less than the EAR (set at 255-265mg depending on age group).[27]
 
+
 Magnesium deficiency, at least to a minor degree, appears to affect a large percentage of adults
+
 
 1.3
 
@@ -394,11 +396,15 @@ Additionally, during dietary deficiency of Magnesium the mRNA content for TRPM6 
 
 TRPM6 and TRPM7 also respond to other divalent cations such as Calcium, Zinc, Manganese, and Cobalt with Nickel being a substrate of both but preferring TRPM6.[37][38][39]
 
+
 Intestinal absorption of Magnesium is mediated by paracellular (between intestinal cells, also known as enterocytes) and by transcellular (via enterocytes) mechanisms; both of these appear to be regulated by how much Magnesium the body has, reducing absorption when sufficient and increasing absorption during deficiency
+
 
 When consumed through the diet (assuming varied), total magnesium bioavailability appears to be in the 20-30% range.[42][43][44] Some bioactives also present in the diet, such as dietary inulin (a fiber), may enhance absorption rates[45] while dietary phytic acid may reduce magnesium absorption by 60% due to binding to Magnesium[46] and oxalate may reduce magnesium absorption as well, but to a lower extent than phytic acid.[47] Leafy vegetables appear to have slightly higher Magnesium absorption rates in the 40-60% range[48] and is slightly more bioavailable than Magnesium Sulfate,[49] with the higher range being those lower in oxalate content.[48]
 
+
 In regards to the diet, leafy green vegetables appear to be better sources of Magnesium when considering the percentage absorption (with no regard to overall Magnesium content) as oxalates impair Magnesium absorption to a less apparent degree than do Phytates. A mixed diet appears to have 20-30% bioavailability, which may be increased if Magnesium sources favor vegetables rather than grains
+
 
 2.2
 
@@ -426,17 +432,23 @@ At resting membrane potential (when neurons are not directed to fire) magnesium 
 
 Acute regulation of Magnesium is highly regulated both by sets of ionic pumps on neurons[66] and the choroid plexus, which acts in concert with the blood brain barrier to establish a constant concentration of Magensium.[66][67][68] Decreases in cerebral Magnesium stores are only seen over prolonged periods of inadequate Magnesium ingestion.[69]
 
+
 Magnesium is critical to preserving neuronal functon during periods of downtime, when the neuron is not firing. A deficiency of Magnesium in the brain (which tends to only occur during chronic deprivation of dietary magnesium) makes cells have more activation during periods where they are not intentionally activated
+
 
 Excitotoxicity, or toxic effects in a neuron that are secondary to excessive excitation (activation) of the neuron, are mediated via calcium signalling via calcium-dependent enzymes when there is excessive calcium entry into a cell;[60][70] the influx of which Magnesium may block to a greater degree when not deficient.[71]
 
 There is some evidence that preservation of Magnesium after neural injury (where Magnesium can decline) can preserve neuronal function by attenuating toxicity indirectly by excessive NDMA firing; although this study used injections and may not be applicable to supplementatal Magnesium.[72]
 
+
 Chronic activation of NMDA receptors, or excessive activation acutely, exerts neurotoxic effects via calcium-dependent mechanisms. Magnesium attenuates this toxicity mostly during periods when the neuron is not intentionally fired, and these toxic results do not extend to calcium supplement per se due to its extensive regulation like Magnesium
+
 
 At least one study, elaborated more in the Learning subsection, has indicated that sufficient and supraphysiological Magnesium levels in the brain (the latter being achieved orally in rats with Magnesium L-Threonate) can enhance excitatory function during periods of excitation, due to an upregulation of excitatory receptors during this downtime.[62]
 
+
 Possible hormetic benefits to excitation when the down-time from neuronal firing is maintained
+
 
 3.2
 
@@ -446,7 +458,9 @@ Magnesium concentration in the brain is higher than that of serum, with a homeos
 
 One study assessing Magnesium L-Threonate (MgT), said to increase neural concentrations of Magnesium to a greater degree than other forms (all forms standardized to 50mg Magnesium), noted that while Magnesium Gluconate and Magnesium Citrate were able to normalize Magnesium levels (which appeared to decline at day 24 in control mice, as measuring cerebrospinal fluid reduced Magnesium inherently), Magnesium L-Threonate caused elevations at day 12 and 24; the degree of increase was slightly less than 10%, but corrected to approximately 15% when taking measurement into consideration.[62] Only one other study currently has assessed Magnesium L-Threonate but did not measure cerebrospinal concentrations,[76] so currently higher doses of MgT causing higher levels of neural Magnesium stores has not yet been evaluated.
 
+
 There appears to be a rate limit that occurs in the 11-18% range with magnesium superloading on the brain, and this can be mimicked with low dose supplementation of Magnesium L-Threonate (50mg Magnesium, 604mg total). Magnesium L-Threonate has not yet been tested in humans, and no dose-dependency study has been conducted
+
 
 3.3
 
@@ -456,7 +470,9 @@ Magnesium deficiency may be more common in children with diagnosed ADHD, with on
 
 Subsequently, an intervention of 50 diagnosed children (7-12yrs) with ADHD and dietary magnesium deficiency, there was a significant improvement in hyperactivity (relative to baseline) as assessed by two rating scales in response to daily ingestion of 200mg Magnesium over 6 months.[80] These benefits may be augmented by fish oil omega 3 fatty acids, as evidenced by one cohort of 810 children followed for 12 weeks that showed benefit to symptoms as assessed by SNAP-IV (a rating scale different from the one in the previous study).[81]
 
+
 Currently, there is some evidence for Magnesium being of use to children with ADHD as ADHD may be related to Magnesium deficiency. There is not enough evidence to assess the potency of Magnesium in this regard, but it may have value as adjunct therapy alongside standard drug therapy
+
 
 3.4
 
@@ -464,7 +480,9 @@ Sickness
 
 One study measuring blood flow velocity in the middle cerebral artery (MCAv) noted that Magnesium supplementation at 4g Magnesium Sulphate was able to act to normalize the reduced blood flow that occurs at high altitudes, but failed to prevent altitude-related mountain sickness.[82] Intravenous magnesium is associated with some improvements, but they were deemend to not be clinically significant.[83]
 
+
 No significant benefit of Magnesium supplementation on mountain sickness is apparent
+
 
 3.5
 
@@ -506,11 +524,15 @@ Mechanistically, an increase of Magnesium from 0.8mM to 1.2mM can reduce amplitu
 
 As the excitatory post-synaptic currents (EPSCs) of NMDA were enhanced from neurons of orally treated rats (Magnesium-L-Threonate) from 8.8+/-3.1% to 24.1+/-3.6% (273% increase in sensitivity) in response to ifenprodil, an NB2M selective agonist; enhanced sensitivity to neuronal bursts was seen rather than single action potentials.[62] Increased hippocampal frequency has been noted previously, although this study did not elaborate as much on mechanisms.[105]
 
+
 Magnesium may increase NMDA transmission potential, despite not affecting resting potential; a possible hormetic role, with possible synergism for cognitive enhancement with NMDAR agonists (such as D-Aspartic Acid). This was seen with Magnesium L-Threonate, and may apply to superloaded Magnesium
+
 
 In male rats, Magnesium (L-Threonate) at 604mg/kg daily (50mg/kg elemental Magnesium in addition to 0.15% already in food pellets; deemed the minimum effective dose) over a month was able to increase brain Magnesium levels by 7% relative to baseline, which may have been an increase up to 15% as the in vivo measurement technique reduced magnesium levels.[62] This dose was associated with an increase in spatial memory (short and long term), memory recall, and working memory (short term only) in aged rats, and spatial memory appeared to be increased in young rats as well although not other parameters; enhancement of learning was abolished in young rats upon cessation of treatment, while it endured up to 12 days in older rats.[62]
 
+
 \_In vivo\_supplementation of Magnesium-L-Threonate has shown efficacy in enhancing memory in young and old rats, with more efficacy in older rats
+
 
 3.10
 
@@ -546,7 +568,9 @@ Magnesium levels in serum appear to be somewhat predictive of blood pressure com
 
 One study in rats noted that Magnesium injections (doses much higher than practical with supplementation) was able to attenuate the increase in adrenaline in electrically shocked rats by 92.6%, with subsequent in vitro testing suggesting these high levels acted as calcium channel blockers even during periods of stimulation.[63]
 
+
 May interact with adrenaline release in blood vessels, which is reflective of serum concentrations of Magnesium rather than erythrocytic content (the latter being more accurate in assessing 'Magnesium Deficiency')
+
 
 One study conducted in diabetic adults that failed to find any influence on glucose or lipid metabolism following 360mg Magnesium for 3 months found an association between serum Magnesium levels and the reduction in Diastolic blood pressure, which is distinct from other benefits of Magnesium which may need to be increased in muscular stores.[117]
 
@@ -554,19 +578,25 @@ In regards to studies on people with normal blood pressure but low magnesium sta
 
 In one study that investigated Magnesium deficiency and hypertensive adults with diabetes, the observed reduction in blood pressure following 2.5g Magnesium Chloride solution (450mg elemental magnesium) daily for 4 months was noted to be highly significant at -20.4+/-15.9mmHg systolic and -8.7+/-16.3mmHg diastolic.[120] Another study using the same dosing parameters in diabetic adults with average blood pressure in the hypertensive range (148.3/86.3) noted reductions of 6.5% and 4.2% respectively, but failed to reach significance.[121]
 
+
 In persons who are Magnesium deficient, Magnesium supplementation might reduce blood pressure; the effect size (potency) of this is moderate, with some studies not noting significant reductions
+
 
 600mg Magnesium pidolate daily for 12 weeks in persons with recently diagnosed hypertension (high blood pressure) in addition to standard intervention, compared against standard intervention with placebo, resulted in significant reduction in systolic (-5.6+/-2.7mmHg) and diastolic (-2.8+/-1.8mmHg) blood pressure when measured over 24 hours;[122] this may have been associated with a decrease in intracellular calcium and sodium in the Magnesium supplemented group only, which coincided with an increase of serum magnesium from 2.3mg/dL to 2.44mg/dL.[122] This 24-hour measurement of blood pressure has been measured earlier with 480mg Magnesium (as Oxide), which noted reductions of blood pressure ranging from 2-3.7mmHg systolic and 1.4-1.7mmHg diastolic with more efficacy in persons with higher baseline blood pressure.[123]
 
 Some studies that note no significant effect on blood pressure as a whole in response to Magnesium supplementation do, however, find significance when only assessing the subgroup with elevated blood pressure; this study noted significant reductions in blood pressure in persons with higher than 140mmHg systolic.[124]
 
+
 May reduce blood pressure in persons with hypertension regardless of pre-existing Magnesium status, the degree of blood pressure reduction appears to be quite small
+
 
 One study using Magnesium at 200mg (confounded with 30mg Zinc) in type II diabetics failed to find reductions in blood pressure, although these reductions were noted when Vitamin C and Vitamin E were added; this may be attributed to the effect of Vitamin C on blood pressure.[125]
 
 Currently, studies conducted in completely healthy persons with Magnesium supplementation above what is deemed a sufficient diet note no changes in a cohort of healthy young females[126] and a cohort of Korean adults noting that Magnesium was unable to reduce systolic blood pressure significantly at 300mg elemental Magnesium, with the decrease in diastolic being significant (−2.91+/-8.84mmHg) via t-test but not ANOVA.[124]
 
+
 No good evidence to suggest Magnesium reduces blood pressure in persons who have neither hypertension nor poor dietary Magnesium intake/Magnesium deficiency
+
 
 4.3
 
@@ -596,7 +626,9 @@ Pancreatic Function
 
 One study in healthy persons with hypomagnesia (low blood magnesium levels; 0.7mM or less) given 2.5g Magnesium Chloride daily (as 5% solution) for three months noted a reduction in fasting blood glucose (8%) and insulin (12%) as well as an improvement in insulin sensitivity (32.8%, HOMA-β) that was associated with an increase in average blood Magnesium levels from 0.66+/-0.08 to 0.78+/-0.12mM; this was said to be secondary to a betterment of pancreatic beta-cell function.[118]
 
+
 Normalizing a Magnesium deficiency corrects abnormalities and insulin resistance induced by the deficiency
+
 
 5.2
 
@@ -606,7 +638,9 @@ Type I diabetics (insulin-dependent; more commonly genetic or immune-related rat
 
 One study conducted in insulin-dependent diabetes (Type I) using Magnesium supplementation at a dose of 300mg noted that the disease-related decline in nerve function (diabetic polyneuropathy) appeared to have its rate reduced; while 69% of control had a worsening of neuropathy and 31% stasis, Magnesium supplementation had 12% of its sample worsen and 49% of patients in stasis. The amount of improvement was 8% in placebo and 39% in Magnesium.[137] These benefits were independent of changes in HbA1c or insulin requirements, but were associated with a small improvement of serum Magnesium (+5.7%) and erythrocyte Magnesium (+17.3%).[137]
 
+
 Magnesium supplementation potentially has a role as adjuvant in reducing the negative effects of the diabetic state on nerve health, thus being protective against Diabetic Neuropathy
+
 
 At least one study measuring oxidation of LDL and vLDL in type I diabetics with low Magnesium failed to find protective anti-oxidative effects of Magnesium on this parameter.[138]
 
@@ -616,21 +650,29 @@ Interventions
 
 In a study on overweight and insulin resistant persons with normal Magnesium levels (not deficient), supplementation of Magnesium (as Aspartate-Chloride) for 6 months at the dose of 365mg was able to reduce fasting blood glucose (6.3%) and improved insulin sensitivity as assessed by the Matsuda Index and HOMA, but failed to note reductions in insulin or in postprandial glucose.[139] This study noted a high dropout rate (52/98) with no differences between groups.[139] Insulin resistant non-diabetic persons with Magnesium deficiency experience a greater increase in insulin sensitivity following Magnesium supplementation for 3 months after 2.5g Magnesium chloride solution (450mg elemental Magnesium), and this is accompanied by reductions in glucose (13.8%) and insulin (32%) in one study[133] with another study recording improvements in insulin sensitivity (24%), blood glucose (22.3%), and HbA1c (20.8% reduction).[121]
 
+
 In insulin-resistant but not clinically diabetic persons, Magnesium supplementation appears to be associated with improvements in glucose metabolism. The clinical significance (potency) of these effects appears to be variable, with more efficacy in persons who are also Magnesium deficient but working in both scenarios
+
 
 The aformentioned reduction of blood glucose has failed to be replicated following 450mg Magnesium supplementation in hypertensive and magnesium-deficient adults with Type II Diabetes (insulin resistance), where HbA1c was reduced (13.4 to 8.9%; this 33% decrease was not significant due to a large decrease in placebo).[120] Lack of influence on glucose metabolism has been noted elsewhere in insulin-requiring type II diabetics in response to 360mg Magnesium for 3 months, where erythrocytic Magnesium levels failed to be increased.[117]
 
 Another study conducted in Type II diabetics noted that 30 days supplementation of approximately 500mg Magnesium (as oxide) failed to influence serum Magnesium levels while a higher dose (1g daily) was effective in reducing fructosamine levels (-73% of baseline).[31]
 
+
 Studies in those diagnosed with Type II diabetes tend to show less promise relative to insulin resistant persons
+
 
 A nonsignificant reduction in insulin (-2.2μU/mL) has been noted in healthy overweight persons given 500mg Magnesium Citrate for 1 month[53] and insulin has failed to be influenced by 300mg Elemental Magnesium in persons without pre-diabetes or hypertension and of normal weight over 3 months; this study also failed to find any influence on fasting blood glucose or insulin sensitivity.[124]
 
+
 Insufficient evidence to suggest improvements in glucose metabolism to persons who do not have insulin resistance
+
 
 In athletes, supplementation of Magnesium in the athletes (n=10) relative to athletic controls (n=10) mangesium was associated with a slight increase in serum glucose at rest and during fatigue with no significant differences in insulin;[140] This study did not state the dose given, only that Magnesium Sulphate was used for 4 weeks.[140] Another study using Magnesium in atheletes has replicated this increase in serum glucose, where triathletes (highly trained atheltes) given 17mmol Magnesium Orotate daily for 4 weeks prior to testing noted that blood glucose was increased during exercise in both groups but 135% higher in Magnesium-treated, while insulin increased 39% in control yet decreaed 65% from baseline in Magnesium treated.[141]
 
+
 Glucose may be increased during exercise with Magnesium supplementation according to two studies in healthy subjects, but the subjects used (Tae kwon do; Triathletes) may make this exclusive to elite athletes
+
 
 6.
 
@@ -642,7 +684,9 @@ Correlative Research
 
 Dietary and serum magnesium and its subsequent deficiency state may be a biomarker for the state of obesity, rather than a contributing factor;[142] aside from one study in an elderly cohort noting decreased waist circumference and body fat associated with a higher magnesium intake[143] and one study in youth that did not control for confounds,[144] most other research notes that while healthy obese persons and healthy lean controls may not have varying Magnesium concentrations that a correlation exists between low magnesium status in already obese persons and a wide range of health disorders such as insulin resistance,[145] cardiovascular risk factors,[146] and inflammatory biomarkers.[147] In general, there is no per se association between magnesium and body fat but reduced magnesium levels correlate with disease states (such as metabolic syndrome[148]) and those disease states are associated with higher body fat.
 
+
 Magnesium is correlated with obesity a tad, but may play more of a role as a biomarker rather than a contributing factor towards obesity; appears to be more related to glucose metabolism and cardiovascular health
+
 
 6.2
 
@@ -650,7 +694,9 @@ Absorption
 
 One study has noted that Magnesium supplementation was able to reduce the AUC of triglycerides in serum when 500mg Magnesium was consumed alongside a fatty meal, which was thought to be due to magnesium forming insoluble complexes with fatty acids and preventing absorption.[127]
 
+
 May have the ability to hinder fat absorption
+
 
 6.3
 
@@ -658,7 +704,9 @@ Water Weight
 
 At least one study has noted that menstration-related water weight gain can be slightly attenuated with Magnesium supplementation, but this study only noted it during the second menstral cycle of supplementation.[111] Not inherntly related to fat mass, but may cause false positive if measuring overall weight.
 
+
 May attenuate bloating during menstruation
+
 
 7.
 
@@ -670,7 +718,9 @@ Role and Kinetics
 
 Skeletal Muscle appears to store approximately 35% of the body's total Magnesium stores,[149] where it can act as an endogenous calcium channel blocker and help regulate muscle contraction.[150] Severe depletions of Magnesium (in a clinical setting) are known to induce cramping and severe muscular pain.[151][152] During muscle contraction, cytosolic levels of Magnesium appear to increase in correlation to decreasing pH (an increase in acidity)[153] turning exponential any lower than pH 6.5; this relationship appears to be causal as it does not exist in a contracting muscle without increases in pH.[154]
 
+
 The role of Magnesium in skeletal muscle tissue (contractile muscle) is similar to that in neurons, acting as a placeholder to work against calcium to prevent inappropriate firing
+
 
 One study in persons with alcoholic liver disease (a condition where muscular strength is reduced[155] and magnesium deficiency exists[156]) failed to note any increased muscular stores of Magnesium in response to oral and intravenous
 magnesium oxide treatment for 6 weeks.[157]
@@ -683,7 +733,9 @@ One study in otherwise healthy women using 212mg Magnesium (as Oxide) daily for 
 
 However, one study in Triathletes given 17mmol Magnesium (as Orotate) daily for a period of 4 weeks prior to testing (simulated Triathalon testing) noted that there was a significant increase in blood glucose, where the exercise-induced spike in glucose was 135.6% the level of placebo, a decrease in blood proton level (90% higher than baseline with Magnesium, rather than 98% with placebo), and improved blood oxygenation as indicated by less venous CO2 (66% in Magnesium relative to baseline, while it was 74% in placebo) and higher venous O2 levels with Magnesium (208% of baseline with Magnesium, rather than 126% with placebo).[141] These biomarkers were paired with improved times on swimming 500m (88% of placebo's time), biking 20km (98% of placebo), and running 5km (92.6% of placebo), although only swimming time was statistically significant.[141]
 
+
 A single study suggests remarkable effects from high dose Magnesium supplement and appears to be structured well, but it has not been replicated; studies in sedentary or lightly active persons have failed to replicated the effects seen in these Marathon runners
+
 
 7.3
 
@@ -693,7 +745,9 @@ Magnesium is thought to be related to muscle cramping mainly due to correlations
 
 That being said, in a relatively broad Cochrane meta-analysis it was found that Magnesium (any form in any patient) was not able to reduce cramps in a clinically relevant manner; bridging statistical significance and insignificant results.[162]
 
+
 In general, Magnesium supplementation for the purpose of reducing leg cramps has mixed evidence; even the evidence suggesting it is useful is relatively low powered and likely not clinically relevant
+
 
 Magnesium supplementation is investigated for pregnancy related cramping in part due to the connection between Magnesium and cramps in general, but also since there appears to be a decline in Magnesium levels in the serum of the mother during pregnancy which correlates with the appearance of cramps.[159][160]
 
@@ -701,13 +755,17 @@ One study in pregnant women given 360mg elemental Magnesium daily (as a mixture 
 
 Oddly, one study lasting 3 weeks noted improvements in both placebo and the Magnesium group and statistically greater benefits in Magnesium but did not note any improvements in serum Magnesium levels.[165]
 
+
 Mixed evidence for Pregnancy-related cramping. It appears to be more beneficial than placebo (which is, in and of itself, beneficial to leg cramps) but the degree it is better than placebo is sometimes insignificant and sometimes clinically relevant
+
 
 A geriatric study investigating rest cramps (noctural cramping) in persons with 8 or more cramps per month noted that intravenous Magnesium at 20mmol (5g) Magnesium sulfate failed to find differences in frequency, pain, and duration of cramps relative to placebo when both groups were compared to baseline; specifically, Magnesium had a reduction in cramp frequency of 26.8% but placebo also experienced a reduction of 21.3%.[161] Another study using 900mg oral Magnesium Citrate also failed to find benefit to nocturnal leg cramps in suffers.[166]
 
 One study has found limited benefit to leg cramps in sufferers of nocturnal cramping, where the amount of subjects reporting significant improvements in leg cramping was 78% with Magnesium (300mg Elemental as Citrate) and 56% with placebo; the actual frequency of cramps neared but failed to be statistically significant.[167]
 
+
 Same motifs appear to be carried over into noctural cramps. There appears to be benefit to both placebo and Magnesium Intervention, with the degree that Magnesium is better than placebo being small enough to many times be deemed statistically insignificant
+
 
 8.
 
@@ -719,7 +777,9 @@ Testosterone
 
 In one study where martial artists took 10mg/kg Magnesium Sulfate 5 times a week for 4 weeks (during training) noted that the increase in testosterone resulting from a fatigue test was increased from 104.7% to 108.7% in control and increased from 118% to 117% in Magnesium with all differences between groups due to differences at baseline and the differences in free testosterone were also insignificantly different between the two tested groups but with the supplemented group having higher baseline Testosterone.[168] A nonsignificant trend to increase testosterone and free testosterone was seen in all groups when comparing resting values of baseline and week 4.[168]
 
+
 Has the possibility to either increase or normalize testosterone levels, but the evidence on Magnesium and testosterone is minimal. When increases in testosterone are seen, they are minimal
+
 
 8.2
 
@@ -755,7 +815,9 @@ Colorectal Cancer
 
 A cohort study of 61,433 women (40-75yrs) was conducted on women without cancer for 3 years prior to the study, in which they were followed for 14.8 years; after controlling for confounds (BMI, education level, caloric intake, and nutrients that are known to interact with colon cancer such as folic acid), it was concluded that women in the highest quintile of Magnesium intake (greater than 255mg daily) relative to the lowest quintile (less than 209mg daily) had a significantly reduced risk of colorectal cancer, with an RR of 0.59 (CI: 0.40-0.87); this reduced risk applied to both colon and rectal cancer.[171] A later study taking information from the Women's Health Study (38,345 women) and developing quintiles on Magnesium intake from food frequency questionnaires noted that the highest quartile of intake (greater than 392mg) relative to the lowest quartile (lesser than 279mg) noted that this reduced risk was lowered to 0.97, but this study did not control for anything (and noted folic acid intake was higher, which is associated with colorectal cancer)[172] and elsewhere it has been noted that every dietary increase of 100mg Magnesium from food sources was associated with 13% less risk of colorectal adenocarcinomas (OR 0.87; 95% CI 0.75-1.00) and 12% reduced risk of colorectal cancer (RR 0.88; 95% CI 0.81-0.97) with a case-control study conducted alongside the meta-analysis failing to find a protective effect in young non-obese persons.[173]
 
+
 There appears to be an association between higher dietary magnesium and lower colorectal cancer risk. This protective effect is linked to foods containing magnesium rather than supplements (which has not yet been investigated)
+
 
 11.
 
@@ -831,7 +893,9 @@ In persons with mild to moderate asthma (diagnosed via NHLBI guidlines[186]) 340
 
 Contrary to the above studies, at least one study noted that 450mg Magnesium supplementation over 16 weeks failed to show benefit to a sample of 300 persons who were using at least one dose of inhaled corticosteroids daily,[190] and one study using 400mg Magnesium as a supplement to a Magnesium deficient diet noted improvements in subjective symptoms yet failed to find empirical improvements in forced expiratory volume.[191]
 
+
 Some benefit appears to exist for asthmatic persons who either do not use medication or only use medication in a reactive manner, but the only study to investigate Magnesium alongside corticosteroid usage noted no effect. There appears to be a reliable but small effect size that benefits asthma and may reduce reactive usage of medication, but would be redundant alongside daily anti-asthmatic medication
+
 
 15.3
 
@@ -855,7 +919,9 @@ Oxalate/Oxide
 
 Magnesium Oxide (MgO) typically has lower bioavailability in the body than several other forms,[198][199][200] but can be increased to 10% with the introduction of effervescent tablets.[201][198] However, it contains more elemental magnesium by weight than most other magnesium salts, so may not actually be a bad source.[200] Due to the low intestinal bioavailability, this form of Magnesium tends to be used for laxative purposes or is otherwise used as filler due to the low molecular weight of magnesium oxide.
 
+
 Magnesium oxide has lower absorption than most magnesium salts, but more elemental magnesium. It may not be a bad choice for increasing magnesium levels, but its low absorption can cause gastrintestinal upset and a strong laxative effect. Note that Magnesium Oxide is sometimes paired with Calcium supplement to mitigate the pro-constipative effects of Calcium
+
 
 16.2
 
@@ -871,7 +937,9 @@ The most commonly used form of Magnesium supplementation, due to its high water 
 
 When looking at rat studies, citrate also appears to be largely bioavailable but Magnesium Gluconate showed highest bioavailability.[205][206] These results, however, should be taken with a grain of salt as the rats were magnesium deficient which may increase bioavailability independent of the chelation.[207]
 
+
 Three-fold higher bioavailability relative to oxide, although still a relatively small absorption percentage. Tends to be the most common form of supplemental Magnesium due to low costs
+
 
 16.4
 
@@ -909,7 +977,9 @@ ZMA is a blend of Zinc, Magnesium (as L-Asparate), and Vitamin B6; it is falsely
 
 Possible uses of ZMA include an economical means to get both Zinc and Magnesium supplementation, and the Vitamin B6 content tends to be in the dosage range where synergistic benefit to anxiolysis in PMS.[110]
 
+
 A cheap way to get both minerals via supplementation, but nothing inherently magical about the combination
+
 
 17.2
 
@@ -933,7 +1003,9 @@ Vitamin B6
 
 Pyridoxine (vitamin B6) is integrated with Magnesium kinetics in vivo[221] and can increase intestinal absorption when a dose of over 1g Pyridosine is used.[222] This is not typically recommended however, due to the proximity to the chronic toxicity levels of B6.[222][223]
 
+
 Can increase Magnesium absorption, but at doses of Pyridoxine that may not be advisable; limiting how practical this combination can be
+
 
 One study in a model of premenopausal syndrome (PMS) noted a slight but synergistic reduction in anxiety related symptoms with 200mg Magnesium and 50mg Vitamin B6, similar to the doses commonly used in ZMA supplements.[110] A previous study using 200mg Magnesium in isolation and also measuring anxiety in PMS failed to find any interaction between the two.[111]
 
@@ -959,7 +1031,9 @@ Inulin
 
 Inulin, a dietary fiber from chicory root, appears to increase the absorption of Magnesium (in this study, elemental magnesium) by 5.2+/-2.9%.[45] This also applied to calcium supplementation to a similar degree, and was in response to ingestion of a 5g Inulin supplement containing 2.5g of Inulin (with 2.5g oligofructose).[45] The mechanisms of increased absorption may be through positively modulating the intestinal TRPM6 and TRPM7 transporters.[230]
 
+
 Due to Inulin positively influencing transporters, it may be prudent to ingest Magnesium supplements (if taking) alongside vegetables with an inulin content
+
 
 17.8
 

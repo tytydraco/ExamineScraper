@@ -246,7 +246,9 @@ Nicotine is the primary tobacco alkaloid (with minor alkaloids being nornicotine
 
 Most alkaloids found in tobacco are unique to tobacco and structurally related to nicotine, including myosmine, N'-methylmyosmine, cotinine, nicotyrine, nornicotyrine, nicotine N'-oxide, 2, 3'-bipyridyl, and metanicotine.[1] Being exclusive to Tobacco does not apply to the alkaloid Myosmine, which is fairly ubiquitous in the diet[4] and to a small degree nicotine is also found in plants of the solanaceae family, although only at 2-7mcg/kg vegetable.[5] Population exposure to nicotine via these vegetables averages to 1.4mcg per day, with the 95th percentile ingesting 2.25mcg daily from vegetables; this is approximately 444 times lower than the lowest estimate from a single cigarette.[3]
 
+
 Nicotine is the primary alkaloid found in the tobacco plant, and also exists in plants of the Solanaceae family such as eggplants, potatoes, and tomatoes at a level too low to cause the neurological effects associated with nicotine smoking
+
 
 1.2
 
@@ -266,11 +268,15 @@ Nicotine is normally a weak base with a pKa of 8.0 and in acidic environments wh
 
 Nicotine can cross the buccal later when the pH is more alkaline, and this occurs with air-cured tobacco common to pipes and cigars (rather than the aforementioned flue-cured common to North American cigarettes) the nicotine is commonly unionizable and can cross the buccal membrane.[8]
 
+
 In the mouth, nicotine appears to be able to cross the buccal (mouth) membrane in an alkaline (high pH) environment, common in pipes and cigars as well as nicotine chewing gum
+
 
 In regards to the lungs nicotine is absorbed when it comes into contact with the lung alveoli; absorption appears to be rapid possibly due to the large surface area of the alveoli paired with the pH of the lungs being 7.4 and facilitating to nicotine membrane transport.[1]
 
+
 Rapid absorption in lung tissue
+
 
 2.2
 
@@ -288,7 +294,9 @@ Serum Kinetics
 
 In some studies on smoking cigarettes, the Tmax of nicotine (time to peak concentration) appears to coincide with finishing the cigarette, while oral snuff and chewing tobacco are slightly delayed (and not as easily titrated) and nicotine gum fails to reach the same Cmax (high concentration) as an equal dose of nicotine via chewing tobacco or cigarettes.[9] The first neural peak of smoked nicotine appears within 10-20 seconds after a cigarette puff,[13] but the exact amount of nicotine that is counted at these time points is variable due to puffs themselves being variable (longer puff, rates of puffing, dilution of inhaled puff with room air)[1] although the range of nicotine reaching systemic circulation has once been averaged to 1-1.5mg nicotine[3] when considering normal smoking habits using an average North American cigarette of 10-14mg nicotine.[2]
 
+
 Cigarette smoking appears to cause an incredibly rapid peak in serum levels and an equally rapid Cmax value
+
 
 Chewing gum containing nicotine at 6mg is expected to increase circulating levels of nicotine in the range of 15-20ng/mL, whilst smoking a cigarette may elevate levels to the range of 15-30ng/mL.[14]
 
@@ -310,7 +318,9 @@ Due to the rapid transit of smoke to the lungs as well as the rapid absorption o
 
 Volume of Distribution of nicotine to plasma (100% being equal ratios) appears to be around 20% for the whole brain (nonsignificant from this primate study[22]) with preferential partitioning into the preoptic area (29%) and amygdala (39%) with less distribution into white matter (10%),[22] but this study used an aromatase inhibitor as assessment while primape distribution of Aromatase rivals the distribution noted above (although in humans, a large thalamic content of aromatase exists).[23][24]
 
+
 Smoking nicotine appears to be the most neurological reinforcing method of nicotine administration due to its kinetics and titrating the dose according to individual needs
+
 
 2.6
 
@@ -322,7 +332,9 @@ Direct conversion of nicotine to cotinine is mediated via the intermediate the n
 
 Beyond the 10-15% of metabolism accounted for by free continine and 3-5% by nicotine glucuronide the breakdown of metabolites appears to be around 33-40% trans–3'–hydroxycotinine (largest metabolite), 12-17% as continine glucuronide, and 7-9% as trans–3'–hydroxycotinine glucuronide.[1]
 
+
 Major pathway of nicotine metabolism is via conversion into Continine, and then either unchanged continine is excreted in a detectable amount of further metabolism into continine metabolites are undergone; glucuronidation (having a glucose attached to the molecule) can occur at either nicotine or continine, as well as one of continine's metabolites
+
 
 Another route that is responsible for 4-7% of metabolism is Nicotine N'-oxide, which is the result of nicotine being subject to a flavin-containing monooxygenase 3 (FMO3)[26] and mostly producing the trans isomer of Nicotine N'-oxide in humans.[28][29] This is a urinary end product and trans Nicotine N'-oxide can be found in the urine[29] or reduced back into nicotine in the intestines, and this metabolite paired with basic Nicotine glucuronidation (3-5% overall nicotine ingestion) account for most of what is left after the cotinine pathway is accounted for.[1]
 
@@ -336,11 +348,15 @@ Aromatase (CYP1A1/2) appears to be inhibited by nicotine, with an IC50 value of 
 
 Other inhibitors or Aromatase in tobacco include Myosamine (IC50 33+/-2uM; 7-fold more potent than Nicotine), [32] Anabasine,[34] N-n-octanoylnornicotine[35] (comparable potency to aminoglutethimide, a pharmaceutical[36]) and N-(4-hydroxyundecanoyl)anabasine.[37]
 
+
 Nicotine inhibits aromatase. Fairly weakly when looking at the concentration required to inhibit 50% of enzymatic activity but other compounds in tobacco appear to be more potent
+
 
 That being said, one study using intravenous nicotine administration to baboons (at levels to mimic cigarette smoking; 0.015-0.3mg/kg) inhibited aromatase in the brain[22] and appears to be biologically relevant to neurology.[38]
 
+
 Nicotine itself appears to be biologically relevant in inhibiting aromatase
+
 
 3.
 
@@ -360,7 +376,9 @@ A meta-analysis on nicotine and its cognitive effects in humans concluded that t
 
 Of these, nine studies assessed alerting attention accuracy[44][45][46][47][48][49][50][51][52] and 8 of these studies plus 5 others assessed reaction time for alerting attention.[53][54][55][56][57] Only 5 (unique) studies assessed the accuracy of orientating attention[58][59][60][61][62] while these 5 and an additional 6 (two studies under one citation[63]) assessed the reaction time to orientating attention.[64][65][66][67] For these, significant and positive effect sizes were seen on alerting accuracy (g=0.34, z=4.19, p less than 0.001) alerting reaction time (g=0.34, z=3.85, p less than 0.001) and orientating reaction time (g=0.30, z=3.93, p less than 0.001) with a non-significant benefit to orientating accuracy (g=0.13, z=0.47, p less than 0.6).[40] A rough linear dose-response curve was noted for these parameters.
 
+
 Reliable improvements in attention are seen with various doses of nicotine in a somewhat dose-dependent manner. Improvements in directing and keeping attention on stimuli are seen with improved accuracy, and improvements are seen in switching attention between stimuli but the accuracy on switching may not be as reliable
+
 
 3.3
 
@@ -376,7 +394,9 @@ Aphrodisia
 
 One study testing basic cigarettes against nicotine-free cigarettes noted that sexual effects manifested from blood flow (the measurement in this study was penile diameter) were negatively influenced by the nicotine containing cigarette only, suggesting nicotine could be an anti-sexuality compound.[70] Two studies later conducted in non-smoking men[71] and women[72] both noted that nicotine was able to reduce sexual stimulation (assessed via pornographic films and self-reported surveys) without significantly influencing any other mood parameter; men also reported less erectile potential after nicotine.[71]
 
+
 Nicotine appears to possess anti-aphrodisiac properties
+
 
 3.5
 
@@ -424,7 +444,9 @@ Activation of the a7nAChR receptors acts to increase excitatory drive towards th
 
 In many practical scenarios, the inhibitory potential from GABAergic neurons is somewhat lessened. GABAergic neurons, which are expressed plentifully in the VTA[91] and normally antagonize glutaminergic excitation, express mostly α4ß2 receptors.[92][93][78] In situations where smokers routinely ingest nicotine and keep elevated levels, these receptors desensitize and their effects lessen due to less α4ß2 activation, which leads to a relative spike in a7nAChR reinforcement and activation on glutaminergic neurons.[78]
 
+
 Activation of dopaminergic neurons directly is associated with many of the acute effects of nicotine in this brain area, while activation of the a7nAChR on neurons extending towards this brain region eventually facilitate a reinforced neural network and is a mechanism of long term addiction. Mechanisms are in line with the notion that prolonged exposure to consistently high levels of nicotine is associated with greater addiction risk
+
 
 Enhanced dopamine release has been noted in dependent smokers, and was seemingly absent in non-smokers in this study.[94]
 
@@ -438,11 +460,15 @@ One aspect of the rewarding portion of nicotine is the speed of which it reaches
 
 Dissociating nicotine spikes in the brain with cigarettes may per se reduce addiction, as pairing a 21mg nicotine patch (slow-release) with cigarettes that are free of nicotine may ease transition into a cigarette cessation program.[99]
 
+
 The speed at which nicotine reaches the brain and the overall concentration of nicotine that reaches the brain are predictors of the addicting potential of nicotine, with high doses and fast absorption (cigarettes) being more addictive than slower release forms (gum, patches)
+
 
 One intervention carried out in smokers wishing to quit noted that in groups assigned to nicotine gum (2mg or 4mg; n=127) a 15mg transdermal patch (15mg; n=124) nasal spray (n=126) or a nicorette inhaler (n=127) with ad libitum intake of the products noted that, in users that were abstinent for at least 3 weeks and completed the trial at 12 weeks, that all interventions were equally effective in the rates of smokers who remained abstinent and the average pleasantness or satisfaction during this period.[10] Rates of dependence on the nicotine replacement therapies were judged by how many persons were still using 3 weeks after the trial ended (37% of the spray group, 28% of the gum group, 19% of the inhaler group, and 8% of the patch group) and self-reported ratings of dependence at this time-point (33% inhaler, 22% gum, 20% nasal spray, 0% patch); when looking at all time points, the gum had less self-reported dependence than both inhaler and nasal spray while the patch had the least reported dependence.[10]
 
+
 Nicotine replacement therapies are still associated with dependence, which is related to speed and overall amount of nicotine absorbed. These rates of dependence are less than that seen with cigarettes
+
 
 4.3
 
@@ -450,11 +476,15 @@ Sex
 
 There appears to be a sexual dimorphism when it comes to addiction to nicotine (in this section, sometimes used interchangeably with cigarettes), as female smokers appear to require less overall exposure to nicotine/smoking to become dependent and have more difficulty quitting.[100] These differences appear to have biological basis, as studies in laboratory animals note these sexual differences repeatedly, where low-dose nicotine (verging on a level where rats may not self-administer, indicative of addiction) appears to affect more females than males while females being reported to go to greater lengths to acquire nicotine after dependence has developed.[101][102][103][104][105]
 
+
 Established connections between sex and nicotine usage; women are more susceptible to addiction and have a harder time quitting
+
 
 It is thought that circulating hormones may play roles, as exogenous progesterone is associated with attenuating cravings and pleasure from smoking.[106] Additionally, interactions with the estrus cycle have been noted as it pertains to nicotine dependence where women report more smoking during menstruation[107][108] and this has been noted to be independent of menstrual symptoms (smoking for the purpose of relieving symptoms of menstruation, for example).[109] Some studies do fail to note these associations, however.[110][111] Sensitivity to withdrawal appears to be greater during menstruation or shortly after.[112][113][114]
 
+
 Nicotine interacts significantly with hormones in the estrogen group as well as progesterone
+
 
 These interactions may be downstream of Nicotine being able to perturb estrogen signaling in neural tissue, directly inhibiting the beta subunit of the estrogen receptor[115] and inhibiting aromatase respectively (more information on these topics in the Hormones subsection of Estrogen, and the Pharmacology's subsection of Enzymatic Interactions)
 
@@ -496,7 +526,9 @@ When looking at the effects of nicotine in isolation in healthy smokers noted th
 
 In non-smoking individuals administered a nicotine infusion, it appeared that the baseline glucose uptake rate in healthy individuals (10.9+/-0.3mg/kg LBM) was wholly unaffected by nicotine while that of type II diabetic persons was aggravated by approximately 32+/-6%, indicating that nicotine differentially affects healthy and diabetic persons.[125] This supports previous research that suggests that nicotine administration to diabetics aggravates insulin resistance[126] while a study using snuff noted that in healthy persons snuff per se failed to induce insulin resistance while smoking did; implicating a compound in cigarettes but not snuff and thus not implicating nicotine per se.[121] In this study that differentiated between 'healthy' and 'diabetic' smokers, it did so based on circulating glucose, insulin, and HbA1c (all higher in diabetics) although insulin was titrated to control for blood glucose levels; nicotine administration was 0.3mcg/kg/min to simulate a cigarette.[125]
 
+
 Nicotine appears to aggravate insulin resistance in the already resistant, which works negatively in conjunction with cigarettes (that appear to induce insulin resistance), there is some evidence that this adverse effect is either lost or just does not apply to persons with good insulin sensitivity and may only apply to diabetics
+
 
 6.3
 
@@ -516,11 +548,15 @@ Nicotine is able to induce AMPK activity in adipocytes, which is associated with
 
 The increase in lipolysis observed by nicotine appears to be related to nicotine suppressing Fatty Acid Synthase (by 30% at 100nM), which may have been secondary to peroxynitrate,[134] and a possible increase of catecholamines such as adrenaline which are released in response to nicotine (shown in humans after intravenous administration).[136][131] This study noted that 7.2ng/mL nicotine (achievable levels after a cigarette) increased adrenaline and noradrenaline by 213+/-30% and 118+/-5% respectively, and the release of glycerol (144-148%) was inhibited by a cholinergic agonist (thus acted through acetylcholine receptors) and attenuated by 60% by propanolol (a beta-adrenergic antagonist, implicating the catecholamine release). A reduction of nicotine-induced lipolysis has been noted elsewhere with blocking the beta-adrenergic receptors.[129]
 
+
 Nicotine acts on acetylcholine receptors to release adrenaline and noradrenaline, which then act on beta-adrenergic receptors (molecular target of adrenaline and ephedrine) to induce fat loss. This is not the only mechanism, but appears to be the major one
+
 
 Activation of the nicotinic acetylcholine receptor on fat cells is associated with reduced secretion of pro-inflammatory TNF-a,[137] and this receptor (specifically a7nAChR) appears to be negatively correlated with body fat mass; with those having a BMI of 40 or above having up to 75% less mRNA and protein content than normal weight individuals.[138]
 
+
 Activation of the nicotinic acetylcholine receptor in fat cells mediates anti-inflammatory effects in the fat cell, and less secretion of pro-inflammatory cytokines
+
 
 7.2
 
@@ -538,11 +574,15 @@ It has been demonstrated in rats that a reduction in body fat exists when food i
 
 In regards to metabolic rate, several studies have noted an increase in rodents with isolated nicotine [141][144][145] whereas in humans cigarettes have been tested, and found to increase metabolic rate by 210kcal over 24 hours relative to non-smoking controls.[146] This increase in metabolic rate may simply be mediated via the increase in adrenaline and noradrenaline as it has a half-life of 3.5 minutes (similar to the active half-life of the adrenaline receptors),[147] despite the increase in lipolysis not having an apparent half-life.
 
+
 Animal interventions note a reliable increase in lipolysis and metabolic rate, which is attenuated over time (low dose nicotine eventually becoming not significantly different than placebo, with higher doses required to maintain lipolysis). Increase in metabolic rate may simply be due to more catecholamines (adrenaline and noradrenaline)
+
 
 One study using nicotine patches in 55 year old persons noted that weight was reduced by 1.3kg 91 days after administration (placebo down 0.13kg) yet when measured again at 6 months this apparent difference faded and was no longer significant.[68]
 
+
 Human interventions assessing nicotine in isolation over time for the purposes of weight loss are not too prevalent
+
 
 7.4
 
@@ -554,7 +594,9 @@ A failure of attenuating weight regain has been noted despite increased smoking 
 
 When looking at compounds that do appear to have efficacy in reducing weight rebound during smoking cessation one Meta-Analysis noted that naltrexone, dexfenfluramine, and phenylpropanolamine had some evidence[127] as well as fluoxetine.[157] 
 
+
 Nicotine does not appear to inherently exert much promise for attenuating weight regain during smoking cessation. The inherent weight regain that is associated with smoking cessation (of which nicotine replacement therapy encourages) could potentially explain part of this, as could desensitization to the appetite suppression from nicotine
+
 
 8.
 
@@ -576,7 +618,9 @@ Mechanisms
 
 Nicotine appears to exert anti-inflammatory properties via its actions as a cholinergic agonist.[160] Upon activating the a7 nicotinic acetylcholine receptor (a7nAChR) on immune cells, particularly dendritic cells[161] and macrophages.[162] This pathway is naturally regulated by the neurotransmitter acetylcholine, which upon release from the vagal efferents in the vagal nerve[163] it inhibited the ability of immune cells to respond to TNF-a[164] and attenuated its release from immune cells.[164] This was later found to also inhibit NF-kB activation in LPS-activated macrophages, the standard anti-inflammatory in vitro test[165] and can also exert this effect in splenocytes.[166]
 
+
 Overtly, activation of nicotine's receptor by either nicotine itself or the neurotransmitter acetylcholine can suppress inflammatory reactions in immune cells and reduce the secretion of pro-inflammatory cytokines
+
 
 Precisely, Nicotinic activation of a7nAChR increases expression of JAK2 and STAT3,[167] which in turn induce the expression of tristetraprolin (TTP) which acts to destabilize TNF-a and prevent its actions.[168][160] TTP is a fairly potent cytoplasmic regulatory of inflammation, and its knockout induces arthritis in rats.[169]
 
@@ -590,7 +634,9 @@ It was observed in epidemiological research that smokers have less risk for ulce
 
 These paradoxical effects are secondary to Nicotine acting as an anti-inflammatory alkaloid.[160]
 
+
 Even when nicotine is consumed via cigarettes, there appears to be an inverse correlation where cigarette smoking is protective against Ulcerative Colitis
+
 
 10.
 
@@ -602,7 +648,9 @@ Metabolites
 
 N′-nitrosonornicotine (NNN), a nitrosamine found in tobacco as well as a metabolite of nornicotine,[14] appears to have carcinogenic potential.[181] NNN has been found in the urine of persons who quit smoking and were using either patches or gums containing nicotine, suggesting that some persons may produce NNN endogenously from nicotine.[182] An intervention addressing this issue using 21mg patches of nicotine over 24 weeks of smoking cessation noted urinary NNN noted that urinary levels ranged from below the detection limit (0.005pmol/mL) to 0.021pmol/mL with an average of 0.009+/-0.006pmol/mL.[183] This study also noted that 40% of nonsmokers exposed to second hand smoke (sample of 10) had a reported urinary level of 0.002pmol/mL NNN,[183] and although those two studies (the latter being well structured to assess this question) noted significant increases in urinary NNN, at least one study has failed to find an increase with nicotine replacement therapy (patches).[184]
 
+
 Nicotine consumption appears to produce some degree of the carcinogenic N'-Nitrosonornicotine (NNN; via nicotine being metabolized to nornicotine, then to NNN), but the degree of urinary NNN production appears to be relatively minor. Urinary NNN is found in nonsmokers exposed to secondhand smoke as well, which studies have not controlled for (could potentially explain variability)
+
 
 10.2
 
@@ -612,7 +660,9 @@ Activation of the α7 acetylcholine receptor appears to induce anabolic effects 
 
 Concentrations of 100nM nicotine, while not able to induce proliferation, may have anti-apoptotic effects.[189] The cholinergic receptors appear to act as a pro-survival signalling pathway in lung cancers,[190] which extends to acetylcholine itself.[191]
 
+
 Activation of the nicotinic acetylcholine receptor appears to be pro-survival in cells, which extends to cancer cells; nicotine has the potential to interfere with apoptosis (regulated cell death) of cancer cells
+
 
 11.
 
@@ -626,13 +676,17 @@ Both nicotine and its metabolite cotinine appear to appear to negatively influen
 
 One study administering 0.5mg/kg and 1mg/kg via gavage (into the stomach) for 30 days noted decreases in testicular weight associated with nicotine and no significant effect on prostate hypertrophy, decreases in circulating testosterone were noted in a dose-dependent manner but normalized after 30 days of nicotine cessation.[196] A study using a lower dose of 0.6mg/100g for 12 weeks also noted this decrease in testicular weight and suppressed both circulating and testicular concentrations of testosterone, both of which were half-way reversed the amino acid taurine at 50mg/kg bodyweight and more-so with hCG.[197] Nicotine could decrease expression of 17ß-HSD and 3ß-HSD and reduce StAR expression to 60% of control, and this was mostly reversed with taurine and completely normalized with hCG.[197] Finally, another study using 20-week old mice (middle aged) administering nicotine at low doses of 0.0625mg/kg bodyweight (after a short introductory phase) noted that, over the course of 90 days, marked suppression of testosterone from 898.4ng/mL in control to 364ng/mL (59.5% decrease) in the nicotine group associated with (adverse) abnormal cell organization in the prostate.[198] Similar results have been noted before and the decrease in androgens was hypothesized to be the cause[199] although exact pathology is unclear.[198]
 
+
 In rat studies where nicotine is administered, suppression of testosterone is seen at physiologically relevant doses which seems to be in part secondary to receptor activation (muscarinic cholinergic) and, in chronic situations, related to testicular damage secondary to pro-oxidation; damage is somewhat attenuated with anti-oxidants
+
 
 In regards to human studies on the subject matter, one study in men who were deemed to be nicotine dependent smoking 15.48mg nicotine (to get 20ng/mL or above serum levels) failed to notice any changes in circulating testosterone when measured for 2 hours, although a trend to decreasing existed.[200] The only other study in Medline was a cohort survey of men aged 35-59 (n=221) who smoked daily prior to intervention, and their circulating levels of testosterone one year after abstinence; it was found that the measurements of testosterone at baseline and after a year of cessation were similar.[201] Larger scale surveys in older men (n=375, age 59.9+/-9.2) suggest that smoking is associated with increased testosterone, where after stratification into thirds based on serum testosterone and free testosterone level a higher percentage of smokers were in the top third relative to non-smokers or past smokers.[202] This correlation appears to hold true for adolescents as well as females, where testosterone appears to be higher in smokers.[203][204][205][206]
 
 Other studies on a more intervention nature that measure testosterone may note no significant difference between groups, or even a trend towards higher testosterone levels in smokers (4.33+/-0.53ng/mL in nonsmokers, 4.84+/-0.37ng/mL in smokers).[207]
 
+
 Lack of intervention studies conducted in humans, but all studies conducted assessing correlations (unable to establish causation) note higher circulating testosterone and free testosterone levels in smokers, this holds true across gender and age. This may be sufficient to suspect that nicotine does not reduce testosterone in practical settings, but cannot establish if nicotine increases testosterone
+
 
 11.2
 
@@ -640,19 +694,26 @@ Estrogen
 
 Nicotine has been shown to be an Aromatase inhibitor in vivo after baboons are injected with a concentration of nicotine (0.015-0.03mg/kg; reaching plasma levels of 15.6-65ng/mL) able to be reached after a cigarette,[22] which builds off previous research showing nicotine is active as an Aromatase Inhibitor in vitro[34][37] and may explain why heavy smoking women are susceptible to various estrogen-insufficiency related conditions (osteoporosis, menstrual disturbances, early menopause)[208][209] and to explain the higher than average circulating testosterone seen in smokers of both genders (which has currently not been demonstrated in acute interventions).[203][204][205][206][202]
 
+
 The ability of Nicotine (and related nicotine alkaloids, when looking at smoking studies) to inhibit the Aromatase enzyme may cause a shift towards androgens rather than estrogens over time. The degree of change noted in these studies may be higher than can be accredited to nicotine due to other tobacco alkaloids
+
 
 In studies that look at serum estrogen levels, one rat study noted that circulating estradiol levels were reduced when averaged out over 4 estrus cycles when compared to normal control as quickly as 4 days afterwards; showing some variability in degree of decrease.[210]
 
+
 May reduce circulating estrogen levels in serum acutely, but interventions looking at this are surprisingly scarce
+
 
 Damage via Ischemia (lack of oxygen) and Reperfusion (reintroduction of oxygen) is protected in part by estrogen signaling,[211] and this protection is removed under the influence of chronic nicotine administration.[212] A later study elucidating mechanisms noted that rats given 4.5mg/kg nicotine hydrogen tartrate (to mimic levels achieved by heavy smokers[213]) for 16 days prior to cerebral ischemia noted that nicotine could augment the damage done by cerebral ischemia (and while oral contraceptives were inert alone, they were synergistic in augmenting damage done by nicotine more than nicotine alone).[210]
 
 These effects were thought to be through estrogen inhibiting intracellular estrogen signaling, and since the effect was mimicked by 1uM ICI 182780 it was claimed that nicotine inhibited the nuclear estrogen receptors and subsequent phosphorylation of CREB[210] which mediate the neuroprotective effects of estrogen (which inhibits NADPH oxidase and attenuates pro-oxidation in the cell);[214][215] nicotine appears to downregulate ER-ß rather than ER-a protein levels,[216][212] and this inhibition of ER-ß has also been implicated in reducing neuronal plasticity[217] and mitochondrial loss in neurons.[216]
 
+
 Nicotine appears to act as an estrogen receptor antagonist, and can inhibit the signaling pathways of estrogen; It shows preference for ER-ß rather than the alpha subunit (the latter being associated with classical 'effects of estrogen')
 
+
 The estrogen receptor subunit inhibited is the one associated with positive effects in both genders
+
 
 11.3
 
@@ -678,19 +739,25 @@ Caffeine
 
 Usage of caffeine and nicotine, usually via coffee and tobacco, are positively correlated in society; smokers tending to also be persons who consume caffeine at higher levels or frequencies than nonsmokers.[218][219][220]
 
+
 Caffeine and nicotine are widely used in together via common vessels of coffee/tea/energy drinks and cigarettes
+
 
 Nicotine and caffeine, when coingested, appear to have additive thermogenic effects in heavy coffee drinking (440mg caffeine average) smokers (18.6-19.6 cigarettes daily).[221] When consumed alongside exercise, the thermogenic effects of caffeine and nicotine (combination) appears to be further enhanced but was found in this study to only occur in men.[221]
 
 One study has noted that the addition of caffeine (50-100mg) to nicotine chewing gum (1-2mg) was able to enhance the appetite suppressing effects of nicotine, with the highest combination of the two (100mg caffeine with 2mg nicotine) causing nausea in some participants.[222]
 
+
 Caffeine and Nicotine appear to have benefits together towards fat loss (due to additively being thermogenic, and synergistically suppressing appetite)
+
 
 One study has noted that caffeine (250mg) ingestion in smokers who did not consume caffeine for 4 weeks concomitant with high dose nicotine infusions reduced the subjective ratings of stimulant when compared to nicotine paired with oral placebo.[223] In persons who do not smoke but consume caffeine, there does not appear to be a significant interaction for neural properties of nicotine and caffeine.[224]
 
 One trial assessing (by self-report survey) the effects of caffeine on reinforcing properties of nicotine failed to find any evidence that caffeine enhances addiction potential of nicotine when both are at moderate doses,[225] but these results are contrasted by a study using a monetary set-up (how much money participants disclosed that they would pay for injections of either compound) that found that caffeine's ability to reduce 'bad drug effects' of nicotine was evidence of reinforcing properties.[226] Nicotine replacement therapy (to attenuate cravings for nicotine) does not appear to have any crossover to caffeine withdrawal and cravings.[227]
 
+
 Persons do not appear to self-report that they are more addicted to nicotine under the influence of caffeine, but may be more likely to use nicotine when caffeine is coingested (due to reducing 'bad drug effects' of nicotine)
+
 
 12.2
 
@@ -702,7 +769,9 @@ One study assessing nicotine and ethanol coingestion noted that nicotine (10mcg/
 
 Ratings on attention according to one study were not significantly influenced by alcohol, nicotine, or their combination.[232]
 
+
 Appears to augment perceptual effects of alcohol such as euphoria and reduce sedation, yet alcohol appears to convert nicotine's cognitive enhancing effects into a short-term memory insult
+
 
 12.3
 
@@ -714,7 +783,9 @@ The theory behind NAC and dependence is based on glutamate transmission, where r
 
 One double-blind trial investigating heavy smokers (15 or more daily) that abruptly ceased smoking, and then consumed either placebo of 3,600mg NAC in two divided doses failed to note any reduction of cravings with NAC and the reduction of side-effects trended towards but failed to reach significance.[244] However, when subjects were invited back to the lab to smoke the first cigarette to signal the end of the study, persons using NAC reported significantly less pleasure from this cigarette relative to control; on a scale of 1-100 placebo rated the cigarette as a 65.58+/-24.7 while NAC rated it 42.6+/-29.02 (35.1% less pleasurable).[244] This 'lesser reward' aspect may be of more use to current smokers, as one study (double-blinded) noted that NAC administration at 2,400mg daily for 4 weeks during a smoking lifestyle failed to note a significant reduction in cigarettes smoked per week per se but when social events were controlled (by factoring out cigarettes smoked on days with high alcohol intake) a significant reduction of cigarette smoking persisted; effects seemed to become more potent over the 4 weeks of use.[245]
 
+
 May have a role in helping nicotine dependence by not necessarily aiding the dependency, but with reducing the pleasure attained from partaking in cigarettes. This reduction of pleasure is somewhat significant, but social context (drinking with buddies) may be enough to effectively override it
+
 
 12.4
 
@@ -724,7 +795,9 @@ St.John's Wort (SJW) is a dopamine acting anti-depressant which has been investi
 
 The first open-label (not blinded) trials on SJW in nicotine dependence noted that SJW at 900mg daily for 3 months was associated with a 24% smoking abstinence rate at the end of the study.[247][248] This was followed up with a double-blind trial using SJW at 300mg and 600mg thrice a day (900mg or 1800mg total; 0.3% hypericin) for 12 weeks against placebo, where SJW failed to exert any significant differences against placebo.[249]
 
+
 Results for SJW and treating nicotine dependence are looking lackluster and not too promising
+
 
 12.5
 
@@ -738,7 +811,9 @@ Taurine
 
 Taurine is a non-essential amino acid that contains a sulfur group, it appears to attenuate (but not fully abolish) reductions in testosterone and other hormones (luteinizing hormone, FSH) seen with nicotine usage in rats.[197] It was investigated for this purpose due to being the most abundant free ß-amino acid in the male reproductive system[251] and having shown protective effects against nicotine on heart tissue[252] as well as bladder and urinary tracts,[253] thought to be secondary to its anti-oxidative capabilities.
 
+
 May reduce the potential reductions in hormones due to nicotine, the 'reductions in hormones' not being the most reliable effect though and thus necessity of taurine not established
+
 
 12.7
 

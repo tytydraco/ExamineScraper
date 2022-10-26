@@ -178,17 +178,23 @@ Testosterone
 
 Cordyceps can reduce HcG and cAMP-stimulated steroidogenesis (via PKA and possibly inhibiting P450scc by 30%, the enzyme that converts cholesterol to pregnenolone).[20] This same study showed that Cordyceps did not reduce testosterone production when coincubated with androstenedione or pregnenolone, suggesting it does not influence enzymes in the later portion of steroidogenesis.[20] Interestingly, this study also showed that Cordyceps was able to inhibit Forskolin-induced steroidogenesis, which is cAMP-induced and how the herb Coleus Forskohlii increases testosterone.[20] This inhibition of testosterone synthesis stimulated by cAMP and HcG has been noted elsewhere,[21][22] and inhibition of PKA abolishes the effects of Cordyceps.[23]
 
+
 In cell stimulated at the Luteinizing Hormone (LH) receptor, which normally induces steroidogenesis via a cAMP-dependent pathway, the incubation of Cordyceps can suppress this cascade
+
 
 In cells not intentionally stimulated with HcG, Corcyceps extract reliably increases testosterone secretions from cells with an ideal concentration of 3mg/mL, shown in two separate studies on dose-response.[14][21] Concentrations greater than 10mg/mL are associated with declines in testosterone related to baseline.[21] Protein fragments in Cordyceps have been implicated in being the active compounds[14] although Cordycepin appears to be active as well.[23] Feeding isolated Cordycepin at 40mg/kg bodyweight does not increase testosterone in vivo, however, yet it does when injected suggesting poor bioavailability.[23]
 
+
 Had the opposite effects in cells note treated via the LH receptor, and may increase testosterone secretion in these scenarios
+
 
 The mycelium of Cordyceps Militaris at 1 or 5% of their diet by weight was shown to increase circulating testosterone levels in rats after 6 weeks of supplementation. [24] During this period, bodyweight did not significantly differ between groups, sperm content of the epididymus increased by 53% and 37% respectively to the 1% and 5% diets and motility increased by 31% and 19%; serum testosterone was increased to around 700pg/mL relative to control fluctuating just below 600pg/mL over the 6 week period. The peaks were erratic and demonstrated a trend to significant differences at 2 weeks in the 5% group, declining to baseline at 5 weeks, and then spiking up again to be significantly different at 6-8 weeks; 1% intake was relatively stable up to 5 weeks were it trended upwards and remained significantly different from control until cessation at 8 weeks.[24] Another study conducted in immature mice (without the influence of Luteinizing hormone, to stimulate central hypogonadism) found that 0.02-0.2g/kg bodyweight increased circulating testosterone relatively equally (3.83 and 3.69ng/ml, respectively) from a baseline level of 1.38+/-0.047ng/mL[14] while isolated water-soluble protein fragments required an intake of 0.2g/kg bodyweight.[14] Despite these studies being in immature rats, one study suggests that there are no differences in testosterone synthesis in immature and mature.[25]
 
 More dramatic spikes are seen with intraperitoneal injections of cordycepin, which exhibits does-dependent increases in testosterone. 40mg/kg bodyweight over 7 days has been shown in mice to increase testosterone from 2.88+/-0.19pg/uL to 10.97+/-2.31pg/uL.[23] This spike was vicariously through an upregulation of A2a adenosine receptors (3-7 fold increase) with a concomitant decrease in A2b recpetor content.[23] Co-incubation with an A2a receptor antagonist (in this study, CSC was used; caffeine is a popular A2a antagonist) reduced the increase in testosterone by 20%, but inhibition of A3 reduced it by 50%.[23] The ultimate effect of Cordycepin is that it upregulates the StAR enzyme, which transporters cholesterol into the mitochondria for metabolism, a rate-limiting step of steroidogenesis.
 
+
 Cordyceps appears to increase testosterone synthesis in rats, and has multiple compounds that could do this (protein fragments, Cordycepin); the protein fragments appear to be biologically relevant, as 40mg/kg Cordycepin ingested orally didn't do anything to testosterone in mice yet 0.2mg/kg whole Cordyceps did. Cordyceps may possess testosterone regulatory properties, rather than blind spiking of testosterone
+
 
 3.2
 
@@ -252,11 +258,14 @@ Cordyceps has been traditionally used in chinese medicine for protective effects
 
 A concentration of 100mg/mL cordyceps (both c. sinensis and c. militaris) is able to suppress the proliferation of renal cells (mesangial cells) stimulated by LDL.[31]
 
+
 Cordyceps has shown benefits in instances of kidney transplants inherently (injections of 0.5mL or 1.0mL of cordyceps an hour prior to the damaging stressor in the rat[32]) and synergistically with the immunosuppressant cyclosporin A at subtherapeutic doses of the latter[33] (a synergism that can extend to other organs[34]) thought to be tied into its own immunosuppressant and antiinflammatory properties, as there tends to be less immune cell infiltration of the tranplanted organ with the combination.[33][34] A lower maintenance dose of cyclosporin A has been noted in humans given cordyceps during the months after kidney replacement.[35]
 
 There are two trials in humans undergoing renal transplants with cordyceps (c. sinensis)[36][35] where 1g of the supplement thrice daily alongside other immunosuppressants appeared to reduce urinary proteins and rates of chronic allograft neuropathies with cordyceps relative to control.[35] There was a reduced rate of organ toxicity seen during the following months with cordyceps (7.53%) relative to control (18.35%), although when assessing the liver enzyme ALT in patients without hepatoxocitiy there were no differences[35] and there are mixed results suggesting either a relative increase[36] or no differences[35] in surviviability compared to controls.
 
+
 Cordyceps appears to be beneficial when given after kidney transplantation for reducing immune cell infiltration (a step which leads to damage and possible organ rejection) and when given to humans codyceps appears to have protective effects alongside standard immunosuppressive therapy
+
 
 7.
 
@@ -277,7 +286,9 @@ Another component, Cordymin (peptide) also appears to inhibit MCF-7 breast cance
 Finally, in the highly invasive 4T1 cell line an injected water soluble extract of Cordyceps (10-50mg/kg) significantly inhibited metastasis as measured in the lung (when the tumors were injected into the breast of rodents) without significantly affecting tumor size whatsoever.[41] This study hypothesized that the immunostimulatory properties of Cordyceps on macrophages attenuated the rate of which 4T1 cells progressed from G0
 /G1 to GM phase, which was demonstrated in vitro.[41]
 
+
 A variety of compounds that could benefit breast cancer by reducing proliferation of cells or induce cancer cell death, but none of these mechanisms are currently established in living models or compared against active control drugs (to assess potency)
+
 
 7.2
 
@@ -307,7 +318,9 @@ When looking at specific bioactives of Cordyceps (this study used a Colon205 cel
 
 A bioactive peptide from Cordyceps (that has demonstrated activity against breast cancer cells) does not possess this same anti-proliferative efficacy against colon cancer cells[12] and both an n-butanol and chloroform extract of Cordyceps (Sinensis) failed to significantly reduce proliferation of Colon205 adenocarcinoma cells.[44] Neither of these studies were done in cultures with immune cell mediators.
 
+
 May interact with the immune system (in a matter of suppression) to indirectly be anti-cancer, but actions in cell cultures are relatively lacklustre and no in vivo evidence exists currently
+
 
 7.6
 
@@ -317,7 +330,9 @@ One in vitro study using bladder cancer cells (5637 cell line) noted that 15uM o
 
 Cordycepin at an IC50 of 200uM was able to induce dose-dependent growth inhibition possibly via G2/M-phase arrest in both 5637 and T-24 cell lines alongside downregulation of various molecules associated with G2/M phase (pCdc25c and Cdc25c, pCdc2 and Cdc2, cyclin B1).[45] p27 and p53 did not appeared to be involved in this arrest, with JNK activation by Cordycepin appearing to mediate the beneficial effects.[45] A concurrent reduction in AP-1, NF-kB, and MMP-9 genomic activity may accompany Cordycepin's actions in bladder cancer cells.[46]
 
+
 Possible anti-bladder cancer effects, but no in vivo evidence for efficacy or comparison to active control drugs
+
 
 8.
 

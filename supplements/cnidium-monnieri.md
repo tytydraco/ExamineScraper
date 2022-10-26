@@ -164,7 +164,9 @@ Due to the additional pentacyclic ring on Imperatorin, that compound is seen as 
 
 Osthole exhibits low water solubility, which limits its absorption in isolation somewhat.[12]
 
+
 Cnidium Monnieri tends to be seen as a vessel for the coumarin compounds similar in action to Osthole, seen as the main bioactive; the concentration of these compounds in the dried fruit can get quite high
+
 
 It should be noted that Osthole has also been isolated in the plant Angelica Pubescens[13] and was first isolated from Peucedanum ostruthium from which it derives its name.[14] Cnidium Monnieri is merely a good source of Osthole and has its traditional usage to add to its marketing value.
 
@@ -190,11 +192,15 @@ After oral administration of 40mg/kg osthole to rats, the following values were 
 
 As 40mg/kg oral administration had an AUC to infinity of 11.27 ± 2.63ug/h/mL and a Cmax of 2.72 ± 0.89ug/mL, and 8mg/kg injections have an AUC to infinity of 10.52 ± 2.34ug/h/mL and a Cmax of 4.35 ± 0.65ug/mL, it has an approximate bioavailability of 26.8% when administered in isolation to rats.[18] Bioavailability may be limited by metabolism, as it was demonstrated in vitro that up to 80% of osthol is metabolized within 20 minutes, 40% within 5 minutes of contact with intestinal cells, via phase I conjugation.[20] Osthole itself does have high permeability across intestinal cell membranes via passive diffusion,[20] and apical to basolateral has similar rates as basolateral to apical diffusion.[21] In support of the notion that passive diffusion is the mechanism of absorption, an MRP inhibitor had no effect on kinetics[21] and the diffusion does not seem highly temperature dependent (inactivation of transport enzymes).[20]
 
+
 In isolation, Osthole appears to have moderate bioavailability (not an ideal number, but better than many compounds isolated from herbs) and a relatively quick Tmax, spiking in the blood in under an hour after oral consumption. Although one study noted micrograms (ug) and the other nanograms (ng), this disparity may be due to the analysis techniques
+
 
 When the ethanolic extract of Fructus Cnidii is consumed (fruits, dehydrated and rinsed with ethanol twice; precipitate then ingested) 10g/kg of the extract (131mg/kg osthole total) fed to rats results in a similar Tmax (1 +/- 0.3 hours) and half-life (3.6 +/- 0.6 hours), an AUC to infinity of 3.55 ± 0.385ug/h/mL and a Cmax of 0.776 ± 0.069ug/mL.[22] When Osthole is consumed via the herb Libanotis buchtormensis, it has lesser absorption than isolated Osthole.[23]
 
+
 Unlike a fruit like Evodia Rutaecarpa, consumption of Osthole via the ethanolic fruit extract does not seem to greatly enhance bioavailability of Osthole; it may, but consumption of the fruit does not appear to be critical 
+
 
 2.2
 
@@ -202,7 +208,9 @@ Metabolism
 
 Metabolism via desmethylation (into O-desmethyl Osthole[20]) may be mediated via CYP2D6 or CYP3A4[24] but inhibition of CYP2D6 in vitro with Yohimbine fails to alter hepatic metabolism of Osthole.[25]|published=2009 Oct|authors=Zhang LF, Hu X, Wang P, Zhang L|journal=Yao Xue Xue Bao] Inhibition of CYP3A4 appears to prolong Osthole half-life in vitro,[25]|published=2009 Oct|authors=Zhang LF, Hu X, Wang P, Zhang L|journal=Yao Xue Xue Bao] despite the aforementioned metabolite being O-desmethylated and not N-desmethylated.[20] However, these in vitro results were contrasted with an in vivo rat study suggesting that hydroxylation, demethylation and hydrogenation of double bonds were the primary routes of metabolism during phase I.[26]
 
+
 Low bioavailability of Osthole appears to be mediated mostly by excessive and quick Phase I metabolism, with various possible routes of metabolism
+
 
 2.3
 
@@ -224,7 +232,9 @@ Benefit is also seen in diet-induced fatty liver, specifically milk-fat induced 
 
 At least one study using 6 weeks of Osthole supplementation (10-40mg/kg) and 2 weeks of fatty-liver induced milk consumption noted that triglyceride content in liver tissue was even lower than control.[33]
 
+
 Osthole, the active component of Cnidium Monnieri, appears to be able to reduce triglyceride levels in the liver (fatty liver) in both instances of alcohol-induced fatty liver and diet-induced fatty liver. No human studies, but several rat studies all noting benefit
+
 
 The mechanism above on PPARa activation in alcohol induced fatty liver[29] is also seen with dietary fat-induced fatty liver (NAFLD),[31][32] Activation of PPARa can then later downregulate DGAT and CYP7A1, which are abnormally elevated during instances of fatty liver, and increase CPT1A activity, which is suppressed during fatty liver.[32]
 
@@ -232,7 +242,9 @@ An independent alternate mechanism is modulation of SREBP-1c/2 proteins,[33] as 
 
 mRNA transcription rates of Fatty Acid Synthase are suppressed by 9.1%–38.7%, and the LDL receptor in the liver by 54.7%–78.9%, after ingestion of 10-40mg/kg Osthole in rats subject to fatty liver.[33] Whether this is secondary to SREBP modulation or PPARa activation is not known.
 
+
 Two ultimate mechanisms are being investigated for their abilities to explain what is seen with Osthole, and both pathways seem catered to either getting fatty acids out of the liver or just eliminating the fatty acids by using them for energy
+
 
 3.2
 
@@ -266,7 +278,9 @@ A possible mechanism of this cytotoxicity may be inhibition of fatty acid syntha
 
 Inhibition of MMP2 has also been noted with osthole in vitro, which can help to explain how osthole may be able to suppress invasion and metastasis of breast cancer cells.[39] This ability is possibly tied into FASN inhibition, as HER2 overexpressing cells are commonly seen as being more prone to metastasis.[40]
 
+
 Has potential as an anti-breast cancer agent, but has not been explored in vivo yet. Seems to act on Fatty Acid Synthase and Akt/mTOR similar to Green Tea Catechins, but no comparison of potency can be made
+
 
 5.
 
@@ -286,9 +300,12 @@ Beyond increasing Ca2+ influx and the pre-axonal cGMP influences, Osthole (and I
 
 The above hippocampal glutaminergic enhancement may be a mechanism behind Cnidium's pro-erectile effects (See section on Sexuality) as glutaminergic action in the hippocampus is linked to erections.[43][44] Glutamate or glutaminergic agonists injected into the hippocampus or hypothalamus induce erections, which in inhibited by antagonists of glutamate receptors; higher levels of glutamate are seen in cerebrospinal fluid and the hypothalamus during erections as well.[41]
 
+
 Increases glutaminergic neurotransmission via increasing calcium influx into neurons during an action potential, this is due to increasing cGMP levels in the neuron. This may be localized to the hippocampus and some other areas, such as the hypothalamus
 
+
 These mechanisms suggest it can enhance neural stimulation without, per se, being stimulatory on its own. However, this statement is conjecture
+
 
 5.2
 
@@ -344,7 +361,9 @@ PPARa and PPARy activation is a mechanism of fat loss for some supplements, init
 
 Studies in rats that measure body weight note statistically insignificant reductions in body weight. When fed a diet that induces fatty liver, mice that normally gained 9.5% of their bodyweight had the gain reduced to 3.2-5.1% with no observed dose-dependence.[33]
 
+
 Holds potential to be either a fat loss agent, or an anti-obesity agent (induce fat loss or prevent fat gain, respectively) but has not been studied for either claim yet
+
 
 8.
 
@@ -360,7 +379,9 @@ When examined in vitro on corpus cavernosum (penis wall) muscles, the bioactive 
 
 There may also be central (brain) effects as well, due to the ability of osthole to induce glutaminergic neurotransmission (see Neurology section).
 
+
 Not yet studied in humans, but has traditional usage of being an erection promoting herb in Traditional Chinese Medicine and appears to be active on both the penis tissues and the brain in similar manners to Viagra
+
 
 9.
 
@@ -400,7 +421,9 @@ Cnidii Fructus (fruits of Cnidium) have traditionally been used orally as an ant
 
 Oral administration of 50-500mg/kg bodyweight of a Cnidium Monnieri ethanolic extract was demonstrated, in mice suffering from irritated skin (compound 48/80), to reduce scratching behaviour and thus exert an anti-pruritic effect.[58] These same effects have been seen after oral administration of Cnidium fruits in mice give Substance-P, another pro-scratching agent.[59] The bioactives appear to be Osthole and the related coumarins may also influence, as Isopimpinellin and Osthole (but not Imperatonin) showed benefit in isolation when tested against compound 48/80[58] but only Isopimpinellin was effective against substance-P.[59] When compared to diphenhydramine (active control) at 50mg/kg, Cnidium at 200mg/kg and 500mg/kg we not as effective in reducing scratching behavior, whereas Cnidium was able to exert 33.1-34.7% inhibition of scratching while diphenhydramine inhibited 89.3%.[58] There was no dose-dependence, and 50mg/kg appeared to not be significantly different than 200mg/kg and 500mg/kg.[58]
 
+
 Coumarins, most likely Isopimpinellin, appear to be somewhat effective in reducing the sensation of itch when they are ingested orally as part of a diet or supplement regimen
+
 
 Osthole and the coumarins have also been implicated in suppressing 'outbreaks' of contact dermatitis, topical inflammation, when administered orally at 200-500mg/kg bodyweight to mice.[60]
 

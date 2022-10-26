@@ -22,7 +22,9 @@ A study without dietary controls conducted in post-menopausal and diabetic women
 
 Anti-inflammatory properties have also been attributed to Safflower Oil,[6] but at least one commentor[7] has suggested this may just be due to the Vitamin E content of Safflower Oil, as the mechanisms observed (downregulation of ICAM-1, a cellular adhesion molecule) is shared with Vitamin E.
 
+
 Safflower oil might exert protective effects on the body, particularly in obese diabetics; however, these effects seem to take a long time to occur, and may not occur with isolated Conjugated Linoleic Acid supplementation
+
 
 1.2
 
@@ -32,5 +34,7 @@ The same research group also assessed changes in weight,[5] and found that, in r
 
 Many other studies conducted on Conjugated Linoleic Acid use Safflower Oil as a control, and frequently note no significant effects on measured parameters such as weight of fat mass in the range of 3-6g daily, in time spans ranging from 4 weeks to 6 months.[8]
 
+
 The effects seem to be present, with a slightly beneficial shift of fat mass away from the trunk despite not actually burning it. These may be secondary to changes in glycemic control, and more studies should be done before Safflower Oil is considered a fat burner
+
 

@@ -110,13 +110,17 @@ The mushroom Lion's Mane (Hericium erinaceus) contains:
 
 Hericenones A and C-H[4][5][6]Erinacines A-K[7][8]Orcinol derivatives (Mycelium)[9]Sialic-acid binding lectin[10]Sterols, such as ergosterol and beta-sitosterol.[11]And a polysacchaide component (Hericium erinaceus )
 
-Polysaccharides, named HEF-P and belonging to the beta-glucan family; which can be broken down into four polysaccharides[12][13][14] The percentage of polysaccharides in the fruiting bodies seems to be around 20%, with 18.59% found with an ethanol extraction[14][15] with the overall structure of these polysaccharides comprising xylose (7.8%), ribose (2.7%), glucose (68.4%), arabinose (11.3%), galactose (2.5%) and mannose (5.2%).[16]Like most medicinal mushrooms, Lion's Mane appears to have bioactive polysaccharides (carbohydrates) in addition to some ethanolic soluble molecules
+Polysaccharides, named HEF-P and belonging to the beta-glucan family; which can be broken down into four polysaccharides[12][13][14] The percentage of polysaccharides in the fruiting bodies seems to be around 20%, with 18.59% found with an ethanol extraction[14][15] with the overall structure of these polysaccharides comprising xylose (7.8%), ribose (2.7%), glucose (68.4%), arabinose (11.3%), galactose (2.5%) and mannose (5.2%).[16]
+Like most medicinal mushrooms, Lion's Mane appears to have bioactive polysaccharides (carbohydrates) in addition to some ethanolic soluble molecules
+
 
 The total phenolic content of Lion's Mane appears to be in the range of 10.20+/-2.25mg gallic acid equivalents (GAE) per gram (about 1%)[17] with the hot water extract, which appears to be up to 5-fold higher than oven cooked levels and either methanolic or freeze-dried fruit bodies.[18] This 10.20+/-2.25mg GAE/g (phenolic content) is significantly less than the reference drug of Quercetin (194.24+/-7.58) and on a potency basis the overall antioxidant potential of lion's mane is about 17.7% that of quercetin in vitro.[17]
 
 The polysaccharides themselve are also active in vivo, with 300mg/kg of the polysaccharides daily for 15 days can reduce the oxidative changes induced by ischemia/reperfusion.[16]
 
+
 The phenolic antioxidant potential of Lion's Mane is significantly less than the reference drugs of Quercetin and gallic acid, although the polysaccharide content does also appear to be bioactive
+
 
 2.
 
@@ -130,11 +134,15 @@ Lion's Mane has been noted to increase mRNA expression of nerve-growth factor (N
 
 An increase in NGF mRNA has been detected in the hippocampus, but not cortex, of mice given 5% of the diet as lion's mane for a period of seven days to around 1.3-fold of control.[1]
 
+
 Lion's Mane ethanolic extract appears to increase NGF mRNA levels, and this has been confirmed following oral administration to mice
+
 
 Secretion of NGF from astrocytes has been noted to be increased with 150ug/mL of the ethanolic extract but not 50-100ug/mL[1] while isolated erinacines (A-C) are known to stimulate NGF secretion at 1mM concentrations, with a potency greatly exceeding that of adrenaline at the same concentrations.[19]
 
+
 Seceretion of NGF from astrocytes has been noted to be increased with incubation of lion's mane ethanolic extract
+
 
 When looking at neurons specifically, lion's mane appears to promote neuronal prolongation and formation of myelin[20]
 
@@ -178,13 +186,17 @@ Blood Pressure
 
 Hericenone B has been shown to exert anti-platelet actions by inhibiting signalling from collagen through α2/β1 to release arachidonic acid (one of the two receptors that mediates thrombosis via collagen[28]); the mechanism appears to be potent but specific in tested rabbits, with complete inhibition at 30μM (similar to 5μM aspirin as reference drug) and near complete at 10μM.[29] Interestingly, hericenones C-E failed to have any influence on collagen-induced platelet aggregation, and while hericenone B was active on other forms of aggregation (adrenaline and U46619 but not ADP nor thrombin) it was less effective.[29]
 
+
 Hericenone B appears to potently and specifically inhibit collagen-induced platelet aggregation, with other hericenones not having much of an effect and other forms of aggregation not being significantly affected. The concentration this occurs at suggests that it is biologically relevant
+
 
 Lion's Mane appears to be an ACE inhibitor (hot water extract of the fruiting bodies) with an IC50 value of 580+/-23µg/mL, significantly less than the most potent tested mushroom Ganoderma lucidum (50µg/mL).[17] 
 
 Hot water extracts of mushrooms tends to be more potent ACE inhibitors than ethanolic or methanolic extracts,[30][31] and mushroom bioactives that have been noted to inhibit ACE include D-mannose (IC50 of 3mg/mL)[32] and L-pipecolic acid (IC50 of 23.7mg/mL).[33] As these molecules themselves are weaker than Lion's Mane, it is currently thought that bioactives peptides underlie the ACE inhibitor potential as they have been detected in mushrooms before (Val-Ile-Glu-Lys-Tyr-Pro[34] and Gly-Glu-Pro[31])
 
+
 Lion's mane has ACE inhibiting properties, although they appear to be pretty weak and may not be biologically relevant. The exact molecule underlying these effects is not currently known, but it may be a bioactive peptide
+
 
 3.2
 
@@ -192,11 +204,15 @@ Lipids and Cholesterol
 
 Both a hot water and ethanolic extract of lion's mane have been tested in hyperlipidemic mice at 2% of the diet (1.896-3.16g/kg hot water and 2.016-3.36g/kg ethanolic) is able to reduce triglycerides (8% hot water and 27.1% ethanolic relative to control) without any apparent effect on HDL-C nor total cholesterol.[35] These hypolipidemic effects were also observed in liver tissue (29.8% hot water and 38.8% ethanolic) and was thought to be related to the ability of the ethanolic extract to act as a PPARα agonist with an EC50 value of 40µg/mL; there was an increase in genes downstream of PPARα but no changes in PPARα expression.[35]
 
+
 Lion's Mane may act as a PPARα agonist and reduce triglycerides without any apparent effect on cholesterol
+
 
 Although both the hot water and ethanolic extracts have been found inactive on cholesterol and HDL-C,[35] an extract derived from the mycelium of lion's mane (ethanolic extract which was then lyophilized) appeared to reduce LDL by 45.5% and improve HDL-C by 31.1% when taken at an oral dose of 200mg/kg with 50mg/kg also being somewhat active.[36]
 
+
 Although the fruiting body of the mushroom (edible portion) does not appear to significantly influence lipoprotein and cholesterol metabolism, the mycelium may reduce cholesterol
+
 
 4.
 
@@ -208,7 +224,9 @@ Mechanisms
 
 Supplementation of both the hot water and ethanolic extracts of lion's mane to mice (1.896-3.16g/kg hot water and 2.016-3.36g/kg ethanolic) has been found to increase the expression of several genes involved in fat metabolism including Acad1, Srebf1, and Slc27a1, which were thought to be due to activating PPARα.[35]
 
+
 Lion's Mane appears to be a PPARα agonist, which may contribute to fat burning properties
+
 
 4.2
 
@@ -230,7 +248,9 @@ Lion's Mane has been noted to suppress LPS-induced macrophage activation (mostly
 
 The polysaccharide known as HEF-AP Fr II (a beta-glucan), conversely, has been found to stimulate macrophage activity itself as assessed by TNF-α and IL-β release at a concentration of 1mg/mL.[14] This may be related to the increase in macrophage and T-cell count seen with incubations of this mushroom.[38]
 
+
 Differing compounds in Lion's Mane appear to differently modulate the immune system, with the polysaccharides appearing to be immunostimulatory but other molecules (mostly in the chloroform extract) appearing to suppress macrophage activation
+
 
 5.2
 
@@ -238,7 +258,9 @@ Interventions
 
 A study in topically wounded rats with the water extract of lion's mane has noted that immune cell accumulation in the wound was reduced in the lion's mane group relative to control.[39]
 
+
 Some suppression of chemotaxis may occur in wounds
+
 
 6.
 

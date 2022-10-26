@@ -290,13 +290,17 @@ Deficiency
 
 A deficiency of chromium can be induced with long-term total parenteral nutrition (TPN) lacking chromium, and has been reversed with supplementation of 150µg daily added to the TPN in one case study[7] and 250µg daily for 2 weeks followed by a maintenance dose of 20µg daily for 18 months in another.[8] The main symptoms of deficiency in these cases appeared to be significantly impaired glucose tolerance and insulin sensitivity associated with weight loss, as well as neuropathy and encephalopathy which were reversible upon replenishment of chromium.[8][7]
 
+
 Severe chromium deficiency is associated with type-I diabetic-like symptoms (impaired glucose tolerance and weight loss) as well as neuropathy, and can be reversed by administering chromium.
+
 
 Subclinical deficiencies in chromium are associated with insulin resistance, since chromium concentrations have been found to be lower in diabetics relative to controls[9] (the evidence is mixed for gestational diabetes, however[10][11]). Chronic high-sugar diets (35% of daily calories) have been noted to accelerate urinary chromium losses,[12] although diets composed of high glycemic index foods failed to acutely influence urinary chromium elimination in healthy subjects despite showing a trend over six days.[13] 
 
 This acclerated urinary chromium loss is thought to occur via release of chromodulin from insulin-sensitive cells into the bloodstream followed by its elimination in the urine.[14] Chromodulin is a peptide which exists inside of cells. When combined with chromium taken into cells from the bloodstream, it amplifies insulin signaling by binding to insulin-stimulated insulin receptors.[14] Chromodulin binds chromium ion with very high affinity, forming a complex that can only be separated under non-physiological conditions. Once insulin levels drop, however, the insulin receptors no longer need to be sensitized, so the entire complex must be eliminated as a whole.[14] [15] This hypothesis is supported by detection of chromodulin in the urine[16] and its tight correlation with insulin secretion rates and exposure under nonsupplemental conditions.[16][17][18]
 
+
 Insulin resistant states may be associated with lower chromium levels, although not low enough to be considered a legitimate deficiency. This may be related to an increase in urinary chromium losses which seems to be caused by a diet high in sugars.
+
 
 Urinary chromium concentrations are elevated with endurance exercise (a five-fold increase following two hours of running, but only two-fold over the course of the day) in a manner that is not related to an increase in serum insulin and not related to an increase in any other urinary ion.[18] This situation, despite no increase in insulin levels, is known to require higher glucose uptake in muscle tissue sustained by higher release of glucose from the liver.[19]
 
@@ -314,19 +318,27 @@ Chromium picolinate is a term referring to chromium in the trivalent state (Cr(I
 
 Chromium picolinate is thought to be physiologically inactive until it releases free chromium,[26] suggesting that it serves as a chromium prodrug.
 
+
 Chromium picolinate is a readily absorbed prodrug for chromium that is also highly stable when outside of the body (in processing and in storage).
+
 
 Chromium is known to be present in yeast, where it plays a major physiological role.[27][28] Within yeast cells is 'glucose tolerance factor' (GTF)[29], which was first derived from brewer's yeast.[30] GTF can be purified from yeast after methanolic extraction and subsequent filtration, yielding a set of molecules 1,000 and 3,500 Da in size.[31][32] The major active components in this set of molecules are thought to be trivalent chromium nicotinic acid along with some amino acids (glycine, L-cysteine, and glutamic acid).[33] Dietary intake of yeast seems to confer some of the benefits of chromium supplementation, probably due to GTF and chromium intake.[29]
 
+
 Chromium from yeast is thought to be chromium nicotinic acid, although there may be other forms of chromium in yeast that have not yet been found.
+
 
 Chromium nicotinic acid (also known as chromium polynicotinate) is chromium complexed with nicotinic acid (Niacin or Vitamin B3), and is reported to have cholesterol reducing effects.[34][35] The studies in which cholesterol is reduced do not necessarily find glucose metabolism benefits,[34][35] suggesting that it is the niacin that is causing these effects.
 
+
 Chromium nicotinic acid is a form of chromium bound to niacin (vitamin B3), which has cholesterol-lowering effects. Because studies noting reduced cholesterol failed to show effects on glucose metabolism, the cholesterol-lowering effects of this chromium compound may be due to niacin.
+
 
 Chromium dinicocysteinate (CDNC) is a complex of the chromium ion with the amino acid L-cysteine. One study comparing 400µg of chromium as CDNC against 400µg of chromium as picolinate found improvements in insulin levels and sensitivity only with CDNC.[36]
 
+
 Chromium dinicocysteinate (CDNC) is a form of chromium bound to L-cysteine. While preliminary evidence suggests that it is effective, the body of evidence is not large enough to conclude its efficacy relative to chromium picolinate or brewer's yeast.
+
 
 2.
 
@@ -336,7 +348,8 @@ Molecular Targets
 
 Chromodulin
 
-One of the major mechanisms thought to be related to chromium supplementation involves modulation of the insulin signalling pathway.[37] This was first discovered when a low molecular weight chromium-binding oligopeptide was identified that augmented the effects of insulin on glucose oxidation.[38] Also called LMCr or Chromodulin[39], this oligopeptide is produced in the liver of rats following chromium injections[40] and has a mass of approximately 1500 kDa.[39][41]
+One of the major mechanisms thought to be related to chromium supplementation involves modulation of the insulin signalling pathway.[37] This was first discovered when a low molecular weight chromium-binding oligopeptide was identified that augmented the effects of insulin on glucose oxidation.[38] Also called LMCr or Chromodulin[39], this oligopeptide is produced in the liver of rats following chromium injections[40] and has a mass of approximately 1500 kDa.[39]
+[41]
 
 It was found that chromodulin increased insulin signalling in the presence of insulin 5-8 times higher than baseline activity, without affecting signalling in the absence of insulin.[42] Depleting chromodulin of chromium ablates the activity,[42] which positively correlates with the chromium content of the peptide. Also, other minerals failed to replicates its effects.[43] 
 
@@ -344,7 +357,9 @@ Ultimately, chromodulin increases autophosphorylation of the insulin receptor. I
 
 The chromium-dependent functions of chromodulin are likely the biological reason chromium is an essential mineral[45], although chromium's essential nature has recently come into dispute.[46]
 
+
 An oligopeptide known as chromodulin binds to chromium, and requires chromium to augment insulin receptor signaling. This may be one of the biological reasons chromium is arguably an essential nutrient, and deficiencies in chromium are thought to impair chromodulin's ability to enhance insulin signalling.
+
 
 2.2
 
@@ -354,7 +369,9 @@ Adenosine Monophosphate Kinase (AMPK) is a key sensor of cellular energy status,
 
 Chromium (trivalent with D-phenylalanine) has been noted to activate AMPK at its catalytic site (Thr172) in cardiomyocytes and skeletal muscle cells at 25μM, suggesting that organic chromium complexes may be novel activators of the AMPK pathway.[49]
 
+
 Chromium in complex with D-phenylalanine has been implicated as an AMPK activator. It is not clear whether this effect is common to all types of chromium complexes, or may be unique to this particular form. Thus, it is also not clear whether this effect is relevant to oral chromium supplementation.
+
 
 3.
 
@@ -370,7 +387,9 @@ Chromium absorption is influenced by a number of dietary factors. In rats, chrom
 
 Amino acids appear to enhance absorption of chromium from the diet as they form complexes that enhance absorption by reducing the tendency of chromium to precipitate in the alkaline intestinal fluid.[1] Chromium absorption in humans is also significantly increased in the presence of ascorbic acid and nicotinic acid.[1]
 
+
 Percentage-wise, chromium is not well absorbed, and dietary intake is inversely correlated with absorption. The most efficient absorption (around 2%) occurs with less (around 10 μg), rather than more (40+ μg) chromium, which is absorbed in the 0.4-0.5% range. Chromium absorption is also affected by the presence of dietary factors such as amino acids, minerals such as zinc, and certain organic acids.
+
 
 3.2
 
@@ -384,7 +403,9 @@ Distribution
 
 Transferrin is a transport protein in serum known to bind to minerals (notably iron). It has been noted to have affinity for trivalent chromium,[56] binding two ions of chromium per transferrin molecule.[57][58] Transferrin is thought to donate chromium to the chromium-binding oligopeptide chromodulin.[59] Altough earlier studies suggested that chromodulin donates chromium to transferrin, this work was conducted at higher temperatures, which may have caused chromodulin degradation.[60] More recent studies have shown that chromodulin does not release chromium to transferrin, however.[59] Since transferrin releases ions within a cell after endocytosis,[61] it seems that chromodulin accepts and retains these ions from transferrin.
 
+
 Transferrin is a protein known to transport many divalent and trivalent ions, including chromium. Following uptake by a cell, it can release free chromium ions which are then taken up by the chromium-binding oligopeptide chromodulin.
+
 
 3.4
 
@@ -406,7 +427,9 @@ Low doses of chromium picolinate in the food (providing 1ppm of chromium) of Lon
 
 Chromium supplementation has been reported to improve glucose tolerance in the elderly.[67] When investigating only well-nourished elderly people, however, it seems that chromium is without effect, [68] suggesting that chromium supplementation may be associated with anti-aging effects in humans only in the context of dietary deficiency.
 
+
 Chromium has been shown to have robust anti-aging effects in rats that were attributed to reduced age-associated increases in glucose and insulin levels. Limited studies in humans suggest that chromium may only confer anti-aging effects in the context of a dietary deficiency, however.
+
 
 5.
 
@@ -424,16 +447,22 @@ Serotonergic Neurotransmission
 
 It is thought that chromium can desensitize signalling through the 5-HT2A serotonin receptor since it impairs the increase in cortisol normally seen with 5-HTP (a serotonin precursor) administration in rats (100mg/kg chromium picolinate in the diet) and humans (400µg as picolinate).[72]
 
+
 It is thought that chromium can reduce serotonin signalling via the 5-HT2A receptors.
+
 
 It is hypothesized that chromium sensitizes the hypothalamus in particular to the effects of insulin, thus affecting glucose metabolism. This can result in increased glycolysis (usage of glucose) and production of serotonin.[64] Higher serotonin activity correlates with increased insulin sensitivity in the periphery (at least in healthy subjects), which may in part account for chromium's effect on glucose utilization.[73]
 
+
 It is thought that chromium is able to increase production of serotonin in the brain, which may lead to changes in how sugar is used by the body.
+
 
 Chromium injections acutely and dose-dependently increase plasma tryptophan and brain serotonin concentrations (20-50mg/kg of chromium picolinate) in rats,[69] and 100mg/kg chromium picolinate in the rat diet (estimated 10mg/kg intake based on bodyweight) for two weeks increased free (but not total) tryptophan by 61.9% while also increasing serotonin by 38.5%.[69] This has been replicated elsewhere in rats fed chromium picolinate at the same dose,[72]
 however oral ingestion of 400µg chromium (as picolinate) in humans has failed to modify free or total plasma tryptophan concentrations.[72]
 
+
 Rat studies demonstrate an increase in brain serotonin with oral chromium supplementation. Evidence for this effect in humans is weaker.
+
 
 5.3
 
@@ -449,11 +478,15 @@ Several studies have suggested that chromium supplementation may promote reduced
 
 This was confirmed in a recent study in overweight adult women who reported intense carbohydrate cravings (at least twice a week). Daily supplementation with 1,000μg chromium (as picolinate) over the course of eight weeks resulted in a greater reduction in food intake (25%) compared to placebo (8%).[77] Reduction in food intake was associated with decreased hunger and cravings, however macronutrient composition was unaffected and these changes were independent of any effects on insulin sensitivity.[77] In a parallel trial by the same research group, it was found that peripheral administration of chromium in rats (via IP injection) resulted in only a modest decrease in food intake, compared to a significant, dose-dependent decrease in food intake when administered centrally (directly into the brain).[77] Taken together, this work suggests that chromium supplementation may promote reduced food intake by affecting neurotransmitters in the brain that control appetite and cravings.
 
+
 Chromium has been shown to promote reduced food intake in rats. This effect has also been demonstrated in human subjects, although it is not clear whether it may be specific to certain populations. Studies in rats suggest the food-intake reducing effects of chromium may occur via direct effects in the brain, via regulation of neurotransmitters that control appetite and feeding behavior.
+
 
 In atypical depression patients (which is a particular subset of depression associated with higher food intake, sleep, and mood reactivity[78]), 600μg chromium as picolinate for eight weeks failed to significantly influence the majority of depressive symptoms. However, there were significant improvements in carbohydrate cravings and food intake with a greater effect in those reporting larger carbohydrate cravings at baseline.[76] In persons with binge eating disorder, the rate of decline in binging frequency was greater with 1,000μg chromium than placebo and 600μg, although the overall reduction failed to reach statistical significance.[79]
 
+
 Chromium may promote reduced food intake in those afflicted with abnormally high appetite or carbohydrate cravings that often co-occur with depression or binge-eating disorders. It may also promote reduced food intake in those with atypically strong cravings in the absence of any pathological diagnosis.
+
 
 5.5
 
@@ -463,7 +496,9 @@ Supplementation of 1,000µg chromium (as picolinate) for 12 weeks to elderly adu
 
 In a pilot study (no placebo control) for persons with rapid-cycling bipolar disorder, only a minority of subjects that received 600-800µg chromium daily alongside their standard medication exhibited less depressive symptoms (30% responders on the HAMD, 39% on MADRS) after three weeks.[81] In contrast, a series of case studies in dysthymic disorder have noted that chromium may significantly reduce depressive symptoms.[82] Moreover, a pilot study in atypical depression noted that 600µg chromium (picolinate) was better than placebo at reducing symptoms of depression in 70% (7/10) of subjects [83]. Although promising, it should also be noted that whole-group benefits of chromium supplementation in this study failed to reach statistical significance, as assessed by SCL-90 and HAM-D).[83]
 
+
 Although Chromium has shown promise in reducing depressive symptoms, its efficacy may be limited to particular disorders, such as dysthymia or atypical depression. 
+
 
 5.6
 
@@ -482,7 +517,9 @@ Cardiac Tissue
 
 Suboptimal chromium levels have recently been identified as a possible risk factor for cardiovascular disease. Low chromium concentrations in the toenail (which builds up minerals from the body similar to hair) is associated with an increased risk of nonfatal myocardial infarction.[84] In a double-blind, placebo-controlled crossover study, type II diabetics who supplemented with 1,000µg chromium (as picolinate) daily for three months exhibited a shortened QTc interval.[85] QTc interval prolongation, which has been linked to impaired glucose homeostasis in type II diabetics, is a powerful predictor of caridiac death [86][87], suggesting that chromium supplementation may exhibit a moderate cardioprotective effect by promoting improved glucose homeostasis. Consistent with this, benefits of three months of supplementation were carried over for an additional three months without supplementation and occurred concurrently with reductions in serum insulin levels. This effect occurred independently of any changes in glucose or HbA1c levels and heart rate was unaffected.[85]
 
+
 Low chromium levels have been linked to increased risk for cardiovascular disease in men. Chromium supplementation has been shown to shorten the QTc interval in type II diabetics, which is suggestive of a cardioprotective effect.
+
 
 6.2
 
@@ -514,7 +551,9 @@ Mechanisms
 
 Supplementation of 1,000µg chromium (as picolinate) in two divided doses for 24 weeks in type II diabetics failed to significantly influence hepatic glucose production relative to placebo.[55] (Hepatic glucose production is often pathologically elevated in diabetics[92])
 
+
 Chromium does not affect gluconeogenesis, a process where glucose is produced in the liver from non-carbohydrate carbon substrates that is pathologically increased in diabetics. 
+
 
 When medicated diabetics consumed 200µg chromium (as chloride) added to a milk powder product daily for 16 weeks, blood glucose and insulin levels were significantly reduced while insulin sensitivity improved.[93] The results of this study were somewhat gender-specific however, as significant improvements in the aforementioned markers of glucose homeostasis occurred in male subjects only.[93]
 
@@ -524,13 +563,17 @@ Insulin Receptor
 
 Chromodulin is an endogenous oligopeptide[41] containing chromium which positively mediates signalling of the insulin receptor when in the presence of insulin.[38] Injecting of chromium (as potassium chromate) into rats increases urinary and fecal concentrations of this oligopeptide.[94] However, urinary chromodulin does not appear to be saturated under basal conditions, implying that more chromium could be bound to the oligopeptide.[94] Since the potency of chromodulin in enhancing insulin signaling correlates with the amount of chromium bound to it,[43] and injections of potassium chromate in rats result in rapid association with chromodulin,[60][95] it is possible that increased dietary chromium could increase the activity of this oligopeptide.
 
+
 Operating under the assumption that typical dietary chromium intakes are insufficient to saturate chromodulin, chromium supplementation could theoretically enhance insulin signaling by increasing chromium-chromodulin association.
+
 
 In studies using trivalent chromium, there appears to be an increase in insulin receptor kinase activity (in the presence of insulin) when 1-10μM chromium is added to mammalian cell culture.[96] This increase is independent of any direct influence on either phosphorylation or autophosphorylation[96] and distinct from that of chromodulin, which influences autophosphorylation.[42]
 
 Some complexes with trivalent chromium have minor interactions with the insulin receptor, with complexes bound to small endogenous molecules such as histidinate, lactate, acetate or propionate showing minor inhibitory effects at concentrations around 100μM. Of these complexes, chromium-propionate appears to be more potent, showing inhibitory effects at concentrations as low as 1μM.[97]
 
+
 Chromium itself has been implicated in enhancing insulin signalling, although the mechanism with chromium ions seems to differ from that seen with chromodulin and requires a significantly higher concentration. Chromium itself does not appear to directly influence the insulin receptor like chromodulin can.
+
 
 Protein-tyrosine phosphatase 1B (PTP1B) is a negative regulator of insulin receptor signaling[98] that may be suppressed by endogenous chromium. Although chromodulin was found to activate membrane PTP activity in one earlier study,[99] there are many endogenous PTP enzymes, and PTP1B was not specifically examined in this study. Trivalent chromium has been shown to inhibit PTP1B by 21-33% in both rat and human hepatoma cells,[100] suggesting that chromium may potentiate insulin signaling by suppressing PTB1B-mediated dephosphorylation of the insulin receptor. In contrast, a more recent study noted that chromium failed to inhibit recombinant human PTP1B phosphatase activity in a pure in vitro system, suggesting that chromium may potentiate insulin signaling by mechanisms distinct from any effects on PTP1B.[96]
 
@@ -540,15 +583,21 @@ Phosphorylation of IRS-1, an important transducer of insulin signaling that is i
 
 The above JNK activation could be traced back to endoplasmic reticulum (ER) stress in theory,[106] and agents that reduce ER stress also attenuate diabetic symptoms.[107][108] ER stress is known to be increased in cells from obese and diabetic animals and is treatable with chromium.[104]
 
+
 Chromium interactions with PTP1B, a negative regulator of insulin receptor activity are not well-understood. Some studies suggest that chromium may not have appreciable effects on PTP1B signaling. It is possible, however, that chromium suppresses JNK-mediated attenuation of insulin signaling in the context of a pre-existing insulin resistant state.
+
 
 Chromium does not appear to augment insulin receptor expression in the presence or absence of insulin, suggesting that its affects on insulin signaling occur independent of any changes in insulin receptor levels.[109][97] Moreover, when incubated with insulin, chromium does not affect the interaction of insulin with the insulin receptor.[96] This suggests that chromium does not affect insulin sensitivity via augmenting insulin receptor affinity.
 
+
 Chromium does not affect insulin receptor expression levels or influence binding of insulin to the insulin receptor.
+
 
 An early study conducted in 1992 revealed that chromium increases insulin internalization at 1µM (418ng/mL), which was associated with increased membrane fluidity and not replicated with other chelations of chromium or zinc picolinate.[110] The novel discovery that insulin is internalized into the cell was later revealed to be an important negative feedback mechanism for insulin receptor signaling. After insulin binds its receptor, the insulin-receptor complex is internalized by endocytosis,[111] triggering insulin degradation[112] and effectively reducing the number of insulin receptors displayed on the cell surface as a mechanism to attenuate the insulin response.[113]
 
+
 After binding to its receptor outside the cell, insulin triggers movement of the insulin-receptor complex to inside the cell. This reduces the number of insulin receptors displayed on the cell surface and functions as a negative feedback mechanism to limit the insulin signaling response.
+
 
 7.3
 
@@ -564,7 +613,9 @@ One study noted that in spite of failure to find statistically significant impro
 
 Moreover, supplementation of 1,000µg chromium (as picolinate) for 24 weeks in type II diabetics has been noted to slightly reduce intramuscular lipid concentrations relative to placebo.[55] Because buildup of lipids within muscle tissue is one of several pathological causes of insulin resistance,[115] this work further suggests that chromium supplementation may increase insulin sensitivity in those who are already insulin-resistant.
 
+
 Chromium supplementation may promote improved insulin sensitivity in those who are already insulin-resistant.
+
 
 7.5
 
@@ -572,7 +623,9 @@ Glycation
 
 A meta-analysis of trials in type II diabetics with over 250µg chromium supplementation lasting over three months failed to find any influence on HbA1c relative to placebo treatment.[91] This is in opposition to previous reviews assessing only trials in diabetics with a baseline HbA1c over 7%, where chromium supplementation resulted in a reduction in HbA1c by 0.34% relative to placebo.[116] Other reviews have noted reductions of 0.6%,[117] and as much as 0.9% when all forms of diabetes and insulin resistance were included.[118] It should be noted, however, that some of these analyses included trials lasting less than three months,[117] which may not be sufficient to measure authentic changes in HbA1c.[91]
 
+
 Depending on the population studied and the type and quality of studies looked at, evidence that chromium affects hemoglobin A1C levels is mixed.
+
 
 7.6
 
@@ -580,7 +633,9 @@ Blood Glucose
 
 Supplementation with 400 or 800µg chromium (as picolinate) alongside a test meal in otherwise healthy adults reduced glucose area under the curve (AUC) by 30-36% in responders, with the low-dose being more effective.[119] Notably, responders were classified by having a relatively lower meat and milk intake,[119] suggesting that chromium may affect postprandial glucose-metabolism in those with lower baseline levels of chromium. The reduction in glucose was not associated with any changes in insulin, excluding an insulinogenic effect, and occurred in persons without impaired glucose metabolism.[119]
 
+
 Chromium supplementation may promote blood glucose-disposal, particularly in those with low dietary chromium intake.
+
 
 In a meta-analysis of trials assessing chromium supplementation over 250µg in type II diabetics over a three month period (or longer),[91] the seven trials which were included in meta-analysis[55][88][120][121][122][123][124] failed to show a reduction in HbA1c levels in serum despite a mild reduction in blood glucose (RR of -0.95 and a 95% CI of -1.4 to -0.5).[91]
 
@@ -602,7 +657,9 @@ In studies pairing chromium with resistance training, chromium has failed to inf
 
 In youth wrestlers, 200µg chromium daily for 14 weeks failed to modify body composition or muscular performance.[129] Moreover, chromium supplementation at the same dose failed to have an effect on skeletal muscle in untrained people given a weight-training routine.[130]
 
+
 Chromium does not seem to promote the growth of muscle mass in any population at any dose.
+
 
 8.2
 
@@ -612,7 +669,9 @@ Chromium supplementation failed to increase power output in elderly women given 
 
 In young male wrestlers, 200µg chromium (as picolinate) over 14 weeks also failed to modify power output or muscular endurance.[129]
 
+
 Chromium does not seem to affect power output in any population at any dose.
+
 
 8.3
 
@@ -626,7 +685,9 @@ Lactate
 
 One study using chromium (600µg as picolinate) daily for a month prior to a glycogen depletion exercise noted that immediately after exercise and for the next hour, the chromium group had significantly higher lactate levels relative to placebo.[133] In another study utilizing a shuttle-run exercise model, this increase in lactate failed to occur over 75 minutes of testing following consumption of 400µg chromium picolinate alongside carbohydrate or water control.[132] Moreover, lactate concentration at fatigue was similar in this study between both groups and water control.[132]
 
+
 Results of studies examining the effect of chromium supplementation on lactate production are mixed, likely varying with the exercise model and sampling protocol. Taking the evidence into account, chromium does not appear to have a robust, meaningful effect on lactate production.
+
 
 8.5
 
@@ -634,11 +695,15 @@ Glycogen
 
 Glycogen synthase is the enzyme responsible for converting glucose to glycogen, the primary storage form of carbohydrate in the body. Likewise, glycogen phosphorylase is involved in breaking down these carbohydrate stores into glucose for energy. Because of its effects on glucose metabolism, chromium has been investigated for its impact on glycogen stores. Preliminary evidence revealed that rats fed chromium preserved liver glycogen better than a control group during fasting.[134] Later, it was noted that chromium increased the activity of the glycogen synthase enzyme in trained rat muscle and liver relative to nonsupplemental control, but glycogen phosphorylase was unaffected.[135]
 
+
 Limited evidence in rats suggests that chromium supplementation can increase the storage and production of glycogen in skeletal muscle. Chromium does not seem to affect the breakdown of glycogen to free up glucose for energy, however.
+
 
 In overweight and lightly trained or sedentary adults given supplementation of chromium (600µg as picolinate) daily for a month alongside a standardized diet with the last two days designed to deplete glycogen, supplementation failed to modify glycogen levels or the rate of resynthesis (from a carbohydrate containing beverage) relative to placebo.[133]
 
+
 Chromium supplementation in overweight, untrained humans failed to affect glycogen resynthesis following exercise.
+
 
 9.
 
@@ -650,7 +715,9 @@ Weight
 
 According to a meta-analysis on weight in type II diabetics supplementing chromium (over 250µg) for over three months, there is no significant alteration in weight relative to placebo despite a modest reduction in blood glucose.[91] In contrast, another meta-analysis found that overweight and obese adults who supplemented with chromium picolinate reduced body weight in the dosage range of 200-1,000µg, regardless of diabetic status. Weight loss was very modest however, totaling only 1.1kg (95% CI in the range of 0.4-1.7kg).[136] Of note, this latter meta-analysis deemed the quality of evidence less than optimal, calling into question any chromium-mediated effects on weight loss.[136]
 
+
 Chromium supplementation has little to no influence on weight. Although results from some studies are suggestive of very modest effect, robust, reliable evidence for weight loss is currently lacking.
+
 
 One trial noted that weight gain associated with sulfonylurea therapy (0.9kg over 10 months) in diabetics was mitigated by coingestion of 1,000µg chromium.[123] Importantly, these results may be limited to those who are undergoing sulfonylurea therapy. When diabetic subjects who were not currently medicated were instructed to follow a weight-maintenance diet, 1,000µg chromium picolinate failed to modify food intake, appetite, or body weight.[55]
 
@@ -678,7 +745,9 @@ Lipid peroxidation, a form of oxidation that causes oxidative damage to cellular
 
 Chromium supplementation at 1,000µg daily for 6 months reduced lipid peroxidation as measured by a reduction in TBARS by 12-21% in people whose HbA1c exceeded 6.8%, independent of any changes in antioxidant enzyme levels (superoxide dismutase, catalase, glutathione peroxidase).[140] In people with normal HbA1c levels (below 6%), however, TBARS actually increased by 28.6%, suggesting that chromium acted as a pro-oxidant in this group.[140] In contrast, a reduction in TBARS of 13.6% without changes in antioxidant enzyme levels was noted in a study of diabetics after six months with 400µg of chromium.[141] Similar results were achieved with 30mg Zinc (as gluconate), which was mildly additive in patients given both chromium and zinc (reaching 18.6% with combination therapy).[141]
 
+
 Chromium may reduce lipid peroxidation in certain populations. More studies are needed, however, to determine the appropriate dose as well as who may benefit.
+
 
 11.2
 
@@ -690,7 +759,9 @@ Chromodulin, the peptide which contains chromium, does not appear to damage DNA 
 
 Daily supplementation with 400µg chromium (as picolinate) for eight weeks in obese women failed to alter levels of the anti-HMdU (5-hydroxymethyl-2'-deoxyuridine) antibody in titers,[147] an oxidized DNA base and indicator of DNA damage.[148] This lack of increase was reported to demonstrate absence of genotoxicity.[147]
 
+
 Chromium picolinate, more than other trivalent forms of chromium, has the ability to form prooxidants that can potentially cause DNA damage. The relevance to standard oral supplementation is not known, since the concentration required to damage DNA (in upwards of 50µM) is significantly higher than what is seen in the blood following oral ingestion of supplements. Moreover, studies in human subjects have failed to note DNA damage with standard supplemental doses.
+
 
 12.
 
@@ -704,7 +775,9 @@ The concentration of chromium in the testes of diabetic rats (0.36µg/g dry weig
 
 Hexavalent chromium, the form used in industries but not supplementation, is known to be toxic to testicular tissue.[150][151] In contrast, high concentrations of trivalent chromium (up to 1mM) have failed to suppress cellular proliferation of sertoli-like cells,[152] suggesting a lack of apparent toxicity.
 
+
 Chromium accumulates in the testes of rats when injected, although the possible benefits or harm in the testicles with oral supplementation of chromium have not been studied. Hexavalent chromium, the toxic form not found in supplements, is known to be toxic to the testes.
+
 
 13.
 
@@ -736,7 +809,9 @@ Polycystic ovarian syndrome (PCOS) is a syndrome associated with insulin resista
 
 A double-blind, placebo-controlled study using 200 µg chromium picolinate supplementation for 8 weeks found significant decreases in plasma insulin levels and improved insulin sensitivity in women with PCOS. There was also a trend toward improved lipid profiles, although none of the differences were statistically significant.[161] Another such study also using 200 µg chromium picolinate for 8 weeks found reduced acne, hirsutism, and C-reactive protein and improved plasma total antioxidant capacity but no change in reproductive hormones (FSH, LH, prolactin, and free testosterone).[162]
 
+
 Chromium supplementation may improve some symptoms and the metabolic profile of women with polycystic ovarian syndrome, although no impact on reproductive hormone levels has been found.
+
 
 15.
 
@@ -756,7 +831,9 @@ Chromium is known to be transported in the blood with the same transporter that 
 
 One study noted that supplementation of a low dose of chromium (187µg as picolinate) over a 12 week period does not influence total iron binding capacity of the blood or iron status of otherwise healthy women.[165] Another study found that eight weeks of supplementation of 500µg chromium via Brewer's yeast failed to alter serum or hair concentrations of iron (and other minerals, such as copper and zinc) despite an increase of chromium in serum (116%) and in hair (20.6%).[166] These results are suggestive that chromium supplementation at low levels does not affect iron status in humans.
 
+
 Although studies in rats taking very high doses of chromium have suggested that chromium may interfere with iron transport, human studies of chromium supplementation at normal doses have not demonstrated this. It seems that chromium supplementation at normal dosing has no effect on iron state in humans.
+
 
 15.3
 
@@ -766,7 +843,9 @@ Grape seed extract (GSE) is a source of procyanidins (similar to pycnogenol) tha
 
 One pilot study assessing the combination found a decrease in total cholesterol with the combination of 200µg chromium (as polynicotinate) paired with 100mg GSE that was not present in either group alone[34] while a reduction in LDL oxidation seemed to be mostly due to GSE with no contribution from chromium.[34]
 
+
 GSE and chromium are speculated to be additive or synergistic in alleviating the signs of metabolic syndrome, but at this moment the evidence to support synergism is limited.
+
 
 15.4
 
@@ -788,7 +867,9 @@ Two months ingestion of chromium (nanoparticles of picolinate) at 600-1,000µg/k
 
 It was suggested that a dietary intake of chromium of 100mg/kg of food was approximately an equal to an intake of 10mg/kg body weight,[62] and since minor increases in liver enzymes were noted at 1mg/kg in the rat diet (or 100µg/kg in relation to bodyweight) it suggests that adverse effects could occur in humans above this dose.[62]
 
+
 In rats, liver damage appears to be able to be induced with an intake of chromium which is above recommended supplemental levels.
+
 
 16.2
 

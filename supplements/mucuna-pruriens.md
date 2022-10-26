@@ -126,7 +126,9 @@ It has been suggested that although Levodopa per se can increase DNA damage thro
 
 At least one human study on Mucuna Pruriens compared its results to standard Levodopa treatment and noted less occurance of dyskinesia.[22] It is not sure whether this is due to the above protective mechanisms, or due to Levodopa from Mucuna Pruriens being more bioactive. Levodopa in Mucuna Pruriens appears to be 2-3x more bioactive (potent) when compared to the same dose of isolated Levodopa, which is hypothesized to be due to a currently unknown Dopamine Decarboxylase inhibitor in Mucuna Pruriens.[22] Standard Levodopa therapy for Parkinsons tends to pair it with Carbidopa to inhibit this enzyme and prolong the effects of Levodopa.
 
+
 Levodopa and Mucuna Pruriens both seem effective. In isolation, Mucuna Pruriens may be better (due to the fact that it, as a herb, is never a molecule in isolation), but no studies exist comparing Mucuna to Levodopa and Carbidopa. The above studies suggest that Mucuna can hold its ground against standard Levodopa/Carbidopa therapy, but doesn't suggest it is better.
+
 
 3.
 
@@ -152,7 +154,9 @@ Testosterone has been increased in healthy infertile men without any impairments
 
 In rats with type II diabetes, increases in testosterone have been seen with an oral dose of 200mg/kg bodyweight Mucuna Pruriens[25] or in blend with two other aphrodisiac herbs.[26]
 
+
 Only one human study, and it increased testosterone in infertile men. It is not known whether it can increase testosterone in already fertile men.
+
 
 4.
 
@@ -196,7 +200,9 @@ Beyond the double blind study mentioned, three open label studies in humans have
 
 The levodopa content has carryover to other dopamine-related conditions, such as suppression of tardive/orofacial dyskinesia symptoms.[38] Doses as low as 48mg/kg Mucuna in rats (6% Levodopa) reduces tacrine-induced spontaneous jaw movements, an animal model for tardive dyskinesia.[15] This dosage is approximately 8mg/kg bodyweight after conversion to human dosages based on Body Surface Area, or 730mg daily for a 200lb person.
 
+
 Mucuna Pruriens definitely appears to have interactions with Parkinson's Disease, although its exact role (treatment, adjunct therapy, preventative medicine) is not fully examined. It looks to be a highly promising herbal.
+
 
 5.2
 
@@ -222,7 +228,9 @@ In regards to testosterone, one study noted it could be increased over 3 months 
 
 In rat studies looking at sexuality, mounting frequency is significantly increased at 150-250mg/kg bodyweight in rats;[42] a dose of 2.4-4mg/kg bodyweight in humans assuming standard Body Surface Area conversions.[43] Similar results have been seen in rats with type II diabetes induced by streptozotocin at a dose of 200mg/kg bodyweight[25] and the same dosage/animal model of diabetes was found to alleviate damage on penile tissue associated with diabetes, suggesting preservation of sexuality in response to a disease state.[44]
 
+
 Appears to be effective in increasing sperm parameters and libido in studies on infertile men, but the evidence for its usage in otherwise healthy persons is less robust. It might be effective, but it really isn't known for sure.
+
 
 6.
 
@@ -246,7 +254,9 @@ The glycoprotein inhibitor appears to be most stable at pHs of 4-7[11] and have 
 
 All inhibitory potential is lost at 100°C, and efficacy starts to be lost at 50°C, Increasing the pH to 9-12 can destroy the protein at temperatures of 75°C.[11] Protein digestability also increases when exposed to irradation in a dose-dependent manner.[12] Irradiation may decrease Manganese and Sodium content slightly and reduced caloric content on a basis of dry weight slightly.[12]
 
+
 The above trypsin inhibitor is the same kind of 'evil' compound found in foods like soy that reduce protein absorption, and thus cooking Mucuna beans would be smart for the protein content. If you are buying powdered Mucuna Pruriens supplements, it would probably be prudent to look for roasted supplements, as cooking them normally destroys L-DOPA. The study on irradiation did not measure L-DOPA.
+
 
 7.
 

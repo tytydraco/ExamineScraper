@@ -64,7 +64,9 @@ Simmondsin appears to have a marked suppressive effect on appetite, as the first
 
 Simmondsin appears to have a same profile of effects after ingestion as Cholecystokinin,[7] and the satiety induced by oral Simmondsin appears to be abolished with the CCKA receptor antagonist Devazepide.[8] It did not appear to be direct activation of the receptor, but indirect through the Vagus Nerve; Vagotomy partially abolishes the effect.[9][8]
 
+
 Simmondsin appears to interact with the Vagus Nerve in the intestines and vicariously through Cholecystokinin (CCK) receptors to suppress food intake
+
 
 When lean rats are fed Simmondsin for 8 weeks up to 0.5% of the diet noted that 0.15% of the diet reduced weight gain by 6% while 0.5% lowered weight below that of baseline despite being fed ad libitum, noted after 1 week but then maintaining weight up to 7 weeks.[1] 0.25% has been tested in other studies in lean rats and shown efficacy.[10]
 
@@ -72,7 +74,9 @@ When obese rats are fed Simmondsin for 16 weeks at 0.25-0.5% of the diet, dose-d
 
 This appetite suppressing effect has been noted in other species such as dogs,[11] and is commonly observed in toxicology tested[12][1][6] insofar it was been thought to result in death of some rats at very high doses via reductions in food intake.[5]
 
+
 Appears to have repeated evidence for appetite suppression in rats, and the potency of low doses of Simmondsin appear to be quite remarkable
+
 
 3.
 

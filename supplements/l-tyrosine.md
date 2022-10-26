@@ -106,7 +106,9 @@ The catecholamine metabolic pathway in vivo starts with the amino acid L-phenyla
 
 Supplementing with any of the prior substrates has the ability to increase adrenaline levels, given that the enzyme between said substrate and adrenalines are not maxed out.
 
+
 Supplemental L-tyrosine is converted into L-DOPA and then into active catecholamines (adrenaline/epinephdrine, noradrenaline/norepinephrine, and dopamine). L-Tyrosine forms a pool of substrate that this group of catecholamine neurotransmitters can get substrate from when their production is needed.
+
 
 1.2
 
@@ -134,7 +136,9 @@ Known Drug Interactions
 
 There is some concern that tyrosine may decrease the effectiveness of L-dopa. Tyrosine and levodopa compete for absorption in the proximal duodenum by the large neutral amino acid (LNAA) transport system. L-tyrosine should not be taken at the same time as L-dopa. Additionally, tyrosine is a precursor to thyroid hormones and might boost levels of thyroid hormone medication like levothyroxine and liothyronine.[15][16] Tyrosine is also contraindicated with MAOI like isocarboxazid, phenelzine, tranylcypromine, and selegiline. Monoamine oxidase is the enzyme responsible for the breakdown and inactivation of the catecholamines. A buildup of the catecholamines, including tyramine, which can be found in certain foods and formed from exogenous tyrosine in the gut by certain bacteria in some foods, can result in dangerous increases in blood pressure.[17]
 
+
 There are drug interactions between L-tyrosine and MAOI medications, thyroid medications, and levodopa.
+
 
 2.3
 
@@ -144,7 +148,9 @@ Serum
 
 A similar spike in serum tyrosine levels is noted in rats (serum norepinephrine untested) and the increase in serum tyrosine appears to return to baseline 4 hours after oral administration.[22]
 
+
 L-tyrosine levels peak in the blood within 1-2 hrs after ingestion, but stay elevated for up to 8 hours. 
+
 
 3.
 
@@ -162,7 +168,9 @@ Memory
 
 L-Tyrosine (200-400mg/kg) can acutely increase noradrenaline (aka. norepinephrine or NE) concentrations in the hippocampus and prevent an acute stress-induced reduction of NE concentrations in rats subject to cold stress.[25] This may precede the ability of L-Tyrosine administration to reverse losses of memory induced by cold stress in humans.[18] This study (n=8) noted that 150mg/kg L-Tyrosine (dissolved in apple sauce that placebo ingested solely) taken before cognitive testing in a room where the temperature was reduced from 22°C to 4°C was able to reduce the time taken to answer a delayed Matching-to-Sample test and increase the amount of correct answers relative to cold placebo, but was unable to fully preserve performance seen in warm control periods (where L-Tyrosine did not appear to further improve performance).[18]
 
+
 Currently no evidence that L-Tyrosine supplementation can improve memory function from baseline, but may be able to attenuate a decrease in memory formation associated with acute stressors
+
 
 3.3
 
@@ -170,7 +178,9 @@ Attention
 
 One study in children with diagnosed ADHD given a combination supplement of Tyrosine and 5-HTP (doses being titrated, with the lowest reported dose being 1,500mg tyrosine and 150mg 5-HTP and the highest being 3,750mg and 425mg respectively) noted that supplementation was associated with a greater reduction in symptoms as assessed by ADHD-RS; this study is also confounded with the inclusion of other nutrients (1,000mg of vitamin C, 220mg of calcium citrate, 75mg of vitamin B6 and 400μg of folate, 500mg of L-Lysine and 2,500-4,500mg L-cysteine, and 200-400μg of selenium).[26]
 
+
 Although L-Tyrosine may have a contribution in promoting attention, it has not been tested in isolation at this moment in time and thus it is unsure what role it plays
+
 
 3.4
 
@@ -178,7 +188,9 @@ Wakefulness
 
 One study has combined supplemental L-Tyrosine and 'extended wakefulness' and noted that 150mg/kg of L-Tyrosine was able to attenuate the decrease in cognitive performance that was associated with sleep deprivation.[27]
 
+
 May improve cognitive performance during sleep deprivation without significantly affecting sleep function
+
 
 3.5
 
@@ -186,11 +198,15 @@ Stress
 
 Acute uncontrollable stress is a phenomena that is able to deplete norepinephrine (NE) concentrations in neural tissue, particularly the hypothalamus and brainstem (containing the locus coeruleus)[28] and behavioural alterations associated with NE depletion in research animals have been shown to be avoidance/escape,[29] spontaneous motor activity,[30] aggressive behaviors,[31] and swimming.[32] Ingestion of L-Tyrosine can attenuate the development of behavioural abnormalities associated with acute uncontrollable stressors in research animals in the range of 200-400mg/kg (oral or intravenous) 30-60 minutes prior to the acute stressor.[28][33][34][25]
 
+
 Appears to mitigate some overt symptoms of acute and uncontrollable stress (this is in contrast to the adaptogen class of molecules, which may be effective against chronic and manageable stress); the two stress respones being mediated by different mechanisms
+
 
 Some studies have been conducted specifically as it applies to cold stress (the goal of cold exposure therapy) have noted decrease immobility time in a dose-dependent manner in mice given 200-400mg/kg L-Tyrosine injections to a similar magnitude of 5-20mg/kg Phenylpropanolamine; Tyrosine appeared to synergistically reduce immobility time when paired with either Phenylpropanolamine or Amphetamines.[25] These effects correlated with hippocampal noradrenaline concentrations, which were preserved with L-Tyrosine.[25] These protective effects have been noted in human subjects, albeit a small sample size.[18]
 
+
 May reduce the adverse effects of cold stress, has some human evidence of doing so (as it pertains to memory function)
+
 
 One study in humans subjected to high altitudes has noted protective effects against acute stress due to lessened symptoms of acute stress, where 100mg/kg L-tyrosine (divided into two doses taken an hour apart) was associated with less headaches, stress, fatigue, distress, sleepiness, muscular soreness, and coldness due to the acute stressor as assessed by the Environmental Symptoms Questionnaire.[35] This study also noted improvements (relative to placebo) on global ratings of mood and happiness (assessed by Clyde Mood Scale and Profile of Mood states) and cognitive function (various cognitive tests).[35] Similar results are noted with the same oral dose after acute noise stressor[36] and some of these effects are noted after acute physical lower body stressors.[37]
 
@@ -216,7 +232,9 @@ Blood Pressure
 
 One study conducted in cadets undergoing combat training who consumed 42g protein (2g tyrosine, confounded with other amino acids) noted that supplementation was associated with a decrease in systolic blood pressure by 10.4% from baseline, with placebo experiencing a lesser and nonsignificant decrease in blood pressure; no significant change noted in diastolic in this study although a trend towards reduction was noted[38] and another study under acute noise stress noted that L-Tyrosine ingestion was associated with a reduction in diastolic blood pressure within 15 minutes of ingestion of 100mg/kg.[36] This reduction in diastolic blood pressure has been noted previously in research animals.[40][41]
 
+
 Although there isn't much reliability in the evidence currently, supplemental L-Tyrosine appears to either be ineffective or slightly reduce blood pressure; studies are confounded with the inclusion of stressors (which increase blood pressure) and effects of L-Tyrosine per se cannot be easily separated from the effects of an L-Tyrosine and stress interactions
+
 
 5.
 
@@ -238,7 +256,9 @@ N-Acetyl-L-Tyrosine is a more soluble form of L-Tyrosine that appears to be rela
 
 N-Acetyl-L-Tyrosine appears to be able to contribute free L-Tyrosine in vivo after IV administration, but only able to increase L-Tyrosine concentrated 20% despite much larger increases in serum NALT.[43] 56% of the adminstered dose of NALT is excreted in 4 hours[43] and another study suggests that, overall, 35% of the total NALT dose (administered parentally) is excreted via the urine as NALT and not L-Tyrosine.[44]
 
+
 Limited practical evidence on NALT as an alternative to L-Tyrosine
+
 
 7.
 
@@ -262,7 +282,9 @@ Mothers with PKU could be taking tyrosine supplementation due to the hypothesis 
 
 A toxic effect of a combination of mildly increased phenylalanine and tyrosine was shown in offsprings of rats after taking tyrosine supplementation. The offsprings of the rats showed difficulties in learning. However, there have been no studies showing this toxic effects in humans. [51]
 
+
 There has been hypotheses that tyrosine may be bad to the fetus. However, no human studies can prove this hypothesis. 
+
 
 7.3
 
@@ -270,7 +292,9 @@ Human Toxicity
 
 Patients with hereditary tyrosinemia or persistent hypertyrosinemia may develop skin and eye lesions when the plasma level is 10 times of that found in clinical trials administering a tyrosine dose of 150 mg/kg to humans.[6]
 
+
 In patients with hereditary tyrosinemia, it may cause skin and eye lesions at doses above the recommended intake.
+
 
 7.4
 
@@ -282,5 +306,7 @@ Following tyrosine supplementation of 12 g in 113 g of applesauce in adults with
 
 In children with nemaline myopathy (a condition which causes chewing and swallowing difficulties, recurrent aspiration, and poor control of oral secretions), 250-3000 mg/day L-tyrosine supplementation caused an initial decrease in sialorrhea and an increase in energy levels.[57] Patients with severe dementia due to Alzheimer’s disease received a combination treatment of 5-hydroxy-tryptophan, carbidopa, and tyrosine (4 g) which caused diarrhea, drowsiness, nausea, vomiting, and agitation. However, it is not clear if these side effects were due to tyrosine alone.[58]
 
+
 L-tyrosine can have an effect on blood pressure, heart rate, and mood. It may cause gastrointestinal upset, drowsiness, and agitation.
+
 

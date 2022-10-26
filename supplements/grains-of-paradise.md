@@ -114,7 +114,9 @@ Aframomum melegueta (of the family Zingiberaceae) is a spice in the Ginger famil
 
 The seeds also tend to have general anti-microbial properties similar to many spices,[5][6] and has some molluscicidal[7] and repellant[8][9] properties as well. It is one of many pungent herbs said to aid in sexuality and aphrodisia[10] (although the class of 'pungent herb' appears to be mentioned more than this particular seed).
 
+
 Grains of Paradise are a spice botanically related to Ginger, and have usage for gastrointestinal/digestive health as well as being used to season foods
+
 
 1.2
 
@@ -134,11 +136,15 @@ Enzymatic Interactions
 
 Aframomum melegueta (as well as Aframomum cuspidatum and Harrisonia abyssinica) have been noted to, in vitro, inhibit CYP3A enzymes with Aframomum melegueta at 10mg/mL concentration inhibiting CYP3A4 (Full inhibition with ethanolic extract, 98.85+/-0.1% with tea), CYP3A5 (99.87+/-0.3%), and CYP3A7 (97.24+/-0.2%).[14]
 
+
 Appears to inhibit CYP3A enzymes, and is remarkably potent at doing so. Although preliminary, there is a high possibility of drug-drug interactions with Aframomum melegueta
+
 
 6-shogaol and 6-paradol, two components of Aframomum melegueta as well as Ginger, appear to active TRPA1 and TRPV1 receptors with the respective EC50 values of 6-shogaol (11.2µM and 0.2µM) and 6-paradol (71µM and 0.7µM)[15] suggesting they are weaker than Evodiamine from Evodia Rutaecarpa (856nM) and Capsaicin (45nM).[16]
 
+
 Appears to activate TRPV1 recpetors, with less potency relative to other TRPV1 agonists; also appears to activate TRPA1 receptors
+
 
 3.
 
@@ -194,7 +200,9 @@ Interventions
 
 An intervention in 19 otherwise healthy men noted that in persons with a response to Cold exposure therapy (19°C with light clothing) that administration of an ethanolic extract of Aframomum melegueta (10mg of 15.2% 6-gingerol, 12.5% 6-paradol, 1.7% 6-shogaol and 4.0% 6-gingeredione) was able to increase the metabolic rate after 4 weeks of supplementation with 2 hours of cold exposure therapy.[12] Persons with no response to cold exposure (without substantial brown fat adipose tissue) failed to show a response to Aframomum melegueta supplementation.[12]
 
+
 May augment the increase in metabolic rate in response to cold exposure therapy without per se influencing metabolic rate
+
 
 6.
 
@@ -206,7 +214,9 @@ Testosterone
 
 Cholesterol level was noted to be increased in the testes of rats treated with Aframomum melegueta (151.48% and 165.75% at 8 days for 115mg/kg and 230mg/kg, respectively; 93.34% at 55 days with 115mg/kg) which was associated with a 278-316% increase in testosterone after 8 days in serum (no dose dependence) with no measurements taken after 55 days.[20]
 
+
 At least one study has supported an increase in testosterone in rats given 115-230mg/kg Aframomum melegueta daily for 8 days
+
 
 6.2
 
@@ -214,7 +224,9 @@ Estrogen
 
 Aframomum meleguita methanolic extract has been noted to inhibit 56.7+/-3.4% of estrogenic activity in a yeast assay when at the concentration of 100μg/mL; this was decreased with naringinase pretreatment.[21] Despite Aframomum meleguita outperforming all other herbs in this study, it underperformed relative to the active control of Tamoxifen (78% inhibition at 10µM).[21]
 
+
 May have anti-estrogenic properties
+
 
 7.
 
@@ -234,7 +246,9 @@ Male sex organs
 
 115 and 230mg/kg of Aframomum melegueta (dry weight) for 8 days or 115mg/kg for 55 days noted that the relative weights of the epididymis, seminal vesicle and prostate at the lower dose increased 10.81%, 6.40%, 30.49% (respectively) after 7 days and the testes and seminal vesicle appeared to further grow after 55 days (3.6% and 23.5%, respectively) although the prostatic growth attenuated.[20] An increase in fertility could not be measured as both control and Aframomum melegueta groups were highly fertile (and thus, no significant difference).[20]
 
+
 At least one rat study has noted increases in seminal vesicle and testicle size associated with oral ingestion of 115mg/kg of Aframomum melegueta (human dose of at least 18.4mg/kg)
+
 
 8.
 
@@ -266,5 +280,7 @@ Pregnancy
 
 A study in rats that used 50mg of Aframomum melegueta mixed in 20g rat chow (1% of feed; the food lasted 4 days and then normal chow was fed) to rats noted that while the control group had an average litter size of 7, the experimental group fed the Seeds of Paradise failed to deliver pups although no other side-effects appeared apparent.[24] This dose equated to 286-345mg/kg in rats,[24] and lower doses (0.5-2mg injections) have since failed to adversely affect litter size.[25]
 
+
 High doses of Aframomum melegueta have been noted to abolish live births in rats according to one study, and a later study noted that this did not occur at a much lower dose; possible contraceptive properties at higher oral doses (which have not necessarily been cleared for being safe)
+
 

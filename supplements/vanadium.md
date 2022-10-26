@@ -88,7 +88,9 @@ Vanadium containing compounds are known to inhibited protein tyrosine phosphatas
 
 1mmol/L sodium orthovanadate appears to enhance signalling (L6 myocyte) by around 25% and is associated with inhibiting the decline in PI3K/IRS-1 complex activity, but has been noted to not inhibit the loss in mass of IRS-1.[18]
 
+
 Insulin eventually suppresses its own signalling via stimulating PTP enzymes (including PTP1B) which degrade IRS-1, the degration of IRS-1 then curtails further insulin signalling. Vanadium, like other PTP inhibitors, can prolong the signalling of insulin by preventing the degradation of IRS-1
+
 
 3.2
 
@@ -98,13 +100,17 @@ One study that had separate groups of persons with Type II Diabetes and Healthy 
 
 One human study (n=14) with 40-50yr old persons with Impaired Glucose Tolerance given 50mg twice daily (100mg daily) for a period of one month (30 days) noted that, in response to a euglycemic-hyperinsulinemic clamp, that vanadium treatment failed to improve insulin sensitivity and led to a small but significant increase in triglycerides.[20]
 
+
 In persons without Type II Diabetes, the effects of Vanadium supplementation appear to be lesser to the point of ineffective
+
 
 A study in type II diabetics (n=6) noted that after vanadium administration at 100mg daily during weeks 3-5 of a 7 week study (with placebo given for the beginning and final two study) noted that testing after 3 weeks of Vanadium administration was associated with increased glucose uptake and insulin sensitivity which was still noted 2 weeks after cessation of vanadium; these improvements were accompanied by a decrease in HbA1c from 9.6+/-0.6% to 8.8+/-0.6%.[21] Using Vanadium (as sulfate) at 150mg for 6 weeks was associated with a 20% reduction in fasting blood glucose and a decrease of HbA1c from 8.1+/-0.4 to 7.6+/-0.4%.[22] Although this study noted a reduction in endogenous glucose production by 20% in diabetics, the correlation of this reduction to the reduction in fasting blood glucose was r=0.6.[22]
 
 However, the quality of these studies has been brought into question. This systemic review aimed to assess all double blind placebo-controlled studies on Vanadium and preliminary ended their search when they found none.[23] Studies that existed, and those cited above, tend to have no placebo group and are limited to small samples sizes; their significant results have much less statistical power than other compounds.
 
+
 Although it shows some benefit, the studies that suggest this benefit are low powered and Vanadium has less good evidence for its usage despite the amount of human interventions
+
 
 4.
 

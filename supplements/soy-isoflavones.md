@@ -154,23 +154,31 @@ The term soy isoflavones refers to three molecules that are present in food, alt
 
 Genistein, and its glycoside Genistin at 30-60% of total soy isoflavones[1]Daidzein and its glycoside Daidzin at 40-60% of total soy isoflavones[1]Glycitein, and its glycoside Glycitin at around 1-13% of total isoflavones[1]Of these, genistein and daidzein are seen as the major components of soy due to their relative quantities and equol is also researched a fair bit (despite being a metabolite of daidzein not naturally occurring in soy) due to its potency.
 
+
 Soy isoflavone is a term used to refer to three isoflavone molecules (genistein, daidzein, and glycitein) as well as their glycosides and metabolites. The content of genistein and daidzein are pretty equivalent in food, with glycitein being much lower
+
 
 Despite being called 'soy' isoflavones (referring to the Glycine max plant) these above isoflavones can be found in a variety of common food sources including:
 
 Daidzein Genistein Glycitein
 
-Glycine max (Soybean; main source)[2] at 405-894µg/g (Genistein), 424-1,138µg/g (Daidzein), and 44-145µg/g Glycitein fresh weight[1]Black soybean at 579-831µg/g genistein, 452-599µg/g daidzein, and 37-41µg/g glycitein fresh weight[1]Green soybean at 335-701µg/g genistein, 630-650µg/g daidzein, and 39-44µg/g glycitein[1]Boiled soybean at 354-428µg/g genistein, 270-369µg/g daidzein, and 9-24µg/g glycitein[1]Roasted soybean at 892µg/g genistein, 970µg/g daidzein, and 144µg/g glycitein[1] and Kinako (roasted soybean flour) at 830-1,280µg/g genistein, and 1,181-1844µg/g daidzein, 80-100µg/g glycitein fresh weight[1]Okara at 48µg/g genistein, 45µg/g daidzein, and 12µg/g glycitein[1]Soy milk (1.9-13.9μg/g genistein and genistin)[3]Tofu (94.8-137.7μg/g combined genistein and genistin of which 80-112μg/g is genistein[3][3]) with 75-106μg/g daidzein and 24-29μg/g glycitein fresh weight[3]Fermented soy bean products (Miso and Natto) at 38.5-229.1μg/g genistein and 71.7-492.8μg/g genistin,[3] with other sources suggesting higher level of genistein (296-440μg/g and 101-319μg/g in natto and miso, respectively), daidzein (323-342μg/g in natto and 108-363μg/g in miso), and glycitein (37-69μg/g in natto and 12-54μg/g in miso)[3]Soy sauce at 1-4μg/mL genistein, 5-9μg/mL daidzein, and 1-2.5μg/mL glycitein[3]Other legumes (more than 400mg/kg dry weight)[4]Indian bread root[4]Soy protein isolate (80-107mg per 40g) which can be reduced by alcohol extraction (4.4-6mg per 40g) with an isoflavone breakdown of 53-57% genistein, 20-35% daidzein, and 11-23%[5][6]When looking at food products, most soy based products seem to have practically comparable levels of isoflavones when looking at fresh weights (Kinako appears to have more due to a lower water content), although roasting and fermentation appear to increase the content of the aglycones (genistein, daidzein, glycitein) relative to the glycosides (genistin, daidzin, glycitin)
+Glycine max (Soybean; main source)[2] at 405-894µg/g (Genistein), 424-1,138µg/g (Daidzein), and 44-145µg/g Glycitein fresh weight[1]Black soybean at 579-831µg/g genistein, 452-599µg/g daidzein, and 37-41µg/g glycitein fresh weight[1]Green soybean at 335-701µg/g genistein, 630-650µg/g daidzein, and 39-44µg/g glycitein[1]Boiled soybean at 354-428µg/g genistein, 270-369µg/g daidzein, and 9-24µg/g glycitein[1]Roasted soybean at 892µg/g genistein, 970µg/g daidzein, and 144µg/g glycitein[1] and Kinako (roasted soybean flour) at 830-1,280µg/g genistein, and 1,181-1844µg/g daidzein, 80-100µg/g glycitein fresh weight[1]Okara at 48µg/g genistein, 45µg/g daidzein, and 12µg/g glycitein[1]Soy milk (1.9-13.9μg/g genistein and genistin)[3]Tofu (94.8-137.7μg/g combined genistein and genistin of which 80-112μg/g is genistein[3][3]) with 75-106μg/g daidzein and 24-29μg/g glycitein fresh weight[3]Fermented soy bean products (Miso and Natto) at 38.5-229.1μg/g genistein and 71.7-492.8μg/g genistin,[3] with other sources suggesting higher level of genistein (296-440μg/g and 101-319μg/g in natto and miso, respectively), daidzein (323-342μg/g in natto and 108-363μg/g in miso), and glycitein (37-69μg/g in natto and 12-54μg/g in miso)[3]Soy sauce at 1-4μg/mL genistein, 5-9μg/mL daidzein, and 1-2.5μg/mL glycitein[3]Other legumes (more than 400mg/kg dry weight)[4]Indian bread root[4]Soy protein isolate (80-107mg per 40g) which can be reduced by alcohol extraction (4.4-6mg per 40g) with an isoflavone breakdown of 53-57% genistein, 20-35% daidzein, and 11-23%[5][6]
+When looking at food products, most soy based products seem to have practically comparable levels of isoflavones when looking at fresh weights (Kinako appears to have more due to a lower water content), although roasting and fermentation appear to increase the content of the aglycones (genistein, daidzein, glycitein) relative to the glycosides (genistin, daidzin, glycitin)
+
 
 And other herbs that are sometimes used for supplemental or medicinal purposes including:
 
-Hydrocotyle sibthorpioides[7]Kudzu root (pueraria lobata)[8] and White Kwao Krua (Pueraria Mirifica) with the latter reaching 8.4-10.2% total estrogenic isoflavones by dry weight[9]Psoralea species, including Psoralea corylifolia[8]Butea Superba (Genistein and Daidzein)[10]Hibiscus Sabdariffa (Daidzein)[11]Oxytropis falcate (Genistin and Daidzein)[12]The soy isoflavones are found in a wide variety of vegetables and legumes
+Hydrocotyle sibthorpioides[7]Kudzu root (pueraria lobata)[8] and White Kwao Krua (Pueraria Mirifica) with the latter reaching 8.4-10.2% total estrogenic isoflavones by dry weight[9]Psoralea species, including Psoralea corylifolia[8]Butea Superba (Genistein and Daidzein)[10]Hibiscus Sabdariffa (Daidzein)[11]Oxytropis falcate (Genistin and Daidzein)[12]
+The soy isoflavones are found in a wide variety of vegetables and legumes
+
 
 Food sources are typically as Genistin, which is a Genistein molecule bound to a sugar. It is biologically inactive, and during high-temperature heating is reduced to a smaller sized simple glycoside[13] that can be hydrolyzed in the intestine to form the bioavailable genistein aglycone which is then absorbed.[2] The former processing is traditional Eastern Asia processing, and soy foods made from soy flour (from hexane treatment of soybean flakes) standard in North America can either have their isoflavones lost in the hexane extract or decarboxylate their complex glycoside (6′′-O-malonyl-7-O-β-D-glucoside) into another structure (6′′-O-acetyl-7-O-β-D-glucoside) with altered pharmacokinetics.[14] If not broken down into the simple glycoside by heat, genistein cannot be absorbed in the small intestine by the enzyme lactase phlorizin hydrolase.[15]
 
 Fermenting of food sources tends to break the glycoside, and release the free aglcyone (Genistein). Additionally, the free aglycone can be hydroxylated with further fermantation, which increases the anti-oxidative potential of isoflavones.[16][14] Fermented soy sauces contain the compounds 6-hydroxygenistein, 8-hydroxygenistein, and genistein-7-tataric acid. These compounds are not in unfermented soy.[14]
 
+
 Food products tend to contain the glycosides (isoflavone attached to a sugar) which is readily broken into the free isoflavone in some intestinal bacteria and during the fermentation process
+
 
 The total intake of isoflavonoids in the japanese diet have been reported to be 27.80 mg per day (daidzein 12.02 mg, glycitein 2.30 mg, and genistein 13.48 mg).[1]
 
@@ -200,7 +208,9 @@ Metabolism
 
 Daidzein can be metabolized by gut microflora (bacteria) into an estrogenic metabolite called Equol.[22][21] In this process Daidzein is first hydrated to Dihydrodaidzein, which can then either turn into Equol or into O-Desmethylangolensin. This conversion is dependent on gut microflora and varies between individuals[23] which is a reason for reported individual differences in estrogen status among people who consume soy.[24] It has been noted that not all individuals may produce Equol from Daidzein[25][22] and that only 33-50% of humans may possess this bacterial strain.[24][20] 
 
+
 Persons who possess intestinal bacteria to metabolize Daidzein into Equol are classified as 'Equol Producers' and are more likely to experience estrogenic effects from soy.
+
 
 2.3
 
@@ -224,7 +234,9 @@ Serotonergic Neurotransmission
 
 One study investigating phytonutrients able to act as SSRIs noted that both genistein and daidzin were able to inhibit some degree of serotonin reuptake (11.5+/-11.6% and 5.7+/-6.7% respectively) at 50uM, but were unreliable and both much weaker than the active control of Imipramine (74.5+/-11.3% at 5uM).[46]
 
+
 It is unlikely that soy acts as an SSRI due to the high concentration required and low potency thereof even at these impractical doses
+
 
 4.
 
@@ -278,11 +290,15 @@ Allergies
 
 The high affinity immunoglobulin E (IgE) receptor FcεRI (usually a tetrameric receptor with an α and β subunit with two γ subunits[59]) is involved in mast cell degranulation, since the ligand (IgE) binds to an α subunit which is a mandatory step[60] (γ carries the signal into the cell and β, which is not mandatory, amplifies it[61]) which causes allergic reactions in mast cells. The soy isoflavones can reduce FcεRIα expression after 24 hours of incubation at 5µM or higher, secondary to reducing mRNA transcription (genistein slightly reduced FcεRIβ expression, while daidzein and equol suppressed FcεRIγ) in a manner that is not related to ERK1/2 phosphorylation (the reduction thereof is associated with how green tea catechins are anti-allergic[62]) nor estrogen.[63]
 
+
 Physiologically relevant concentrations of the soy isoflavones are known to suppress the receptor levels of FcεRI (all three subunit types), which are thought to reduce the amount of signalling into mast cells and thus reduce allergic reactions; this is not related to estrogenic signalling
+
 
 Atopic disease tends to have FcεRIβ involved in its pathology[64] and due to genistein suppressing FcεRIβ mRNA levels in vitro[63] it may explain the benefits to NC/Nga mice (a model for atopic dermatitis) given 4-20mg/kg genistein daily for eight weeks since IgE and IL-4 concentrations are not affected (although the higher dose attenuated IFN-γ somewhat).[65]
 
+
 Animal research suggests that genistein may be of use to chronic dermatitis symptoms with daily ingestion with reasonable oral dosages
+
 
 9.
 
@@ -296,7 +312,9 @@ In regards to the alpha subset of the receptor (ERα), the isoflavones can bind 
 
 While they are inhernetly agonistic yet weaker than estrogen, it seems that they have the ability to active this receptor when concentrations of estrogen are low yet antagonize this receptor's activation at higher concentrations of estrogen via outcompeting it.[69][70]
 
+
 The soy isoflavones can signal through the alpha subset of the estrogen recepor (ERα) which is associated with the classical effects of estrogen. They are all weaker than estrogen itself (equol being the most potent) and while they activate this receptor in the absence of estrogen they can competitively inhibit it at higher estrogen concentrations
+
 
 The three main isoflavones are known to bind to the beta-subunit of the estrogen receptor (ERβ) with genistein having the greatest affinity at 9nM[66] and binding with a potency comparable or greater than estrogen,[68][71] daidzein has the second highest affinity at 552nM[66] and glycitein is the poorest binder.[68] The glycosides of these isoflavones are poor binders[68] and the ability of the aglycones to activate the receptors occurs at relatively low concentrations with an EC50 of 30nM for genistein (17β-estradiol at 10nM[67] and dihydrogenistein equally potent as genistein[68]), daidzein (350nM),[67] and equol (400nM).[67]
 
@@ -304,7 +322,9 @@ The isoflavones are thought to be selective for this subset, since the affinity 
 
 1μM of these isoflavones, sufficient to activate the receptor, seem to work in an additive manner with estrogen.[73]
 
+
 When looking at the beta subunit of the receptor (ERβ), the soy isoflavones appear to potently activate the receptor at concentrations comparable to estrogen and it does not appear that the antagonism seen with the alpha subunit extends to ERβ. Soy isoflavones are direct and effective agonists of ERβ in the nanomolar range
+
 
 9.2
 
@@ -314,13 +334,17 @@ Oral intake of genistein at 10mg/kg in male rats has been noted to possess antia
 
 In castrated rats, 10mg/kg is able to activate androgen reporter activity in the testes and brain (2.6 and 2.7-fold higher than baseline) and without influence on skeletal muscle or prostate.[74]
 
+
 When looking at the androgen receptor, it appears that genistein may negatively regulate it in the presence of androgens yet positively regulate it in the absence thereof; it also shows Selective Androgen Receptor Modulator (SARM) properties due to not being active in lungs or skeletal muscle
+
 
 Genistein is an inhibitor of 3β-hydroxysteroid dehydrogenase (3β-HSD) via competing with pregnenolone for binding (competitive) and via inhibiting the NAD+ activation of the enzyme.[76] It also can inhibit 17β-HSD with an IC50 of 85+/-15nM[77] and the inhibition on 3β-HSD has been replicated[78][79][80] and does not extend to suppressing the actual expression of 3β-HSD mRNA or its protein content.[81]
 
 When looking at the 5α-reductase enzyme, Genistein and Equol can inhibit the enzyme with an IC50 of 710μM and 370μM respectively while daidzein is ineffective; both underperforming relative to the active control of riboflavin (17μM).[82]
 
+
 When looking at the enzymes of testosterone synthesis, genistein may inhibit the hydroxysteroid dehydrogenases and secondary to that very high doses may be anti-fertility and anti-androgenic. The inhibitory effects on 5α-reductase are likely not relevant due to the high concentration needed
+
 
 The aforementioned impairment of enzymatic activity may cause developmental impairment in rat pups (10uM in vitro)[83][84] which is equivalent to a human dose of 100mg/kg.
 
@@ -364,7 +388,9 @@ Adrenal Glands
 
 In isolated adrenaocorticol cells genistein and daidzein appear to be able to suppress ACTH-induced cortisol synthesis with an EC50 in the range of 1-4µM and 40µM suppressing cortisol to near basal levels, and this is mimicked by estrogen[81] which is known to suppress cortisol production.[85] DHEA production in isolated adrenal cells appears to be stimulated with genistein or daidzein with an EC50 in the range of 1-4µM[81] which is also seen with estrogen,[85] and since both cortisol and DHEA are synthesized from the same parent molecule (pregnenolone) which is thought to be due to inhibition of P450c21 (converts 17α-hydroxyprogesterone to 11-deoxycortisol[86]) causing a partitioning effect of 17α-hydroxyprogesterone from cortisol towards DHEA.[81] This property (P450c21 inhibition) is shared with Apigenin[87] and due to the inhibition of 3β-HSD from soy isoflavones there is also a decrease in androstenedione synthesis in the adrenals.[87]
 
+
 Genistein appears to inhibit P450c21 in the adrenal glands, which causes a reduction in cortisol and relative increase in DHEA synthesis. Androstenedione also appears to be reduced
+
 
 Concentrations of up to 40µM are not toxic to adrenal cells.[81]
 
@@ -412,13 +438,17 @@ Tamoxifen is a pharmaceutical anti-estrogen that directly competes with estrogen
 
 The above information is in accordance with the role of genistein in signalling through the alpha subset of the estrogen receptor (ERα) which occurs at low concentrations but not so much at higher concentrations (and which daidzein is a poor activator of). Genistein has been noted to stimulate the growth of breast cancer cells that expresss ERα specifically at physiologically relevant concentrations,[107][90][106] and it is thought that it is outcompeting tamoxifen at the level of the receptor due to its high affinity.
 
+
 Genistein, but not daidzein, is known to interact with the anti-breast cancer drug tamoxifen (an estrogen receptor antagonist). It is thought that genistein is outcompeting tamoxifen at the level of the receptor, and thus it would be prudent to avoid soy based supplements during tamoxifen therapy
+
 
 Letrozole is an aromatase inhibiting pharmaceutical that alone is effective in the treatment of breast cancer,[108] and is sometimes used alongside estrogen receptor antagonists such as tamoxifen. Genistein is also an aromatase inhibitor at high concentrations (10μM)[109] but not physiologically relevant concentrations (1μM)[110]
 
 Dietary genistein at 250-1,000ppm of the mouse diet is able to prevent the inhibitory effects of letrozole (aromatase inhibitor) on breast tumor growth in a dose-dependent manner.[39]
 
+
 May also adversely interact with the anti-breast cancer drug letrozole, an aromatase inhibitor
+
 
 12.2
 

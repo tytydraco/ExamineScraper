@@ -100,7 +100,9 @@ When D-ribose (200mg/kg) is compared to maltodextrin (200mg/kg), both paired wit
 
 In otherwise healthy male subjects who were subject to a week of twice daily cycling exercises, supplementation of a mixture of 200mg/kg D-ribose (17.25g average dose) and an equivalent amount of sucrose after the last training session and again thrice daily for three days was compared to placebo (same timing protocol, but maltodextrin was used in placebo of D-ribose).[4] The group given D-ribose was able to restore muscle ATP concentrations to a level statistically comparable to before their exhaustive exercise while the placebo group only saw partial restoration, with neither group having effects after a single day of supplementation and overall approximately 150g of D-ribose being consumed over the three days and final session.[4]
 
+
 Based on one study assessing a rest from exhaustive exercise, it seems supplementing high dose D-ribose for a few days may be more effective than traditional dietary sugars at restoring ATP concentrations; a high dose was required, however
+
 
 5.
 
@@ -114,5 +116,7 @@ D-Ribose is thought to interact with fibromyalgia based on the knowledge that th
 
 In subjects with fibromyalgia and/or chronic fatigue syndrome (CFS) who given D-ribose at 15g a day (three divided doses) for just under three weeks, supplementation was associated with subjective improvments in energy, sleep, and well-being with an increased pain threshold.[17] No placebo control was used in this study and there may be a conflict of interest (product supplied by a company of which produces D-ribose and employs one author).[17]
 
+
 One study exists suggesting benefits to pain disorders with D-ribose supplementation, but failed to use a placebo control and may have a potential conflict of interest
+
 

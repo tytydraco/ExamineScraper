@@ -76,7 +76,9 @@ In mouse tests (young and old), 250-500mg/kg Trichopus zeylanicus added to the f
 
 The mechanism of action by which it increases performance seems to be independent of adrenaline-mediated mechanisms.[6] The effects seen may be secondary to anxiolysis (reducing anxiety) and the adaptogenic effects.[1]
 
+
 Preliminary evidence suggests it is a potent performance enhancer, although whether this is inherent increases in performance or just secondary to a reduction in anxiety in the test animals is not known. It appears to be more potent than Ashwagandha, which is relatively impressive
+
 
 3.
 

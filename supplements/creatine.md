@@ -504,11 +504,15 @@ Some (uncooked) meats have high levels of creatine:
 
 Beef, with minimal visible connective tissue: 5 g per 1.1 kg,[14] or 2.15-2.5 g/lb[15] (4.74-5.51 g/kg)Chicken: 3.4 g/kg[16]Rabbit: 3.4 g/kg[16]Cardiac tissue (ox): 2.5 g/kg[16]Cardiac tissue (pig): 1.5 g/kg[15]Some (uncooked) meats have low levels of creatine:
 
-Liver:[16] 0.2 g/kg[15]Kidney: 0.23 g/kg[15]Lung: 0.19 g/kg[15]Creatine accumulates in the same organs in meat products as in humans. Tissues with a high creatine content include the heart and the skeletal muscles.
+Liver:[16] 0.2 g/kg[15]Kidney: 0.23 g/kg[15]Lung: 0.19 g/kg[15]
+Creatine accumulates in the same organs in meat products as in humans. Tissues with a high creatine content include the heart and the skeletal muscles.
+
 
 Other compounds containing creatine include:
 
-Blood: 0.04%[15]Skim milk, dried (no water content): 0.88%[15]Human breast milk:[17] 60-70 μM[18]Dairy products have minimal creatine content, but beyond meat products they are the only significant source of dietary creatine.
+Blood: 0.04%[15]Skim milk, dried (no water content): 0.88%[15]Human breast milk:[17] 60-70 μM[18]
+Dairy products have minimal creatine content, but beyond meat products they are the only significant source of dietary creatine.
+
 
 According to the NHANES III survey, the average daily consumption of creatine from food sources among Americans (19-39 years old) is about 7.9 mmol (1.08g) for men and 5 mmol (0.64g) for women.[19] This is below the “2g/day consumed via the diet” estimate that many studies reference.
 
@@ -542,7 +546,9 @@ Carbohydrates provide quick energy in an anaerobic environment (high-intensity e
 
 By increasing the overall pool of cellular phosphocreatine, creatine supplementation can accelerate the reycling of ADP into ATP. Since ATP stores are rapidly depleted during intense muscular effort, one of the major benefits of creatine supplementation is its ability to regenerate ATP stores faster, which can promote increased strength and power output. Over 95% of creatine is stored in muscle at a maximum cellular concentration of 30uM. Creatine storage capacity is limited, though it increases as muscle mass increases.[32] A 70 kg male with an average physique is assumed to have total creatine stores of approximately 120g.[33] The body can store a lot more energy as glycogen in the liver, brain, and muscles,[34][35] and even more as fat.
 
+
 Creatine is an energy substrate: a small peptide serving as a reservoir for high-energy phosphate groups that can regenerate ATP, the main currency of cellular energy. An increase in creatine intake (through food or supplementation) increases cellular energy stores, promoting the regeneration of ATP in the short term. Stores are limited, however, and glucose or fatty acids are responsible for ATP replenishment over longer durations. 
+
 
 Without supplementation, creatine is formed primarily in the liver, with minor contributions from the pancreas and kidneys. The two amino acids, glycine and arginine, combine via the enzyme Arginine:Glycine amidinotransferase (AGAT) to form ornithine and guanidoacetate. This is the first of two steps in creatine synthesis, and although rare, any deficiency of this enzyme can result in mild mental retardation and muscular weakness.[36] AGAT is also the primary regulatory step, and an excess of dietary creatine can suppress activity of AGAT to reduce creatine synthesis[37] by reducing AGAT mRNA levels, rather than resulting in competitive inhibition.[38]
 
@@ -550,7 +556,9 @@ Guanidoacetate (made by AGAT) then receives a methyl donation from S-adenosyl me
 
 For the most part, the above reactions occur in the liver,[40] where most systemic creatine is synthesized, but the AGAT and GAMT enzymes have been located in lesser amounts in kidney and pancreatic tissue (the extra-hepatic synthesis locales[41]). Neurons also possess the capability to synthesize their own creatine.[42]
 
+
 The amino acids glycine and arginine are enzymatically combined to form guanidoacetate, which is then methylated to form creatine. Diseases associated with errors in creatine synthesis can result in muscle disorders and mental retardation.
+
 
 As mentioned above, S-adenylmethionine must be converted to S-adenylhomocysteine in order for guanidoacetate to convert into creatine, during a process known as methylation.[43] It has been suggested that the production of creatine accounts for up to 40% of the S-adenylmethionine used in the body for methylation processes.[43][44]
 
@@ -558,7 +566,9 @@ Creatine supplementation alleviates the intrinsic burden of producing creatine. 
 
 After supplementation of creatine monohydrate (loading phase, followed by 19 weeks maintenance), creatine precursors are decreased by up to 50% (loading) or 30% (maintenance), which suggests a decrease in endogenous creatine synthesis during supplementation.[46] This appears to occur through creatine’s own positive feedback and suppression of the l-arginine:glycine amidinotransferase enzyme, the rate-limiting step in creatine synthesis, as levels of intermediates before this stage are typically elevated by up to 75%.[46]
 
+
 A suppression of creatine synthesis occurs when enough creatine is supplemented to cover the vital needs (approximately 4g daily, 2g of which would have been synthesized). This suppression may be beneficial to health, due to the inherent costs associated with creatine synthesis.
+
 
 Creatine is stored in the body in the form of creatine and as creatine phosphate, otherwise known as phosphocreatine, which is the creatine molecule bound to a phosphate group.[47] Creatine phosphate is thought to maintain the ATP/ADP ratio by acting as a high-energy phosphate reservoir.[48] The more ATP a muscle has relative to ADP, the higher its contractility is, and thus its potential strength output in vivo.[49][50] This pro-energetic mechanism also affects nearly all body systems, not just skeletal muscle. [47] During periods of rest and anabolism, creatine can gain a phosphate group through the creatine-kinase enzyme pathway, up to a cellular concentration of 30uM[32] to be later used for quick ATP resupply, when needed.[51][52] 
 
@@ -566,13 +576,17 @@ Creatine kinase enzymes (of which there are numerous isozymes) exist in both the
 
 Supplementation of creatine monohydrate increases stores of both of these compounds in myocytes, neurons, eyes, kidneys and testes. Muscle comprises more than 95% of bodily creatine stores.[54][55]
 
+
 Creatine and creatine phosphate form a couplet in cells, which sequesters phosphate groups. These phosphate groups are then donated to ADP to regenerate ATP. This donation is faster than any other process in a cell for replenishing energy, and higher cellular creatine levels result in more phosphate donation and subsequent energy replenishment.
+
 
 Increasing cellular survival (preventing ATP depletion allows cells to survive longer) against hypoxia, oxidative damage, and some toxins that damage neurons and skeletal muscle cells is a mechanism of creatine supplementation mediated via creatine-kinase.[47][56][57] This has also been shown to have efficacy against toxin-induced seizures.[58]
 
 Expressing the creatine-kinase enzyme in cells that do not normally express it (and thus enabling these cells to use creatine) exerts protective effects,[59] while inhibiting this enzyme reduces survival rates.[60]
 
+
 Creatine and phosphocreatine surplus in a cell serves as an energy reservoir that can protect cells during periods of acute stress, and may enhance cell survival secondary to its bioenergetic effects.
+
 
 Creatine kinase appears to be subject to sexual dimorphism, meaning differences exist in males and females, with males exhibiting increased enzyme activity.[61][62][63]
 
@@ -580,7 +594,9 @@ Black people appear to have higher activity of the creatine kinase system compar
 
 When splitting a sample into exercisers and non-exercisers, it appears that exercise as a pre-requisite precedes a higher range of activity. Inactive people tend to be on the lower end of creatine kinase activity and relatively clustered in magnitude, while exercise generally increases activity, but also introduces a larger range of possible activity.[64]
 
+
 Men appear to have higher active creatine-kinase systems, and racial differences favor black people over hispanic people over white people in terms of the activity of the creatine-kinase system. This system is more variable in men, independent of supplementation. Exercise may increase the activity of the creatine-kinase system independent of supplementation.
+
 
 1.5
 
@@ -592,7 +608,9 @@ The main storage area of creatine in the human body is the skeletal (contractile
 
 Due to this relative deficiency-state in vegetarians and vegans, some aspects of creatine supplementation are seen as more akin to normalizing a deficiency, rather than providing the benefits of supplementation. In young vegetarians, but not omnivores, creatine supplementation can enhance cognition.[68][69] The increased gain in lean mass may be more significant in vegetarians, relative to omnivores.[67] Supplementation of creatine in vegetarians appears to normalize the gap in storage between vegetarians and omnivores.[70] This is possibly related to a correlation seen in survey research, where vegetarianism and veganism appear to be more commonly affected by some mental disorders like anxiety and depression.[71]
 
+
 The importance of supplemental creatine is elevated in vegetarian and vegan diets due to the elimination of creatine’s main dietary sources.
+
 
 1.6
 
@@ -604,23 +622,31 @@ This basic form of creatine comes in two forms, one of which involves the remova
 
 Creatine monohydrate can also be micronized (commonly sold as “Micronized Creatine”) which is a mechanical process to reduce particulate size and increase the water solubility of creatine. In regard to supplementation, it is equivalent to creatine monohydrate.
 
+
 Creatine is most commonly found in the basic form of creatine monohydrate, which is the standard form and usually recommended due to the low price. It can also be micronized to improve water solubility, or the monohydrate can be temporarily removed to concentrate creatine in a small volume supplement. Neither alteration changes the properties of creatine.
+
 
 Creatine hydrochloride (Creatine HCl) is a form of creatine characterized by the molecule being bound to a hydrochloric acid moiety. It is claimed to require a lower dosage than creatine monohydrate, but this claim has not been tested.
 
 Creatine hydrochloride likely forms into free creatine and free hydrochloric acid in the aqueous environment of the stomach, which would mean it is approximately bioequivalent to creatine monohydrate.
 
+
 Creatine HCl is touted to require a lower dosage, but this has not been proven through studies and seems unlikely, since the stomach has an abundance of HCl anyway and creatine will freely dissociate with HCl in the stomach. Thus, both creatine HCl and creatine monohydrate form free creatine in the stomach.
+
 
 Liquid creatine has been shown to be less effective than creatine monohydrate.[77] This reduced effect is due to the passive breakdown of creatine over a period of days into creatinine, which occurs when it is suspended in solution.[78] This breakdown is not an issue for at-home use when creatine is added to shakes, but it is a concern from a manufacturing perspective in regard to shelf-life before use.
 
+
 Liquid creatine is ineffective as a creatine supplement due to its limited stability in solution. This shouldn’t be an issue for people preparing a creatine solution at home, since it takes a few days to for creatine to degrade. This is a problem for the manufacturers, where creatine in solution has a limited shelf-life. 
+
 
 Buffered creatine (Kre-Alkylyn is the brand name) is touted to enhance the effects of creatine monohydrate due to a higher pH level, which enables better translocation across the cytoplasmic membrane and more accumulation in muscle tissues.
 
 This claim has not been demonstrated at this time, and a recent comparative study of buffered creatine against basic creatine monohydrate found no significant differences between the two in 36 resistance trained individuals, in regard to the effects or the accumulation of creatine in muscle tissue.[79] There also were no significant differences in the amount of adverse side-effects reported.
 
+
 “Buffered” creatine (Kre-Alkylyn) is suggested to be a better absorbed form of creatine supplementation, but it can be rapidly neutralized in the stomach if it is not in an enteric coating. Even if it is enteric coated, there is no evidence to support its efficacy above creatine monohydrate.
+
 
 Creatine ethyl ester increases muscle levels of creatine to a lesser degree than creatine monohydrate.[80] It may also result in higher serum creatinine levels[81] due to creatine ethyl ester being converted into creatinine via non-enzymatic means in an environment similar to the digestive tract.[82][83] At equal doses to creatine monohydrate, ethyl ester has failed to increase water weight after 28 days of administration (indicative of muscle deposition rates of creatine, which are seemingly absent with ethyl ester).[84] 
 
@@ -630,15 +656,21 @@ Direct studies on creatine ethyl ester show it to be less effective than creatin
 
 Creatine ethyl ester is 82.4% creatine by weight, and thus would provide 8.2g of active creatine for a dosage of 10g.[76] 
 
+
 Creatine ethyl ether is likely ineffective as a creatine supplement for general use. Despite being able to passively diffuse through cell membranes in vitro, it degrades into creatinine rapidly in the intestines.
+
 
 Magnesium-chelated creatine typically exerts the same ergogenic effects as creatine monohydrate at low doses.[86] It was created because carbohydrates tend to beneficially influence creatine metabolism and magnesium is also implicated in carbohydrate metabolism and creatine metabolism.[87][88] Magnesium chelated creatine may be useful for increasing muscle strength output with a similar potency to creatine monohydrate, but without the water weight gain, as there are noted differences, but they are statistically insignificant.[88][89]
 
+
 Creatine magnesium chelate has some limited evidence for it being more effective than creatine monohydrate, but this has not been investigated further.
+
 
 Creatine nitrate is a form of creatine in which a nitrate (NO3) moiety is bound to the creatine molecule. Despite increased solubility and water and the potential ergogenic effects of nitrate, creatine nitrate doesn't appear to enhance athletic performance more than monohydrate.[90]
 
+
 Creatine nitrate is a highly water soluble form of creatine that appears to be equivalent to creatine monohydrate in its ergogenic properties. 
+
 
 Creatine citrate is creatine bound to citric acid, or citrate. Creatine citrate does not differ greatly from monohydrate in regard to absorption or kinetics.[91] Note that creatine citrate is more water-soluble than monohydrate,[92] but creatine absorption is generally not limited by solubility. The increased water solubility may play a factor in palatability.
 
@@ -646,31 +678,43 @@ It can be found in varying ratios of creatine:citrate, including 1:1 (creatine c
 
 Creatine malate is the creatine molecule bound to malic acid. There might be some ergogenic benefits from malic acid on its own,[99] but this has not been investigated in conjunction with creatine. Malic acid/malate also has a sour taste[100] and may negate the sensation of bitterness, which is common among some supplements.
 
+
 Creatine citrate and creatine malate are variants of creatine with increased water solubility.
+
 
 Creatine pyruvate (also known as creatine 2-oxopropanoate) in an isomolar dose relative to creatine monohydrate has been shown to produce higher plasma levels of creatine (peak and AUC) with no discernible differences in absorption or excretion values.[91] The same study noted increased performance from creatine pyruvate at low (4.4g creatine equivalence) doses relative to citrate and monohydrate, possibly due to the pyruvate group.
 
 Creatine pyruvate is 60% creatine by weight.[76] 
 
+
 Creatine pyruvate has once been noted to reach higher levels of plasma creatine relative to an isomolar dose of creatine monohydrate. The lone study failed to note differences in absorption, however, which conflicts with the observation of increased serum levels. This result has not been replicated.
+
 
 Creatine α-ketoglutarate is the creatine molecule bound to an alpha-ketoglutaric acid moiety. Little research has been done on creatine α-ketoglutarate.[101]
 
 Creatine α-ketoglutarate is 53.8% creatine by weight.[76] 
 
+
 Creatine α-ketoglutarate is thought to be an enhanced form of creatine supplementation (similar to Arginine α-ketoglutarate, which has an increased rate of absorption) but this has not been investigated.
+
 
 Sodium creatine phosphate is 51.4% creatine by weight.[76] 
 
+
 Sodium creatine phosphate appears to be about half creatine by weight, and it is not certain if this variant offers any advantages over conventional forms.
+
 
 Polyethylene glycosylated creatine seems to be as effective as creatine monohydrate at a lower dose (1.25-2.5g relative to 5g monohydrate), but does not seem to be comparable in all aspects.[102][103]
 
+
 Polyethylene glycosylated creatine (PEG creatine) appears to be somewhat comparable to creatine monohydrate.
+
 
 Creatine gluconate is a form of creatine supplementation in which the creatine molecule is bound to a glucose molecule. It currently does not have any studies conducted on it.
 
+
 Creatine gluconate is sort of a glycoside of creatine, and it is thought to be better absorbed when taken alongside food, since many other gluconate molecules, particular in the context of minerals like magnesium, are absorbed better with food. However, there are currently no studies on this particular variant.
+
 
 Cyclocreatine (1-carboxymethyl-2-iminoimidazolidine) is a synthetic analogue of creatine in a cyclic form. It serves as a substrate for the creatine kinase enzyme system, acting as a creatine mimetic. Cyclocreatine may compete with creatine in the CK enzyme system to transfer phosphate groups to ADP, as coincubation of both can reduce cyclocreatine’s anti-motility effects on some cancer cells.[104]
 
@@ -680,7 +724,9 @@ This increased permeability is noted in glioma cells, where it exerts anti-cance
 
 In regard to bioenergetics, phosphorylated cyclocreatine appears to have less affinity for the creatine kinase enzyme than phosphorylated creatine in terms of donating the high energy phosphate group (about 160-fold less affinity) despite the process of receiving phosphorylation being similar.[112][113] When fed to chickens, phosphorylated cyclocreatine can accumulate up to 60mM in skeletal muscle,[114] which suggests a sequestering of phosphate groups before equilibrium is reached.[113] Cyclocreatine still has the capacity to donate phosphate, however, as beta-adrenergic stimulated skeletal muscle (which depletes ATP and glycogen) exhibits an attenuation of glycogen depletion (indicative of preservation of ATP) with phosphocreatine.[110]
 
+
 Cyclocreatine appears to be passively diffused through membranes and not subject to the creatine transporter, which can be beneficial for cases where creatine transporter function is compromised (creatine non-response and SLG6A8 deficiency). Similar to other forms of creatine, it buffers ATP concentrations, although its efficacy as a supplement in otherwise healthy people is currently unknown.
+
 
 2.
 
@@ -694,13 +740,17 @@ When creatine is absorbed it pulls water in with it, causing cells to swell. Thi
 
 Glycogen synthesis is known to respond directly and positively to cellular swelling. This was demonstrated in an earlier study, during which rat muscle cells were exposed to a hypotonic solution in vitro to induce cell swelling, which increased glycogen synthesis by 75%. In contrast, exposing these same cells to a hypertonic solution hindered glycogen synthesis by 31%. These changes were not due to alterations in glucose uptake, but are blocked by hindering the PI3K/mTOR signaling pathway.[120] It was later noted that stress proteins of the MAPK class (p38 and JNK) as well as heat shock protein 27 (Hsp27) are activated in response to increasing osmolarity.[121][122] Furthermore, activation of MAPK signaling in skeletal muscle cells is known to induce myocyte differentiation[123] via GSK3β and MEF2 signaling, which can induce muscle cell growth.[124][125]
 
+
 The increase in cellular swelling (water retention within the cell) per se appears to have a positive influence on muscle cell growth, since the increase in swelling is met with the activation of stress response proteins of the MAPK class, which then influences muscle protein synthesis. These mechanisms do not involve the creatine kinase cycle.
+
 
 Inducing hypertonicity (a reduction in cellular swelling) is known to actually increase the mRNA of the creatine transporter,[126] thought to be due to increasing cellular creatine uptake to normalize creatine levels. This has been noted in both muscle cells and endothelial cells, but is thought to apply to all cells.[126]
 
 This regulation of creatine uptake is similar to other osmolytic agents such as myo-inositol or taurine, which have their uptake into cells enhanced during periods of hypertonia in order to increase cellular swelling.
 
+
 Cellular hydration status is tied to creatine influx and efflux by modulating the expression of the creatine transporter and thus cellular uptake. This is similar to other osmolytes in the human body.
+
 
 2.2
 
@@ -712,7 +762,9 @@ In a later study, it was found that biologically relevant concentrations (10-30m
 
 Cyclocreatine (an analogue of creatine) has been shown to protect microtubules in a cell and protect its structure, but it is not known whether these benefits can be expanded to creatine.[129][127]
 
+
 Phosphocreatine can bind to cellular membranes due to its phosphate group. This seems to exert a protective effect by increasing membrane stability. This protective effect is not related to either cell hydration or the creatine kinase system, and its relevance in vivo is not clear at this time.
+
 
 2.3
 
@@ -724,7 +776,9 @@ Creatine supplementation will downregulate the body’s own production of creati
 
 SAMe is the primary methyl donor in the human body, and supplements that preserve SAMe (such as trimethylglycine; TMG) promote a variety of benefits in the human body, like a reduction in homocysteine and reduced risk of fatty liver. Creatine has been implicated in both reducing homocysteine[132] and preventing fatty liver in rodents[133], thought to be secondary to preserving SAMe.
 
+
 Creatine synthesis requires a large amount of S-adenosyl methionine (SAMe). Downregulating creatine synthesis (via supplementation) indirectly preserves SAMe levels in the body. This is thought to indirectly promote the benefits of SAMe supplementation by reducing its consumption, acting in a similar manner to TMG.
+
 
 3.
 
@@ -736,7 +790,9 @@ Rationale
 
 Creatine supplementation may be able to enhance lifespan, secondary to increasing intracellular carnosine stores. Carnosine is the metabolic compound formed from beta-alanine supplementation, and in a mouse-model for premature aging (senescence-accelerated premature aging, SAMP8) creatine supplementation without any beta-alanine has been shown to increase cellular carnosine stores.[134] That being said, the aforemented SAMP8 study noted an increase in carnosine levels at middle age, but not old age in the mice.[134] A human study using 20g of creatine for one week in otherwise healthy people failed to find an increase in intracellular carnosine stores.[134]
 
+
 Creatine been noted to increase intracellular carnosine stores in a mouse model for premature aging. While this is thought to have an anti-aging effect in mice, oral ingestion of creatine has not been shown to increase carnosine levels in humans, and there is currently no evidence to support an anti-aging effect.
+
 
 4.
 
@@ -748,7 +804,9 @@ Absorption
 
 In the stomach, creatine can degrade by about 13% due to the digestive hormone pepsin, as assessed by simulated digestion.[135] Although creatinine is a known byproduct of creatine degradation, simulated gastric digestion did not increase creatinine levels, indicating that other breakdown products were formed. However, creatinine was noted to increase in the presence of pancreatin, a mixture of pancreatic enzymes.[135] 
 
+
 Stomach acid can degrade a small amount of creatinine, which does not appear to be too practically relevant, judging by the multitude of studies noting benefits after oral creatine monohydrate supplementation.
+
 
 The overall bioavailability of creatine is quite good, ranging from 80%[136] up to nearly 100%[91] depending on the dose ingested, since higher acute doses are absorbed less efficiently.
 
@@ -758,7 +816,9 @@ In standard dosages (5-10g creatine monohydrate) the bioavailability of creatine
 
 There is also evidence to suggest that increased ingestion of creatine leads to an increased fecal creatine value, suggesting that the intestinal uptake can be saturated.[54]
 
+
 Intestinal uptake is most likely mediated by SLC6A8 or a related sodium-dependent transporter. Absorption does not appear to be hindered by other common supplements, although too much creatine at one time (greater than 10 g) can saturate receptors, leading to excretion.
+
 
 4.2
 
@@ -766,13 +826,17 @@ Serum
 
 Assuming absolutely no supplementation and standard dietary intake, basal (fasted) creatine concentrations in humans are in the range of 100-200µM,[14][140] which is lower than observed in rats (140-600µM[141][142]).
 
+
 Under fasting and nonsupplemental conditions, concentrations of creatine in the human body are in the micromolar range.
+
 
 After the ingestion of 5g creatine in otherwise healthy humans, serum levels of creatine were elevated from fasting levels (50-100µM) to 600-800µM within one hour after consumption.[143] The receptor follows Michaelis-Menten kinetics with a Vmax obtained at concentrations higher than 0.3-0.4mmol/L,[144] with prolonged serum concentrations above this amount exerting most of its saturation within two days.[145]
 
 Researchers observed that it took 2.5 hours after the ingestion of a 20g bolus of creatine for serum levels to increase up to over 2000µM.[146]
 
+
 Creatine in serum follows a dose-dependent relationship, with more oral creatine ingested causing more serum increases. The rate of accrual into muscle cells may be maximized at a serum concentration achievable with 5g of creatine supplementation.
+
 
 4.3
 
@@ -780,17 +844,23 @@ Cellular Kinetics (Creatine Transporter)
 
 The creatine transporter is a sodium[147][148] and chloride[149][150] dependent membrane-associated transporter that belongs to the Na+/Cl-dependent family of neurotransmitter transporters.[151] In muscle cells and most other cell types,[139][149] the isomer of the creatine transporter is known as SLC6A8 (solute carrier family 6, member 8). SLC6A8 is encoded by the gene present on the Xq28 region of the human X-chromosome and is expressed in most tissues.[152] A related gene encoding a creatine transporter variant has also been identified at 16p11.1 that is expressed exclusively in the testes.[153] These two transporters share 98% homology.[152][153]
 
+
 The creatine transporter is a sodium- and chloride-dependent transporter of the SLC family, also known as SLC6A8. It is the sole mechanism for the transport of creatine from the blood into cells.
+
 
 Creatine transport has been shown to increase when muscle creatine stores are depleted. This was only noted to occur in muscle with particular fiber types (soleus and red gastrocnemius), while other fiber types, such as white grastrocnemius, did not show any clear trend.[154] This indicates that transport in relation to total creatine levels varies across different muscle fiber types. 
 
 In muscle cells, the creatine transporter is predominantly localized to the sarcolemmal membrane. Western blot analysis of creatine transporter expression revealed the presence of two distinc protein bands, migrating at 55kDa and 70kDa on reducing SDS-PAGE gels.[155][156] The 73kDa band has been reported to be the predominant band in humans, with no differences based on gender.[156] A more recent report demonstrated that the 55kDa creatine transporter variant is glycosylated, forming the 73 kDa protein. Therefore, the 55 and 75kDa protein bands are actually immature and mature/processed forms of the creatine transporter protein, respectively.[157]
 
+
 The creatine transporter exists in two forms: an immature form with a molecular weight of 55 kDa, and a mature form that is processed by glycosylation, increasing the molecular weight to 73 kDa.
+
 
 In general, muscle content of creatine tends to be elevated to 15-20% above baseline (more than 20mM increase) in response to oral supplementation. People who get a sufficiently high influx of creatine are known as responders.[158][159][160][161] A phenomena known as “creatine nonresponse” occurs when people have less than a 10mM influx of creatine into muscle after prolonged supplementation.[162] Quasi-responders (10-20mM increase) also exist.[162] Nonresponse is thought to explain instances where people do not benefit from creatine supplementation in trials, since some trials that find no significant effect do find one when only investigating people with high creatine responsiveness.[163] There are clear differences between those who respond and those who do not, in regard to physical performance.[164] People who are creatine responsive tend to be younger, have higher muscle mass and type II muscle fiber content, but this has no correlation with dietary protein intake.[162][165]
 
+
 Creatine non-response is when muscular loading of creatine is under a certain threshold (10mmol/L), while “response” to creatine means having more muscular creatine loading (20mol/L or more). There also exists a “grey area” inbetween, where some benefits are achieved but not as many as pure responders will experience. Response appears to be positively correlated with muscle mass and type II muscle fibers.
+
 
 4.4
 
@@ -800,23 +870,31 @@ Creatine is only taken up by its transporter, and changes in the activity level 
 
 The creatine transporter (CrT) is positively regulated by proteins known to be involved in sensing and responding to the cellular energy state, including the mammalian target of rapamycin (mTOR[166]). Upon activation, mTOR stimulates SGK1 and SGK3[167][168] to act upon PIKfyve[169] and subsequently PI(3,5)P2[170] to increase CrT activity.[169] Beyond mTOR, SGK1 also is stimulated by intracellular calcium[171] and a lack of oxygen (ischemia).[172] Because transient ischemia is associated with increased reactive oxygen species (ROS) production after blood flow is restored (reperfusion) it has been hypothesized that muscle contraction may increase creatine uptake through a similar ROS-mediated mechanism.[173]
 
+
 Stress-inducible kinases (SGK1, SGK3) increase the activity of the creatine transporter, and these proteins are increased by any intracellular stress (such as a lack of oxygen or calcium release from inside the cell). Creatine transport activity is also activated by mTOR, an important nutrient sensor and “master-regulator” of protein synthesis.
+
 
 Some other cytokines and hormones may increase the receptor activity. These include growth hormone (GH) which acts upon the growth hormone receptor (GHR)[174][175] to stimulate c-Src[176][177] which directly increases the activity of the CrT via phosphorylation. This is known to occur with the 55kDa version of c-Src but not the 70kDa version and requires CD59 alongside c-Src.[178]
 
 There is a nuclear receptor known as TIS1 (orphan receptor, since there are no known endogeouns targets at this time) which positively influences transcription of new creatine transporters[179] and, in C2C12 myotubes, seems to be responsive to cAMP or adenyl cyclase stimulation from forskolin (from Coleus Forskohlii) with peak activation at 20µM.[179][180] 
 
+
 Both growth hormone and TIS1 increase the activity of the creatine transporter in a manner different than the cellular stresses, since growth hormone directly activates it via another pathway (c-Src) while TIS1 is involved in making more of the receptors overall. TIS1 seems to respond to intracellular cAMP levels.
+
 
 Finally, starvation (nutrient deprivation for four days) appears to increase activity of the creatine transporter secondary to decreasing serine phosphorylation (SGK target)[181] with no influence on tyrosine phosphorylation (c-Src target).[181] Starvation-induced increases in creatine influx do not necessarily mean more phosphocreatine, however, due to a depleted cellular energy state.[181]
 
+
 Starvation increases creatine uptake into cells, but without appreciable conversion into phosphocreatine. Because phosphocreatine is the energetically useful form of creatine in the cell, starvation is not a viable means to increase the efficacy of creatine supplmentation.
+
 
 In vitro, insulin promotes creatine uptake in mouse[182] and human muscle cells.[183] In the human cells, insulin infusion was effective at 55-105mU, but not 5-30mU.[184]
 
 In regard to practical interventions, concurrent glycogen loading has been noted to increase creatine stores by 37-46% regardless of whether the tissue was exercised prior to loading phase.[185] It is important to note, however, that creatine levels in response to the creatine loading protocol were compared in one glycogen-depleted leg to the contralateral control leg, which was not exercised.[186] This does not rule out a possible systemic exercise-driven increase in creatine uptake, and the increase in creatine noted above[186] was larger than typically seen with a loading protocol (usually in the 20-25% range). Consistent with an exercise-effect, others have reported that exercise itself increases creatine uptake into muscle, reporting 68% greater creatine uptake in an exercised limb, relative to 14% without exercise.[161]
 
+
 Exercise itself appears to stimulate creatine uptake into muscle, although reports have been mixed. Given the positive effect of metabolic stress on CrT activity, it is also possible that the more metabolically intense the exercise is on the tissue level, the more creatine uptake is increased. 
+
 
 4.5
 
@@ -826,15 +904,21 @@ Negative regulators of the creatine transporter (CrT) are those that, when activ
 
 In contrast to kidney epithelial cells, others have reported that creatine transport is increased by AMPK in the heart,[12] indicating that CrT is likely regulated in a cell-and tissue specific manner in response to local energy demands. Regulation of CrT by AMPK in a tissue-specific manner has not been explored. 
 
+
 Activity of the creatine transporter (CrT) protein is controlled by AMPK in an apparent cell and/or tissue-specific manner. More research is needed to determine the effect of AMPK on CrT activity in various tissues, which could be relevant to nutrition and supplementation strategies to optimize creatine stores in skeletal muscle.
+
 
 Extracellular creatine (creatine outside of a cell) appears to influence creatine uptake into a cell. It seems that prolonged and excessive levels of creatine actually suppress uptake (a form of negative regulation to prevent excessive influx).[190] In vitro studies in rat muscle cells have shown that including 1mM creatine into cell culture medium substantially reduces creatine uptake into cells. The inhibitory effect was partially negated by protein synthesis inhibitors, suggesting that high levels of creatine induce the expression of a protein that suppresses creatine transporter activity.[190] Similar findings were reported in a later study in cultured mouse myoblasts, which noted a 2.4-fold increase in intracellular creatine levels in the presence of the protein synthesis inhibitor cyclohexamide.[191] 
 
+
 High extracellular creatine concentrations induce the expression of a factor that inhibits the creatine transporter (CrT). To date, neither the identity of nor mechanism for this putative CrT-suppressing factor has come to light. Future studies that are able to identify this creatine transport-suppressing factor and how it works may provide valuable insight into possible supplementation strategies that might be used to increase creatine uptake into muscle cells.
+
 
 More recent studies on the regulation of CrT creatine transport activity have identified the protein kinase (Janus-Activating Kinase 2) JAK2, which suppresses the rate of creatine uptake via CrT without affecting creatine binding.[192] JAK2 is a regulatory protein involved in stabilizing the cellular membrane and controlling water concentrations in response to osmotic stress.[193][194] Similar to c-Src (a positive creatine transport regulator), Jak2 can also be activated by growth hormone signaling.[195][196] The growth hormone receptor seems to activate these two factors independently, as gh-mediated activation of c-Src does not require JAK2.[197] Given that c-Src is a positive regulator of CrT, JAK2 is a negative regulator, and the fact that downstream signals from both are induced by growth hormone, it is tempting to speculate that JAK2 activation downstream of the gh receptor may function as a homeostatic response to limit c-src induced creatine uptake. This has not been studied, however, and the effects of gh-induced JAK2 signaling on CrT activity have not been examined. 
 
+
 JAK2 (Janus-Activating Kinase 2) is a novel protein that has been shown to suppress the activity of the creatine transporter CrT in vitro. The effects of JAK2 on CrT are not well-understood in vivo, however. Given that growth hormone activates both c-src (increases CrT activity) and JAK2- which has been found to decrease CrT activity, it is plausible that JAK2 may function as a negative-feedback regulator of creatine uptake. Future research is needed to better understand the role of JAK2 on CrT activity in vivo.
+
 
 4.6
 
@@ -846,7 +930,9 @@ Entry into neural tissues in general is mediated by the secondary creatine trans
 
 In regard to the blood brain barrier (BBB), which is a tightly woven mesh of non-fenestrated microcapillary endothelial cells (MCECs) that prevents passive diffusion of many water-soluble or large compounds into the brain, creatine can be taken into the brain via the SLC6A8 transporter.[205] In contrast, the creatine precursor (guanidinoacetate, or GAA) only appears to enter this transporter during creatine deficiency.[205] More creatine is taken up than effluxed, and more GAA is effluxed rather than taken up, suggesting that creatine utilization in the brain from blood-borne sources[205] is the major source of neural creatine.[206][205] However, “capable of passage” differs from “unregulated passage” and creatine appears to have tightly regulated entry into the brain in vivo[206]. After injecting rats with a large dose of creatine, creatine levels increased and plateaued at 70uM above baseline levels. These baseline levels are about 10mM, so this equates to an 0.7% increase when superloaded.[206] These kinetics may be a reason for the relative lack of neural effects of creatine supplementation in creatine sufficient populations.
 
+
 Creatine is vital for brain function, which has mechanisms to take up creatine, as well as regulate its intake. Although the diet appears to be the major source of creatine (and thus lack of dietary intake could cause a non-clinical deficiency) excess levels of creatine do not appear to “super-load” the brain similar to muscle tissue. Due to kinetics, creatine appears to be more “preventative” or acts to restore a deficiency in the brain. This is in contrast to creatine effects in muscle cells, where it can affect performance substantially on an acute timescale.
+
 
 In addition to the BBB, SLC6A8 is also expressed on neurons and oligodendrocytes,[205] but is relatively absent from astrocytes, including the astrocytic feet[206][207] which line 98% of the BBB.[208] Creatine can still be transported into astrocytes (as well as cerebellar granule cells) via SLC6A8, as incubation with an SLC6A8 inhibitor prevents accumulation in vitro. It seems to be less active in a whole brain model, relative to other brain cells.[209]
 
@@ -858,13 +944,17 @@ Elimination
 
 Without supplementation, approximately 14.6mmol (2g) of creatinine, creatine’s urinary metabolite, is lost on a daily basis in a standard 70kg male ages 20-39. The value is slightly lower in females and the elderly due to a presence of less muscle mass.[43] This amount is considered necessary to obtain in either food or supplemental form to avoid creatine deficiency. Requirements may be increased in people with higher than normal lean mass.[43][211] Creatine excretion rates on a daily basis are correlated with muscle mass, and the value of 2g a day is derived from the aforementioned male population with about 120g creatine storage capacity.[43] Specifically, the rate of daily creatine losses is about 1.6%[212]-1.7%,[33] and mean losses for women are approximately 80% that of men due to less average lean mass.[43] For weight-matched elderly men (70kg, 70-79 years of age) the rate of loss of 7.8mmol/day,[57] or about half (53%) that of younger men.
 
+
 Creatine appears to have a “daily requirement” like a vitamin to maintain sufficient levels, at or around 2g assuming a “normal” 70 kg male body.
+
 
 Creatine levels in the blood tend to return to baseline (after a loading with or without the maintenance phase) after 28 days without creatine supplementation.[160][213][214] This number may vary slightly from one individual to another, and for some may exceed 30 days.[215] Assuming an elimination rate of creatinine (creatine’s metabolite) at 14.6mmol per day,[43][214] six weeks of cessation is approaching the upper limit for serum creatine to completely return to baseline.
 
 Despite this decrease to baseline levels, muscle creatine and phosphocreatine levels may still be elevating and provide ergogenic effects.[215]
 
+
 Creatine can be elevated above baseline after supplementation of more than 2 grams, and depending on the degree of loading it may elevate bodily creatine stores for up to 30 days.
+
 
 4.8
 
@@ -884,11 +974,15 @@ Sedentary people who undergo a loading period (2g of creatine daily for up to si
 
 This partial preservation of creatine stores with 2g may be wholly irrelevant in athletes, as assessed by elite swimmers where 2g as maintenance (no loading phase) failed to alter creatine content in muscle whatsoever.[219]
 
+
 A maintenance phase of 2g daily appears to technically preserve creatine content in skeletal muscle of responders either inherently or after a loading phase, but in sedentary people or those with light activity, creatine content still progressively declines (although it still higher than baseline levels after six weeks) and glycogen increases seem to normalize. This maintenance dose may be wholly insufficient for athletes, a 5g maintenance protocol may be more prudent.
+
 
 When looking collectively at the benefits accrued during loading and maintenance, it appears that changes in body mass are additive during this phase (increased during loading, further increased during maintenance).[216]
 
+
 Despite a possible decreasing creatine content in the muscles when maintenance is deemed suboptimal, the overall retention of weight and lean mass is merely additive over time. This is thought to be due to increases in skeletal muscle production (increase in body weight) compensating for the progressive declines in water and glycogen content (decreases in body weight).
+
 
 When total free creatine declines (from 30.6% to 12.9%), the increase in glycogen seen during loading appears to normalize at a faster rate, so 2g of maintenance may not be sufficient to preserve glycogen either.[220]
 
@@ -911,19 +1005,25 @@ Glutamate-induced excitotoxicity is caused by excessive intracellular calcium le
 
 Creatine has been confirmed to be neuroprotective against excitotoxicity at a dietary level of 1% in rats (with no protective effect against AMPA or kainate receptors).[226]
 
+
 Creatine appears to be neuroprotective against glutamate-induced excitotoxicity. By helping maintain intracellular ATP levels, creatine prevents the toxic accumulation of calcium inside cells, a driver of excitoxicity.
+
 
 Creatine has been noted to increase the amplitude (0.5-5mM) and frequency (25mM only) of NMDA receptors, although concentrations of 0.5-25mM also reduced signaling intensity. This was credited to creatine causing an increase in ligand binding of glutamate with an EC50 of 67µM and maximal activity at 1mM creatine (158±16% of baseline).[227] Creatine appears to modulate the polyamine binding site of the NMDA receptor, as it is abolished by arcaine and potentiated by spermidine.[228] This binding site is known to modify NMDA receptor affinity.[229][230]
 
 Activation of NMDA receptors is known to stimulate Na+,K+-ATPase activity[231] secondary to calcineurin,[232] which which has been confirmed with creatine in hippocampal cells (0.1-1mM trended, but 10mM was significant). This is blocked by NMDA antagonists.[233] This increase in Na+,K+-ATPase activity is also attenauted with activation of either PKC or PKA,[233] which are antagonistic with calcineurin.[232][234]
 
+
 Creatine appears to positively regulate the polyamine binding site of NMDA receptors, thereby increasing signaling through this receptor and the effects of agonists such as glutamate or D-aspartic acid. This is a potential mechanism for cognitive enhancement.
+
 
 In a prolonged study on mice,[235] it was found that there was a two-fold upregulation of the transporter protein SLC1A6, which mediates glutamate uptake into cells. This may underlie the reduction of brain glutamate levels by creatine seen in Huntington’s disease.[236]
 
 This is thought to be relevant since, in a study on subjects with amyotrophic lateral sclerosis (ALS), 15g of creatine daily was found to result in a significant reduction in combined glutamate and glutamine levels in the brain (not seen after 5-10g daily).[237]
 
+
 Creatine may also promote uptake glutamate into cells. How this influences signaling and neuroprotection is not yet clear.
+
 
 5.2
 
@@ -939,11 +1039,15 @@ One rat study that compared male and female rats and used a forced swim test (as
 
 In females, the combination of SSRIs (to increase serotonin levels in the synapse between neurons) and creatine shows promise in augmenting the anti-depressive effects of SSRI therapy[243]. Another pilot study conducted on depression and females showed efficacy of creatine supplementation.[244] The one study measuring male subjects noted an increase in mood and minimal anti-depressive effects, but it is not know whether this is due to gender differences or the model studies (post-traumatic stress disorder).[245]
 
+
 There is insufficient evidence to refute the idea that creatine supplementation only exerts anti-depressive effects in females. The evidence to suggest that creatine is an anti-depressant (via serotonergic mechanisms) appears to be much stronger for women than men.
+
 
 In humans, studies that investigate links between serotonin and creatine supplementation find that 21 trained males, given creatine via 22.8g creatine monohydrate (20g creatine equivalent) with 35g glucose, relative to a placebo of 160g glucose, was found to reduce the perception of fatigue in hot endurance training, possibly secondary to serotonergic modulation, specifically attentuating the increase of serotonin seen with exercise (normally seen to hinder exercise capacity in the heat[246]) while possibly increasing dopaminergic activity (conversely seen to benefit activity in the heat[247]).[163]
 
+
 Conversely, the suppression of serotonin spikes seen in males may enhance physical performance during periods when the body would normally overheat. The idea that this does not work in females cannot be refuted at this time.
+
 
 5.4
 
@@ -951,7 +1055,9 @@ Dopaminergic Neurotransmission
 
 Creatine may preserve dopamine synthesis in the striatum of mice (while protecting against dopaminergic depletion) when fed to mice at 2% of the diet for one week prior to MPTP toxicity[243]. This is possibly secondary to increasing tyrosine hydroxylase activity, the rate-limiting step of dopamine biosynthesis.[223][248] Two percent creatine was as protective as 0.005% rofecoxib (a COX2 inhibitor), but the two were additive in their protective effects (highly synergistic in regard to DOPAC by normalizing it, but not synergistic in preserving HVA).[243]
 
+
 The neuroprotective effects of creatine appear to exist in regard to dopamine biosynthesis, and the suppression of dopamine synthesis seen with some neurological toxins appears to be partially attenuated with dietary intake of creatine. The protective effect is weak to moderate in animal research, but appears to be additive with anti-inflammatories.
+
 
 5.5
 
@@ -967,11 +1073,15 @@ Creatine, through its ability to act as an energy reserve, attenuates neuron dea
 
 These effects are secondary to creatine being a source of phosphate groups and acting as an energy reserve. The longer a cell has energy, the longer it can preserve the integrity of the cell membrane by preserving integrity of the Na+/K+-ATPase and Ca2+-ATPase enzymes.[254][248][249] Preserving ATP allows creatine to act via a nongenomic response (not requiring the nuclear DNA to transcribe anything), and appears to work secondary to MAPK and PI3K pathways.[239]
 
+
 A protective effect on neurons by creatine, secondary to its ability to donate phosphate groups, exists and appears to be quite general in its protective effects.
+
 
 When assessing the antioxidant effects of creatine, it does not appear to sequester superoxide and may not be a direct antioxidant.[254] Additionally, creatine failed to protect neurons from H2O2 incubation to induce cell death via pro-oxidative means.[254] These results are in contrast to previously recorded results suggesting creatine acts as a direct anti-oxidant.[255]
 
+
 Some reports suggest that creatine may be a direct anti-oxidant, but these have failed to be replicated. Creatine most likely does not possess anti-oxidant potential.
+
 
 5.7
 
@@ -979,7 +1089,9 @@ Neurogenesis
 
 The concentration of creatine that increases mitochondrial respiration in skeletal muscle is 20mM.[256] This concentration also appears to work similarly in hippocampal cells.[257] This promotes endogenous PSD-95 clusters and subsequently synaptic neurogenesis (thought to simply be secondary to promoting mitochondrial function).[257]
 
+
 Mitochondrial function per se appears to promote neuronal growth and proliferation, and at least in vitro, creatine is known to do the same and promote growth.
+
 
 5.8
 
@@ -995,7 +1107,9 @@ Creatine has been investigated for its effects on depression, due to the signifi
 
 Oral ingestion of 1-1000mg/kg bodyweight of creatine in mice was able to exert an anti-depressive effect, which was blocked by dopamine receptor antagonists. A low dose of creatine (0.1mg/kg) was able to enhance the dopaminergic effects of dopamine receptor activators, suggesting supplemental creatine can positively influence dopamine signaling and neurotransmission.[265]
 
+
 Mechanically, creatine may exert anti-depressant effects via mixed dopaminergic and serotonergic mechanisms. The exact mechanisms are not clear at this time.
+
 
 Anti-depressive effects have been noted in woman with major depressive disorder when 5g of creatine monohydrate was supplemented daily for 8 weeks in combination with an SSRI. Benefits were seen at week two and were maintained until the end of the 8-week trial.[266] The improvement in depressive symptoms was associated with significantly increased prefrontal cortex levels of N-acetylaspartate, a marker of neuronal integrity,[267] and rich club connections, which refers to the ability of nerons to make connections to one another.[268]
 
@@ -1003,7 +1117,9 @@ These effects were noted before in a preliminary study of depressed adolescents 
 
 It is possible that females could benefit more than males due to a combined lower creatine kinase activity as well as having altered purine metabolism during depression,[270] but no human comparative studies have been conducted yet. One rat study noted that creatine monohydrate at 2-4% of feed had 4% creatine able to exert anti-depressive and anxiolytic effects in female rats only.[241]
 
+
 Intervention studies with creatine supplementation and depression show promise, but only one well-conducted study (used alongside SSRI pharmaceuticals) has been done, while other studies have flaws. This effect is promising, but no conclusions can be made at this time.
+
 
 5.10
 
@@ -1011,15 +1127,21 @@ Brain Injury
 
 Most causes of brain injury (calcium influx, excitotoxicity, lipid peroxidation, reactive oxygen intermediates or ROIs) all tend to ultimately work secondary to damaging the mitochondrial membrane and reducing its potential, which ultimately causes cellular apoptosis.[271][272][273][274] Traumatic brain injuries are thought to work vicariously through ROIs by depleting ATP concentrations.[275][276] Creatine appears to preserve mitochondrial membrane permeability in response to traumatic brain injury (1% of the rat’s diet for four weeks),[277] which is a mechanism commonly attributed to its ATP-buffering ability.
 
+
 Brain injuries tend to cause continued damage to cells, secondary to ATP depletion, and creatine appears to preserve mitochondrial membrane permeability in response to brain injury, which is thought to be due to its ability to preserve ATP.
+
 
 In rats and mice given creatine injections (3g/kg) for up to five days prior to traumatic brain injury, supplementation was able to reduce brain injury by 3-36% (time dependent, with five days being more protective than one or three), and dietary intake of creatine at 1% over four weeks halved subsequent injuries.[277]
 
+
 Daily intake of creatine in rats appears to be capable of halving the effects of brain injuries.
+
 
 In children and adults with tramautic brain injury (TBI), six months of creatine supplementation of 400mg/kg bodyweight appears to significantly reduce the frequency of headaches (from 93.8% to 11.1%), fatigue (from 82.4% to 11.1%), and dizziness (from 88.9% to 43.8%), relative to unblinded control.[278]
 
+
 Preliminary evidence suggests that headaches and dizziness associated with brain injury can be attenuated with oral supplementation of creatine.
+
 
 5.11
 
@@ -1033,17 +1155,23 @@ Memory and Learning
 
 Acute administration of creatine (intra-cranial) appears to enhance learning from a previous stimuli, vicariously through the NDMA receptor and was enhanced via coincubation of spermidine,[228] which amplifies NMDA currents.[284]
 
+
 In rats, an enhancement of spatial learning appears to be apparent and mediated via the NMDA receptor. This is a similar mechanism to the one found in preliminary studies on D-Aspartic Acid.
+
 
 Studies conducted in vegetarians tend to show cognitive enhancement in youth, possibly due to a creatine deficiency, as compared to omnivores.[285][68][69] Vegetarian diets have lower levels of circulating creatine prior to supplementation, but attain similar circulating levels as omnivores when both groups supplement.[285][286] Building on the latter, supplementation of creatine monohydrate in a loading protocol (20g daily in orange juice) in omnivores does not alter levels of creatine in white matter tissue in the brain (test subjects: competitive athletes).[287] In most of the parameters that vegetarians experience benefits, omnivores fail to experience statistically significant benefits[288], except possibly when sleep deprived, where the cognitive improvements rival that seen in vegetarians.[289] Elderly people who are omnivorous may also experience increases in cognition to a similar level, in regard to long-term memory as well as forward number and spatial recall, although the study in question failed to find any significant benefit on backward recall or random number generation,[46] the latter of which is a test for executive working memory.[290]
 
+
 Creatine has been demonstrated to increase cognition (memory, learning, and performance) in people with no dietary creatine intake, like vegetarians and vegans. These benefits also appears to extend to the sleep deprived and elderly people without any saliant cognitive decline.
+
 
 In a rested state, young omnivores may experience an increase in reaction speed.[68]
 
 One study that did not control for dietary or lifestyle choices, but was conducted in young healthy adults, noted that 8g of creatine supplementation daily (spread out in multiple doses) for 5 days was able to reduce fatigue during a mathematical test (Uchida-Kraepelin test).[291]
 
+
 Creatine has limited potential in increasing cognition in otherwise healthy young omnivores, but it does possess a general pro-cognitive effect.
+
 
 5.13
 
@@ -1061,13 +1189,17 @@ Cardiac Tissue
 
 The creatine kinase (CK) enzyme in rat heart tissue appears to have a KM around 6mM of creatine as substrate.[293] and is known to positively influence mitochondrial function as higher cytoplasmic phosphocreatine concentrations (not so much creatine per se) increase the oxidative efficiency of mitochondria[293] This is thought to be due to the transfer of high energy phosphate groups.[293]
 
+
 The heart expresses the CK enzyme and system to a larger degree than any other tissue in the mammalian body, and it serves to make mitochondrial activity more efficient
+
 
 Phosphocreatine is known to be a major source of energy for cardiac tissue alongside fatty acids, which are dominant under periods of normoxia (normal oxygen) while phosphocreatine becomes more important in periods of hypoxic stress.[294][295][296] The entire CK system plays a role in the recovery of the heart following ischemic/hypoxic stress, since blocking CK activity impairs recovery[297][298] and overexpressing CK activity promotes it.[299] This is due to the heart tissue needing high energy phosphate groups at this time, and the ischemic stress reduces CK activity and the ability of CK to donate these groups.[300][301]
 
 After ischemia, increasing the activity of the creatine transporter (without necessarily influencing CK) to allow more creatine influx has been associated with improved post-ischemic contractility, by around 30%.[302]
 
+
 It seems that the creatine kinase system is important for a heart that underwent a low oxygen stressor (hypoxic stress or ischemia) since the energy it provides is used in the repair process. Higher activity of the creatine kinase system or an influx of creatine into the cell are both seen as beneficial after a cardiac injury
+
 
 6.2
 
@@ -1079,11 +1211,15 @@ The concentration in healthy controls (57+/-8 years) without supplementation of 
 
 Erythrocytic creatine is normally enhanced in instances of splenomegaly[305] or pulmonary arterial hypertension,[307] but it is unaffected by hyperthyroidism, a condition known to be associated with low mean corpuscular volume.[311]
 
+
 Creatine is expressed in moderate to low levels in red blood cells and decreases when the erythrocyte normally ages. Supplementation of creatine is able to significantly increase levels of creatine in the erythrocyte to around 1.5mM at maximum, though usually to around 800-1,000µM.
+
 
 Supplementation of a loading phase of creatine has been noted to augment the increase in RBC levels of superoxide dismutase (SOD) from exercise, when measured immediately after, by 8.1%, but control groups increased to match within an hour.[312] Glutathione (normally decreases with exercise) and catalase (increases) were both unaffected,[312] and elsewhere in vitro red blood cells incubated with 3mM of creatine (within the supplemental range) is able to improve filterability (a measure of cell rheology, or fluid structure of the cell[313]) when RBC creatine was increased by 12.3% to reach 554µM.[314] This was thought to be due to reduced oxidative stress (assessed via MDA) in the red blood cells, which in the presence of 1-5mM creatine was progressively reduced by 20-41%.[314]
 
+
 Very limited evidence suggests that the increase in RBC creatine concentrations is associated with antioxidant effects, which are thought to be protective. While this likely occurs in humans following supplementation of creatine, the practical relevance of this information is not yet known.
+
 
 6.3
 
@@ -1093,13 +1229,17 @@ Homocysteine is an endogenous metabolite involved in methylation processes in th
 
 Homocysteine is produced after S-adenosyl methionine is used up (as donating a methyl group creates S-adenosylhomocysteine, which then produces homocysteine) mostly from phosphatidylcholine synthesis[320] and its reduction (via either methylation from trimethylglycine via betaine:homocysteine methyltransferase, urinary excretion, or convertion into L-cysteine via cystathionine beta-synthase[321]) is thought to be therapeutic for cardiovascular diseases.
 
+
 Homocysteine is a byproduct of methylation in the body, and when it builds up in the blood it indicates that the subject is at higher risk for cardiovascular diseases like atherosclerotic disease. Its reduction is thought to be therapeutic and reduces the risk of cardiovascular diseases, although this has not panned out in any trial to date.
+
 
 The synthesis of creatine (from guanidinoacetate via GAMT) also requires SAMe as a cofactor and is implicated in homocysteine production. While supplementation of guanidinoacetate at 0.36% (prior to SAMe) can increase homocysteine by up to 50% in rats, supplementation of creatine (0.4%) is able to suppress homocysteine by up to 25%, secondary to reducing creatine synthesis,[322] and has been replicated elsewhere with 2% of the rat diet, while a loading phase did not alter the benefits.[132]
 
 One case study on a subject with a methylentetrahydrofolate reductase (MTHFR) 677TT homozygote, a relatively common genetic mutation known as “mild MTHFR deficiency,” which causes mild homocysteinemia,[323] has seen benefits due to creatine supplementation where homocysteine was approximately halved (49% reduction) while CT heterozygotes and CC homozygotes (n=9) were unaffected.[324] Additionally, one rat study suggested a possible role for creatine in reducing homocysteine levels in a model of high uric acid levels (model for end stage renal disease[325]) but this was not replicated when investigated in humans.[326]
 
+
 Reducing creatine synthesis by supplementing it has preliminary evidence supporting its ability to reduce homocysteine concentrations in the body, since the synthesis of creatine would normally produce some homocysteine as a byproduct. This may apply to a certain subset of people (MTHFR TT homozygotes, about 10% of North Americans) but at the moment there is not enough evidence to suggest that this occurs in all people supplementing creatine.
+
 
 6.4
 
@@ -1109,7 +1249,9 @@ The creatine kinase system appears to be detectable in endothelial cells.[327][3
 
 When endothelial cells have a higher creatine concentration, they appear to be mildly less permeable when incubated with 0.5-5mM creatine, while the higher concentration (5mM) is able to fully ablate TNF-α-induced neutrophil adhesion and both E-selectin and ICAM-1 expression.[329] This effect was prevented with ZM241385, an A2A (adenosine) receptor antagonist,[329] and since adenosine released by this receptor is known to be protective of endothelial cells,[330][331] it is thought that creatine works vicariously through this receptor and adenosine release, thought to be due to releasing ATP (occurs in response to stress[332][333]) which protects the cell via the A2A signaling system.[329]
 
+
 Creatine appears to be able to suppress immune cell adhesion to endothelial cells, which is thought to be secondary to increasing phosphocreatine content of the endothelial cells. Oddly, this anti-atherosclerotic effect is inhibited by adenosine antagonists.
+
 
 6.5
 
@@ -1129,13 +1271,17 @@ Triglycerides
 
 Creatine has been hypothesized to increase serum triglycerides, since it is able to reduce liver fat in a manner similar to trimethylglycine (TMG),[133] and TMG raises triglyceride levels slightly by releasing them from the liver.[335][336] Creatine may work in a similar manner.
 
+
 Since creatine and TMG both reduce liver fat in a similar manner, and TMG is known to increase triglycerides slightly, creatine may also increase triglycerides by the same mechanisms.
+
 
 Supplementation of creatine at 20g daily for a loading phase, followed by 10g daily for eight weeks in healthy volunteers resulted in a 23% reduction of triglycerides, which remained lower than baseline for four weeks after supplementation ceased, [334] while vLDL (the lipid particle which carries most of the triglyerides. which TMG causes to be released from the liver) was also reduced by 22% in this study.[334] 
 
 Other human studies have yielded mixed results concerning creatine’s influence on triglyceride levels. In healthy male football players, creatine supplementation (5g monohydrate daily) over eight weeks did not influence triglyceride levels[337] but in martial artists given approximately 3.5g daily, a statistically significant increase in triglycerides was found despite no changes in total cholesterol.[338] In people with cardiovascular complications, given an exercise program and creatine, no significant change in triglycerides was noted relative to a placebo control group, which was also exercising.[339]
 
+
 Unlike the case with TMG supplementation, there appear to be unreliable influences of creatine supplementation on serum triglycerides. Two null studies show no influence, while two others show an increase and a decrease, respectively. The reason for this variance is not yet known.
+
 
 7.
 
@@ -1151,17 +1297,23 @@ Supplementation of creatine at 5g daily alongside rehabilitation (after limb imm
 
 The attenuation in GLUT4 and the subsequent increase seemed to occur alongside attenuations and increases in phosphocreatine, but not glycogen, which declines in the last measurement.[343]
 
+
 Creatine supplementation appears to attenuate decreases in GLUT4 expression seen with immobility and may increase GLUT4 expression during exercise. While it seems capable of increasing GLUT4 during resting conditions, it has failed to reach significance, suggesting that creatine supplementation works best with some stimuli associated with exercise.
+
 
 It is known that intracellular energy depletion (assessed by a depletion of ATP) stimulates AMPK activity in order to normalize the AMP:ATP ratio,[346][347] and when activated AMPK (active in states of low cellular energy[348] and colocalizes with creatine kinase in muscle tissue[349]) appears to inhibit creatine kinase via phosphorylation (preserving phosphocreatine stores but attenuating the rate that creatine buffers ATP). While phosphocreatine technically inhibits AMPK, this does not occur in the presence of creatine at a 2:1 ratio.[347] It seems that if the ratio of phosphocreatine:creatine increases (indicative of excess cellular energy status) that AMPK activity is then attenuated, since when a cell is in a high energy status, there is less AMP to directly activate AMPK.[347][349][350]
 
 Inducing a creatine deficiency, despite its negatives, is able to activate AMPK at higher than normal levels,[351][352] similar to how abolishing mTOR (a regulator of muscle protein synthesis that is also antagonistic to AMPK) causes a relative increase of AMPK activity.[353]
 
+
 Cellular systems active in high energy conditions (mTOR, creatine kinase) are negative regulators of cellular systems active in low energy conditions (AMPK). Due to this effect, a high cellular phosphocreatine concentration (specifically, the ratio of phosphocreatine to creatine) appears to suppress AMPK activity.
+
 
 Increasing creatine levels in skeletal muscle to 687% of baseline (0.5mM creatine, thought to be equivalent to 5g creatine[143]) doesn’t seem to per se increase glucose uptake, but increases glucose oxidation (140% of baseline)[354] which is due to a two-fold increase in the activity of α1 and α2 subunits of AMPK, a potency comparable to 1mM of the reference drug AICAR.[354] Glucose uptake associated with AMPK has indeed been noted in diabetic people who are undergoing physical exercise[355] and in contracting skeletal muscle cells,[161][343] but according to rat[356][357][358] and in vitro studies of cells not being contracted,[354] this is not a per se effect of non-exercising tissue but an augmentation of exercise-induced glucose uptake.
 
+
 Despite the above antagonism that occurs with high energy states (creatine kinase) and low energy states (AMPK), it seems that supplementation of creatine actually increases the ability of AMPK to act under conditions of physical exercise and muscle contraction.
+
 
 7.2
 
@@ -1169,17 +1321,23 @@ Glycogen
 
 Creatine is known to increase skeletal muscle cellular volume alongside increases in water weight gain.[359] Since glycogen itself also increases the osmolytic balance of a cell (draws in water)[360][361] and preliminary evidence shows a strong trend of creatine augmenting glycogen loading,[161] creatine is thought to be related to an increase in cell volume, which is known to promote glycogen synthesis.[120]
 
+
 Both creatine and glycogen seem to be positively correlated with one another in muscle cells, and when one increases the other tends to increase as well. Due to this, creatine supplementation is thought to play a role in glycogen loading and replenishment.
+
 
 Creatine has been found to increase skeletal muscle glycogen when given to sedentary adults for a loading and maintenance phase for 37 days at 2g (13.5% after five days of loading, but returning to baseline at the end of the trial). Exercise was not enforced in this study.[220] This study also noted that, despite a normalization of glycogen after the trial, total creatine and ATP was still higher than placebo,[220] and a loading protocol appears to have failed elsewhere in increasing glycogen stores in sedentary people subject to an aerobic exercise test before and after the loading phase.[362]
 
 In participants subject to glycogen depletion via exercise, it was noted that the 41% increase in glycogen in the control group (exericse and glycogen repletion diet) was increased to 53% in the context of creatine loading.[185]
 
+
 When determining how glycogen is influenced under supplementation of creatine, creatine supplementation appears to enhance the accumulation and synthesis of glycogen in skeletal muscle when coingested with carbohydrates.
+
 
 When creatine augments glycogen accumulation into muscle, coingestion with carbohydrate failed to further increase creatine loading into the muscle, relative to control. Supplementation of creatine after exercise increased intramuscular creatine levels by 37% in the nonexercised leg and 46% in the exercised leg.[185]
 
+
 Increasing glycogen replenishment rates with creatine supplementation does not appear to increase the amount of creatine that actually enters the cell.
+
 
 7.3
 
@@ -1187,7 +1345,9 @@ Blood Glucose
 
 In otherwise sedentary and healthy men given a loading phase of creatine followed by 11 weeks of maintenance, the glucose response to an oral glucose tolerance test is reduced by 11-22% (measurements at 4-12 weeks with no time dependence noted) which was not associated with changes in insulin levels or sensitivity.[363] Elsewhere, a study in vegetarians (5g daily for 42 days) failed to find a reduction in postprandial blood glucose.[364]
 
+
 The glucose response to a meal is either attenuated or not affected by creatine supplementation.
+
 
 7.4
 
@@ -1197,7 +1357,9 @@ When isolated with pancreatic cells, creatine appears to be implicated in being 
 
 Studies on humans investigating the insulin response to a meal have failed to find a significant influence of creatine supplementation (3-5g)[367][368] including in otherwise healthy vegetarians given 5g creatine for 42 days (no influence on fasting nor postprandial insulin levels).[364]
 
+
 Creatine appears to be able to stimulate insulin secretion in vitro (isolated pancreatic cells), but this does not appear to apply to oral creatine supplementation, since both fasting insulin and the insulin response to a meal are unchanged.
+
 
 8.
 
@@ -1209,11 +1371,15 @@ Myokines
 
 One study on 27 otherwise healthy men supplementing creatine (0.3g/kg loading for a week, 0.05g/kg thereafter for 8 weeks) with a thrice weekly exercise regiment noted that alongside greater increase in lean mass and power relative to placebo at 4 and 8 weeks, myostatin in serum decreased to a greater extent with creatine (around 17% at 8 weeks, derived from graph) than it did with placebo (approximately 7%).[369] Increases in GASP-1, a serum protein that inhibits the actions of myostatin by directly binding to it,[370] were not different between groups.[369]
 
+
 A suppression of myostatin has been noted with supplementation of creatine, which is not associated with GASP-1 (which normally suppresses myostatin). This theoretically leads to an increase in muscle growth, since myostatin would suppress it.
+
 
 Supplementation of creatine during rehabilitative exercise in otherwise healthy adults has been noted to suppress an increase in myogenin protein content, yet increase MRF4 protein content, with no apparent influence on Myf5 or MyoD.[371]
 
+
 Some alterations in local myogenic signaling factors have been noted with creatine supplementation, but the exact role and significance of these effects is not yet known.
+
 
 8.2
 
@@ -1223,13 +1389,17 @@ In regard to carbohydrate oxidation during exercise, it appears that rats subjec
 
 In humans, supplementation of 2g creatine for six weeks after a five day loading period has failed to alter performance in aerobic cycling tests[218] and does not alter the rate of whole body oxidation (a measure of metabolic rate during exercise).[218]
 
+
 Creatine is used up as energy during high intensity exercise. Due to this usage, the amount of glucose required from glycogen is decreased a bit. This both preserves glycogen concentrations in skeletal muscle and reduces lactate production, which is produced when glucose is oxidized for energy. There do not appear to be any alterations in the bioenergetic status of muscle cells during low to moderate intensity exercise.
+
 
 Homocyteine (normal serum range of 5-14µM) is known to adversely affect motor control in genetically susceptible people when their levels exceed 500µM, which is usually associated with genetically induced deficiencies of B12.[373][374] In these particular instances (assessed by rats fed homocysteine to increase serum levels to such a high level[375][376]) it appears that administration of 50mg/kg creatine (injections) to these rats can protect dysfunction in muscle metabolism (pyruvate kinase activity, Krebs cycle intermediates, and muscle cell viability) induced by homocysteine.[376]
 
 Homocysteine is produced during exercise due to creatine synthesis,[377] in otherwise healthy people[378] and in older sedentary men,[379] although only very mildly and not to clinically relevant levels. Creatine can reduce this mild increase during both anaerobic and aerobic exercise in rats.[45]
 
+
 Creatine may protect muscle cells in instances of very elevated homocysteine (B12 deficiencies and genetic defects) based on preliminary animal evidence. Although it can also prevent a homocysteine increase from exercise, the increase in homocysteine from exercise appears to be very small and this likely is not a practical concern.
+
 
 8.3
 
@@ -1243,7 +1413,9 @@ Power Output
 
 A meta-analysis of 16 studies conducted on creatine and its influence on power and strength,[381][382] (with or without exercise in all age groups above 16, but placebo controlled and without crossover[381]) compiled studies utilizing a 5-7 day loading period with continued maintenance thereafter and studies assessing 1-3 rep bench press strength in trained young men. Seven studies (four of which are online[383][384][385][386]) totaling 70 people using creatine and 73 people in placebo showed a 6.85kg increase in strength relative to placebo, the benefits of which peaked at 8 weeks.[381] This meta-analysis also quantified a significant increase in squat strength (9.76kg) yet failed to find a significant influence on peak bicep contraction power, which may have been influenced by the two null studies[387][388] being in elderly people while the positive study[389] was statistically outweighed, but noted an 1.8-fold increase in power associated with creatine over placebo. The other meta-analysis conducted the following year[382] calculated effect sizes for creatine supplementation and noted no significant differences between genders or when comparing trained and untrained individuals. The mean effect size of exercises lasting below 30s (those that use the creatine-phosphate system) was 0.24+/-0.02 and performed significantly better than placebo, where exercise increased performance by 4.2+/-0.6% while the addition of creatine enhanced this effect to 7.5+/-0.7%.[382]
 
+
 According to the two meta-analyses on the topic, creatine significantly increases power when supplemented in both sexes over a period of time up to 8 weeks, during which improvement over placebo is maintained, rather than being enhanced further. The rate at which power is derived from a resistance training regimen appears to be up to 78.5% greater with creatine relative to placebo, and in active trained men who are naive to creatine, this can be quantified at about 7kg for the bench press and 10kg for the squat over 8 weeks.
+
 
 8.5
 
@@ -1269,13 +1441,17 @@ Nutrient Timing and Dosing
 
 One study in swimmers using 2g of creatine daily failed to find an increase in skeletal muscle creatine content and did not find any alterations in skeletal muscle metabolism during exercise relative to placebo.[396]
 
+
 The lowest dose of creatine sufficient to increase muscular creatine stores in otherwise healthy but sedentary people (2 grams) appears to be insufficient for athletes.
+
 
 In otherwise healthy bodybuilders, supplementation of creatine at 5g either immediately before or after a weight training session (with no directive on days without training) over the course of four weeks noted that while both groups improved, there was no significant difference between groups overall.[397] This null result has been found in another study with 0.1g/kg creatine thrice weekly over 12 weeks in otherwise healthy adults.[398] It has been suggested that post-workout timing may be favorable (based on magnitude-based inference) since more individuals experience benefits with post-workout when compared to pre-workout despite no whole-group differences.[397] 
 
 In contrast to the above null effects, ingestion of creatine both before and after a workout (alongside protein and carbohydrate) over 10 weeks seems to promote muscle growth more than the same supplement taken in the morning, farther away from the time of the workout.[399] The benefits of creatine around the workout, relative to other times, have been hypothesized[400] to be related to an upregulation of creatine transport secondary to muscle contraction, a known phenomena.[161]
 
+
 The benefits of creatine supplementation appear to be more prominent when taken closer to the resistance training workout than when compared to supplementation at other times of the day. Currently, it seems this benefit applies equally to taking creatine before the workout and/or after the workout.
+
 
 8.8
 
@@ -1299,15 +1475,21 @@ One study in elite swimmers subject to sprints (varying in length from 25-100m) 
 
 The majority of studies have used nothing but a loading period and the duration, overall, was about a week. This is partially because one study that noted benefit with a loading period failed to note benefit with prolonged supplementation.[164] Lowballing supplementation at 2g a day in high active swimmers does not appear to be sufficient to alter any function in skeletal muscle.[396]
 
+
 If there are any benefits for swimming performance from creatine supplementation, they appear to be limited to a 50 meter sprint or a handful of 50 meter sprints with short intermissions. Excessive sprinting (over six sprints with short breaks) or too long of a break (five minutes rather than two) seem to not be associated with the benefits of creatine supplementation.
+
 
 In elite swimmers, 20g of creatine for five days followed by 3g (with 7g glucose) for 22-27 weeks before another loading session failed to improve performance during training sessions (measured by training volume) during the maintenance phase and failed to improve either sprint or endurance performance relative to placebo.[418]
 
+
 A study using a loading and maintenance phase in elite swimmers during their competitions (rather than a controlled experimental environment) has failed to find benefit with supplementation of creatine.
+
 
 As mentioned earlier, supplementation of creatine in youth has been noted to improve the swim bench test (a thirty second sprint followed by another after a five minute break).[412] One study noted improvement when examining a 400 meter test after 10g of creatine was taken over seven days with some orange juice. The improvement was mostly attributable to increased performance on the last 50m stretch.[419]
 
+
 Contrary to the popular belief that creatine only enhances short term performance, in swimmers it appears that more prolonged swimming trials see benefit with creatine supplementation by preserving performance in the final stretches.
+
 
 8.10
 
@@ -1317,7 +1499,9 @@ The recovery period between sprint sets is known to be associated with phosphocr
 
 Creatine supplementation at 300mg/kg for one week (loading with no maintenance) in youth subject to six repeated 35m sprints (10s rest, known as the Running-based Anaerobic Sprint Test or RAST) noted that the increased average and peak power output seen in creatine was not met with a reduction in fatigue, although there was an attenuation in inflammation from exercise (TNFα and CRP).[312]
 
+
 When examining repeated sprinting tests (sprint, rest a minute or less, repeat) the rate of phosphocreatine resynthesis appears to be a positive influence on performance and supplemental creatine appears to be beneficial.
+
 
 Creatine supplementation appears to be effective at increasing power output in anaerobic cardiovascular exercise,[422][423][424][425] and has been implicated in increasing the lactate threshold as well as time to volitional fatigue within 6 days after stating supplementation (20g daily, divided into 4 doses with 15g glucose).[426]
 
@@ -1333,7 +1517,9 @@ In well-trained endurance runners, creatine (with glycerol for hyperhydration) c
 
 One study noted improvements in VO2 max, but was conducted in people with chronic heart failure and was confounded with another nutraceutical (COQ10 terclatrate).[431]
 
+
 When examining studies with prolonged cardiovascular exercise (ie. jogs and marathons, but not sprints) creatine supplementation has failed to show significant improvement, although it seems that the potential ergogenic benefits (too small to be statistically significant) may prevent the weight gain from creatine from suppressing performance.
+
 
 9.
 
@@ -1345,7 +1531,9 @@ Osteoblasts
 
 Osteoblast cells are known to express creatine kinase.[47][432] Bone growth factors such as IGF-1,[433] PTH,[434] and even Vitamin D[435][436] seem to induce bone growth alongside increases in creatine kinase activity. Vitamin D has been noted to work indirectly by increasing the cellular energy state (these hormones increase creatine kinase in order to do so) in order to make bone cells more responsive to estrogen.[435] This evidence, paired with enhanced growth rates of osteoblasts in the presence of higher than normal (10-20mM) concentrations of creatine[437] suggest a role of creatine in promoting osteoblastic and bone growth, secondary to increasing energy availability.
 
+
 A higher energy state in osteoblasts (via either higher creatine kinase activity or increase ATP availability) appears to be positively associated with greater growth and differentiation, and creatine incubation in osteoblasts appears to be sufficient to enhance the cellular energy state.
+
 
 9.2
 
@@ -1355,7 +1543,9 @@ In otherwise healthy adults subject to leg immobilization for two weeks while ta
 
 The results mentioned above differ from other study results, where creatine at the loading dose (20g) for a week prior to one week of arm immobilization was able to attenuate lean mass. This study never specified muscle cross sectional area or water weight, however.[438]
 
+
 Creatine supplementation does not appear to reduce the rate of muscle loss during immobilization, but appears to enhance muscular rehabilitation afterward.
+
 
 In older individuals subject to knee arthroplasty, 10g of creatine for the ten days leading up to surgery and 5g each day afterward did not modify weight loss from the surgery, nor was recouperation (assessed by walking distance) enhanced with creatine supplementation.[439]
 
@@ -1381,7 +1571,9 @@ In young rats given creatine in the diet at 2% of the diet for eight weeks, supp
 
 In spontaneously hypertensive rats (reduced bone mass since they peak earlier and overall accrue less bone mass before degradation occurs[443]), creatine supplementation at 0.5% of the young rat’s diet over nine weeks failed to significantly influence bone mineral content or density.[444]
 
+
 Animal evidence at this moment shows promise for creatine’s effects on bone mass, but a study in spontaneously hypertensive rats failed to find any benefits for unknown reasons.
+
 
 10.
 
@@ -1397,7 +1589,9 @@ The reasons for differences in the effect of creatine on testosterone vs. DHT ac
 
 The effects observed after low doses of creatine seem to be more chronic in nature, as low-dose creatine supplementation has not been shown to acutely increase androgen levels.[447] However, acute dosing of creatine at higher levels (100mg/kg) has been shown to elicit a moderate increase in testosterone levels.[448]
 
+
 Creatine has been shown to have a subtle but positive effect on androgen levels in men. The particular androgen, (testosterone vs. DHT) and the extent to which it is affected tends to vary by study. The effects of creatine on androgen levels in women are unknown, as no studies on women in this context currently exist.
+
 
 10.2
 
@@ -1407,7 +1601,9 @@ A pilot study in otherwise healthy men at rest given a single bolus of 20g creat
 
 In elite swimmers, the growth hormone response to sprints appears to be attenuated (39%) following creatine loading, although after a 3g maintenance phase (22-27 weeks), this attenuation was reduced to less than 5%.[418] Elsewhere in swimmers, resting growth hormone was unaffected by the loading phase,[411] suggesting that this is an exercise-exclusive effect.
 
+
 Creatine may increase growth hormone secretion at rest while being able to blunt exercise-induced growth hormone secretion somewhat. The blunting effect is small in magnitude in maintenance and larger during loading. This is similar to the interactions with arginine and growth hormone.
+
 
 10.3
 
@@ -1441,11 +1637,15 @@ Macrophages are known to express creatine kinase[303] and take creatine up from 
 
 The process of phagocytosis (a macrophage consuming a pathogen) in macrophages appears to be associated with an acute reduction in creatine phosphate stores (45%)[451] and an increase in creatine kinase activity,[303] although prolonged stimulation is met with an increase in creatine phosphate (20%).[303] The creatine kinase activity does not appear to be altered based on creatine availability,[303] but since ATP seems to be preserved in these instances,[451][303] the increase in phosphocreatine may be explained by an overall creatine pool paralleling that found in medium.[303]
 
+
 The process of phagocytosis in macrophages appears to require ATP, and since ATP is stable during the process of phagocytosis, yet phosphocreatine is depleted, it appears that creatine is the major fuel source for macrophages.
+
 
 Creatine and creatinine (100µM in RAW264.7 macrophages) both seem to downregulate the TLR2 receptors, mRNA, and protein levels to less than half of control, with TLR4 and TLR7, but not TLR3, having similar suppression by creatine, but less by creatinine.[452] Creatine has been noted to be anti-inflammatory.[453]
 
+
 Creatine and creatinine may have some anti-inflammatory and/or immunosuppressive activities on macrophages, associated with suppressing the receptors that respond to inflammation. Practical significance of this information is not known at this time.
+
 
 11.2
 
@@ -1453,7 +1653,9 @@ Neutrophils
 
 Neutrophils are known to produce ATP from lactate derived from extracellular glucose. There is a small glycogen content in the neutrophil, to be drawn from during periods of no glucose availability.[454] There also appears to be phosphocreatine content present, but it may be too small to be relevant.[454]
 
+
 Neutrophils express the creatine kinase system, but at very low levels, which may not be practically relevant.
+
 
 11.3
 
@@ -1475,11 +1677,15 @@ In a mouse model of allergin-induced asthma, where mice were sensitized by ovalb
 
 It was later noted that creatine was able to nonsignificantly augment various proinflammatory cytokines (CCL2, iNOS, ICAM-1, TGF-β, TIMP-1) and the presence of eosinophils in lung tissue, as well as to per se cause lung infiltration of these immune cells without requiring the presence of the allergen.[457] Neutrophils and macrophages were unaffected,[457] reflecting the past study of no influence on macrophages,[455] but the only instance where creatine appeared to either significantly add to ovalbumin or to per se induce statistically significant increases were in IL-5 secretion and goblet cell infiltration, although VCAM-1 expression was close. While creatine per se increased nF-κB activity, it suppressed the ovalbumin-induced increase.[457]
 
+
 Preliminary animal research suggests a possible minor proallergic role for creatine, which needs further research.
+
 
 It was later noted that low to moderate intensity aerobic exercise itself was able to induce protective effects against the aforementioned allergic changes[458] and was able to prevent creatine supplementation (500mg/kg) from exerting these deliterious effects on lung tissue in mice.[459]
 
+
 Aerobic exercise will inherently cause anti-allergic effects in the lungs, and it appears that it can override the allergen-sensitizing effects of creatine supplementation.
+
 
 12.
 
@@ -1493,7 +1699,9 @@ Creatine has been incubated in various cell lines (HUVEC, C2C12, U937) and noted
 
 This protection in muscle cells has been noted to preserve cell structure and the concentrations of muscle building factors (MyoD, MRF2, IGF-1). This was not observed with general antioxidants such as Trolox or N-acetylcysteine, despite all three preserving ATP.[460]
 
+
 Creatine preincubation in a cell appears to confer protection against oxidant stresses, and a direct antioxidant mechanism (like Vitamin C) is unlikely, since it needs to be preloaded prior to the stressor and does not work in a rehabilitative manner.
+
 
 12.2
 
@@ -1515,11 +1723,15 @@ DNA Damage
 
 Despite creatine not interfering with UV(A) irradiation acting upon a cell or the production of oxidation due to it, creatine appears to prevent the functional consequences (such as mitochondrial DNA damage) due to preventing an ATP depletion in the cell, which would normally precede a reduction in mitochondrial membrane potential and mutagenesis, but this effect is prevented for as long as creatine stores are sufficient.[461] Creatine has also been noted to near-fully protect mitochondrial DNA from hydroxyl radicals and oxidative damage, although there was no protective effect for nuclear DNA, due to it being less sensitive to hydroxyl radicals.[462]
 
+
 The energy buffering ability of creatine appears to able to protect cells from excessive DNA damage induced by free radicals, which seem to, in part, work through ATP depletion. This appears to be more protective of mitochondrial DNA than it is of nuclear DNA.
+
 
 The increase in DNA damage caused by a single bout of physical exercise, assessed by urinary 8-OHdG, appears to be partially attenuated by a creatine loading phase for seven days in otherwise healty people, with testing immediately after, compared to placebo.[463]
 
+
 Limited evidence suggests creatine supplementation results in a reduction, but not abolishment, of DNA damage caused by physical exercise.
+
 
 13.
 
@@ -1531,13 +1743,17 @@ Adjuvant Therapy
 
 In rats experiencing toxic levels of doxorubicin (a chemotherapeutic agent), creatine supplementation at 0.2g/kg for 30 days appeared to significantly protect rats from death and reduced serum levels of LDH and ALT. The two enzymes were further reduced with the addition of 0.25mg/kg Vitamin C and 400IU/kg Vitamin E.[464]
 
+
 In rats, creatine supplementation appears to attenuate the damage induced by cytotoxic agents.
+
 
 In children with lymphoblastic leukemia maintaining corticosteroid chemotherapy, creatine monohydrate at 0.1g/kg is able to significantly attenuate the chemotherapy-induced gain in fat mass over 16 weeks.[465]
 
 In a sample of people with colorectal cancer given creatine supplementation for 8 weeks to assess its interactions with chemotherapy, creatine failed to benefit muscle function or quality of life. Benefits were observed in body cell mass and phase angle (indicative of cellular viability), but only in the subsample with less aggressive chemotherapy.[119]
 
+
 Creatine supplementation appears to have some minor protective effects on humans undergoing chemotherapy, where it has reduced fat gain from chemotherapy (leukemia) and has improved some biomarkers of cell viability.
+
 
 13.2
 
@@ -1545,21 +1761,29 @@ Mechanisms
 
 Several review studies assessing the safety of creatine supplementation tend to make note of increases in formaldehyde and possible carcinogenic results.[466][467] Specifically, creatine is metabolized into an intermediate called methylamine, which can be converted to formaldehyde by the SSAO enzyme.[468] An increase in urinary formaldehyde has been noted in youth given 21g of creatine for one week, during which both methylamine (820% increase) and formaldehyde (350%) were increased, relative to control.[469] However, a more prolonged study using 300mg/kg (loading dose of around 20g) in adults for ten weeks failed to replicate these effects.[470]
 
+
 It has been thought that creatine metabolism can cause formaldehyde production, but this has failed to occur at an appreciable level during chronic supplementation, despite a transient increase with acute intake. This effect suggests adaptation.
+
 
 Anti-cancer effects have been observed with the creatine analogue cyclocreatine[471][112][472] and have been replicated with creatine itself. These effects tend to be a reduction in which the rate of implanted tumors progresses.[473][474] It is suspected that these observed effects (inhibition of growth or attenuation of the rate of growth) are not due to the bioenergetic effect of creatine, secondary to creatine kinase. These anti-cancer effects do not have a known reliability, as the expression of creatine kinase varies widely based on the type of tumor.[475] However, some studies suggest an inverse relationship between tumor progression in mice and concentrations of creatine in cells, with creatine depletion coinciding with tumor development.[475]
 
+
 The anti-cancer effects of creatine suggest it may act as an anti-tumor agent. It may also be negatively correlated with tumor production, with higher concentrations of creatine being associated with less tumor progression.
+
 
 In regard to genetic damage, creatine has been shown in vitro to reduce mitochondrial DNA damage, secondary to buffering stores of ATP. ATP depletion preceded genetic damage to mitochondrial DNA.[461] This reduction of oxidative DNA damage has been noted in vivo following a short loading period in people who exercise.[463]
 
 It has also been noted that supplementing creatine (which reduces internal synthesis of creatine and methylation requirements) preserved folate and tetrahydrofolate status (42% and 23%),[325] which acted to preserve methyl groups for other processes. Despite this effect, global DNA methylation decreases by 22% (assessed by the 5-methylcytosine/cytosine ratio) following creatine supplementation, which is usually seen as an anti-cancer effect in developed mammals.[476] This study was unable to demonstrate why this reduction occured[476] and opposing effects have been noted in females with Rett syndrome supplementing 200mg/kg creatine for 1 year, during which global methylation increased, secondary to preserving other methyl donors.[477]
 
+
 Creatine appears to reduce oxidative damage to DNA, but has unclear effects on DNA methylation. Practical significance of these mechanisms in regard to cancer prevention is not clear at this time.
+
 
 Creatine supplementation appears to augment the anti-cancer effects of Vitamin C and methylglyoxal,[478] a metabolic by-product of glycolysis.[479] Methylglycoxal appears to inhibit step 1 of the electron transport chain in isolated mitochondria and cancerous mitochondria, but has not been implicated in doing so in normal tissue, as protective measures in normal cells appear to exist.[480][479]
 
+
 Creatine may by synergistic with methylglycoxal.
+
 
 14.
 
@@ -1575,13 +1799,17 @@ Creatine is known to occur in highly concetrated levels in chicken photoreceptor
 
 The glial cells in the retina (Müller cells, known to supply photoreceptors with lactate for nutrition[489]) do not appear to possess any creatine transporters[483] although they appear to express AGAT[490], GAMT,[491] and can synthesize creatine for the retina.[492] It is unknown if they have the capacity to donate creatine to photoreceptors.
 
+
 Creatine kinase is expressed in eyes. The eyes can take creatine up from the blood via two different transporters, the classic SCL6A8 (creatine transporter) and MCT12. It seems that expression of the receptors and accumulation of creatine occur in a relatively higher level in photoreceptors, which perceive color. Similarly to many other tissues, they appear to protect the cells during periods of low oxygen availability.
+
 
 There is a genetic condition known as gyrate atrophy of the choroid and retina, which is associated with a high level of Ornithine in the blood and a relative decrease in Arginine, which causes a relative creatine deficiency due to L-arginine being required to make creatine[493][494] and because high ornithine can suppress creatine synthesis (AGAT) in the glial cells of the retina.[490] This condition can be attenuated by either reducting ornithine in the diet[495] or by supplementing creatine, which is, in this instance, therapeutic.[496][497]
 
 Elsewhere, it has been noted that in chronic progressive external ophthalmoplegia (CPEO, a progressive weakening of the muscles around the eye and a mitochondrial disorder), there was a failure of creatine supplementation to benefit symptoms when subjects were provided 20g daily for four weeks.[498] Creatine supplementation failed again at 150mg/kg for six weeks in people with either CPEO or another disorder associated with single gene deletions affecting the eyes (Kearns–Sayre syndrome, KSS) in improving muscular function.[499]
 
+
 Gyrate atrophy of the choroid and retina is a genetic condition that causes high blood ornithine levels. Due to the suppression of AGAT by excessive blood ornithine levels, it causes some retinal problems. Supplemental creatine appears to attenuate the negative effects by preventing a suppression of creatine synthesis.
+
 
 14.2
 
@@ -1597,7 +1825,9 @@ The pancreas is one of the extrahepatic (beyond the liver) organs that can synth
 
 Incubation of a β-cell with additional creatine (5-10mM), even at saturated concentrations of glucose, is able to further increase insulin secretion in response to glucose, specifically as the leucine metabolite 2-ketoisocaproic acid, potassium, and a potassium channel blocker were all ineffective.[509] This has been found to occur in rats given 2% of the diet as creatine[358] but has since failed in humans given 5g of creatine.[364]
 
+
 Phosphocreatine is involved in mediating insulin secretion in response to glucose, and it appears that additional creatine should exacerbate this response in the context of isolated pancreatic cells. When tested in humans, however, it has failed to augment insulin secretion in response to a meal.
+
 
 14.4
 
@@ -1607,13 +1837,17 @@ Creatine is mostly synthesized in the liver via AGAT and GAMT[36][40] (the other
 
 This suppression of creatine synthesis is thought to actually be beneficial, since creatine synthesis requires s-adenosyl methionine as a cofactor and may use up to 40-50% of SAMe for methylation[43][44][130] (initially thought to be above 70%, but this has since been re-evaluated[130]) though the expected preservation of SAMe may not occur with supplementation.[502] Reduced creatine synthesis, via preserving methyl groups and trimethylglycine (which would normally be used up to synthesize SAMe), is also thought to suppress homocysteine levels in serum,[45] but this may also not occur to a practical level following supplementation.[502]
 
+
 Creatine is mostly synthesized in the liver. Supplementation of creatine will suppress subsequent production of creatine in the body, since high levels of creatine will suppress its own synthesis, by downregulating the enzymes of synthesis. This is a reversible suppression.
+
 
 In regard to liver fat buildup (steatosis), which is normally associated with reduced availability of S-adenosyl methionine[510][511] and a suppression in expression of genes involved in fatty acid oxidation (PPARα and CPT1), creatine supplementation at 1% of the rat diet alongside a diet that induces fatty liver is able to fully prevent (and nonsignificantly reduce relative to the control given standard diets) the aforementioned changes and the state of steatosis, as well as changes in serum biomarkers (glucose and insulin) that accompany steatosis.[133] 
 
 These protective effects are similar to those seen with trimethylglycine, since they both cause an increase in liver concentrations of phosphatidylcholine (PC, causing an increase in vLDL production and efflux of triglycerides from the liver).[512] Both TMG and creatine are thought to work indirectly by preserving SAMe concentrations,[133][513] since PC synthesis requires SAMe as well (via PEMT[514]) and genes involved in fatty acid metabolism in the liver that were not affected by the diet (VLCAD and CD36) were unaffected by creatine.[133]
 
+
 Creatine supplementation appears to be somewhat similar to TMG supplementation in the sense that they both promote localized synthesis of phosphatidylcholine, effluxing triglycerides from the liver into serum and thus potently protecting from diet-induced fatty liver. The concentration at which this occurs is within the range supplemented by humans.
+
 
 Rats beginning an exercise program are known to experience increased serum levels of some liver enzymes (ALT and GGT). Supplementation of high levels of creatine at 4% of the diet over 60 days does not modify this effect.[515]
 
@@ -1621,7 +1855,9 @@ Young adult athletes who reported creatine usage for over two years prior to the
 
 Minor liver lesions (grade I, no grade II or III, pathology not indicative of toxicity) have been studied in SOD1 G93A transgenic mice (a research model for amyotrophic lateral sclerosis or ALS, but used in this study to assess a state of chronic pro-oxidative stress) for 159 days with 2% of feed intake and in CD-1 rats (seen as normal) over 56 days with 0.025-0.5mg/kg in CD-1 mice, although in Sprague-Dawley rats (normal controls) there were no significant differences noted even after 2% of feed intake for 365 days.[518] These observations appear to be due to the strain of the rodents used,[519][518] and human studies on amyotrophic lateral sclerosis (ALS; what the SOD1 G93A transgenic mice are thought to represent) lasting from nine to sixteen months with subjects supplementing with up to 10g of creatine daily have failed to find any abnormalities in serum biomarkers of liver or kidney health.[520][521][522]
 
+
 There appear to be species-related responses to creatine supplementation in rat livers, where some strains experience non-pathological lesions, which are minor, but indicative of hepatitis. These do not appear to influence all strains, and the human condition it is thought to mimick, ALS, does not appear to be negatively affected.
+
 
 14.5
 
@@ -1635,7 +1871,9 @@ Nephrectomized rats may have significantly reduced creatine synthesis rates[524]
 
 Han:SPRD‐cy rats (human polycystic kidney disease model[529][530]) have pre-existing renal damage, which is accelerated upon ingestion of creatine supplementation at 0.3% of the diet for five days and 0.03-0.05% for the next 35 days (equivalent to human loading and maintenance).[531] During this particular disease state, renal water content and size progressively increases.[529][530] Since creatine supplementation furthered the increase by an additional 2.1%, it was thought that this property of creatine explained the 23% increased cyst scores seen relative to control.[531]
 
+
 There are mixed rodent reports regarding pre-existing kidney damage seen with creatine supplementation. The rat genetic model intended to reflect human polycystic kidney disease has been associated with an increased rate of kidney damage. Nephrectomy (removal of portions of the kidney) does not appear to have any effect.
+
 
 When looking specifically at human studies, there has been a failure of creatine supplementation to induce or exacerbate kidney damage in people with amyotrophic lateral sclerosis (ALS). Subjects do not experience kidney damage for up to or over a year’s worth of supplementation in the 5-10g range.[532][533][534] Postmenopausal women,[535] people with type II diabetes,[536] people on hemodialysis,[537] otherwise healthy elderly,[538] young people,[539][540][541] and athletes do not experience kidney damage either.[542] Moreover, numerous scientific reviews on both the long- and short-term safety of supplemental creatine have consistently found no adverse effects on kidney function in a wide range of doses.[543][544][545][546][547][548][549][550] However, while doses >10 g/day have been found not to impair kidney function, there are fewer long-term trials using such high chronic daily intakes.[550]
 
@@ -1643,7 +1881,9 @@ In people whose kidneys don’t function optimally, supplemental creatine seems 
 
 Finally, since creatine can increase water retention, it could theoretically harm people whose kidney disorder is being treated with diuretics, which cause water loss.[550]
 
+
 Most, if not all, humans studies on creatine supplemenation have failed to find any significant damage to the kidneys as assessed by non-creatinine biomarkers (blood urea or urinary proteins) or the rate of glomerular filtration.
+
 
 15.
 
@@ -1657,13 +1897,17 @@ Creatine concentration is normally increased in the placenta and brain in the mi
 
 Supplementation of creatine by the mother is known to increase creatine content of the placenta (105% above control) and some tissues of the fetus, including the brain (3.6%), heart (14%), kidney (22%), and liver (37%). This study provided the mother with a diet that contained 5% creatine from the midpoint of pregnancy to term.[555]
 
+
 When the mother (rodent, no human studies) supplements creatine, the creatine can reach the fetus and is thought to confer protective and growth-enhancing effects. Supplementation of creatine does not impair creatine synthesis in the fetus when ingested in the latter half of pregnancy.
+
 
 Injections of creatine are known to be neuroprotective against low oxygen levels (hypoxia) even to neonatal rats.[556] This is thought to be associated with the increased collective pool of phosphocreatine and creatine.[249] Since oral ingestion of creatine by the mother increases brain concentrations of creatine by 3.6% in the fetus prior to birth,[555] it is thought to be protective in the fetuses subject to hypoxic (low oxygen) stressors, such as a caesarean section.
 
 When creatine is increased in the fetus (from maternal supplementation of 5% creatine), the fetus has a greater chance of survival and increased growth rates to a level not significantly different than vaginal birth.[555] Protection from hypoxia has also been noted in the offspring’s diaphragm (through preserved muscle fiber size),[557] kidneys,[558] and neural tissue (due to less oxidation in the brain and less cellular apoptosis).[559]
 
+
 It appears that maternal supplementation of creatine from the midpoint of pregnancy until term, at least in rodents, is able to protect the fetus from damage associated with low oxygen (ie. a caesarean section).
+
 
 16.
 
@@ -1679,7 +1923,9 @@ The increased cellular storage of creatine may also confer antioxidative effects
 
 A study using creatine at 0.02% of a face cream (confounded with 8% glycerol and 0.4% Guarana) was able to exert a skin-tightening effect over 6 weeks, reducing wrinkles and jowl volume.[565] Combination therapy has also been used with creatine and folic acid (both in vitro[567] and in vivo), resulting in increased skin firmness and reduced coarse and fine wrinkles.[568]
 
+
 Creatine may play a role in topical anti-aging skin products with a concentration of about 0.02% of the cream, and theoretically can enhance the effects of other agents by providing more energy for a skin cell to use. Creatine may inhernetly have a pro-collagen effect, reduce wrinkle formation, and improve skin integrity.
+
 
 17.
 
@@ -1695,13 +1941,17 @@ The first published results (not blinded) noted that a loading phase of 20g of c
 
 Some studies have failed to find improvements in MVIC (in regard to attenuating the decline over time) with 10g daily over 16 months,[520] with 5g daily (after a five day loading phase) for six months,[521] and 5g daily over nine months.[522]
 
+
 The shortest and most preliminary study noted that, over the short term, creatine delivers on its expected improvement in physical strength. However, longer studies that measure the rate of loss for muscle function (deterioration of muscular capacity that is known to occur with ALS) have repeatedly failed to find a benefit with creatine supplementation.
+
 
 One study lasting 16 months using 10g creatine daily alongside the pharmaceutical riluzole noted that, after 34 of the patients died from ALS, creatine failed to exert protective effects against ALS-related mortality (adjusted hazard ratio of 0.78 with a 95% CI of 0.47–1.48[520]). A smaller study measuring only eight deaths noted that the six in placebo (relative to two in creatine) was too small of a sample size to detect a statistically significant difference.[521] A nonsignificant trend to increase survival has been noted elsewhere with 5g of creatine daily with a similar ratio: 3 deaths in placebo to 1 death in creatine.[522]
 
 The first open label trial on ALS failed to significantly alter lung function as assessed by FEV (when comparing the rate of decline pretreatment relative to treatment).[569] Creatine has elsewhere failed to benefit lung function at 5g daily for months relative to control[570] and failed to significantly attenuate the rate of lung function deterioration over 16 months at 10g daily[520] and 5g daily over nine months.[522]
 
+
 Parameters of lung function (main cause of death in ALS is declining respiratory function) have not benefited after creatine supplementation, and when quality of life is measured, there is no benefit either. Despite one study failing to find any significant differences in mortality risk, two other studies have suggested that creatine may reduce the risk. The results were nonsignificant, but due to all treatments being well tolerated it is thought that creatine may still play a role as an adjuvant.
+
 
 17.2
 
@@ -1713,7 +1963,9 @@ A loading phase of 10g creatine monohydrate for two weeks and 4g for the final w
 
 Studies investigating patients with mixed mitochondrial myopathies who have reported creatine usage (not controlled trials) have noted benefits, such as 12% improvement in steady-state cycling performance with doses in the range of 100-350mg/kg.[577] 
 
+
 Creatine does not have very strong evidence to support its use for the treatment of mitochondrial myopathies, but it seems to benefit pretty much all patients in terms of improving physical performance and quality of life.
+
 
 17.3
 
@@ -1723,7 +1975,9 @@ Duchenne’s Muscular Dystrophy (DMD) is associated with a reduction in intracel
 
 A study showed that 100mg/kg creatine monohydrate daily over four months supplemented by boys with DMD is able to enhance handgrip strength in the dominant hand only (less than 10% increase) and increase whole-body lean mass. While the trend toward whole body strength reduction seen in placebo was ablated and there was no interaction with corticosteroids,[584] this study failed to find an influence on activities of daily living or lung function.[584] Elsewhere in children not on corticosteroids with DMD, supplementation of 5g creatine for eight weeks was confirmed to increase muscular phosphocreatine content[578] and according to a manual muscle test (MMT) there was a significant improvement in muscular function relative to placebo, with more parents reporting benefit with creatine (53.8%) relative to placebo (14%).[578]
 
+
 There appear to be mild therapeutic benefits associated with low doses of creatine supplementation in children with Duchenne’s Muscular Dystrophy, as power output and parent-rated symptoms both improved relative to placebo.
+
 
 17.4
 
@@ -1733,7 +1987,9 @@ Myotonic Dystrophy type I (DM1) is an inhereted muscular disorder caused by an e
 
 Creatine is thought to be therapeutic due to a pilot study on an assortment of neuromuscular diseases (91 patients in total, 15 of which had congenital myotonias) during which there was an overall increase in strength.[588]
 
+
 Myotonic dystrophy is a genetic disorder resulting in physical frailty, somnolence, and reduced physical functioning in everyday life.
+
 
 In patients with DM1 given a short loading phase (10.6g for ten days) followed by a 5.3g maintenance for the remainder of an 8-week trial noted that supplementation resulted in a minor improvement in strength (statistical significance only occurred since placebo deteriorated) and no significant difference was noted in self-reported perceived benefits.[589] Maintaining a 5g dosage for four months also failed to significantly improve physical performance (handgrip strength and functional tests) in people with DM1, possible related to a failure to increase muscular phosphocreatine concentrations.[590]
 
@@ -1741,7 +1997,9 @@ Elsewhere, a pilot study in people who met the diagnostic criteria for myotonic 
 
 The failure of creatine to improve physical performance in these conditions is thought to be related to the myopathies in general, which are known to result in less phosphocreatine in skeletal muscle,[592] associated with reduced expression of the creatine transporter.[593] As creatine has once been noted to not accumulate in the skeletal muscle of people with DM1 given supplementation,[590] it is thought that the subjects did not respond to therapy.
 
+
 Creatine supplementation has once been noted to improve wellbeing and fatigue resistance in people with DM2, but has twice failed for people with DM1. In all three studies, it has failed to improve power output. This is thought to be due to a reduction in the expression of the creatine transporter preventing an increase in muscular phosphocreatine content.
+
 
 17.5
 
@@ -1753,7 +2011,9 @@ One pilot study using 150mg/kg creatine monohydrate for a five day loading phase
 
 It was hypothesized[572] that this negative effect could be due to proton uptake from phosphocreatine degradation, since people with McArdle’s disease may have impaired regulation of intracellular acidosis.
 
+
 McArdle’s disease is a myopathy associated with impaired glucose release from glycogen and impairments in muscle function at times when glucose would be the primary energy substrate. Creatine is thought to be therapeutic, but has shown differing effects in the two trials so far (both benefit and worsening of symptoms) for currently unknown reasons.
+
 
 17.6
 
@@ -1769,7 +2029,9 @@ Creatine supplementation is being explored as a treatment for sarcopenia, the pa
 
 In a study using lifelong creatine supplementation in SAMP8 mice (a model used to research aging), no significant preventative effect was found on sarcopenia rates at 2% dietary intake.[602]
 
+
 Preliminary evidence for the usage of creatine to prevent sarcopenia has not been promising, as rodent research has failed to find a protective effect.
+
 
 17.8
 
@@ -1777,7 +2039,9 @@ Cystic Fibrosis
 
 In a pilot study on youth with cystic fibrosis, supplementation of creatine at 12g for a week and 6g for eleven weeks afterward was associated with a time-dependent increase in maximal isometric strength reaching 14.3%, which was maintained after 12-24 weeks of supplement cessation (18.2% higher than baseline).[500] This study noted that more patients reported an increase in wellbeing (9 subjects, 50%) rather than a decrease (3, 17%) or nothing (6, 33%) and that there was no influence on chest or lung symptoms.[500]
 
+
 Creatine appears to increase wellbeing (quality of life) and physical strength in youth with cystic fibrosis, but it does not appear to confer benefits for the primary chest and lung symptoms associated with the disease.
+
 
 17.9
 
@@ -1796,7 +2060,9 @@ Due to its antidepressive properties, creatine supplementation has been investig
 
 One open-label study in resistant depression where 10 depressive patients (two of which had bipolar disorder) were given 3-5g creatine daily for four weeks found that both kinds of patients experienced hypomania/mania development, which is associated with creatine supplementation.[269]
 
+
 While there is no controlled evidence for the effects of creatine on bipolar symptoms, the lone pilot study suggests that supplementation could be causative of hypomanic symptoms in bipolar people.
+
 
 18.
 
@@ -1816,13 +2082,17 @@ Caffeine
 
 In vitro studies on endothelial cells have noted that the benefits of creatine against atherosclerosis (via immune cell adhesion to the endothelial cell) are blocked with the pharmaceutical ZM241385, a high affintiy adenosine A2A receptor antagonist.[329] This particular receptor subset (A2A rather than other adenosine receptors) and its inhibition are similar to caffeine,[613] suggesting that caffeine may have an inhibitory effect on this mechanism of creatine.
 
+
 Although the anti-atherosclerotic properties of creatine are not well-studied at this point in time, they appear to be dependent on the A2A receptor (caffeine’s target) not being inhibited.
+
 
 Co-ingesting creatine with caffeine partially negated the benefits of creatine supplementation (at 5mg/kg bodyweight) during the loading phase in one study.[614] The exact mechanism responsible for this effect is not known, but might be related to opposing actions on muscle contraction time.[615] However, another study in trained men found that co-ingestion of 300mg caffeine per day during creatine loading at 20g per day (split into 4 doses) had no effect on bench press 1RM, time to fatigue, or sprinting ability.[616] However, this study also found that creatine alone or when combined with caffeine had no effect on any of these parameters over placebo, either. Thus, the study may have been underpowered or done in too short a time frame (the test was done after only 5 days of loading) to observe any possible effects.[616]
 
 However, caffeine does not negate the benefits of creatine loading when not coingested, but just taken before exercise in the same dosage.[617] This result indicates that loading creatine without caffeine on a daily basis, but saving caffeine for select workouts, may be an effective strategy, as creatine does not adversely affect caffeine’s ergogenic effects[617][618] and may enhance creatine’s effectiveness in anaerobic exertion if the two compounds are alternated.[619]
 
+
 The effects of creatine and caffeine coingestion when it comes to human interventions on physical performance are not yet clear.
+
 
 18.3
 
@@ -1844,7 +2114,9 @@ Trimethylglycine (TMG, betaine) is a dietary supplement and component of beetroo
 
 The one study to investigate this claim noted that the addition of 2g of supplemental TMG to 20g supplemental creatine failed to outperform creatine by itself in terms of increasing muscular creatine stores or power output.[623]
 
+
 Although TMG is indirectly involved in the synthesis of creatine, the evidence at this point does not support an additive nor synergistic role of TMG supplementation alongside creatine.
+
 
 18.6
 
@@ -1888,11 +2160,15 @@ Case Studies
 
 One case study exists of a man with focal segmental glomerulosclerosis who experienced an accelerated rate of GFR decline during supplementation (5g thrice daily for loading, then a 2g maintenance for seven weeks) which was partially reversed upon supplement cessation. This was deemed strong circumstantial evidence, and the brand of supplement was not named.[641] Elsewhere, interstitial nephritis associated with creatine supplementation has been reported in a man, although symptoms arose four weeks after supplementation started with no evidence to support correlation.[642] Some studies involving athletes and various dietary supplements have attempted to draw a correlation with creatine and cases of rhabdomyolysis.[643][644][645][646] Finally, one study in a diabetic person ingesting both metformin and creatine resulting in metabolic acidosis has attempted to place causation on creatine, but it did not establish causation or circumstantial evidence.[647]
 
+
 There are numerous case studies on the interactions of creatine and possible negative effects on the liver, but with the exception of Pritchard and Kalra (study on glomerulosclerosis) all other case studies have failed to provide the minimal evidence to suggest an existing relationship between creatine and the observed effects.
+
 
 One case study exists in which a man with a single damaged kidney (low GFR) supplemented creatine at 20g for a period of five days and then a maintenance period for 30 days. Supplementation failed to cause any kidney damage, despite the subject eating a diet very high in protein (2.8g/kg).[528]
 
+
 One case study suggests that a single impaired kidney is not negatively affected by creatine supplementation at the standard loading and maintenance dosage when monitored for just over a month.
+
 
 19.4
 
@@ -1900,5 +2176,7 @@ Clarification on Kidneys
 
 Creatine is normally metabolized into creatinine (note the difference in spelling), which is eliminated by the kidneys under normal conditions. When the kidneys fail and cannot clear the blood as effectively, many metabolites get “backlogged” in the blood. Creatinine is easy to measure and as such it is a biomarker of kidney damage.[648][649] If serum creatinine levels are elevated, the doctor may suspect some kidney damage. Low-dose creatine (≤5 g/day) may not cause alterations in this biomarker in otherwise normal adults[545][650][547] but high doses of supplemental creatine may cause a false positive (an increase in creatinine, due to creatine turning into creatinine, which does not signify kidney damage) and is a diagnostic error.[540][536][651][544][535] Most studies, however, have noted only a small increase in creatinine levels even with doses ≈20 g/day.[545][651][652]
 
+
 Kidney damage (from anything) will cause high levels of creatinine in blood, and creatine can also increase blood creatinine levels in a manner that is not due to damaging the kidneys. This results in a false positive when trying to diagnose kidney damage when the subject also supplements creatine, and does not signify any actual damage to the kidneys.
+
 

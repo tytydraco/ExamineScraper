@@ -181,7 +181,9 @@ rejuvenative herbs".[4]
 
 The fruits appear to also be well known in regards to their taste, which is described as being a relative balance of five major senses (sweet, sour, pungent, bitter, and astringent).[9]
 
+
 Emblica officinialis (Amla) is a fruit-bearing plant that has traditionally been used for whole-body medicinal purposes, and appears to be fairly well acclaimed in traditional medicine. The dried fruit powder is referred to as Amla Churna and is the commonly supplemented part
+
 
 1.2
 
@@ -189,11 +191,15 @@ Composition
 
 When consuming the fruits themselves, emblica officinalis contributes:
 
-77+/-3kcal per 100g (assuming a 80.3+/-0.8% moisture content)[10]0.5+/-0.1g dietary protein per 100g[10]18.7+/-0.8g dietary carbohydrate per 100g[10] some of which are conjugated to phenolics[11]Trace fatty acids[10]6.1+/-0.6g dietary fiber per 100g[10]Similar to most fruits, Amla fruits are mostly carbohydrate with a decent fiber content and next to no protein nor fatty acids
+77+/-3kcal per 100g (assuming a 80.3+/-0.8% moisture content)[10]0.5+/-0.1g dietary protein per 100g[10]18.7+/-0.8g dietary carbohydrate per 100g[10] some of which are conjugated to phenolics[11]Trace fatty acids[10]6.1+/-0.6g dietary fiber per 100g[10]
+Similar to most fruits, Amla fruits are mostly carbohydrate with a decent fiber content and next to no protein nor fatty acids
+
 
 The components of emblica officinalis include (fruit unless otherwise specified):
 
-Phyllemblin[9]Emblicanin A and B (major tannoids)[9] which can be hydrolyzed to form gallic acid and ellagic acid with glucose (Emblicanin A) or ellagic acid with glucose (Emblicanin B)Punigluconin and pedunculagin[9]Putranjivain A[12]Progallin A (leaves)[13]Tannin structures elaeocarpusin and chebulagic acid (also found in Dimocarpus Longan)[12] and various configuations of these tannic acids with gallic acid[12]β-glucogallin (1-O-galloyl-β-d-glucose)[14]Gallic Acid[15]Mucic acid 3-O-gallate[16][12]Quercetin at 2.6+/-1.6mg/100g (no detectable kaempferol, Myricetin, chlorogenic acid, ferulic acid, nor apigenin)[10]Phytosterols including β-sitosterol (12.12+/-1.90mg/100g), stigmasterol (0.70+/-0.21mg/100g), and campesterol (0.26+/-0.02mg/100g)[17] as well as trihydroxysitosterol and 5α,6β,7α-7α-acetoxysitosterol[18]Carotenoids including lutein (49+/-27mg/100g) and β-carotene (32+/-19mg/100g)[10]Vitamin C (2% of fruit juice[17] or 575+/-452mg/100g of the fruits (wet weight)[10])Vitamin E at 0.16 ± 0.05mg/100g fruit wet weight[10]Calcium (42+/-12mg/100g), Sodium (13+/-4mg/100g), Phosphorus (21+/-5mg/100g), Potassium (151+/-37mg/100g or 1.16+/-0.05%), Magnesium (13+/-2mg/100g), Manganese (0.71+/-0.06mg/g) Iron (0.16+/-0.04mg/100g), Copper (0.04+/-0.03mg/100g), chloride (25.6+/-2.3mg/g) and Zinc (0.14+/-0.08mg/100g)[10][19] with the content varying depending on analysis techniqueAppears to be particularly rich in vitamin C, with some other unique bioactives. Most of the bioactives seem to belong to the class of tannin structures, which are large antioxidant structures particularly high in a few select plants or fruits
+Phyllemblin[9]Emblicanin A and B (major tannoids)[9] which can be hydrolyzed to form gallic acid and ellagic acid with glucose (Emblicanin A) or ellagic acid with glucose (Emblicanin B)Punigluconin and pedunculagin[9]Putranjivain A[12]Progallin A (leaves)[13]Tannin structures elaeocarpusin and chebulagic acid (also found in Dimocarpus Longan)[12] and various configuations of these tannic acids with gallic acid[12]β-glucogallin (1-O-galloyl-β-d-glucose)[14]Gallic Acid[15]Mucic acid 3-O-gallate[16][12]Quercetin at 2.6+/-1.6mg/100g (no detectable kaempferol, Myricetin, chlorogenic acid, ferulic acid, nor apigenin)[10]Phytosterols including β-sitosterol (12.12+/-1.90mg/100g), stigmasterol (0.70+/-0.21mg/100g), and campesterol (0.26+/-0.02mg/100g)[17] as well as trihydroxysitosterol and 5α,6β,7α-7α-acetoxysitosterol[18]Carotenoids including lutein (49+/-27mg/100g) and β-carotene (32+/-19mg/100g)[10]Vitamin C (2% of fruit juice[17] or 575+/-452mg/100g of the fruits (wet weight)[10])Vitamin E at 0.16 ± 0.05mg/100g fruit wet weight[10]Calcium (42+/-12mg/100g), Sodium (13+/-4mg/100g), Phosphorus (21+/-5mg/100g), Potassium (151+/-37mg/100g or 1.16+/-0.05%), Magnesium (13+/-2mg/100g), Manganese (0.71+/-0.06mg/g) Iron (0.16+/-0.04mg/100g), Copper (0.04+/-0.03mg/100g), chloride (25.6+/-2.3mg/g) and Zinc (0.14+/-0.08mg/100g)[10][19] with the content varying depending on analysis technique
+Appears to be particularly rich in vitamin C, with some other unique bioactives. Most of the bioactives seem to belong to the class of tannin structures, which are large antioxidant structures particularly high in a few select plants or fruits
+
 
 The total phenolic content of the fruits appears to be 3703+/-1244mGAE/100g (Gallic acid equivalents)[10] and the total tannoid content (emblicanins, Punigluconin, gallic acid, rutin, and pedunculagin) consist of approximately 10-13% of the fruit by dry weight.[20][9]
 
@@ -223,7 +229,9 @@ Emblica offinicalis appears to be of interest for longevity as, according to the
 
 A study in drosophilia noted that daily consumption of feed with an Amla content was able to increase the days survived from 41.9 days to 76.8 days (83% increase), although a large variance was detected (76.8 days being the mean value, with +/-40.6 days for maximal and minimal values).[23] This increase in longevity was met with an increase in fecundity.[23]
 
+
 Limited evidence to support the longevity promoting effects of Amla, but said preliminary evidence suggests surprisingly potent effects
+
 
 3.
 
@@ -235,7 +243,9 @@ Mechanisms
 
 Oral ingestion of 200mg/kg emblica officinalis daily over 14 days has been found to reduce concentrations of MAO-A in the brains of mice, and this was not accompanied by any alterations in locomotion.[24]
 
+
 Has been noted to reduce MAOA activity, which may cause an increase in neurotransmitters (catecholamines and serotonin implicated)
+
 
 3.2
 
@@ -243,7 +253,9 @@ Cholinergic Neurotransmission
 
 Emblica officinalis does not appear to interact with the acetylcholinesterase enzyme at concentrations up to 1mg/mL in vitro[7] although the increase in this enzyme seen with anticholinergic treatment can be reduced with 600mg/kg of the herb (comparable potency to 200mg/kg Piracetam)[25] or the increase seen with aging reduced by 13.5-23.7% with 50-200mg/kg oral ingestion of the fruit (although there was a 10.9-22.8% reduction in young mice as well).[4]
 
+
 Although it does not appear to directly inhibit the enzyme, but increases in the acetylcholine enzyme that may occur (either during aging or anticholinergic treatment) might be attenuated with the plant
+
 
 3.3
 
@@ -253,7 +265,9 @@ Emblica officinalis appears scavenge free radicals with an IC50 of 6.3µg/mL (DP
 
 Thought to be secondary to these antioxidative effects, oral ingestion of 250mg/kg daily for six weeks alongside chronic alcohol ingestion is able to confer protective effects against mitochondrial dysfunction[27] and pretreatment of 500-700mg/kg of the fruit extract before kainate administration (convulsant that induces seizures associated with prooxidative changes[28]) can reduce the subsequent seizures and cogntive impairment.[29] Similar protective effects are seen against PTZ-induced seizures.[30]
 
+
 Emblica officinalis appears to exert general antioxidative effects in brain cells, which are thought to underlie some of the protective effects. This has been confirmed with oral ingestion of the fruits in the standard dosages in rodents
+
 
 It does not have any influence on COX1 activity up to 1mg/mL.[7]
 
@@ -263,11 +277,15 @@ Memory and Learning
 
 50-200mg/kg of oral fruit extract over 15 days to both young and old rats was able to dose-depedently reduce transfer and step-down latency in an elevated maze plus test in both age groups[4] with 400mg/kg Piracetam being comparable potency to 200mg/kg Amla.[4] This study is duplicated in Medline.[3]
 
+
 Animal evidence supports the usage of Amla as a nootropic in otherwise healthy and young animals, and the benefits also appear to extend to older animals. The nootropic potential seems similar to Piracetam
+
 
 In rats given a hydroalcoholic extract of emblica officinalis (150-600mg/kg) for seven days intraperitoneally prior to scopolamine injections, supplementation was able to normalize the toxin-induced oxidative and learning changes with 600mg/kg being of comparable potency to 200mg/kg Piracetam.[25] Elsewhere, the amnesiac effects of scopolamine or diazepam have been noted to be prevented with 200mg/kg oral Amla (comparable to 400mg/kg Piracetam).[4]
 
+
 Appears to have anti-amnesiac effects, of somewhat comparable potency to Piracetam as the reference drug
+
 
 3.5
 
@@ -279,7 +297,9 @@ It has also shown anti-anxiety (anxiolytic) properties at 0.8-4mg/kg bodyweight 
 
 The compound supplement Rasayana Ghana (Emblica officinalis fruits with tribulus terrestris and Tinospora cordifolia in equal parts) at 260mg/kg appears to confer antidepressant effects as well as anxiolytic, although its potency is less than diazepam (2mg/kg for anxiolysis) and imipramine (5mg/kg for depression).[32]
 
+
 A combination supplement has noted weak anti-depressive and anxiolytic effects, and no evidence exists on Amla used in isolation
+
 
 4.
 
@@ -309,17 +329,23 @@ Cholesterol and Triglycerides
 
 The oxidation of LDL has been noted to be reduced with emblica officinalis fruits in vitro quite weakly, with an IC50 of 136.3μg/mL.[40]
 
+
 Can be forced to inhibit LDL oxidation, but seems to occur at rather high concentrations and may not be biologically relevant
+
 
 Oral administration of 50-200mg/kg Amla has been noted to reduce cholesterol in both young (13.6-27.5%) and old (7.6-23.4%) rats with the 100-200mg/kg dosage range over 15 days being comparable to the reference drug simvastatin (5mg/kg).[4] Lower dose amla (10-40mg/kg) also seems effective over 100 days in rats, although to a lesser degree.[17]
 
 Serum triglycerides have been noted to be reduced in rats with 10mg/kg of the ethyl acetate fraction or 40mg/kg of fruit juice.[17]
 
+
 In rats given the fruits or leaves, there appear to be reductions in both cholesterol and triglycerides
+
 
 Reductions have been noted in total cholesterol and LDL-C, as well as triglycerides, with oral intake of 3g of the fruits of emblica officinalis daily for 21 days; an increase in HDL-C was also seen at this dose, and it affected both healthy controls and the diabetics under investigation.[41]
 
+
 Benefits appear to extend to humans
+
 
 5.
 
@@ -331,15 +357,21 @@ Mechanisms
 
 Emblica officinalis fruits have been found to inhibit enzymes of carbohydrate absorption, including α-glucosidase (IC50 of 1.0µg/mL) and α-amylase (IC50 of 94.3µg/mL).[40]
 
+
 May be able to inhibit carbohydrate absorption enzymes, with the potency against α-glucosidase being fairly respectable
+
 
 Glycation (a reduction between sugars and amino acids) has been noted to be reduced with the fruits, albeit with an IC50 of 182.9µg/mL.[40]
 
+
 May reduce glycation at the concentrations that it also reduces LDL oxidation (ie. high enough that it might not be biologically relevant) which is thought to simply be due to antioxidative effects
+
 
 A molecule in emblica officinalis known as β-glucogallin (1-O-galloyl-β-d-glucose) appears to inhibit the human aldose reductase enzyme with an IC50 of 17µM[42] which is thought to be biologically relevant since rodent interventions have noted protective effects (reduced oxidation and cataract formation) with a similar phenotype to aldose reductase inhibition.[43][20]
 
+
 May be inhibitory against aldose reductase
+
 
 5.2
 
@@ -349,7 +381,9 @@ In diabetic rats given the hydromethanolic (20:80) extract of the leaves of embl
 
 Reductions in plasma glucose have also been noted in a model of fluoride toxicity (known to have the side-effect of hyperglycemia[45]) when 2.5-10% of the diet was comprised of amla fruits.[46]
 
+
 Rat studies with abnormally elevated blood glucose noted reductions with oral ingestion of both the leaves and fruits of emblica officinalis
+
 
 Amla's effects on blood glucose in humans has been reviewed.[47] It has been used in a combination supplement (alongside Bitter Gourd, Gurmur Leaves, Jamun Fruit and Holy basil) to reduce blood glucose in type II diabetics[48] and elsewhere in type II diabetics with other herbs (Salacia oblonga and curcuma longa).[49] Only one trial has been conducted using Amla in isolation (noted in the review,[47] unable to be located online) where a 35g fresh amla fruit was consumed daily for two months noted that while there was no overall reduction in blood glucose that those with a baseline glucose over 150mg/dL experienced a statistically significant reduction.
 
@@ -357,7 +391,9 @@ Another study in uremic patients with 100mg emblica officinalis paired with 100m
 
 In diabetic and healthy humans given 1-3g of powdered emblica fruits daily for 21 days has noted reduction in postprandial glucose (highest dose being the only effect one in healthy controls, 3g being as effective as glibenclamide at 5mg twice daily) and fasting glucose (all groups and doses, with 3g being as effective as glibenclamide).[41]
 
+
 The majority of research on Emblica officinalis fruits has been confounded with the inclusion of other herbs that may also have hypoglycemic effects. Despite this lacklustre evidence, the lone study using a blinded protocol noted potency comparable to glibenclamide
+
 
 5.3
 
@@ -395,7 +431,9 @@ Testosterone
 
 Emblica officinalis has been tested for its 5α-reductase inhibiting properties, and appears to be fairly potent as 1g of the crude fruit extract was as potent as 18.99+/-0.40mg finasteride.[52] It was less potent than Carthamus tinctorius (1g being equivalent to 24.30+/-1.64mg finasteride), and these inhibitory effects were thought to underlie the hair growth promoting effects of topical application.[52]
 
+
 Emblica officinalis appears to be a fairly respectable 5α-reductase inhibitor in preliminary testing
+
 
 8.
 
@@ -431,7 +469,9 @@ LPS-induced inflammation can be inhibited by aldose reductase inhibitors (as see
 
 The whole plant extract of emblica officinalis (either at 2% of the diet or 0.2% of isolated tannoid structures) is able to attenuate the rate of cataracht formation in diabetic rats and reduce buildup of sorbitol in the eyes, but without apparent affect on blood glucose or insulin.[20]
 
+
 Tannoids from emblica officinalis appear to inhibit aldose reductase and may reduce the progression of some diabetes comorbidities without affecting blood glucose or insulin, this includes the formation of cataracts and diabetic retinopathy
+
 
 10.2
 
@@ -453,7 +493,9 @@ The fruit pulp of emblica officinalis (water extract) at 10-300μg/mL in HeLa an
 
 Regardless of HPV infections, emblica officinalis appears to induce apoptosis in cervical cancer cells with a decrease in cells in the G0/G1 phase and an increase in sub-G1 phase.[5]
 
+
 Mostly appears to be anti-proliferative in cervical cancer cells that express HPV (Human papillomavirus)
+
 
 12.
 
@@ -465,7 +507,9 @@ Hair
 
 Emblica officinalis appears to be recommended as a Thai rememdy for hair regrowth (fried in sesame seed oil, then topically applied), and topical application of 1% of the fruit extract in solution to mice was able to increase hair follicle count (91.7%) to a greater degree than 2% minoxidil (50%) but less than Clitoria Ternatea (117%) and Carthamus tinctorius (187%).[52]
 
+
 Appears to promote hair growth when topically applied, and its potency is greater than the reference drug of Rogaine
+
 
 12.2
 
@@ -473,7 +517,9 @@ Skin
 
 Secondary to its antioxidant properties emblica officinalis appears to be capable of protecting skin cells from UV radiation by reducing the increase in reactive oxygen species from 84+/-1.4% (control cells) down to 15+/-4% (at 0.5mg/mL), which outperformed pure vitamin c at the same concentration (64+/-2%).[61] This protective effect has been noted at concentrations as low as 10-40μg/mL.[62]
 
+
 Appears to exert protective effects against oxidation in skin cells, and appears to be fairly potent at doing so
+
 
 13.
 

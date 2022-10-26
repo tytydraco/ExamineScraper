@@ -192,7 +192,9 @@ Oral ingestion of Lavender (80mg as Silexan) appears to result in an increase in
 
 In rats exposed to the aroma of lavender, detectable serum linalool is present within 7 minutes at the concentration of 3ng/mL linalool and 11ng/mL linalyl acetate (exact dose of aroma not disclosed, but aroma was used for the duration of one hour).[9]
 
+
 Both oral and aromatic exposure to Lavender has been linked to serum linalool concentrations in the nanomolar range
+
 
 2.2
 
@@ -204,7 +206,9 @@ It has been noted that low molecular weight terpenes in general are absorption e
 
 Limited evidence exists to suggest efficacy following topical administration, with one study in dogs applying lavender oil (0.18mL) behind the ears four times (each dose separated by 3.5 hours) noted a reduction in heart rate and possible calming effects as assessed by ambulatory ECG monitor.[15]
 
+
 Bioactives may be absorbed topically, although the absorption is not absolute
+
 
 Concentrations of Lavender at 0.125% appear to not significantly affect skin cell viability, but all higher tested concentrations in vitro (0.25-2.00%) with a fairly remarkable drop of cell viability from 80-100% at 0.125% to less than 30% at 0.25%.[16] These results suggest high concentrations of Lavender oil, possibly due to the linalool component, exerts cytotoxicity on skin cells.
 
@@ -213,7 +217,9 @@ One 9-year study assessing the usage of Lavender oil patches has reported that 1
 Lavender has been known to spontaneously form terpenes upon exposure to the air via autooxidation of terpenes, and the conversion of linalool to two linalool hydroperoxides and linalool oxide (similar byproducts seen with linalyl acetate[20]) into topical allergens[21][22] proceeds upon air exposure due to a lack of antioxidative components in Lavender oil to attenuate the rate of this reaction.[23] Linalool and Linalyl acetate themselves are weak or not allergenic, as they do not have the properties of being electrophilic
 or a free radical (these properties are integral to allergens, which pass the skin and form complexes with proteins to then trigger an immune response).[23] 
 
+
 Although lower concentration of Lavender appear to be safe, topical application of the essential oil does not appear to be free from side-effects
+
 
 2.3
 
@@ -235,11 +241,15 @@ The essential oil of Lavender has been shown to have affinity for GABAA receptor
 
 In assessing the electrophysiology of Lavander in vitro, Lavender was able to concentration dependently reduce GABAA dependent currents with statistical significance at 100mcg/mL and almost abolished spontaneous inhibitory post-synaptic currents;[27] this event is not seen with pure GABAA antagonists such as picrotoxin, as is thought to underlie why epileptic effects are not observed with Lavender.[27] These observations are also thought to underlie the anti-agitation effects of Lavander and Lemon Balm.[28][27]
 
+
 Shows affinity for GABAA receptors with no per se affinity for the benzodiazepine binding site, but is profoundly synergistic with Lemon Balm essential oil for affinity to the benzodiazepein binding site
+
 
 In a behavioural conditioning test against the reference drug Diazepam (a benzodiazepeine), Lavender injections at 3-30mg/kg failed to induce a conditioning effect similar to benzodiazepine drugs[7] and human studies using Lavender for anxiety fail to note either sedation or dependency.[29]
 
+
 Appears to be devoid of benzodiazepine action and dependency
+
 
 A study in rats given isolated linalool failed to find any influence on corticosterone or catecholamines following ingestion of 125mg/kg acutely.[30]
 
@@ -261,7 +271,9 @@ When isolating linalool, oral ingestion of this compound at 125mg/kg does not ap
 
 One study in sheep noted that while exposure of lavender oil (via respiratory mask) to calm sleep reduced nervousness and agitation, that in a subset of sheep deemed as nervous exposure to lavender augmented the nervousness.[36] The authors hypothesized that genetic differences in anxiety may mediate these effects, but did not conduct mechanistic studies.[36]
 
+
 Lavender, in research animals, appears to be associated with anxiety reducing properties independent of the presence of a stressor
+
 
 An oil preparation known as Silexan (active component of the brand name LASEA) appears to be approved in Germany for the purposes of restlessness with anxious mood.[6]
 
@@ -269,7 +281,9 @@ One multicenter study using Silexan (80 mg) against an active control of Lorazep
 
 A study in 47 persons with somatization disorder, PTSD, or neurasthenia using Silexan at 80mg daily for 6 weeks noted significant reductions (relative to baseline) in depressed mood (57.4% of sample), sleep disorders (51.1%), restlessness (61.7%), and anxiety (44.7%) and significant improvements in cognitive functioning as assessed by the SF-36 mental health assessment (all subscales except body pain and general health).[38]
 
+
 Oral supplemenation of 80mg of Lavender oil daily appears to have general anxiolytic properties
+
 
 In students experiencing anxiety with test taking, Lavender aroma has been associated with reduced self-reported anxiety[39] and in a practical setting (Dental office lobby) there has been a reported reduction in anxiety associated with the aroma of Lavender, although only transiently.[40]
 
@@ -277,7 +291,9 @@ Aromatherapy with Lavender has once been demostrated to reduce anxiety in the se
 
 When looking at all evidence for Lavender, there appear to be consistent anxiolytic effects associated with supplementation although the robustness of the evidence for aromatherapy is less than desirable (due to inadequate sample sizes and blinding associated with aromatherapy).[42]
 
+
 The aroma of Lavender is also associated with anxiolytic properties, but has less robust evidence than oral supplementation. Two studies suggest that there is no build up or long lasting effect, and that the anxiolysis of the aroma lasts for as long as the aroma is present
+
 
 3.4
 
@@ -285,17 +301,23 @@ Sedation
 
 In rats given isolation linalool, 125mg/kg did not appear to cause alterations in activity while preliminary dose testing noted that 300mg/kg linalool caused unconciousness in all rats tested and 175mg/kg appeared to hinder locomotion somewhat.[30]
 
+
 Linalool appears to cause dose-dependent sedation in rats even in isolation
+
 
 In regards to body temporature, it has been noted that the aroma of Lavender is associated with reduced body temperature in rats within 30 minutes of exposure during the light period (waking) with no significant effect during the dark period and that these effects were dependent on the prescence of an active suprachiasmatic nuclei (removal of which abolished the effects).[43] A reduction of body temperature has been noted in humans following inhalation of the aroma, and was measured during waking hours.[44] These observations may be related to a known link between the olfactory buld and the suprachiasmatic nuclei and circadian rhythm.[45]
 
+
 Body temperature appears to be a biomarker of stimulation and/or sedation, and may be reduced (in accordance with sedation) following exposure to the aroma
+
 
 Acute inhalation of Lavender aroma has been noted to increase the frequency of self-reported drowsiness[44] and one study using Lavender aromatherapy in persons undergoing hospitalization for coronary heart disease (for 3 days of hospitalization, their rooms were filled with Lavender for 9 hours during sleep) noted that Lavender was associated with improvements in self-reported sleep, where the rating score (SMHSQ) improved 31% (no change for control).[46] Odorant exposure to sleep has been noted previously to modulate breathing, with lavender (not influence arousal but being associated with less waking periods when the aroma is present during sleep) able to alter breathing patterns[47] and has been associated with increasing short-wave sleep in otherwise healthy persons.[48] This improved sleep has been noted as a side-effect of studies in infantile colic.[49]
 
 These beneficial effects on sleep quality have been noted with insomniac women with a rating of greater than 5 on the Pittsburgh Sleep Quality Index (PSQI, chinese modification) where inhalation of Lavender aroma for 20 minutes daily twice a week for 12 weeks (0.25cc in an ultrasonic ionizer aromatherapy diffuser) relative to control (a class teaching proper sleep techniques, no aromatherapy nor placebo) noted a reduction in heart rate and heart rate variability as well as improvements in sleep quality.[50] This has been replicated in younger women, where women reporting sleeplessness from stress (college students) reported improvements from 4 weekly aromatherapy sessions with Lavender oil[51] and in a mixed gender cohort (small sample of 10) with general insomnia.[52]
 
+
 There are multiple trials to support the idea that aromatherapy with Lavender can aid in sleep quality, particularly in persons with disturbed sleep either from stress or insomnia; the quality of any individual trial, however, is somewhat lackluster. Benefit has been noted either with aromatherapy throughout the day or a few times a week, or with the scent of aroma being in the air during sleep
+
 
 Chronic daily ingestion of 80mg Lavender oil (oral supplement) that was capable of reducing anxiety in persons with generalized anxiety disorder was not associated with the side-effect of sedation.[29]
 
@@ -307,7 +329,9 @@ Lavander is thought to be anti-agitative (anger reducing), and possible synergis
 
 One study (duplicated in Medline[53][54]) using Vogel and Geller conflict tests in mice noted that Lavender caused dose-dependent reductions in conflict (thought to be due to GABAA interactions, as 0.5mg/kg Diazepam also caused anti-conflict effects); Juniper, Frankensence (Boswella thurifera), Cypress, Geranium (Pelargonium adoratissimum), and Jasmine were without effect.[54]
 
+
 Lavender, in animal models of conflict, shows anti-aggressive properties and there appears to be some mechanistic studies looking into how this works
+
 
 Lavender aroma, in otherwise healthy humans delivering 1mL of Lavender oil via respiratory mask (rate of 2L/min), has noted a decrease in respiratory and heart rate relative to placebo aroma (sweet almond oil) and increases in the self-reported mood states of 'good', 'active', 'fresh', and 'relaxed' as well as 'drowsy' with no significant effect on 'bad', 'stress', 'romantic', 'frustrated', 'uncomfortable', 'calm', or 'disgust'.[44] One other study to note frustration noted that the self-report of 'anger-frustration' appeared to be reduced following bath aromatherapy (placing a 20% essential oil of Lavender into bath water) while energy and arousal were unaffected.[55]
 
@@ -317,7 +341,9 @@ One study, however, has noted a decrease in Alpha1 (8-11Hz) in the posterior tem
 
 This relaxation has been noted in more practical settings, where one study using a dental office noted that filling the lobby with the aroma of lavender outperformed the aroma of orange, a music control, and a music-less and aroma-free control on the parameters of anxiety and mood state (less anxious and reporting a better overall mood).[59]
 
+
 Multiple EEG studies to support the self-reported increases in relaxation associated with Lavender aroma, with limited evidence to support an anti-aggressive effect
+
 
 3.6
 
@@ -329,7 +355,9 @@ One study has been conducted with Lavender oil in isolation against placebo mass
 
 The main bioactives thought to mediate these analgesic effects are linalyl acetate, linalool, and eucalyptol due to their concentrations in Lavender oil.[62]
 
+
 Some evidence to support the notion that the aroma of Lavender can reduce menstrual pain, but these studies are confounded with the inclusion of Clary Sage and another herb (Rose or Marjoram, depending on study)
+
 
 3.7
 
@@ -339,7 +367,9 @@ The aroma of lavender is able to exert neuroprotective effects against scopolami
 
 Similar protective effects have been noted following oral ingestion of 50-200mg/kg lavender oil in response to focal cerebral ischemia, where 200mg/kg reduced the infarct size to a comparable degree as Edaravone at 3mg/kg (neurological deficit scores showed a similar trend, but was not statistically significant; no treatment normalized the scores).[66]
 
+
 Both inhalation as well as oral ingestion of Lavender are linked to general neuroprotective effects in response to damaging stimuli
+
 
 3.8
 
@@ -357,7 +387,9 @@ When looking at the acetylcholinesterase enzyme, Lavender oil appeared to inhibi
 
 One study on aromatherapy in general (morning aroma of lemon oil and rosemary at 0.04mL and 0.08mL for 2 hours met with evening application of Lavender and orange at 0.08mL and 0.04mL for 90 minutes) on 28 elderly persons of which 17 had Alzheimer's noted that after 28 days of aromatherapy noted some significant improvement on GBSS rating subscales (spontaneity, feeling function, and psychotic manifestations) and improvement in abstract function for those with Alzheimer's; msot rating scales, overall, did not reach statistical significance but trended towards betterment.[70] One other study using multiple exposures to Lavender oil (1 hour thrice a day following meals, where 2 drops of lavender were placed on clothing) in a pilot study noted that the aroma of Lavender was associated with a reduction in the Neuropsychiatric Inventory (NPI) rating scale by 42% (control experienced a 16% reduction); the Barthel Index and MMSE were both iunchanged after 4 weeks.[71]
 
+
 Currently weak evidence to support the notion that aromatherapy benefits Alzheimer's disease per se
+
 
 4.
 
@@ -407,7 +439,9 @@ Testosterone
 
 In assessing the actions of lavender oil on the androgen receptor in MDA-kb2 cells, lavender itself failed to activate the receptor when no androgen was present while 0.005% concentration of lavender oil was able to inhibit 52% of DHT-dependent signalling (as well as Magnolia alternifolia or tea tree oil at 41%).[74] The protein content of the receptor was not modified, and the observed effects appears to be selective to the androgen receptor (with no observed effects on glucocorticoid receptors) and the efficacy seemed comparable to 1µM flutamide.[74]
 
+
 Possible anti-androgenic effects, which need to be confirmed in a living system and are not yet tied into a known molecule present in Lavender (although obtained with a Sigma-Aldrich reference of lavender oil)
+
 
 The aroma of lavender appears to protect from formaldehyde (aroma) induced testicular injury in a similar manner as rose oil, and as such may preserve testosterone levels in this scenario.[78]
 
@@ -445,7 +479,9 @@ Melissa officinalis (Lemon Balm) is a herb with a high rosmarinic acid content a
 
 Despite the fact that Lavender oil in isolation fails to displace agonists form the benzodiazepine binding site of GABAA receptors up to 1mg/mL, a 50:50 mixture of Lavender and Lemon Balm appeared to reduce the IC50 value from undetectable (greater than 1mg/mL) to less than 1mcg/mL, approximately a thousand-fold synergism as lemon balm alone is also inactive on the benzodiazepine receptor.[27]
 
+
 Appears to remarkably synergistic with Lemon Balm oil on benzodiazepine affinity, although the activation or antagonism of this receptor is not yet known (only affinity). If agonism is present, then the addition of lemon balm to lavender may reverse the lack of benzodiazepine like actions into a sedative component via this receptor subset
+
 
 9.2
 
@@ -453,7 +489,9 @@ Bergamot Oil
 
 Bergamot oil has been claimed to be synergistic in regards to relaxation when paired with lavender oil,[81] but the one study to note this failed to compare the combination therapy against lavender or bergamot oil in isolation and could not establish synergism.
 
+
 Insufficient evidence to support synergism
+
 
 9.3
 
@@ -485,11 +523,15 @@ Pregnancy
 
 Lavender oil is sometimes omitted during pregnancy and it is thought that the species of Lavandula stoechas has abortifacient properties.[1]
 
+
 Traditionally recommended to not use large amounts of lavender during pregnancy, but this topic has not been highly addressed
+
 
 The essence of Lavender oil (0.96% concentration) applied via a sitz bath to women following childbirth noted the lavender oil group (relative to control, sitz bath without Lavender) was associated with less rescue analgesic usage and a pain relieving effect.[85] Compared to a Betadine group, there were no significant differences in any parameter on a Redness, Edema, Ecchymosis, Discharge and Approximatio (REEDA) rating scale.[85] A similar study adding Lavender oil to a bath (with a control group and a group given synthetic lavender) noted that Lavender oil was associated with a reduced average pain rating when used for 3-5 days, although this failed to reach statistical significance.[86]
 
 A review has been conducted assessing the interactions of Lavender oil and perineal (post childbirth) trauma and pain[87] concluded that there was a significant lack of evidence and consensus on this topic although it appears safe if lower concentrations of lavender oil is used (as concentrations above 0.125% directly affect skin cell viability[16] and that usage in a bath is an unreliable indicator of concentration as the oil can collect in a few globules rather than evenly disperse[87])
 
+
 Mixed evidence as to the efficacy in lavender baths for reducing post-birth pain
+
 

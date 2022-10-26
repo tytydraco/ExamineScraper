@@ -88,15 +88,21 @@ Composition
 
 Chia seeds contain:
 
-Dietary protein at 19-23% of seed weight[5] (other sources giving a more variable range of 15-25%[3])Non-fibrous carbohydrates, consisting of 26-41% of the seed by dry weight[3]Fatty acids, between 30-33% of total seed weight[3]Fiber, which is highly insoluble (about 5-fold more insoluble than soluble[2]) and has a high water holding capacity[7] and is at 9.4g of fiber per 25g serving (37.6%),[2] although usually it is estimated to be around 30% dry weight[8]Kaempferol (1.1mM/kg)[9]Quercetin (0.2mM/kg)[9]Myricetin (3.1mM/kg)[9]Cinnamic acid[9]Caffeic acid (6.6mM/kg, which increases to 13.5mM/kg when hydrolyzed) and Chlorogenic acid (7.1mM/kg)[9]In general, the seeds of chia (which can be ground into a powder) have a respectable protein content of around 20% and a high fiber content of around 30%, which appears to have high water resorbing properties. The remaining 50% of the seed is split between fatty acids, carbohydrates, and some polyphenolics. No polyphenolics identified to date are unique to chia seeds
+Dietary protein at 19-23% of seed weight[5] (other sources giving a more variable range of 15-25%[3])Non-fibrous carbohydrates, consisting of 26-41% of the seed by dry weight[3]Fatty acids, between 30-33% of total seed weight[3]Fiber, which is highly insoluble (about 5-fold more insoluble than soluble[2]) and has a high water holding capacity[7] and is at 9.4g of fiber per 25g serving (37.6%),[2] although usually it is estimated to be around 30% dry weight[8]Kaempferol (1.1mM/kg)[9]Quercetin (0.2mM/kg)[9]Myricetin (3.1mM/kg)[9]Cinnamic acid[9]Caffeic acid (6.6mM/kg, which increases to 13.5mM/kg when hydrolyzed) and Chlorogenic acid (7.1mM/kg)[9]
+In general, the seeds of chia (which can be ground into a powder) have a respectable protein content of around 20% and a high fiber content of around 30%, which appears to have high water resorbing properties. The remaining 50% of the seed is split between fatty acids, carbohydrates, and some polyphenolics. No polyphenolics identified to date are unique to chia seeds
+
 
 Whereas the fatty acid component (25-35% of the seed by dry weight[2]) in particular contains:
 
-Alpha-linoleic acid (ALA, an omega-3 fatty acids with the designation of 18:2) at 4.4g per 25g (17.6%) dry weight[2] but elsewhere has been noted to be 6.3% of total fatty acids[9] which can be increased to 69% upon hydrolyzation.[9] Usually chia is claimed to have a high ALA content in the range of 60% total fatty acids[3][10]Linoleic acid (18:2) at 46.3% total fatty acids (declines to 15.3% after hydrolyzation)[9] but commonly said to be approximately 20% of total fatty acids[3]Oleic acid (18:1) at 21.3% total fatty acids[9]Stearic acid (18:0) at 16.2% total fatty acids[9]Palmitic acid (16:0) at 9.9% total fatty acids[9]Appears to be a very high level of polyunsaturated fatty acids (PUFAs) and is generally thought to contain more omega-3 fatty acids (as ALA) relative to omega-6 fatty acids (as LA)
+Alpha-linoleic acid (ALA, an omega-3 fatty acids with the designation of 18:2) at 4.4g per 25g (17.6%) dry weight[2] but elsewhere has been noted to be 6.3% of total fatty acids[9] which can be increased to 69% upon hydrolyzation.[9] Usually chia is claimed to have a high ALA content in the range of 60% total fatty acids[3][10]Linoleic acid (18:2) at 46.3% total fatty acids (declines to 15.3% after hydrolyzation)[9] but commonly said to be approximately 20% of total fatty acids[3]Oleic acid (18:1) at 21.3% total fatty acids[9]Stearic acid (18:0) at 16.2% total fatty acids[9]Palmitic acid (16:0) at 9.9% total fatty acids[9]
+Appears to be a very high level of polyunsaturated fatty acids (PUFAs) and is generally thought to contain more omega-3 fatty acids (as ALA) relative to omega-6 fatty acids (as LA)
+
 
 Total phenolics have been quantified at 47mM per 1,000g chia seeds (caffeic acid equivalents)[9] and otherwise stated to be 0.8800-0.9211mg/g gallic acid equivalents of mostly flavonols.[2] At least ex vivo, these phenolics appear to reduce lipid peroxidation and oxidation.[2] The antioxidant capacity appears to be greater than other herbs in the salvia genera (including Clary Sage[11]) and at 0.5mL showed comparable efficacy to Trolox (concentration not stated).[2]
 
+
 Appears to have a surprisingly respectable antioxidative potential when tested ex vivo
+
 
 2.
 
@@ -192,5 +198,7 @@ Mechanisms
 
 Chia (n-hexane extract) has been noted to have poor antiproliferative effects in vitro on cancer cells from breast (MCF7), cervix (HeLa), and skin carcinoma (A431)[17] while the oil has shown a beneficial modulation in eicosanoid production (less 12-HETE and arachidonic acid) in breast cancer cells (due to the alpha-linoleic acid content)[18] and 6% of mouse feed prior to a mammary tumor inoculation was able to reduce tumor weight (relative to control) and reduce metastasis (relative to both control and safflower oil).[18]
 
+
 Weak antiproliferative effects in vitro and some potential anti-cancer effects on tumor proliferation that seem to simply be due to the omega-3 content of chia seeds (and thus not unique to chia containing products)
+
 

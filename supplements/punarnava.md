@@ -144,7 +144,9 @@ Boerhaavia Diffusa tends to contain:
 
 Punarnavine at 0.01%[4] and its glycoside PunernavosideRotenoid compounds known as Boeravinones (A-J),[5] with B (0.2-0.22% dry weight) and E (0.05-0.06%; one report stating 0.32%[6]) being major constituents.[7][8] Other Boeravinones are G (7.5mg/kg), H (5.2mg/kg), and D (6.4mg/kg)[9]Boeravinone J is slightly different as a coumaronochromones molecule with a 5-carbon ring (B ring) rather than 6-carbon in the other Boeravinones[10]Ursolic AcidLiriodendrin (a diglucoside),[11] its monoglucoside Syringaresinol Mono-β-D-Glucoside, and its aglycone lignan of Syringaresinol[12]Coccineone B and E[13]6-O-demethylberavinone H, 10-demethylboeravinone C, and 9-O-methyl-10-hydroxycoccineone B[13]Borhavine (Xanthone) and Borhavone (Flavonoid)[14]Caffeoyltartaric Acid at 503.32+/-6.77mg/kg in the roots, with no detectable levels in the leaves[15]Eupalitin as 3-O-galactoside (2198.73+/-126.49mg/kg in leaves, none in roots) and as 3-O-galactosyl(1→2)-glucoside at 1066.07+/-7.87mg/kg in the leaves and 61.38+/-3.23mg/kg in the roots[15]Kaempferol as 3-O-robinobioside at 450.19+/-19.17mg/kg with no detectable amounts in the roots[15]Quercetin as 3-O-robinobioside at 6726.26+/-26.30mg/kg in the leaves and 484.39+/-33.19mg/kg in roots, no detectable free Quercetin[15]3,3′,5-trihydroxy-7-methoxyflavone[8]Sitosterol, Stigmasterol, and Campesterol (84:13:3 ratios)[16]Hypoxanthine 9-l-arabinofuranoside[17]Vitamin C at 0.21+/-0.03mg/g[14]Vitamin E at 0.054+/-0.022mg/g[14]Zinc and Selenium at 0.52+/-0.05 and 9.28+/-0.16ppm, respectively[14]Overall phenolic content varies depending on the part used, with leaves having a higher phenolic content (10441.3mg/kg) than the roots (1049.1mg/kg).[15] Organic acids show a reverse trend in the leaves (23,600.5mg/kg) and roots (50,916.7mg/kg) which consisted mostly of Oxalic acid (45-58.55%), Fumaric acid (25.5-28.7%), and Quinic acid in the roots only (24%).[15]
 
+
 Punarnavine itself, and the Rotenoid class of molecules (Boeravinones) are commonly seen as the main active ingredients
+
 
 2.
 
@@ -174,7 +176,9 @@ Boerhaavia Diffusa appears to be used as a pain reducing agent in the Caribbean 
 
 The plant extract (1000mg/kg bodyweight) appears to reduce pain in mice. In response to an acetic-acid writhing test, this dose of the plant (either dried powder or juice) inhibited 47-50% of pain (with the active control of dipyrone at 200mg/kg fully inhibiting pain) and this pain reduction was replicated in a hot-plate test (heat) with less potency than morphine.[18] As the benefits of the juice extract (more potent than dry powder) were inhibited by naloxone, these effects appear to be mediated by opioids.[18]
 
+
 Putative pain-reducing effects
+
 
 3.3
 
@@ -190,7 +194,9 @@ A compound in Boerhaavia (methanolic root extract) appears to have calcium chann
 
 Roots of Boerhaavia appear to have some historical use for treatment of Epilepsy (Nigerian folk medicine), and injections of the methanolic extract itself (500-2000mg/kg) and one with a higher concentration of the Calcium-Channel Blocker Liridendrin (10-40mg/kg) showed dose-dependent inhibition of PTZ-induced seizures and BAY k-8644 induced seizures.[19] The lower doses tested (10mg/kg Liriodendrin fraction, 500mg/kg methanolic) showed potency similar to 1mg/kg Diazepam while the higher doses showed dose-dependent benefit, but no Boerhaavia group managed to abolish seizures like 4mg/kg Diazepam did.[19] However, 20mg/kg Liriodendrin-rich fraction and 1mg/kg Diazepam showed synergism and outperformed 4mg/kg Diazepam.
 
+
 Appears to have efficacy in reducing the onset of seizures, but at a higher dose than normally taken in rats and with less efficacy than reference drugs. Possible synergism with Diazepam
+
 
 4.
 
@@ -202,7 +208,9 @@ Absorption
 
 Boerhaavia appears to have inhibitory potential against the α-glucosidase enzyme (IC50 1.72mcg/mL) with no apparent effect on α-amylase (enzyme mediating starch digestion).[20] Another test on α-amylase with Boerhaavia outright failed to inhibit this enzyme, as was Ashwagandha ineffective.[21]
 
+
 Some inhibitory effects on carbohydrate absorption, but selective and not enough evidence to suggest it is potent
+
 
 4.2
 
@@ -230,19 +238,25 @@ Punarvarine appears to have immunomodulatory aspects, as it can enhance white bl
 
 However, eupalitin (a flavonoid) involved with Boerhaavia appears to potently suppress antigen-induced PMBC proliferation with a large (500mcg/mL) concentration of the leaf ethanolic extract suppressing 88% proliferation in vitro and up to 98% with pure eupalitin glycoside.[28] Similar suppression was seen in lymphocyte proliferation, and a lesser degree of inhibition was noted in LPS-induced macrophages (500mcg/mL of the ethanolic extract and isolated eupalitin glycoside only inhibiting 36% and 67% respectively);[28] a wide variety of cells are suppressed under the influence of the root ethanolic extract including monocytes, macrophages (mouse and human), lymphocytes, erythroleukemic, human T-cells, and a few organ cells (BNLCL.2 liver cells, HEK293 kidney cells, and L929 Fibroblast).[29]
 
+
 Cells involved in adaptive immunity appear to be enhanced under the influence of the isolated compound, Punarvarine. The overall extract, however, appears to have immunosupressive potential on a large variety of cell types
+
 
 A mouse model on Natural Killer (NK) Cells has shown that NK cell activity has increase from a peak 6.98% in control (in a model of melanoma metastasis) to 32.46% at 1mg per animal (40-50mg/kg).[27]
 
 An inhibition of NK cell activity has been noted with an ethanolic extract of the herb, yet further testing failed to find any influence from eupalitin or its glycoside;[28] suggesting a currently unknown molecule in Boerhaavia may suppress NK cell activity, which may be concentrated in the chloroform extract (more suppressive than ethanolic).[28] Suppression has been noted elsewhere with an ethanolic extract of the roots.[30]
 
+
 Natural Killer Cell activity may be enhanced by Punarvarine, but practical significance is unknown as another compound in the herb may suppress NK cell activity
+
 
 In this same mouse model, the cytokines that were measured noted attenuation (IL-1β, TNF-α, IL-6) or induction (IL-2, IFN-γ) following 40-50mg/kg Punarvarine injections for 5 days following tumor implantation,[27] this study is duplicated in Medline.[31]
 
 Reductions in TNF-α production have been noted in vivo with eupalitin glycoside (flavonoid) secondary to suppressing macrophage activation;[28] this may be downstream from NF-kB and AP-1 inhibition.[28] This inhibition of TNF-α has been noted elsewhere with the ethanolic root extract.[30]
 
+
 A beneficial trend of cytokines (more anti-inflammatory than pro-inflammatory, as a general statement) appears to result after injections of Punarvarine. The immunosuppressive compounds in the herb (currently not known) could simply just reduce all cytokines except perhaps IFN-γ
+
 
 6.
 
@@ -254,7 +268,9 @@ Metastasis
 
 The alkaloid Punarnavine has been tested in isolation for inhibiting metastasis of B16F-10 melanoma cells in mice, and 40mg/kg injections were associated with reducing tumor formation in the lungs when administered 10 daily for days prior to the tumor (95.25%), with a 10 day delay prior to drug administration for 10 days (93.9%), and starting upon delivery of cancer cells (80.1%).[4] This was accompanied by increased survival in all groups and a trend to normalize some serum parameters associated with metastasis (hexosamine, uronic acid, sialic acid) as well as suppression of VEGF, MMP2, and MMP9.[4] Another study using similar methodology noted increases in TIMP-1 alongside the reduction in metastasis, and noted that these observed effects may be due to the immune system (due to increases in NK cells and increase in antigen-mediated cytotoxicity),[27] and a third study has confirmed reduced metastatic potential of implanted melanoma cells in this mouse line with a concomitant increase of survival from 35.1+/-5.4 days in control (tumor bearing) and enhancing lifespan by 240-257% of control.[32]
 
+
 In mice, appears to reduce metastasis of melanoma cells possibly secondary to the immune system
+
 
 6.2
 
@@ -264,7 +280,9 @@ One study in Melanoma cells (B16F-10 cells) using isolated Punarnavine noted tha
 
 A reduction of pro-survival Bcl-2 was noted in these cancer cells with 10mcg/mL Punarnavine.[33] Three subunits of NF-kB also had their nuclear translocation reduced by 71.8% (p65), 78.6% (p50), and 80.2% (C-Rel), suggesting anti-inflammatory effects.[33]
 
+
 Limited evidence, but appears to be more anti-proliferative than inherently cytotoxic
+
 
 6.3
 
@@ -294,9 +312,12 @@ In superoxide radical tests, the roots appear to be more potent than the leaves 
 
 That being said, more potent anti-oxidant effects are seen with Boeravinone G. Although the Boeravinones D, G, and H are seen as the more potent ones, Boeravinone G was able to scavenge 65.9+/-3.3% of hydroxyl radicals (0.5mg/mL in a Electron spin resonance spectroscopy test), and at a concentration of 1ng/mL abolished lipid peroxidation in vitro, approximately halved intracellular ROS, and almost normalized oxidant-induced DNA damage; Boeravinone showed no pro-oxidative properties on its own, and normalized NF-kB expression induced by oxidation.[9]
 
+
 Quite potent anti-oxidant effects in general, with Boeravinone G being remarkably potent in vitro using cell cultures (Benefits after oral consumption hard to extrapolate from this)
 
+
 Independent of Boeravinone G, the flavonoid component appears to also exert direct anti-oxidative properties (like most plants, with this aspect not being too remarkable)
+
 
 7.2
 
@@ -304,7 +325,9 @@ Interventions
 
 After hepatoxicity induced by acetominophen overdose in rats, Boerhaavia ethanolic extract (leaves) was able to normalize LDH and ALP levels at 400mg/kg (dose-dependently reduced these two at lower doses), showing more efficacy than a water extract of the leaves.[14] TBARS (a measure of lipid peroxidation) was also normalized at doses exceeding 100mg/kg of both ethanolic and water extracts, suggesting anti-oxidant properties underlied the liver protection.[14] 20mg/kg injections of the hydroalcholic extract of Boerhaavia has also shown protective effects against oxidation induced by radiation, where White Blood Cell count (decreased by gamma-radiation) was effectively preserved to control levels and both lipid peroxidation and plasma ALP were reduced.[37]
 
+
 Anti-oxidant effects appear to exist in vivo after oral ingestion, but Boeravinone G has not been tested in isolation nor is the practical relevance of these studies meaningful yet; preliminary research
+
 
 8.
 
@@ -316,7 +339,9 @@ Airway
 
 Leaves of Boerhaavia are used in the Ivory Coast for treatment of asthma, as well as for cough and dyspnea in Benin.[38] When tested in precontracted mouse tracheal rings, Boerhaavia was able to induce relaxation at 30mcg/mL with the water extract (EC25 94+/-19mcg/mL), 50-70% relaxation with 1mg/mL ethanolic extract (EC25 533+/-233mcg/mL), and the methanolic extract inducing 55% relaxation at 20mcg/mL (EC25 12+/-3mcg/mL).[38]
 
+
 May relax the trachea; unknown practical significance or mechanisms
+
 
 8.2
 
@@ -328,9 +353,12 @@ In rats administered ethylene glycol to induce hyperoxaluria (subsequently, indu
 
 In regards to diuresis (urination), the increase of urination associated with kidney stones (79.47%) was further increased by 72.3% and 220% after ingestion of 100 and 200mg/kg aqueous extract of Boerhaavia, respectively.[35] This has been noted elsewhere where urine totals reached 133% more than control animals with 200mg/kg Urex (Boerhaavia and Tribulus).[43] Diuretic effects are due to compounds that are present in both the leaves and roots, with minimal efficacy when using the stem.[44]
 
+
 Boerhaavia appears to be kidney protective and reduce formation of kidney stones at 100-200mg/kg (estimated human conversion dose of 16-32mg/kg)
 
+
 Appears to be a diuretic, but not compared to any reference drugs (and thus unknown practical relevance)
+
 
 8.3
 
@@ -348,7 +376,9 @@ Estrogen
 
 Boerhaavia appears to have anti-estrogenic effects. The IC50 for displacing ligands from the receptor was fairly weak at 320+/-25ug/mL, yet 100mcg/mL Boerhaavia methanolic extract was equally effective as the standard ICI 182-780 (potent antiestrogen) for downregulating estrogen-dependent genomic signaling as assessed by expression of pS2,[1] used as an indicator of estrogenicity in MCF-7.[46][47]
 
+
 Potent anti-estrogenic effects on the receptor when looking at the genome, yet doesn't appear to be fully explained by the receptor level antagonism (which is somewhat weak)
+
 
 9.2
 

@@ -58,7 +58,9 @@ Evolvulus alsinoides (of the family Convolvulaceae[1]) is a herb from Ayurveda w
 
 Evolvulus alsinoides is one of a few herbs to bear the name of either shankhapushpi or vishnukranti in Sanskrit (as the terms refer to herbs introduced from other regions)[2][3] with Clitoria ternatea, Convolvulus pluricaulis, and Canscora decussata also being referred to as Shankhapushpi.[7][8][9] For many of the cognitive-related traditional usages such as cognitive enhancement, anti-amnesia, and treatment of dementia these herbs are seen as somewhat interchangeable[2][8] although evolvulus likely has most similarity to Convolvulus pluricaulis due to being derived from the same family (Convolvulaceae[1]) and having similar cognitive properties and potency in the limited evidence that exists.
 
+
 Evolvulus alsinoides is a herb traditionally used for psychotropic and nootropic properties, and appears to have similar historical usage as Jatamansi. It is one of four herbs referred to as Shankhapushpi, with the other three herbs (Clitoria ternatea, Convolvulus pluricaulis, and Canscora decussata) also being nootropic herbs
+
 
 1.2
 
@@ -67,11 +69,15 @@ Composition
 Evolvulus alsinoides has been found to contain:
 
 Shankhapushpine[10][1]Evolvine (alkaloid, structure currently unknown)[11][12]Evolvoids A and B[13] which appear to be caffeic acid bound to two 2-methyl-1,2,3,4-butanetetrol molecules and two caffeic acid molecules found to glucose (respectively)[13]Evolvosides C, D, and E[14] which are triglycosides of kaempferol. Evolvoside C (4′-O-β-d-glucopyranosyl-(1→2)-α-l-rhamnopyranosyl-(1→6)-β-d-glucopyranoside), D (O-methyl derivative of C), and E (di-O-methyl derivative of C)[14]Other Kaempferol glycosides such as 4′-O-β-d-glucopyranosyl-(1→2)-β-d-glucopyranoside, 4′-O-α-l-rhamnopyranosyl-(1→6)-β-d-glucopyranoside,7-di-O-β-d-glucopyranoside, 3-O-β-d-glucopyranosyl-(1→6)-β-d-glucopyranoside, and 3-O-β-d-glucopyranosyl-7-O-α-l-rhamnopyranoside[14][15]Vitexin[14] and 4-methoxyvitexin[1]Quercetin as 3-O-β-glucopyranoside[16][13]Betaine (secondhand reports)[12]Scopoletin (0.0018-0.002% dry weight[17]) and scopolin (coumarin and coumarin glucoside)[12]Umbelliferone (coumarin)[12]2-methyl-1,2,3,4-butanetetrol[12]1,3-di-O-caffeoyl
-quinic acid methyl ester and caffeic acid[2]β-sitosterol[12]Sodium (0.5+/-0.006g/kg), Potassium (16.64+/-0.08g/kg), Copper (35.45ppm), Iron (6,523.07ppm), Zinc (89.84ppm), Magnesium (526.31ppm), and Manganese (114ppm)[18]Evolvulus appears to mostly be a source of kaempferol glycosides which appear to be somewhat unique to this plant, and has a content of common coumarin structures; beyond that, there appears to be an alkaloid content that is not completely identified. The molecules underlying bioactivities of Evolvulus are not yet known
+quinic acid methyl ester and caffeic acid[2]β-sitosterol[12]Sodium (0.5+/-0.006g/kg), Potassium (16.64+/-0.08g/kg), Copper (35.45ppm), Iron (6,523.07ppm), Zinc (89.84ppm), Magnesium (526.31ppm), and Manganese (114ppm)[18]
+Evolvulus appears to mostly be a source of kaempferol glycosides which appear to be somewhat unique to this plant, and has a content of common coumarin structures; beyond that, there appears to be an alkaloid content that is not completely identified. The molecules underlying bioactivities of Evolvulus are not yet known
+
 
 Evolvulus alsinoides has been found to possess a large content of phenolics (192.0+/-0.900mg/g in the ethanolic extract[4], 1213.9+/-93.2mcg/g in the hydroalcoholic extract, and 1402.9+/-99.0mcg/g in the water extract (all gallic acid equivalents)[19]) comprised of both tannins (16.0+/-0.894mg/g) and flavonoids (26.0+/-0.516mg/g).[4] Some alkaloids have also been detected but not identified,[4] and despite no differences between hydroalcoholic and water extracts for total phenolics there appears to be more flavonoids in the hydroalcoholic extract (273.0+/-5.4μM rutin equivalents) relative to the water (203.0+/-5.8μM).[19]
 
+
 It is highly plausible that the bioactives of interest are concentrated in ethanolic extractions of the plant
+
 
 2.
 
@@ -85,19 +91,25 @@ Evolvulus has been found to inhibit the acetylcholinesterase enzyme with an IC50
 
 Evolvulus has also been noted to inhibit catechol-o-methyltransferase (COMT) ex vivo with an IC50 value of 20.7+/-0.6mcg/mL (hydroalcoholic extract) or 51.7+/-1.9mcg/mL (water extract).[19]
 
+
 May inhibit acetylcholinesterase and increase brain acetylcholine levels, but does not appear overly potent in doing so (outperformed by other herbs)
+
 
 In rats given 200mg/kg of the ethanolic extract, the amnesiac effects of scopolamine were greatly attenuated relative to control[5] which applies to ethyl acetate and water extractions as well;[21] protective effects have been noted against streptozotocin-induced neurodegeneration with the hydroalcoholic extract where 500mg/kg abolished neural deficits.[19]
 
 A water extract of evolvulus in response to electroshock-induced amnesia has failed to find an anti-amnesiac effect or preserve learning after shock[8] although water extracts (100-200mg/kg) have previously been effective against scopolamine-induced amnesia.[21]
 
+
 Holds fairly respectable anti-amnesiac effects in animal models of neurotoxicity, but has once failed to prevent amnesia induced by electroshocking. The reason for this failure is unknown, but is likely not due to the extraction process used (as it has shown efficacy elsewhere)
+
 
 In comparison against the herb Convolvulus pluricaulis (also bears the name 'Shankhapushpi'), 250mg/kg of the ethanolic extract of evolvulus taken one hour prior to cognitive testing in rats noted that it was more effective than Convolvulus pluricaulis at improving memory retention (although both treatments more effective than control) and evolvulus was comparable to the reference drug of 200mg/kg Piracetam.[9] This has been noted elsewhere where the ethanolic extract of evolvulus at 200-400mg/kg (but not 50-100mg/kg) although this study noted that evolvulus outperformed clitoria ternatea yet was comparable to Convolvulus pluricaulis and Piracetam at 100mg/kg.[22] A third study has also noted comparable efficacy between evolvulus and piracetam in these dosage ranges in otherwise healthy young rats.[21]
 
 Elsewhere, one rat study that investigated anti-amnesiac effects of evolvulus and had both a true control and evolvulus group without neurotoxin failed to note a significant difference in learning as assessed by retention transfer latency, retention latency, or escape latency.[19]
 
+
 Appears to have nootropic properties in rats following oral ingestion, even without cognitive deficit or neurotoxicity as a prerequisite. It appears to either be unreliable or restricted to the ethanolic extract, and the ethanolic extract appears as potent as piracetam
+
 
 2.2
 
@@ -119,7 +131,9 @@ Sedation
 
 500mg/kg of the hydroalcoholic extract in rats has failed to significantly alter locomotion[19] but 400-600mg/kg of the ethanolic extract has shown some sedative properties with a potency not exceeding the reference drug of 2mg/kg Diazepam; lower doses were not significantly active.[22]
 
+
 It is possible that evolvulus has sedating properties at higher dosages
+
 
 3.
 
@@ -131,7 +145,9 @@ Joints
 
 Evolvulus has been found to suppress inflammation induced in a mouse model of arthritis (Complete Freund's Adjuvant injections).[23]
 
+
 Possible benefits, but highly preliminary information and no comparisons to reference drugs at this moment in time
+
 
 4.
 
@@ -143,5 +159,7 @@ General
 
 It appears that the LD50 of evolvulus alsinoides in albino mice is approximately 450mg/kg whereas lower doses (200mg/kg) merely cause sedation.[1] This LD50 is somewhat suspect, as elsewhere dosages of 400-600mg/kg have failed to induce any toxicity.[22] Overall, there is a lack of proper toxicology testing on this herb.
 
+
 Insufficient evidence to establish possible toxicity of the herb and its extractions, with contradictory information thus far
+
 

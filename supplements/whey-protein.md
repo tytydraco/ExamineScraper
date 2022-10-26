@@ -258,7 +258,9 @@ Whey is one of two protein fragments of dairy protein, the other being casein. W
 
 Whey can be found in milk in general. Although the majority of commercially sold whey is derived from cows (bovine whey), whey can also be derived via any animal that produces milk through breast tissues: buffalo,[2] camels,[3] llamas,[4] kitties,[5] and humans[6] to name a few.
 
+
 When milk is met with a coagulating agent, the part that coagulates is cheese; the part that does not (liquid part) are the wheys. The phrase "The curds and the wheys" refer to this process, and the curds are mostly casein proteins while the wheys are whey protein
+
 
 1.2
 
@@ -266,9 +268,12 @@ Composition (Peptides)
 
 The amino acids in whey protein can be formed into different orders, and create unique bioactive peptides. Beyond differences in amino acid composition, different protein sources can have different effects through their bioactive peptides. The peptides in whey are the following, and the four (4) bolded peptides are those with most practical relevance (due to their high contents in whey).
 
-β-Lactoglobulin (A and B) with about two-fold more A than B, 1290mg and 2280mg per liter of whey[7] and 2-4g (combined A and B) per liter of milk[1] β-Lactoglobulin is the major bioactive peptide in whey, and the B fragment is a 162 amino acid sequence with a molecular weight of 18,227kDa and is leucine rich (13.5%); A is the other most well known variant, but β-Lactoglobulin has recently been shown to possess H,[8] I and J,[9] and W variants[10] β-Lactoglobulin has the ability to bind fat soluble and amphiphilic molecules and can enhance absorption of fat soluble nutrients[1] This protein itself is approximately a quarter (25.1%) Branched Chain Amino Acids and, along with Bovine Serum Albumin, may aid in hydrophobic (fat-soluble) nutrient uptake[11]Alpha-Lactalbumin, at about 0.6-1.7g per litre of whole milk[1] with more precise estimates at 1.2-1.5g per liter of whey.[1] Alpha-Lactalbumin is a 123 amino acid sequence with two variants (A and B) and the reference variant (B) is high in all Leucine (10.6%), Aspartic Acid (10.6%) and Cysteine (6.5%) and has a molecular weight of 14,178kDa.[1] It is seen as good nutrition for infants due to having 72% homology to human alpha-lactalbumin, a nutrient found in breast milk[12]Bovine Serum Albumin (BSA), which is at about 0.4g per liter of milk.[1] This is about 1.5% of total milk proteins, but due to its lack of occurrence in casein protein it shoots up to 8% of total whey proteins. It is the largest protein in whey at 583 amino acids with a molecular weight of 66,399kDa[13] that, when in the pH range of 4.5-8, forms a heart shaped molecule.[14] BSA allows binding to hydrophobic molecules, and can potentially increase uptake of fat-soluble (hydrophobic) molecules[11]Immunoglobulins, which comprises 1% of total milk protein but is elevated to 8% of total whey proteins. A category of small Y-shaped proteins (4 peptide chains) bound by disulfide bonds, with the (2) light chains weighing approximately 22.5-27.3kDa each.[1] There are a variety of immunoglobulins in whey (IgGI, IgG2a(A1 and A2), IgG2b and IgG3; IgA, M, E, and D). One immunoglobulin classified as β2-microglobulin is also referred to as lactollin.[1] Due to these immunoglobulins being small in size and bound by disulfide chains, they are whey protein's largest source of the amino acid Cysteine (to induce glutathione synthesis) and can interact with the immune systemGlycomacropeptides (GMPs) that are technically casein proteins but are lost into the liquid whey during separation (stage of processing); GMPs are researched for their interactions with hunger and the hormone Cholecystokinin (CCK).[15][16][17] GMPs are one of the bioactives investigated for the ability of whey to suppress appetite[18]Lactoferrin, an iron-binding peptide with thrice the affinity relative to transferrin[19] that has anti-cancer effects;[20] present at around 56-164mcg/mL when diluted at 1:10 for analytic purposes.[21] This gives a concentration of 0.56-1.64mg/g whey protein (concentrate), or about 0.5-1.6% by weight of whey; 0.02-0.1g per liter of whole milk[1] It is 689 amino acids in length, and equally high in leucine (9.58%) and alanine (9.72%)LactoperoxidaseNOP-47, a nitric oxide dependent quaternary protein that has been shown to increase blood flow[22][23]Lactostatin (Ile-Ile-Ala-Glu-Lys) produced from β-Lactoglobulin[24]Amino acids in whey are grouped into protein structures or float as 'free' amino acids. Those that are grouped as protein structures are 'peptides' and may have unique properties based on the sequence (order) of amino acids that make them up. Bioactive peptides in whey are one of the two possible reasons for differences between protein sources (the other being total amino acid composition)
+β-Lactoglobulin (A and B) with about two-fold more A than B, 1290mg and 2280mg per liter of whey[7] and 2-4g (combined A and B) per liter of milk[1] β-Lactoglobulin is the major bioactive peptide in whey, and the B fragment is a 162 amino acid sequence with a molecular weight of 18,227kDa and is leucine rich (13.5%); A is the other most well known variant, but β-Lactoglobulin has recently been shown to possess H,[8] I and J,[9] and W variants[10] β-Lactoglobulin has the ability to bind fat soluble and amphiphilic molecules and can enhance absorption of fat soluble nutrients[1] This protein itself is approximately a quarter (25.1%) Branched Chain Amino Acids and, along with Bovine Serum Albumin, may aid in hydrophobic (fat-soluble) nutrient uptake[11]Alpha-Lactalbumin, at about 0.6-1.7g per litre of whole milk[1] with more precise estimates at 1.2-1.5g per liter of whey.[1] Alpha-Lactalbumin is a 123 amino acid sequence with two variants (A and B) and the reference variant (B) is high in all Leucine (10.6%), Aspartic Acid (10.6%) and Cysteine (6.5%) and has a molecular weight of 14,178kDa.[1] It is seen as good nutrition for infants due to having 72% homology to human alpha-lactalbumin, a nutrient found in breast milk[12]Bovine Serum Albumin (BSA), which is at about 0.4g per liter of milk.[1] This is about 1.5% of total milk proteins, but due to its lack of occurrence in casein protein it shoots up to 8% of total whey proteins. It is the largest protein in whey at 583 amino acids with a molecular weight of 66,399kDa[13] that, when in the pH range of 4.5-8, forms a heart shaped molecule.[14] BSA allows binding to hydrophobic molecules, and can potentially increase uptake of fat-soluble (hydrophobic) molecules[11]Immunoglobulins, which comprises 1% of total milk protein but is elevated to 8% of total whey proteins. A category of small Y-shaped proteins (4 peptide chains) bound by disulfide bonds, with the (2) light chains weighing approximately 22.5-27.3kDa each.[1] There are a variety of immunoglobulins in whey (IgGI, IgG2a(A1 and A2), IgG2b and IgG3; IgA, M, E, and D). One immunoglobulin classified as β2-microglobulin is also referred to as lactollin.[1] Due to these immunoglobulins being small in size and bound by disulfide chains, they are whey protein's largest source of the amino acid Cysteine (to induce glutathione synthesis) and can interact with the immune systemGlycomacropeptides (GMPs) that are technically casein proteins but are lost into the liquid whey during separation (stage of processing); GMPs are researched for their interactions with hunger and the hormone Cholecystokinin (CCK).[15][16][17] GMPs are one of the bioactives investigated for the ability of whey to suppress appetite[18]Lactoferrin, an iron-binding peptide with thrice the affinity relative to transferrin[19] that has anti-cancer effects;[20] present at around 56-164mcg/mL when diluted at 1:10 for analytic purposes.[21] This gives a concentration of 0.56-1.64mg/g whey protein (concentrate), or about 0.5-1.6% by weight of whey; 0.02-0.1g per liter of whole milk[1] It is 689 amino acids in length, and equally high in leucine (9.58%) and alanine (9.72%)LactoperoxidaseNOP-47, a nitric oxide dependent quaternary protein that has been shown to increase blood flow[22][23]Lactostatin (Ile-Ile-Ala-Glu-Lys) produced from β-Lactoglobulin[24]
+Amino acids in whey are grouped into protein structures or float as 'free' amino acids. Those that are grouped as protein structures are 'peptides' and may have unique properties based on the sequence (order) of amino acids that make them up. Bioactive peptides in whey are one of the two possible reasons for differences between protein sources (the other being total amino acid composition)
+
 
 The bioactive peptides in whey (strings of small-chained amino acids that are left over when larger proteins are digested) tend to be more involved with immunity when compared to other protein sources, mostly through the immunoglobulins and other large proteins
+
 
 1.3
 
@@ -301,7 +306,9 @@ Some other conditions that are characterized by oxidative stress, but not specif
 
 Glutathione stores can be increased in otherwise healthy persons, with whey protein (in this study, pressurized whey) increasing glutathione by up to 24% in 2 weeks with approximately 2 regular scoops (45g) of protein daily.[39] This increase is additive with the increase seen with resistance training.[40]
 
+
 Whey can be a convenient and cheap vessel of dietary L-Cysteine, which can be elevated to vitamin-like importance in certain conditions of oxidative stress. A cysteine deficiency is not universally recognized due to it being an non-essential amino acid (can be synthesized from methionine, an essential amino acid) but appears to have some manner of deficiency syndrome associated with it, at least indirectly via glutathione
+
 
 2.2
 
@@ -311,11 +318,15 @@ Hydrogen Sulfide (H2S) is a gaseous byproduct (frequently remarked to be the cau
 
 H2S is produced endogenously mainly by the action of two enzymes, cystathionine-β-synthase and cystathionine-?-lyase.[43] The former enzyme (cystathionine-β-synthase) is highly localized to the central and peripheral nervous system while the latter is expressed in the thoracic aorta, portal vein, ileum, heart, liver, kidney, and vascular smooth muscle.[43][45] Two other enzymes may also contribute to a circulating H2S pool, namely 3-mercaptopyruvate sulfurtransferase and cysteine aminotransferase, both of which are active in the brain and the endothelium.[47][48][49] Abolishing cystathionine-?-lyase and reducing the circulating H2S pool induce hypertension in rats and reduce the abilities of the blood vessels to respond to vasorelaxation[45] as well as increasing homocysteine levels, indicative of heart and neurovascular diseases.[50] Conversely, adding in a H2S donor to increase circulating levels can, in ApoE deficient mice, reduce atherosclerotic build-up and promotes blood flow.[51]
 
+
 At the outset, H2S (Hydrogen Sulfide) appears to be a heart healthy (cardioprotective) signalling molecule that is derived from a circulating Cysteine pool; Cysteine remains in storage in the body, and serves to buffer a pool of H2S that preserves physiological functions
+
 
 Circulating Hydrogen sulfide levels appear to be lower in Type II Diabetics (110uM) relative to age-matched non-diabetic controls (130uM) when weight was not measured,[46] and are lower in non-diabetic obese persons relative to non-diabetic lean persons.[52]
 
+
 Theoretically, maintaining a sufficient Cysteine pool should be cardioprotective; some populations appear to be lower in H2S but no evidence currently exists that supplementing Cystine in these populations can increase H2S
+
 
 3.
 
@@ -343,7 +354,9 @@ The process of hydrolyzation can reduce the allergic potential of whey and milk 
 
 In a study comparing the effects of whey protein hydrolysate to casein hydrolysate (a fast absorbed form of casein), whey protein resulted in more muscle protein synthesis over 8 hours after 20g in older individuals (74+/-1yrs) at rest.[58] Whey hydrolysate had a mixed fractional protein synthesis rate of 0.15+/-0.02%, while casein hydrolysate and regular casein had 0.10+/-0.01% and 0.08+/-0.01% respectively.[58] A correlation (r=0.55) was noted with plasma Cmax values of essential amino acids, and a slightly higher correlation (r=0.66) with leucine in particular.[58]
 
+
 In instances where a faster protein source is desired (perhaps pre-fuel for fasted training, or protein synthesis in the elderly), then a hydrolyzed whey protein may confer additional benefits when compared to a whey concentrate. They have either equal health benefits, or hydrolysate may confer less (or at least different) health benefits due to breaking of large peptides prior to digestion
+
 
 One study that gave participants Whey Isolate or Whey Hydrolysate and tested performance at baseline and then 6 hours later noted that only the Hydrolysate group recovered power in such a short time frame, although no differences existed in muscle soreness.[59] Protein in general appears to enhance recovery, but most studies are done on subsequent days; this suggests Hydrolyzed Whey may be of benefit to two-a-day workouts.
 
@@ -373,7 +386,9 @@ Whey appears to resist coagulation in the stomach and pass on relatively quickly
 
 When measuring beta-lactalbumin (largest component of whey) in the intestines, this specific component does not appear to be subject to much hydrolysis in the stomach as it appears intact in the intestines.[69] Due to lack of hydrolysis inherently, there do not appear to be many differences in gastric emptying time between Whey Isolate and Whey Hydrolysate, when consumed at 45g under fasted conditions in healthy males.[70]
 
+
 A general rule of thumb is that whey is emptied from the stomach faster than casein, although the addition of enzymes in milk makes the food product a grey area. Coingested nutrients may also influence gastric emptying rates
+
 
 In one intervention where nitrogen content, energy density, osmolarity, liquid volume, and caloric content were all matched; there were no apparent differences in gastric emptying between whole whey and casein as well as their hydrolysates.[71]
 
@@ -405,13 +420,17 @@ Whey protein has been investigated for its ability to reduce blood pressure due 
 
 One particular small peptide of Valine-Proline-Proline (Val-Pro-Pro) is derived from sour milk and sold in Japan under the brand name Ameal.[82] Isoleucine-Proline-Proline (Il-Pro-Pro) also appears to be another bioactive peptide small enough to be absorbed in vivo through tripeptide transports.[82] [83] Val-Pro-Pro has been shown to reduce the anti-hypertensive benefits of Green Tea Catechins somewhat.[84]
 
+
 Via digestive proteins (larger proteins being broken down into small peptide chains that happen to be bioactive) whey protein may be able to reduce blood pressure
+
 
 In a long-term study on elderly women consuming whey protein (30g protein, 600mg calcium; control group had sugar), it was found that an estimated increase of 18-22g total dietary protein daily was unable to significantly benefit blood pressure over the course of 2 years; this study had persons using antihypertensive medications with unknown interactions with Whey protein.[85] Another study on persons with hypertension consuming a whey drink with enhanced ACE inhibitory fragments for 12 weeks also reported no significant effects on blood pressure relative to control[86] although a similar study protocol used previously has noted significant reductions in blood pressure over 21 weeks (-6.7mmHg systolic, -3.6mmHg diastolic; relative to control).[87] while whey protein in general has been shown to reduce blood pressure in obese subjects relative to casein and glucose controls.[88]
 
 Some acute studies do note a decrease in blood pressure, but 45g whey isolate was not significantly different than 45g sodium caseinate (casein) or from 45g of glucose as a control[89] (it should be noted that ingestion of almost anything, acutely, can reduce blood pressure slightly,[90] whey just outperformed casein and glucose when calories were controlled). Changes in lipoproteins with this study design are also insignificantly different, although there was a significantly lesser release of triglycerides after the consumption of whey relative to both casein and glucose.[91]
 
+
 Studies on Whey protein being added to the diet to reduce blood pressure in hypertensive persons are mixed
+
 
 5.2
 
@@ -443,7 +462,9 @@ In animal models, pairing L-Cysteine with a meal can acutely improve postprandia
 
 When looking at exclusively human studies, Whey Protein added to a meal (with no comparative protein source) appears to increase insulin secretion and reduce the post-prandial (after meal) exposure to glucose by 21%.[112] Adding 4.4g of Branched Chain Amino Acids to 25g of a glucose drink can decrease the exposure to glucose (AUC) by up to 44% while adding 18g of whey can reduce it by 56%.[26]
 
+
 Whey appears to be somewhat effective as a diabetic adjunct treatment, being able to reduce post-prandial glucose levels and possibly confer benefits to pancreatic function secondary to L-Cysteine
+
 
 In a study on diabetics, who tend to have elevated triglycerides after a meal (due to higher glucose) whey protein can reduce meal-induced spikes in triglycerides.[94]
 
@@ -469,7 +490,9 @@ One study in humans with Hepatitis C noted that whey protein concentrate was abl
 
 These protective effects have been seen in rats alongside improved histological results and improved oxidative status[119] which also confers an anti-oxidative buffer during exericse, known to induce oxidative damage.[120]
 
+
 Probably via the cysteine content of whey, Whey protein appears to be quite protective and rehabilitative of the liver and may improve some lipid parameters (triglycerides mostly)
+
 
 7.3
 
@@ -481,11 +504,15 @@ When protein is acutely increased in the diet, glomerular filtration rate (a bio
 
 This apparent lack of harm is due to a highly variable excretion rate from the kidneys that correlates with dietary intake,[131] and these physical adaptations do not inherently signal kidney damage.[133]
 
+
 In otherwise healthy individuals, and to specify, this section refers to those without kidney impairment, protein intake does not appear to adversely affect kidney function. There is an apparent increase in glomerular filtration rate (GFR) with higher protein diets and acute protein ingestion, with an inverse decrease in GFR with low protein diets; these fluctuations of GFR are not associated with kidney abnormalities if the kidneys were healthy to begin with; but signify adaptation to new dietary intake
+
 
 Although there are "no clear renal-related contraindications to HP diets in individuals with healthy kidney function",[134] protein intakes and whey protein may be contraindicted in persons with kidney impairments. The most commonly cited is acceleration of chronic kidney disease, where an inherent reduction of glomerular filtration rate seen during disease pathology (indicative of the failing potential of the kidney) appears to be accelerated when dietary protein is raised.[135][136]
 
+
 In persons with impaired kidney function, additional protein can exacerbate the decline in kidney function. These populations may be already placed on a low protein diet by a Medical Doctor, and should speak to a physician before using Whey Protein
+
 
 8.
 
@@ -543,7 +570,9 @@ Lactoferrin is a bioactive peptide with an ability to bind iron, and it has been
 
 Lactoferrin appears to be endogenously produced in humans and is an aspect of the immune system, while lactoferrin in when (bovine lactoferrin) can mimic its actions somewhat.[160]
 
+
 Although a promising whey-derived anti-cancer molecule, the content of lactoferrin in whey may be too low to exert appreciable effects
+
 
 10.3
 
@@ -573,7 +602,9 @@ One study comparing whey protein against a non-caloric placebo found that whey p
 
 At least in rats, the increase of Myostatin associated with immobility is not suppressed by protein supplementation either.[166]
 
+
 Counter-intuitively, may prevent the suppression of Myostatin induced by exercise relative to control groups; this seems to apply to protein in general
+
 
 12.2
 
@@ -583,7 +614,9 @@ Pairing protein ingestion and exercise stimulates muscle protein synthesis to a 
 
 Many other studies note significantly more muscle protein synthesis relative to control, with higher levels of Myofibrillar FSR relative to nothing,[74][73] higher acute levels of amino acid uptake into muscle paired with amino acid retention,[173] a higher net nitrogen retention relative to a non-intervened group (independent of timing),[174] 
 
+
 Protein is better than nothing when it comes to Muscle Protein Synthesis acutely, and Protein's benefits are augmented with resistance exercise. The importance of the combination may be further elevated in the aging person
+
 
 A study conducted on resistance-trained males already following a 4-day weekly split intervened with both whey paired with casein (40g, 8g) and whey paired with additional BCAAs and Glutamine (40g, 5g, 3g) against placebo (40g carbohydrate) and found that, over the course of 10 weeks and with an overall dietary intake of 2.1g/kg protein in the two protein groups, that whey plus casein was able to enhance lean mass gains over 5 weeks with no further effect over 10 weeks relative to placebo.[175] The results of this study may have been influenced by less initial body weight in this group, which seemed to normalize.[175] In young untrained men, whey protein is significantly more effective than carbohydrate at inducing muscle protein synthesis and accumulating lean mass over a period of 14 weeks, when the average protein intake prior to intervention was 97+/-5.3g (1.2g/kg); muscle growth seen as 18% and 26% for type I and type II fibers.[176] Consumption of fat-free milk (17.5g protein, 25.7g carbohydrate) has also been shown to increase lean mass over a period of 12 weeks, and did so to a greater degree than soy protein when all subjects consumed 1.2-1.4g/kg protein before intervention[177] and in addition to an ad libitum (no dietary controls) diet.[165]
 
@@ -591,11 +624,15 @@ Many studies do note that the addition of protein does not confer additional ben
 
 Another study that found no effects of whey protein used 10, 20, or 30g taken twice daily in overweight and obese persons for 9 months, and in conjunction with a thrice-weekly workout regimen (2 weight training sessions, 1 aerobic) found no improvements on any metabolic parameter including body composition.[181] This study also experienced a 42% dropout rate over the study period, and although benefits were seen to lean mass and fat mass they were attributed to weight training due to not significantly differing between the three test groups.[181]
 
+
 The addition of protein to a diet does not inherently increase Muscle Protein Synthesis, studies that have the subjects consuming higher protein levels (as part of their normal diets) tend to show less promising results than those who underconsume protein (which tend to be studies done in the elderly, confounding the research for athletes quite a bit)
+
 
 Two studies have been conducted assessing at what point protein synthesis is maximized after resistance training when ingesting protein, one in youth[172] and one in older individuals.[171] In younger adults (n=6) with previous resistance training experience being tested with 5, 10, 20, and 40g egg proteins it was found that dose-response existed up until 20g protein for 4 hours post exercise, with no added benefit with 40g despite increasing circulating amino acids higher than 20g; this study was conducted with a diet of 1.4g/kg bodyweight and exercise was conducted in a fasted state.[172] When tested in older men (n=37) 20g of protein was again found to increase muscle protein synthesis, but when paired with resistance training exercise 40g appeared to be more effective in increasing muscle protein synthesis (95% more than baseline, relative to a 60% increase seen with 20g;[171] the youth experienced a 93% increase with 20g[172]). Interestingly, elderly persons are also more responsive to fast protein sources and acute spikes in amino acids relative to younger persons.[182]
 
+
 Maximal protein synthesis rates seem to be met at lower circulating amino acid levels in youth relative to elderly persons. Due to the protein synthesis rates being similar at 20g in youth and 40g in elderly persons, it suggests inefficiency of amino acid utilization in elderly persons. Not too much data on graded intakes, however
+
 
 12.3
 
@@ -603,17 +640,23 @@ Nutrient Timing
 
 One study conducted in older persons (n=24) found that there was no significant difference in protein synthesis rates when comparing casein protein 30 minutes before or after exercise (2 different groups) and whey after a workout when measured for 6.5 hours after exercise, although all three groups outperformed placebo.[183] This study used 15.6-30.4g protein (0.45g/kg lean body mass) and did note a higher Cmax of plasma leucine, insulin, and AA concentration with whey after about 2-3 hours.[183]
 
+
 When comparing protein sources against each other, in regards to consuming them near the workout, there may not be any significant difference between protein sources if looking at the entire day or a longer period of time. Whey protein may have higher protein synthesis rates if measured for the subsequent 2-3 hours after ingestion, however; other protein sources catch up
+
 
 One of the more well-conducted studies on the matter (10 weeks in duration, resistance trained young men, moderate to high level workout protocol) found that 42g whey protein (3.6g leucine) given to 33 men either as a morning and night shake (2 shakes, group A) or a pre and post workout shake (2 shakes, group B) [174] found that both groups supplemented protein (and bringing total protein intake up to 31.5-31.6% from 20.8-23%; or 1.4-1.8g/kg up to 2.16-2.28g/kg) had an increase in bench press strength with no difference between protein groups, and no difference between the two protein groups and control in regards to squat strength increases or body composition.[174] The authors hypothesized that the lack of results were due to a plateau in protein-induced benefit at around 1.6g/kg in athletes. Similar results have been seen in a 16-week trial on diet induced weight loss in type II diabetics already placed on a high protein (33% of 6000-7000kJ, 1.2g/kg for obese persons) diet, where timing of a high protein snack (21g skim milk protein) prior to exercise relative to another time of day had no effect on body composition, energy expenditure, or all measured glycemic or lipid profiles (which all improved with weight loss).[184]
 
 Contrary to this, a 12-week resistance training program in previously sedentary elderly men (with a dietary intake of 1g/kg bodyweight protein before intervention) showed benefits on lean mass accrual when the protein supplement was consumed immediately after training (1.8 ± 0.7%) relative to 2 hours alter (1.5 ± 0.7%) as well as thigh circumference, with 1 rep max strength (but not 5 rep max) strength also improving.[185] This study, however, used a skim milk/soybean blend at 10g protein (7g carb, 3.3g fats) and was the only source of nutrition for the 2 hours after exercise.[185] Another study on sedentary older individuals (55-75) found that despite the same amount of protein ingestion per day over 3 days, timing 15.3g protein (milk protein, 4g of whey) after exercise (relative to carbohydrate) paired with a slightly caloric increase in both groups led to a 57% greater protein accumulation in the group that consumed protein after exercise.[186] This study used a lead-in diet of 15% protein (30% fat, 55% carbs), and is a low overall intake.
 
+
 The benefit of whey protein being timed around workouts may be dependent on low dietary intake of protein, with more efficient protein utilization occurring near a workout; these benefits may be 'washed away' by overconsuming protein, making the importance of timing inversely related to overall dietary protein intake. The notion that nutrient timing may be relevant to older individuals is also possible
+
 
 One study on 6 healthy and untrained volunteers, an essential amino acid (EAA) solution of 6g taken alongside 35g carbohydrate in a fasted state was significantly more effective in improving muscle protein synthesis (as measured by phenylalanine incorporation) when taken immediately before when compared to immediately after.[187] This study did not note any differences in workload, blood flow, or amino acid levels in the blood aside from timing.[187] Another study using the same formulation, sample size, and in a fasted state but comparing 1 hour after against 3 hours after noted that no significant differences existed in insulin secretion, glucose uptake, or overall protein synthesis or breakdown up to 4 hours after intervention[188] while another comparing immediately after and 3 hours after (exercise in a fasted state) using 10g protein, 8g carbohydrate, 3g fats found a 12% increase in muscle protein synthesis above baseline values in the 3-hour group yet a three-fold increase in the group consuming the drink immediately after cycling exercise.[189]
 
+
 Pre-loading some protein, if in a fasted state, may be better than consuming it after a workout with little to no pertinent need to consume the protein immediately after the workout. The 'one hour metabolic window' may apply only to fasted training where there is no pre-load, as some evidence suggests that sooner is better in this particular scenario only
+
 
 12.4
 
@@ -623,7 +666,9 @@ Whey protein, and protein in general, may enhance recovery rates from exercise. 
 
 In studies that measure delayed onset muscle soreness (DOMS), no significant effects are seen between carbohydrate,[191] milk, or a combination of the two[179] no significant differences between water, whey isolate, and whey hydrolysate when measured 6 hours later,[59] The studies that do note less DOMS are those that have protein consumed 30 minutes before exercise, suggesting pre-loading may be of importance;[193] this has also been noted with isolated Branched Chain Amino Acids, where taking BCAAs before exercise reduced DOMS.[194]
 
+
 Preloading protein, possibly via the BCAAs or Leucine, can reduce soreness induced from exercise; this effect is not seen when taking protein after a workout. Protein appears to enhance the rate of power recovery following exhaustive exercise, but no evidence exists to say that this applies to only whey protein (may work through protein inherently)
+
 
 13.
 
@@ -639,7 +684,9 @@ When investigating Whey protein against other common protein sources (skim milk,
 
 However, one study (n=8) comparing protein (18g whey, 2g carbohydrate, 1.5g fats) against carbohydrate (19g carbs, 1g whey, 1g fat) when both are ingested before weight training found that both groups experienced an increase in metabolic rate due to weight training, but the increase was preserved in the protein group when measured at 24 hours.[197] There was no significant difference in workload performed during the workouts or in the diets (proteins or calories), and although the difference in metabolic rate was measured at 5.1kJ/kg/d (a 5% increase) this difference disappeared by 48 hours; this study was not designed to compare pre and post workout protein timing.[197]
 
+
 Protein doesn't appear to inherently increase metabolic rate (as assessed by oxygen consumption) beyond the thermic effect of food, but may have some synergistic interactions with exercise
+
 
 13.2
 
@@ -667,7 +714,9 @@ One study comparing 52g whey protein isolate against soy and carbohydrate (2 dif
 
 Conversely, studies that do not find reductions in body weight exist. One intervention used whey against glucose and casein control groups in overweight/obese persons for 12 weeks and found improvements in cardiovascular health biomarkers (blood pressure) yet no significant weight loss.[88]
 
+
 Whey protein does not seem to induce fat loss when the diet is not controlled, and may not influence fat loss when substituted in the diet. For intentional weight loss purposes that have a low dietary intake of protein, whey protein supplementation appears to enhance fat loss and preserve lean mass (these effects are most likely due to protein inherently, and not whey protein specifically)
+
 
 14.
 
@@ -687,7 +736,9 @@ When compared to casein protein, whey shows higher levels of serum BCAAs and mus
 
 In a study on COPD (Chronic Obstructive Pulmonary Disease), characterized by disturbed amino acid metabolism, casein appears better than whey at inducing protein retention and possibly building muscle mass (study was too short to conclude the latter statement).[216]
 
+
 To make a general statement on the comparison, it seems that most benefits associated with either Whey or Casein are due to them inherently being protein. Whey might benefit the elderly more than Casein, and vice-versa for youth. The degree that one is better than the other (in regards to protein synthesis) is minimal relative to the degree they are both better than a protein deficient diet
+
 
 Against casein (as sodium caseinate) Whey protein seems better able to reduce spikes in Triglycerides seen after meals with fatty acids in them[91] and can reduce triglycerides over a period of 6 weeks; outperforming casein but not reaching statistical significance in doing so.[217] When paired against casein, whey protein seems to be better at reducing LDL cholesterol and Total cholesterol over a period of 6 weeks, and appears to more favorably influence insulin sensitivity and insulin AUC compared to casein.[217] One study in rats failed to replicate the reduction in triglycerides with 100% of the diet as whey relative to a group with all casein, but demonstrated an increase in HDL-C over casein.[218]
 
@@ -695,7 +746,9 @@ One study in rats found a significantly higher fasting glucose level relative to
 
 When measuring anti-oxidative abilities (in a clinical setting), whey protein confered greater anti-oxidative and anti-inflammatory effects as assessed by glutathione and IL-6; respectively.[219]
 
+
 Whey appears to be better able to normalize select blood biochemistry, and could potentially be called 'healthier' than casein protein; these may be vicarious through the L-Cysteine component
+
 
 15.2
 
@@ -712,7 +765,9 @@ Vs. Collagen
 
 In a crossover intervention in older women (n=9) comparing hydrolyzed collagen protein against whey isolate with the diet controlled to 0.4g/kg bodyweight (low amounts said to sensitize to changes in protein supplementation by the authors) and having the supplements bring the totals up to 0.8g/kg, it was found that hydrolyzed collagen was better able to preserve body weight with no significant differences in nitrogen balance.[222] Over 15 days, weight decreased by 0.81±0.28kg in whey and 0.50±0.27kg in collagen, with no differences in percent of fat or lean mass lost.[222]
 
+
 Not much evidence to compare these two protein sources, and the one study is fairly low powered
+
 
 16.
 
@@ -738,7 +793,9 @@ The influence of protein and leucine combinations does not appear to differ to s
 
 When comparing 3g of leucine against 25g of whey protein of which contains 3g leucine, it was found that leucine seems to be causative of most phosphorylation of p70s6k and mTOR (proteins that are activated to induce muscle protein synthesis) and rivaled whey's initial increase in muscle protein synthesis, but failed to further increase muscle protein synthesis in the 3-5 hour time period while whey further increased MPS.[228]
 
+
 The addition of leucine (0.1g/kg) to whey protein (0.2g/kg) might further enhance the benefits of whey protein; whether increasing the protein content to get more leucine (vicariously through whey) confers the same benefit is unknown
+
 
 16.3
 
@@ -754,7 +811,9 @@ Protein digestive enzymes are sometimes paired with protein to 'enhance absorpti
 
 Aminogen is a blend of enzymes from Aspergillus niger and Aspergillus oryzae, these results may apply to other compounds with protein digestive abilities such as Bromelain.
 
+
 May accelerate the rate of absorption for whey concentrate, but more studies would need to be conducted for conclusions. The cessation of measuring at 4 hours after a 50g bolus of protein may favor the faster absorbing protein, when it is theoretically possible that there would be no significant AUC difference if measured at 8 hours
+
 
 16.5
 
@@ -766,7 +825,9 @@ HAMLET is the most well researched, but Oleic Acid has been shown to form comple
 
 One study investigating the effects of heat treatment noted that unfolding of the protein (denaturation) caused an enhanced subsequent production of BAMLET in vitro, but eventually the heat could cumulatively degrade the a-lactalbumin precursor and hinder BAMLET production.[240] These results contrast earlier hypothesis' that changes to protein confirmation could abolish the effects of HAMLET/BAMLET.[243] One the complex itself is formed, it has either equal to or lesser stability than the protein it was formed from; with one study noting that HAMLET was denatured at 15°C less than a-lactalbumin.[244]
 
+
 A promising anti-cancer complex of whey protein and olive oil components; no in vivo studies currently exist so beyond noting its potential no conclusions can be made as to efficacy or whether it can be digested or formed in vivo after consumption of the components
+
 
 17.
 
@@ -780,5 +841,7 @@ Whey is already a component of human breast milk,[245][246] as are many of its b
 
 No human evidence exists directly assessing whether or not whey consumption per se is good or bad for infant health when consumed by a mother during pregnancy or lactation; one study in mice found that general overconsumption of protein (40% of the diet by calories) during pregnancy could slightly reduce birth weight of the pups, and during lactation it reduced the mRNA of bioactive proteins in the breast.[248]
 
+
 No compelling evidence to discourage usage in pregnancy, and whey as a naturally component of cheese and milk (consumed routinely during pregnancy) suggests moderate usage of whey protein is fine. Mothers should be aware of possible contaminants in poor brands of whey protein which has been reported in the media previously, although is seen as uncommon
+
 

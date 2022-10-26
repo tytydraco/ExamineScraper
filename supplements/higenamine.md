@@ -94,7 +94,9 @@ Higenamine (Norcoclaurine) is a benzyltetrahydroisoquinoline[1] that is found in
 
 Known plants to possess a Higenamine content are:
 
-Nandina domestica Thunberg (Berberidaceae)[2] at 216nmol/g (0.058mg/g)[3]Nelumbo Nucifera[4][4]Argemone mexicana[5]Magnolia salicifolia[6]Aconite Root[7][8]Tinospora crispa[9]Coptis japonica[10]A constituent of a variety of plants, rather than a single isolated plant
+Nandina domestica Thunberg (Berberidaceae)[2] at 216nmol/g (0.058mg/g)[3]Nelumbo Nucifera[4][4]Argemone mexicana[5]Magnolia salicifolia[6]Aconite Root[7][8]Tinospora crispa[9]Coptis japonica[10]
+A constituent of a variety of plants, rather than a single isolated plant
+
 
 1.2
 
@@ -120,7 +122,9 @@ When divided into two apparently different groups, the bioavailability was eithe
 
 Differences in serum values may be mediated at the level of either intestinal absorption or conjugation, and the main conjugative metabolite appears to be via glucuronidation (as assessed by urinary recovery).[13][14]
 
+
 Minimal pharmacokinetic data at this moment in time, but Higenamine appears to exert a very rapid absorption phase with a very rapid half-life as well. There appears to be a degree of inter-individual difference in how much Higenamine gets into the blood, which may be mediated by Glucuronidation enzymes (possible synergism with Piperidine from Black Pepper if this is the case)
+
 
 2.2
 
@@ -140,7 +144,9 @@ Acetylcholine
 
 A concentration of 10uM Higenamine in motor neurons isolated form mice (in vitro study) appear to enhance acetylcholine release, and are blocked by propanolol (thus mediated via Beta(2)adrenergic agonism, a known mechanism of Higenamine).[15] Concentrations of 30-100uM Higenamine diminished the ability of motor neurons to release acetylcholine when stimulated, suggesting peak efficacy in the 10-30uM range.[15] Spontaneous release of acetylcholine (without nerve stimulation) was slightly increased.
 
+
 Possesses possible benefits to muscular output (via increasing acetylcholine release from motor neurons), but no in vivo evidence to assess potency nor optimal dose; mechanism is via beta(2)adrenergic activation
+
 
 3.2
 
@@ -148,7 +154,9 @@ Dopamine
 
 At a concentration of 20mM, Higenamine has been shown in vitro to deplete dopamine concentrations in PC12 neuronal cells by 55.2% with an IC50 of 18.2mM;[16] this was thought to be through inhibition of tyrosine hydroxylase, which converts L-DOPA into dopamine.[17]
 
+
 May inhibit tyrosine hydroxylase and suppress dopamine, but no in vivo evidence exists
+
 
 3.3
 
@@ -160,7 +168,9 @@ In vitro, it appears Higenamine increases cell viability in a concentration depe
 
 Induction of HO-1 also appears to be the mechanism underlying protection against myocardial ischemia-reperfusion from Higenamine.[19]
 
+
 Higenamine appears to be protective under instances of Ischemia (lack of oxygen), with the exact mechanisms known but not yet compared to an active control (to assess potency of these protective effects)
+
 
 4.
 
@@ -172,7 +182,9 @@ Platelets
 
 In serum isolated from rats and humans, Higenamine appears to have antiplatelet aggregating propeties with an IC50 value of 140uM in response to Arachidonic Acid (AA) induced clotting, noted to be half as effective as Aspirin (used as an active control), but against U46619-induced aggregation Higenamine (73uM IC50) was more effective than Aspirin on rat platelets[20] and show efficacy on collagen and ephinephrine-induced aggregation as well.[21] Higenamine may directly compete at TA receptors (Arachidonic acid metabolizes to Thromboxane A2 and acts on these receptors to induce platelet aggregation[22]) since it seems fairly weak at actually suppressing Arachidonic Acid metabolism into Thromboxane A(2) with an IC50 2990uM.[20] Anti-thrombotic effects have been observed in mouse acute thrombosis model and rat AV shunt models after oral ingestion of 50-100mg/kg bodyweight[23] and after oral administration of 10-50mg/kg Higenamine in a rat model of disseiminated intravascular coagulation;[24] the S-Enantiomer may be more potent than the R-enantiomer of Higenamine,[25] but the previous studies used a racemic mixture of the two.
 
+
 Higenamine per se appears to have anti-thrombotic potential, which seems to be related to competing with Thromboxane A(2) at the receptor level. These have been noted at oral intakes of 50-100mg in rats (8-16mg in humans)
+
 
 4.2
 
@@ -182,7 +194,9 @@ Higenamine can increase the rate and force of contraction of the heart with EC50
 
 A positive ionotropic effect of Higenamine also exists with an EC50 of 97nM (95% CI of 81.5-115.2nM), again being approximately 20-fold less potent than isoproterenol.[26]
 
+
 Has the same mechanisms as other beta adrenergic agonists to increase heart rate; the oral dose required for this is not currently known
+
 
 5.
 
@@ -196,7 +210,9 @@ Higenamine is known as a Beta-adrenergic receptor agonist, a mechanism shared by
 
 In regards to the alpha-adrenergic receptors, Higenamine appears to be a weak A(1) antagonist and a weak A(2) agonist.[29][8]
 
+
 Possesses the same mechanisms as other stimulant fat burners to induce fat loss, but currently no evidnce exists to suggest potency of these effects in vivo
+
 
 6.
 
@@ -210,7 +226,9 @@ Higenamine is able to inhibit LPS-induced nitrite accumulation in macrophages, w
 
 A subsequent injection of 10mg/kg of the S-enantiomer reduced serum nitric oxide (induced by exposure to endotoxin) from 88+/-7μM to 28+/-5μM (68% decrease), with some efficacy from the racemic mixture and a higher dose of 20mg/kg being required for the weaker R-enantiomer.[30] These effects may be downstream of Higenamine reducing induction of iNOS (IC50 53+/-2.6μM) via NF-kB inhibition,[7] and decreases in serum nitric oxide (elevated during shock) replicated[7] and possibly secondary to NF-kB inhibition.[7]
 
+
 Appears to possess anti-inflammatory mechanisms and may be useful in clinical settings for septic shock
+
 
 7.
 
@@ -224,7 +242,9 @@ Higenamine was found secondary to the fruits of Nandina domestica, which are a t
 
 When guinea pigs are exposed to histamine who were pretreated with test drugs, Higenamine was able to delay bronchiol convulsion by 1.7-fold relative to control (slightly underperforming salbuterol as active control, which exerted a 2.3-fold delay over control).[8] The benefit was dose dependent, and a higher concentration of Higenamine was more effective.
 
+
 Nandina domestica has a long history of being helpful for asthmatics, and Higenamine is thought to contribute benficially. No actual interventions in living creatures exist aside from one Hamster study, suggesting similar potency to Salbuterol
+
 
 7.2
 
@@ -234,7 +254,9 @@ In a study where low doses of Higenamine were injected into the rat penis (to av
 
 Pre-treatment of rat corpus cavernosums with Higenamine enhanced the relaxation effects of PDE5 inhibitors, suggesting possible additive or synergistic effects.[1]
 
+
 Appears to be proerectile, but no studies exist to connect the one rat study (injections) to oral dosing; may be synergistic with PDE5 inhibitors (Horny Goat Weed, Sophora Flavescens, Viagra)
+
 
 8.
 
@@ -242,5 +264,7 @@ Safety and Toxicity
 
 A study cited in this paper[11] but otherwise inaccessible, from the journal Zhongguo Lin Chuang Yao Li Xue Za Zhi (Y.R Du et al.) suggests that the highest safe/recommended dose in humans is 24mcg/kg bodyweight as higenamine hydrochloride. Rabbit studies appear to use 50mg/kg acutely with no harm acutely (correlates to 11mg/kg[32]) but no long term studies have been conducted.
 
+
 Limited safety evidence on Higenamine
+
 

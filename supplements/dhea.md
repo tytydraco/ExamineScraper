@@ -232,13 +232,17 @@ Synthesis and Metabolism
 
 Dietary cholesterol is converted into pregnenolone via the CYP11A1 enzyme, and then converted into DHEA via the CYP17 enzyme (P450c17) also known as 17 alpha-hydroxylase 17,20-lyase.[18] DHEA converts to DHEAS via sulfotransferases and can be converted back via sulfatases, creating a large interchangeable 'pool' of DHEA:DHEAS circulating in the body for further metabolism.[19] DHEA synthesis is usually referred to occur in the adrenal cortex (small glands above the kidneys) due to a high localized expression of the second enzyme mentioned (CYP17),[20][21] yet synthesis of DHEA can occur in the testes,[20] ovaries,[22] and the brain where circulating levels of DHEA are synthesized locally independent of the rest of the body can can reach concentrations 6-8 times higher than systemic serum.[23]
 
+
 DHEA is made from cholesterol naturally via two enzymes, and is highly localized to the Adrenal Glands although not limited to them
+
 
 Starting from the DHEA:DHEAS pool DHEA tends to be converted into androstenedione directly via the 3β-HSD enzyme, and then multiple paths can be taken. Androstenedione can be directed towards the most potent androgenic hormone 5α-Dihydrotestosterone (DHT) via either turning into testosterone and then becoming substrate for the 5α-Reductase enzyme, or by being substrate to the 5α-Reductase enzyme (to turn into 5α-Androstenedione) and then being converted to DHT. Either route requires one pass via the 5α-Reductase enzyme and one pass by the 17β-HSD enzyme (converting androstenedione to testosterone, and 5α-androstenedione to DHT).[19][18]
 
 If one of these androgens mentioned has not yet been substrate for the 5α-Reductase enzyme, they can instead be substrate for the Aromatase enzyme and be converted to estrogens. Androstenedione will be converted to Estrone, and Testosterone will be converted to Estrogen; both hormones with 5α in front of them cannot be converted to Estrogen, and Estrone can be converted to Estrogen via the same 17β-HSD enzyme mentioned before.[19][18]
 
+
 In a sense, androstenedione and testosterone are bidirectional hormones and can turn into more potent androgens (via 5α-Reductase) or more potent estrogens (via Aromatase). Androstenedione forms the start of this multidirectional pathway, but DHEA forms the pool from which Androsterone is derived from
+
 
 DHEA, completely independent of the classical steroid pathways mentioned above, can be turned into bioactive DHEA derivatives; demonstrating another possible route for DHEA metabolism.
 
@@ -248,7 +252,9 @@ Simply put, DHEA can be metabolized into derivatives via CYP7B1 and this is irre
 
 These DHEA metabolites are more involved with the immunological and inflammation aspects of DHEA supplementation, and some neurological aspects.
 
+
 DHEA can form bioactive metabolites independent of classical steroid synthesis, and not through androstenedione
+
 
 2.2
 
@@ -304,7 +310,9 @@ Despite the differences seen in kinetics, the overall bioavailability of topical
 
 Higher levels of androgens seen with topical administration may be due to bypassing enzymatic digestion of androgens by UDP-Glucuronosyltransferase enzymes[46][47] which are more prevalent in the gastrointestinal tract and liver.[48] When measured in the blood, the most prevalent androgen is actually the metabolite ADT-G (Androsterone Glucuronide) consisting of up to 90% of all androgens after application or post-menopausal females, and reaches 70% the value of controls.[45][49] ADT-G is important to note in women as the majority of androgen synthesis from DHEA in women exists in peripheral tissue, and may be a more reliable biomarker of androgenic effects than circulating testosterone.[30]
 
+
 Topical administration appears to have comparable overall bioavailability (percent hitting the bloodstream) when compared to oral ingestion. Topical seems to influence androgens like testosterone more than oral ingestion, and although there are no differences in the short term DHEA cream appears to be better than DHEA gel
+
 
 3.2
 
@@ -336,7 +344,9 @@ The Cortisol/DHEA ratio may underlie variability in responses to DHEA. One study
 
 Other compounds that have been implicated in the Cortisol:DHEA ratio are Melatonin, which has been shown to increase DHEA relative to cortisol[69] and L-Theanine may be more effective in schizophrenics that have elevated cortisol to DHEA.[70]
 
+
 A balance is supposed to exist between these two hormones, and DHEA may have quite a few of its benefits associated with 'correcting' an abnormal ratio of these two in instances of hypercortisolemia (high blood cortisol)
+
 
 4.2
 
@@ -358,7 +368,9 @@ Endothelium and Vessel Health
 
 DHEA has been found to interact with a G-protein coupled receptor on the cytosol, which can induce a cascade via MAPK and PI3K/Akt, resulting in increased cGMP and NO.[33][72] This receptor has a good affinity for DHEA at 48.7 pM and is saturated in the range of 1-10uM, and its activation confers cardioprotective effects.[33] The biomarkers of this receptor have been seen in vivo after 50mg DHEA ingestion, and confer cardioprotective effects.[34]
 
+
 May exert direct protective effects on the endothelium (blood vessel wall) and help maintain vessel health and functionality
+
 
 5.2
 
@@ -372,7 +384,9 @@ Some studies do not note decreases in lipoproteins, and these studies either not
 
 However, prospective studies on atherosclerosis have not found a relationship between DHEA/DHEAS levels and pathogenesis of atherosclerosis, suggesting no relation between the two.[81]
 
+
 There is evidence that DHEA reduces lipoproteins potently, and this may be vicarious through the actions of estrogen. LDL and HDL both experience declines, however, and the clinical significance of DHEA being cardioprotective in this manner is in disrepute
+
 
 6.
 
@@ -404,7 +418,9 @@ Some studies noting null results do note trends towards significance, reducing i
 
 At least two studies have noted a slight increase in insulin levels with no changes in serum glucose levels at 50-75mg daily, suggesting a trend towards insulin resistance as well, although the degree of resistance was minimal.[95][96]
 
+
 Effects of supplemental DHEA on insulin sensitivity is dubious
+
 
 7.2
 
@@ -424,7 +440,9 @@ In regards to the trials conducted on youth with DHEA, one trial conducted on 9 
 
 Beyond these studies, 40mg DHEA in obese adolescents confers no benefits to skeletal muscle mass,[100] 25mg DHEA didn't raise testosterone in youth and muscle mass was not measured,[101] but an obscene dose of 1600mg per day for 28 days was able to reduce fat mass without changes in weight, signifying muscle hypertrophy, without affecting testosterone.[91]
 
+
 100-150mg DHEA appears to increase testosterone levels in most studies (no consensus) but this does not per se translate into increases in skeletal muscle mass. Studies combining effective doses of DHEA and weight lifting in youth are lacking
+
 
 9.
 
@@ -438,7 +456,9 @@ Several studies measuring food intake of rats given DHEA find that DHEA ingestio
 
 The conjugate, DHEAS, appears to be related to satiety after feeding in humans.[107]
 
+
 It is possible that DHEA may independently reduce caloric intake, especially from fat, which may contribute to any observed reductions in body fat
+
 
 9.2
 
@@ -488,7 +508,9 @@ DHEA is thought to increase well-being due to the ability of DHEA supplementatio
 
 This is in contrast to any state of adrenal insufficiency, where low circulating levels of DHEA are due to low-activity adrenal glands rather than the age-associated decline. In this state, DHEA supplementation is effective at increasing mood and well-being more than placebo.[119][120] One study suggested that this may extend to stable HIV patients as well.[121]
 
+
 Seems pretty reliable as a mood increasing agent in those with adrenal insufficiency, but in otherwise healthy individuals it does not appear to be effective. In older men with androgen deficiency there is no consensus on the effects of DHEA on mood as it appears mixed
+
 
 12.
 
@@ -504,7 +526,9 @@ Studies on DHEA supplementation in men measuring PSA note either no increases in
 
 In vitro, DHEA appears to be able to increase PSA secretion from prostate cells only if cancerous and to a lesser potency than that of other androgens like testosterone.[125][127] 
 
+
 Although there is biological basis for DHEA and its metabolites (testosterone, dihydrotestosterone) to increase prostate-specific antigen (PSA) levels and increase risk of prostate cancer, it does not appear to do this at moderate doses when taken by men above the age of 40 without prostate cancer
+
 
 12.2
 
@@ -528,7 +552,9 @@ The beneficial trials noted were conducted in regards to hormonal status (androg
 
 Of these trials, a few were conducted in adrenal fatigue/insufficiency and excluded from the above amalgamation as this is treating a deficiency rather than supraphysiological supplementation.[142][119][143][114] One study showed benefit in the disease state of hereditary angioedema.[144]
 
+
 Without analyzing the details of Human Interventions (done in other sections), basic supplementation of DHEA at 50-100mg daily is able to alleviate almost all aspects of 'aging', but is contested on most of them. The only topics that appears to both be substantially researched and uncontested are treatment of Adrenal Insufficiency being beneficial and DHEA at 50-100mg conferring a cardioprotective effect (on the level of the endothelium and reducing lipid levels) in men above 40
+
 
 13.2
 
@@ -542,7 +568,9 @@ Benefit has been found with skin treatment when applied topically or orally,[150
 
 Some studies were omitted from the above paragraph due to being in specific disease states, such as adrenal insufficiency,[156][119][114][157][142][120][158] Anorexia Nervosa,[159] hypopituitary persons,[160][129][161] or lupus.[162][163][164][165][166][167][168]
 
+
 For women, the notion that DHEA benefits heart health does carry over but with less evidence relative to men. However, much more evidence exists for the beneficial effects of DHEA on Bone Mineral Density suggesting that it may be a good preventative measure for osteopenia and osteoporosis risk.
+
 
 14.
 
@@ -554,11 +582,15 @@ Androst-3,5-dien-7,17-dione
 
 This is a further metabolite of 7-Keto DHEA, and is the result when a single bond on the A ring between carbons 3 and 4 is turned into a double bond. This turns the 5-Androstene designation into 3,5-dien, as the -en refers to a double bond and the di refers to two. Surprisingly, it is a natural metabolite found in the urine as this change from 7-Oxo (the addition of a double bond) appears to occur in the body somewhere[169] perhaps in the liver.[170] Sometimes this metabolite is also referred to as 3-desoxy-7-keto DHEA. Regardless of the colloquial name given, the elongated chemical name of this molecule is (8R,9S,10R,13S,14S)-10,13-dimethyl-2,8,9,11,12,14,15,16-octahydro-1H-cyclopenta{a}phenanthrene-7,17-dione
 
+
 Two separate 'common' names to refer to the same molecule
+
 
 This conjugate appears to possess competitive aromatase inhibiting activities, with an IC50 of 1.8uM and a Ki of 0.22uM.[171] The inhibition was time-dependent in pseudo-first order manner, with a Kinact min-1 of 0.119.[171]
 
+
 Not yet scientifically tested in humans, but appears to be a potent aromatase inhibitor
+
 
 {OLD-IMG-ID:71}
 

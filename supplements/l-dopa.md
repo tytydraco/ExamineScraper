@@ -120,7 +120,9 @@ Androgens
 
 A dose of 1000mg/kg bodyweight L-DOPA in rats (human dose equivalent 160mg/kg) is associated with an increased circulating testosterone level in rats after 7-14 days, possibly secondary to Luteinizing Hormone.[12] The only other study investigating testosterone levels is one done in Japanese Quails, which shows increased testosterone possibly secondary to dopaminergic influence of the testes.[13]
 
+
 The theory of dopamine precursors increasing testosterone is there, but the topic has not been investigated into with any depth.
+
 
 3.2
 
@@ -150,7 +152,9 @@ Penile Tissue
 
 L-DOPA administration at 800mg daily for 7 days in healthy men (no complaints of penile problems) is associated increased penis tumescence (thickness from bloodflow); however, its effects were most significant when serum testosterone was greater than 17.5pg/mL suggesting the effect is androgen-dependent.[17] In youth (20-30) it also increased maximum penile girth.[17] This effect may be mediated through dopamine receptor agonism.[18]
 
+
 Increased dopamine appears to increase thickness of the flaccid penis, and this applies to L-DOPA supplementation due to increasing dopamine. There are no studies on erect penis thickness
+
 
 4.2
 
@@ -162,7 +166,9 @@ In healthy men and women, 100mg single administration of L-DOPA was able to augm
 
 Case studies of persons using L-DOPA at dosages exceeding 2.5g note hypersexuality and more frequent (sometimes inappropriately timed) erections, although this subset of case studies are intertwined with psychiatric disorders. Dosages exceeding 6g were associated with increased aggressiveness.[24]
 
+
 Dopamine is definitely involved in Libido and the physical response to sexual excitation, although L-DOPA treatment may not be potent enough to be clinically relevant in isolation it may be valuable in combination with other compounds. Whether L-DOPA supplementation will lead to increase sexuality in otherwise healthy persons is not known.
+
 
 5.
 
@@ -186,7 +192,9 @@ L-DOPA is rapidly converted into dopamine in peripheral tissue (ie. not the brai
 
 It seems many COMT inhibitors can suppress this secondary conversion of L-DOPA into 3-O-methyldopa, including (+)-catechin (3.7+/-3.2μM[32]), (-)-epicatechin (10.7+/-6.7μM[32]), and quercetin (1.9+/-0.4μM[32]) although only (+)-catechin worked in vivo at 400mg/kg injections where L-DOPA concentrations in plasma are unaffected yet 3-O-methyldopa is decreased.[32]
 
+
 It seems that after the dopamine decarboxylase enzymes are taken care of, the COMT enzyme may become (relatively) more active and methylate L-DOPA. COMT inhibitors such as EGCG or (+)-catechin can reduce this reactions
+
 
 6.2
 
@@ -214,5 +222,7 @@ Interestingly, tolerance to caffeine is associated with desensitized D1 receptor
 
 For healthy persons, the importance of being concerned with Levodopa induced dyskinesia is unknown. The chance of dyskinesia appears to increase with disease pathology, and correlates with destruction of dopamingergic neurons typical of Parkinsons and age; increasing from 40% to 80% over the course of 5 years of Parkinsons.[41] In primates it has been shown that dyskinesia is not induced in healthy controls at the same dose that induces dyskinesia in those with less dopaminergic neurons and Parkinsons progression.[42] Another study done on squirrel monkeys suggested that nigrostriatal dopaminergic neuron loss is a prerequisite for dyskinesia, and that Levodopa-induced dyskinesia can not occur in healthy controls.[43] 
 
+
 Major concern associated with L-DOPA, but appears to pretty much only be relevant to those suffering from Parkinson's Disease or similar neurodegeneration. Most likely not a concern for healthy persons using L-DOPA in moderation
+
 

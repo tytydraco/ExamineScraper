@@ -116,7 +116,9 @@ In thailand, Salacia Chinensis (also known as Salacia prinoides) has also been u
 
 Other species of the Salacia genus that tend to not be used for medicinal purposes include Salacia Verrucosa[4] and Salacia Hainanensis.[5]
 
+
 Traditionally used anti-diabetic herb in the Indian and Thailand regions, all three species appear to have some track record of efficacy
+
 
 1.2
 
@@ -124,7 +126,9 @@ Composition
 
 Salacia tends to contain:
 
-Three sulfonium sulfate compounds (Salacinol, Kotalanol, and Ponkoranol)Neosalacinol, usually at 0.022-0.024mg/g dry weight of the roots with lower content (0.01mg/g) in Salacia Chinensis; none present in the leaves nor fruit[1]Neokotalanol at 0.082-0.257mg/g dry weight of the roots, with higher amounts in Salacia Chinensis and none in the fruit and only 0.018mg/g in the leaves[1]Neoponkoranol13-MRT[6]Green Tea Catechins (Epicatechin and Epigallocatechin) and some derivates thereof; 4′-O-Methylepigallocatechin and Epicatechin-4′-O-methylepigallocatechin[7]Epiafzelechin-(4β → 8)-(−)-4′-O-methylepigallocatechin[7]Mangiferin,[7] at 0.9-2.3% of the water extract of Salacia Reticulata,[8] thought to be one of the more important playersA series of 8 glycosides known as foliachinenosides E-L (in Salacia Chinensis) and eleutheroside E2, which is named after its parent source Eleutherococcus Senticoccus (Siberian Ginseng);[9] with eleutheroside E2 at 0.00017% of the weight of the plant and the foliachinosides ranging from 0.0007%-0.0018%; likely too small to be practically relevant.[9] Additionally, a group of foliasalacins (A1-4, B1-3, C) have been isolated in the leaves of Salacia Chinensis[10]Maytenfolic acid and Lambertic acid[7]26-Hydroxy-1,3-friedelanedione and 19-Hydroxyferruginol[7]Syringin (0.0032%), cis-Syringin (0.00024%), and dihydrosyringin (0.00024%) in Salacia Chinensis[9]Violutoside at 0.00039% weight (Salacia Chinensis)[9]The main bioactives, or at least the most well researched ones that are currently credited for the actions of Salacia Reticulum and other species, appear to be the three sulfonium sulfates and their related structures (although Mangiferin also appears to be potent); beyond that, Salacia appears to have a fairly unique polyphenolic profile
+Three sulfonium sulfate compounds (Salacinol, Kotalanol, and Ponkoranol)Neosalacinol, usually at 0.022-0.024mg/g dry weight of the roots with lower content (0.01mg/g) in Salacia Chinensis; none present in the leaves nor fruit[1]Neokotalanol at 0.082-0.257mg/g dry weight of the roots, with higher amounts in Salacia Chinensis and none in the fruit and only 0.018mg/g in the leaves[1]Neoponkoranol13-MRT[6]Green Tea Catechins (Epicatechin and Epigallocatechin) and some derivates thereof; 4′-O-Methylepigallocatechin and Epicatechin-4′-O-methylepigallocatechin[7]Epiafzelechin-(4β → 8)-(−)-4′-O-methylepigallocatechin[7]Mangiferin,[7] at 0.9-2.3% of the water extract of Salacia Reticulata,[8] thought to be one of the more important playersA series of 8 glycosides known as foliachinenosides E-L (in Salacia Chinensis) and eleutheroside E2, which is named after its parent source Eleutherococcus Senticoccus (Siberian Ginseng);[9] with eleutheroside E2 at 0.00017% of the weight of the plant and the foliachinosides ranging from 0.0007%-0.0018%; likely too small to be practically relevant.[9] Additionally, a group of foliasalacins (A1-4, B1-3, C) have been isolated in the leaves of Salacia Chinensis[10]Maytenfolic acid and Lambertic acid[7]26-Hydroxy-1,3-friedelanedione and 19-Hydroxyferruginol[7]Syringin (0.0032%), cis-Syringin (0.00024%), and dihydrosyringin (0.00024%) in Salacia Chinensis[9]Violutoside at 0.00039% weight (Salacia Chinensis)[9]
+The main bioactives, or at least the most well researched ones that are currently credited for the actions of Salacia Reticulum and other species, appear to be the three sulfonium sulfates and their related structures (although Mangiferin also appears to be potent); beyond that, Salacia appears to have a fairly unique polyphenolic profile
+
 
 1.3
 
@@ -144,7 +148,9 @@ Salacia Reticulata appears to have the ability to inhibit lipase enzymes and may
 
 125mg/kg of a hot water extract of Salacia Reticulata (suspended in acacia, a gum to slow the rate of intestinal emptying) for 27 days in an animal model of obesity noted a very slight attenuation of weight gain despite no significant differences in calories.[7]
 
+
 May decrease fat absorption, does not seem overly potent in doing so
+
 
 2.2
 
@@ -156,7 +162,9 @@ Salacia, particularily the Oblonga species, has been implicated in fat burning p
 
 Salacia Reticulata has been observed, in vitro in fat cells, that 300ug/mL suppressed adipocyte proliferation by 20% and lower concentrations (10-100ug/mL) hindered proliferation in response to pro-proliferative stimuli;[11] PPAR-γ, C/EBP-α, and Fatty acid Binding Protein (A-FABP) had their mRNA and protein content reduced during day 4 of incubation, with PPAR-γ and FABP mRNA not suppressed on day 8. No suppression appeared to exceed 50% of control, and Mangiferin did not appear to be the active component.[11]
 
+
 Some possible direct anti-obesity mechanisms, with unknown practical relevance
+
 
 2.3
 
@@ -170,7 +178,9 @@ Interventions
 
 125mg/kg of a hot water extract (Salacia Reticulata) has been associated with a small weight loss in rats, which may have been due to attenuating nutrient absorption.[7] Furthermore, low dose Salacia Reticulata at either 0.3% or 1% of feed in spontaneously obese rats has been investigated for a period of 8 weeks, and without changes in food intake a dose-dependent loss of weight was seen in both dosage groups of obese rats and only the higher dosage group of lean rats (who ate less food than obese counterparts).[12] This study also noted suppression of liver fat and liver cholesterol levels in obese rats only.[12] Attenuation of weight gain in this animal model has been noted with higher doses of 1% and 3% Salacia Reticulata, where the 213% increase in weight in control/obese was attenuated to 175% with 1% Salacia and to 140% with 3% Salacia; weight attenuation in lean controls fed 3% was smaller, 265% weight gain in normal mice to 237% when fed 3% Salacia.[17]
 
+
 No fecal analysis' were performed in the above studies, and it is possible weight loss observed (which does appear to occur with both obese and lean rats) could be via decreased nutrient absorption
+
 
 3.
 
@@ -184,25 +194,33 @@ The sulfonium sulfate compounds all appear to possess alpha-glucosidase inhibito
 
 Salacinol appears to have an IC50 value of 5.2-6uM (maltase), 1.3-1.6uM (sucrase), and 1.3uM (isomaltase);[1] the efficacy of salacinol, relative to acarbose (pharamceutical control) are slightly lesser, approximately equal, and more potent; respectively on these three enzymes.[18] When ingested orally at doses of 0.3-5mg/kg in rats fed a mixed maltose and sucrose meal, Salacinol appears to be able to reduce the serum levels of glucose at higher doses.[2] Neosalacinol (derivative of salacinol) appears to be slightly less efficient in inhibiting maltase with an IC50 value of 8-22.2uM, approximately equal with sucrase at 1.3-2.5uM, and more effective at isomaltase with 0.3-0.68uM.[18]
 
+
 The compounds named after the plant, the salacinols, appear to be highly effective in inhibiting carbohydrate digestive enzymes even when in isolation
+
 
 Kotalanol appears to be more effective than Salacinol,[19] with IC50 values against maltase, sucrase, and isomaltase of 2uM, 0.43uM, and 1.3uM respectively.[1] Neokotalanol is approximately as effective, with IC50 values against maltase, sucrase, and isomaltase of 1.6uM, 1.5uM, and 0.46uM.[1]
 
 Due to the low molecular weight of these molecules, the concentration range of how much of these molecules is required to reach IC50 values tends to be under 1mcg/mL; with the only real expection to this general rule being Neosalacinol requiring up to 5.65mcg/mL for maltase inhibition.[1]
 
+
 The related molecules, the kotalanols, appear to be slightly more effective when compared on a per-weight basis
+
 
 The large molecule known as 13-MRT also possesses activity in inhibiting carbohydrate digestive enzymes, with an IC50 value of 0.19uM and 0.23uM against sucrase and maltase, respectively.[2] This compound shows efficacy at doses of 150-900mcg/kg oral ingestion in reducing the spike in blood glucose form a meal consisting of sucrose and maltose, attenuated the spike in blood glucose from a starch meal, and had no effect on a glucose-only meal; it was more potent than isolated Salasinol (1.25-5mg/kg) but weaker than voglibose (100-200mcg/kg).[2] 13-MRT appears to be the most effective isolated molecule from Salacia Reticulata in inhibiting carbohydrate absorption.[6]
 
 Finally, Mangiferin (which exists at 0.9-2.3% of the water extract of Salacia Reticulum) appears to also inhibit sucrase and isomaltase (but not maltase) with IC50 values of 87mcg/mL and 216mcg/mL.[8] Mangiferin appears to be the most potent Sucrase inhibitor (with less ability on maltase enzymes), and its content is highly correlated (r=0.934) with the efficacy of the whole plant extract on sucrase.[8]
 
+
 A wide variety of individual ingredients in Salacia species appear to be remarkably potent carbohydrate digestive enzyme inhibitors in vitro, which may precede the plant's efficacy in treating the early stages of diabetes
+
 
 In regards to using the plant extract, Salaca Reticulum root extract appears to be the most effective overall extract.[1] The IC50 value of Reticulata against maltase and sucrase appears to be 89.4mcg/mL and 36.6mcg/mL, which is more efficient than the other two main species. The efficacy of Salacia Oblonga and Chinensis (roots) are 162.1ug/mL and 154.8ug/mL (respectively, against maltase) and 59.8ug/mL and 55.9ug/mL (respectively, against sucrase).[1] The leaf and fruit extracts do not appear to be significantly effective.
 
 An aqueous extract of Salacia Reticulata, in rats fed 10-75mg/kg of it, appears to be able to reduce the spike in blood glucose from sucrose or maltose in a relatively dose-dependent manner.[2]
 
+
 The mixed root extract itself carries the benefits of all the individual components, with similar efficacy
+
 
 3.2
 
@@ -254,7 +272,9 @@ Liver
 
 A methanolic extract of Salacia Chinensis appears to be hepatoprotective effects in vitro, where 100mcg/mL of Salacia Chinensis methanolic extract appears to suppress 26% of cytotoxicity induced by D-Galactosamine with significant protection coming from Eleutheroside E2, Dihydrosyringin, and some lignans appeared to be the active components; all were less protective than the active control of silybin (from Milk Thistle).[9]
 
+
 General protective effects, nothing too remarkable
+
 
 6.3
 
@@ -264,7 +284,9 @@ Salacia (Oblonga) appears to exert general protective effects on acetominophen-i
 
 One pilot study in persons with diabetic nephropathy noted that, following consumption of Salacia Chinensis at 1g twice daily for 6 months, that the progression of Chronic Kidney Disease pathology (measured by the biomarkers of serum and urinary creatinine, urinary protein loss) was delayed relative to placebo.[33]
 
+
 Limited evidence, but may be protective of the kidneys
+
 
 7.
 
@@ -278,7 +300,9 @@ Rajanyamalakadi is an Ayurvedic combination therapy against diabetes which conta
 
 This study divided participants into different groups based on age and baseline fasting blood glucose, and improvements were significant in all groups in regards to reducing fasting blood glucose (range of 14$-17.3%), increasing fasting insulin (range of 43%-57%) and reducing HbA1c (range of 7.5%-26.2%).[34] Beneficial improvements were also seen in lipid panels (reduction of triglycerdes up to 14.3%, LDL-C decreased by up to 22.9% while HDL-C increased up to 13.7%; total cholesterol down in the range of 8%-12.7%) with only two values (HDL-C in the youngest group, vLDL in the group with highest fasting blood glucose) coming back not statistically significant. Decreases in liver enzyes (ALT, AST) and improvements in the artherogenic index were also noted.[34]
 
+
 Preliminary evidence on the combination therapy appears to be promising, with general anti-diabetic effects and improvement on all measured parameters
+
 
 7.2
 
@@ -288,7 +312,9 @@ IP-PA1 is a lipopolysaccharide derived from Pantea agglomerans, a gram-negative 
 
 One animal study has used a tea made from Salacia Oblonga with 20mg/g fermented flower extract (1% IP-PA1) was compared against a control of Salacia Oblonga tea without the IP-PA1, and in these diabetic mice the Salacia (3mg/kg) and IP-PA1 (10mcg/kg) was slightly more effective in reducing fasting blood glucose than Salacia tea alone, although weight was not significantly different, over the course of 12 weeks.[41] This study also had a human phase, where 47 persons with either high blood glucose (n=14) or high blood triglycerides (n=33) were randomized to Salacia+IP-PA1 tea or Salacia tea (control), and it found the combination tea was more effective at reducing Salacia's reduction in blood glucose in those with high triglycerides but not glucose; only combination tea was able to exert statistically significant improvements in HbA1c, but these were minor after sixty days (2%).[41]
 
+
 May have additive benefits against diabetes, but understudied as a combination therapy
+
 
 8.
 

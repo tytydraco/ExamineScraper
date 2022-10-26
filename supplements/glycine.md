@@ -176,7 +176,9 @@ Glycine is a precursor for the synthesis of several biologically important compo
 
 Finally, glycine is an important signaling molecule throughout the body. Glycine acts as both an inhibitory and excitatory neurotransmitter in the brain and spinal cord, where it is involved in reflex coordination, the processing of sensory signals, and the sensation of pain.[14] Whereas the inhibitory functions are owed to a direct effect of glycine binding glycine-specific receptors,[15] the excitatory effects are mediated by glutamate and the N-methyl-D-aspartate (NMDA) receptor.[16][17] Outside of the nervous system, glycine plays a role in immunomodulation and inflammation through binding chloride channels in the cell membranes of leukocytes and macrophages, thereby suppressing calcium influx.[18]
 
+
 Glycine is an amino acid necessary for protein synthesis, especially collagen synthesis, and the biosynthesis of heme, creatine, glutathione, and purines. Glycine also functions as both an inhibitory and an excitatory neurotransmitter, functions as a signaling molecule in the immune system, is necessary for the proper function of some enzymes, and plays a role in lipid digestion and absorption.
+
 
 1.5
 
@@ -206,7 +208,9 @@ Importantly, it remains unknown which metabolic processes involving glycine are 
 
 Nonetheless, urinary 5-oxoproline levels serve as a way to identify populations that do not obtain enough glycine to support glutathione synthesis.[37] For example, vegetarians have significantly higher levels of 5-oxoproline than omnivores, and higher 5-oxoproline levels significantly correlated with lower dietary protein intake.[38] Preterm infants have higher urinary levels of 5-oxoproline than full-term infants,[39] and nitrogen balance studies have suggested that glycine supplementation may be necessary to assure a satisfactory rate of lean tissue growth in preterm infants.[40] 
 
+
 Glycine is a conditionally essential amino acid for humans. Dietary requirements are estimated to be around 12 grams per day. Glycine insufficiency is not life-threatening, but a chronic shortage may have detrimental effects on collagen turnover and glutathione status, which in turn could increase levels of oxidative stress and the risk of suffering from skeletal and joint diseases.
+
 
 2.
 
@@ -220,7 +224,9 @@ In rats, daily supplementation with the human equivalent dose (HED)[41] of 0.5 g
 
 Clinical trials have safely used doses of 0.5 g/kg body weight for eight weeks[44] and 0.8 g/kg for six weeks.[45][46][47] A case report documents the safety of supplementing with 0.8 g/kg for five years.[48]
 
+
 No toxicity with glycine supplementation has been observed with doses up to 0.8 g/kg body weight (64 grams per day for a 176 lb adult).
+
 
 2.2
 
@@ -230,7 +236,9 @@ Glycine supplementation was well tolerated without major adverse effects in a st
 
 In an earlier study, minor digestive symptoms, including mild abdominal pain and soft stools, were reported in 12 healthy adults who were administered 9 g per day of glycine on an empty stomach before bed. Taking 9 grams of glycine with each of three meals did not cause daytime sleepiness.[50]
 
+
 Glycine is well tolerated and does not cause daytime sleepiness when supplemented with meals, but 9 grams on an empty stomach has been noted to cause mild abdominal discomfort.
+
 
 3.
 
@@ -248,7 +256,9 @@ Plasma glycine concentrations peak around 45-60 minutes in healthy adults after 
 
 Consuming glycine alongside glucose modestly reduces peak glycine levels and the total serum glycine concentrations over two hours.[60] Both glucose and galactose have been shown to inhibit the absorption of glycine[64][65] and, to a lesser extent, diglycine.[66] This interaction is likely owed to an allosteric interaction between sugars and amino acids at the brush-border membrane.[67] Whether this observation has a practical value in human nutrition is unknown, although it has been suggested to be of importance in populations living on high-carbohydrate diets with marginal protein intakes.[68]
 
+
 Serum glycine concentrations peak 30-60 minutes after ingestion, with a larger and more rapid peak occurring when glycine is consumed as a peptide compared to a free amino acid. Absorption is enhanced in people with systemic infections and reduced in people with type II diabetes. Glucose inhibits glycine absorption, although the practical significance seems low.
+
 
 3.2
 
@@ -262,7 +272,9 @@ The importance of the GCS in glycine catabolism is clearly demonstrated by its d
 
 Small amounts of glycine are also used in various other pathways for the synthesis of porphyrins, purines, creatine, glutathione, and bile salts.[4] Glycine also plays a central role in protein synthesis, especially collagen, where it represents every third amino acid in the protein’s primary structure.[3]
 
+
 Glycine is degraded by via the glycine cleavage enzyme system, converted into serine, or used for biosynthesis of proteins, porphyrins, purines, creatine, glutathione, and bile salts.
+
 
 4.
 
@@ -274,7 +286,9 @@ Kinetics
 
 Glycine can be taken into cells via the glycine transporter-1 (GlyT1) which appears to have a role in determinining synaptic concentrations of glycine and serine[74][75] as its inhibition can potentiate NDMA signalling (by increasing synaptic levels of glycine)[76] and may also be taken up by a second transporter known as GlyT2.[75] The alanine–serine–cysteine transporter-1 (AscT1) may also play a role in regulating synaptic concentrations of glycine and serine by modifying uptake into glial cells.[77][78]
 
+
 There are a few transporters that draw glycine into cells, and they appear to have a regulatory role in controlling levels of synaptic glycine
+
 
 4.2
 
@@ -296,7 +310,9 @@ Memory and Learning
 
 The hippocampus appears to express functional glycine receptors (glycinergic system) with inhibitory effects on neuronal excitation[99][100] and are mostly located extrasynaptically[101] yet colocalized with synapsin.[102] Hippocampal cells can also release glycine upon neuronal activation[103][104][86] and glycine appears to be stored in the presynapse of these neurons alongside glutamate,[85] most glycine (according to immunohistology) appears to be stored presynaptically and most clusters of glycine observed (84.3+/-2.8%) were facing NMDA glutaminergic receptors.[85]
 
+
 Glycine is involved in signalling through the hippocampus, and it seems that both the glycinergic and the glutaminergic systems can be involved here
+
 
 4.5
 
@@ -322,7 +338,9 @@ Sleep and Sedation
 
 In female participants given 3g of glycine an hour prior to sleep, supplementation appears to reduce fatigue in the morning and improve self-reported sleep quality more than placebo.[111] Later, 3g of glycine was tested in otherwise healthy persons reporting dissatisfaction with their sleep who were then subject to an EEG via polysomnography; it was reported that glycine improved subjective sleep quality associated with shortened sleep latency and time to reach slow wave sleep (REM sleep and overall sleep architecture not affected).[112] This latter study also confirmed improved cognitive day-time performance associated with better self-reported sleep[112] and has been replicated where 3g of glycine taken an hour before sleep (in persons with mildly impaired sleep) was able to reduce fatigue the next day but that after three days this was no longer significant, whereas performance tasks (psychomotor vigilence) were consistently improved.[113]
 
+
 Low doses of glycine supplementation appear to benefit the subjective sensation of a good night's sleep associated with reduced sleep latency (time taken to fall alseep) and improved performance the next day, and the subjective sensation lasts for only about one day whereas performance benefits persist
+
 
 5.
 
@@ -364,7 +382,9 @@ Additionally, three months of insulin sensitizer therapy (45 mg of pioglitazone 
 
 Finally, a master’s degree thesis project involving 10 obese adults (aged 42-58 years) with one or more criteria of metabolic syndrome reported that consuming 5 grams of glycine with each of three meals (15 g/d) for four weeks did not significantly affect HOMA-IR or the Matsuda-index.[129]
 
+
 Low serum glycine levels are associated with insulin resistance. However, Mendelian randomization studies and controlled trials suggest that low glycine levels are caused by insulin resistance rather than being causative in its development.
+
 
 6.2
 
@@ -378,7 +398,9 @@ Similar observations were made in a follow-up study by the same lab when glycine
 
 The benefits of glycine for reducing postprandial glucose levels may be owed to greater insulin secretion. Glycine has been reported to increase the release of glucagon-like peptide 1 (GLP-1),[133] which potentiates glucose-mediated insulin secretion. Glycine has also been reported to significantly increase the insulin response to hyperglycemia during a hyperglycemic clamp when 5 grams is consumed 30 minutes beforehand.[134]
 
+
 Modest doses of glycine (3-5 grams) taken with meals appears to reduce the postprandial glucose response, possibly due to a potentiation of the insulin response via GLP-1.
+
 
 6.3
 
@@ -386,7 +408,9 @@ Glycation
 
 In a rat model of type II diabetes, glycine supplementation was shown to significantly reduce HbA1c, advanced glycation end-product (AGE) concentrations in both the serum and the lens of the eye, and cataract severity.[135] Glycine has been reported in vitro to reduce glycation of human lens proteins.[136][137] 
 
+
 Glycine reduces HbA1c and glycation of the eye lens in animal models of type II diabetes.
+
 
 6.4
 
@@ -398,7 +422,9 @@ A study involving 12 adults with uncontrolled diabetes reported significantly lo
 
 In contrast, a double-blind, randomized controlled trial involving 74 men and women with type II diabetes reported that supplementation with 5 g glycine per meal (15 g/d) for three months resulted in significant reductions in HbA1c compared to placebo (absolute change of -1.4% vs -0.4%), as well as nearly significant reductions in fasting glucose (-23% vs -10%) and HOMA-IR (-9% vs -2%).[142]
 
+
 Supplementation with 5 grams of glycine per meal (15 g/d) for three months has been reported to benefit glycemic control in patients with type II diabetes.
+
 
 7.
 
@@ -434,5 +460,7 @@ Glycine is sometimes bound to minerals such as zinc or magnesium as a 'diglycina
 
 Additionally, due to glycine being the smallest amino acid the overall molecular weight of supplements is lower when glycine is used as a chelation relative to heavier amino acids.[151]
 
+
 Two glycine molecules in a dipeptide form (Diglycinate) are sometimes used as a way to enhance the absorption of mineral supplementation since, only when bound to a dipeptide, can be absorbed through a different set of transporters
+
 

@@ -212,7 +212,9 @@ Enzymatic Interactions
 
 Yohimbine interacts with the CYP2D6 enzyme and can inhibit its function. One study measuring Ki noted an apparent Ki of 0.23uM for microsomes and 0.52uM for purified CYP2D6 enzymes; this extends to Corynanthine with an apparent Ki of 0.08uM.[8] This enzyme is also the one that metabolizes Yohimbine into 11-hydroxy Yohimbine, and shows over a 1000-fold variation between individuals based on the genotype of CYP2D6 expressed (with some interaction with CYP3A4).[9] Those with lower metabolism rates of Yohimbine due to less CYP2D6 noted increased nervous system effects from stimulation[10][9] and the best predictive factor appears to be ethnicity.[9] Variants of underactive CYP2D6 (poor metabolizers of Yohimbine) appear to reach 7% in caucasians of European descent, while being 1% and 1.8% in Chinese and Blacks, respectively.[11]
 
+
 Inhibition by competitive metabolism, CYP2D6 is a locus for interpersonal differences in Yohimbine metabolism rates and some persons do not metabolize Yohimbine to 11-hydroxy Yohimbine at all
+
 
 2.2
 
@@ -234,7 +236,9 @@ By inhibiting these autoreceptors on presynaptic noradrenergic neurons, Yohimbin
 
 This increase in noradrenaline may be subject to resistance, as one study that noted serum increases of noradrenaline after acute administration failed to note these effects after 2 weeks of continuous administration.[18]
 
+
 Yohimbine reliably increases noradrenaline levels by preventing their uptake into subsequent neurons
+
 
 3.2
 
@@ -242,7 +246,9 @@ Melatonergic Neurotransmission
 
 Oral supplementation of 10.8mg yohimbine to female subjects failed to alter serum levels of melatonin when taken at 6pm and measured until 10pm in a dim room, but there was an increase in urinary melatonin excretion.[22]
 
+
 Yohimbine does not appear to alter plasma melatonin concentrations when taken in the evening
+
 
 3.3
 
@@ -254,7 +260,9 @@ Yohimbine can augment the signalling of Methylphenidate in a synergistic manner,
 
 Yohimbine preload has, however, been associated with an attenuation of the attentive effects of Nortriptyline.[26]
 
+
 Yohimbine may increase the efficacy of ADHD medication secondary to its A2A antagonistic abilities, but does not appear to have efficacy by itself at standard concentrations
+
 
 3.4
 
@@ -262,7 +270,9 @@ Appetite
 
 Yohimbine may be able to suppress appetite in both lean and obese mice with more efficacy in the latter, which may be inherent to its interactions with the alpha2-adrenergic recpetors as it appears to also extend to rauwolscine.[27] This study noted that 2.1-4.6mg/kg yohimbine was able to reduce food intake to 49-62% of control at the first dose in obese rats, gradually losing efficacy to 56-72% of food intake by day 13; appetite suppression in lean rats varied from 94.6-95.7% of control and tended to miss statistical significance, although it reached significance when increasing the dose to 5mg/kg, reducing food intake to 69.8-75.6% in lean mice.[27] Water intake was not affected, and rauwolscine was equally effective but required a higher dose (up to 10mg/kg in lean mice).[27]
 
+
 May suppress appetite in animals, regardless of previous weight status
+
 
 When measuring the rate of gastric emptying, a slowing correlated with appetite suppression, 15mg Yohimbine failed to influence gastric emptying, while 50mg ephedrine was effective.[28]
 
@@ -280,7 +290,9 @@ Interactions with yohimbine and stress (as well as panic) may be related to the 
 
 This increase in anxiety may be a per se effect of yohimbine in excess, as 30mg yohimbine can induce anxiety acutely in otherwise healthy persons (assessed by the Visual Analogue Scale for Anxiety),[37] opioid dependent persons,[38] and in persons who are susceptable to panic attacks; where yohimbine may be able to induce panic attacks.[39]
 
+
 Due to effectively increasing noradrenaline, the neural side-effects of excess noradrenaline may result if too high a dose is taken; the most common are anxiety and panic disorders, with the later affecting susceptable persons
+
 
 The increase in anxiety can be abolished by diazepam (anxiolytic sedative)[37] and clonidine (activator of the A2A receptor that yohimbine inhibits).[37]
 
@@ -304,7 +316,9 @@ Fear
 
 Yohimbine appears to play a role in facilitating fear extinction, which is a psychological phenomena where repeated exposures to a fearful stimuli eventually results in desensitization to the stimuli and less fear associated with it; the most practical application of facilitating fear extinction is in phobia treatment, where yohimbine treamtent has been associated with improved fear extinction secondary to exposure therapy[43] and thought to be due to increasing noradrenaline levels.[43] That being said. a follow-up study that noted increased noradrenaline (assessed via salivary amlyase) noted that this increase was independent of any significant benefit to phobia treatment.[15] Currently, the evidence for yohimbine facilitating phobia treatment is mixed, with one preliminary study noting positive results with Claustrophobia[43] but another noting no benefit of yohimbine on the fear of flying.[15]
 
+
 Currently, the evidence for yohimbine facilitating phobia treatment is mixed
+
 
 3.10
 
@@ -320,7 +334,9 @@ Impulsivity appears to be correlated to noradrenergic signalling (initially seen
 
 These effects have been noted in healthy human subjects in a dose-dependent manner[50] and may be mediated by activity (and CREB phosphorylation) in the orbitofrontal cortex. One rat study noted increased impulsivity following a U-shaped curve (with maximal effectiveness at 1-2mg/kg, within normal human doses of 14-28mg for a 200lb person) associated with increased CREB phosphorylation in the orbitofronal cortex, but not the nuclear accumbens, and the effects paralleling that seen in humans.[51]
 
+
 Yohimbine has been found to increase impulsivity in humans in at least one trial, which may be mediated via noradrenergic signalling secondary to the basic alpha-2-adrenergic antagonism
+
 
 4.
 
@@ -344,17 +360,23 @@ Mechansims
 
 Yohimbine acts upon the adrenergic receptor system of fat cells, which regulate thermogenesis. The beta-subunits of the adrenergic receptors (targets of ephedrine) can be seen as stimulatory for fat loss as they increase the activity of the enzyme Adenyl Cyclase and subsequently cAMP levels (mainly via the b1 and b2 subunits; with b3 being less active in humans).[62][63] The alpha-subunits are more suppressive of fat metabolism, in which their activation reduces activity of Adenyl Cyclase and reduces cAMP levels (specifically alpha-2). Yohimbine is a selective alpha-2 adrenergic receptor antagonist (inactivator), which inhibits activation of the suppressive set of receptors and preserves Adenyl Cyclase activity and the effects mediated via the beta receptors.[64]
 
+
 Antagonism (Inactivation) of the Alpha-2-Adrenergic receptors preserves fat burning effects mediated via other mechanisms, a negation of a suppressive effect that ultimately results in more lipolysis (fat burning)
+
 
 When looking at the interactions of yohimbine at the receptor level, yohimbine was found to be as a selective alpha2-adrenergic antagonist with 44-fold higher affinity for the alpha2 subunit than it does for the alpha1 subunit when tested in rat anoccygeus and vas deferens; this differs from the related compound corynanthine and rauwolscine which are selective for the alpha1 receptor (33-fold) and mostly non-selective (3.3 fold); respectively.[65] These values were derived from in vitro experimentations, and a second test using competitive binding in brain slices noted that the selectivity was reduced from 45-fold to 5.7.[65]
 
 When looking at the alpha2-receptor itself, yohimbine appears to further have selectivity for the alpha2C subunit rather than A or B; in the range of 4-15 times selectivity,[66] while rauwolscine appears to be nonselective among these three subunits.[67][66] Rauwolscine appears to be as effective on the level of the receptor as yohimbine,[68] with coynanthine being magnitudes less effective.[65]
 
+
 Beyond being an 'Alpha-Adrenergic antagonist', yohimbine has selectivity for the Alpha-2C subunit more than other subunits. 
+
 
 Beyond that, yohimbine itself can potentially induce fat loss vicariously through the release of adrenaline; adrenaline itself is an activator of beta-adrenergic receptors.[69] However, this increase of adrenaline may fade with time reaching statistical insignificnace 2 weeks after daily ingestion.[18] Increases in plasma free fatty acids and the density of alpha2-adrenergic receptors remain similar at both time points, suggesting that yohimbine selectively loses the spike in adrenaline but not direct receptor fat burning effects.
 
+
 May have indirect fat burning mechanisms secondary to adrenaline release from the brain, the positive fat burning effects may be lost after usage despite the 'anti-fat gain' effects of Alpha-2C Antagonism being preserved
+
 
 5.2
 
@@ -362,7 +384,9 @@ Body Fat Distribution
 
 Yohimbine was first investigated for its role in selective body fat removal due to its usage as a topical cream (being able to choose where to apply the yohimbine)[70][71] but also secondary to its usage to eliminate thigh size in women, as elevated estrogen levels increased alpha2-adrenergic receptor activity.[72] Due to increased amounts of alpha2-adrenergic activity in the thighs of women, antagonism of these receptors was thought to reduce selective adiposity; results with cream are mixed, with one trial coming back positive[71] and the other noted benefit with both forskolin (from Coleus Forskohlii) and aminophylline but not yohimbine.[70]
 
+
 Investigated for the ability to selectively induce fat loss in the thighs of women (which express higher levels of the Alpha2-Adrenergic receptor due to estrogen) but results are mixed and confounded with other compounds
+
 
 5.3
 
@@ -378,7 +402,9 @@ One intervention that noted increased fat burning (biomarkers of increased NEFA 
 
 When paired with food acutely, yohimbine may actually augment glucose-induced insulin release from pancreatic cells[76][77] but does not occur in the fasted state after oral consumption of 0.2mg/kg.[19][74]
 
+
 May not be effective in a fed state. This may be due to augmenting insulin release during a fed but not fasted state
+
 
 If the mechanism is via stimulation of insulin release reducing lipolysis, it is theoretical that a carbohydrate-free and low-protein meal (to reduce glucose-induced stimulation) could be similar to the fasted state; this has not been investigated in trials.
 
@@ -390,7 +416,9 @@ One study has been conducted with Yohimbine in elite soccer players taking 10mg 
 
 0.2mg/kg Yohimbine in otherwise healthy men appears to enhance the fat burning effects of endogenous noradrenaline, and appears to be more effective during periods of exercise and attenuated if given beta-blockers;[74] another study noted this attenuation to be measured at 70%.[19]
 
+
 In athletes or in persons with conjunction with exercise or in a fasted state, yohimbine appears to be able to induce lipolysis (fat loss)
+
 
 However, at least one study has noted null results, in that yohimbine did not decrease weight in healthy volunteers.[79]
 
@@ -488,7 +516,9 @@ Adverse drug events in persons taking the recommended dosage (for erectile dysfu
 
 There are also issues surrounding indeterminate or inaccurate labeling of the dose of yohimbine in many US supplements. One study of 49 supplements purchased in the US which claimed to contain yohimbine found that the actual dose ranged from 0 to 12.9 mg per recommended serving. The latter dose is greater than the highest prescription strength dose formally available in the US. Furthermore, the actual dose in supplements that contained yohimbine and had a dose on the label was 23-147% of that listed on the supplement, and only 22% of the supplements listed the quantity of yohimbine at all. 18% of the supplements examined did not warn the consumer of possible adverse effects of yohimbine.[96]
 
+
 Adverse effects for yohimbine occur even at recommended dosages, including nausea, abdominal pain, dizziness, and nervousness. Also, many supplements in containing yohimbine in the US either do not have the dosages labelled or the doses on the label are inaccurate.
+
 
 11.2
 
@@ -498,9 +528,13 @@ Acute neurotoxicity has been reported in man in a dose of 5,000mg (far above the
 
 Other case studies include a man (24 and otherwise healthy) who experienced elevated blood pressure, heart rate, and glucose as well as agitation and anxiety in response to a single bolus of 300mg yohimbine with symptoms being significantly attenuated to a healthy status one week later at followup.[2] 
 
+
 Yohimbine, in isolation and when excessive amounts are consumed, are causative of toxicity symptoms that appear to be related to the ability of yohimbine to increase adrenaline levels
+
 
 In adverse event report has been published with data from the California Poison Control System.[93] This study was retrospective in nature and looked for cases between 2000 and 2006 assessing 18 year old persons where yohimbine was assessed as 'probably causing the results' (Naranjo causality score of 1 or more) and had 238 cases meet this criteria (350 in total, but 32% excluded for either underage or not likely related to yohimbine).[93] The majority of cases were in males (77%) using non-prescription yohimbine (98.7%), and 59.7% of cases had nutrient confounds (with fat burners, caffeine and ephedrine were commonly associated; for penile health, saw palmetto and panax ginseng) and 29.5% had pharmaceutical or alcohol interactions. Of the 238 cases, 7 were deemed to be of serious magnitude (where symptoms as a result of the exposure which were lifethreatening) and most common side effects were anxiety/agitation, hypertension or cardiac ailments, and gastrointestinal problems.[93] There was not enough evidence to conclude what the average dose exposure was.
 
+
 Problems seem to arise more often with nutrient-nutrient interactions than with yohimbine in isolation, although some cases have surfaced with yohimbine in isolation and these tend to result in cardiac arrythmia and/or hypertension when the dose is exceeded or the person is susceptable
+
 

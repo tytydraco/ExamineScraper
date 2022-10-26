@@ -86,7 +86,9 @@ Betalains are nitrogen containing pigments found in a variety of foods that are 
 
 The majority of plants containing betalains are in the caryophyllales family with exception to the caryophyllaceae and molluginaceae genera, which accumulate anthocyanins for their red coloration.[5]
 
+
 Betalains are reddish-purple pigments that are found in some plants when anthocyanins are nor present as pigmentation
+
 
 Common dietary sources of betalains include:
 
@@ -100,11 +102,15 @@ Betalains, as a group, are based off the chromophore (core of the molecule which
 
 Many betalains are actually glycosides (bound to sugar) or acylglycosides (bound to acetylated sugars) of betanidin,[1] of which one of the most common is a simple glucoside (bound to a single glucose molecule) known as betanin;[1] others include phyllocactin (6'-O-Malonylbetanin), 2',O-Apiosylphyllocactin, 2'-(5"-O-E-Feruloylapiosyl)betanin, 2'-(5"-O-E-Feruloylapiosyl)phyllocactin, amaranthin, \_gomphrenin\_s, \_portulacaxanthin\_s, and hylocerenin.[1]
 
+
 Most betalain structures are based off of the molecule known as betalamic acid, and two very similar structures to betalamic acid are betanidin and indicaxanthin; these three molecules form the majority of betalains as they are glycosylated (various sugars added) to form a variety of molecules
+
 
 Similar to how proline is added to betalamic acid to form betanidin, the amino acid glycine can be added to betalamic acid to form portulacaxanthin III which can then have a Tyrosine added to it to form portulacaxanthin II;[1] a structually related betalain is dopaxanthin where the phenol group more closely resembles dopamine, or there is miraxanthin V which is structually dopamine-betalamic acid.[1] Tryptophan-betalamic acid (Tryptophan-betaxanthin) also exists alongisde a betxanthin for GABA, serine, phenylalanine, and each of the branched chain amino acids.
 
+
 Rather than forming betanidin (which requires a proline to be attached), betalamic acid can also attach to a variety of other small amino acids which include most of the neurologically active amino acids
+
 
 1.3
 
@@ -126,11 +132,15 @@ While indicaxanthin does not appear to have its absorption altered when transpor
 
 Opening tight junctions drastically increases the absorption of both, suggesting paracellular absorption also plays a role.[12]
 
+
 Betalain absorption appears to have both transporter mediated uptake as well as a paracellular/passive (in between cells) component
+
 
 Absorption of betalains (betanin and indicaxanthin) from a food product (cactus pear undergoing simulated digestion) indicaxanthin appears to have similar absorption profiles to free indicaxanthin also betanin was reduced somewhat.[12] The authors hypothesized the additional phenolic group and/or glucoside was interacting with other components of the food product to reduce absorption.[12]
 
+
 Indicaxanthin appears to be as well absorbed from food products as it is in free form (in vitro evidence) whereas betanin may be hindered somewhat
+
 
 2.2
 
@@ -148,7 +158,9 @@ Betalains appear to be eliminated in the urine with a mean time of 4.2+/-2.3 hou
 
 When investigating indicaxanthin alone, it appears that oral ingestion of 28mg indixacanthin and measuring the urine over 12 hours results in 76+/-3% of the total oral dose being detected; suggesting good absorption and rapid elimination.[16]
 
+
 Although there appear to be urinary metabolites of betalains (which may color the urine red following ingestion of beets), it appears to be low relative to the overall oral ingestion suggesting poor bioavailability
+
 
 2.4
 
@@ -174,7 +186,9 @@ Betalains can bind to LDL[19] and the oxidation of LDL appears to be inhibited b
 
 Following oral consumption of cactus pear fruit at 500g fresh weight (28mg indicaxanthin and 16mg betanin) LDL particles appeared to accumulate total betalains at 3 hours (100.5+/-11pM/mg protein) and 5 hours (50+/-7.2 pM/mg) resulting in more resistance of LDL to oxidation when tested ex vivo.[16]
 
+
 Betalains appear to hinder LDL oxidation, and this has been noted 3-5 hours after oral ingestion of cactus pear fruit (high indicaxanthin content)
+
 
 4.
 
@@ -188,7 +202,9 @@ Betanin and Betanidin appear to be able to inhibit lipid peroxidation ex vivo (I
 
 This antioxidative property of betalains appear to bleach the molecule (removing its pigmentation)[14] and coincubating betalains alongside other antioxidants (ie. glutathione) can prevent this[20] which suggests a role for the chromophore (betalamic acid) itself in the antioxidant properties of betalain molecules.
 
+
 Betanidin and Betanin appear to be quite potent antioxidants against lipid peroxidation (the oxidation of lipids and fatty acids) and may be active despite their low absorption rates in humans
+
 
 4.2
 
@@ -198,7 +214,9 @@ Betalain has been reported to react with peroxynitrate (ONOO-) in vitro,[20] and
 
 This process may require to carboxyl group of the cyclo-dopa group (the part of betanin which is not betalamic acid) becoming nitrosylated and deattaching itself from betalamic acid.[20]
 
+
 Appears to scavenge peroxynitrate radicals with a potency comparable to anthocyanins from blueberry
+
 
 5.
 

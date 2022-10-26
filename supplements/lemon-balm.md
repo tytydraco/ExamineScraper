@@ -90,7 +90,9 @@ Melissa officinalis (from the Labiatae family) is a herb commonly called Lemon B
 
 Melissa officinalis also appears to have a medicinal presence in Brazil where it is referred to as 'erva-cidreira'.[6]
 
+
 A herb that appears to have European traditional usage for the purposes of sedation, cognitive boosting, and calming the body. The traditional uses vary from oral herb intake, tea drinking, and aromatherapy
+
 
 1.2
 
@@ -102,7 +104,9 @@ Caffeate Oligomers up to 11%,[7] this includes the following Rosmarinic Acid, Ca
 
 Monoterpene hydrocarbons known as Sabinene, β-Pinene (0.32%), Limonene, and Phellandrene[18]Oxygenated monoterpenes known as Geranial (65.42%), Neral (24.65%), Geranylacetate (7.38%), Linalool (0.75%), (Z)-Carveol and Myrtenol (0.08%), 2,3-dehydro-1,8-cineole (0.05%), Carvacrol, Epoxylinalool, α-Terpeniol, Borneol, Neroloxide, Citronellal and Citronellyl acetate, Terpinene-4-ol, Anethole, Menthen-2,3-diol, Damascenone, Dihydrocarveol, and Eugenol[18]Sesquiterpene hydrocarbons known as Bicyclogermacrene, Caryophyllene (0.77%), Germacrene-D, Farnesene (0.05%), γ-Elemene, and Cadinene[18]Carbonyl compound known as Nonanal, (Z)-Jasmone, and β-Ionone[18]The alcohols Benzylalcohol, Fenchylalcohol, and Chavicol[18]1-Dodecen-3-yne (0.09%), Dodecane, Isogeranol, and Bourbonene[18]For common plant compounds that have failed to be detected in Lemon Balm, there does not appear to be a Chlorogenic acid content nor a ferulic acid content.[3]
 
+
 For the most part, Lemon Balm appears to be high in Caffeic acid and caffeic acid-like molecules including Rosmarinic Acid while being comparatively low in triterpenoids and other polyphenolics; although the 'major' flavonoid is Luteolin (as Glucuronide) it is still in very low concentrations and likely not bioactive
+
 
 The total phenolic content appears to be highest in water extracts relative to methanolic and ethanolic,[19] with plant extracts reaching 54.9+/-2.14mg (5.5%; Gallic acid equivalents) and tea extracts containing up to 109.24mg/g (10.9%) phenolics by weight.[8] The phenolic content of Lemon Balm appears to be greater than that of Lavandula angustifolia (Lavender) while lesser than that of Origanum vulgare (Oregano)[11] and Menthae piperitae (Peppermint).[7] It is comparable to blackberry leaves and Thyme, but greater than that of Olive leaves and Stinging Nettle.[3]
 
@@ -110,7 +114,9 @@ The flavonoid content of Lemon Balm is approximately 47% of the total phenolics,
 
 The essential oil (aromatic) component of Lemon Balm is merely 0.32% of the herb in regards to total dry weight, with a tea extracting 10mg/L.[20]
 
+
 Quantitatively speaking, Lemon Balm appears to be a very large source of phenolic compounds (in general; anything with a benzene ring is a phenolic with multiple ring structure being 'polyphenolic' in structure)
+
 
 2.
 
@@ -124,7 +130,9 @@ In regards to GABA (primary sedative neurotransmitter), the methanolic extract a
 
 A reduced concentration of GABA transaminase has been noted in vivo following 50-200mg/kg oral ingestion in aged rats over 5 weeks, when the hippocampal dentate gyrus was removed and assessed.[22]
 
+
 Appears to have GABAergic activity, although by a mechanism not common to other nutraceuticals (possible additive or synergistic possibilities that are not yet explored)
+
 
 2.2
 
@@ -134,7 +142,9 @@ In a 15 day open-label study in persons with mild to moderate stress and anxiety
 
 Melissa officinalis is commonly consumed alongside Valerian for the purpose of sedation, and at least one multicenter study using both in a combination noted that the supplement group (120mg Valerian (4.5:1 concentration) and Lemon Balm at 80mg (5:1 concentration) taken thrice before bed) after 30 days reported enhanced sleep quality (33% of respondents reported better sleep) which was greater than placebo (9% of the placebo group reported better sleep); treatment was very well tolerated with no significant side effects.[24] One other trial has noted that this combination was effective in reducing restlessness and dyssomnia in children.[25]
 
+
 Appears to have sedative properties and promote sleep quality, but there is relatively little evidence to support it as two well controlled studies are confounded with the inclusion of Valerian
+
 
 2.3
 
@@ -142,15 +152,21 @@ Anxiety and Stress
 
 In rats given Melissa officinalis extract (9.32% Rosmarinic Acid) at 120-360mg/kg bodyweight for 15 days appeared to have anxiolytic effects in an open field test as well as an elevated maze test but not in a four-hole board test at the higher two doses (240mg/kg and 360mg/kg).[26] The anxiolyic effects (30-300mg/kg ethanolic extract) have in one study been comparable to 1mg/kg Diazepam when dosed over 10 days, and appeared to be more effective in females (with only 300mg/kg being statistically significant in males, but all doses being effective in female rats).[27]
 
+
 Two animal studies suggest anxiety reducing effects of oral Lemon Balm.
+
 
 In a clinical setting, an acute dose of 300 or 600mg Melissa officinalis prior to an acute stress test (DISS battery of tests[28] followed with Mood assessment via Bond and Lader VAS mood scales[29]) noted that the higher dose was associated with improved self-reported calmness, reduced alertness (increased after test) following the test while the 300mg dose failed to significantly modulate mood.[30] Another acute study noted that a Lozenge containing Melissa officinalis was able to induce brain wave alterations similar to that of standard anxiolytics.[31]
 
+
 Can reduce anxiety when dosed acutely (single dose taken before stressor)
+
 
 In humans consuming 300mg Melissa officinalis (7% Rosmarinic acid and 15% total hydrocinnamic acids) at breakfast and again before sleep for 15 days in an open-label trial, there appears to be general anxiolytic propeties in regards to anxiety-related eating problems (33% lower than baseline), emotional instability (7%), fatigue (18%), feelings of guilt (15%) or inferiority (18%), psychosomatic symptoms (33%) and intellectual disturbance (28%).[23]
 
+
 Appears to reduce anxiety when taken over a period of time in humans (morning and nightly doses)
+
 
 2.4
 
@@ -160,21 +176,29 @@ One study has noted that Melissa officinalis have nicotinic receptor binding pro
 
 Subsequently, a study conducted noting incubation with Melissa officinalis noted that the extract had little ability to displace either nicotine or scopolamine from the receptor.[34] This was followed up on in post-mortem human neural tissue where nicotine was displaced at moderate concentrations of 180-3120µg/mL and scopolamine at 2.69-4.31mg/mL (ethanolic herb extract) although it could be extracted into more effective fractions (the most potent noted fractions being 4.2µg/mL nicotine displacement and 102.6µg/mL for scopolamine) although there still appears to be a large degree of variability.[4] 
 
+
 Appears to interact with acetylcholine receptors, there appears to be some agonistic (activating) properties that are very volatile (not reliable); if looking at solely the most effective fragments, the affinity at least appears respectable
+
 
 In the hippocampal dentate gyrus of aged rats, Melissa officinalis at 50-200mg/kg daily was able to enhance neurogenesis (244.1-763.9% of control group, respectively) which was associated with reduced corticosterone concentrations.[22]
 
+
 Has been noted to enhance neurogenesis in at least one rat study giving oral administration
+
 
 300mg Melissa officinalis given prior to an acute stress test was noted to be (nonsignificantly) associated with improved answering on mathematical questions; increasing the dose to 600mg did not help in reaching statistical significance.[30]
 
 Following ingestion of 600mg or 1600mg Melissa officinalis acutely, improvements relative to placebo are noted in quality of memory (percentage of answers or recollections that are correct) only with trends for improvement (not significant) were noted in picture-recall, delayed word recall, spatial memory and no influence was noted on working memory nor attention in this study, and self-reported attention was similar.[4] Sporadic improvements in memory quality (digital vigilance accuracy and choice reaction time accuracy) have been noted elsewhere.[34]
 
+
 There appears to be comparatively weak cognitive enhancing properties assocaited with oral Melissa officinalis supplementation at higher doses (600-1600mg)
+
 
 For cognitive parameters sometimes seen as adverse, 600-1600mg Melissa officinalis has been noted to reduce the speed of memory without influencing memory formation per se.[4] A reduction in rapid visual information processing has also been noted, with sporadic influences on false-positive processing (neither 600 nor 1600mg, but 1000mg, being associated with increased false-positives).[4] Another study to record spatial memory found a statistically significant reduction thereof following 300-900mg acute ingestion, this reduction was also noted for word recollection.[34]
 
+
 The calming effects of Melissa officinalis may also reduce the speed of learning, possibly secondary to being slightly sedative or too 'calming'
+
 
 2.5
 
@@ -182,11 +206,15 @@ Neuroprotection
 
 In hippocampal corticol neurons deprived of oxygen, 10μg/mL Lemon Balm was associated with preserving roughly half of corticol neurons that would have been lost to hypoxia and also reduced concentrations of caspase-3 and DNA fragmentation (both indicative of apoptosis); concentrations of 200-500μg/mL showed inherent cytotoxicity to neurons.[2] Neuroprotection has also been noted in hippocampal cells exposed to ecstasy.[35]
 
+
 Appears to have neuroprotective effects in vitro in pro-oxidative toxicity
+
 
 In a model of hippocampal occlusion (mice) given 100mg/kg Lemon Balm for 2 weeks prior to occlusion treatment and continued thereafter noted reduced lipid peroxidation (MDA and TEAC) and the concentrations of HIF-1α, TNF-α and IL1-β (all induced during hypoxia) were effectively suppressed by Melissa officinalis.[2]
 
+
 This may extend to living models undergoing hypoxia (lack of oxygen) in neural tissue
+
 
 2.6
 
@@ -194,7 +222,9 @@ Pain
 
 One study has note dose-dependent pain-reducing effects of oral ingestion of Melissa officinalis (ID50 of 241.9mg/kg) in mice subject to a battery of tests (acetic acid writhing, glutamate, and formalin) which seems to be related to the Rosmarinic acid content.[36]
 
+
 May have pain relieving properties, requires more research
+
 
 3.
 
@@ -206,7 +236,9 @@ Interventions
 
 One study using solely the essential oil of Lemon Balm at 0.0125mg daily in mice (0.416mg/kg; human equivalent of 0.03mg/kg) for 6 weeks noted that, in response to an oral glucose tolerance test, the essential oil group experienced a reduction in serum glucose and increase in serum insulin.[18]
 
+
 One study suggests improved glucose tolerance following oral administration over a period of weeks, no clue as to the mechanisms underlying these observed effects (some alterations in adipocyte GLUT4 and PPARy of questionable relevance)
+
 
 4.
 
@@ -230,13 +262,17 @@ Anti-oxiditive properties appear to exist in the water, ethanolic, and methanoli
 
 The anti-oxidative properties of Lemon Balm were greater than Matricaria recutita and Cymbopogon citratus, but less than isolated Quercetin or Gallic Acid.[19]
 
+
 Appears to have anti-oxidative properties in vitro which are more potent than many other herbs, but overall not too remarkable as they are outperformed by other supplemental references
+
 
 In rats, 250mg/kg has been shown to protect rats from genotoxicity induced by Methyl methanesulfonate when Melissa officinalis is preloaded for two weeks.[6] 500mg/kg was also effective, but the two doses did not have any significant differences between them.[6]
 
 One study conducted in radiology staff chronically exposed to low levels of radiation noted that ingestion of 1.5g Lemon Balm tea in 100mL water for 30 days was confirmed to reduce DNA oxidative damage, Myeloperoxidase, and lipid peroxidation.[38] 
 
+
 Anti-oxidative effects have been confirmed in humans given 1.5g of lemon balm tea leaves daily
+
 
 6.
 
@@ -260,5 +296,7 @@ Lemon Balm and Valerian are commonly used in conjunction with one another for th
 
 The combination has been tested in a multicenter study where tolerability was excellent (no reported side effects) although the benefits also lacklustre (more self-reports of 'no effect' than 'benefit' in regards to sleep), although the amount of persons reporting better sleep (33%) was still greater than placebo (9%).[24]
 
+
 Commonly used together and theoretically additive, no evidence to support synergism
+
 

@@ -174,7 +174,9 @@ Biological Significance
 
 Taurine maintains an intracellular concentration of 5-20 µmol/g wet weight,[30][31] and enters cells through its transporter, the Taurine Transporter (TauT) that belongs to the class of sodium-chloride dependent transporters (similar to creatine) and is named SLC6a6; this transporter is expressed in most, if not all, mammalian tissue.[27] Pathological problems are observed when cellular taurine is depleted, and this is observed in as little as 48 hours when the transporter is either blocked by a competitive inhibitor[32] or outright depleted.[33] The reasons for this depletion is that intracellular (within the cell) synthesis of taurine is limited, and cells appear to be dependent on taurine uptake from the blood, and the average serum concentration appears to be 20-100uM (up to 100 fold less than cells), which is reason for the active transport via TauT as taurine uptake works againt a concentration gradient.[33]
 
+
 Cellular accumulation of Taurine is dependent almost exlusively on the SLC6a6 transporter, and avoiding pathological conditions of Taurine deficiency are dependent on having taurine in the cell
+
 
 1.4
 
@@ -182,7 +184,9 @@ Taurine Deficiency
 
 In non-human species who cannot synthesize taurine, it is an essential nutrient. The primary example of a species that is taurine-dependent is all feline species (cat family) where a lack of dietary taurine results in cardiopathology, impaired muscular function, and ocular degeneration.[34][35] These side-effects may occur to humans if a taurine deficiency exists, but this assumes an error in inborn metabolism impairing one's ability to synthesis taurine. The average human would not need to worry about outright taurine deficiency and its clinical manifestations.
 
+
 Cats need taurine like a vitamin, these same deficiency conditions may exist with humans but since we synthesize taurine we are not outright dependent on it. Thus its status as 'conditionally essential'
+
 
 It is possible to be 'deficiency' in taurine despite it being classified as a non-essential amino acid, and deficiency states can be induced experimentally with overfeeding of beta-alanine which competes at the level of the transporter due to being structured similarily.[22] Guanidinoethane sulfonate (GES) may also be used to inhibit taurine uptake.[36]
 
@@ -200,7 +204,9 @@ Absorption
 
 In the stomach, taurine seems to be safe from stomach acid and does not undergo changes.[40]
 
+
 Taurine does not appear to undergo any changes in the environment of the stomach
+
 
 In the intestines, pancreatin can reduce levels of detectable food-bound taurine by almost 40%.[40] However, this study noted that the taurine was not broken into metabolites but somehow became 'inaccessible', which may be due to the taurine being from meat.[40]
 
@@ -226,11 +232,15 @@ Taurine has been found to not significantly alter fEPSPs in postsynaptic neurons
 
 Taurine has also been noted to diminish the affinity of glycine to the NMDA receptor.[53]
 
+
 Taurine may be an indirect suppressor of NMDA signalling, and while it can also stimulate both glutamate and GABA release from the synapse it ultimately seems to reduce excitatory transmission
+
 
 The suppressive effect of taurine on glutaminergic signalling seen with the NDMA receptors does not appear to extend to the kainate nor AMPA receptors.[53]
 
+
 AMPA and Kainate are not known to be highly affected by taurine
+
 
 Glutamic acid decarboxylase (GAD65 and GAD67) appears unaffected by chronic taurine intake at doses that are neuroactive.[54][55]
 
@@ -268,7 +278,9 @@ Anxiety
 
 200mg/kg taurine (but not 100mg/kg) given to mice 60 minutes before anxiety tests was able to reduce anxiety to a degree greater than the reference drug thiopental (25mg/kg) but lesser than midozolam (1.2mg/kg).[29] This anxiolytic effect was mediated by interactions with glycine receptors as they were abolished by antagonists of this receptor.[29]
 
+
 Taurine has shown anti-anxiety actions following oral ingestion
+
 
 3.7
 
@@ -280,13 +292,17 @@ Oral taurine (around 230-460mg/kg) has been noted to increase hippocampal phosph
 
 In diabetic rats (diabetics being more prone to depression[68]) injected with taurine (100mg/kg) over 30 days have experienced an increase in hippocampal BDNF mRNA when compared to saline and an increase in the mRNA for the GABAA α2 receptor subunit.[69] Diabetic rats with depression are known to have lower levels of GABA[70] while rats without that particular receptor subunit (GABAA α2) experience depression,[71] suggesting a mechanism for the actions of taurine in diabetics. When this taurine injection was tested in nondiabetic rats there was no increase in GABAA α2 mRNA, and the increase in BDNF normalized the diabetic rats relative to nondiabetic control (BDNF is reduced in the blood of diabetics[72]) and did not affect nondiabetic rats.[69]
 
+
 Taurine has some mechanisms, potentially associated with GABA and BDNF signalling, suggesting it may have antidepressant properties. It is possible that this antidepressant effect is more relevant in diabetic subjects
+
 
 Taurine at 45mM/kg of the diet to rats over four weeks (ended up eating 462.8mg/kg bodyweight) has shown antidepressant effects in a forced swim test when compared to a control diet, whereas half this taurine dose did not differ from control.[54]
 
 This antidepressant effect has been noted with 100mg/kg taurine injections in the forced swim test in diabetic rats[69] and elsewhere at the same dose and a lower dose of 25mg/kg intraperitoneal injection.[73]
 
+
 When tested in rodents there appears to be a minor antidepressant effect of taurine supplementation when compared to control, which requires a relatively high dose (estimated 75mg/kg bodyweight in humans or 5 grams for a 150lb person)
+
 
 In free living adults, dietary taurine intake does not appear to be associated with depressive-like symptoms[74] and while one study has noted an association between dietary taurine intake and life stress in college-age students[75] two later studies failed to find an association.[76][77]
 
@@ -360,7 +376,9 @@ Another state in which taurine may prevent oxidation-mediated reductions in test
 
 Maternal consumption of taurine also appears to beneficially influence androgen levels of the offspring, when measuring serum testosterone when the mother consumed 1% taurine in drinking water (rats).[25]
 
+
 General protective effects of taurine on oxidant-induced decreases in testosterone, which is linked to taurine acting as an anti-oxidant and being highly concentrated in the testicles
+
 
 One study in healthy 2-month old rats given 0.5, 1, and 1.5% taurine in the drinking water for 5 weeks noted increases in serum testosterone (as well as FSH and LH) with 1% being most significant and elevating testosterone in both serum and the testes from around 50ng/dL to 80ng/dL, a 60% increase.[100] These results were later replicated with 1% Taurine in the diet of adult and aged male rats, where an increase in testosterone and LH were noted in both groups but to a more significant degree in older rats.[25]
 
@@ -368,7 +386,9 @@ The mechanism, as assessed in vitro, appears to be enhancement of HCG-induced te
 
 The only human study on taurine (1500mg) was confounded with creatine (5g) and glucuronolactone (350mg) as well as caffeine (110mg) and 19g Branched Chain Amino Acids (Amino Shooter, Champion Nutrition) and failed to show any significant influence on testosterone different than placebo.[101] The lack of response from creatine in increasing testosterone may be due to creatine's instability in solution, and the selected product being a ready-to-drink formulation (and thus no active creatine, only creatinine).[101]
 
+
 Two studies have shown taurine supplementation to increase testosterone in otherwise healthy rats, no current human studies with similar design; one human study showing no effects of 1,500mg taurine acutely with other ingredient confounds
+
 
 7.2
 
@@ -386,7 +406,9 @@ Mechanism
 
 Taurine is an anti-oxidant compound with relatively unique mechanisms as it is directly unable to scavenge any free radical,[102] yet one of the events of taurine deficiency is tied into dysregulated oxidation.[103] One in vitro study noted that taurine deficiency (via beta-alanine incubation) was associated with increased oxidative stress (measured by aconitase and glutathione redox couplet) yet the 10% increase in taurine levels after incubation with taurine alone was not paired with any alteration and coincubation of the two also resulted in no significant differences with control cells (incubated with neither) and similar trends were seen in the mitochondria when measuring the activity of Complex I and III.[104] Beta-alanine resulted in an impaired electron-transport chain function (due to either beta-alanine per se or merely a deficiency of taurine), which tends to cause increases in superoxide production[105] due to spare electrons being diverted to other accepting molecules such as oxygen;[106] it appears that taurine prevents this increase in oxidation by attenuating its own deficiency at times.[104] These effects have been hypothesized elsewhere, and it was expanded that taurine may play a role in mitochondrial tRNA conjugation where its deficiency and the relative lack of conjugation produced oxidation via the aforementioned electron chain impairment.[107] This study hypothesized a lack of 5-taurinomethyluridine as the first step of mitochondrial impairment, but a later study failed to note this despite a decrease in mitochondrial protein synthesis.[32]
 
+
 A cellular deficiency of taurine results in cellular death by pro-oxidative means, and indirectly dietary taurine can prevent oxidation by preventing its own deficiency
+
 
 Taurine has also been found to upregulate thioredoxin interacting protein (TXNIP) mRNA levels, which is dependent on cellular accumulation of taurine.[108] As TXNIP regulates oxidation via thioredoxin, this is a plausible mechanism for anti-oxidative effects.
 
@@ -404,11 +426,15 @@ On a mechanistic level, taurine is known to form conjugates with vitamin A (reti
 
 Taurine also exerts osmolytic properties in the retina[118] which may be mechanically protective of retinal rod outer segments by regulating hydration and pressure of these organelles.[119]
 
+
 Taurine appears to have vital roles in the eyes for all tested mammalian species including primates. This protection and growth promoting properties seen with taurine are hypothesized to either be due to a stimulatory effect on photoreceptors and rhodopsin (a pigment vital for sight) or secondary to controlling prooxidative stressors within the eye that are a result of light stimulation
+
 
 Taurine may also help protect the eyes from other stressors such as elevated glucose concentrations in retinal tissues[120][121] (a consequence of diabetes that may lead to diabetic retinopathy) and its efficacy in this model has been shown to be comparable to effective concentrations of the combination of Vitamin E and Selenium.[121]
 
+
 The protective effects of taurine, at least in vitro, have been noted to extend towards elevated glucose concentrations in medium (a model for diabetic retinopathy)
+
 
 9.2
 

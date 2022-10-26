@@ -272,7 +272,9 @@ Sources
 
 Theaflavins are said to be the main bioactive of black tea. While both green tea and black tea (as well as white tea) are derived from the same plant, Camellia Sinensis, black tea involves an additional fermentation stage in which the enzyme polyphenoloxidase acts on polyphenols and generates the theaflavins and thearubigins found in black tea.[1][2] Theaflavins are actually the molecules to credit for both the taste and visual aspect of Black Tea (relative to Green Tea) as they are also pigments.[3][4][5]
 
+
 Catechins (a particular molecular structure class) appear to be sligthly damaged during excessive heating and fermentation required to form black tea. After this damage, they spontaneously reconfigure into theaflavins and the rich gallic acid content of Camellia Sinensis can attach themself to theaflavins (similar to how they attach themselves to catechins to for EGC, ECG, and EGCG)
+
 
 It is estimated that average human Theaflavin intake is 25.3-29.3mg per day at its highest (in the UK) although with high variability, as this same survey noted that the Greece population had near no dietary intake; most dietary intake comes from fermented teas, of which Black Tea is the most popular.[6]
 
@@ -280,7 +282,9 @@ The total Theaflavin content has been estimated to be as high as 2-6%[7][8] alth
 
 Regardless of the total Theaflavin content, the total polyphenolics of black tea tend to be just 10% theaflavins with 30% and 50-60% being catechins and thearubigins; respectively.[1] Thearubigins are likely to mediated a variety of bioactivities associated with black tea, but are currently not well defined (thus research tends to cater to what it can define; Theaflavins).
 
+
 Theaflavins have a variable content in Black Tea depending on cooking time, and do not appear to be the major source of Black Tea polyphenolics either; that being said, there appears to be enough Theaflavins in Black Tea for it to be bioactive in some instances
+
 
 1.2
 
@@ -290,13 +294,18 @@ Theaflavins are divided into several similarly structured molecules; Theaflavin,
 
 {OLD-IMG-ID:183}
 
+
 Theaflavin per se is the basic structure and is formed from two catechins (in these pictures, the top catechin opened up its hexane ring and reattached; now appearing to be a heptane) and gallic acid molecules attach to either of or both of the 3-carbon positions on the catechins
+
 
 Although not classically referred to as one of the main theflavins, Theaflavin Trigallate and Tetragallate have been detected where additional gallic acid moieties are attached to the 5-carbon and 5'-carbon positions, with trigallate attaching to the 5' position and tetragallate adding an additional gallic acid to the 5-carbon.[14]
 
+
 Theaflavin is a molecule that results from heat and fermentation of products containing catechin, the most basic of the green tea catechins; as such, it is high in black tea (which is a more highly processed green tea). Theaflavin, like catechin, can be attached to gallic acid molecules at numerous locations
 
+
 The common term 'Theaflavins' tends to refer to all Theaflavin-like structures, but usually the four pictured
+
 
 1.3
 
@@ -304,7 +313,9 @@ Related Molecules
 
 Theaflavins are oxidation/fermentation byproducts of the green tea catechins, and are not exclusively the only products formed. Other fermentation products that are known to exist are:
 
-Thearubigins,[15] which is effectively a blanket term for over 30,000 unidentified phenolic compounds that are the byproducts of oxidative reactions to catechins[16][17]Theaflavate A-B[12] and Theasinensin A[18]Theanapthoquinone[19]Galloyl Oolongtheanin[18]Polymer-like oxidation products including Theaflavates A-C and Bistheaflavate A[18]Catechin tetramer known as theatribenzotropolone A[20] and the trimer theadibenzotropolone A[21]Theaflavins are not all the possible molecules created from catechin heat treatment and reconfiguration, and some of the above may be relevant in studies on 'Black Tea Extract' rather than isolated Theaflavins
+Thearubigins,[15] which is effectively a blanket term for over 30,000 unidentified phenolic compounds that are the byproducts of oxidative reactions to catechins[16][17]Theaflavate A-B[12] and Theasinensin A[18]Theanapthoquinone[19]Galloyl Oolongtheanin[18]Polymer-like oxidation products including Theaflavates A-C and Bistheaflavate A[18]Catechin tetramer known as theatribenzotropolone A[20] and the trimer theadibenzotropolone A[21]
+Theaflavins are not all the possible molecules created from catechin heat treatment and reconfiguration, and some of the above may be relevant in studies on 'Black Tea Extract' rather than isolated Theaflavins
+
 
 2.
 
@@ -318,7 +329,9 @@ One study using 50mg/g of decaffeinated black tea (8.8mg/g theaflavins) in the d
 
 A small human study (n=2) suggest that the serum spike of theaflavin in human serum after consumption of 700mg is approximately 1ng/mL.[24]
 
+
 Limited evidence currently, but it appears that the absorption of Theaflavins from the diet into systemic circulation is quite low at around 1ng/mL; many bioactivities of Theaflavins after absorption may be due to metabolites
+
 
 2.2
 
@@ -328,7 +341,9 @@ In a test using germ-free (lacking intestinal bacteria) and normal mice, ingesti
 
 This may explain why in a small (n=2) human study ingesting 700mg Theaflavins, only parent Theaflavin was detected in urine; the authors hypothesized that the gallic acid moeties were metabolized.[24]
 
+
 Theaflavin-3,3'-Digallate can be metabolized into any other Theaflavin and Theaflavin monogallates can be metabolized into Theaflavin per se; this appears to require intestinal microflora
+
 
 2.3
 
@@ -336,17 +351,23 @@ Pharmacological Targets
 
 Theaflavin-3-Gallate is able to inhibit DNA methyltransferase 3a with a 1:1 stoichiometric ratio with an inhibition constant of 25μM[26] with some thearubigins (Theaflavin derivatives) showing a lesser IC50 value.[26] Theaflavin, Theaflavin-3-Gallate, and Theaflavin Digallate have further been shown to interact with histone proteins[27] and Theaflavin Digallate showed low affinity for double stranded ds26 yet high affinity quadruplex oligonucleotide 22AG (which also had affinity to EGCG yet not chlorogenic acid) and the DC50 values of Theaflavin Digallate (DC50 value being the concentration required to displace from DNA, lower concentrations indicating more affinity for DNA) of 0.26μM (duplex) and 0.20μM (quadruplex) showing low selectivity (in contrast, EGCG had high selectivity for quadruplexed).[27]
 
+
 Theaflavins have the ability to bind to human DNA, much like EGCG, although the practical implications of this research is not yet known
+
 
 Ephrin receptors are a class of cell surface tyrosine-kinase receptors with a variety of actions mediating cell-cell interactions.[28] Interactions between ephrin receptors and their ligands (Ephrins) tends to promote cancer cell development and angiogenesis,[29] and the interaction between receptor and ligand can be inhibited with both Theaflavin monogallates, particular towards the A2-A4 subsets with two-fold affinity for EphA4 and IC50 values between 40-80uM;[30] these molecules were competitive inhibitors, and Theaflavin itself as well as Theaflavic acids (also found in black tea) were not significantly effective.[30]
 
+
 Appears to interact with Ephrin receptors, practical significance unknown
+
 
 Theaflavins (those with gallic acid moieties) have been found to inhibit ATP Synthase with IC50 values in the range of 10-20uM.[31] This has been noted with EGCG (Green tea catechins)[32] but EGCG has an IC50 of 30uM and Theaflavin per se has an IC50 of 60uM.[31] The binding site of Theaflavins appears to be distinct from that of Quercetin (which is fairly close to ATP binding site) and instead bound closer to the membrane where the antibiotic efrapeptin is known to act.[33][31]
 
 Theaflavins also appear to inhibit mitochondrial respratory complex 2 in the Electron Transport Chain (ETC) with IC50 values in the 1-4uM range and Complex 1 with weaker inhibition in the 20-50uM range.[31] Interestingly, this study noted that there was no Superoxide production (free radical production; a natural consequence of ETC inhibition) possibly due to direct antioxidative properties of Gallated Theaflavins.[31]
 
+
 Gallated Theaflavins appear to inhibit ATP synthase and the ETC, but at the same time their anti-oxidant properties circumvent the production of superoxide (O-) that results form ETC inhibition
+
 
 Black tea was found to inhibit SULT1A1 and SULT1A3, which was due to both the Theaflavins and Thearubigins (with trace catechins likely also active); SULT1A1 was inhibited by 90% when 1% of the medium contained Theaflavins (and activity was wholly abolished at 5%) while SULT1A3 only had 10% activity inhibited at 1% of the medium (while 10% of the medium as Theaflavins abolished SULT1A3 activity).[34]
 
@@ -356,7 +377,9 @@ Rheology
 
 It has been noted that tea catechins in general exhibit strong binding to lipid bilayers including those found in cytoplasmic membranes[35][36] which appears to extend to Theaflavins.[37] This study noted that all Theaflavins showed binding affinity to the lipid bilayer via their hydroxyl groups, with Theaflavin Digallate showing more binding affinity than Theaflavin or either Monogallate (the latter two being similar).[37]
 
+
 Theaflavins, like other tea polyphenolics, can bind to the cell membrane
+
 
 3.
 
@@ -370,7 +393,9 @@ Theaflavins have been found to induce phosphorylation of FOXO1a in a concentrati
 
 Theaflavins were also noted to suppress PEPCK-CAT with an IC50 of approximately 20mcg/mL, and was additive with insulin until reaching the maximal insulin-related repression.[38]
 
+
 Theaflavin appears to have some IGF-1 like mechanisms thought to underlie life extension, although these occur at a fairly high concentration (not yet seen in serum after oral ingestion)
+
 
 3.2
 
@@ -378,7 +403,9 @@ Interventions
 
 In fruit flies (model for longevity research due to short lifespans and high possible sample sizes) administration of Theaflavins was associated with an increase in lifespan from 51 days on average to 56 days (9.8%) and appeared to be mediated through an increase in Superoxide Dismutase 1 (SOD1), an antioxidant enzyme.[39] Similar effects are noted with green tea catechins.[40]
 
+
 One study in fruit flies has confirmed longevity promoting effects of Black Tea, which appear to be related to SOD1 induction (an antioxidant enzyme known as 'Superoxide Dismutase')
+
 
 4.
 
@@ -390,7 +417,9 @@ Mechanisms
 
 Theaflavins have been noted to, in vitro, inhibit formation of Aβ40 and Aβ42 fibrils in the classical formation and instead was associated with spherical formations; it appears that Theaflavins bind to hydrophobic regions of Aβ monomers and alter aggregate formation away from fibrils into spheres,[41] a seemingly protective effect previously noted with EGCG and green tea catechins that reduces toxicity of Aβ aggregates[42] and other protein misfoldings.[43] These protein modification effects, similar to EGCG, are independent of antioxidant potentials of Theaflavins.[41]
 
+
 Has mechanisms in place to alter the shape of protein aggregates (observed in the pathology of Alzheimer's and Parkinson's) into more spherical and less toxic shapes; no in vivo evidence currently, but appear to be independent of anti-oxidant properties
+
 
 4.2
 
@@ -398,7 +427,9 @@ Ischemia
 
 10-20mg/kg of Theaflavins (intraperitoneal injection) given prior to an MCAO injury in rats was associated with improved cognitive function (normalizing about half of the injury-induced deficit) associated with anti-oxidative properties which negatively influenced NF-kB activation and iNOS induction.[44] These results (same methodology) have been replicated elsewhere, with emphasis placed on reduced phosphorylation of STAT1 to credit for the observed protection;[45] STAT1 is upstream of iNOS and COX2 induction[46][47] which mediated downstream inflammatory reactions, and STAT1 itself appeared to be subject to prooxidative changes in cerebral ischemia.[48]
 
+
 Injections of Theaflavin are neuroprotection prior to neural injury, no studies conduted on oral ingestion at this moment in time nor comparisons to reference drugs
+
 
 4.3
 
@@ -406,7 +437,9 @@ Parkinson's
 
 In a mouse model of MPTP-induced neurodegeneration (model of Parkinson's Disease) given 10mg/kg Theaflavins (20mg/kg being equally effective, and 10mg/kg more effective than 5mg/kg) one hour prior to MPTP administration noted an attenuation in the amount of behavioural deficits and reduction in oxidative biomarkers (TBARS, SOD, GPx, Catalase).[49] A preservation of dopamine and MAO-B levels were also noted, but did not reach levels seen in control.[49] A follow-up to this study noted that the protective effects of 10mg/kg Theaflavins also extended to a reduction in apoptosis of dopaminergic neurons and less neuroinflammation[50] and these results are replicated elsewhere by the same research group.[51]
 
+
 Oral intake of low doses of Theaflavins (10mg/kg in rats; 1.6mg/kg in humans as a likely estimate) has been noted to protect from Parkinson's toxin possibly via antioxidative effects; the protective effect is not absolute, but it appears to be in a dose relevant to Black Tea consumption
+
 
 5.
 
@@ -420,7 +453,9 @@ A study using 0.4mg/mL Theaflavins in vitro to assess lipase inhibition noted th
 
 Black tea polyphenols have been noted to increase the amount of lipids detected in the feces of rats, suggesting that this lipase inhibition is biologically relevant.[54]
 
+
 Black tea has mechanisms to inhibit lipid (fatty acid) absorption form the diet following oral administration, which could result in less bioactivities of those fatty acids in the body if they are not absorbed
+
 
 5.2
 
@@ -428,13 +463,17 @@ Cardiac Tissue
 
 Theaflavin at 10-40umol/L in cardiac tissue prior to Ischemia/Reperfusion (I/R Injury) noted that while Theaflavins failed to influence cardiac tissue at rest it was associated with a concentration-dependent protective effect on cardiac function after I/R injury was resolved (with a Theaflavin pretreatment); these protective effects were abolished by incubation with a potassium channel blocker (Glibenclamide or 5-HD) and mPTP opener (Atractyloside).[55] Both KATP[56] and mPTP closure[57] are known to be cardioprotective mechanisms during Ischemia, and Theaflavins appear to work via these mechanisms.[55]
 
+
 May have protective effects in response to cardiac ischemia, but requires a fairly high concentration
+
 
 Cardioprotection in isolated cardiomyocyte (from an H2O2 insult) has been noted to occur as a result of anti-oxidative purposes, and the induction of JNK and p38 (MAPKs) by Theaflavins were noted to be unrelated to protective effects.[58]
 
 A modest positive (between 100-150% of control in vitro) inotropic effect has been noted with Theaflavins between 10-1,000ng/mL with most efficacy at 100ng/mL, a concentration range possibly relevant to black tea ingestion.[59] This did not correlate with the antioxidant potential of Theaflavins, and Theaflavin Digallate was found to induce PKCε in isolated rat tissue possibly secondary to pro-oxidative effects (abolished with pretreatment of N-Acetylcysteine).[59]
 
+
 There may be a small hormetic protection of the heart associated with low concentrations of Theaflavins, possible in the range of oral supplementation
+
 
 5.3
 
@@ -444,7 +483,9 @@ Absorption of cholesterol may be reduced following oral administration of black 
 
 In persons with mild to moderate hypercholesterolemia given 375mg of a Theaflavin enriched green tea extract (75mg Theaflavins, 150mg green tea catechins, 150mg other polyphenols) for 12 weeks, it was noted that total cholesterol was reduced 11.3+/-0.9% and LDL-C by 16.4%+/-1.1% while HDL-C increased 2.3%+/-2.1% and triglycerides increased by 2.6%+/-3.5%.[63] A similar trial was replicated with 77.5mg Theaflavins in isolation in mildly hyperhcolesterolemic women (with or without additional catechins) noted that while a decrease in cholesterol was noted that it was not different than placebo.[64]
 
+
 Theaflavins have mechanisms to reduce cholesterol and tea extracts may, but evidence to support Theaflavins per se (rather than Black Tea Extract) is minimal with at least one study suggesting no effect on cholesterol 
+
 
 5.4
 
@@ -458,7 +499,9 @@ Endothelium
 
 Theaflavins appear to reduce homocystine-induced endothelial damage at concentrations between 10 and 20mcg/mL, although not full protection (control still exhibited less endothelial damage) which was thought to be due to antioxidative effects; both reduced DNA damage as well as the homocysteine-induced reduction of nitric oxide were comparable attenuated with Theaflavins.[66] The oxidative protection appears to be general rather than specific for homocysteine.[67]
 
+
 Some general protective effects on the endothelium via the anti-oxidant potential of Theaflavins; not remarkably potent nor unique to this group of molecules
+
 
 It has been noted that green tea and black tea seem to be equally potent at inducing nitric oxide and the inducible enzyme eNOS in isolated aortic cells, as the lack of catechins in black tea is met by somewhat equal efficacy from the theaflavins (and thearubigins);[68] this comparability in vitro has been replicated elsewhere.[69]
 
@@ -482,7 +525,9 @@ Tea from Camellia Sinensis,[75] as well as black tea particularly (where a highe
 
 It has been hypothesized that the protective effect of Arcarbose on diabetes risk (via inhibiting carbohydrate absorption) may be applied to tea polyphenols including Theaflavins pending more intervention research.[72]
 
+
 Black tea theaflavins have been shown in numerous instances to inhibit alpha-amylase, an enzyme that inhibits the breakdown of starch and prepares it for absorption; its inhibition would result in less carbohydrates absorbed, and this may result in weight loss or reduced glucose spikes following meals (and less risk for diabetes). There are currently no human studies, but numerous in vitro studies suggesting it is effective and in a concentration range that is relevant following oral intake of tea or supplements
+
 
 7.
 
@@ -494,7 +539,9 @@ Interventions
 
 Feeding of 1.5% black tea to rats, relative to other forms of tea from Camellia Sinensis, caused greater weight loss effects over 30 weeks which were not observed (ie. both groups similar) when the dose increased to 4%;[65] both underperformed relative to Oolong and Pu-erh teas.[65]
 
+
 Possible weight loss effects, not highly explored
+
 
 8.
 
@@ -506,7 +553,9 @@ Mechanisms
 
 Theaflavins, in a skeletal muscle myoneural junction, appear to induce concentration-dependent improvments in muscle cell contraction (17-76% at concentrations of 12-96mg/mL) via calcium-dependent as well as nitric oxide dependent mechansims.[78] Calcium[79] as well as nitric oxide[80] are both positive mediators of muscle contraction, and the authors hypothesized that Theaflavins augmented muscle contraction via these mechanisms.[78]
 
+
 Has mechanisms to increase muscle contractile strength, although the concentration used is much higher than that observed in serum following black tea ingestion; may not be biologically relevant
+
 
 8.2
 
@@ -514,7 +563,9 @@ Interventions
 
 In men consuming a Black Tea Extract (1,760mg of 40% Theaflavins daily for 9 days) who were subject to a Wingate test (a 10 second all-out cycling repeated 8 times with short breaks) prior to and after supplementation, it was found that those supplementing Black Tea extract appeared to have greater peak power output during the trial after 9 days (2.3%) with no influence on mean power.[81] This study noted reduced cortisol, Delayed onset muscle soreness (DOMS), and antioxidative biomarkers with no significant influence on IL-6.[81]
 
+
 One study noting an increase in power associated with Black Tea consumption, although this study assessed power via a Wingate test and also noted reductions in Delayed Onset Muscle Soreness (DOMS) which could have influenced the testing
+
 
 9.
 
@@ -526,7 +577,9 @@ Mechanisms
 
 Rat osteoclastic precursor cells incubated with either 10 or 100uM of Theaflavin Digallate suppressed differentiation in a concentration-dependent manner and to a greater degree than EGCG (the major of the four green tea catechins), these results paired with suppression of MMP2 and MMP9 secretion suggest anti-osteoporotic effects.[82]
 
+
 Possible anti-osteoporotic effects, although at fairly high (possibly not biologically relevant) concentrations
+
 
 10.
 
@@ -540,7 +593,9 @@ In stimulated macrophages (RAW 264.7), 0.1ug/mL of Theaflavins was able to sligh
 
 A study in bone marrow derived macrophages, no cytotoxicity is noted up to 100mcg/mL while 50mcg/mL is noted to suppress subsequent LPS-induction of IL-6, MCP-1, and ICAM-1 mRNA; all of which were due to NF-kB activation which was downstream of MAPKs (specifically, MCP-1 was downstream of JNK and both IL-6 and ICAM-1 were downstream of p38).[84] The MAPKs consist of p38, JNK, and ERK, with Theaflavins appearing to inhibit p38 and JNK.[84] ICAM-1, as well as VCAM, have been found to also be inhibited in intestinal epithelial cells via similar mechanisms.[85]
 
+
 Possesses some anti-inflammatory properties, but there isn't any evidence to support any potent anti-inflammatory effects of Theaflavins. The anti-inflammatory effects appear to be minor or moderate in effect size
+
 
 10.2
 
@@ -548,7 +603,9 @@ Innate Immunity
 
 The Retinoic acid-inducible gene I (RIG-1) receptor of innate immunity[86] is inhibited by Theaflavin-3,3'-Digallate with an IC50 of approximately 1uM, while EGCG inhibits this receptor with an IC50 of approximately 1-2uM; both were inactive on TLR3, 4, and 9 receptors.[87] RIG-1 receptors are important for innate immunity, and their hyperactivity is thought to be linked to autoimmune disorders[87][88] such as Epstein Barr virus which is known to activate RIG-1.[89]
 
+
 One study suggests Theaflavins might be useful in autoimmune diseases (by inhibting a receptor implicated in being overactive in some cases of autoimmunity) and the concentration is not too high to be infeasible; however, there is a lack of evidence in living models to support these claims
+
 
 10.3
 
@@ -558,7 +615,9 @@ Prostaglandin E2 (PGE2) is known to inhibit CD4+ T cell activation[90] and cause
 
 Theaflavins at a concentration of 25µg/mL in tumor cells appears to reduce the amount that the tumor cell kills T-cells,[99] as it seems that the PGE2 is able to prevent phosphorylation of a protein known as STAT5A and theflavins preserve phosphorylation, which subsequently preserves IL2Rγc signalling (the receptor for IL-2) and T-cell structure.[99]
 
+
 CD4+ T-cells are protective against cancer by causing tumor cell death, but increased PGE2 concentrations impair the ability of the body to activate CD4+ T-cells and also cause death of T-cells via preventing the signalling of IL-2 (a beneficial cytokine for T-cells). Theaflavins appear to preserve signalling of IL-2 in T-cells, and thus attenuate the negative effects of PGE2
+
 
 10.4
 
@@ -566,7 +625,9 @@ Allergies
 
 In oxazolone induced type IV allergic reaction (skin hypersensitivity) in male mice, either percutaneous administration (solution) of 0.2mg or oral ingestion of 50mg/kg Theaflavins were able to significantly reduce the subsequent Oxazolone-induced allergic response.[100] Application of 0.2mg Theaflavins was not significantly different than 0.1mg Hydrocortisone as active control, and oral administration of 50mg/kg Theaflavin Digallate (but not monogallated) was not significantly different than 50mg/kg Hydrocortisone (trended to be weaker) and thought to be mediated by anti-inflammatory effects due to less circulating IFN-γ and TNF-α.[100]
 
+
 Topically, Theaflavins appear to be potent anti-allergic molecules and large doses orally (possibly via metabolites) share these anti-allergic properties
+
 
 10.5
 
@@ -574,7 +635,9 @@ Virology
 
 In regards to the Influenza Virus ('The Flu'), Theaflavins appear to have Neuroaminase inhibitory potential (mechanism of action of oseltamivir and zanamivir) with Theaflavin Digallate having an IC50 of 10.67+/-0.31μM on the H3N2 strain (less potent than the active control Oseltamivir carboxylate at 8.88+?-2.17nM).[101] Theaflavins were also noted to inhibit viral replication in cells in a concentration dependent manner with 10μM nearly abolishing replication.[101]
 
+
 Preliminary evidence to suggest that Theaflavins work against the flu and prevent viral replication
+
 
 A 90% Theaflavin mixture was noted to inhibit infection of cells by HIV with IC50 values between 210nM (X4 virus) and 1.2μM (R5 virus) and inhibited infection by primary HIV-1 isolates of clades A, B and group G (X4R5 or R5) with IC50 values of 0.29-0.67μM.[102] Inhibitory effects were noted against three NL4-3 variants (which are TI249 resistant[103]) with IC50 values between 300-410nM.[102] An inhibitory effect was noted against HIV replication (via interference with HIV-1 RT activity) but at a much higher IC50 value of 48.67μM.[102]
 
@@ -582,7 +645,9 @@ The mechanism is thought to be via interacting with the pg41 pocket region and p
 
 Theaflavins appear to be stable at a pH of 3-6[102] and can remain in vaginal and cervical cells up to 6 hours after direct application without exerting any noticeable toxicity;[106] due to these effects, Theaflavins are thought to have some promise in preventing HIV transmission as a direct vaginal cream.[106]
 
+
 Appears to have fairly potent in vitro effects on preventing HIV infection, with some (but less potent) inhibitory effects on viral replication. Has been shown in vitro to be similarly potent on many strains of HIV, and is a promising intervention for non-oral uses of Theaflavins (ie. Vaginal gels or condom lining)
+
 
 10.6
 
@@ -610,7 +675,9 @@ In regards to copper-mediated LDL oxidation (an oxidative process that turns LDL
 
 In regards to DNA mutations mediated by oxidation, only gallated Theaflavins appear to be able to prevent hydroxyl-mediated DNA damage (with both EGCG and basic Theaflavin being ineffective).[109]
 
+
 Theaflavins have antioxidative potential, and when compared to Green tea catechins (EGCG in particular) Theaflavins appear to be more effective anti-oxidants
+
 
 Like most anti-oxidants and phenolics,[113] Theaflavins may also confer pro-oxidative effects depending on context. This has been noted in vitro with oral cancer cells where Theaflavins have produced Hydrogen Peroxide[114][115] and Oxygen free radicals.[115] 
 
@@ -618,7 +685,9 @@ In some cancer cell lines, activation of JNK (a cellular protein that appears to
 
 In studies that note pro-oxidative effects from Theaflavins in cancer cells, there appears to be a slight preference for cytotoxicity in cancer cells relative to normal cells; toxicity occurs to CAL27 carcinoma and HSC-2 cancer cells at a concentration lower than that observed with GN46 and HF-1 normal cells[115] while there appears to be a larger therapeutic threshol for CAL27 cells relative to healthy oral cancer cells.[114][115]
 
+
 Theaflavins hold pro-oxidative potential, which is thought to underlie their chemotherapeutic effects on cancer cells
+
 
 12.
 
@@ -634,7 +703,9 @@ In human gingival fibroblasts (which are known to secrete CXCL10 in response to 
 
 It appears that these effects of Theaflavins on reducing receptor expression extend to green tea catechins.[119][122]
 
+
 Possesses anti-gingivitus properties
+
 
 12.2
 
@@ -642,7 +713,9 @@ Stomach
 
 In Indomethacin-induced stomach ulceration followed by consumption of 10-50mg/kg Black Tea or 0.5-5mg/kg Theaflavins for three days, a dose-dependent reduction in Myeloperoxidase (MPO) was noted (Theaflavins more effective than Black Tea) although both Black Tea (40mg/kg) and Theaflavin (1mg/kg) was as effective as Omeprazole (3mg/kg) in reducing stomach ulceration as assessed by histological examination; the damage score was reduced by 81.3%, 78.1% and 79.7% relative to ulcer control.[123] These effects have been replicated elsewhere with 40mg/kg Black tea and 1mg/kg Theaflavins, with Theaflavins at 1mg/kg being as effective as 3mg/kg Omeprazole as active control.[124] These effects appear to be mediated by mixed anti-oxidative[124] and anti-inflammatory[123] mechanisms.
 
+
 Remarkably potent anti-ulcer effects after NSAID-induced ulceration in mice
+
 
 12.3
 
@@ -686,7 +759,9 @@ Epithelial-to-mesenchymal transition (EMT) is a process where cancerous cells lo
 
 Black tea extract (2.63% Theaflavin Digallate, catechins, and 10.46% gallic acid) in SCC-4 oral cancer cells inhibited cell migration and invasiveness in a concentration-dependent manner and prevented SCC-4 adhesion to the ECM, which precedes EMT.[138] Black tea was found to concentration-dependently reduce both Vimentin and MMP2 expression (as well as FAK and p-Src) and upregulate E-Cadherin in concentrations below 40ug/mL, and 20ug/mL effectively abolished the PMA-induced induction of u-PA and MMP9.[138]
 
+
 Possible anti-proliferative and anti-metastatic potential of Black Tea
+
 
 Theaflavin has been noted to bind directly to the 20S proteasome of tumor cells, which may underlie bioactivities.[139]
 
@@ -706,13 +781,17 @@ In breast cancer cells (T47D and MDA-MB-231) at 25mcg/mL, Theaflavins were able 
 
 Interestingly, in both functional p53 cells[145] and mutated p53 cells[143] Theaflavins induce expression of p53 despite apoptosis not being dependent on p53.[143] Induction of p53 appears to be more related to the anti-proliferative effects of Theaflavins on breast cancer cells, where both p53 induction as well as reactive oxygen species (ROS) appear to contribute to reduced cell migration.[146]
 
+
 Possesses mechanisms in vitro to induce apoptosis of the two main research breast cancer cells, MCF-7 (estrogen responsive) and MDA-MB-231 (estrogen nonresonsive; highly proliferative)
+
 
 In C3(1)SV40 mice (assurance of developing breast tumors in their lives[147]) consuming Theaflavins (0.05% of their drinking water; 0.01% failed to exert benefit) for their lifetime was associated with a slight prolongation of life and reduction of tumor pathology when measured at organic death or when measured at a set time point of life (two separate experiments). Tumor size in the latter case was reduced to 61% of control, and outperformed green tea catechin intervention (74.6% of control).[23] Other studies note that green tea is more effective than black tea, however.[148]
 
 A reduction in tumor induction has been noted with Black tea (1.5% of the diet) with or without milk when given to rats prior to inducing a tumor with the DMBA toxin,[149] which has been replicated elsewhere (similar dosage).[150]anthracene in rats fed control or high fat diets|published=1998 Jul|authors=Rogers AE, Hafer LJ, Iskander YS, Yang S|journal=Carcinogenesis]
 
+
 Limited evidence, but there is in vivo evidence to support anti-breast cancer actions of Theaflavins at relatively low doses. For the most part, Theaflavins and catechins (Black and Green tea, respectively) are fairly interchangeable in regards to potency
+
 
 13.5
 
@@ -810,5 +889,7 @@ In vitro, Theaflavins (and catechins) appear to form complexes with milk protein
 
 The addition to milk to black tea fails to reduce the amount of circulating phenolics in serum of volunteers when measured 80 minutes after consumption.[174] Other studies have replicated this lack of alteration in plasma antioxidant capacity with the addition of milk[175] which also appears to extend to green tea catechins.[176] At least one study has noted reduced anti-oxidant potential with milk consumption, however.[177]
 
+
 Protein complexes readily form with tea polyphenolics including Theaflavins. Although there is mixed evidence as to the consequences of consuming tea with milk, most studies suggest that it does not appear to inhibit the subsequent antioxidant rise in serum when they are coingested
+
 

@@ -134,7 +134,9 @@ Psoralea Corylifolia is a herb from the plant family Leguminosae (subfamily Papi
 
 The plant grows in tropical and subtropical regions of the world including Southern Africa, China, and India; It is also found throughout India in Himalayas, Dehra Dun, Oudh, Bundelkhand, Bengal, Bombay, some valley in Bihar, Deccan, and Karnataka.[2][3]
 
+
 Traditionally used anti-cancer and anti-inflammatory agent, with particular usage catered towards combatting menopause. Beyond that, this medicinal plant has a less enticing history relative to some other highly touted plants
+
 
 1.2
 
@@ -148,9 +150,12 @@ Psorachalcone A[9]Bavachalcone (as well as Neobavachalcone and Isobavachalcone[1
 
 Bavachin,[10] Isobavachin and 7-O-methylbavachin[2][6] as well as Bavachinin (9.72mg/g ethyl acetate fraction)[4]Corylin,[6] Neocorylin[15]Corylifol A-D,[16][9][17] with A at 3.68mg/g ethyl acetate fraction[4]Psoralenol and 3-hydroxypsoralenol[9]Psoralone and Isopsoralone[2]Corylifolean, Corylifolin, Corylifolinin (Seeds)[2]Neobavaisoflavone[18]Daidzin (glycoside of Daidzein, one of the main soy isoflavones) in the fruits[19] as well as the roots;[20] 8-prenyldaidzein also exists at 1.6mg/g ethyl acetate fraction[4] and Genistein as well[21]Biochanin A[22]And various other compounds include:
 
-Corylifonol and Isocorylifonol (Benzofuran derivatives; seeds)[2]Astragalin (a constituent of Astragalus Membranaceus; seeds)[2]Psoracorylifol F (monoterpenoid)[23]Angelicin (fruits; from Bituminaria bituminosa)[19]An essential oil (0.5% seed weight) containg volatiles such as Limonene, α- and γ-elemene, β-caryophylenoxide and linalool[2]Bakuchiol, an estrogenic monoterpene phenol[24][25] and derivatives such as Delta-3,2-hydroxybackuchiol,[26] at around 1g per 4kg root powder (0.25%), Bisbakuchiols A and B[27] alongside 12'S-bisbakuchiol C,[28] and 12,13-dihydro-12,13-dihydroxybakuchiol[28]Cyclobakuchiol C[29]Linoleic acid (67.7% of fatty acids), Palmitic acid (22.07%), Oleic acid (3.33%) and trace Myristic and Lauric [30]A large variety of fairly unique compounds, but the bioactivities of Psoralea Corylifolia tend to be narrowed down to either the furanocoumarins (Psoralen and Isopsoralen in particular) or the Bakuchiol class of molecules (related to estrogenicity and neurology more than the others)
+Corylifonol and Isocorylifonol (Benzofuran derivatives; seeds)[2]Astragalin (a constituent of Astragalus Membranaceus; seeds)[2]Psoracorylifol F (monoterpenoid)[23]Angelicin (fruits; from Bituminaria bituminosa)[19]An essential oil (0.5% seed weight) containg volatiles such as Limonene, α- and γ-elemene, β-caryophylenoxide and linalool[2]Bakuchiol, an estrogenic monoterpene phenol[24][25] and derivatives such as Delta-3,2-hydroxybackuchiol,[26] at around 1g per 4kg root powder (0.25%), Bisbakuchiols A and B[27] alongside 12'S-bisbakuchiol C,[28] and 12,13-dihydro-12,13-dihydroxybakuchiol[28]Cyclobakuchiol C[29]Linoleic acid (67.7% of fatty acids), Palmitic acid (22.07%), Oleic acid (3.33%) and trace Myristic and Lauric [30]
+A large variety of fairly unique compounds, but the bioactivities of Psoralea Corylifolia tend to be narrowed down to either the furanocoumarins (Psoralen and Isopsoralen in particular) or the Bakuchiol class of molecules (related to estrogenicity and neurology more than the others)
+
 
 The large degree of prenylated isoflavones have potential usage and are fairly unique to this plant, but for the most part they have not been investigated beyond some studies done in vitro on bone cells where they show promise. Prenylated Isoflavones may form a third class of 'potentially useful components of this herb' alongside the furanocoumarins and Bakuchiols
+
 
 2.
 
@@ -166,7 +171,9 @@ For Psoralen and Isopsoralen, they have been detected in plasma following intrav
 
 The clearance rate of Bakuchiol following injection into rats (15mg/kg) was found to be 59.8mL/min/kg, and the authors noted that this was higher than hepatic blood flow (indicative of hepatic metabolism[35]) and hypothesized clearance is mainly via the liver.[31] Psoralen and Isopsoralen, following injections, appear to be mainly excreted via the urine with half lives of 4.13 and 5.56 hours respectively.[34]
 
+
 Psoralen, Isopsoralen, and Bakuchiol have been successfully determined in plasma following oral administration; bioavailability of Psoralen-like compounds still not currently known but Bakuchiol appears to have low absorption
+
 
 2.2
 
@@ -192,11 +199,15 @@ Aside from bakuchiol and Delta-3,2-hydroxybakuchiol, Hydroxybakuchiol and Delta-
 
 After injections of the petroleum extract of Fructus Psoraleae at 20, 200, and 500mg/kg, spontaneous locomotion was increased in a dose-dependent manner over 105 minutes (trending to decline) with no dose being more effective than 10mg/kg cocaine; all locomotion was abolished with reserpine, establishing that they were mediated by monoamines.[40]
 
+
 The Bakuchiol class of molecules appear to be catecholamine (dopamine and noradrenaline) reuptake inhibitors, with fairly high potencies (in the low micromolar and high nanomolar range). Although no oral studies exist, injections of either isolated Bakuchiols of a petroleum ether extract of the plant appear to have excitatory properties in rodents
+
 
 One study screening plant sources of MAO-B inhibitors noted that Psoralea was one of four (out of 905 plants) to have potential MAO-B inhibitory potential with an IC50 below 70mcg/mL, alongside Phellodendron amurense, Licorice Root, and Cyamopsis psoralioides.[42] This has been noted in vivo following oral ingestion of 30-50mg/kg furanocoumarins from Psoralea Corylifolia, where MAO-A and MAO-B activity was inhibited with more activity on MAO-B (47-63%) relative to MAO-A (15-47%).[43]
 
+
 Potential Monoamine oxidase (MAO) inhibiting potential, with preference for MAO-B; this may also contribute to catecholaminergic effects via reducing their rate of breakdown (causing a relative spike)
+
 
 3.2
 
@@ -206,7 +217,9 @@ In the forced swim test model in mice, Psoralen at an oral dose of 10, 20, and 4
 
 Psoralea Corylifolia furanocoumarins (30-50mg/kg) have been further tested in a model of Chronic stress, and appeared to have anti-stress effects as assessed by serum corticosterones and a sucrose-preference test.[43]
 
+
 Possible anti-stress and anti-depressive effects, although it appears to be of moderate potency (with some other adaptogen herbs showing more promise than this)
+
 
 3.3
 
@@ -214,7 +227,9 @@ Addiction
 
 At least one study has noted that the cocaine analogue ((-)-2beta-carbomethoxy-3beta-(4-fluorophenyl) tropane) was unable to bind to the dopamine receptor in vitro when incubated with the petroleum extract of Fructus Psoreleae.[40] This study noted that more research needed to be done, but suggests that Psoralea fruits could be useful in antagonizing cocaine's receptor affinity and thus to reduce addictive potential of cocaine.[40]
 
+
 Very preliminary evidence, but at least one study raises the possibility that Psoralea can be anti-addictive against Cocaine by competing with the dopamine receptor
+
 
 4.
 
@@ -226,7 +241,9 @@ Blood Flow
 
 Neobavaisoflavone and Isobavaisoflavone (but not Bavachin) appear to have platelet inhibitory potential, with Neobavaisoflavone inhibiting aggregatio by Arachidonic Acid (IC50 0.5μM), Collagen (65.1μM) and PAF (41.6μM) and Isobavaisoflavone having similar inefficacy on Collagen with les potency on Arachidonic Acid (7.8+/-2.5μM) but more potent on PAF-induced clotting (2.5+/-0.3μM); both compounds were more effective than Aspirin on AA-induced blood clotting.[45]
 
+
 May have anti-clotting potential, with one study suggesting more potent than Aspirin
+
 
 4.2
 
@@ -234,7 +251,9 @@ Endothelium
 
 The coumarin Bakuchicin has been noted to induce vascular relaxation via a Nitric oxide-cGMP related pathway.[46] This study was in vitro and noted a maximal relaxation in precontracted arteries of 95.94+/-0.97% at 30uM and was completely abolished by pretreatment with the nitric oxide inhibitors L-NAME and the cGMP inhibitor (ODQ) but was also attenuated by Vermapril, an L-type calcium channel blocker.[46]
 
+
 May relax the endothelium, but no living models have been used yet
+
 
 5.
 
@@ -246,7 +265,9 @@ Mechanisms
 
 Both Psoralidin and Bakuchiol have PTP1B inhibitory potential, with IC50 values of 9.4+/-0.5mM and 20.8+/-1.9mM,[47] both comparably very weak to reference standards of Berberine and Ursolic Acid.
 
+
 Currently unremarkable interactions with PTP1B, a negative regulator of the insulin receptor (normally its inhibition would increase the signalling of the insulin receptor, but this is unlikely with Psoralea as the IC50 values are very weak)
+
 
 6.
 
@@ -262,7 +283,9 @@ At least one study has noted that STAT3 activation downstream of IL-6 was inhibi
 
 Enzymatically, Psoralidin appears to be a dual inhibitor of both COX2 (the inducible form of COX) and 5-LOX, the latter of which appeared to be through preventing interaction between 5-LOX and its required coactivator 5-lipoxygenase activating protein (FLAP);[53] preventing FLAP from acting upon 5-LOX abolishes 5-LOX activity in response to cellular activation.[54]
 
+
 In inflammation-stimulated macrophages, components of Psoralea may have anti-inflammatory effects. Although the anti-inflammatory effects cannot be isolated to one component (many are active) they do appear to be quite potent on an in vitro assessment
+
 
 6.2
 
@@ -270,7 +293,9 @@ Immunostimulation
 
 Psoralea appears to be able to stimulate Nitric Oxide induction and TNF-α production from macrophages in the presence of IFN-γ, with minimal efficacy in isolation; both of which were mediated via activation of NF-kB (abolished by specific inhibitor).[55]
 
+
 Some compounds in Psoralea appear to increase IFN-γ induced activation of NF-kB and immunostimulatory (pro-inflammatory) effects of IFN-γ, with minimal efficacy per se. Practical significance of these results unknown
+
 
 7.
 
@@ -282,7 +307,9 @@ Mechanisms
 
 A 70% methanolic fraction of Psoralea has demonstrated greater than 90% cytotoxicity in K562 and KB cell lines at 80mcg/mL concentrations (a potency similar to Doxorubicin and Vincristine sulfate at 0.12mM and 0.2mM respectively), and showed dose-dependenct between 5-80mcg/mL.[1] The bioactives thought to be active in this fragment were Psoralen and Isopsoralen with IC50 values on cell growth of 24.4-88.1ug/mL and 49.6-69.1ug/mL respectively, although these were lower than those achieved with the whole extracted fraction (IC50 of 10-21.6ug/mL)[1]
 
+
 The extract of Psoralea itself appears to have cytotoxic effects in some cancer cells
+
 
 Isolated Psoralidin (Coumarin) appears to enhance apoptosis via TRAIL (Tumor Necrosis Factor-related apoptosis-inducing ligand),[56] which is a pathway by which the immune system can selectively destroy tumor cells by releasing TRAIL (expressed on some immune cells) into a soluble form, which then acts on death receptors on cancer cells.[57][58][59] It appears Psoralidin upregulated expression of one of the death receptors mediating this pathway, TRAILR2/DR5, and while 100ng/mL of TRAIL itself induced 10.8+/-1% apoptosis and Psoralidin induced 2.4-11.4% (20-50uM), the combination of TRAIL with this concentration of Psoralidin induced 28.7-66.7% apoptosis mediated via mitochondrial membrane potential loss.[56]
 
@@ -290,7 +317,9 @@ The aforementioned study only found TRAILR2 to be upregulated (with no influence
 
 Psoralidin has also been noted to reverse TRAIL resistance in vitro againt cancer cells[61] and appears to overcome cancer cell resitance to TNF-α[60] (both TNF-α and TRAIL belonging to the same TNF superfamily).
 
+
 Some bioactives from Psoralea Corylifolia appear to synergistically augment the ability of Tumor Necrosis Factors (TNF-α and TRAIL investigated) to induce apoptosis in cancer cells. TNFs are endogenous compounds that, among other classes of molecules, mediate the interaction between the immune system and cancer (with many bioactive mushrooms such as Ganoderma Lucidum working via these means)
+
 
 8.
 
@@ -306,7 +335,9 @@ One component of Psoralea, Bakuchiol, shows greater efficacy at a concentration 
 
 Psoralen and Isopsoralen show selectivity to the alpha subunit, while four other flavonoid compounds did not show selectivity but failed to proliferate MCF-7 cells (suggesting weak estrogenicity).[63] Most likely, Bakuchiol is the biologically relevant phytoestrogen.
 
+
 A few molecules in Psoralea may be phytoestrogens, and although isolated Bakuchiol appears to be relatively potent the overall plant extract of Psoralea Corylifolia does not appear to be remarkably potent
+
 
 8.2
 
@@ -314,7 +345,9 @@ Testosterone
 
 In a rat model of testiclar toxicity (90 days supplementation of 3% psoralea corylifolia in the diet), it appears that supplementation is associated with a reduction in serum testosterone.[64]
 
+
 Secondary to possible damaging testicles, psoralea corylifolia appears to be capable of reducing testosterone concentrations
+
 
 9.
 
@@ -328,7 +361,9 @@ The prenylated isoflavone Neobavaisoflavone has been found to stimulate MC3T3-E1
 
 Osteoclast differentiation has been noted to be inhibited by Bavachalcone.[68]
 
+
 Both osteoblastic differentiation as well as osteoclastic inhibition have been noted with prenylated isoflavonoids from Psoralea Corylifolia, suggesting possible benefits to bone mass
+
 
 9.2
 
@@ -340,7 +375,9 @@ In ovariectomized rats (model for menopause), isolated Psoralen was able to incr
 
 The whole seed extract of Psoralea Corylifolia (50mg/kg daily for 3 months) has also been implicated in increasing bone mineral density in rats[71] although when 0.25-0.5% of the rat diet as Psoralea Corylifolia is compared to an active control of 20mcg/kg estrogen, it underperforms.[24]
 
+
 Although there is no human evidence currently, there is animal evidence to support the notion that Psoralea Corylifolia enhances bone growth in either injury models or rat models of menopause. It does not appear to be highly estrogenic
+
 
 10.
 
@@ -354,7 +391,9 @@ In a torsion-induced injury of the testes (ischemia/reperfusion), oral administr
 
 Elsewhere, it has been noted that 1.5% dietary intake of psoralea corylifolia for 90 days in rats is associated with atrophy of the seminiferous tubules[76] and a later study using 3% of the diet as psoralea corylifolia for 12 weeks noted that the increases in testicular weight seen in a time-dependent manner associated with testicular pathology and impaired sperm production.[64]
 
+
 Appears to protect the testicles from injury and may increase spermatogenesis acutely, but prolonged intake appears to do the opposite and is somewhat of a testicular toxin in rodents
+
 
 11.
 
@@ -366,7 +405,9 @@ Reproductive
 
 An ethanolic extract of Psoralea corylifolia at 0.375, 0.75, 1.5, or 3% of the rat diet by weight for 90 days noted decreases in weight at doses of 0.75% and above accompanied by decreased gonad weight (testes and ovaries) at doses of 1.5-3% of the diet.[76] As a previous study on 8-methoxypsoralen was accompanied by testicular atrophy,[77] it was thought that these doses were showing Psoralen-induced reproductive toxicity.[76] Increased yGPT and BUN were also noted at the highest dose (3%) in both sexes, and also at 0.75-1.5% in female rats.[76]
 
+
 May exert testicular toxicology at doses which, although high, are not infeasibe for consumption
+
 
 One preliminary study in rats suggested that 8g/kg bodyweight Psoralea (estimated human dose of 87g for a 150lb female) could potentially be associated with reproductive toxicity in female pregnant rats.[78]
 

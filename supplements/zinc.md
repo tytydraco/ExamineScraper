@@ -296,19 +296,27 @@ Zinc Status and Deficiency
 
 A deficiency in zinc is related to delayed growth in youth and hypogonadism in adult males[30] as well as general mental lethargy and skin abnormalities.[31]
 
+
 Zinc deficiency is mostly associated with cognitive deficits (memory and mood) as well as growth impairments in youth
+
 
 When looking at zinc deficiency rates, it has been noted that around 10% of persons (USA) have a dietary intake of less than half the RDA of zinc[32][33] while global deficiency rates are over 50% (due to high deficiency rates in third world countries).[33] It has been reported (WHO, 2002) to be a major factor contributing to 1.4% deaths worldwide associated with severe zinc deficiency in childhood[34] although this magnitude of deficiency is almost never observed in first-world countries.[35]
 
+
 In general, while zinc deficiency does seem to be an issue the overall rates of zinc deficiency are significantly less than other vitamins or minerals of concern (such as Vitamin D) and it is wholly possible to consume enough zinc via the diet
+
 
 Zinc is lost during sweat and exercise[36][37] and may be a contributing factor to why testosterone levels seem to be depressed after exhaustive exercise.[38][39]
 
+
 Excessive sweating over a prolonged period of time (seen in athletes) may predispose athletes to zinc deficiencies
+
 
 In diabetic individuals (following information seems to apply equally to type I and type II diabetics), urinary zinc excretion rates are increased[40][41][42] and although serum zinc concentrations are unreliably influenced (increased,[40][43] decreased,[44][45][46] or not different from non-diabetic controls[47]) cellular concentrations of zinc as measured in immune cells (mononuclear cells, granulocytes, lymphocytes and leucocytes) tend to be reduced relative to nondiabetic controls.[44][48][45]
 
+
 Diabetics (both type I and type II) appear to be at higher risk for zinc deficiencies than do non-diabetic persons
+
 
 1.5
 
@@ -324,17 +332,23 @@ Zinc carnosine (ZnC) is a synthetic molecule where zinc and carnosine are linked
 
 While ZnC is known to protect against increases in intestinal permeability, the mechanisms at work are not entirely clear. One study employed several in vitro and in vivo models to examine the mechanisms behind ZnC protection of the GI tract.[52] To examine the effects of ZnC on wound healing mechanisms that may be important in the context of leaky gut syndrome, HT129 colonic cells were grown to form a cell monolayer covering the entire surface cell culture plates. An artificial ‘wound’ was then induced by scraping a line through the entire cell monolayer, removing all cells within the scratch. The ability of the cells to migrate back into the scratch, ‘healing’ the cell monolayer was then tested in the presence or absence of ZnC. ZnC increased cell migration by approximately 100% compared to the vehicle control, suggesting that it may promote gastric healing in part by increasing epithelial cell migration in injured regions of the GI tract.[52] ZnC also induced a dose-dependent increase on cell proliferation, with a maximal response at 100μM.[52]
 
+
 ZnC increased the migration and proliferation colonic epithelial cells in vitro, suggesting that it may promote gastric healing in part by interacting with epithelial cells lining the GI tract.
+
 
 To examine the ability of ZnC to promote gastric healing in vivo, researchers also examined the effects of ZnC in a rat model for gastric damage. Rats were given ZnC (1 or 5 mg/mL) or a placebo prior to 20 mg/kg indomethacin, a non-steroidal anti-inflammatory drug (NSAID) that causes gastric damage. ZnC substantially decreased markers for gastric damage at both 1 and 5 mg/ml, with the 5 mg/ml dose being more effective.[52] 
 
 The ability of ZnC to prevent small intestinal damage by indomethacin was also evaluated in mice. In control mice that received indomethacin alone, substantial shortening of intestinal villi were noted, along with decreased intestinal weight, both indicators of damage. In contrast, ZnC treatment reduced indomethacin-induced villus-shortening and increased intestinal weight, indicating a protective effect. 
 
+
 ZnC has demonstrated significant protective effects in animal models of NSAID- induced GI injury.
+
 
 To validate the results obtained with in vitro cell culture studies and animal models, 10 healthy human volunteers were recruited in a double-blind, randomized and placebo controlled study. To assess the effects of ZnC on indomethacin-induced increases in intestinal permeability, participants drank a sugar solution containing a mixture of mono-and disaccharides. Since disaccharides are larger and are not easily absorbed in the GI tract by passive diffusion, an increase in urine disaccharide to monosaccharide ratio indicates increased intestinal permeability due to damage. Subjects took either ZnC (37.5 mg twice daily) or a placebo for seven days, with indomethacin for the last 5 days. When taking a placebo, subjects showed a 3x increase in disaccharide ratio, indicating a substantial increase in intestinal permeability from the indomethacin-induced injury. In contrast, subjects taking ZnC showed no significant increase in disaccharide ratio, indicating a strong protective effect on the gut mucosa.[52] 
 
+
 ZnC has been shown to prevent increased intestinal permeability from NSAID-induced injury in humans. Evidence for this effect is strong, having been demonstrated in a randomized, double blinded and placebo controlled trial with a crossover design. The effective dose of ZnC in this study (37.5 mg twice/day) is easily achievable with over the counter supplements. 
+
 
 2.
 
@@ -364,7 +378,9 @@ Zinc, as a trace mineral, is present in the cerebral cortex, pineal gland, and h
 
 Similar to most neuromodulators, zinc is released from the synapse upon action potentials.[69]
 
+
 Zinc is an endogenous neuromodulator that is present in high concentrations in the hippocampus and pineal gland, and is released from the synapse upon actions potentials
+
 
 2.4
 
@@ -384,7 +400,9 @@ The zinc ion has been noted to possess moderate potency NMDA receptor inhibitory
 
 Zinc may also activate neuronal potassium channels and reduce glutamate release into the synapse.[73]
 
+
 Zinc ions appear to be antiglutaminergic modulators, able to reduce the release of glutamate and its signalling through glutaminergic receptors. The concentration which does this is rather high, however, and this may not be physiologically relevant to zinc
+
 
 3.2
 
@@ -392,7 +410,9 @@ Serotonergic Neurotransmission
 
 In the corpus callosum (commissure between brain hemispheres, function appears to be altered in depression[74][75] and serotonin uptake may be hindered by antidepressants fluoxetine and imipramine[76]), elemental zinc and zinc sulfate can enhance uptake at a relevant concentration of 1µM by 45%.[77] This increase in uptake was also noted the cingulate cortex (58%) and Raphe nucleus (65%), concentrations of zinc between 10-100nM were ineffective, and the hindering effects of antidepressants on this function was negated with 1µM zinc.[77]
 
+
 Zinc appears to be involved in increasing serotonin uptake in select brain regions, and due to the concentration required for this effect it may be physiologically relevant. It appears that some antidepressants may reduce serotonin uptake in these brain regions if zinc concentrations are too low
+
 
 3.3
 
@@ -406,7 +426,9 @@ The antidepressive effects of zinc are thought to be mediated by an increase in 
 
 Such an increase in BDNF has failed to occur elsewhere when 25mg was given as adjuvant over the same time length to depressed persons already on SSRI therapy despite zinc bettering symptoms of depression.[87]
 
+
 Zinc has been noted to increase serum BDNF levels, with the magnitude of increase correlating highly with increases in serum zinc
+
 
 3.4
 
@@ -414,7 +436,9 @@ Neurooxidation
 
 Despite its importance in the brain, high concentrations of zinc can be excitotoxic[88] and this is sometimes seen in ischemic injury where an excess amount of zinc is released from the synapse and mediates cell death[88][89] and infarctions.[90] This is why zinc chelators are therapeutic in instances of stroke rehabilitation.[91]
 
+
 Although likely not reflective of supplementation (unless abnormally high doses of zinc are ingested), zinc may be a mediator of cell death when ischemia or hypoxia occur
+
 
 3.5
 
@@ -430,13 +454,17 @@ Appetite and Food Intake
 
 A deficiency of zinc is known to be a cause of anorexia (reduction of appetite, not the same as anorexia nervosa), and is usually the first symptom of a zinc deficiency[97] and is shortly followed by depressive symptoms and anhedonia.[98]
 
+
 Zinc deficiencies are known to reduce appetite, and this is usually the first symptom of a zinc deficiency
+
 
 In rats, orally supplemented zinc (19mcg/kg) appears to stimulate food intake and this effect was not observed with other bivalent cations.[99] Injections of zinc seem ineffective,[99] even in deficient rats.[100]
 
 Oral zinc appears to stimulate the vagal nerve (effects abolished by vagotomy[99]) which then increase mRNA translation of the two appetite stimulating neural factors orexin and neuropeptide Y (also abolished by antagonists of these receptors[99]). Zinc is known to activate the GPR39 receptor (a Ghrelin receptor)[101] and since ghrelin is known to stimulate these two neural fators via the vagus nerve[102][103] it is thought that this receptor is the molecular target of zinc.
 
+
 Zinc appears to positively influence appetite in rats who are not zinc deficient, and this may be related to activating a receptor (GPR39) that is involved in ghrelin signalling
+
 
 3.7
 
@@ -444,7 +472,9 @@ Attention and Focus
 
 In children with ADHD, 30mg elemental zinc daily for 13 weeks (final five weeks used alongside D-amphetamine) was able to reduce the amount of D-amphetamine that was needed by 37% and reduced affective blunting from 21% (placebo with amphetamine) to 11%; however, zinc supplementation inherently failed to benefit symptoms of ADHD.[104]
 
+
 While zinc at 30mg elemental zinc appears to be slightly effective as an addition to D-amphetamine therapy, it does not appear to inherently have a significant therapeutic benefit
+
 
 3.8
 
@@ -456,17 +486,23 @@ At least in rats, the depressive[109] and behavioural symptoms (increased suscep
 
 In patients with major depression given zinc therapy (25mg elemental zinc) alongside their antidepressant medication (SSRIs) noted that supplementation had an adjuvant role by reducing depressive symptoms over 12 weeks when compared to SSRI paired with placebo;[87] monotherapy alone at 30mg elemental zinc in overweight/obese depressed persons appears to also reduce depressive symptoms (assessed by BDI II) over 12 weeks when compared to placebo.[86]
 
+
 Serum zinc concentrations and zinc status are negatively correlated with the risk of developing depression, and in persons who are depressed zinc status is further negatively correlated with the severity of depression. Supplementation of zinc at 25mg (elemental) or higher has preliminary evidence for working in humans either as adjuvant therapy with SSRIs or inherently
+
 
 Zinc has been reported to noncompetitively inhibit glycogen synthase kinase-3β (GSK3β) with an IC50 of 15µM.[111] As GSK3β is a molecular target of mood disorders[112] and mood disorders being associated with alterations in zinc metabolism[113] supplementation is thought to have a potential role in its treatment.[32]
 
+
 Zinc is an endogenous inhibitor of glycogen synthase kinase-3β, which is involved in mood disorders and depression. This is thought to be the molecular target for zinc and its interactions with mood and depression
+
 
 In otherwise healthy young women given 7mg of elemental zinc in a multivitamin format (placebo given the same multivitamin), depressive and aggressive symptoms were modestly but significantly reduced relative to placebo.[114] This modest benefit to mood has failed to occur in healthy elderly perosns (70-87yrs) given 15-30mg zinc as assessed by POMS.[115]
 
 In persons given imipramine but were resistant to treatment, supplementation of 25mg elemental zinc for twelve weeks is able to reduce depressive symptoms relative to placebo to the levels seen with non-resistant persons as assessed by BDI, HAMD, and CGI.[116]
 
+
 Zinc appears to be notably effective in treatment resistant depression alongside other pharmaceuticals, although it does not seem to inherently have an effect in depression that is responsive to treatment. The per se antidepressant effects of zinc supplementation in persons without treated depression are modest at best
+
 
 3.9
 
@@ -476,15 +512,21 @@ Zinc is known to be highly concentrated in the hippocampus[61][64] and a deficie
 
 The negative effects of low zinc concentrations in the hippocampus seem to be related to spatial memory,[117] and spatial memory is known to be associated with brain-derived neurotrophic factor (BDNF) signalling;[119] accordingly, injections of zinc into the rat brain cause dose-dependent increases in BDNF signalling and protein content[85] and a deficiency results in decreased BDNF signalling although the elevated protein content suggests insensitivity of the TrkB receptor.[81]
 
+
 Zinc deficiency is associated with impaired memory formation and impaired signalling of the BDNF growth factor, and improving zinc status is associated with betterment on both accounts. An abnormally high zinc intake is also associated with memory impairment, and oddly it is associated with a reduction rather than surplus of zinc in the brain
+
 
 In general and in studies on how zinc influences spatial memory formation, low dose zinc in drinking water (10ppm) has been associated with beneficial,[83][120] adverse,[118] and no significant alterations.[85] Greater elevations (60ppm) have been noted to force a reduction in spatial learning associated with reduced hippocampal zinc and BDNF,[85] although at least one study noted impairments in memory at 10ppm alongside an increase in brain zinc concentrations.[118] This negative effect of zinc on spatial memory has been noted in one rat study to be significantly reduced with coadministration of copper (at approximately 2.5% the dose of zinc).[121]
 
+
 There is mixed evidence for whether zinc higher than the standard dietary intake is beneficial or negative for spatial memory formation, although at least one study noted that low dose copper exerted a protective effect against zinc (in a study where zinc had a negative effect)
+
 
 In persons who experienced subacute stroke and had suboptimal dietary intake of zinc (6.6mg or less), supplementation of 10mg elemental zinc was associated with greater improvements than placebo on cognition as assessed by the NIH stroke scale after 30 days.[122]
 
+
 In persons who suffered from stroke and have inadequate dietary intake, cognitive improvements following stroke appear to be accelerated relative to placebo
+
 
 4.
 
@@ -498,7 +540,9 @@ Zinc is thought to be an anti-atherogenic agent[123] and in particular a zinc de
 
 In otherwise healthy elderly persons (higher risk of zinc deficiency), supplementation of 45mg elemental zinc daily (as gluconate) daily for six months is associated with reductions in cell adhesion factors (ICAM-1 and vCAM-1) and inflammatory cytokines including C-reactive protein, IL-6, and MCP-1.[126]
 
+
 Normalizing a zinc deficiency appears to be assoiated with a reduced risk for arterial plaque buildup (atherosclerosis)
+
 
 4.2
 
@@ -518,7 +562,9 @@ Glycogen
 
 20µM zinc has been noted to, in vitro in liver cells, to increase the activity of glycogen synthase 2-fold secondary to its inhibition of GSK-3β (IC50 15µM).[111]
 
+
 Due to inhibiting GSK-3β, zinc can increase the activity of glycogen synthesis
+
 
 5.2
 
@@ -526,7 +572,9 @@ Insulin
 
 Zinc has been reported to act via the insulin receptor[128] and phosphorylate Akt in vitro, which is downstream of the insulin receptor.[45] The inhibition of glycogen synthase kinase-3β (GSK3β) that occurs with zinc[111] is able to preserve insulin signalling, as GSK3 is a negative regulator of insulin signalling via IRS-1.[129] Zinc can augment uptake of glucose into cells that express insulin-sensitive GLUT4, but not other GLUT transporters.[111]
 
+
 Zinc may positively influence insulin signalling via preventing a negative regulator (GSK3β) from suppressing insulin signalling. This seems to occur at low enough concentrations that it is physiologically relevant
+
 
 5.3
 
@@ -538,13 +586,17 @@ Beyond measuring zinc concentrations themselves (as serum markers are not though
 
 Three weeks of supplementation with 30mg elemental zinc (glycine chelation) appears to be sufficient to at least partially restore a zinc deficiency in diabetics.[132]
 
+
 Although somewhat unreliable in plasma measurements, it is more likely than not that persons with diabetes (both type I and type II) are at an increased risk for zinc deficiency which can be remedied fairly rapidly with zinc supplementation
+
 
 In obese insulin resistant children (who were likely deficient in zinc) given 20mg elemental zinc for eight weeks supplementation was associated with a betterment of all biomarkers of glucose metabolism including blood glucose (7% reduction), fasting insulin (23% reduction), and insulin sensitivity as assessed by HOMA-IR (31% improvement)[127] which has been reported elsewhere in a replication.[133]
 
 In diabetics who have been confirmed to have adequate stores of zinc, further supplementation of high dose zinc (240mg elemental zinc as gluconate) for three months has failed to have any appreciable benefit.[134]
 
+
 In diabetics or insulin resistant persons who are deficient in zinc can help normalize parameters of glucose metabolism including glucose, insulin, and sensitivity to insulin; if the same persons are already sufficient in zinc, further supplementation has no additional benefit
+
 
 6.
 
@@ -578,17 +630,23 @@ Zinc deficiency is known to lead to a reduced count of T-cells and subsequently 
 
 Rhinovirus and URTIs
 
+
 Rhinovirus is known as the common cold, and URTI is the acronym for 'Upper respitatory tract infection'
+
 
 A meta-analysis of 15 trials including 1360 persons overall noted that zinc, in the form of lozenges (gluconate) or syrup (sulfate), was associated with less duration and severity of the common cold when taken within 24 hours of onset that, after a week, had an odds ratio of 0.45 (less than half the risk).[139]
 
+
 High dose zinc in response to the common cold (not taken preventatively, but only at the onset of sickness) appears to be effective in reducing the duration and severity of sickness
+
 
 Supplementation of 45mg zinc in elderly persons (with lower zinc concentrations in serum relative to young controls) for a year is associated with a reduced rate of upper respiratory tract infections (50% reduction that failed to be significant) and general infections (88% occurrence reduced to 29%).[136]
 
 Prolonged supplementation of zinc over five months is associated with a reduced incidence of sickness (RR 0.64) although with a high variability.[139]
 
+
 Supplementation of zinc daily as a preventative appears to reduce the rate of getting colds
+
 
 6.5
 
@@ -596,15 +654,21 @@ Pneumonia
 
 In children with acute pneumonia, 10-20mg elemental zinc (as acetate syrup) over two weeks failed to outperform placebo in reducing the length of sickness.[140]
 
+
 In studies where zinc is used by itself (monotherapy) in response to pneumonia, it seems to usually fail to outperform placebo
+
 
 Supplementation of zinc at 20mg as adjuvant therapy (alongside antibiotics) was effective in further reducing recovery time in children under two years old with very severe pneumonia, but due to having no effect in severe pneumonia and the benefit in very severe being lost when controlling for underweight children the authors concluded no significant overall effect of treatment.[141] Other studies using the same dose that differentiate between severe and nonsevere pneumonia note a failure of zinc therapy outright relative to placebo[142][143][144] or that the beneficial effects were insignificant (statistically and clinically).[145] Although most evidence suggests a lack of efficacy, there is some counter evidence with the same protocol noting efficacy in reducing the length of sickness for severe pneumonia[146] and a study that noted a failure overall with zinc supplementation did report reduced mortality with severe pneumonia (which mostly protected children with HIV).[144]
 
+
 When zinc is used as an adjuvant (alongside another drug, with the placebo group given the drug in isolation), it still appears to be mostly ineffective against pneumonia
+
 
 The usage of zinc as a preventative for two weeks (10-20mg elemental zinc daily) was unable to influence the occurrence of pneumonia in children measured over the following six months.[147]
 
+
 Limited evidence on the usage of zinc as preventative for pneumonia has failed to find a protective effect
+
 
 6.6
 
@@ -616,7 +680,9 @@ In HIV positive adults with confirmed low plasma zinc concentrations (0.75μg/mL
 
 In children diagnosed with HIV who also experience severe pneumonia, supplementation of zinc appears to be effective in reducing mortality (7 deaths in control and none noted with zinc at 20mg daily for seven days).[144]
 
+
 Zinc appears to be more likely to be deficient in persons with HIV, and while low doses are seen as protective higher doses exceeding the tolerable upper limit (TUL) might also be adverse. It is recommended to low-ball zinc supplementation at 10-15mg elemental zinc
+
 
 Zinc inhibits 3C-like protease and papain-like protease 2, enzymes essential to the function of severe acute respiratory syndrome-coronavirus (SARS-CoV), in vitro. It is not known to what degree zinc status is relevant to the risk of infection or how zinc availability in vivo would impact the virus.[157][158]
 
@@ -642,23 +708,31 @@ Bodily zinc stores are positively associated with serum testosterone[160][161] a
 
 Zinc deficiency is also associated with an impairment of converting cholesterol and lipid precursors into sex hormones despite testicular cell uptake being unaffected[163] and other side-effects associated with zinc deficiency include the population of androgen receptors being reduced overall (59% of control)[164] and in male sex organs (36% of control);[165] this may be related to how the androgen receptors have a zinc binding site,[166] and their functionality is impaired without adequate zinc.
 
+
 A zinc deficiency can reduce the expression of androgen receptors and the synthesis of testosterone in cells, both of which reduce the overall effects of testosterone
+
 
 When looking at rat studies that are not models of deficiency, zinc supplementation is able to increase circulating testosterone and free testosterone when injected at 3mg/kg[167] and oral intake of 20mg/kg zinc chloride has increased testosterone to levels higher than baseline in rats.[168]
 
+
 Some animal research suggests that high doses of zinc (or moderate doses of injections) can increase circulating testosterone concentrations
+
 
 In human studies of zinc deficiency supplementation of zinc is able to increase circulating testosterone concentrations, with this study noting that 250mg zinc sulfate for six weeks is able to increase testosterone by 84% (1.55nM/dL to 2.96nM/dL) in persons on hemodialysis.[169]
 
 Infertile men who also have low testosterone (less than 4.8ng/mL) experience an increase in testosterone following zinc supplementation, but this is not observed in men with normal testosterone levels.[170]
 
+
 In human instances of zinc deficiency, relatively modest supplemental dosages appear to be able to increase circulating testosterone concentrations
+
 
 Supplementation of ZMA in persons with an adequate zinc intake in the diet (11.9-23.2mg) failed to significantly increase circulating testosterone or free testosterone[171] and this failure to increase basal testosterone concentrations is also seen with 15mg elemental zinc in cyclists[172] and 3mg/kg zinc sulfate in elite wrestlers.[173]
 
 When measuring testosterone acutely following exercise, there is a slight increase in free testosterone associated with zinc supplementation at 15mg in men who are not otherwise deficient[172] and the decrease in testosterone and free testosterone that may occur with exhaustive exercise is attenuated with zinc sulphate supplementation at 3mg/kg in elite wrestlers[173] and in sedentary men subject to cycling.[174]
 
+
 In men who are not deficient in zinc, there can be a preservation (not necessarily increase) in zinc concentrations when combined with strenous exercise. If exercise is not a factor, then zinc doesn't appear to have any influence on testosterone
+
 
 8.2
 
@@ -670,11 +744,15 @@ Injections of 10-20mg zinc (gluconate and arginine included in the weights here)
 
 When looking at the subdivisions of 5α-reductase, the type I variant is effectively inhibited in skin cells with an IC50 of 2µM while it is fairly ineffective on type II[178] and in these tissues it is still synergistic with B6.[175]
 
+
 Zinc appears to be a 5α-reductase inhibitor, and in vitro appears to be fairly potent. It is not sure if this is relevant following oral supplementation though, since low concentrations actually increase enzyme activity (with higher concentrations being potent in inhibiting the enzyme) and these high concentrations may not occur in the body
+
 
 In infertile men, regardless of whether circulating testosterone was above or below the predetermined threshold (4.8ng/mL) supplemental zinc was able to increase circulating concentrations of DHT.[170]
 
+
 In infertile men, an increase in DHT is noted which suggests that the lower concentration of zinc (which increases the activity of the 5α-reductase enzyme) is more relevant
+
 
 8.3
 
@@ -696,15 +774,21 @@ Leptin
 
 Leptin is known to interact with zinc at the level of the pineal gland[68] and may mediate its actions.[181] A zinc deficiency is known to reduce leptin production and secretion from adipocytes[182] which has been detected in rats[183] and humans.[135]
 
+
 A zinc deficiency is associated with reduced production and secretion of leptin
+
 
 Leptin secretion can be positively influenced by insulin[184] although as zinc repletion does not influence insulin[135] this is not thought to be a mechanism of action. TNF-α and interleukin-2 (IL-2) have both been found to be increased when a zinc deficient person has their zinc status restored[135] and these factors are known to induce leptin expression.[185] IL-2 itself is zinc dependent,[186] and it is thought that the influence on leptin couldl also be indirect via these two molecules.
 
+
 The interaction of zinc and leptin may have other proteins (TNF-α and interleukin-2) as mediators
+
 
 In men with marginal zinc deficiency (restricted to about 5mg daily for 4+/-2 months), supplementation of 30-60mg elemental zinc (as acetate) daily for 6-12 weeks is associated with a 64% increase in leptin relative to the deficient state.[135]
 
+
 Supplementation of zinc to a deficient person is able to increase circulating leptin concentrations
+
 
 9.
 
@@ -718,15 +802,21 @@ Reductions in taste acuity are among the first noticeable signs of zinc deficien
 
 Adolescents given zinc supplements over the course of ten weeks have been noted to experience increases in taste acuity as assessed by recognition thresholds for salt was improved;[190] these subjects (adolescent girls in India) usually have zinc deficiency rates around 58.3-65%[191][192] and thus the observed effects could be from normalizing a deficiency.
 
+
 Zinc deficiency is associated with impaired taste, and supplementation of zinc is able to enhance taste acuity when it is normalizing a deficiency
+
 
 Loss of taste associated with chemotherapy does not appear to be rehabilitated with supplementation of 220mg zinc sulfate (50mg elemental zinc) twice daily.[193]
 
+
 Taste losses (hypogeusia) associated with chemotherapy does not appear to be influenced with oral zinc supplementation, while altered perception of taste (dysgeusia) has mixed evidence (covered in the cancer section)
+
 
 In low socioeconomic children at risk for zinc deficiency, 15mg elemental zinc daily for ten weeks is associated with reduced plaque formation on teeth.[194]
 
+
 May reduce dental caries, if normalizing a zinc deficiency; limited evidence
+
 
 9.2
 
@@ -742,7 +832,9 @@ Trace minerals appear to be altered in their concentrations in the cirrhotic liv
 
 In persons with liver cirrhosis, supplementation of 50mg elemental zinc (as sulfate) daily for 90 days is associated with improvements in cirrhotic state as assessed by Child-Pugh score (6.56 down to 5.72; 13% improvement) which was associated with less bodily copper levels.[201]
 
+
 Supplementation of zinc may be slightly therapeutic in instances of liver cirrhosis
+
 
 9.4
 
@@ -758,11 +850,15 @@ Zinc deficiency is associated with impaired hearing in mice and rats, which is n
 
 It has been hypothesized that zinc could be useful in the treatment of tinnitus,[213][211] although while some evidence suggests that persons with tinnitus are at higher rates of deficiency[214][215] other studies have failed to find an association.[216] At least one study has noted that 50mg zinc supplementation daily for two months is able to reduce the severity of tinnitus in 82% of patients given the supplement, with no significant reduction seen in placebo.[214]
 
+
 The evidence is currently preliminary and only one trial has been conducted, but high dose zinc supplementation may potentially have a therapeutic role for tinnitus
+
 
 In persons with idiopathic sudden sensorineural hearing loss (sudden hearing loss from unknown causes), the addition of zinc (gluconate) to oral corticosterone therapy was associated with a greater improvement in hearing than corticosterone alone.[217]
 
+
 The addition of zinc supplementation to corticosteroids appears to accelerate the recovery of hearing after sudden idiopathic hearing loss
+
 
 9.6
 
@@ -770,11 +866,15 @@ Testes
 
 Zinc deficiency is known to cause testicular apoptosis (regulated cell death,[218] which tends to happen in many tissue types with zinc deficiency[219][220]) and increases protein oxidation in the testes while dysregulating the activity of 3β- and 17β-hydroxysteroid dehydrogenase enzymes[221] and other proteins[222] ultimately resulting in a degeneration of testicular structures (seminiferous tubules and leydig cells),[223] impaired testosterone secretion from the testes, and a reduction in fertility as sperm morphology and properties (such as motility) become progressively damaged alongside increasing testicular oxidation and apoptosis.[224][225][226]
 
+
 A zinc deficiency is associated with wide-reaching impairment of testicular function including reduced testosterone synthesis and secretion, impaired fertility and sperm parameters, and increased rates of cell death
+
 
 Orally supplemented zinc to research animals is able to reduce oxidative damage to the testicles (and the subsequent reduction in fertility markers) induced by cigarette smoke (20mg/kg zinc chloride).[168]
 
+
 Supplemental zinc may reduce the damage done by oxidative stressors to the testes in rodents that are not inherently deficient in zinc
+
 
 In infertile men, supplementation of zinc can increase sperm count only in men who also have low testosterone concentrations in their blood; this is associated with an increase in fertility, and not observed in men who are infertile with adequate testosterone concentrations.[170]
 
@@ -790,13 +890,17 @@ In persons given radiotherapy (for cancer treatment), 50mg zinc sulfate thrice d
 
 Some evidence does support a benefit for zinc supplementation in reducing the severity (but not incidence) or oral mucositis with 50mg elemental zinc (as sulfate) thrice daily alongside chemotherapy[230] or radiotherapy.[231]
 
+
 The development of mucositis during radiotherapy and chemotherapy is unreliably treated with zinc supplementation
+
 
 Alterations in taste (Dysgeusia) and smell (Dysosmia) commonly occur during chemotherapy[232] which are known to be associated with reductions in food intake (compounding cancer cachexia) and reduced quality of life.[233] Zinc is thought to be useful for this condition as it is a component of the salivary enzyme carbonic anhydrase VI which is a growth factor for sensory cells;[234] if the ageusia is caused form cell death then increasing cellular proliferation may be therapeutic, and in persons with carbonic anhydrase VI deficiencies zinc supplementation at 100mg for 4-6 months can improve dysgeusic symptoms secondary to proliferating carbonic anhydrase VI.[235]
 
 It has been noted that improved dysgeusic symptoms only occur in persons who are deficient in carbonic anhydrase VI and respond to zinc supplementation (indicated by an increase in salivary zinc)[235] and other studies have noted that supplementation of zinc (50mg elemental zinc twice daily) to persons undergoing chemotherapy is not associated with a lessening of symptoms.[193]
 
+
 Dysgeusia (alterations in taste) and smell associated with chemotherapy may be beneficially influenced in some persons, but this is not highly reliable
+
 
 11.
 
@@ -812,25 +916,33 @@ Supplementation of zinc is sometimes recommended for the treatment of acne,[236]
 
 Later studies have confirmed efficacy with zinc gluconate (30mg elemental zinc) with a potency lesser than the reference drug minocycline as the amount of participants that met the primary end-point in the study (two thirds symptom reduction) was 31.2% and 63.4% for zinc and minocycline, respectively.[244] Efficacy with low dose zinc has been reported elsewhere.[245]
 
+
 Zinc is known to be circulating at lower levels in persons with acne relative to those without, and it is thought to be therapeutic by reducing the migration of immune cells to the skin and possibly reducing the effects of androgens on the skin. Trials using zinc for acne control note that standard to high supplemental dosages have a modest protective effect
+
 
 In response to viral warts from human papilloma virus (HPV), an open-label study using zinc sulfate at doses of 10mg/kg up to a maximum dose of 600mg/kg (132mg elemental zinc) over two months has found that half of the participants experienced complete resolution of their warts and remained free of warts and lesions when followed up at six months.[246] This has been noted elsewhere with recalcitrant viral warts in response to the same dose of oral supplementation[247] and topical zinc sulphate (5-10% of solution) also appears to be effective but to a greater degree (42.8-85.7% resolution).[248]
 
 Warts that are not originated from a virus (common warts) have also noted benefit with topical application of zinc, but to a much lesser degree (5-11% with 5-10% zinc sulphate solution).[248]
 
+
 2 months supplementation of very high dose zinc appears to be very effective in reducing viral warts, based on some preliminary evidence. The benefits may persist for a prolonged period of time after supplementation is ceased, and topical zinc also appears effective at high concentrations. Non-viral warts are not as potently suppressed
+
 
 Rosacea is a chronic relapsing disease characterized by inflammatory eruption of the flush area of the face, usually manifesting as erythema (reddening) and a thickening of the skin resulting in phyma (overgrowth of sebaceous glands).[249]
 
 100mg of zinc sulfate thrice daily in persons with rosacea has been noted to reduce symptoms of rosacea, although this study lacked a washout period between periods of the trial[250] and a later double blind to address this using 220mg zinc sulfate (50.8mg elemental zinc) twice daily for three months failed to find a significant effect.[251]
 
+
 The human evidence in support of zinc as therapy for rosacea is currently small and mixed. While inefficacy of zinc in this role cannot yet be claimed, the evidence does not support usage of zinc for therapy of rosacea
+
 
 50mg elemental zinc in psorasis patients thrice daily for six weeks is able to restore impaired chemotaxis of neutrophils.[240]
 
 Topical zinc pyrithione has been reported (case studies) to improve symptoms of psoriasis[252] and subsequently a trial using this formulation (0.25% zinc pyrithione) to persons with psoriasis twice daily for three months reported improvements in induration, erythema, and scaling with a mean 70.5% reduction in symptoms as assessed by PASI.[253]
 
+
 Limited evidence suggests that topical zinc pyrithione is highly effective for the treatment of psoriasis
+
 
 12.
 
@@ -860,7 +972,9 @@ Celiac Disease
 
 Celiac disease is a state characterized by small intestinal malabsorption of nutrients and increases in intestinal permeability that respond in particular to lectins from wheat (known as gluten), which is primarly treated with a gluten-free diet without an inherent need for medication.[259][260] In persons with celiac disease, this malabsporption may result in a relative zinc deficiency[261][262] although supplementation is not required if a gluten free diet (and thus less malabsorption) is adhered to.[263]
 
+
 In somebody with celiac disease who consumes gluten (and thus experiences intestinal distress and malabsorption from their gluten intolerance), zinc absorption can be hindered and a deficiency can ensue. Avoiding gluten will avoid this complication and would then preclude the need to supplementation
+
 
 13.3
 
@@ -884,7 +998,9 @@ Complications with the above data is that zinc alone likely does not reach high 
 
 While studies that investigate ZMA per se don't tend to measure DHT directly, there doesn't appear to be any increases in testosterone[265] which are supposed to be increased when the 5α-reductase enzyme is inhibited due to backlog (seen with finasteride[266]).
 
+
 Zinc is inherently a potent 5α-reductase inhibitor (type I) and this potency is augmented by the addition of B6. While this leads to the assumption that the combination would cause an increase in testosterone at the expense of DHT, this doesn't appear to occur following oral supplementation of standard doses of either supplements. This may be due to such a large concentration being required for potent inhibition and this concentration just not occurring with oral supplementation of zinc, even after the requirements are lowered by B6
+
 
 14.2
 
@@ -892,7 +1008,9 @@ Ethanol
 
 Alcohol is known to be teratogenic to the fetus, which may be related to zinc metabolism. Specifically, overconsumption of alcohol causes an increase in metallothionein[267] which then sequesters zinc[268] and its transportation to the fetus;[269] teratogenicity and cognitive impairment of the fetus can be attenuated with zinc consumption in mice[270][271][272][273] although this is not yet studied in humans.
 
+
 Reductions in zinc concentrations in serum are associated with the adverse effects of alcohol on fetal development
+
 
 14.3
 
@@ -902,11 +1020,15 @@ Both zinc and iron are transported by the bivalent cation transporter DMT1[274] 
 
 Supplementation of zinc in solution appears to inhibit the absorption of iron. with low doses of iron (500mcg) requiring 5.7-fold as much zinc to inhibit absorption while higher doses (10mg) only required a 1:1 ratio[276] which has been replicated.[277] Elsewhere, nonheme iron specifically, where a solution of zinc and iron caused a dose-dependent inhibition of 28-40% with increasing zinc ratios (5:1 to 20:1).[278]
 
+
 Iron and zinc in solution appear to compete for absorption, and while this is not a concern with low levels of iron intake it does appear to be concernable when both minerals are above 10mg. This may be relevant to taking supplements containing them both in a fasted state
+
 
 Studies using fortified milk (4:1 ratio with 300mcg/kg iron in infants[279] or simply 10mg/L iron with a 2:1 ratio in women[280]) have failed to replicate the inhibition of iron absorption.
 
+
 Studies using iron and zinc both fortified into food products have failed to find a zinc-mediated inhibition of iron absorption. It is possible that this is related to a reduced rate of absorption (due to solid food particles in the intestines) and the reduced rate avoiding transporter saturation
+
 
 14.4
 
@@ -916,11 +1038,15 @@ Copper deficiency can be induced by disease states (Wilson disease and Menkes sy
 
 The mechanism is through the proteins known as metallothioneins, which sequester some minerals (cadmium, zinc, and copper[284]) and control their oxidative effects. The protein seems to be inducable, being increased in content in response to the minerals that it sequesters[285] and it is thought that the higher levels of metallothionein can adequately sequester possible toxicity from zinc but overreact in sequestering copper, leading to its deficiency if copper is not also overconsumed.
 
+
 Excessive zinc usage can increase levels of metallothioneins, which is due to this protein sequestering possible toxic effects of zinc excess. However, since it also sequesters copper it can lead to deficiencies in this latter mineral when the ratio of zinc:copper gets too high
+
 
 This is sometimes therapeutic, as copper overload has been implicated in some disease states such as Alzheimer's[286][287] and liver cirrhosis.[201]
 
+
 To a degree, this sequestering can be therapeutic. This has not been tested with the doses used to induce deficiences though, but with more modest 'superloading' protocols (100mg elemental zinc or so)
+
 
 15.
 

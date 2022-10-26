@@ -68,7 +68,9 @@ Sources
 
 Lecithin is a term used to refer to a glycerol molecule with two fatty acids attached to it with the last open binding position being bound to a phosphatidic acid molecule, which can then be further bound to other molecules such as amino acids. The term 'soy lecithin' is used to described the lecithin from soy, and it is sometimes a vessel for phosphatidylserine (PS) due to it not requiring solvent extraction (Internal report[1]) and has a phosphatidylcholine,[2] phosphatidulethanolamine,[2] and phosphatidylinositol[3] content as well.[3]
 
+
 Soy lecithin is lecithin (a category of molecules based on a certain structure) that is derived from soy, conferring a few phosphatidic acid related structures (the most common being phosphatidylserine and phosphatidylcholine, PS and PC respectively)
+
 
 1.2
 
@@ -112,7 +114,9 @@ Stress
 
 A study using 400-800mg of phosphatidylserine and 450-900mg phosphatidic acid via soy lecithin (total oral dose of soy lecithin being 1,980-3,960mg) in 80 otherwise healthy adults subject to a stress test (Trier Social Stress Test) noted an anti-stress effect that peaked at the lowest dose as assessed by salivary ACTH and cortisol (both salivary and serum) as well as the STAI rating scale (particularly the subscale of distress); this study was funded by a producer of soy lecithin.[11]
 
+
 2g soy lecithin appears to confer an anti-stress effect, with doubling the dose reducing the efficacy in otherwise healthy persons
+
 
 5.
 
@@ -126,7 +130,9 @@ In animals with hypercholesterolemia (high blood cholesterol), supplementation o
 
 Administration of 500mg soy lecithin (68% phosphatidylcholine and 10% phosphatidylethanolamime) daily for 2 months, relative to the placebo treatment of 500mg soy oil, reduced total cholesterol (42.60%) and LDL-C (56.11%) without influencing HDL-C or triglycerides relative to baseline.[2]
 
+
 May have cholesterol reducing properties, but limited human evidence and the mechanism does not appear to be unique (being common to soluble fiber in general)
+
 
 6.
 
@@ -154,7 +160,9 @@ This has been used to enhance absorption of Boswellia Serrata,[19] Curcumin,[17]
 
 Some pharmaceuticals, such as Naproxen[24] also benefit from soy lecithin delivery.
 
+
 Soy lecithin is used as an agent to increase intestinal bioavailability of some other agents (may not apply to all agents)
+
 
 Soy lecithin phospholipids have also been used in immunological endeavours, as the nanoparticles formed from soy lecithin phospholipids can facilitate antigen uptake by antigen presenting cells (APC)[25] and thus lower the antigen payload required for a desired effect.[26]
 

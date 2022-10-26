@@ -80,7 +80,9 @@ Perilla frutescens,[1] the seeds from which Perilla Oil is derived from at 1.716
 
 Melissa officinalis (Labiatae) at 2.2-5.5%, although it can be higher if specific extracts are takenOrthosiphon stamineus[10]And a variety of uncommon plants including:
 
-Clerodendranthus spicatus (Thunberg)[11]Verbascum xanthophoeniceum (Scrophulariaceae)[12]Heliotropium foertherianum (Boraginaceae)[13]Rosmarinic acid is a fairly widespread component of plants that is not limited to one particular plant family, but is found in higher than normal levels in some dietary supplements where it mediates many benefits associated with the supplement
+Clerodendranthus spicatus (Thunberg)[11]Verbascum xanthophoeniceum (Scrophulariaceae)[12]Heliotropium foertherianum (Boraginaceae)[13]
+Rosmarinic acid is a fairly widespread component of plants that is not limited to one particular plant family, but is found in higher than normal levels in some dietary supplements where it mediates many benefits associated with the supplement
+
 
 1.2
 
@@ -144,7 +146,9 @@ Oral supplementation of Perilla oil (in mice) has been demonstrated to suppress 
 
 In the human study, there was a significant reduction in immune cells in the nasal mucus by the third day with 200mg (PMNLs down to 84% of baseline, Eosinophils down to 86% of baseline, Neutrophils down to 72% of baseline) but it appeared to normalize, with no significant difference at day 21.[28]
 
+
 Preliminary evidence suggests that a once-daily dose of Rosmarinic acid may help allergy sufferers
+
 
 5.
 

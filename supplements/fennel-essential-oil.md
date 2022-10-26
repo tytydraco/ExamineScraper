@@ -56,7 +56,9 @@ Sources
 
 Fennel (Foeniculum vulgare of the family Apiaceae) is an aromatic seed used as spice and flavorant. This species is divided into two common market sources of Fennel, 'sweet fennel' (Foeniculum vulgare Mill. subsp. vulgare var. vulgare) and 'bitter fennel' (Foeniculum vulgare Mill. subsp. vulgare var. dulce).[1] They are also sometimes used merely between meals to freshen the breath, and may also be used with meals for supposed carminative (flatulence reducing) purposes.[2]
 
+
 Most usage of Fennel is for culinary purposes and as aromatic
+
 
 Medicinally, Fennel has been used in Europe and some Mediterranean areas for the purposes of antispasmodic, diuretic, anti-inflammatory, analgesic, secretomotor, secretolytic, galactagogue and emmenagogue, eye lotion, and antioxidant remedy and integrator.[1][3] In Iranian medicine Fennel goes by the names Razianeh, Razianaj, Badiyan, and Marsoun and is said to have a 'hot and dry' nature (according to Iranian medicine).[3]
 
@@ -68,7 +70,9 @@ The aromatic essential oil of Fennel tends to contain:
 
 Anethole (71.5%)[4]Fenchone (12.4%)[4]Estragole (aka. Methyl chavicol at 2.2-2.5%)[5]α-pinene (3.8%) and β-pinene (0.7%)[4]α-phellandrene (1.8%) and β-phellandrene (3.5%; structurally similar to Limonene)[4]α-Terpineol (3.2%)[4]Myrcene (0.6%)[4]Campfer (0.3%)[4]para-Cymol (0.3%)[4]Usually, essential oil for marketing purposes is standardized for at least 80% Anethole with less than 10% Estragole and no more than 7.5% Fenchone.[1]
 
+
 The essential oil is very high in Anethole and Fenchone, which are likely the two main bioactives when using Fennel for Aromatherapy (due to their quantities)
+
 
 The seeds of Fennel (more inclusive than just the essential oil) tend to contain:
 
@@ -84,7 +88,9 @@ Estragole can be metabolized via O-demethylation (to produce Chavicol) or 1-hydr
 
 1'-hydroxyestagole can be converted to 1′-sulfooxyestragole via sulfotransferases, which is an unstable intermediate thought to be involved with forming DNA adducts and possible carcinogenesis.[7] Another pathway, the metabolism of 1'-hydroxyestragole via glucuronidation (to form 1'-hydroxyestragole glucuronide) is dose-dependent and accounts for as much as 24% and 33% of the estragole urinary metabolites in rats and mice, respectively, and has been detected in human liver cells (although fairly variable).[8]
 
+
 Estragole appears to be metabolized into either Chavicol or 1'-hydroxyestragole, with the latter following more routes of metabolism via P450 enzymes
+
 
 3.
 
@@ -128,5 +134,7 @@ Allergy
 
 An allergic reaction to Fennel is possible, and appears to be associated with Birch and Mugwort allergies (other plants in the Apiaceae family).[14][15] Allergy to Fennel appears to also be related to Peach allergies (this study noting that out of 148 persons with peach allergies, the seemignly rare Fennel allergy was present in 39% of persons[16]), which appears to be related to a 9kDa lipid-transfer protein present in Fennel having high cross-reactivity with known peach allergins.[16]
 
+
 An allergy to Fennel is possible. It is possible that, if you are allergic to peach or other plants in the same family as Fennel (Birch an Mugwort), that these may be used as indicators of possible Fennel allergy
+
 

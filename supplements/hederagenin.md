@@ -66,11 +66,15 @@ Hederagenin is a saponin found in a variety of traditional medicines and food pr
 
 Hederagenin can be found in:
 
-Hedera helix from where it derives its name[1]Chenopodium quinoa (the food product known as Quinoa[2][3]) in the flower, fruit, seed (edible portion[4] at 27-28% total saponins or 307.8-465mg per 100g dry weight, inclusive of all glycosides[5]), and seed coat.[6]Fructus Akebiae (fruits from the akebiae genera but usually quinata, Traditional chinese medicine name of Ba Yue Zha)[7][8]Hederagenin and its glycoside are found in a few plants which are known to be traditional medicines, but the most practical source may be the food product known as Quinoa (seeds from chenopodium quinoa) which has a fairly large content of hederagenin glycosides
+Hedera helix from where it derives its name[1]Chenopodium quinoa (the food product known as Quinoa[2][3]) in the flower, fruit, seed (edible portion[4] at 27-28% total saponins or 307.8-465mg per 100g dry weight, inclusive of all glycosides[5]), and seed coat.[6]Fructus Akebiae (fruits from the akebiae genera but usually quinata, Traditional chinese medicine name of Ba Yue Zha)[7][8]
+Hederagenin and its glycoside are found in a few plants which are known to be traditional medicines, but the most practical source may be the food product known as Quinoa (seeds from chenopodium quinoa) which has a fairly large content of hederagenin glycosides
+
 
 Hederagenin is what is known as an aglycone (without sugar), and other molecules are known to be glycones of hederagenin where sugar molecules are bound to the structure. These glycones may confer hederagenin to the body after digestion/hydrolysis to remove the sugar molecule from the structure and some of these glycones include:
 
-Alpha-Hederin (Hedera helix[1])Hederacoside C (Hedera helix[1])Asperosaponin IV (from Dipsacus asper[9][10]) which is confirmed to metabolize into hederagenin in rats, thought to be via intestinal microflora[10]SMG-1 (from Sapindus mukorossi Gaertn)[11]A β-D-Glucosyl(1 3)-β-D-Galactoside glycoside (Quinoa[6])A α-L-Arabinoside glycoside (Quinoa[6])A β-D-Glucuronic acid glycoside (Quinoa[6])A β-D-Glucosyl(1 3)-α-L-Ararabinoside glycoside (Quinoa[6])A 3-O-{β-d-glucopyranosyl-(1→3)-α-l-arabinopyranosyl}-28-O-β-d-glucopyranoside (Quinoa[3])A 3-O-{β-d-glucopyranosyl-(1→4)-β-d-glucopy-ranosyl-(1→4)-β-d-glucopyranosyl}-28-O-β-d-glucopy-ranoside (Quinoa[3])Similar to other triterpenoids, hederagenin can exist bound to sugars and a variety of these 'glycosides' have been detected in plants. These glycosides either have inherent actions, or they can be partially metabolized to give off hederagenin to the organsim consuming them
+Alpha-Hederin (Hedera helix[1])Hederacoside C (Hedera helix[1])Asperosaponin IV (from Dipsacus asper[9][10]) which is confirmed to metabolize into hederagenin in rats, thought to be via intestinal microflora[10]SMG-1 (from Sapindus mukorossi Gaertn)[11]A β-D-Glucosyl(1 3)-β-D-Galactoside glycoside (Quinoa[6])A α-L-Arabinoside glycoside (Quinoa[6])A β-D-Glucuronic acid glycoside (Quinoa[6])A β-D-Glucosyl(1 3)-α-L-Ararabinoside glycoside (Quinoa[6])A 3-O-{β-d-glucopyranosyl-(1→3)-α-l-arabinopyranosyl}-28-O-β-d-glucopyranoside (Quinoa[3])A 3-O-{β-d-glucopyranosyl-(1→4)-β-d-glucopy-ranosyl-(1→4)-β-d-glucopyranosyl}-28-O-β-d-glucopy-ranoside (Quinoa[3])
+Similar to other triterpenoids, hederagenin can exist bound to sugars and a variety of these 'glycosides' have been detected in plants. These glycosides either have inherent actions, or they can be partially metabolized to give off hederagenin to the organsim consuming them
+
 
 2.
 
@@ -82,7 +86,9 @@ Serum
 
 An oral dose of fructus Akebiae extract (400mg/kg, containing 280mg/kg hederagenin) to rats has been noted to increase plasma concentrations within five minutes and reaching peak levels of 47.73ng/mL after 20 minutes (official Tmax of 18.33+/-2.58m) with a 44 minute half-life.[7]
 
+
 Hederagenin can be detected in plasma following oral administration in the rat
+
 
 2.2
 
@@ -106,7 +112,9 @@ Adenosinergic Neurotransmission
 
 An extract of fructus akebiae containing 90% hederagenin by weight does not appear to have any affinity for A1 nor A2A adenosinergic receptors at concentrations up to 10μM.[8]
 
+
 Hederagenin does not appear to have significant affinity for adenosine receptors
+
 
 3.2
 
@@ -116,11 +124,15 @@ An extract of fructus akebiae containing 90% hederagenin by weight shows affinit
 
 Hederagenin does not appear to interact with any tested serotonin receptor at concentrations up to 10μM.[8]
 
+
 In vitro, hederagenin appears to be quite a potent serotonin reuptake inhibitor more potent than fluoxetine at the cellular level
+
 
 Oral ingestion of 12.5-25mg/kg fructus akebiae ethanolic extract (90% hederagenin) in rats appears to time and dose-dependently increase serotonin concentrations in the frontal cortex peaking at one hour and remaining elevated for up to four hours afterwards.[8]
 
+
 Hederagenin appears to be active neurally in rats following oral ingestion
+
 
 3.3
 
@@ -130,11 +142,15 @@ An extract of fructus akebiae containing 90% hederagenin by weight shows affinit
 
 The same extract failed to interact with any dopamine receptor tested (D1 to D5) up to 10μM.[8]
 
+
 Hederagenin appears to be a dopamine uptake inhibitor, active at a concentrations comparable to when it is active on both serotonin and noradrenaline uptake as well
+
 
 Oral ingestion of 12.5-25mg/kg fructus akebiae ethanolic extract (90% hederagenin) in rats appears to time and dose-dependently increase dopamine concentrations in the frontal cortex peaking at one hour and remaining above baseline four hours afterwards.[8]
 
+
 Oral ingestion of hederagenin appears to increase concentrations of dopamine in the frontal cortex of rats following a single dose
+
 
 3.4
 
@@ -144,11 +160,15 @@ An extract of fructus akebiae containing 90% hederagenin by weight shows affinit
 
 This extract does not appear to influence any adrenergic receptor tested in neural tissue (the alpha receptors and β1)[8] and while a glycone of hederagenin (α-hederin) appears to increase β2 ligand binding and receptor activity associated with less receptor internalization in the 2-50nM range, this property does not extend to pure hederagenin.[1]
 
+
 Hederagenin appears to prevent noradrenaline uptake with a potency stronger than desipramine, and does not appear to have any known affinity for adrenaline receptors
+
 
 Oral ingestion of 6.25-25mg/kg fructus akebiae ethanolic extract (90% hederagenin) in rats appears to time and dose-dependently increase noradrenaline concentrations in the frontal cortex peaking at one hour and remaining elevated for up to four hours.[8]
 
+
 Oral ingestion of even low doses of hederagenin appear to increase noradrenaline in the frontal cortex of rats after a single dose
+
 
 3.5
 
@@ -156,7 +176,9 @@ Cholinergic Neurotransmission
 
 When tested at concentrations up to 10μM, an extract of fructus akebiae containing 90% hederagenin failed to interact with any muscarinic acetylcholine receptor (M1 to M5).[8]
 
+
 Hederagenin does not appear to have any known affinity for the muscarinic acetylcholine receptors, with no data on the nicotinic receptors
+
 
 3.6
 
@@ -164,7 +186,9 @@ Histaminergic Neurotransmission
 
 Hederagenin (via an extract of fructus akebiae that was 90% hederagenin by weight) does not appear to interact with any tested histamine receptor at concentrations up to 10μM.[8]
 
+
 Hederagenin does not appear to have affinity for histamine receptors at a concentration several fold higher than its activity on other mechanisms
+
 
 3.7
 
@@ -172,5 +196,7 @@ Opioidergic Neurotransmission
 
 An extract of fructus akebiae containing 90% hederagenin by weight has failed to interact with any opioid receptor subset (μ, κ, or δ) at concentrations up to 10μM in vitro.[8]
 
+
 Concentrations of hederagenin that are active in the brain on other mechanisms do not appear to be active on opioidergic neurotransmission, as there is no known affinity for the receptors
+
 

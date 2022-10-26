@@ -188,7 +188,9 @@ The inhibition of sulfurotransferases in the intestines carries over to the live
 
 Pomegranate seed extract, at a dose of 300mg/kg bodyweight in rats, is effective in protecting the liver from injury induced by Cisplatin.[24] Interestingly, ethanol extracts of pomegranate flower share this effect when injected at 9mg/kg bodyweight or orally at 50-150mg/kg.[25][26] Although these effects are seen vicariously through anti-oxidation (and thus punicalagins suspect)[27], the seed extract may be more potent overall as Pomegranate contains a bioactive fatty acid called Punicic Acid, which also aids the liver.[28]
 
+
 General liver protection, but by relatively unspectacular means and unknown potency relative to other compounds
+
 
 One study has noted that the anti-inflammatory effects of pomegranate extract (mediated via Nrf2 induction and NF-kB inhibition) was effective at oral doses of 1-10g/kg in rats to suppress cancerous growth in the liver.[29]
 
@@ -272,7 +274,9 @@ Viagra
 
 A report of three case studies that shared the common link of pairing pomegranate juice (source of punicalagins) and Viagra at 50mg can be found here, where all subjects reported low-flow Priapisms, with erections ranging from 5-8 hours.[42] This increased efficacy of Viagra under the influence of pomegranate juice may be mediated through pomegranate juice inhibiting CYP2C9[43] which accounts for about 21% of Viagra metabolism (the other 79% being attributed to CYP3A4) and causing higher than normal levels of Viagra to circulate in the blood.[44]
 
+
 Pomegranate juice has been associated with priapism induced by Viagra, and may be classified as an 'Adverse Drug-Herb reaction'
+
 
 10.
 

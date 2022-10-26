@@ -280,7 +280,9 @@ Origin and Composition
 
 Cocoa extract (also referred to as cocoa polyphenolics) are derived from cocao seeds as a bitter bulk ingredient for commercial usage and supplementation.[1] In general, the phrase "cocoa extract" refers to the collection of polyphenols found in dark chocolate which may confer health benefits. Most of the polyphenols in cocoa are flavonoids, specifically the subset known as flavanols,[1] and so the terms cocoa flavonoids and cocoa flavanols are sometimes used interchangeably with cocoa extract.
 
+
 Cocoa extract refers to the polyphenolics or 'flavonoids' usually derived from the seeds of the plant which is eventually used to make chocolate. These flavonoids are the molecules which mediate the vast majority of health benefits associated with chocolate consumption.
+
 
 Cocoa specifically contains (unsweetened cocoa powder unless otherwise specified):
 
@@ -288,11 +290,15 @@ Cocoa specifically contains (unsweetened cocoa powder unless otherwise specified
 
 Cocoa extract contains polyphenolics[8] ranging from 8.07 to 484.7mg/g (defatted cocoa powder)[9], which places it as one of the better dietary sources (alongside select herbs used as spice, dark colored berries, and select vegetables).[2][8][10] 
 
+
 In regard to the polyphenolics, cocoa has a large amount of procyanidins (chains of catechin molecules) and a particularly high content of (-)-epicatechin relative to other catechin sources like green tea. Other phenolics such as resveratrol and quercetin seem to be lower than the catechin and procyanidin content and their relevance to cocoa powder is uncertain.
+
 
 Other components of cocoa extract include:
 
-Xanthines (caffeine and theobromine)Biogenic amines (Phenylethylamine, tyramine)Caffeoyl aspartic acid (37mg/100g)[2]Cocoa has a low amount of low-weight psychoactive trace amines and xanthines such as caffeine which are not thought to be highly relevant following ingestion of chocolate, excluding potential MAOI interactions due to tyramine.
+Xanthines (caffeine and theobromine)Biogenic amines (Phenylethylamine, tyramine)Caffeoyl aspartic acid (37mg/100g)[2]
+Cocoa has a low amount of low-weight psychoactive trace amines and xanthines such as caffeine which are not thought to be highly relevant following ingestion of chocolate, excluding potential MAOI interactions due to tyramine.
+
 
 Cocoa has around a 60/40 epicatechin:catechin ratio due to having higher levels of procyanidin B2 (epicatechin dimer) and procyanidin C1 (epicatechin trimer), with lower relative concentrations of procyanidin B1 (epicatechin-catechin), when compared to other procyanidin sources (Grape seed extract or Pycnogenol).[11] Natural cocoa products appear to have more total flavonoids than do other dark chocolate or cocoa products, with milk chocolate products having the least amount of flavonoids.[12]
 
@@ -302,7 +308,9 @@ Processing
 
 As a general statement concerning cocoa products and their flavonoid content, processing or manufacturing stages that reduce pure cocoa content will gradually reduce the flavonoid content and total flavonoids due to a reduction in the cocoa percentage of the product. However, some processes reduce the flavonoid content of the powder itself, such as Dutch processing (alkalization) which can reduce the (-)-epicatechin, (+)-catechin, and total flavonoid content by upwards of 60%[13][14] with losses scaling with processing time.[15] The conentration of other components like procyanidins and quercetin content are also affected by processing.[13] Alkalization has been noted to increase the content of (-)-catechin relative to other processing methods,[14] but this molecule is not normally found in cocoa and is not linked to the health benefits of cocoa products, and is probably an epimerzation product of (-)-epicatechin.[13]
 
+
 Processing tends to reduce the flavonoid content of cocoa products. Dutch processing, or alkalization, of cocoa products tends to result in an abnormally rapid loss of the beneficial compounds in cocoa products.
+
 
 1.3
 
@@ -310,11 +318,15 @@ Formulations and Variants
 
 'Dark' chocolate, beyond the color and bitterness (from the xanthine molecules), refers to chocolate products which tend to be 70% cocoa or above by weight and confer a significantly higher concentration of catechins and other bioactives compared to other typically edible forms, although it possesses fewer catechins than cocoa powder and baking chips.[4]
 
+
 Dark chocolate is a variant of edible chocolate with a significantly higher cocoa content, and thus more of the beneficial compounds in chocolate, conferring benefits at a much lower oral dose.
+
 
 A particular brand of cocoa extract known as 'Chocamine', which is patented by RFI, is standardized to theobromine (greater than 12% by weight), and also contains caffeine (less than 0.5%), polyphenolics (greater than 5%) and added tapioca starch and some other spices (ginger, allspice, cinnamon, and vanilla powder in undisclosed amounts) according to their website.[16]
 
+
 Chocamine is a patented theobromine-rich cocoa powder.
+
 
 2.
 
@@ -330,7 +342,9 @@ Cocoa flavanols are known to improve blood flow in a way that is prevented by bl
 
 The increase NO activity may be traced back to eNOS induction, since (-)-epicatechin in chocolate have been noted to induce eNOS activity in vitro,[27][28] with isolated (-)-epicatechin being most active at a concentration of 1μM 20-40min after incubation,[27] similar to the time (-)-epicatechin acts in humans following oral ingestion. This increase in eNOS concentration is associated with increased phosphorylation of Ser-1177 and Ser-633 (dephosphorylation of Thr-495) secondary to calmodulin associated with eNOS due to PI3K activation.[27] Catechin appears to be 25% as potent as (-)-epicatechin with a mixture of both is less potent than pure epicatechin, which is thought to underlie why cocoa extract may be more potent than other catechin sources such as green tea.[27]
 
+
 (-)-epicatechin appears to increase the levels of the eNOS enzyme, which helps make nitric oxide. By increasing the amount of this protein, more nitric oxide is produced, which then act to enhance blood flow.
+
 
 The activation of eNOS from (-)-epicatechin is known to be calcium-independent[29][30] (since increasing intracellular calcium can inhernetly activate eNOS[31]) but may act at an unknown on the cell membrane itself, since anchoring dextran to (-)-epicatechin (to restrict it from entering the cell[32]) does not prevent its actions in increasing nitric oxide signalling at a low concentration (100-500nM) or from activating PI3K/Akt and PDK1.[30] Additional evidence for a membrane receptor for (-)-epicatechin comes from the fact that (+)-catechin behaves as a parial agonist in the presence of (-)-epicatechin based on the response curve.[30] 
 
@@ -338,7 +352,9 @@ Elsewhere, Akt has been noted to associated with heat shock protein 90 (HSP90) t
 
 It should also be noted that (-)-epicatechin can also activate eNOS in a calcium-dependent manner as well as through calcium-independent means.[33] 
 
+
 (-)-Epicatechin appears to act at the cell membrane via PI3K to then activates eNOS through heat shock proteins, but the specific receptor that it acts on in the cellular membrane is currently not known.
+
 
 2.2
 
@@ -358,7 +374,9 @@ Absorption
 
 Cocoa polyphenolics (monomers such as (-)-epicatechin as well as procyanidins up to five monomers in length) appear to be structurally stable over the course of one hour while travelling through the acidic medium of the stomach to be absorbed in the intestines.[39] Administration of famotidine (an H2 receptor antagonist which reduces stomach acidity) does not alter absorption rates of cocoa flavanols.[40]
 
+
 The stomach does not appear to destroy or digest active cocoa molecules, so enteric capsules are probably not needed for supplementation.
+
 
 It is known that the absorption of some dietary polyphenolics can be affected by dietary fats[41][42] and there may be species differences.[42] As cocoa polyphenolics are often consumed via food products, their interactions with dairy products has been investigated.
 
@@ -366,7 +384,9 @@ Ingestion of milk (250mL) alongside cocoa polyphenolics (70mg (-)-epicatechin) i
 
 One study has noted that coingestion of cocoa flavanols (via 125mg/kg cocoa powder) alongside about dietary carbohydrate (about 1g/kg carbohydrate via bread or sugar products) increased their bioavailability and subsequent AUC to 140% of cocoa alone (measured over 2.5 hours) while dietary fats and protein had no significant influence.[40]
 
+
 Cocoa that contains low concentrations of flavanols may have their absorption inhibited by milk, while higher concentrations of flavanols seem unaffected. Carbohydrates, on the other hand, may aid in flavanol absorption.
+
 
 3.2
 
@@ -380,7 +400,9 @@ Consumption of dark chocolate (40 grams) can lead to increased epicatechin in th
 
 Chronic consumption of thrice daily dark chocolate ingestion (200 mg flavanols; (-)-epicatechin content not disclosed) resulted in increased serum (-)-epicatechin at week six (78.28+/-64.35ng/mL), nine (46.23+/-41.52ng/mL), and twelve (57.68+/-46.54ng/mL) with very high variability.[51]
 
+
 Consumption of low doses of dark chocolate (85% cocoa or greater) appears to result in low micromolar serum concentrations of (-)-epicatechin.
+
 
 In regard to procyanidins specifically, consumption of chocolate (0.375g/kg) containing 2.8% procyanidins (thus 10.5mg/kg procyanidins) has been noted to increased blood levels of procyanidin B2 to 100nM after two hours (Cmax) with approximately 50nM at both the one and four hour marks, and returning to baseline after eight hours.[52] A study elsewhere using the same chocolate product noted lower serum concentrations of 16+/-5nM after 30 minutes and a peak of 41+/-4nM after two hours.[53]
 
@@ -426,11 +448,15 @@ Headaches and Blood Flow
 
 In otherwise healthy young adults subject to a cognitive task, five days supplementation of 172mg cocoa flavanols (final dose 90 minutes before testing) increases blood oxygenation level-dependent (BOLD) contrast indicating increased cerebral oxygenation specifically in the prefrontal cortex, anterior cingulate cortex (ACC), and parietal cortex;[62] but even though increased activity of the ACC is thought to result in increased reaction times,[63] this effect was not seen in this study.[62] These changes were accompanied by an increase in cerbral blood flow that peaked two hours after supplementation (40% increase) and returned to baseline within six hours.[62]
 
+
 In otherwise healthy youth, cocoa flavanols appear to enhance blood flow to the brain alongside an increase in cerebral oxygenation.
+
 
 In a cohort of 37,103 Swedish men followed for 10.2 years, a decreased risk of stroke was associated with the highest quartile (25%) of chocolate consumption, with a median intake of 62.9g weekly, having an 0.83 relative risk compared to the no chocolate intake (95% CI: 0.70-0.99).[64]
 
+
 Epidemiological research a potential protective effect of cocoa flavanol ingestion against strokes when consumed in the diet.
+
 
 4.5
 
@@ -444,13 +470,17 @@ Depression and Mood
 
 Alterations in activity of the enzyme indoleamine 2,3-dioxygenase (IDO) activity has been linked to mood disorders such as seasonal affective disorder[66] and depression.[67] Activity of this enzyme could affect mood by mediating the conversion of L-tryptophan to L-kynurenine via the L-kynurenine pathway,[68] which, while beneficial for pathogen defense, may deplete L-tryptophan and thus reduce the amount available for serotonin biosynthesis.[69] A possible mechanism for cocoa extract in interacting with mood may be its ability to prevent increases in the activity of IDO during cellular inflammation as seen in vitro with concentrations that can be biologically relevant in the gut;[70] the gut contains a high proportion of the body's serotonin stores (upwards of 95%[71]) and, while the concentration of cacao flavanols required to inhibit IDO may be too high for serum activity, it may directly affect the serotonin balance of the gut and thus overall serotonin levels.[70]
 
+
 It is possible that cocoa components can exert an antiinflammatory effect on immune cells (macrophages and PMBCs) in the gut which, quite indirectly, could exert a mood elevating state related to serotonin. While this is mechanistically possible, the relevance of this signalling pathway to chocolate's effects on mood has not been demonstrated directly.
+
 
 Consumption of chocolate alongside water has been noted to reduce (lessen) a negative mood state in response to a film without affecting positive or neutral mood states.[58] A later experiment noted that this was due to the palatability of chocolate, as a chocolate product that was not deemed palatable failed to replicate the effects.[58]
 
 Palatability per se is known to influence mood via opioid signalling through a release of β-endorphin from the hypothalamus, and can be mimicked in rats by feeding them sucrose.[56][57]
 
+
 Once series of experiments found that chocolate could reduce negative mood states, but this effect was associated solely with how much users like the taste of chocolate, since consumption of sweets that the consumer enjoys can per se improve mood state. It is likely that any treat that the consumer likes can have similar effects, and that the mood-boosting effects were not due to the specific ingredients in cocoa.
+
 
 In older adults (40-65yrs), supplementation of 500mg cocoa polyphenols for 30 days was associated with an improved mood state mainly around calmness and contentness; 250mg was ineffective.[72]
 
@@ -460,7 +490,9 @@ Cognition
 
 One study conducted on elderly people with mild cognitive decline noted that cocoa flavanols were able to improve cognitive performance at both 520mg and 990mg (but not 45mg) daily, as assessed by Trail Making Tests and verbal fluency, although Mini Mental State Examination scores were unaffected.[73] Elsewhere, 250-500mg cocoa polyphenols for 30 days failed to improve attention (measured by a computerized assessment that measured the power and continuity of attention) in healthy, middle-aged people.[72]
 
+
 Preliminary human evidence suggests that high doses of cocoa flavanols my improve cognitive function in the elderly with mild cognitive problems, but does not affect the cognition of healthy people.
+
 
 4.8
 
@@ -472,7 +504,9 @@ A study in mice found that ingestion of (-)-epicatechin at 500μg/g (0.05%; 125m
 
 In another 3-month randomized and controlled trial, healthy but sedentary 50-69 year olds were assgined to a high-flavanol group who consumed 900mg cocoa flavanols (containing 138mg of (−)-epicatechin) per day and a low-flavanol group (who consumed 10mg cocoa flavanols containing less than 2mg (−)-epicatechin daily).[75] The high- and low-flavanol groups were further split into two groups: those who exercised aerobically 1 hour a day for 4 days per week, and those who did not.[75] The study found a 630ms improvement in a computerized test of visual memory recognition in the high-flavanol group compared to the low-flavanol group, with exercise having no significant effect; this improvement corresponded to an increase in dentate gyrus function.[75]
 
+
 The human evidence to date concerning cocoa's effects on memory or learning are mixed, with a possible effect on visual memory for high doses of cocoa flavanols taken for 3 months.
+
 
 5.
 
@@ -484,7 +518,9 @@ Absorption
 
 In vitro evidence suggests that cocoa flavanols may inhibit fat absorption by inhibiting the activity of two key enzymes in that process.[76] Cocoa extracts inhibited pancreatic lipase with an IC50 of 47-172.4μg/mL with strength of inhibition proportional to the flavanol content of the type of cocoa used. Phospholipase A2 was even more sensitive to inhibition and exhibited a similar relationship between potency and flavanolic content, with an IC50 ranging from 8.5-19.7μg/mL, with Dutch-processed cocoa being much less potent, only inhibiting the enzyme by 30% at concentrations up to 200μg/mL.[76]
 
+
 In vitro evidence suggeests that the procyanidins found in cocoa may be able to inhibit some fat absorption when coingested, although the practical significance of this information is not known.
+
 
 5.2
 
@@ -492,17 +528,23 @@ Cardiac Tissue
 
 (-)-Epicatechin given to mice at 1mg/kg twice daily for 15 days increased mitochondrial proteins of the electron transport chain and two markers of the mitochondrial membrane (porin and mitofilin) above control mice, and both in the presence and absence of exercise.[77]
 
+
 Rodent studies suggest benefical effects of (-)-epicatechin ingestion on heart tissue by promoting its energetic capacities at a relatively low human-equivalent dose (0.08mg/kg twice daily).
+
 
 Epidemiological research suggests an association between higher chocolate intake and lower risk for cardiovascular disease, as well as a protective effect seen in surrogate markers for cardiovascular disease (such as blood pressure).[78][79][80][81]
 
 One study looking at coronary circulation in healthy men given chocolate products for two weeks noted that dark chocolate (550mg polyphenols) reported an increase in coronary flow velocity reserve (CFVR) by 26%, which did not occur in those ingesting white chocolate as a control; this change was independent on changes in oxidation status of the blood or blood pressure.[82]
 
+
 An increase in coronary blood flow has been noted following ingestion of dark chocolate in otherwise healthy men.
+
 
 One study in overweight adults has noted transient increases in blood pressure to a mild degree (4mmHg) when chocolate products are acutely ingested, which do not appear to be due to increases in fasting blood pressure,[83] although acute ingestion of chocolate was not seen to cause this in pregnant women.[84] It is possible that the small xanthine content of chocolate (caffeine and its metabolites theobromine and theophylline) accounts for this transient increase secondary to increased cardiac output (known to result from acute ingestion of xanthines[85]).
 
+
 Chocolate products have the potential to acutely increase blood pressure, which may be due to the xanthine content rather than the flavanol content. This acute increase does not appear to result in a long-term increase in resting blood pressure.
+
 
 5.3
 
@@ -520,11 +562,15 @@ Aortic pulse wave velocity (PWV) is a measure used to assess aortic stiffness, a
 
 When testing cocoa in otherwise healthy adults on this parameter, 10g of 75% dark chocolate daily for a month has resulted in a decrease in PWV of 5% (6.13+/-0.41m/s to 5.83+/-0.53m/s)[90] which is an effect not observed with acute usage of a higher dose of cocoa (100 grams) in the same demographic.[23]
 
+
 It is possible that prolonged ingestion of cocoa products can result in a reduction in arterial calcification.
+
 
 In vitro, it appears that cocoa polyphenolics are able to inhibit LDL and vLDL oxidation[91][92] with similar or lesser potency to a similar concentration of green tea catechins.[93] Despite the potency in vitro, studies assessing oral intake of cocoa flavanols have noted that diets containing the procyanidins (466mg) have caused only mild increases in the lag time of LDL oxidation by 8%[94] or have no effect on LDL oxidation at all.[95][82] Large acute doses of flavanols (1,095mg) have also failed to appreciably influence LDL oxidation rates.[22]
 
+
 While epicatechin and the procyanidins found in cocoa can reduce LDL oxidation rates due to their antioxidant properties in vitro, this effect does not appear to occur when cocoa is orally ingested.
+
 
 5.5
 
@@ -534,13 +580,17 @@ Some studies have indicated that cocoa may increase nitric oxide production. Ing
 
 It is unclear if this is related to the antioxidant properties of cocoa (which are thought to be the mechanism by which agents like grape seed extract or vitamin C aid nitric oxide production), as at least one study has noted increased blood flow independent of changes in oxidation of LDL (biomarker of oxidation).[22]
 
+
 In regard to blood flow and circulatory health, cocoa flavanols can improve the production of nitric oxide.
+
 
 One study using oral ingestion of cocoa (450mg polyphenols and 87mg (-)-epicatechin) twice daily for two weeks in hypertensives noted an increase in insulin-induced artery width associated with supplementation[46] and improvements in blood pressure seen in hypertensives seem to coexist with improvements in insulin sensitivity[25][26] and β-cell function.[26] A study that assessed blood vessel diameter under resting conditions without insulin stimulation found no significant interaction between cocoa flavanols and vessel diameter, however.[98]
 
 In type II diabetics on medication, daily ingestion of dark chocolate (963mg flavanols with 203mg (-)-epicatechin, taken in three divided doses) appears to cause a baseline increase in blood flow by 30%[21] with further spikes two hours after each oral dose lasting for four hours; this occured without improvements in glycemic control or blood pressure.[21]
 
+
 An increase in insulin-mediated vasodilation may also occur and contribute to the effects of chocolate on blood flow.
+
 
 In otherwise healthy young subjects, ingestion of a flavanol-rich dark chocolate (100g) acutely increased arterial diameter in both resting and hyperemic states resulting in an increase in both flow-mediated vasodilation (FMD; 1.43%) and a decrease in the aortic augmentation index (ALX; 7.8%); these benefits occurred without alterations in plasma antioxidant status,[23] and elsewhere have been noted to extend to an improvement in coronary flow velocity reserve (CFVR).[82] These changes can be attributed to the flavanol content of the chocolate, as chocolate with a low flavanol content fails to have benefit.[95][82] Longer-term ingestion also had an effect in healthy young adults; ingestion of 10 grams of dark chocolate (75% cocoa) daily for a month increasing FMD 9.31% relative to baseline (with no change in control).[90]
 
@@ -550,7 +600,9 @@ Dark chocolate has elsewhere been noted to be improve vascular function in diabe
 
 It should be noted that some trials have failed to find improvements in blood flow, specifically in those with high risk of CVD; one which found no effect of flavanol-rich cocoa on those with coronary artery disease,[105] and one study which, while finding some degree of improved blood flow in hypertensive subjects given 75g dark chocolate daily over a week, found not effect in those with worse Framingham risk score and reactive hyperemeia index.[103]
 
+
 Cocoa appears to promote circulation in a dose-dependent manner, which correlates very well with serum (-)-epicatechin both acutely and over a period of time in both healthy and less healthy individuals, although there exists some conflicting evidence regarding the latter population.
+
 
 5.6
 
@@ -558,13 +610,17 @@ Blood Pressure
 
 One of the mechanisms by which cocoa flavanols may reduce blood pressure is through inhibition of angiotension converting enzyme (ACE), [106] although its interactions with nitric oxide are also relevant to blood pressure (being the major mechanism related to blood flow),[107] potentially related to how an insulin-mediated interaction with nitric oxide can widen blood vessels after cocoa ingestion.[46]
 
+
 Cocoa flavanols may reduce blood pressure through two mechanisms: by increasing blood vessel width by increasing nitric oxide and by inhibiting ACE.
+
 
 Short term studies have noted minor transient increases in blood pressure (alongside an increase in blood flow)[83][22] or reductions in blood pressure,[73] while in hypertensives there is similar variability, with one study noting a decrease in ambulatory blood pressure associated with dark chocolate consumption (100 grams for two weeks)[25] while a similar study administering cocoa beverages to hypertensives failed to find any effect.[46] But in healthy individuals (young adult soccer players), one study found that consumption of a low dose of flavanols (168mg) via chocolate for one week was associated with minor reductions in systolic (5%), diastolic (7%) and mean (6%) blood pressure relative to cream chocolate control.[108] 100g of dark chocolate per day for 3 days was also seen to protect against blood pressure increases induced by an oral glucose tolerance test in healthy individuals when compared to a white chocolate control.[109] When an increase in blood pressure occurs, it appears to be transient and mild (4mmHg[83]) and does not appear to be associated with an increase in basal or resting blood pressure.[83]
 
 One meta-analysis of 20 studies lasting up to 18 weeks [110] concluded that consumption of cocoa products (usually dark chocolate or cocoa supplementation) is associated with a small 2-3mmHg reduction of systolic blood pressure. An earlier meta-analysis of 13 studies reached a similar conclusion, and noted that cocoa products were most effective in hypertensives and prehypertensives, with no effect on normotensive individuals.[111]A recent randomized, controlled, double-masked trial further suggested a lack effect on blood pressure in otherwise healthy individuals, where 1000-2000mg/day cocoa flavanols for 6-12 weeks failed to cause significant changes in blood pressure.[112] 
 
+
 While benefits to blood pressure appear to be more variable than benefits to blood flow, there may be a minor reduction in blood pressure with chronic consumption of cocoa flavanols up to 18 weeks. Longer-term trials have yet to be performed.
+
 
 5.7
 
@@ -572,7 +628,9 @@ Platelets and Viscosity
 
 (-)-Epicatechin exerts a protective effect on fibrinogen against the free radical known as peroxynitrate (ONOO-) in vitro at 1-100μM.[113] This protective effect occurs via (-)-Epicatechin-mediated sequestration of ONOO-,[114] which in excess concentrations can damage proteins by modifying their structure. Epicatechin can reduce this modification to proteins in general[113] and when it does this for fibrinogen, the result is preserved blood clotting.[115]
 
+
 In vitro epicatechin can prevent oxidative changes to a major protein involved in blood clotting, which may result in cocoa flavonoids being able to preserve the clotting response; this mechanism is not yet tested in humans.
+
 
 In otherwise healthy men who consume dark chocolate (50g) two hours prior to a psychosocial test known to promote blood clotting,[116][117] consumption of the dark chocolate was associated with lower levels of D-dimer (a biomarker of clotting) than white chocolate not containing flavonoids.[118] This was not related to changes in catecholamines such as adrenaline, which were unaffected.[118] 
 
@@ -580,7 +638,9 @@ In otherwise healthy men who consume dark chocolate (50g) two hours prior to a p
 
 The concentration of (-)-epicatechin required to increased nitric oxide concentration in a platelet, approximately 0.1μM (100nM),[48] appears to be feasible in the blood following ingestion of 40g dark chocolate.[48][49] Comparatively speaking, the effects seem to be similar to aspirin in concept although 900mg cocoa polyphenolics (total (-)-epicatechin and procyanidins) is less potent than a baby aspirin (81mg) when both are taken acutely.[121]
 
+
 The increased aggregative potential of platelets seen in prooxidative states (studies assessing smokers) seems to be reduced by the ingestion of dark chocolate. Reports on the effects of dark chocolate on platelets and platelet function in otherwise healthy subjects tend to be mixed,however. While cocoa extract may reduce clotting during acute stress in healthy individual, other studies in non-stressed healthy individuals have failed find any difference in clotting time. When present, the anti-clotting effects of cocoa extract are less potent than a baby aspirin.
+
 
 5.8
 
@@ -588,7 +648,9 @@ Triglycerides
 
 One meta-analysis looking at interventions using cocoa products of variable time lengths (2-12 weeks) noted that overall there was no significant reduction of triglycerides (95% CI ranging between a reduction of -13.45mg/dL to an increase of 3.32mg/dL);[123] the studies assessed that had the largest observed reductions[108][26][25] tended to also have nonsignificant results.
 
+
 The evidence to date suggests that cocoa products do not effect triglyceride levels.
+
 
 5.9
 
@@ -596,7 +658,9 @@ Cholesterol
 
 A small meta-analysis on the ingestion of cocoa products for 2 to 12 weeks[123] assessing five studies on healthy persons[74][124][108][95][94] with the other five being on hypertensive,[46][25] overweight or obese,[125][98] or diabetic subjects[21] found that ingestion of variable doses of cocoa flavanols (88-963mg) or procyanidins (213-754mg) was indicative of a reduction in LDL cholesterol 5.90mg/dL (95% CI of a 1.32-10.47mg/dL reduction) whereas HDL-C and total cholesterol did not appear to be significantly affected overall.[123]
 
+
 Cocoa products may reduce LDL levels, but seem to have no effect on HDL and total cholesterol.
+
 
 6.
 
@@ -626,7 +690,9 @@ Healthy adults given 100 grams of dark chocolate (500mg total flavanols) daily f
 
 Elsewhere, essential hypertensives given a cocoa beverage with 450mg flavanols (87mg (-)-epicatechin) for two weeks failed to see any improvement in insulin sensitivity during a hyperinsulinemic isoglycemic glucose clamp despite an increase in insulin-mediated vasodilation.[46] In contrast, the same (-)-epicatechin dose via 100 grams of dark chocolate in a similar population improved insulin sensitivity during an oral glucose tolerance test alongside improvements in blood flow and pressure in both those with unimpaired insulin sensitivity[25] and insulin resistant hypertensives (1009mg total polyphenolics with 111mg epicatechin daily for 15 days).[26]
 
+
 Flavanols in dark chocolate promote increased insulin sensitivity by improving blood flow to skeletal muscle via increased nitric oxide signaling.
+
 
 7.
 
@@ -638,7 +704,9 @@ Adipokines
 
 Short-term ingestion of dark chocolate (100g of 70% cocoa) in normal weight obese women (women with high body fat but normal BMI) for one week had no effect on circulating interleukins IL-1α, IL-1β, or IL-6 although it did significantly reduce interleukin 1 receptor antagonist (IL-1Ra) concentrations by 33+/-4%.[130] IL-1Ra is a potent antiinflammatory agent, antagonizing the the actions of IL-1α and IL-1β[131] which are secreted in high amounts from visceral fat.[132] Because IL-1Ra is increased in obesity and has also been shown to antagonize leptin signaling at the level of the hypothalamus in rodents[133] it is considered a possible biomarker for leptin resistance.[134] Due to a reduction in waist circumference seen in this sample of women,[130] the IL-1Ra reduction was thought to be indicative of leptin resensitivity rather than a proinflammatory mechanism per se.
 
+
 Dark chocolate may influence leptin metabolism in subjects with visceral fat, since it has been seen to influence a biomarker of leptin sensitivity, but no studies have currently assessed leptin levels or sensitivity with prolonged cocoa ingestion.
+
 
 7.2
 
@@ -664,7 +732,9 @@ Myostatin, a myokine and potent antagonist of growth in skeletal muscle, increas
 
 A pilot study using six middle-aged subjects (41+/-5 years) of average weight given 1mg/kg (-)-epicatechin twice a day for seven days noted that follistatin to myostatin ratio increased by 49.2+/-16.6%.[138] Importantly, the increase in follistatin to myostatin ratio also correlated with a bilateral increase in hand strength of around 7%.[138] Moreover, when (-)-epicatechin is fed orally to mice at 2mg/kg daily (in two divided doses of 1mg/kg) for two weeks, the 18% increase in myostatin and 30% decrease in follistatin which normally occur with aging were prevented. Young mice given the same dose of (-)-epicatechin showed a 15% reduction of myostatin with no influence on follistatin.[138]
 
+
 The (-)-epicatechin found in dark chocolate has been shown to promote muscle anabolism in both aging mice and middle-aged humans by increasing follistatin to myostatin ratio in skeletal muscle. This suggests that cocoa extract supplementation may be helpful for conditions associated with muscle loss, such as during aging (sarcopenia) and muscle wasting diseases. 
+
 
 8.2
 
@@ -674,13 +744,17 @@ Cocoa powder (6.43% (-)-epicatechin content and 3.54% procyanidin B2) at 50mg/kg
 
 Enhanced mitochondrial bioenergetics were also noted in a preliminary study of five humans with impaired mitochondrial function (type II diabetic and with heart failure) who were given 100 mg (-)-epicatechin daily for three months.[126] An improvement of mitochondria cristae has been noted both in mice with poor oxidative metabolism in skeletal muscle[140] as well as the aforementioned human study.[126]
 
+
 (-)-Epicatechin in cocoa powder has been shown to enhance oxidative metabolism and mitochondrial function in addition to promoting mitochondrial biogenesis in animal models. Preliminary evidence suggests this may also occur in humans.
+
 
 Consumption of 100g dark chocolate (70% cocoa) has been noted to nonsignificantly increase plasma non-esterified fatty acids (NEFA) when consumed two hours prior to cycling exercise relative to milk chocolate.[141] Serum free fatty acids also increased when 40g was consumed before a 90 minute cycle,[142] with no observable changes in total triglyceride content or exercise performance.[142] 
 
 It is known that consumption of fatty acids per se can increase total free fatty acids in serum during exercise even without changes in performance[143] although the differing effects between dark chocolate and cocoa-free control with a similar fatty acid profile[142] suggest a role for the catechins.
 
+
 Dark chocolate may enhance fatty acid mobilization, although it has not been shown to increase exercise performance.
+
 
 8.3
 
@@ -718,7 +792,9 @@ Immunosuppression
 
 In a study assessing the effects of cocoa extract on vascular function in overweight men, 70g high flavanol chocolate (1078mg flavanols containing 349mg (-)-epicatechin) was compared to 70g of standard dark chocolate (58% cocoa containing 259mg flavanols and 97mg (-)-epicatechin). While standard cocoa dark chocolate caused a slight acute increase sICAM-1 levels, both high flavanol chocolate and standard dark chocolate decreased sICAM-1 and sICAM-3 levels after four weeks of supplementation when measured in a fasted state or after a high-fat meal.[50] These changes are consistent with lowered risk of cardiovascular disease due to a decreased risk of atherosclerotic plaque formation.[150]
 
+
 Four weeks dark chocolate consumption has been shown in one study to reduce leukocyte adhesion factor levels, which could help to delay or even prevent the formation atherosclerotic plaques in blood vessels.
+
 
 9.2
 
@@ -734,7 +810,9 @@ Cocoa extracts have been noted in vitro to downregulate inflammatory cytokines f
 
 It has been suggested[157] that cocoa constituents may suppress macrophage activity via their intrinsic antioxidant action, since inflammatory pathways tend to be REDOX-sensitive, and antioxidants in general have been shown to suppress the activation of macrophages. Indeed, NF-kB, which plays a prominent role in macrophage activation, is suppressed by antioxidants.[158] Moreover, (-)-epicatechin has been shown to suppress NF-kB.[153].
 
+
 (-)-epicatechin and other flavanols in cocoa may limit macrophage activation via their intrinsic antioxidant activity.
+
 
 9.4
 
@@ -758,7 +836,9 @@ Alhough anti-retroviral therapy has shown some efficacy in limiting the neurolog
 
 Given the connection between HIV and oxidative-stress driven neuronal dysfunction, a group of investigators designed a high throughput in vitro assay to screen for compounds that might suppress oxidative stress caused by the HIV proteins gp120 and Tat.[169] This assay revealed that molecules with a structure similar to epicatechin found in chocolate (also one of the main four Green Tea Catechins) normalized increases in apoptosis-inducing proBDNF and decreases in BDNF induced by the HIV Tat protein. This resulted in neuroprotective effects against HIV with greater potency than Resveratrol.[169]
 
+
 In vitro studies have shown that epicatechin, a flavanol found in chocolate, has potential to limit neuronal dysfunction associated with HIV infection. While promising, more studies are needed to determine if this could be used to help HIV patients.
+
 
 10.
 
@@ -788,7 +868,9 @@ In subjects with liver cirrhosis, eating a meal can result in low blood pressure
 
 In those with portal hypertension due to cirrhosis, a liquid meal containing dark chocolate (85% cocoa) was associated with less of a post-meal increase in the HPVG relative to a meal without flavonoids.[178] This was thought to be related to improve liver circulation, although no differences in portal vein blood flow, hepatic artery blood flow, or total blood flow were noted between groups.[178] In spite of this, the peripheral gradient was about halved with dark chocolate and peripheral arterial pressure increased without changes in heart rate.[178]
 
+
 The post meal reduction in blood pressure that subjects with cirrhosis experience can be attenuated by ingestion of dark chocolate products containing polyphenols.
+
 
 11.3
 
@@ -828,7 +910,9 @@ Although 12 weeks cocoa flavanol supplementation failed to have an effect on pho
 
 A more recent double-blind, placebo controlled trial further suggests that cocoa flavanols may have a protective effect on skin. In this study moderately photo-aged Korean women with visible facial wrinkles were given a placebo or 320mg cocoa flavanols/day. After 24 weeks supplementation, the cocoa flavanol group had significantly smoother skin (as assessed in the study by ‘roughness value’) and improved skin elasticity, suggesting that long term cocoa flavanol supplementation may help to reduce photoaging.[184]
 
+
 There are mixed reports that cocoa flavanols may confer a degree of protection from skin photodamage in response to UV exposure. While two studies have shown that cocoa flavanol supplementation in the range of 300-326mg over a 6-24 week time period may have a modest protective effect against UV-induced skin damage, another study using high flavanol chocolate (providing 600mg cocoa flavanols) failed to note an effect. More research is needed to determine which extraction methods may yield cocoa flavanols with photoprotective properties.
+
 
 In adult men with a history of acne given either chocolate (in the form of unsweetened capsules) or a visually identical placebo in varying doses (1-6oz) for one week, the number of lesions relative to placebo was increased.[185] This effect may be limited to the acne prone, as a pilot study using 39g chocolate bars over a week only noted a third of subjects increased lesion count[186] with another pilot study using higher doses (340g or 12oz of milk chocolate) over week in acne prone men noting a similar 4-7 day time course for exacerbation of acne lesions.[187]
 
@@ -846,7 +930,9 @@ This hypothesis was tested in people diagnosed with PAD; ingestion of a single d
 
 In contrast, ingestion of 50 grams of dark chocolate in PAD sufferers without a walking test has failed to influence blood flow at rest and failed to influence any measured circulatory/microcirculatory parameters relative to baseline. White chocolate, which was used as a control, is this study, was also ineffective.[190]
 
+
 Dark chocolate is known to acutely benefit any condition where blood flow is impaired alongside elevated oxidation, including peripheral artery disease. Human experiments testing the effects of dark chocolate on those with PAD have had mixed results, however.
+
 
 14.2
 

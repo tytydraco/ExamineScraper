@@ -44,7 +44,9 @@ Sources
 
 Dietary sources of lutein include:
 
-Egg yolks at 143+/-28μg per yolk,[1] 292+/-117μg,[2] 197.14+/-131.4μg or 598.92+/-131.7μg (different batches of eggs),[3]Spinach at 18mg/100g (after cooking)[4]Corn at 267μg/100g (after cooking)[4]Lutein appears to be highest in spinach, and also appreciably high in eggs (which are known to be the best absorbed food form of lutein) although the concentration in eggs appears to be highly variable
+Egg yolks at 143+/-28μg per yolk,[1] 292+/-117μg,[2] 197.14+/-131.4μg or 598.92+/-131.7μg (different batches of eggs),[3]Spinach at 18mg/100g (after cooking)[4]Corn at 267μg/100g (after cooking)[4]
+Lutein appears to be highest in spinach, and also appreciably high in eggs (which are known to be the best absorbed food form of lutein) although the concentration in eggs appears to be highly variable
+
 
 In regards to zeaxanthin, it has similar distribution in food at:
 
@@ -62,7 +64,9 @@ Carotenoids in general (β-carotene, lycopene, lutein) tend to have better absor
 
 There do not appear to be differences in absorption between corn oil and beef tallow as fat sources in the diet, as despite the differences noted between groups in this study[2] they were due to baseline differences and both groups normalized to around 400-420nM lutein.
 
+
 Lutein appears to be best absorbed when ingested with fatty acids. Its absorption is reduced when it comes from plant sources, though cooking improves absorption. Overall, egg consumption appears to be the best dietary predictor of lutein levels in serum.
+
 
 2.2
 
@@ -72,13 +76,17 @@ Consumption of one egg daily (143μg lutein and 94μg zeaxanthin) in older adult
 
 Consumption of enriched eggs (1.9mg lutein) has been noted to increase plasma concentrations of lutein 88% relative to baseline after eight weeks (240nM to 450nM).[9]
 
+
 When looking at egg consumption, at little as one egg (yolk) a day appears to increase plasma lutein by around 20-30% over baseline levels; it seems to be a pretty steady increase, while zeaxanthin seems more dose-dependent
+
 
 When looking at supplementation of lutein, 10.23mg lutein ester (5.5mg lutein) and 6mg lutein in free form appear to increase plasma lutein concentraitons in a time dependent manner after a single dose (20-29%) and increasing up until 10 days of supplementation (82%) with no significant differences between groups;[7] however, both groups underperformed 6mg of lutein via egg products (58% acutely, 323% after 10 days) even when all lutein doses were taken with a mixed meal and performed equally to spinach.[7] 
 
 Lutein esters appear to raise plasma lutein itself, as no esters are detected.[7]
 
+
 Supplements of lutein appears to increase plasma lutein, and the degree it increases plasma lutein is comparable to spinach but lesser than eggs
+
 
 2.3
 
@@ -88,7 +96,9 @@ When in serum, lutein appears to associate with triglyceride rich lipoproteins;[
 
 This variability has been noted previously with lutein and other dietary carotenoids[4][10][11] and may be due to variations in baseline triglycerides, although increases in serum lutein still exist when triglycerides are corrected for.[7] This correlation with triglycerides has been noted before with β-carotene, where higher triglyceride responses to a meal were met with higher carotenoid exposure[12] and higher triglyceride content in chylomicrons was met with higher carotenoid exposure.[10]
 
+
 Distribution of lutein, similar to other carotenoids, is due to being carried around in the body via triglyceride rich lipoproteins. There appears to be variability in how enriched these lipoproteins are following consumption of lutein
+
 
 2.4
 
@@ -98,7 +108,9 @@ One study has noted that 13 weeks of a washout period was insufficient to reduce
 
 It is not consensus, as one study using eggs as an intervention noted that four weeks was sufficient to reduce lutein and zeaxanthin to baseline levels.[8]
 
+
 Lutein appears to be stored well in the body, and can remain at levels higher than baseline even 13 weeks after cessation of supplementation
+
 
 3.
 
@@ -110,15 +122,21 @@ Eyes
 
 Lutein, zeaxanthin, and a lutein isomers known as meso-zeaxanthin are collectivly referred to as "macular pigment" due to them being dietary pigments that collect in the macula of the eye[13] where they act as a high energy blue light filter (460nm wavelength) and protect underlying retinal cells.[14]
 
+
 Lutein and structurally related carotenoids are known to accumulate in the eye where they can buffer light and protect underlying retinal cells from oxidative stress
+
 
 Aged-related macular degeneration (ARMD[15]) is an age-related degenerative eye disorder which appears to affect up to 5% of persons above the age of 65, and of the two variants of AMD ('dry' and 'wet' AMD) dry AMD appears to be responsive to dietary manipulation and interventions.[16][17] Lutein, as well as zeaxanthin, are investigated for their benefits due to bioaccumulating in retinal tissue when consumed in the diet and higher intakes of dietary lutein being associated with less risk for ARMD[18][19] and higher retinal lutein concentrations being associated with less risk.[20]
 
+
 AMRD is a degenerative eye disorder affecting mostly the elderly, and while there are two possible variants of AMRD one of them is known to be responsive to dietary components and lutein (or more specifically, macular pigment) is thought to be protective against this form of AMRD
+
 
 When looking at macular concentrations of lutein following supplementation of lutein, it appears that most (but not all) persons experience an increase in macular lutein concentrations (19+/-11% relative to baseline) that is slightly lesser than the increases in serum (33+/-22%) and if a serum increase dose not occur then a macular increase does not occur.[4] Zeaxanthin can also increase in the eyes following supplementation (25%) to a level lesser than that seen in blood (70%).[4]
 
 Egg consumption has also been noted to raise plasma and macular carotenoid levels, although there has been one study that failed to find an increase in macular lutein (despite a serum increase) with one egg a day (zeaxanthin was increased)[3] and 2-4 eggs a day has shown protection associated with total macular pigment being increased;[8] this protective effect has occurred even in the presence of statin drugs in one study.[8]
 
+
 Dietary and supplemental lutein and zeaxanthin can increase total macular pigment levels, and associated with this increased macular pigment concentration comes protective effects in aged persons
+
 

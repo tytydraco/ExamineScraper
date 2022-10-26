@@ -200,17 +200,23 @@ It has some traditional usage in Korean medicine for improving general health an
 
 Dandelion is also considered a food product, being used primarily in salads, where the root can be roasted as a supposed coffee substitute.[3]
 
+
 Dandelion is a plant most commonly known overall for being an invasive plant species, but medicinally is sometimes used for various general health purposes such as vitality and the treatment of a wide range of inflammatory conditions. Most practically and most prolifically, it is used as a diuretic.
+
 
 Dandelion is known to contain:
 
-Eudesmanolides (sesquiterpene lactones) and their glucosides, formerly collectively known as taraxacum[3] and found in most dandelion species[9][10] including officinale[11] contributing to their bitter taste[3] and likely its allergenic potential.[12][13] Ones found in Taraxacum officinale include 4-O-β-D-glucosyl-11,13-dihydro-taraxinic acid and 14-O-β-D-glucosyl-taraxinic acid.[14]The pentacyclic terpenoid known as taraxasterol,[15] considered a main bioactive of dandelion and named after its genus (Taraxacum)[16] although fairly ubiquitous as it can be found in other herbs such as Eupatorium azureum,[17] Stevia berlandieri,[18] Capparis sepiaria,[19] and Cirsium texanum[20][18]Aesculin (the major bioactive of Horse chestnut) at 0.015-5.32mg/g in two month old dandelions and 0.094-21.44mg/g in six month old samples[21]Polysaccharides designated Taraxicum officinale 1 (TOP1 at 37.2% of the dry weight of a hot water extract[22]) and Taraxicum officinale 2 (TOP2 at 11.3%[22])[23]A series of antimicrobial peptides known as Taraxicum officinale antimicrobial peptides (ToAMPs) numbering from one (ToAMP1)[24] to ToAMP4[25]Inulin (dietary fiber) comprises of mostly fuctooligosaccharids (kestose, mystose, and fuctofuranosylnystose)[26] which may confer probiotic effects[27]Nitrate averaging 195-202mg/kg[28][29] (range of 47-487mg/kg[28])Chicoric acid (Named after chicory, a botanically related herb to dandelion[3]) at 18.9µg/g in a hot water extract of the aerial parts of the plant and a higher content (128.6µg/g) in a methanolic extract.[30] The plant itself appears to have 14.91mg/g dry weight of the leaves, 13.79mg/g in the flowers, and a mere 2.71mg/g in the roots[31]Luteolin[32] at 4.80µg/g (leaves[33]) and as 7-O-glucoside (990µg/g dry weight in leaves with none detectable in roots.[34]) Extracts of dandelion have found 3.53µg/g in the water extract but a higher concentration of 34.2µg/g in a methanolic extract[30] while ethyl acetate extracts may be up to 10% luteolin plus luteolin-7-O-glucoside collectivley[35]Myricetin at 170µg/g in a commercial product and not detectable in roots nor leaves of wild dandelion tested[34]Chlorogenic acid[32] at 700-770µg/g in leaves and higher at 4.33mg/g in roots,[34] although another study failed to find any in the leaves and only 0.54mg/g dry weight in the roots.[31]Caffeic acid[32] at 1.1-1.19mg/g in roots and 19.06mg/g in a leaf extract[34]Hesperidin at 870µg/g in roots (none detected in a commercial product) and none in leaves[34]Isovitexin at 870µg/g in leaves only and vitexin as 2-rhamnoside at 150-990µg/g in roots and higher at 2.07mg/g in the leaves[34]Anthocyanins as cyanidin-3-glucoside at 2.56mg/g dry weight (leaves) and 7.79mg/g (flower) with none detectable in the root[31]Kynurenic acid at 0.05+/-0.01µg/g (root[7])Phenylacetic acid derivatives (root)[36]Potassium in varying ranges of 23.3-59.9mg/g (medican figures of around 42.5-45.1mg/g) in the leaves[37][38] with roots having about half the content (24.5mg/g or 2.45%[37])Sodium at 0.49% and 0.33% of the leaves and roots respectively[37]Calcium at 0.88% and 0.33% of the leaves and roots respectively[37]Copper in varying concentrations (depending on the soil it is grown in) of 15-97µg/g (roots) and 15-52µg/g (leaves), about half of the soil content of copper and well correlated with the soil content[39]Manganese in varying concentrations (depending on the soil it is grown in) of 43-115µg/g (roots) and 32-98µg/g (leaves)[39]Zinc in varying concentrations (depending on the soil it is grown in) of 59-265µg/g (roots) and 40-150µg/g (leaves)[39]Lead in varying concentrations (depending on the soil it is grown in) of up to 155µg/g (roots) and up to 28µg/mL (leaves), with some samples showing negligible content[39]Chromium in varying concentrations (depending on the soil it is grown in) of up to 10µg/g (roots) and up to 5µg/g (leaves) with some samples showing negligible content[39]There are a wide variety of molecules found in dandelion which, for the most part, are not unique nor high enough to put this herb above others that have higher concentrations of the same flavonoids or potent unique molecules. Of the ones in dandelion which may be potent and unique we have two polysaccharides (TOP1 and TOP2) which are likely present in the water extract amongst other things, and some sesquiterpenes that may contribute to the effects of ethanolic extracts
+Eudesmanolides (sesquiterpene lactones) and their glucosides, formerly collectively known as taraxacum[3] and found in most dandelion species[9][10] including officinale[11] contributing to their bitter taste[3] and likely its allergenic potential.[12][13] Ones found in Taraxacum officinale include 4-O-β-D-glucosyl-11,13-dihydro-taraxinic acid and 14-O-β-D-glucosyl-taraxinic acid.[14]The pentacyclic terpenoid known as taraxasterol,[15] considered a main bioactive of dandelion and named after its genus (Taraxacum)[16] although fairly ubiquitous as it can be found in other herbs such as Eupatorium azureum,[17] Stevia berlandieri,[18] Capparis sepiaria,[19] and Cirsium texanum[20][18]Aesculin (the major bioactive of Horse chestnut) at 0.015-5.32mg/g in two month old dandelions and 0.094-21.44mg/g in six month old samples[21]Polysaccharides designated Taraxicum officinale 1 (TOP1 at 37.2% of the dry weight of a hot water extract[22]) and Taraxicum officinale 2 (TOP2 at 11.3%[22])[23]A series of antimicrobial peptides known as Taraxicum officinale antimicrobial peptides (ToAMPs) numbering from one (ToAMP1)[24] to ToAMP4[25]Inulin (dietary fiber) comprises of mostly fuctooligosaccharids (kestose, mystose, and fuctofuranosylnystose)[26] which may confer probiotic effects[27]Nitrate averaging 195-202mg/kg[28][29] (range of 47-487mg/kg[28])Chicoric acid (Named after chicory, a botanically related herb to dandelion[3]) at 18.9µg/g in a hot water extract of the aerial parts of the plant and a higher content (128.6µg/g) in a methanolic extract.[30] The plant itself appears to have 14.91mg/g dry weight of the leaves, 13.79mg/g in the flowers, and a mere 2.71mg/g in the roots[31]Luteolin[32] at 4.80µg/g (leaves[33]) and as 7-O-glucoside (990µg/g dry weight in leaves with none detectable in roots.[34]) Extracts of dandelion have found 3.53µg/g in the water extract but a higher concentration of 34.2µg/g in a methanolic extract[30] while ethyl acetate extracts may be up to 10% luteolin plus luteolin-7-O-glucoside collectivley[35]Myricetin at 170µg/g in a commercial product and not detectable in roots nor leaves of wild dandelion tested[34]Chlorogenic acid[32] at 700-770µg/g in leaves and higher at 4.33mg/g in roots,[34] although another study failed to find any in the leaves and only 0.54mg/g dry weight in the roots.[31]Caffeic acid[32] at 1.1-1.19mg/g in roots and 19.06mg/g in a leaf extract[34]Hesperidin at 870µg/g in roots (none detected in a commercial product) and none in leaves[34]Isovitexin at 870µg/g in leaves only and vitexin as 2-rhamnoside at 150-990µg/g in roots and higher at 2.07mg/g in the leaves[34]Anthocyanins as cyanidin-3-glucoside at 2.56mg/g dry weight (leaves) and 7.79mg/g (flower) with none detectable in the root[31]Kynurenic acid at 0.05+/-0.01µg/g (root[7])Phenylacetic acid derivatives (root)[36]Potassium in varying ranges of 23.3-59.9mg/g (medican figures of around 42.5-45.1mg/g) in the leaves[37][38] with roots having about half the content (24.5mg/g or 2.45%[37])Sodium at 0.49% and 0.33% of the leaves and roots respectively[37]Calcium at 0.88% and 0.33% of the leaves and roots respectively[37]Copper in varying concentrations (depending on the soil it is grown in) of 15-97µg/g (roots) and 15-52µg/g (leaves), about half of the soil content of copper and well correlated with the soil content[39]Manganese in varying concentrations (depending on the soil it is grown in) of 43-115µg/g (roots) and 32-98µg/g (leaves)[39]Zinc in varying concentrations (depending on the soil it is grown in) of 59-265µg/g (roots) and 40-150µg/g (leaves)[39]Lead in varying concentrations (depending on the soil it is grown in) of up to 155µg/g (roots) and up to 28µg/mL (leaves), with some samples showing negligible content[39]Chromium in varying concentrations (depending on the soil it is grown in) of up to 10µg/g (roots) and up to 5µg/g (leaves) with some samples showing negligible content[39]
+There are a wide variety of molecules found in dandelion which, for the most part, are not unique nor high enough to put this herb above others that have higher concentrations of the same flavonoids or potent unique molecules. Of the ones in dandelion which may be potent and unique we have two polysaccharides (TOP1 and TOP2) which are likely present in the water extract amongst other things, and some sesquiterpenes that may contribute to the effects of ethanolic extracts
+
 
 The overall flavonoid content of dandelion is higher in the dry leaf extract (27.32mg/g or 2.7%, although other studies have found significantly lower levles of 8mg/g chlorogenic acid equivalents[33]) than in root extracts (3.03-3.10mg/g or 0.3%)[34] and a hot water extract (three subsequent extractions at 100°C in 200mL of water for 3 hours, 150mL for 2 hours, and 100mL for a final hour) yields 17% of the dandelion's initial dry weight as the water soluble extract.[40][41] The overall phenolic content has been measured (in an ethanolic extract) to be 195.4+/-3.6mg/g, with its antioxidant capacity 40% that of an equivalent concentration of Vitamin C and 20% that of pure gallic acid.[32]
 
 Hot water extracts have been noted to have 0.167% flavonoids, 0.134% coumarins, 1.672% total hydroxycinnamic acid derivatives, and 2.364% terpenoids.[42]
 
+
 Ethanolic extracts will confer more flavonoids than do the water extracts, although even when this happens the overall antioxidant effect is not greater than references (vitamin C and gallic acid) suggesting moderate to low antioxidant capacity; the hot water extract appears to have lower antioxidant potential.
+
 
 1.2
 
@@ -234,7 +240,9 @@ Phase I Enzyme Interactions
 
 While dandelion was not seen to upregulate many cytochrome levels (CYP2D, CYP3A, and total CYP) after four weeks dandelion tea ingestion (2% w/v), there was a reduction in the kinetic capacity of CYP1A2 to less than 25% of control, nonsignificantly greater than peppermint tea and chamomile at the same dose (green tea ineffective)[45] while CYP2E was affected to a lesser degree (50% of control, similar to peppermint) and CYP2D and CYP3A were not affected by dandelion tea.[45]
 
+
 There is a potential concerning inhibition of CYP1A2 which may lead to some drug-drug interactions associated with dandelion extract, while two other common enzymes (CYP2D and CYP3A) appear to not be affected; more research is needed.
+
 
 2.2
 
@@ -242,7 +250,9 @@ Phase II Enzyme Interactions
 
 A tea solution of dandelion (2% w/v) failed to have any influence on hepatic glutathione S-transferase (GST) activity when given to rats over the course of four weeks, although the tea appeared to increase the activity of UDP-glucuronosyl transferase to 244% of control.[45]
 
+
 A large increase in one enzyme responsible for elimination of some drugs and supplements (those eliminated via glucuronidation) may mean a potential 'detoxifying' effect has basis. The antioxidant enzyme GST which is also involved in drug metabolism does not appear affected.
+
 
 2.3
 
@@ -250,7 +260,9 @@ Known Drug Interactions
 
 Although another species was used, dandelion (Taraxacum mongolicum) has been noted to reduce the bioavailability of the antibiotic drug known as ciprofloxacin when given a high oral dose (2g/kg) of the hot water extract, reducing both the max plasma concentration (by 73%) and the half life (from 5.71 hours to 1.96 hours).[46]
 
+
 One species of dandelion may interact with ciprofloxacin, it is not sure if this applies to the common species (officinale).
+
 
 3.
 
@@ -262,7 +274,9 @@ Depression
 
 Dandelion has been used in a rat study using a forced swim test model of depression (alongside other behavioral tests), which noted that 50-200mg/kg of a hot water extract of the leaves had efficacy after two weeks of usage by reducing immobility time, whereas acute usage of 200mg/kg only was effective (acute usage of 50 and 100mg/kg ineffective) at the same thing;[47] these effects appeared to be associated with decreased serum corticotrophin releasing factor (CRF) and corticosterone.[47]
 
+
 A single rat study indicates that dandelion extract in water may have antidepressant effects in mice. These results have not yet been replicated in humans or using other animal behavioral models of depression.
+
 
 4.
 
@@ -274,7 +288,9 @@ Absorption
 
 Dandelion has been found to have inhibitory actions on porcine pancreatic lipase with 250µg/mL of this extract inhibiting 86.3% lipase activity in vitro (IC50 of 78.2µg/mL), which was comparable to Orlistat at the same concentration, although Orlistat had a much more potent IC50 (0.22µg/mL).[48] When 400mg/kg dandelion extract was fed to mice alongside fatty acids, the area under the curve (AUC, representing the total bodily exposure to a substance) of absorbed fatty acids over the next four hours was reduced by 23%.[48]
 
+
 A rat study suggests that dandelion extract, when co-ingested with fat, may reduce fat absorption, although it is less potent than the over-the-counter drug Orlistat. 
+
 
 4.2
 
@@ -294,7 +310,9 @@ Cholesterol
 
 Dandelion root and leaf extracts have once shown cholesterol reducing properties when given as 1% (w/w) of the diet to rabbits fed a high-cholesterol diet; both the root and leaf extracts reduced triglyceride levels, while only the leaf extract raised healthy HDL levels while lowering unhealthy LDL levels (the root had no effect on HDL level and actually raised LDL levels further).[50]
 
+
 One rabbit study indicates that dandelion leaf extract may benefit lipid levels in animals fed a high-cholesterol diet.
+
 
 5.
 
@@ -306,7 +324,9 @@ Absorption
 
 Hot water extracts of dandelion have been noted to have minor inhibitory actions towards α-glucosidase, an enzyme that increases absorption of glucose by cleaving it from disaccharides and starch, when tested in 3 sources of α-glucosidase in vitro: baker's yeast, rabbit liver, and rabbit intestines.[51] Dandelion extract reduced activity to around 40-80% of control with IC50 values of 2.3mg/mL, 3.5mg/mL, and 1.83mg/mL respectively, but was less potent than the extract from another tested herb, Myrutus communis, and is similar to stinging nettle in potency while underperforming all reference drugs (glimerid, gliclazide, and acarbose).[51]
 
+
 Hot water extract of dandelion inhibits α-glucosidase (which digests starch) in vitro, which may reduce absorption of carbohydrates. No studies have confirmed whether this would work in vivo, however.
+
 
 6.
 
@@ -318,7 +338,9 @@ Adipogenesis
 
 Dandelion root extract was noted to hinder differentiation of 3T3-L1 preadipocytes in vitro by approximately 30% at a concentration of 300-600µg/mL (with no significant difference between concentrations), with a 20-30% reduction in triglyceride accumulation with root extract at 300-600µg/mL (no dose-dependent relationship) and a dose-dependent decrease with leaf extract up to resulting in a 65% reduction in triglyceride levels during differentiation.[34] and an inhibitory effect during adipogenesis with the leaf appearing to be more effective than the root extract.[34] Leaf and root extracts also decreased lipid droplet accumulation by approximately 20% at 600µg/mL.
 
+
 Dandelion extract hinders fat cell differentiation and lipid and triglyceride accumulation in vitro, with leaf extract being more potent in the latter function. Whether this would lead to reduced fat mass in vivo has not yet been tested.
+
 
 7.
 
@@ -330,7 +352,9 @@ Bioenergetics
 
 Dandelion extract at high concentrations in vitro (400-800µg/mL) increased glucose uptake in C2C12 myotubes secondary to AMP-activated protein kinase (AMPK) activation, a protein which senses the energy level of cells and whose activation may reduce fatty liver and glucose tolerance;[52] although dandelion extract did this to a lower level than the reference drug rosiglitazone, a PPAR-γ agonist.[33] An increase in AMPK phosphorylation was noted after 10 weeks ingestion of a dandelion enriched high fat diet in mice (0.2% w/w of the diet) with no further phosphorylation occurring at 0.5% w/w.[33]
 
+
 Dandelion extract has been seen to increase in glucose uptake in skeletal msucles in rodents over the course of ten weeks secondary to AMPK activation.
+
 
 7.2
 
@@ -340,7 +364,9 @@ Dandelion water extract at 10 or 100mg/kg in young male mice for ten days caused
 
 Due to the exclusive usage of the forced swim test in rats and potential antidepressant effects of dandelion shown via this test[47] it cannot yet be assumed dandelion possesses ergogenic properties as opposed to antidepressant properties.
 
+
 An antifatigue effect of dandelion has been noted in mice subject to a forced swim test, although the results may be confounded by that test also measuring antidepressant effects. Influence of supplementation on other parameters of endurance exercise (such as treadmill running, usually a better model for ergogenic aids) remain untested.
+
 
 8.
 
@@ -373,13 +399,17 @@ In vitro, macrophages treated with dandelion extract at 1mg/mL appear to secrete
 
 IL-10 production from IFN-γ was also enhanced in vitro at 100µg/mL and 1mg/mL, and were promoted inherently (i.e. without IFN-γ) at the higher concentration.[6]
 
+
 Moderate to high concentrations of dandelion extract appear to have a costimulatory effect on macrophages when in the presence of a stimulatory agent (IFN-γ), suggesting a possible proimmunity effect.
+
 
 Dandelion extracts have been noted to suppress lipopolysaccharide (LPS)-induced inflammation when tested in vitro in macrophages, with a methanolic extract being more potent (IC50 of 79.9µg/mL) than a water extract (157.6µg/mL), and with both leading to a reduction in lipid peroxidation and inflammatory signalling (iNOS induction and NF-kB activation) being noted.[30] Benefits have been replicated elsewhere with leaf extracts where a chloroform extract showed the most efficacy in hindering nitric oxide production (more than an n-butanolic extract, which has been shown to be best in another study which did not assess chloroform extracts[61]), IL-6, and PGE2 formation at 62.5µg/mL while a water extract was ineffective at all doses up to 250µg/mL in this study.[62]
 
 The bioactive taraxasterol, which can be isolated from dandelion, appears to suppress the inflammation response of macrophages, with incubation of macrophages with 2.5-12.5μg/mL prior to LPS introduction suppressing iNOS and COX2 expression relative to LPS control.[16] Polysaccharides isolated from dandelion have had similar effects when tested in isolation, suggesting that multiple compounds from dandelion may be antiinflammatory.[23] While minor constituents, both luteolin and chicoric acid found in dandelion are bioactive on their own[35][30] but have been noted to have synergistic properties in inhibiting macrophage stimulation,[63] and thus may also contribute to dandelion's antiinflammatory properties. The higher levels of chicoric acid and luteolin in the methanolic extract of dandelion may explain its higher potency relative to the water extract.[30]
 
+
 With regard to LPS stimulation of macrophages, which is a commonly used assessment for inflammation, various components in dandelion appear to have a suppressive (antiinflammatory) effect.
+
 
 9.3
 
@@ -387,7 +417,9 @@ Neutrophils
 
 In neutrophils activated by the ion-carrier A23187, the methanolic extract from the root of dandelion has been noted to have 90% inhibitory action (with respect to leukotriene B4 formation) at a concentration of 3µg/mL, thought to be due to the sesquiterpene lactone content.[14]
 
+
 One study noted relatively potent suppression of neutrophils in vitro.
+
 
 9.4
 
@@ -397,7 +429,9 @@ Taraxasterol isolated from dandelion was seen to have antiallergic properties in
 
 Dandelion extract itself has shown antiinflammatory properties in a mouse model of lung damage at a similar oral dose (2.5-10mg/kg) associated with reduced white blood cell (neutrophil) infiltration and production of inflammatory cytokines.[65] This result has been replicated by pure taraxasterol at the same dosage range with a potency comparable to 5mg/kg dexamethasone.[66]
 
+
 There appear to be some protective antiinflammatory effects in the lung of mice seen with both taraxasterol and low levels of dandelion ingestion. This potential benefit requires human testing to confirm a role for dandelion in allergic conditions.
+
 
 9.5
 
@@ -407,7 +441,9 @@ Dandelion hot water extract in peripheral mononuclear blood cells (PMBCs) infect
 
 Dandelion hot water extract has also been noted to possess anti-influenza properties with an IC50 of 990µg/mL and full inhibition occuring at 5mg/mL, which was significantly weaker than the reference drug Oseltamivir (which exhibited full inhibition at 75µg/mL).[41]
 
+
 Dandelion shows antiviral properties against HIV and influenza in vitro, but it is significantly weaker than the reference drugs AZT and Oseltamivir, respectively.
+
 
 10.
 
@@ -419,7 +455,9 @@ Androgens
 
 While dandelion extract is traditionally used in Jordan as a fertility enhancer, oral ingestion of high doses of dandelion hot water extract (1.065g/kg and 2.13g/kg, a twenthieth and a tenth of the LD50, respectively) for sixty days in male rats appears to actually reduce serum testosterone concentration, secondary to testicular damage.[42]
 
+
 A high dose (approaching one-tenth of that needed to kill 50 percent of a poplulation of rats) of dandelion has been seen to induce fertility problems in male rats and lower serum testosterone; lower doses (which are normally recommended for supplementation) have not been tested.
+
 
 11.
 
@@ -433,7 +471,9 @@ Since dandelion has been traditionally used to treat abnominal distension, dyspe
 
 Dandelion ethanolic extracts have been noted to have a promotility effect on the stomach (increase in gastric emptying rate) when ingested at up to 100mg/kg in rats (EC50 of 20.1+/-2.2mg/kg, maximal efficacy in the 50-100 mg/kg range) with a potency comparable to 2mg/kg cisapride as reference; this effect seemed to mediated through cholinergic stimulation (since blockade of the cholinergic, but not adrenergic, system had an effect).[67]
 
+
 One study noted that dandelion ethanolic extract increased stomach motility in rats.
+
 
 11.2
 
@@ -443,7 +483,9 @@ The leaves and roots of dandelion at 200-600mg/kg appears to confer protective e
 
 Intake of dandelion extract to mice on a high-fat diet (extract dose of 2g/kg or 5g/kg of the diet) for 10 weeks appeared to attenuate the production of fatty liver and hepatic inflammation and subsequent insulin resistance to a degree, with no significant differences between doses.[33] these doses appeared to be sufficient to increase AMP protein kinase (AMPK) signalling in liver tissue.[33]
 
+
 Oral ingestion of dandelion at doses comparable to what a human would consume (around 10 grams for a 150lb person) appear to confer some minor protective effects in the liver according to rodent studies; human studies are currently unavailable. The mechanism seems to be due to through dandelion extract's antioxidant properties.
+
 
 11.3
 
@@ -451,7 +493,9 @@ Pancreas
 
 Dandelion hot water extract given orrally at a dose of 10mg/kg following administration of cholecystokinin to induce pancreatitis noted that production of inflammatory cytokines IL-6 and TNF-α was reduced relative to control.[72]
 
+
 Low doses of dandelion have shown minor protective effects in the pancreas in a rat model of pancreatitis, although no human studies are available.
+
 
 11.4
 
@@ -461,7 +505,9 @@ Dandelion is traditionally used in Chinese and Ayurvedic medicine as a diuretic,
 
 Oral ingestion of a dandelion extract (95% ethanolic extract) equalling about 8g of the fresh plant weight taken three times a day in otherwise healthy subjects was able to increase frequency of urination and overall urine output relative to the day prior to supplementation and the day after (urine output normalized after the third dose in the evening).[38]
 
+
 The diuretic role of dandelion is currently understudied. While a high potassium content is a probable explanation for a diuretic effect, other components of the extract have not been ruled out. The exact potency of this effect is not known, and while it does appear to work in humans the evidence is very preliminary.
+
 
 12.
 
@@ -503,7 +549,9 @@ Despite dandelion's use in the country of Jordan as a fertility enhancers, the h
 
 The above dose did not appear to have any overt teratogenic effects, and the estimated vegetable equivalent for this dose (see toxicology section for calculations) is 7.7g/kg fresh weight of dandelion.[42]
 
+
 Higher than normal doses of dandelion extract impair male fertility in rats due to testicular damage; the effect of recommended doses is not known.
+
 
 14.
 
@@ -519,11 +567,15 @@ When looking at the hot water extract, studies using doses claimed to be one ten
 
 Other studies assessing the oral LD50 have found no acute toxicitiy associated with 10g/kg where intraperitoneal injections of 4g/kg were tolerated in both rats and mice[3] whereas in mice an LD50 has been noted with intraperitoneal injection of 28.8g/kg of the herb and 36.8g/kg of the root.[3]
 
+
 The known LD50 of dandelion in rodents appears to be much higher than a human can expect to consume even with excessive ingestion of the vegetable, although the lowest dose associated with side-effects (while still higher than the recommended dose) could potentially be consumed with a high dietary intake of dandelion or high usage of dandelion supplements.
+
 
 Dandelion is a plant of which it is possible to be allergic to, and it is advised people avoid supplementation or ingestion if there is a known allergic to honey, chamomile, chrysanthemums, yarrow, feverfew, and with some caution extended to other allergenic plants of the Asteraceae family such as ragweed, sunflower, and daisies.[3] The most common form of allergy from dandelion is contact dermatitis[3] and patch tests are available for assessment.[78]
 
+
 It is possible to be allergic to dandelion in which case supplementation should be avoided at all costs, and there may be some cross-allergenicity with other herbs in the same plant family.
+
 
 14.2
 

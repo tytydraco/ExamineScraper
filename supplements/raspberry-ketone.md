@@ -114,7 +114,9 @@ In contrast, studies on the effects of raspberry ketone on lipolysis in primary 
 
 Increased secretion and cellular levels of adiponectin were also noted after 4 days of incubating fat cells with raspberry ketone.[9] It has been noted to be protective against steatohepatitis in a rat model while also attenuating a rise in leptin levels.[12]
 
+
 Although raspberry ketone is a potent stimulator of lipolysis and lipolytic gene expression in the 3T3-L1 adipocyte cell line, studies in primary adipocytes have failed to show an effect. Raspberry ketone has been shown to augment norepinephrine-induced lipolysis in primary adipocytes, however. More studies are needed to assess whether this occurs in vivo.
+
 
 Raspberry ketone has also been shown to suppress adipocyte differentiation (i.e. the transformation of precursor cells in to adipocytes) and fat accumulation in 3T3-L1 adipocytes by downregulating adipogenic gene expression including PPARγ and C/EBPα.[10]
 
@@ -128,7 +130,9 @@ Interventions
 
 The one human study to investigate the effects of raspberry ketone found a fat loss of 7.8% relative to the 2.8% in placebo, and weight loss of 2% relative to 0.5% in placebo, without detectable differences in caloric intake. This study was highly confounded, however, as raspberry ketone was co-administered with several other supplements in a "METABO" formulation (raspberry ketone paired with caffeine, capsaicin, garlic, ginger and Citrus aurantium as a source of synephrine), so the benefits cannot be traced back to raspberry ketone per se.[14] This study also noted an elevation of serum leptin (but no influence on resistin nor adiponectin) associated with intervention.[14]
 
+
 Human evidence for the efficacy of raspberry ketones in promoting fat loss is highly confounded. There is no evidence to support the idea that raspberry ketone in isolation can induce fat loss.
+
 
 4.
 
@@ -140,7 +144,9 @@ Testosterone
 
 In vitro studies with breast cancer cell lines suggest that raspberry ketone can inhibit the androgen receptor, with an IC50 value of 252uM.[15]
 
+
 Rasberry ketone can block the androgen receptor, but this occurs at high concentrations that may not be physiologically relevant. Oral ingestion of standard (low) doses is unlikely to affect androgen receptor signaling.
+
 
 5.
 
@@ -154,7 +160,9 @@ A study conducted in rats noted that 1-2% of the diet as raspberry ketone was ab
 
 It is thought that this is due to a preservation of PPARα and LDL receptors in the livers of rats fed both raspberry ketone and an obesogenic diet.[17]
 
+
 Rat studies suggest that raspberry ketone may have beneficial effects on liver fat buildup, but there is no evidence to support this effect in humans. Impractically high doses of raspberry ketone were used to achieve these effects in rats.
+
 
 Raspberry ketone may have some beneficial influences on liver fat buildup, although this has only been tested in rat models, and may not be true in humans. Also, high, impractical doses of raspberry ketone were used to acheive these effects.
 

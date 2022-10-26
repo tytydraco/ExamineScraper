@@ -112,7 +112,9 @@ Metabolism
 
 It was found in rats that Punicic acid, which is a c9t11c13 fatty acid, could be rapidly metabolized into circulating c9t11 conjugated linoleic acid,[6] similar to another 18:3 fatty acid mentioned earlier, the c9t11t13 alpha-eleostearic acid.[7] This, if replicated in humans, would mean some of the bioactivity of Punicic Acid is due to c9t11 CLA. A study designed with a 7 day adaptation period where participants were advised to not consume sources of CLA (ruminant foods) followed by 28 days punicic acid intervention (via Trichosanthes seeds) found that while the control group had CLA levels circulating from 0.05-0.06% of total fatty acids, the Punicic Acid intervention rose to 0.23+/-0.03% of total fatty acids (although Punicic acid itself was found, suggesting partial metabolism).[4] This replicated the effects found in a previous phamacokinetic study noting higher than normal CLA levels, but did not control for dietary intake.[3] It appears Punicic acid can incompletely get metabolized into c9t11 Conjugated Linoleic Acid
 
+
 Punicic Acid can be metabolized into the lesser potent isomer of Conjugated Linoleic Acid known as c9t11
+
 
 3.
 
@@ -152,7 +154,9 @@ Triglycerides
 
 A study done on healthy youth noted no influence on triglyceride levels, or any measured lipoprotein (HDL-C, LDL-C).[4]
 
+
 Appears to have the ability to reduce triglycerides, but I would not put too much faith into it due to the probability of rehashed data is higher than the probability of getting the exact same standard deviations in two independent trials
+
 
 6.
 
@@ -186,5 +190,7 @@ Xanthigen
 
 Xanthigen is a brand name for fucoxanthin, a potential fat burning carotenoid from seaweed, with Pomegranate Seed Oil as a base; thus confering both the bioactivities of Punicic acid and Fucoxanthin. Fucoxanthin itself is implicated in fat loss, and human trials using Xanthigen have shown significant fat loss over time.[13] In vitro, the two molecules show some degree of synergism in pro-fat loss effects.[14]
 
+
 Mechanisms of synergism, but no real estimate as to how much of fucoxanthin's benefits are enhanced by Punicic acid
+
 

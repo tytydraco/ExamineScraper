@@ -202,11 +202,15 @@ Morus Alba (of the family Moraceae), sometimes referred to as Mori Albae or Whit
 
 When tea is made from Mulberry, it is referred to as a Sang-Yup tea when made from the leaves and a Sang-Ji tea when made from the stems.[4]
 
+
 White Mulberry (Morus Alba) is a Traditional Chinese Medicine where, although all parts have been used, the stems seem to be most focused on; teas have been made from the stems
+
 
 The term 'Mulberry' refers to the genera of Morus, with 'White Mulberry' specifically referring to the species of Alba in the Morus genera (Morus Alba). Although the term Mulberry is sometimes used to refer to Morus Alba in particular due to its popularity, it may also refer to other species such as Morus nigra (Black) or Morus Rubra (Red).[5][6] There are approximately 10-16 species of Mulberry in cultivation in subtropical, warm and temperate regions of Asia, Africa and North America[7] and up to 24 in total[6] with one varient known as Morus laevigata (Shahtoot) being used as a common hybrid species in Pakistan.[6] 
 
+
 Mulberry is a general term for the genera of Morus, White Mulberry being specific for Morus Alba
+
 
 1.2
 
@@ -216,11 +220,15 @@ The fruit itself tends to contain 81.72+/-2.25% Moisture, 0.57+/-0.11% Ash (mine
 
 A variety of non-caloric bioactives that, for the most part, are unique to Morus Alba include:
 
-Morin (0.5771mg/g in 95% ethanolic extract of branches[3]) or 4.7mcg/g (leaf), 5.8mcg/g (stem), 12.3mcg/g (bark), and 9.4mcg/g (root) with none in fruits[9]The Arylbenzofuran compounds Moracin C and M,[10] the latter of which can be synthesized from resorcinol.[11] Also Moracin R, O, P, and D[12] as well as V-Y[13]Albanol A (root bark)[1] and Alabafuran A[12]Albanol F and G, which differ from the other 'Albanol' molecules as they also possess alternate names; Albanol F can also be referred to as either Kuwanone G or Moracenin B, while Albanol G can be referred to as Kuwanone F or Moracenin A[2][14]Mulberrofurane E-G,[15][16] L and Y;[12] Isomulberrofuran G has also been reported[17]Cyclomulberrin and cyclocommunol[16]Kuwanone E,[18] J, Q, R,[19] S,[20] and Y[2] as well as 4′-methoxykuwanon E[18]Sanggenon B-F, J-K,[20] G,[20] and O[12][21][22] and Sanggenol A, L, P, N[16]Pyrrole Alkaloids such as Morrole A[23]Loliolide (high concentrations in the hot water extraction of the leaves)[24]Moruslupenoic acid A and B[25] and Monogolin B[26]Morusinol (prenylated flavonoid),[27] Morusin[26][12] and Cyclomorusin[16]Chalcomoracin, Morachalcone A-C (leaves)[28], Moracin C, and Isobavachalcone[29]Albosteroid[30]3′-Geranyl-3-prenyl-2′,4′,5,7-tetrahydroxyflavone and 3′,8-Diprenyl-4′,5,7-trihydroxyflavone[20]Cudraflavone B, a prenylated flavone named after Cudrania tricuspidata[31] (same family as Morus Alba) and also found in Morus Alba;[32] it is basically Morusin with a cyclic prenyl side chainIn regards to the above molecules that are relatively unique to Morus Alba (they tend to be named after Morus or Alba) many of them have not yet been shown to be the causative active ingredients. It is definitely possible a unique bioactive here underlies some benefits of Morus Alba, but for the most part the main bioactives of concern are in the next sections
+Morin (0.5771mg/g in 95% ethanolic extract of branches[3]) or 4.7mcg/g (leaf), 5.8mcg/g (stem), 12.3mcg/g (bark), and 9.4mcg/g (root) with none in fruits[9]The Arylbenzofuran compounds Moracin C and M,[10] the latter of which can be synthesized from resorcinol.[11] Also Moracin R, O, P, and D[12] as well as V-Y[13]Albanol A (root bark)[1] and Alabafuran A[12]Albanol F and G, which differ from the other 'Albanol' molecules as they also possess alternate names; Albanol F can also be referred to as either Kuwanone G or Moracenin B, while Albanol G can be referred to as Kuwanone F or Moracenin A[2][14]Mulberrofurane E-G,[15][16] L and Y;[12] Isomulberrofuran G has also been reported[17]Cyclomulberrin and cyclocommunol[16]Kuwanone E,[18] J, Q, R,[19] S,[20] and Y[2] as well as 4′-methoxykuwanon E[18]Sanggenon B-F, J-K,[20] G,[20] and O[12][21][22] and Sanggenol A, L, P, N[16]Pyrrole Alkaloids such as Morrole A[23]Loliolide (high concentrations in the hot water extraction of the leaves)[24]Moruslupenoic acid A and B[25] and Monogolin B[26]Morusinol (prenylated flavonoid),[27] Morusin[26][12] and Cyclomorusin[16]Chalcomoracin, Morachalcone A-C (leaves)[28], Moracin C, and Isobavachalcone[29]Albosteroid[30]3′-Geranyl-3-prenyl-2′,4′,5,7-tetrahydroxyflavone and 3′,8-Diprenyl-4′,5,7-trihydroxyflavone[20]Cudraflavone B, a prenylated flavone named after Cudrania tricuspidata[31] (same family as Morus Alba) and also found in Morus Alba;[32] it is basically Morusin with a cyclic prenyl side chain
+In regards to the above molecules that are relatively unique to Morus Alba (they tend to be named after Morus or Alba) many of them have not yet been shown to be the causative active ingredients. It is definitely possible a unique bioactive here underlies some benefits of Morus Alba, but for the most part the main bioactives of concern are in the next sections
+
 
 With various flavonoid molecules (that may be common to many plants) being:
 
-Resveratrol and Oxyresveratrol[33] (0.2358mg/g and 4.8398mg/g in 95% ethanolic extract of branches[3]) and the diglucoside of oxyresveratrol, Mulberroside A at 0.8-1.5%.[34][3] Mulberrosides B and \_cis\_Mulberroside A have also been reported[35][12] with two glycosides of oxyresveratrol (4'-O-β-Glucopyranoside and 3-O-β-Glucopyranoside) and a diglycoside of resveratrol known as resveratrol 3,4'-di-O-β-D-glucopyranoside.[35]Steppogenin-4'-O-beta-D-glucoside[36]Luteolin (2.1mcg/g leaf, bark and branch, 4.3mcg/g root and none in fruits), Apigenin (3mcg/g roots, 4.2mcg/g bark, 43.8mcg/g stem, 3.5mcg/g fruits, and 42.7mcg/g leaf),[9] and 6-geronylapigenin[20][37]Phenophorbide A methyl ester 132(S)-hydroxypheophorbide A methyl ester; breakdown products of chlorophyll found in the leaves[38]Uvaol[12] and Atalantoflavone[20]4-hydroxycinnamic acid (1.0839mg/g in 95% ethanolic branch extract[3]), 7-hydroxycoumarin (Umbelliferon, 0.2382mg/g in 95% ethanolic branch extract[39][3]) caffeic acid (7.3mcg/g leaf and 17.2mcg/g fruit; none in root, bark, or stem)[9] and dicaffeic acid[39]Iminosugars such as 1-deoxynojirimicin (a pipiridine alkaloid)[40] at 2.24-3.08mg/g (stems), 0.62-1.61mg/g (young/fresh leaves), or 0.47-0.96mg/g (older leaves)[41] and D-fagomine (25-103mg/kg in the leaves[42] with 185mg/kg also being reported;[43] both in the reported range of 50-660mg/kg[44])Polyprenyl compounds (linear hydrophobic isoprenoid alcohols)[45]Rutin (Quercetin-3-O-Rutinoside)[40] at 0.0766mg/g in a 95% ethanolic branch extract[3] and most content being centralized to leaves and fruits (179.1-293.5mcg/g);[9] similar levels of free Quercetin, Hyperin, and Isoquercetin, with up to two-fold (0.1270-0.1402mg/g) of Kaempferol and ButeinChlorogenic Acid (19.1mcg/g stem, 28.6mcg/g bark, 47.3mcg/g branch, 226.9mcg/g fruit, 92.2mcg/g leaf)[9][40] and Umbelliferone (15.7mcg/g in stem, 289.6-538.7mcg/g in bark and root; none in leaves or fruit)[9]Anthocyanins such as Cyanidin-3-Glucoside and Cyanidin-3-Rutinoside from the Pomace of white mulberry,[46] with higher content in Morus Nigra (Black Mulberry; due to the coloration)Astragalin (a glycoside of Kaempferol)[47] and Kaempferol-3-O-β-d-glucoside[26]Ursolic Acid[16] and betulinic acid[12]Taxifolin (6.53-21.42mcg/g) and Taxifolin Hexoside (undetectable to 9.06mcg/g)[48]Maclurin (chalcone)[49]Lectin[50]Deguelin[20]Volatiles (aromatic and flavorants) at 0.36+/-0.03% (leaves) and 0.25+/-0.03% (stems);[4] of which major ones include n-hexanoic acid (19.83mcg/g stems) and (E)-β-ionone (9.32mcg/g), dihydroctinidiolide (9.65mcg/g) and 3-methylbutyl hexadecanoate (7.7mcg/g) in the leaves.[4]β-sitosterol[12]Chromium (up 1.48–6.43mg/kg of the fruits,[51] but appears to be variable as 1.81mcg/g[52] and 0.45-0.65mcg/g[53] have been reported)Strontium (1.87-2.13mcg/g), Copper (1.23-1.31mcg/g), Cobalt (0.36-0.51mcg/g), Manganese (4.16-4.36mcg/g), Nickel (1.98-2.34mcg/g), Zinc (3.78-3.47mcg/g), and Iron (36.17-40.80mcg/g)[53]Riboflavin (0.088+/-0.001 fresh weight), Niacin (3.10+/-0.60mg/100g fresh weight), and Vitamin C (15.20+/-1.25mg/100g fresh weight)[8]The Quercetin class of molecules, with notice to the 3-(6-malonylglucoside) conjugate, appear to play a role as do the stilbene class of molecules (resveratrol and oxyresveratrol, where the glycosides known as 'Mulberrosides' are unique to this plant). Beyond that, the iminosugars appear to play a large role in anti-diabetic effects. Ursolic acid and chlorogenic acid cannot be ruled out for anti-diabetic effects, while the anthocyanins probably can be ruled out since they are blue-red pigmentations and their content is low enough for this to still be called 'white mulberry' (they are at higher levels in Morus Nigra; Black Mulberry)
+Resveratrol and Oxyresveratrol[33] (0.2358mg/g and 4.8398mg/g in 95% ethanolic extract of branches[3]) and the diglucoside of oxyresveratrol, Mulberroside A at 0.8-1.5%.[34][3] Mulberrosides B and \_cis\_Mulberroside A have also been reported[35][12] with two glycosides of oxyresveratrol (4'-O-β-Glucopyranoside and 3-O-β-Glucopyranoside) and a diglycoside of resveratrol known as resveratrol 3,4'-di-O-β-D-glucopyranoside.[35]Steppogenin-4'-O-beta-D-glucoside[36]Luteolin (2.1mcg/g leaf, bark and branch, 4.3mcg/g root and none in fruits), Apigenin (3mcg/g roots, 4.2mcg/g bark, 43.8mcg/g stem, 3.5mcg/g fruits, and 42.7mcg/g leaf),[9] and 6-geronylapigenin[20][37]Phenophorbide A methyl ester 132(S)-hydroxypheophorbide A methyl ester; breakdown products of chlorophyll found in the leaves[38]Uvaol[12] and Atalantoflavone[20]4-hydroxycinnamic acid (1.0839mg/g in 95% ethanolic branch extract[3]), 7-hydroxycoumarin (Umbelliferon, 0.2382mg/g in 95% ethanolic branch extract[39][3]) caffeic acid (7.3mcg/g leaf and 17.2mcg/g fruit; none in root, bark, or stem)[9] and dicaffeic acid[39]Iminosugars such as 1-deoxynojirimicin (a pipiridine alkaloid)[40] at 2.24-3.08mg/g (stems), 0.62-1.61mg/g (young/fresh leaves), or 0.47-0.96mg/g (older leaves)[41] and D-fagomine (25-103mg/kg in the leaves[42] with 185mg/kg also being reported;[43] both in the reported range of 50-660mg/kg[44])Polyprenyl compounds (linear hydrophobic isoprenoid alcohols)[45]Rutin (Quercetin-3-O-Rutinoside)[40] at 0.0766mg/g in a 95% ethanolic branch extract[3] and most content being centralized to leaves and fruits (179.1-293.5mcg/g);[9] similar levels of free Quercetin, Hyperin, and Isoquercetin, with up to two-fold (0.1270-0.1402mg/g) of Kaempferol and ButeinChlorogenic Acid (19.1mcg/g stem, 28.6mcg/g bark, 47.3mcg/g branch, 226.9mcg/g fruit, 92.2mcg/g leaf)[9][40] and Umbelliferone (15.7mcg/g in stem, 289.6-538.7mcg/g in bark and root; none in leaves or fruit)[9]Anthocyanins such as Cyanidin-3-Glucoside and Cyanidin-3-Rutinoside from the Pomace of white mulberry,[46] with higher content in Morus Nigra (Black Mulberry; due to the coloration)Astragalin (a glycoside of Kaempferol)[47] and Kaempferol-3-O-β-d-glucoside[26]Ursolic Acid[16] and betulinic acid[12]Taxifolin (6.53-21.42mcg/g) and Taxifolin Hexoside (undetectable to 9.06mcg/g)[48]Maclurin (chalcone)[49]Lectin[50]Deguelin[20]Volatiles (aromatic and flavorants) at 0.36+/-0.03% (leaves) and 0.25+/-0.03% (stems);[4] of which major ones include n-hexanoic acid (19.83mcg/g stems) and (E)-β-ionone (9.32mcg/g), dihydroctinidiolide (9.65mcg/g) and 3-methylbutyl hexadecanoate (7.7mcg/g) in the leaves.[4]β-sitosterol[12]Chromium (up 1.48–6.43mg/kg of the fruits,[51] but appears to be variable as 1.81mcg/g[52] and 0.45-0.65mcg/g[53] have been reported)Strontium (1.87-2.13mcg/g), Copper (1.23-1.31mcg/g), Cobalt (0.36-0.51mcg/g), Manganese (4.16-4.36mcg/g), Nickel (1.98-2.34mcg/g), Zinc (3.78-3.47mcg/g), and Iron (36.17-40.80mcg/g)[53]Riboflavin (0.088+/-0.001 fresh weight), Niacin (3.10+/-0.60mg/100g fresh weight), and Vitamin C (15.20+/-1.25mg/100g fresh weight)[8]
+The Quercetin class of molecules, with notice to the 3-(6-malonylglucoside) conjugate, appear to play a role as do the stilbene class of molecules (resveratrol and oxyresveratrol, where the glycosides known as 'Mulberrosides' are unique to this plant). Beyond that, the iminosugars appear to play a large role in anti-diabetic effects. Ursolic acid and chlorogenic acid cannot be ruled out for anti-diabetic effects, while the anthocyanins probably can be ruled out since they are blue-red pigmentations and their content is low enough for this to still be called 'white mulberry' (they are at higher levels in Morus Nigra; Black Mulberry)
+
 
 With the caloric bioactives being:
 
@@ -232,7 +240,9 @@ Total Phenolics are highest in the leaf and lowest in the stem (fruit intermedia
 
 In general, the leaves of Morus Alba tend to have fairly potent anti-oxidant effects (IC50 of 20.10+/-0.78mcg/mL in the DPPH assay ex vivo)[59] which extends to teas.[60][4] Ethanolic extracts (of any part of Morus Alba) are more potent than aqueous hot water extracts, however,[57] with acetone extracts slightly better than ethanolic.[58]
 
+
 Phenolics (and the subset of phenolics known as 'flavonoids') are high in all parts of Morus Alba, with higher content in the stems and leaves; although they can be leeched into teas (hot water extractions) their levels are concentrated to higher levels in ethanolic and acetone extractions
+
 
 {OLD-IMG-ID:167}
 
@@ -246,9 +256,12 @@ Absorption
 
 Mulberroside A (oxyresveratrol diglucoside) appears to have a less than 1% oral bioavailability in the rat due to extensive metabolism to oxyresveratrol;[61] oxyresveratrol appears to have comparatively better absorption in Caco-2 cells, and is subject to P-glycoprotein efflux proteins.[62]
 
+
 Limited evidence all around, but the glycoside of oxyresveratrol appears to need to be metabolized into the aglycone oxyresveratrol before most absorption takes place
 
+
 Most components of Mulberry, if they don't have their own respective page (like Quercetin or Chlorogenic Acid do) lack pharmacokinetic data
+
 
 2.2
 
@@ -268,11 +281,15 @@ Mechanisms
 
 Moracin M is a PDE4 inhibitor, inhibiting the D2 and B4 subsets with IC50 values of 2.9μM and 4.5μM respectively with weak inhibitory potential on PDE5 (13-fold less inhibition than PDE4s) and PDE9 (30-fold less).[10] Moracin C also inhibited PDE4D2 with lesser (26μM) potency, underperformed to the active control (roflumilast at 0.46nM)[10] and compared to luteolin (a nonspecific PDE inhibitor from artichoke extract[64]), Moracin M outperforms Luteolin's IC50 of 19.1uM[65] and the inhibition by resveratrol (14μM).[66] PDE4 is a camp-specific phosphodiesterase enzyme, and its inhibition is thought to enhance synaptic function via elevating hippocampal cAMP concentrations[67] (evidence by studies on Rolipram, a potent PDE4 seletive inhibitor).[68][69]
 
+
 Moracin M is a PDE4 inhibitor, more potent than other molecules derived from nutraceuticals (but still not as effective as the prototypical reference drug of Rolipram). Although PDE4 inhibition has been shown to enhance cognition (studies using Rolipram), and Morus Alba has been shown to increase cognition this has not yet shown to be due to PDE4 inhibition
+
 
 An ethyl acetate fraction of Morus Alba appears to positively modulate GABA(A) receptors, which is thought to be due to the sanggenon compounds;[21] with concentrations between 1-100µM exerting EC50 values in the 13-17µM range and maximal potency around 30µM or more (curve of dose-response being attenuated at higher concentrations) being in the range of 718-750% increased activation of GABA(A) receptors and 30µM activating the receptors inherently, although much less potent than GABA itself.[21] This study noted the potency of positive modulation was similar to 8-lavandulyl flavanoids from Sophora Flavescens[70] and Wogonin from Scutellaria baicalensis.[71] Anti-dopaminergic effects of the ethyl acetate fraction (unknown bioactive) have also been shown to augment phenobartitol induced sleep.[72]
 
+
 Two independent mechanisms suggest possible relaxation, anxiolytic, or sedative properties of unknown potency
+
 
 3.2
 
@@ -280,7 +297,9 @@ Memory
 
 Oral doses of 50, 100, or 200mg/kg of an extract from the fruits of Morus Alba over a period of a week can dose-dependently induce Nerve Growth Factor (NGF) release in the rat hippocampus, with downstream molecular targets (neurite outgrowth, synaptic formation, and cAMP induction) as well as enhanced learning being noted.[73] Another study assessing the anti-stress effects and using an ethyl acetate fraction noted that 25-100mg/kg over 21 days was actually associated with a trend to outperform non-stressed control on step-down latency, indicative of memory improvements (no unstressed group given Morus Alba).[74]
 
+
 Appears to be able to enhance memory formation and cognition in otherwise normal rats. Limited studies and no bioactive currently found to be causative, but these occur with reasonable oral doses (50-100mg/kg in rats correlates to 8-16mg/kg in humans; this may simply be a few fruits)
+
 
 3.3
 
@@ -296,7 +315,9 @@ The methanolic extract of Morus Alba may possess anti-dopaminergic effects, as i
 
 Excessive usage of haloperidol (dopamine D2 antagonist) is associated with excitotoxicity, which Morus Alba appears to attenuate in vivo.[76]
 
+
 Possible anti-dopaminergic effects which may be tied into neuroprotection; practical relevance unknown
+
 
 3.5
 
@@ -306,7 +327,9 @@ In a chronic restraint stress model, the ethyl acetate fraction of Morus Alba (2
 
 Elsewhere, Morus Alba without stress at the same doses appears to have an anxiolytic effect (reductions in anxiety), with 100-200mg/kg having similar potency to Diazepam at 1mg/kg.[78]
 
+
 Possible adaptogenic and anxiety reducing effects of similar potency to 1mg/kg Diazepam, repeated studies but all by the same research group
+
 
 4.
 
@@ -318,7 +341,9 @@ Absorption
 
 Morus Alba appears to inhibit pancreatic lipase with an IC50 of 3.41+/-0.67mg/L,[79] although none appear to be present in the leaves.[80] Another study noted an IC50 of 244.94+/-83.96ug/mL, which was effectively the weakest herb tested.[81]
 
+
 Technically can inhibit fatty acid absorption, is comparatively very weak at doing so
+
 
 4.2
 
@@ -328,7 +353,9 @@ Intravenous administration of the methanolic extract of the root bark leads to d
 
 When the water extract is given to mice fed an atherogenic diet, an attenuation of the development of high blood pressure occurs with 100-250mg/kg over 14 weeks; this study noted that both doses outperformed the active control fluvastatin and reduced blood pressure to lower than the control group.[85]
 
+
 May preserve blood pressure in disease states (diabetes or atherosclerosis) where blood pressure is increased
+
 
 4.3
 
@@ -338,7 +365,9 @@ A study in HUVEC cells (endothelial) with the leaves of Morus Alba at 400mcg/mL 
 
 In LDLR-/- mice prone to atherosclerotic lesions fed 3% of the diet as Mulberry leaf powder for 8 weeks, atherosclerotic lesions were greatly reduced and partly attributed to the Quercetin content of the leaves (with 0.5% Quercetin also reducing lesions, and 0.5% Quercetin-3,6-malonylglucoside being intermediate in potency to the high dose Mulberry and equal dose Quercetin).[86] As the mulberry group had 0.4% Quercetin content overall yet outperformed the other groups, it appears other bioactives are at play.[86] The entire leaf extract itself appears to reduce the atherogenic index to the same level as Fluvastatin (3mg/kg), thought to be related to mixed anti-oxidant and anti-inflammatory effects but with a concomitant increase in HDL-C.[85]
 
+
 Appears to protect against atheroscelrosis, with the bioactive of Quercetin-3,6-Malonylglucose playing a major role (more potent than the Quercetin aglycone). Relative to other plants, this is a respectable potency in animal models but lacks human studies
+
 
 4.4
 
@@ -348,7 +377,9 @@ In vitro, Morusinol can inhibit clotting with IC50 values of 13.4+/-5.4ug/mL for
 
 Morusinol, a prenylated flavonoid given at 20mg/kg bodyweight, occlusion time was prolonged 90% over control.[27] Compared to the active control of Aspirin at 20mg/kg, Morusinol significantly outperformed the ability of 30mg/kg Aspirin to increase occlusion time by 30%.[27]
 
+
 Limited evidence with little practical application thereof, but Morusinol seems more potent than an equal dose of Aspirin at inhibiting blood clotting
+
 
 4.5
 
@@ -358,13 +389,17 @@ Mechanistically, a study noting lipase inhibition (preventing absorption of fatt
 
 Morus Alba can activate both α1 and α2 isoforms of AMPK in skeletal muscle (a possible anti-diabetic and anti-lipidemic mechanism), which noted rapid activation to 1.6-fold higher than baseline after incubation with 4.28mg/mL Morus Alba and up to 1.9-fold at 14.3mg/mL.[89]
 
+
 Seems to have weak effects on preventing lipid and cholesterol uptake and weak effects in attenuating cholesterol synthesis; may reduce lipids via AMPK activation
+
 
 A study in LDLR-/- mice noted that total cholesterol was reduced (and LDL trended to be reduced) with 3% Mulberry leaf extract or 0.5% of the diet as Quercetin-3,6-Malonylglucoside, but not with 0.5% Quercetin, over 8 weeks of supplementation.[86] 
 
 In otherwise normal rats given an atherogenic diet, the inclusion of 100-250mg/kg Morus Alba water extract can slightly attenuate the increases in total cholesterol, LDL-C, and Triglycerides while promoting HDL-C levels to above that of control and atherogenic control.[85] This increase in HDL-C was the reason Morus Alba rivalled the active control Fluvastatin on the atherogenic index, since Fluvastatin had greater reductions in the other three parameters.[85] Other studies using high-fat fed rats (which then get hyperlipidemia) note reductions in serum triglycerides and LDL-C, with no seeming effect on rats with normal lipid profiles.[90]
 
+
 Decent efficacy in reducing blood lipids, although the increase in HDL-C ('good' cholesterol) appears to be larger than other herbs despite the reductions seen in LDL-C and Total Cholesterol being less potent
+
 
 5.
 
@@ -378,7 +413,9 @@ In assessing compounds that may have anti-obese effects, 20uM of various prenyla
 
 Morus Alba in general can increase glucose uptake into fat cells in a concentration-dependent manner, with 5-45mcg/mL increasing glucose uptake (via GLUT4 translocation) by 31-54%, which are mediated via PI3K activation (possibly insulin-dependent) and may be due to gallic acid.[93]
 
+
 Appears to beneficially influence gene expression in the liver and may increase glucose uptake into fat cells (without enhancing their proliferation, which normally occurs after glucose uptake)
+
 
 5.2
 
@@ -390,7 +427,9 @@ The ethanolic extract of Morus Alba has been shown to inhibit MCH-induced calciu
 
 Another study in rats measuring food intake replicated a suppression of food intake when the 50% ethanolic leaf extract was used at either 3% or 6% of the diet, but it was not to a degree where body weight after 60 days was significantly different (despite being lower in the first few weeks).[97]
 
+
 Limited evidence, but there appears to be a bioactive in Morus Alba that acts as an MCH antagonist and reduces food intake. This has been noted to occur with high dose ethanolic extracts of Morus Alba in studies intentionally looking for how it affects food intake and by studies who merely noted it as a side-effect of treatment
+
 
 5.3
 
@@ -400,7 +439,9 @@ One study using 3% or 6% ethanolic leaf extract over 60 days noted that treated 
 
 One study using genetically obese mice given a mixture of Morus Alba, Artemisia capillaris, and Melissa officinalis (found to have anti-angiogenic properties by the same researchers[98]) noted reduced rate of weight gain associated with the mixture of herbs over 5 weeks and thought to be due to inhibiting angiogenesis; dosage of active ingredients not disclosed.[99]
 
+
 Some beneficial trends noted in body fat disposition, but they are unreliable and limited; there are numerous studies noting no significant influence on body weight when food intake is not affected. It is possible weight loss only occurs with Morus Alba secondary to reduced food intake
+
 
 6.
 
@@ -418,9 +459,12 @@ The former study notes that Morus Alba outperformed other herbs such as Clitoria
 
 When looking at bioactives that may underlie the effects above, it is thought that isoquercitrin and astragalin may play roles on the α-glucosidase enzymes.[47] D-Fagomine (found in water extracts of the leaves) is also known to be able to attenuate the rate of glucose absorption due to its structural similarity.[106] This also applies to the structurally related iminosugar 1-deoxynojirimycin, which is an α-glucoside inhibitor[107] of comparable potency (IC50 values) to Arcabose (with 1-deoxynojirimycin also inhibiting α-amylase, but much weaker than Arcabose).[101]
 
+
 May reduce or slow some carbohydrate absorption from disaccharides (sucrose and maltose) and shows some synergism with Hibiscus sabdariffa in doing so. A few ingredients may be causative here, but most of the inhibition appears to be related to 1-deoxynojirimycin (an iminosugar)
 
+
 Relative to other herbal options, Morus Alba (particularly teas made from the stems and leaves, as they have a higher 1-deoxynojirimycin content than the fruits) seems to be a respectable option for reducing the absorption of carbohydrates (although its effects on starches and lactose are subpar relative to its efficacy in inhibiting other disaccharides)
+
 
 6.2
 
@@ -430,7 +474,9 @@ A hot water extraction of Morus Alba leaves (high Loliolide content) appears to 
 
 Quercetin-3,6-Malonylglucoside (Q3MG) appears to enhance the activity of glucokinase (2.81-fold) and ATP Citrate Lyase (2.27-fold) after oral ingestion at 0.7mg/kg in rats fed a high fat diet, relative to high fat control, over 8 weeks.[108] This study noted, however, that PGC-1a gene activity was reduced 2.19-fold, Heat shock protein 1B down 9.53-fold, and that Cdkn1A activity was reduced 10.19 fold (high magnitude changes that should be noted, with practical relevance unknown).[108]
 
+
 May have some anti-diabetic effects indpendent of inhibiting absorption of carbohydrates, but these do not appear to be too notable
+
 
 6.3
 
@@ -446,7 +492,9 @@ These effects extend to normal male Wistar rats given Morus Alba, where the etha
 
 Studies that use normal rats but fed a high fat diet note that 1% Mulberries (0.02% 1-deoxynojirimycin) or an equivalent amount of Quercetin-3,6-Malonylglucoside (0.01%; 0.7mg/kg) for 8 weeks reduce plasma glucose (20.4% Mulberry; 31% Q3MG), free fatty acids (Q3MG only; 44%) and LDL-C (Q3MG only; 70%) relative to high fat control; no influence on body weight was noted in either group, and no influence on food intake in the Q3MG group (Mulberry ate 21% more, but did not appear to gain weight).[108] 
 
+
 A large amount of repeated studies in rats showing reductions in blood glucose in all apparent states (food or toxin-induced diabetes as well as normal healthy rats) where Morus Alba and primarily its 1-deoxynojirimycin content reduce fasting blood glucose (diabetic rats) or post-prandial spikes in glucose from ingested food (diabetic and normal rats)
+
 
 7.
 
@@ -462,7 +510,9 @@ Arylbenzofuran compounds (usually named 'Moracin' in this plant) and prenylated 
 
 Sanggenons C, E, and O appear to inhibit COX-1 and COX-2 with potencies ranging from 10-14μM and 40-50μM, respectively, with Moracin-structured compounds being ineffective.[22] which may be downstream of NF-kB inhibition (seen with C and O).[116]
 
+
 Bioactives have, in vitro, fairly potent anti-inflammatory properties; more potent than many nutraceuticals but they do not appear to be among the most potent (Thunder God Vine and Feverfew appear to still be more effective on these parameters)
+
 
 7.2
 
@@ -470,7 +520,9 @@ Macrophages
 
 In macrophages, two pyrrole compounds (2-formyl-5-(hydroxymethyl)-1H-pyrrole-1-butanoic acid and 2-formyl-5-(methoxymethyl)-1H-pyrrole-1-butanoic acid) were able to activate macrophages in the concentration range of 10-100uM as assessed by nitric oxide release, phagocytic activity, and release of cytokines (IL-12 and TNF-α); the potency was lesser than that of LPS-induced activity and no group altered cell viability.[23]
 
+
 Some compounds may have immunostimulatory properties, with practical potency of these unknown
+
 
 7.3
 
@@ -478,7 +530,9 @@ Joint Health
 
 In a database search for ADAMTS1 inhibitors, Kuwanon P and X as well as both albafuran C and mulberrofuran J from Morus Alba where able to inhibit the enzyme in bacterial-expressed cultures and human cell cultures with IC50 values of 5.5-7.6uM, 15.5-16.2uM, 10.7-11.9uM, and 18.4-25.4uM respectively.[117] ADAMTS1 is a protein complex that has catalytic activities towards proteoglycans such as aggrecan, versican and brevican[118] which are major components of articular cartilage;[119][120] its inhibition is throught to be therapeutic for arthritis.[117]
 
+
 Therapeutic efficacy in arthritis not yet known, but components of White Mulberry appear to be theoretically therapeutic by a novel mechanism
+
 
 7.4
 
@@ -500,7 +554,9 @@ The ethanolic extract of the branch of Morus Alba between 10-40mg/kg in mice wit
 
 Mori Alba showed comparable efficacy to the active control of 100mg/kg probenecid, and was associated with normalizing the upregulation of mURAT1 and mGLUT9 mRNA levels and the downregulation of mOAT1 (all of which are perturbed in hyperuricemia and involved in its regulation[124][125]); along these lines, Morus Alba failed to reduce serum uric acid in normal mice, and preserved renal function in mice with high blood uric acid.[3]
 
+
 May attenuate increases in uric acid by promoting its urinary excretion
+
 
 9.
 
@@ -542,7 +598,9 @@ Mulberry extracts appears to have similar tyrosinase-inhibiting potential as hyd
 
 In a trail on Melasma in persons with Fitzpatrick phototypes III-IV (dark white to light brown skin tone) advised to apply a 75% Mulberry oil (in coconut oil base) to their problematic skin twice daily for a period of 8 weeks noted significant improvements on symptoms of Melasma as assessed by both the Melasma Area and Severity Index (MASI) and Mexameter readings; quality of life improved with Mulberry oil but not placebo.[131]
 
+
 The only human study on Morus Alba at this time is one using the oils topically, where the anti-tyrosinase and skin whitening capabilities were demonstrated to be better than placebo
+
 
 11.
 
@@ -556,7 +614,9 @@ Administration of the water extract of Mori Albae at 858.2+/-29.5mg/kg bodyweigh
 
 A compound in Morus Alba known as albosteroid also appears to exert protective effects against ethanol-induced gastric ulcers in a dose-dependent manner.[30]
 
+
 May increase the metabolism rate of alcohol when ingested before alcohol or preserve the serum level of alcohol when coingested (due to being less effective at reducing serum ethanolic and merely attenuates a further increase). Note that serum levels correlate with the state of drunk, and preloading Morus Alba (if effective in reducing the perception of drunk; no human evidence on this) may require more alcohol to 'get the job done'
+
 
 11.2
 
@@ -572,7 +632,9 @@ Roselle
 
 Roselle (Hibiscus sabdariffa) appears to be synergistic with Morus Alba in inhibiting carbohydrate digestive enzymes in vitro, where their individual inhibitory potential on pancreatic α-amylase at 2mg/mL was 18.99+/-1.39% and 1.17+/-0.74% (respectively) and the combination was 65.75+/-0.60% inhibition; this synergism with roselle extends to Chrysanthemum Indicus and Aegle marmelos.[56]
 
+
 Hibiscus Sabdariffa appears to be synergistic with a few herbs in inhibiting pancreatic amylase activity (starch digestive enzyme), of which Morus Alba is one of them
+
 
 11.4
 
@@ -580,7 +642,9 @@ Piracetam
 
 A study using the bioactive Morin noted that consumption og 10mg/kg Morin for 7 days prior to a Piracetam load of 50mg/kg was able to increase the subsequent Piracetam AUC by approximately 50% and the Cmax of Piracetam by 45%, credited to inhibition of CYP3A4 and P-Gyp.[134] A single dose of Morin was unable to mimic these effects, and this oral dose of Morin can be attained with 813mg/kg of the bark (highest Morin concentration) or more practically with ethanolic extracts, which have been noted to concentration Morin up to 0.5mg/g[3] (and thus would require 20mg/kg).
 
+
 Possible synergism with a diet rich in Morin-containing foods such as Morus Alba with Piracetam, but the oral dose required may denote supplementation of Morin is needed rather than food sources (which are comparatively low to the oral dose used)
+
 
 11.5
 

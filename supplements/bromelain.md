@@ -178,7 +178,9 @@ Circulating concentrations of 5000pg/mL enzymatically active bromelain have been
 
 While circulating in serum, Bromelain associates with the anti-proteinases alpha-2-macroglobulin and antichymotrypain.[8] Binding to these anti-proteinases reduces the enzymatic activity of bromelain, but does not abolish it.[9]
 
+
 Despite being a quaternary protein in size, Bromelain appears to be absorbed and enzymatically active.
+
 
 2.3
 
@@ -222,7 +224,9 @@ Elimination of the receptor proteins CD128a/CXCR1 and CD128b/CXCR2, receptors fo
 
 Bromelain also appears to inhibit signal transduction in T0 cells that results in inhibition of ERK2 phosphorylation and p21ras activation[22] and can inhibit the COX2 enzyme as well as reduce activation of NF-kB.[23][24]
 
+
 In general, it appears Bromelain eliminates the receptors on immune cells that respond to (mostly) pro-inflammatory signals. Without this needed junction in signalling, pro-inflammation doesn't occur as much and a relative state of anti-inflammation appears to occur.
+
 
 4.2
 
@@ -236,7 +240,9 @@ Inflammation and Exercise
 
 One study conducted with protease supplementation (Bromelain and Papain) found that protease enzymes circulating in serum were able to attenuate muscle damage associated with exercise and preserve power output over time.[31] These effects have been noted before with protease supplementation in general, and seems to be more due to that property rather than Bromelain per se.[32] Protections seems to be confered against ischemia-reperfusion injury as well, although the study in question here is confounded with trypsin and rutin ingestion.[33]
 
+
 Preliminary research suggests it can reduce markers of muscle breakdown and soreness, while preserving power output. Possibly a good idea for sports athletes, although it might have to be pre-loaded
+
 
 4.4
 
@@ -280,7 +286,9 @@ Atherogenesis
 
 Bromelain appears to have the ability to prevent macrophages (an immune cell) from turning into foam cells via eliminating the CD36 receptor.[19] Foam cells are pro-atherogenic immune cells which contribute to arterial plaque formation.[44]
 
+
 Overall, Bromelain has many mechanisms which suggest it can be quite a heart healthy compound; mostly acting in blood vessels rather than cardiac tissue. The studies conducted on humans, however, are of lesser quality and have not since been replicated
+
 
 7.
 
@@ -308,7 +316,9 @@ PPARγ appears to have reduced phosphorylation via Akt, although Akt phorphoryla
 
 Apoptosis of mature cells was seen as increasingly dose-dependent with minimal effects at 10ug/mL, moderate effects at the inhibitory saturation point of 50ugmL, and significnat apoptosis at 100ug/mL.[47]
 
+
 A single but sexy in vitro study; too soon to draw any conclusions, but it looks quite interesting
+
 
 9.
 
@@ -316,7 +326,9 @@ Interactions with Sinuses
 
 Bromelain may reduce complications with acute sinusitis known as a 'stuffed nose' to a greater extent than placebo.[48][49][50] One study conducted noted that 83% of persons using bromelain had reductions in nasal inflammation as compared to 52% of the placebo.[51] Bromelain appears to reduce the length it takes to alleviate sinusitis significantly, yet combining bromelain with traditional therapy for sinusitis appears to reduce the efficacy of both.[52]
 
+
 Might clear your nose if you have the sniffles
+
 
 10.
 

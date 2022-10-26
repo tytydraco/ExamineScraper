@@ -160,7 +160,9 @@ The main traditional usages of Bacopa Monnieri are for anxiety, depression, lear
 
 Bacopa Monnieri is commonly consumed with some form of animal fat, which goes in line with the herb's fat solubility. Many times, it is paired with the herb Centella Asiatica, known as Mandookparni or Gotu Kola. The pair is sometimes mixed in milk and drank, which is supposedly a common method of delivery for children.
 
+
 A general 'Brain Tonic' that is highly heralded in Ayurveda
+
 
 1.2
 
@@ -180,7 +182,9 @@ All bacosides and bacopasides share a similar base structure, but vary due to di
 
 Of these, the most bioactive components appear to be Bacoside A3, Bacopaside II, and both (jujubogenin and pseudojujubogenin) Bacosasaponin Cs.[5][17]
 
+
 The Bacosides A and B are what you should be concerned about putting in your mouth, but in the body they get metabolized into a variety of components that all appear to have bioactivities. Some sterols and flavonoids also exist alongside the Bacosides, but their significance is unknown
+
 
 1.3
 
@@ -188,7 +192,9 @@ Stability
 
 Temperatures of 40-60°C (104-140°F) appear to be able to slowly degrade Bacopasides over time, whereas heat exposure up to 80°C (176°F) can rapidly decrease Bacopaside content.[18] Proper storage of Bacopa Monnieri is at 30°C (86°F) or less, with a relative humidity of 65% or less.[15]
 
+
 Not too stable around heat, advisable to keep in a cool and dark location
+
 
 2.
 
@@ -200,7 +206,9 @@ Stomach
 
 In the stomach and at doses ranging from 10-100mg/kg bodyweight, Bacopa Monnieri extract (via the Bacoside A component) appears to protect against ulcers induced by drugs (aspirin, alcohol), stress such as cold-shock[19] and Heliobacter Pylori bacteria.[20] Some repair of the stomach lining has been noted.[19][21]
 
+
 Appears to have slight protective effects against ulcer formation from all tested insults, and might be able to regenerate stomach lining a bit
+
 
 2.2
 
@@ -210,7 +218,9 @@ When tested in vitro, bacopa monnieri extract has been noted to have noncompetit
 
 When tested in isolation, select bacosides (bacoside A and A3, bacopaside I, II, and X, and bacopasaponin C) failed to have any inhibitory actions towards any CYP enzyme.[22]
 
+
 There is relatively potent inhibition towards three CYP enzymes known to mediate metabolism of some drugs, and the inhibition is thought to be practically relevant in the intestines where bacopa can accumulate without absorption. At this moment in time the exact molecules mediating this inhibition are not known
+
 
 3.
 
@@ -224,9 +234,12 @@ Bacopa Monnieri extract may be able to increase memory formation by the enzyme T
 
 Additionally, dendritic intersections and branching points in neurons have been noted to be proliferated with Bacopa Monnieri supplementation after 4 and 6 weeks, but failed to have any changes at 2 weeks.[26] This neuronal growth effect occurs in adult rats[27] and younger rats undergoing growth spurts,[28] and occur in areas of the brain known to be involved with memory, such as the hippocampus[26] and the basolateral amygdala.[28][27] These changes coincide with memory enhancement seen in human studies, where usage for under 2 weeks is not associated with any cognitive enhancement but additional usage is; implicating dendritic enhancement as a probable explanation for memory enhancement.
 
+
 Mechanism of memory enhancement has not been completely solidified, but appears to be related to either enhancing neuronal transmission (via enhancing dendritic proliferation) or through interactions with the serotonergic system (which then influence acetylcholinergic transmission). These effects do not appear to require cognitive decline or the elderly to work, and thus suggest Bacopa can benefit all ages
 
+
 Enhancing neuronal transmission and proliferating dendrites may enhance memory map formation
+
 
 Bacopa, in healthy persons, has been successful in beneficially affecting the retention of learned information. It may be able to reduce the rate of short term forgetting (ie. increase encoding of information)[29] while increasing retention speeds.[30] In addition to rate of learning, Bacopa Monnieri shows some promise at 300mg daily for improving memory, verbal learning and delayed recall.[31] This has been repeated in healthy persons between 18 and 60 with two doses of 150mg daily.[32]
 
@@ -236,7 +249,9 @@ Not all research is conclusively solid, as some studies do note no difference fr
 
 Many of these studies have been subject to Meta-Analysis, where it was concluded that Bacopa shows preliminary efficacy in improving general memory (9 out of 17 measured parameters) with little influence on other parameters of cognition.[38] In a study analyzing the comparative effect sizes of Bacopa, Panax Ginseng, and Modafinil it was found that although Modafinil and Bacopa were both potent they were at different parameters; Modafinil increasing speed of information processing much better than Bacopa, which tended to reliably increase cognition after chronic dosing.[39]
 
+
 There is a surprising amount of human interventions on Bacopa Monnieri for being an Ayurvertic herb, and the majority of them note positive results. No longer term studies have been done, but the evidence at the time is very promising and is in line with the traditional claims of Bacopa Monnieri being a memory enhancer
+
 
 Beyond enhancing memory, Bacopa has been implicated numerous times in reducing amnesia (memory loss due to stressor) via a collection of mechanisms.[24][25][40][41][42]
 
@@ -256,7 +271,9 @@ Bacopa has some implications with serotonergic signalling in models of epilepsy 
 
 Beyond that, Bacopa Monnieri has been found to increase serotonin levels in the hippocampus of treated animals[23] [1] as well as increasing the Serotonin Transporter (SERT).[23] At 20-40mg/kg bodyweight Bacopa, Bacopa Monnieri appeared to increase SERT mRNA expression, but both the increases in SERT expression, Tryptophan Hydroxylase activity, and serotonin levels appear to decline with age, where rats that are 53 days postnatal do not experience increases in either, whereas 19 and 27 days postnatal still experience increases.[23] In this study, memory was not tested across the age spans.
 
+
 Appears to increase serotonin content and effects, may be related to memory formation, and its effects appear to be sensitive to age
+
 
 3.4
 
@@ -268,7 +285,9 @@ Treatment with Bacopa Monnieri at 40-80mg/kg bodyweight in rats subject to both 
 
 Bacopa has also shown anti-dopaminergic effects in the striatum (location associated with caffeine and morphine, and highly associated with dopamine induced locomotion) and prevented surges in dopamine when fed at a low dose of 5-15mg/kg bodyweight daily.[48] This anti-dopaminergic effect may be useful in situations of drug dependence[48] Additionally, one study measuring levels of dopamine in the hindbrain noted statistically significant (91% of control).[23]
 
+
 Although no mechanisms have been found out yet, it appears Bacopa Monnieri may nicely regulate dopamine. Although theoretically it could work against compounds that induce a dopamine spike in the striatum such as caffeine, this negation may reduce drug dependence and dopamine-induced locomotion (running in circles from caffeine)
+
 
 3.5
 
@@ -278,7 +297,9 @@ One study measuring hindbrain levels of acetylcholine noted an increase to 110% 
 
 It has been implicated in reversing amnesia induced by anti-cholinergic drugs (scopolamine) at 120mg/kg oral ingestion, both retrograde and anterograde amnesia, which is the first study to link previous literature on amnesia to cholinergic transmission.[25] Interestingly, this study ran for 7 days only and did not note any benefit to normal acquisition or retrieval of memory (in line with previous reports suggesting up to 2-4 weeks are needed for effects), suggesting the mechanisms behind reversing amnesia are distinct from that of inducing memory promotion.[25] Other protective effects, such as a decrease in neuronal death in an animal model of Alzheimer's disease, have been noted.[50]
 
+
 Although Bacopa Monnieri technically does increase acetylcholine and protect from Alzheimer's disease, there are not too many studies investigating these interactions and the observed interactions are fairly weak. Acetylcholine remains a possible explanation for some effects, but is not a promising avenue of research for Bacopa Monnieri. Protective effects seen may be secondary to anti-oxidant effects of Bacopa Monnieri
+
 
 3.6
 
@@ -286,11 +307,15 @@ Glutaminergic Neurotransmission
 
 40mg/kg of bacopa monnieri ethanolic extract did not appear to significantly influence levels of glutamate (despite beneficially influencing memory formation).[23] Furthermore, bacopa monnieri does not appear to protect neurons from glutamate-induced neurotoxicity at concentrations able to preserve the cell from beta-amyloid toxicity.[51]
 
+
 When looking at levels of glutamate itself, there does not appear to be any significant modifications relative to control
+
 
 In a rat model of schizophrenia, administration of bacopa was able to increase concentrations of the vesicular glutamate transporter type 1 (VGLUT1) which was associated with improvements in the discrimination ratio[52] and in epileptic rats the decrease in the metabotropic glutamate-8 receptor mRNA expression[53] and NMDA R1[54] are nearly normalized to control.
 
+
 There appear to be interactions with glutamate receptors and transporters, although due to all evidence currently taking place in models of cognitive ailments the interactions of Bacopa and glutaminergic neurotransmission in otherwise healthy persons is uncertain
+
 
 3.7
 
@@ -314,7 +339,9 @@ Bacopa Monnieri, at 40mg/kg bodyweight in rats, has been noted to modulate the s
 
 When measuring PROD (7-pentoxyresoruﬁn-o-dealkylase) and EROD (7-ethoxyresoruﬁn-o-deethylase), Bacopa monnieri at 20 and 40mg/kg seem to elevate it to the same extent that stress does, but Bacopa ingested during stress appears to return PROD levels closer to baseline; reasons unknown.[8] In looking at neurotransmitter levels, Bacopa Monneiri (40-80mg/kg) is able to reduce changes seen with dopamine and serotonin when a short-term stress is present, but is ineffective at preventing a rise in adrenaline;[46] in chronic stress, Bacopa can prevent reductions in serotonin, dopamine, and adrenaline[46] and was equally effective as was American ginseng (Panax quniquefolium) at 100mg/kg, similar to their comparisons on depression and anxiety.[66]
 
+
 Bacopa Monnieri appears to be effective at reducing the biochemical effects of a perceived stress, assuring its status as an adaptogen. It seems to be protective against acute and chronic stress as well
+
 
 At least one acute study using 320mg Bacopa Monneiri extract (CDRI 08) has noted that Bacopa acutely enhanced performance in a Cognitive Demand Battery (CDB) of tests. This study noted that while Bacopa failed to acutely influence fatigue or stress at this dose it attenuated the rate of performance decline associated with CDB (usually attributed to neural fatigue).[67]
 
@@ -328,7 +355,9 @@ Bacopa Monnieri supplementation can reduce oxidative damage from aluminum and pr
 
 There was a past contamination of mercury related to Bacopa Monnieri, but is atypical;[74] Bacopa Monnieri supplements do not tend to have mercury contamination.
 
+
 Effective in reducing the oxidative and adverse effects of minerals on the brain, specifically iron overload; there is a notion that Bacopa has mercury in it, and one crop in the past did. Irrelevant point now, as aside from it not being a common occurrence Bacopa also protects from mercury-induced neural damage
+
 
 3.10
 
@@ -366,7 +395,9 @@ Bacopa Monnieri has traditionally been given to children to boost brain power, a
 
 In studies on pre-pubertal animals, mice fed Bacopa at 0.5-1% of the diet (highest dose that mice would eat) for 4 weeks[7] showed increases in anti-oxidant defense enzymes (Catalase by 26%, Glutathoine Peroxidase by 22%, SOD by 21%) and reduced levels of pro-oxidant compounds like MDA (15-21%) ROS (18-25%) and hydroperoxide (34-40%); these reductions in oxidants occurred in the cytosol and the mitochondria of tested neurons.[7] The neurons were protected from toxic insult by 3-NPA, and no noticeable toxicity was noted in these mice.[7] The memory-enhancing effects were also seen when orally administered to 10-day old rat pups at 20, 40, and 80mg/kg bodyweight with the extract at near 10% Bacosides A and B for 6 weeks were able to increase memorization of maze patterns and improve cognition more than controls, but 40mg/kg was needed at minimum as 20mg/kg was not statistically significant.[84]
 
+
 Limited studies on children and youth; the one human study really cannot answer any question on Bacopa itself due to confounds. It appears to be effective in children at the same oral dose, efficacy, and mechanisms as adults and the elderly; safety is understudied, but no adverse effects were reported in the one human study and it has traditionally been given to children at 300mg dry leaves daily
+
 
 4.
 
@@ -380,7 +411,9 @@ At an oral dose of 20-100mg/kg bodyweight in rats, Bacopa Monnieri extract does 
 
 One study noted that Bacosine, a compound in Bacopa Monnieri that is not one of the standard Bacosides (A and B) might have insulin mimetic properties.[10] Oral intake of 10-25mg/kg bodyweight Bacosine (not whole bacopa) in alloxan-induced diabetic rats only, with no changes in non-diabetic rats.[10] Subsequently, this reduced levels of MDA (from alloxan) and hemoglobin glycosylation (from oxidation), the latter with an IC50 of 7.44ug/mL which is comparable to alpha-tocopherol, the main Vitamin E molecule. These latter effects are attributed to Bacopa's anti-oxidant ability. The effects of Bacosine acting like insulin may be dependent on either diabetes, or on higher than basal blood sugar (as the cited study was performed in a fasted state).[10] Regardless, Bacosine is around a 0.12% concentration by weight in the dry leaves, making an oral dose of 10-25mg/kg bodyweight highly unlikely.
 
+
 Probably irrelevant given the low content of Bacosine in Bacopa Monnieri
+
 
 5.
 
@@ -408,7 +441,9 @@ Male Fertility
 
 A study on male mice with 250mg/kg bodyweight Bacopa noted that it was able to transiently suppress fertility when it was being taken over 28 and 56 days (two times points of testing), sperm parameters appeared to be unanimously depressed.[85] When measured in the cauda epididymidis, reductions were seen in sperm motility (56% of control), spermatozoa count (54% of control), and viability (58% of control); the number of histologically abnormal spermatozoa increased significantly by 2.6 fold.[85] Interestingly, Libido was unaffected and testosterone was not adversely affected either, and although all effects were seen at the first measurement period at 28 days, all parameters normalized 56 days after treatment (only tested period).[85] These effects on sperm are similar to what is seen with Curcuma Longa (source of Curcumin) at 600mg/kg, suggesting the two may be complementary in being anti-fertility agents.[87]
 
+
 Possible anti-fertility effects via hindering sperm function and count, but does not influence testosterone or libido
+
 
 7.
 
@@ -428,7 +463,9 @@ The results appear to be mediated through nuclear translocation of NRF2 and unbi
 
 This study was partially funded by Protandim's parent company, LifeVantage Corp.[88]
 
+
 So, there is synergism amongst these nutrients somehow. No clue exactly which ones and by what mechanisms. Bacopa seems to be lesser important than the other ingredients though.
+
 
 7.2
 
@@ -464,5 +501,7 @@ Humans
 
 One study using 300mg daily in older adults noted more gastrointestinal side-effects (cramping and nausea) than placebo.[31] Other studies also note upset stomachs that are routinely different than placebo[29][91] and one study noted increased diarrhea.[32] At this moment in time, these remain the only adverse effect noted in humans. No significant case studies exist.
 
+
 Bacopa appears to be able to cause an upset stomach at commonly consumed dosages, nothing more significant has been noted aside from the adverse taste
+
 

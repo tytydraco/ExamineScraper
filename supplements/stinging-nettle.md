@@ -94,7 +94,9 @@ One rat study noted increases in serum testosterone associated with Stinging Net
 
 Also, lignans from Stinging Nettle may interfere with Sex-Hormone Binding Globulin (SHBG) and prevent it from associated with androgens and estrogens. A 10% hydroalcoholic extract can decrease binding of DHT to SHBG by up to 67%, and slightly lesser effects are seen with aqueous extracts.[16][17] The inhibition appears to be dose dependent in vitro.[18] Isolated lignans retain this potency, inhibiting and even displacing DHT from SHGB by 60%(Secoisolariciresinol), 73%(enterofuran) and 95%((-)-3,4-divanillyltetrahydrofuran).[1]
 
+
 Stinging Nettle can plausibly increase testosterone, but the one rat study conducted was not geared to answer this question and the human study came back negative. At this moment in time, there is no good evidence to suggest Stinging Nettle can increase testosterone levels
+
 
 3.
 
@@ -135,7 +137,9 @@ One study looking at osteoarthritis investigated oral ingestion of Stinging Nett
 
 Mixed effects have been seen in regards to biomarkers of inflammation. One study noted a decrease in IL-6 with oral administration in type II diabetics[32] while another noted an increase in IL-6 when baseline levels were low to normal.[33] Additionally, the former study noted no significant effects on TNF-a[32] while the latter noted an impaired secretion of TNF-a in response to LPS administration.[33] It is plausible Stinging Nettle may be immunomodulatory, but currently this claim is unsubstantiated.
 
+
 Possesses anti-inflammatory potential, but the studies currently done in humans are lacklustre and vary too widely in their methods of application to be compared. More studies need to be done with some dosage consistency.
+
 
 5.
 

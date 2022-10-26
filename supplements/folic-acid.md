@@ -190,11 +190,15 @@ When THF is formed it can be interchangeably converted between three forms. When
 
 The newly formed 5-MTHF has a pivotal role in being used by methionine synthase to convert homocysteine back into methionine. Once consumed, 5-MTHF then gets reverted back into tetrahydrofolate (THF) and can be used again in the same process. This is also the stage of the process which leads to folate being known to work with Vitamin B12 as the aforementioned methionine synthase enzyme is B12-dependent.[4]
 
+
 Folate and folic acid eventually produce a metabolite known as tetrahydrofolate (THF) which then cycles between methylenetetrahydrofolate and the final product 5-MTHF. 5-MTHF is used in methionine synthase to recycle homocysteine back into methionine and, in the process, gets turned back into THF to return to this cycle
+
 
 S-Adenosyl Methionine is produced elsewhere by combining adenosine and L-methionine by the methionine adenosyltransferase (MAT) enzyme, highly prominent in the liver alongside the aforemented enzymes handling folate derivatives.[5] Once SAMe is consumed in methylation it is converted into S-adenosylhomocystine, which is then divided back into adenosine and homocysteine by S-adenosylhomocysteine hydrolase;[6] the homocysteine is converted back into L-methionine due to the aforementioned 5-MTHFR-dependent methionine synthase enzyme to reenter the SAMe production cycle.
 
+
 While S-adenosylmethionine is produced by another enzymatic cycle, known as the SAM cycle, it eventually ends with production of homocysteine and relies on the once-carbon cycle and 5-MTHF to recycle the homocysteine back into methionine to continue the SAM cycle
+
 
 1.4
 
@@ -204,11 +208,15 @@ The recommended dietary intake of folic acid (as either folic acid in supplement
 
 65 μg DFE for infants aged 0-6 months (AI value)80 μg DFE for infants aged 7-12 months (AI value)120 μg DFE for children aged 1-3 years160 μg DFE for children aged 4-8 years300 μg DFE for children aged 9-13 years400 μg DFE for adolescents above the age of 14 and for adults of all ages'DFE' refers to dietary folate equivalents, a measurement used to simultaneously measure the high absorption of folic acid used in food fortification with the lesser (50%) absorption of whole folate normally occurring in foods. Specifically 1 μg DFE is equivalent to all of the following; 1 μg of folate found in food, 0.6 μg folic acid taken with a meal, and 0.5 μg folic acid taken on an empty stomach.[7]
 
+
 While younger people need less folic acid equivalents (DFEs) adults of both sexes and all ages require a steady intake of 400 μg DFEs each day
+
 
 Numerous countries have incorporated fortification of folic acid into wheat flour as a wide-spread preventative measure against neural tube defects (NTDs) in infants which has proven effective; NTDs form in the embryonic stage of fetal development and many women who are not planning on children or without financial avenues to get folic acid supplementation could simply consume grain products.[8]
 
+
 Many countries in the world including numerous western nations (Great Britain, United States of America, Canada) fortify wheat grain with varying levels of folic acid, usually around 150μg folic acid per 100g wheat grain
+
 
 1.5
 
@@ -224,13 +232,17 @@ The main safety concern associated with high doses of folic acid supplementation
 
 When it comes to toxicity of folic acid/folate, one study found that 15mg supplemental folate over one month was associated with mental, sleep, and gastrointestinal side effects[15] while other studies using similarly high or even more drastic doses have failed to find evidence of toxicity.[16][17][18][19][20]
 
+
 The Tolerable Upper Limit (TUL) of folic acid/folate is set at 250% of the RDA for adults. This does not appear to be a direct reflection of its toxicity but rather a preventative measure to make sure folic acid intake does not become detrimental if somebody becomes insufficient in Vitamin B12.
+
 
 Numerous studies suggest that serum folic acid levels could indicate an excessive intake of folate in general, as lower intakes of either folate or folic acid are metabolized in the liver and only reach the periphery as folate or 5-MTHF; an increase in folic acid circulating the body indicates too much folic acid relative to the body's capacity to properly metabolize it.
 
 Some studies assessing the point of which folic acid appears in the blood acutely have found a threshold around 200-250 μg depending on the composition of the meal folic acid was delivered in, suggesting that a fortificiation level of 140 μg/100g (US level) is unlikely to cause folic acid responses in standard meals while the standard supplemental dose (400 μg) would.[21] Other studies have found similar thresholds where 400 μg folic acid increased serum folic acid up to six hours after consumption (despite daily folic acid ingestion of a similar level not increasing baseline folic acid levels).[22]
 
+
 Consuming either folic acid or folate will result in folate or their common metabolite, 5-MTHF, reaching circulation and the rest of the body while if too much folic acid is taken at once there is the possibility that folic acid itself will appear in the blood prior to being metabolized. This is not normally seen as a beneficial effect and tends to be the main reason underlying theoretical or demonstrated long-term harm with high doses of folic acid supplementation.
+
 
 1.7
 
@@ -238,13 +250,17 @@ Formulations and Variants
 
 Folic acid refers to the molecule itself whereas folate can refer to one of two things, the food-borne form of folic acid or the deprotonated folic acid molecule. Folic acid, the synthetic version, tends to be the favored dietary supplement as it has better absorption. As the deprotonated form, both folate and folic acid coexist in aqueous solution.
 
+
 Folate and Folic acid are highly similar molecules, only differing in a single protonation. They can be converted into each other after ingestion
+
 
 Folic acid tends to not increase circulating levels of folic acid at low oral doses, being preferentially converted into folate in the digestive tract, but oral doses of folic acid exceeding 260 µg can be found circulating in the blood.[21]
 
 It is currently thought that elevated folic acid specifically, not folate, is a negative as it is associated with impaired immune function[23] and lower testing scores[24] in older humans while animal studies suggest it may have effects such as increased liver weight and reduced methylation when taken in high doses (10-fold the RDA).[25]
 
+
 Folic acid at doses found in numerous supplements may increase folic acid levels in the blood rather than exclusively being converted to folate
+
 
 2.
 
@@ -260,7 +276,9 @@ Folic acid, in the form of 5'-methyltetrahydrofolate (5-MTHF), provides the meth
 
 Another important yet separate player in methyl donation is choline, which can be oxidized into trimethylglycine (betaine) which is subsequently used to methylate homocysteine instead of 5-MTHF.[28] In subjects with the MTHFR C677T genotype (which slows activity of MTHFR[29]) this pathway appears to be more active when choline is supplemented.[30]
 
+
 Generally speaking, folate and folic acid in dietary levels are primary used across the body (mostly the liver) to create the metabolite known as 5-MTHF. This metabolite donates its methyl group to homocysteine to revert it into methionine while producing SAMe, a major whole-body methylation agent with innumerable actions. The role of folic and and folate are to support this cycle by not being insufficient enough to hinder its rate while choline may also help with producing SAMe
+
 
 2.2
 
@@ -272,7 +290,9 @@ When looking at the rates of mutations for C677T across different populations, f
 
 When this enzyme is impaired and subsequently less L-methylfolate is produced there is a simultaneous reduction in SAMe levels while an increase in homocysteine leading to some degree of hyperhomocysteinemia.
 
+
 There are two relatively common mutations in the MTHFR enzyme that could affect up to one fifth of a population depending on factors such as heritage and your parents genetic makeup. These mutations reduce the activity of the MTHFR enzyme, producing less L-methylfolate and allowing homocysteine to increase to potentially harmful levels
+
 
 Disease states and other functional impairments that are associated with mutations in this enzyme include cognitive states such as increased risk for depression (OR 1.36; 95% CI 1.11-1.67 for homozygous C677T and OR 1.10; 95% CI 0.96-1.25 for heterozygous) and when assessing already depressed subjects (OR 1.14; 95% CI 1.04-1.26),[31] risk for schizophrenia (OR 1.44; 95% CI 1.21-.170 for homozygous C677T and OR 1.07; 95% CI 0.96-1.20 for heterozygous) and when assessing already schizophrenic subjects (OR 1.17; 95% CI 1.08-1.26),[31] and bipolar disorder (OR 1.82; 95% CI 1.22-2.70 for risk and OR 1.41; 95% CI 1.19-1.68 when assessing frequency of the T allele in bipolar patients);[31] when assessing anxiety disorders one study using self-report questionnaire for symptoms did not find an association with C677T and anxiety.[40][31]
 
@@ -294,7 +314,9 @@ After absorption, folates are transferred to the liver via mesenteric veins wher
 
 When it comes to 5-formyltetrahydrofolic acid, it seems the intestines can rearrange it to form 5-\_methyl\_tetrahydrofolic acid (5-MTHF) while being able to transport 5-MTHF to the periphery unchanged[52] and also possessing the ability to convert folic acid (within the physiological range) into 5-MTHF[53] via the enzyme dihydrofolic acid reductase;[54][55] folic acid above this range is simply transported into the periphery.[21]
 
+
 Folate appears to be well absorbed from the intestine in all forms (folate, folic acid, and 5-MTHF) with low doses of the former two being converted to folate while higher supplemental doses increase serum folic acid specifically. A large portion of absorbed folate is used by the liver, ejected back into the intestines, and this cycle helps support steady blood levels of folate and its derivatives.
+
 
 3.2
 
@@ -304,7 +326,9 @@ The reference range for circulating folate in an adult human is 2.7-20μg/L when
 
 In otherwise healthy japanese adults with a baseline intake of 185+/-14µg folate (about half the American RDA), supplementation of a juice with various fruit and vegetable extracts as well as 420 µg folate over four weeks is sufficient to increase serum folate 112% (14 days) and 174% (28 days) eventually reaching 22.4+/-1.26μg/L.[56]
 
+
 Supplementation of 400 µg folate daily appears to be sufficient to increase serum folate to the highest of the reference range, even in diets contain folate but not to the recommended daily intake level
+
 
 When it comes to folic acid appearing in the blood (sometimes seen as indication of too much folic acid for the liver to process and referred to as 'unmetabolized folic acid'/UFAs) there appears to be a threshold for supplemental folic acid. Studies assessing this threshold have estimated it to be around 200-250 µg folic acid[22] with at least one study noting an increase in folic acid just beyond this range (260-280 µg).[21]
 
@@ -312,7 +336,9 @@ This number does reflect dietary folate intake and status as at least one study 
 
 Increasing folic acid intake still progressively increases levels of 5-MTHF as evidenced by a study in elderly subjects using 5,000 µg folic acid over three weeks but progressively becomes a higher percentage of total folates; rising from 0.3% total folates at the start of the study (detectable in 26% of subjects) to 15% of total folates (all subjects with measurable folic acid in serum).[57]
 
+
 When it comes to unmetabolized folic acid appearing in the blood after supplementing folic acid, it appears that there is a 'threshold' of sorts where 200 µg is unlikely to cause a folic acid response in standard diets where diets low in folate overall may be able to use the 400 µg dosage with it all being utilized. The appearance of folic acid is an acute dose-dependent event where the liver is overloaded with too much to process and it can be prevented by dividing a folic acid dose
+
 
 3.3
 
@@ -326,7 +352,9 @@ The folate receptors that word via endocytosis are sometimes also referred to as
 
 Finally, the PCFT has recently been elucidated with high homology to mouse and rat PCFT[73] and is being investigated as an alternate target for chemotherapies (antifolates);[60] it is anion sensitive and energy independent.[74] It appears to have affinity for folic acid, 5-MTHF, and 5-formylTHF. Folic acid has a high affinity between different cells in the range of 622-9,200nM (Ki value[74][75]) while 5-MTHF and 5-formylTHF have affinity in the range of 1-5μM[75][60] and was initially known as heme carrier protein-1 as it shows affinity for transporting hemin to a lesser degree than folate.[76][77][60]
 
+
 There are three groups of receptors for folate transfer into cells. The major one is the RFC which is expressed on pretty much all cells while there are specialized high affinity transporters (or specifically, receptors that then carry the folate inside the cell with them) expressed on specific regions where folate had more specialized and unique roles. PCFT is a more recently discovered one that appears to also transfer all folates into cells
+
 
 3.4
 
@@ -340,7 +368,9 @@ When it comes to folate uptake into neural tissue, a study in the rat choroid pl
 
 Both other groups of folate receptors are also implicated in regulating brain concentrations of folates. RFC is also expressed in the choroid plexus alongside FRα and along the blood brain barrier itself[84][88] while PCFT is implicated as hereditary folate malabsorption, a condition which sees low cerebrospinal levels of folates and normal peripheral levels, is due to PCFT malfunction;[89] it is also present in the choroid plexus but not thought to contribute to a majority of the uptake of 5-MTHF in this region.[84]
 
+
 Folate receptors are expressed across the blood brain barrier and most types are expressed in the choroid plexus, which help facilitate the transfer of folate as 5-MTHF into the brain and cerebrospinal fluid from peripheral blood.
+
 
 4.
 
@@ -364,7 +394,9 @@ Depressed subjects may have lower levels of folate circulating in their blood[10
 
 Furthermore, when subjects are treated with the SSRI fluoxetine it seems that the time required for fluoxetine to work is delayed in subjects with low serum folate; homocysteine and B12 were not associated with this effect[109] similar to major depressive order in general and responsiveness to fluoxetine, being associated with low serum folate yet not homocysteine nor B12.[81] Even among the unmedicated changes in depressive status seem to at least be related to changes in red blood cell folate concentrations.[80]
 
+
 S-Adenosyl Methionine (SAMe) seems to be required in sufficient amounts to reduce the risk of developing depressive symptoms. Instances which may cause SAMe to not be produced or work in optimal levels, such as a mutation in the MTHFR C677T or simply a diet low in folate (the nutrient SAMe is made from) seem to predict the development of and increase the risk of depression
+
 
 When it comes to studies assessing folate supplementation in depressed subjects, one study assessing folic acid supplementation (500 µg) alongside 20mg of the SSRI fluoxetine noted that the group receiving both treatments fared better than fluoxetine alone; this benefit, when divided by sex, appeared to only significantly occur in women associated with a decrease in plasma homocysteine (21%; women only) while the overall efficacy was more pronounced in those with lower baseline folate levels.[110] This study and two older studies with promising results[111][112] were included in a Cochrane review on folates and depressive disorders which concluded a possible role in depressive disorders pending more research, particularly as an adjuvant to pharmacy.[113] A handful of studies finding positive results have been conducted after this meta-analysis was published including one finding benefit to depressive symptoms with 10mg folic acid over six months in a small group of subjects with eating disorders (baseline folate within reference range at 9.7+/-3.3µg/L[114]), and a study showing that 5mg folic acid was more effective than 1.5mg folic acid in women on fluoxetine (SSRI) therapy.[115]
 
@@ -372,7 +404,9 @@ Studies using 5-MTHF have shown some promise in SSRI-resistant subjects with maj
 
 Null studies include one large study where subjects who were not folate deficient (7.1+/-4.24µg/L; reference range 2-20µg/L) that supplementing 5mg of folic acid in addition to antidepressant medications (SSRIs or TCAs) for 12 weeks where it failed to provide additional benefit when compared to the combination of pharmaceutical and placebo.[117] 400µg folic acid (in conjunction with B12) failed to improve the efficacy of antidepressant medications as assessed by PHQ-9 (with a minor benefit to perceived distress[118]) and 2.5mg folic acid over three years failed to reduce the risk of developing mood disorders in youth with familial risk thereof.[119]
 
+
 When it comes to studies on depression folic acid does appear to have a role. Specifically, this role seems to be best suited for supporting serotonin-based antidepressants (SSRIs most frequently studied) and seems to have better effects in women and those with low folate in the blood. While folic acid could also have benefits outside of those three parameters it is less reliable and studies assessing folic acid by itself that do show benefit do not note great potency
+
 
 5.
 
@@ -402,7 +436,9 @@ T cells
 
 It appears that the a high affinity folate receptor (FRδ) is expressed in CD25+CD4+T cells,[125] stimulated by transforming growth factor beta (TGFβ);[70] these T-cells may have differing effects based on the level of expression, as while those expressing relatively high levels of FRδ tend to be suppressive, those with intermediate levels of FRδ and CD25 appeared to be antigen-primed effector T cells and low FRδ expression tended to associated with naive T cells[70] and is seen at lower levels on memory T cells.[126] This folate receptor differs slightly from the FRδ found in the spleen and elsewhere[127][128] where it appears to have a role in promoting T cell proliferation as stimulation with folic acid (in the presence of IL-2 and other agents) is enhanced with more of the receptors present.[128]
 
+
 A high affinity folate receptor is found in T cells, and within the CD25+CD4+ (Treg) group its presence appears to help to further delineate the function of individual variants of Treg cells. It seems to have a role in helping Treg cells proliferate but the relevancy to supplementation is currently unknown
+
 
 7.
 
@@ -422,7 +458,9 @@ Folate and folic acid are investigated for their effects on oxidative damage to 
 
 In a group of adults exposed to arsenic in the water supply (>10μg/L), supplementation of folic acid at 400 or 800 μg a day for eight weeks appeared to reduce oxidative DNA damage secondary to arsenic as assessed by urinary 8-OHdG;[132] a biomarker of oxidative damage to DNA[133] which was reduced at the end of the study in a dose dependent manner (albeit to a relatively minor degree) with more effectiveness in those with normal or high cholesterol.[132]
 
+
 When folate in insufficient, supplementing folate or folic acid is able to attenuate oxidative damage to DNA either by directly acting as an antioxidant or helping the body lower homocysteine levels; as homocysteine is an oxidant that can damage DNA in excess it indirectly helps lower oxidative DNA damage
+
 
 8.
 
@@ -436,7 +474,9 @@ Folic acid is well known to prevent neural tube defects, a permanent birth defec
 
 Due to folic acid being required in the embryonic phase of fetal development, prior to a stage where women become visually pregnant, it is officially recommended that women of childbearing age wishing to concieve supplement 400 µg of folic acid regardless of current pregnancy status. Initially in 1992 it was thought to be just 400 µg from all sources[137] but was later expanded on by the Institute of Medicine (IOM) to 400 µg as a dietary supplement in addition to food sources[7] which is consistent with the most recent recommendations.[138]
 
+
 Consumption of folic acid prior to and leading up to pregnancy, as well as throughout, is known to significantly reduce the risk of neural tube defects. However it is a time-sensitive supplementation and should ideally be taken prior to conception
+
 
 9.
 
@@ -450,7 +490,9 @@ Folic acid is known to inhibit a few enzymes of the liver in vitro such as purin
 
 One study in mice found that high doses of folic acid supplementation (20mg/kg; 10-fold the recommended intake for rodents[143]) over six months found that folic acid increased liver weight;[25] it caused damage in mice who were deficient in the methylenetetrahydrofolate reductase (MTHFR) enzyme but folic acid itself appears to have in vitro inhibitory properties on MTHFR[144] with liver extracted MTHFR being inhibited with an IC50 of 750μM, a quarter of the concentration the study found folic acid reached in the liver following the high diet despite being 60% higher than control.[25] In these mice, overall, methylation status is reduced despite folic acid ingestion causing more reliance on betaine-homocysteine methyltransferase[25] which has also been seen in men with genetically impaired MTHFR activity.[30]
 
+
 Folic acid is able to inhibit the enzyme that produces SAMe from MTHFR, which would impair methylation. It appears that in rats a dose 10-fold higher than the recommended daily allowance (assuming it can translate to humans an estimate dose would be 4,000μg DFE) impairs methylation and may inhibit some activity of this enzyme in a concentration-dependent manner (ie. more is worse)
+
 
 10.
 
@@ -468,7 +510,9 @@ Despite these protective effects one clinical trial administering folic acid (1,
 
 Population-wide studies assessing folic acid fortifification have found that, in Chile (220µg folic acid per 100g wheat flour), increased rates of colon cancer during three years of assessment after fortification (2001-2004) when compared to years in the same population prior to fortification (1992-1996) found a relative increase in the rates of colon cancer in the time frame associated with folic acid supplementation (162-192% increase depending on age group).[152] Similar results have been found in Canada and the US but these countries use less fortification (150 and 140µg per 100g wheat flour; respectively)[153] and while overall rates of colorectal cancer are declining in first world nations both Canada and the US have very apparent spikes in frequency at the time when folic acid fortification was introduced.[153]
 
+
 When it comes to risk of developing colon cancer folate/folic acid appear to be a double-edged sword. Having optimal folate intake in your diet appears to be highly protective when compared to low folate intake but having more folate than is necessary actually appears to promote colon cancer caused by other sources; due to this duality, folate is both an anticancer agent and a cocarcinogen depending on the body's overall exposure to it
+
 
 11.
 
@@ -488,7 +532,9 @@ When assessing the blood levels of folate and Vitamin B12 in subjects with Parki
 
 While it is not certain what causes this association, it is known that the conversion of L-DOPA into 3-O-methyldopa in the liver via COMT is methylation requiring S-Adenosyl Methionine.[159]
 
+
 Treatment with Levodopa appears to be associated with slightly reduced circulating folate levels in subjects with Parkinson's disease
+
 
 12.
 
@@ -504,11 +550,15 @@ Alcohol
 
 Alcohol is known to interact with folate metabolism primarily due to absorption factors, with binge drinkers having reduced capacity to absorb folate and folic acid (as absorption requires hydrolases in the brush border of the intestines which alcohol damages[160]) and can minimize the absorption of folate in an already low folate diet[161] which tends to be common in alcoholics;[162] the pathology of chronic alcoholism is one that is associated with less capacity to absorb, store, and maintain folate stores in the body.[163] The degree of intestinal absorption is quite marked with one study noting that alcoholics, after two weeks cessation and hospitalized, still exhibited 35% absorption which was further reduced to less than 20% when alcohol was reintroduced[164] while studies in rodents and humans note increased folate elimination from the body[165][166] thought to be related to less resorption from the kidneys back into the blood.[167][163] Elimination of folate in the urine can increase 20-40% within 17 days of alcoholism.[166]
 
+
 The state of alcoholism, or chronic alcohol intake, both reduces the absorption of folates from the intestines to a marked degree while simultaneously increasing the rate of which folate is eliminated in the urine; the result is a drastic reduction in the amount of folate within the body in a matter of weeks
+
 
 When assessing research animals, alcohol consumption results in a reduction of S-Adenosyl Methionine in the liver and a reduction in its ratio with S-adenosylhomocysteine.[168][169] These changes also occur alongside impairments in methionine synthesis and increased DNA strand breaks[169] which are involved in the potential lethality of alcoholic liver disease and cirrhosis as supplemental SAMe can improve survivability in subjects with ALD and cirrhosis[170] which attenuates the decrease in SAMe and the enzyme glutathione seen with alcoholism.[168]
 
+
 The combination of alcohol impairing folate retention in the body with how the pathology of alcoholism is furthered by a lack of folate available to support the body is one of the primary reasons why treatment of alcoholic liver diseases relies on stopping all alcohol intake
+
 
 12.3
 
@@ -518,7 +568,9 @@ Fluoxetine is a selective serotonin reuptake inhibitor (SSRI) drug used to comba
 
 Beyond the possible role of folic acid and 5-MTHF as an adjuvant for fluoxetine, they also have an interaction at the intestinal level. When studied in vitro it appears that the absorption of 5-MTHF through the intestinal wall is inhibited by fluoxetine in a dose dependent manner; non-competitive inhibition with a Km of 0.89μM.[171] When rats were injected with 10mg/kg fluoxetine and their intestinal cells later tested for 5-MTHF absorption it was noted that absorption was reduced 24%.[171]
 
+
 While folic acid/5-MTHF have shown benefits when it comes to helping treatment resistant depression when used alongside fluoxetine, limited evidence suggests that fluoxetine may hinder some absorption of 5-MTHF in the intestines.
+
 
 13.
 
@@ -532,11 +584,15 @@ When investigating the doses of folic acid found in food fortification, the leve
 
 When it comes to high doses of folic acid/folate supplementation, side effects have been noted at 15g taken daily for one month[15] although numerous other studies using either similar methodology or increased dosages and supplementation period has failed to replicate these findings.[16][17][18][19][20] In general, while drastically above the RDA, doses of 5-15mg appear to be safe for consumption acutely and subchronically.[172]
 
+
 When it comes to general toxicity, the dose of folic acid/folate found in food does not appear to confer much harm while superloading folic acid supplements well above the RDA and TUL also do not appear to confer a risk for acute toxicity in isolation
+
 
 Folic acid and Vitamin B12 have intertwined mechanisms in the human body. While folic acid alone does not appear to be harmful at normal or higher doses it does appear to exacerbate the damage done by an insufficiency of Vitamin B12 in regards to neurological function; when B12 is insufficient or deficieny, as may be the case of the elderly even with mixed diets or in vegans without B12 supplementation, the addition of folic acid appears to further worsen the damage caused by B12 insufficiency. This is seen in fruit bats,[173][174] monkeys,[13] and may also apply to humans based on studies finding that, among those with low B12 status, higher folate tends to be associated with a more adverse cognitive state.[14][94]
 
 This may be related to the observation that folic acid is shown to be neurotoxic and convulsant in cell cultures and in vitro tissues[90][91][92][93] although this effect has not been noted in humans given even high dose folic acid supplementation in a state of B12 sufficiency.
 
+
 Folic acid appears to turn protective of neurology into damaging when the user is deficient in Vitamin B12, which is not unheard of in certain demographics such as the elderly or in veganism without concomitant B12 supplementation
+
 

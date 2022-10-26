@@ -80,7 +80,9 @@ In a study on human HepG2 cells, the pathway appears to be through activation of
 
 These effects on accelerating cell culture growth appear to be dose dependent (as evidenced by doses of 0.01% and 0.1% culture) but showed harm to the medium at higher dosages (0.1%).[8]
 
+
 Appears to induce cell proliferation and growth when used as a protein medium in vitro, but no evidence suggests this occurs after oral consumption
+
 
 3.
 
@@ -92,7 +94,9 @@ Only high dose SAA showed benefit in two weeks time, whereas both 160mg and 500m
 
 The former study also found that the weight gain (from diet) was attenuated with exercise and further attenuated with SAA. Muscle glycogen depletion from exercise was also attenuated in a dose dependent manner with SAA.[11]
 
+
 Decent preliminary results, but needs replication
+
 
 4.
 

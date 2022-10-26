@@ -88,7 +88,9 @@ When looking at the fatty acid composition overall, it appears to contain:
 
 Linoleic acid as omega-6 (56%)Alpha-linoleic acid as omega-3 (22%)Oleic acid (9%)Palmitic acid (5%)Gamma-linoleic acid (4%)Stearic acid (2%)Stearidonic acid (2%), an omega-3 fatty acid with the designation 18:4The omega-6 and omega-3 ratio appears to be between 3:1 and 2:1,[7] and Hemp is one of the few sources of Stearidonic acid (the other common source being blackcurrant oil).
 
+
 Hemp seeds are fairly balanced in their macronutrient profile, and extraction of fatty acids to produce hemp oil leads a seed meal as byproduct; this seed meal is higher in protein (30-50%) and used as 'hemp protein'. The seeds are surprisingly low in sodium, and have a somewhat balanced omega fatty acid profile; like many plants, they may have a few unique polyphenolics or bioactives in them (these are cannabinoid compounds, although the psychoactive THC in Marijuana is not present in high amounts in commerical hemp anymore)
+
 
 The composition of the seed meal appears to be:
 
@@ -100,7 +102,9 @@ The protein of hemp appears to be incomplete as, although it contains all essent
 
 In assessing the digestability of the protein from 30 samples of hemp (hempseed either hulled or dehulled as well as seedmeal) using a rat bioassay and rating the score via PDCAAS noted a digestability of approximately 86.7% (the reference protein, casein, scored 97.6%) when looking at the seed meal.[2] It appears that using dehulled seeds, prior to extraction of the oil, had a comparable absorption to casein (94.9+/-3.5%)[2] and according to PDCAAS (reference of casein at 100) Hemp scored between 50 and 60, comparable to lentils, due to the deficient quantity of Lysine.[2]
 
+
 Hemp protein appears to be an incomplete amino acid source, but has decent protein absorption rates. Comparatively high in Arginine and Tyrosine and low in Lysine and Leucine
+
 
 1.3
 
@@ -118,7 +122,9 @@ Cannabinergic Neurotransmission
 
 The two main cannabinoids in Hemp as a food product, Cannabidiol and its metabolite Cannabidiolic acid, are not agonists of the cannabinoid receptors (CB1 and CB2)[14] although cannabidiol may be able to act as an inverse agonist at 1µM[15] and impair the actions of other agonists at lower concentrations.[15] As mentioned earlier, legally produced hemp must contain less than 0.3% Delta-9-THC by weight and is unlikely to confer the psychoactive properties of this molecule (which are causative of the known effects of Marijuana).
 
+
 Due to depletion of THC, there are not any major intoxicating effects of hemp protein which would mostly be due to the THC content. Cannabidiol retains the potential to impair the activity of other agonists at the CB1 receptor
+
 
 2.2
 
@@ -128,7 +134,9 @@ Hempseed extract, in vitro, appears to activate calcineurin in a concentration d
 
 Oral ingestion of 200-800mg/kg hempseeds to mice for 7 days, where anti-memory agents (sodium nitrate, high acute dose of alcohol, and scopolamine) were introduced on days 8-10 during cognitive tested noted that preloading with all doses appeared to have anti-amnesiac effects (the best dose seemed to vary widely depending on test).[6]
 
+
 May have minor pro-cognitive effects at higher doses, bioactive mediating these effects is not yet known (if a cannabinoid, then it may be novel to hemp protein supplementation; if due to an amino acid, this may apply to protein in general)
+
 
 2.3
 
@@ -136,7 +144,9 @@ Menopause
 
 A rat study using ovariectomized rats (research model of menopause) using 1%, 5%, or 10% hempseed in the diet appeared to reduce menopause-related anxiety at all groups in a dose-dependent manner relative to control; the increase in serum cholesterol (including HDL) and calcium seen in ovariectomized control was similarly reduced with hempseed ingestion.[16]
 
+
 At least one study suggests benefit to menopausal rats, active component not known
+
 
 3.
 
@@ -150,7 +160,9 @@ Hempseed has been investigated for its cardiovascular effects, particularly the 
 
 The oil from hempseed given to otherwise healthy persons at 30mL on top of a regular diet for 4 weeks noted a reduction in triglycerides (1.23+/-0.64mmol/L to 1.03+/-0.44mmol/L) which was also observed with the other group given flaxseed; there was no observable change of HDL-C nor LDL-C with either treatment,[20] and this lack of efficacy on LDL-C and HDL-C was replicated elsewhere with 12 weeks of hempseed oil ingestion at 2g daily (although this study also noted a lack of effect on triglycerides).[21]
 
+
 There may be minor heart protective effects secondary to reducing clotting potential, but these are attributed to the omega-6 and omega-3 fatty acid content (up to 10% in hempseed protein) and not solely unique to this product. Linoleic and Alpha-Linonelic acid are common fatty acids in nature
+
 
 4.
 
@@ -162,7 +174,9 @@ Mechanisms
 
 Cannabidiolic acid appears to be a selective COX-2 inhibitor, although fairly weak with an IC50 of 2mM on COX-2 and 9.1-fold selectivity for COX-2 over COX-1.[22]
 
+
 Unlikely to be biologically relevant due to the high concentration required paired with the low oral intake of cannabidiolic acid in hempseed meal
+
 
 5.
 
@@ -184,5 +198,7 @@ Skin
 
 Oral ingestion of 30mL hempseed oil over 8 weeks relative to placebo (olive oil) in persons with atopic dermatitis noted that there was a trend to reduce transepidermal water loss (TEWL) in persons using hempseed from 12.2+/-5.3 at baseline to 9.6+/-3.7, although this failed to reach statistical significnace; the decrease in subjective skin dryness and itchiness did reach significance in the hempseed oil group.[23]
 
+
 Possible benefits against atopic dermatitis associated with the fatty acid fragment of hempseed oil, may not be unique to hempseed
+
 

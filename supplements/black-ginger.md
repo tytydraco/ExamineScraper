@@ -164,7 +164,9 @@ Sources
 
 Kaempferia parviflora (of the family Zingiberaceae) is a medicinal herb from Thailand that has purported usage as an aphrodisiac as well as general health promotion and stimulation.[1] Other usages touted towards this herb include anti-depressive, anti-peptic ulcer, anti-inflammatory, anti-mutagenic and anti-allergic; it is sometimes referred to as Kra chai Dum or just as a Thai Ginseng[2] (although taxonomically unrelated to Panax Ginseng).[3] It is also sometimes referred to as 'Black Turmeric' due to sharing similar morphology to Curcuma Longa (source of dietary Turmeric), but these two compounds do not have similar bioactives and Kaempferia Parviflora does not have a curcumin content.[4] It should be noted that sources of confusion here is Curcuma Parviflora, another herb with a similar name to both[5] and Kra chai (rather than Kra Chai Dum) being used to refer to Boesenbergia rotunda.[6]
 
+
 Kaempferia parviflora is Thai Ginseng, and commonly called Black Turmeric (since the root is purplish-black underneath the outer layer) although not related to the common spice Turmeric
+
 
 1.2
 
@@ -172,7 +174,9 @@ Composition
 
 The three 'main' methoxyflavonoids 5,7-dimethoxyflavone (DMF) at 0.289%, 5,7,4'-trimethoxyflavone (TMF) at 0.0101% and 3,5,7,3',4'-pentamethoxyflavone (PMF)[1][7] and a variety of other polymethoxyflavonoids[8]5-hydroxy-3,7-dimethoxyflavone at 0.0252%; a methoxyflavone that appears to be well reseached but is not one of the 'primary' three[7]Kaempferiaosides A and B with similar glycosides[9] as well as Kaempferiaosides C and D (flav-3-en-3-ol glycosides) as well as E and F (acetophenone glycosides)[3]Techtochrysin (Methoxy derivative of Chrysin) at 0.131% dry weight[7]7,4′-dimethylapigenin at 0.0453%, trimethylapigenin at 1.29% (methylated derivatives ofo Apigenin)[7]Tetramethylluteolin at 0.0312% (derivative of Luteolin)[7]3,7,4′-trimethylkaempferol at 0.0719% and tetramethylkaempferol at 0.0070% (derivatives of Kaempferol)[7]Tilianine (Methanolic fragment)[9]Ayanin at 0.0111%[7]Retusine at 0.0215%[7]Pentamethylquercetin at 0.391% (Methylated derivative of Quercetin)[7]Sesquiterpenoids 4αα-acetoxycadina-2,9-diene-1,8-dione and 1αα,3αα,4ββ-trihydroxy-9-cadinen-8-one[10](2R,3R)-(−)-aromadendrin trimethyl ether (ethanol acetate fragment)[9]Tamarixetin 3-O-rutinoside (Methanolic fragment)[9]Syringetin 3-O-rutinoside (Methanolic fragment)[9]2,4,6-trihydroxyacetophenone 2,4-di-O-β-D-glucopyranoside[9]Adenosine[9]L-phenylalanine[9]A thermostable lectin (sugar-binding protein) in the rhizome at 0.45%[11]Due to the high methoxyflavone content, this plant has a respectable anti-oxidant profile in vitro.[12] Some of the above methoxyflavones also exist in glycoside form.[13]
 
+
 In general, the 'Kaempferosides' appear to be unique to Kaempferia Parviflora but are not seen as the active ingredients. The methoxyflavones (flavones with methoxy groups attached to them) are seen as the main compounds, with the three known as DMF, TMF, and PMF being most commonly researched. This plant also appears to take standard bioflavonoid compounds and add either methoxy or methyl groups to their structures
+
 
 2.
 
@@ -186,7 +190,9 @@ In testing oral pharmacokinetics of an ethanolic extract of Kaempferia parviflor
 
 5,7-dimethoxyflavone (DMF) had a Cmax of 0.78+/-0.11ug/mL at a Tmax of 0.76+/-0.4 hours with an AUC of 7.01+/-1.37h/ug/mL and a half-life of 5.85+/-1.72 hours; the overall bioavailability was determined to be 2.1%.[1] 5,7,4'-trimethoxyflavone (TMF) had a Cmax of 0.88+/-0.11ug/mL at a Tmax of 0.85+/-0.40 hours with an AUC of 6.96+/-1.11h/ug/mL and a half-life of 5.04+/-1.10 hours; the bioavailability was 1.75%.[1] 3,5,7,3',4'-pentamethoxyflavone (PMF) had a Cmax of 0.55+/-0.05ug/mL at a Tmax of 1.71+/-0.36 hours with an AUC of 3.65+/-0.63h/ug/mL and a half-life of 3.12+/-1.34 hours; the bioavailability was 3.32%.[1]
 
+
 The methoxyflavanoids appear to be poorly yet quickly absorbed with a relatively long half-life
+
 
 2.2
 
@@ -218,7 +224,9 @@ Kinetics
 
 After an acute bolus of 750mg/kg Kaempferia parviflora (9.44, 9.75, and 10.58 mg/kg of PMF, TMF, and DMF), PMF reached the brain with a Cmax of 0.26+/-0.10ug/g and a Tmax of 3.14+/-1.07 hours giving an overall neural AUC of 0.76+/-0.13ug/g/h,[1] TMF reached the brain with a Cmax of 1.43+/-0.58ug/g and a Tmax of 3.43+/-0.98 hours giving an overall neural AUC of 2.50+/-0.37ug/g/h,[1] and DMF reached the brain with a Cmax of 0.96+/-0.37ug/g and a Tmax of 3.14+/-1.07 hours giving an overall neural AUC of 1.91+/-0.56ug/g/h.[1]
 
+
 Oral administration of Thai Ginseng is able to increase methoxyflavone concentrations in the brain, but slightly due to poor bioavailability
+
 
 3.2
 
@@ -228,7 +236,9 @@ Several compounds from Kaempferia Parviflora have been tested for acetylcholines
 
 butyrylcholinesterase is inhibited most potently by DMF (84.6+/-1.3%) which neared the inhibitory potential of Galantamine as active control (95.5+/-1.4%); other notable inhibitions were TMF (46.2+/-1.4%) and 5-hydroxy-7,4'-dimethoxyﬂavone (22.8+/-0.1%).[15]
 
+
 Possesses cholinergic properties, but is unlikely to be practically significant due to the concentrations required (unless bioavailability is otherwise enhanced)
+
 
 3.3
 
@@ -242,7 +252,9 @@ Aphrodisia
 
 One study in sexually mature rats given 70mg/kg bodyweight Kaempferia parviflora daily noted that supplementation was able to increase mounting frequency and reduce ejaculatory latency (indicative of aphrodisiac effects) and was nonsignificantly additive with exercise; post ejaculatory latency was seemingly unaffected.[17] This has been replciated elsewhere, but the hexane and aqueous extracts were ineffective at decreasing mounting and ejaculatory latency.[6] Interestingly, one study using a higher dose (240mg/kg) noted inhibitory effects on aphrodisia in rats[18] and one using 1g/kg noted no significant differences between groups.[19]
 
+
 Some evidence that 70mg/kg in rats (human dose of 11.2mg/kg ethanolic extract) is an aphrodisiac, while higher doses may be adverse; the increase in sexuality does not appear to be too remarkable in magnitude
+
 
 3.5
 
@@ -250,7 +262,9 @@ Neuroprotection
 
 In primary cultured rat cortical cells treated with high levels of glutamate (sufficient to bring controls 100% viability to 0%), 5‐Hydroxy‐3,7,3′,4′‐tetramethoxyflavone was found to be protective in a concentration dependent manner from 0.1uM (13.4+/-0.5% survival) to 10uM (63.4+/-1.4% survival).[20] This was less protective than the active controls of CNQX and MK‐801, but of similar potency to Amino‐5‐phosphonovaleric acid (APV).[20] Other methoxyflavones were either ineffective (TMF and 5‐Hydroxy‐3,7‐dimethoxyflavone) or less protective.
 
+
 Moderate neuroprotection from one compound; practical relevance of oral supplementation unknown
+
 
 4.
 
@@ -304,7 +318,9 @@ Interventions
 
 In TSOD mice (metabolic syndrome model), 1% Kaempferia parviflora was able to slightly decrease liver triglyceride and cholesterol content without significantly affecting serum concentrations; a reduction in body weight was apparent over 8 weeks in TSOD mice given either 0.3% or 1% K.Parviflora although the control (TNOS) mice were still lighter.[26] Dose dependent benefits to weight loss have been noted with 1% and 3% in another study using the same mouse model (TSOD) and again showed no significant effect in lean control mice.[16]
 
+
 Slight unremarkable anti-obese effects
+
 
 7.
 
@@ -342,11 +358,15 @@ Mechanisms
 
 The chloroform extract of Kaempferia parviflora appeared to be the most anti-inflammatory in macrophages (assessed via suppressing iNOS expression in response to the proinflammatory LPS stimuli) with an IC50 between 8.1-8.4μg/ml; anti-inflammatory properties were shared by many methoxyflavones, but the most potent ones appeared to be 5,7-dimethoxyflavone, trimethylapigenin, and tetramethylluteolin with IC50 values of 18μM or 5.1μg/mL, 15μM or 4.6μg/mL, and 26μM or 8.7μg/mL respectively.[7] When compared to the reference compound of Parthenolide (active component of Feverfew with an IC50 of 0.31μg/mL and 1.1μM) they underperformed.[7] The mechanism of these three anti-inflammatory methoxyflavones appears to be mixed on ERK and JNK (inhibition) with tetramethylluteolin being a SYK inhibitor. This suppression of iNOS has been noted elsewhere, alongside a small suppression of COX-2 mRNA, where PGE2 production can be inhibited with an IC50 value of 9.2μg/mL (ethanolic extract)[28] mostly due to 5-hydroxy-3,7,3',4'-tetramethoxyflavone.[29]
 
+
 General anti-inflammatory effects against macrophage activation from inflammatory stimuli
+
 
 Some methoxyflavones appear to be anti-allergic, as one in vitro study in RBL-2H3 Mast Cells noted that degranulation (a hallmark of allergic responses) was attenuated most potently by 5-hydroxy-3,7,3',4'-tetramethoxyﬂavone with an IC50 of 8uM followed by 5-hydroxy-7-methoxyﬂavone (20.6uM) and 5-hydroxy-7,4'-dimethoxyﬂavone (26uM).[30] The overall rhizome ethanolic extract (concentrated methoxyflavones) had an IC50 of 10.9ug/mL,[30] and it appears to be the most anti-allergic of the Zingiberaceae family according to one study.[31]
 
+
 Possible anti-allergic effects of unknown practical potency
+
 
 9.2
 
@@ -378,7 +398,9 @@ Penis
 
 Other constituents of Kaempferia parviflora appear to be PDE5 inhibitors (similar to Viagra and Horny Goat Weed's Icariin).[33] When the extract was tested by itself at 50ug/mL, Kaempferia parviflora rhizome was able to inhibit 62.63+/-7.17% of PDE5 inhibitory value (out of 41 tested herbs, only Caesalpinia sappan stem (60.23+/-1.81%), Senna surattensis leaf (65.08+/-0.78%), Acacia auriculaeformis leaf (73.66+/-4.87%) and Boesenbergia rotunda rhizome (40.86+/-3.94%) were similar); K.Parviflora had an IC50 of 12.24+/-0.99ug/mL with the ethanolic extract.[33] Isolated compounds and their individual PDE5 IC50 values are 10.64+/-2.09ug/mL (DMF), 37.38+/-1.15ug/mL (2,7,4'-trimethoxyflavone), 16.32+/-1.93ug/mL (3,5,7-trimethoxyflavone), and 30.41+/-2.34ug/mL (PMF); all underperforming relative to Viagra.[33]
 
+
 Has a variety of mechanisms which indicate that Thai Ginseng is pro-erectile, but the practical significance of these pro-erectile effects have not been recorded in vivo (the one aphrodisiac study did not measure effects on the Penile Erection Index; PEI)
+
 
 11.2
 
@@ -394,7 +416,9 @@ Liver
 
 Following oral ingestion of 750mg/kg ethanolic extract of Kaempferia parviflora (9.44, 9.75, and 10.58 mg/kg of PMF, TMF, and DMF) PMF reached with a Cmax of 3.10+/-1.78ug/g at a Tmax of 3.43+/-0.98 hours giving an AUC of 9.07+/-1.37ug/g/h,[1] DMF reached with a Cmax of 3.85+/-1.45ug/g at a Tmax of 2.57+/-1.10 hours giving an AUC of 8.60+/-1.97ug/g/h,[1] and TMF reached with a Cmax of 3.01+/-1.49ug/g at a Tmax of 2.64+/-1.38 hours giving an AUC of 7.83+/-0.33ug/g/h.[1]
 
+
 The three main methoxyflavones have been detected in the rat liver following oral administration
+
 
 In a preliminary test of protection of liver cells against D-GalN-induced toxicity, 5,3′-dihydroxy-3,7,4'-trimethoxyﬂavone appeared to be more effective than Silybin (a constituent of Milk Thistle) in protecting the cells, with an IC50 of 18.4μM relative to Silybin's 38.8μM.[9]
 

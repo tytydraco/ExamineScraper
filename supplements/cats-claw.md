@@ -97,7 +97,9 @@ Composition
 The components of Uncaria Tomentosa are:
 
 Mitraphylline and Isomitraphylline, seen as the main bioactives and usually present in older leaves or the stem bark[3]Rhynchophylline and Isorhynchophylline[4]Isopteropodine[4]Uncarine C (aka. Pteropodine), Uncarine D (Speciophylline)[3] and Uncarine F[4]Alkaloids Hirsutine, Hirsuteine, Dihydrocorynantheine and Corynantheine at times in young leaves[3](Polyhydroxylated) Triterpenes Uncaric Acid, Floridic Acid, and 3β,6β,19α-trihydroxy-23-oxo-urs-12-en-28-oic acid[5] and two other unnamed triterpenoids in the stem[6]The triterpenoid Quinivic Acid (around 0.11%[7]) and numerous glycosides (may total around 0.31%[7]),[8][9][10] as well as common triterpenoids ursolic acid and Oleanolic acidPyroquinovic acid and its glycosides, Tomentosides A and B (known as 27-nortriterpene glycosides)[11]Quinic Acid[12]Glucoindole alkaloids 3α-Dihydrocadambine and Dolichantoside[4] as well as 3,4-dehydro-5-
-carboxystrictosidine,[13] 5α-carboxystrictosidine,[14] and Lyaloside[13]Epicatechin and Cinchonain Ia and Ib, known as procyanidines (as chains of them form Procyanidins)[15] as well as the Procyanidins A1, B1, B2, and B4[16]The entire structural class of pentacyclic triterpenoids may be relevant (many named 'Uncarines' after the Uncaria genera), with Mitraphylline being most relevant to Cat's Claw; the structurally class of Glucoindole alkaloids are also plentiful
+carboxystrictosidine,[13] 5α-carboxystrictosidine,[14] and Lyaloside[13]Epicatechin and Cinchonain Ia and Ib, known as procyanidines (as chains of them form Procyanidins)[15] as well as the Procyanidins A1, B1, B2, and B4[16]
+The entire structural class of pentacyclic triterpenoids may be relevant (many named 'Uncarines' after the Uncaria genera), with Mitraphylline being most relevant to Cat's Claw; the structurally class of Glucoindole alkaloids are also plentiful
+
 
 With some bioactives found in Uncaria Guianensis (possibly related to supplementation) being:
 
@@ -139,7 +141,9 @@ Mechanisms
 
 Mitraphylline (when fed to mice at 30mg/kg for 3 days) is able to reduce LPS-induced TNF-α release by 50%, IL-1α and IL-1β by 70%; this slightly underperformed relative to 2mg/kg Dexamethasone (active control).[34] IL-4 was also reduced 40% and IL-17 by 50%.[34]
 
+
 Mitraphylline may be the active ingredient in suppressing inflammatory cytokine release from activated immune cells
+
 
 4.2
 
@@ -173,7 +177,9 @@ Cat's Claw is investigating for adjunct therapy (to be taken alongside chemother
 
 In persons with breast cancer undergoing FAC Therapy (Fluorouracil, Doxorubicin, Cyclophosphamide) noted that the addition of 300mg Cat's Claw extract (70% ethanolic extract with 2.57% pentacyclic oxindole alkaloids) was able to reduce the degree of neutropenia and improve DNA repair relative to FAC paired with placebo.[25] This study noted that the reduction of immune cells over 6 cycles of chemotherapy in control (Leukocytes by 52%, Neutrophils by 70%, Lymphocytes by 44%, and Monocytes by 8%) was attenuated by 39% and 6.5% (Leukocytes and Lymphocytes) with both Neutrophils and Monocytes increasing to levels higher than baseline despite chemotherapy.[25] This is seen as promising since a Neutrophil count below 500cells/mm3[41] is the point when chemotherapy is discontinued on account of Neutropenia and excessive risk to the patient.[42] Another study in persons undergoing colon cancer chemotherapy (Fluorouracil/leucovorin with oxaliplatin; also underwent colectomy) with 300mg Uncaria Tomentosa noted a trend to increase neurophil count after six cycles but this failed to reach statistical significance, with all cycles prior to the end of the study also failing to note significant differences.[43]
 
+
 May have potential as an adjunct therapy during chemotherapy to reduce the suppression on the immune system and genomic damage, seems to influence neutrophils more than other types of immune cells and help with Neutropenia. Despite human studies, it is still preliminary as the main bioactive is not yet known and it doesn't appear to be reliable
+
 
 6.
 
@@ -195,7 +201,9 @@ Maca
 
 Lepidium meyenii, known as Maca, is able to increase IGF-1 levels in human chondrocytes by approximately 2.7 fold when a concentration of 50μg/mL is used; coadministration of 10μg/mL Cat's Claw increases this induction to 3.8 fold despite having weak effects in isolation.[35] The partial inhibition of IL-1β induced reductions in IGF-1 by both Maca and Cat's Claw (50 and 10μg/mL) is nearly absolute with the combination and similar normalizing effects were seen on IL-1β induced GAG release.[35]
 
+
 At least one in vitro study suggests that Maca and Cat's Claw may have additive benefits in regards to osteoarthritis; synergism not yet demonstrated nor any trials in living systems
+
 
 8.
 

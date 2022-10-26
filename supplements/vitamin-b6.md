@@ -138,7 +138,9 @@ It was initially thought that intestinal uptake of vitamin B6 as pyridoxine hydr
 
 Human studies on isolated intestinal cells (Caco-2) have noted a saturatable transporter which is concentration and pH dependent, capable of absorbing PLP and pyridoxamine;[17] this is in contrast to a colonic transporter which does not uptake PLP[18] and neither transporter appears to be capable of uptaking pyridoxamine.[17][18]
 
+
 Mechanistically, there appear to be transporters for vitamin B6 vitamers which absorb pyridoxamine; in the jejunem (main site of absorption in the intestines) pyridoxal-5'-phosphate may also be absorbed
+
 
 When tested in situ with jejunal segments, it was noted that while a few fiber types (cellulose, pectin, and lignan) did not influence absorption rates while homogenized carrots at 1-3% of the medium reduced the absorption of pyridoxamine and pyridoxal but not pyridoxine.[19] This may be related to how a synthetic solution of pyridoxine is more bioavailable than a similar dose via orange juice,[20] even though adding sugar to the synthetic solution enhances bioavailability (via intrajejunal infusion).[20]
 
@@ -212,7 +214,9 @@ In rats, a deficiency of vitamin B6 results in an increase in plasma prolactin c
 
 Pyridoxal phosphate (PLP) is able to inhibit pituitary cell proliferation in vitro in various cell lines (MMQ, AtT-20, GH3) between 10-1,000μM not associated with toxicity and in a reversible manner after PLP removal,[35] this reduction in proliferation being associated with less hormone secretion and in primary rat pituitary cells 1μM is able to suppress prolactin secretion to 66% of control (48% at 10μM) without affecting growth hormone.[35]
 
+
 Vitamin B6 appears to have a generally suppressive effect on prolactin, with a deficiency in B6 causing higher than normal serum B6 concentrations and increasing concentrations causing further suppressions of prolactin
+
 
 A suppression of prolactin increases have been noted in various rodent studies with infusions of pyridoxine, including a hindering of a chlorpromazine[37] and opioid[38] induced prolactin spike.
 
@@ -272,5 +276,7 @@ At least one study noted a case where some adverse effects were noted at as litt
 
 There also appear to be two toxic 'levels', with the lower dose being an axonopathy (destruction of axons) which appears to be reversible upon pyridoxine discontinuation and the higher level being an irreversible sensory ganglion neuropathy.[56][59]
 
+
 Vitamin B6 is known to be highly toxic when megadosed for a prolonged period of time, at best causing peripheral neuropathy that can be repairable and at worst causing irreversible sensory ganglion neuropathy. The lowest estimate this toxic dose has been reported is at 200mg (11,700% the RDI) while it is reliable induced at around 5g (300,000% the RDI) or higher intake in humans
+
 

@@ -110,9 +110,12 @@ Apigenin itself is a low molecular weight (270.24) with a very high melting poin
 
 Formulations and Variants
 
+
 A glycoside is a term used to refer to a molecule connected to sugar molecules. Glycosides tend to exist in plants as a storage form, and upon human consumption they can either be hydrolyzed into the molecule and sugars (two separate things to make note of) or remain bound together. For example, Cyanidin is a molecule while Cyanidin-3-O-Glucoside is a glycoside thereof that has some unique properties and can be detected in the blood after oral ingestion
 
+
 Glycoside is a term that does not discriminate the sugar in concern, whereas the term glucoside may be used to refer to the same thing if the sugar is glucose
+
 
 Apigenin-7-O-Apiosylglucoside (Apigenin bound at the 7-carbon to a glucose which is then bound to apiose, a pentacyclic sugar[12])
 
@@ -188,7 +191,9 @@ Apigenin can inhibit both aromatase and 17β-hydroxysteroid dehydrogenase (17β-
 
 Apigenin has been noted to directly block signalling through the thromboxane A2 (TBXA2) receptor in testicular leydig cells, reducing the ability of the TBXA2-COX2 pathway to induce a repressor protein known as DAX-1; as DAX-1 normally suppresses the transcription of a rate-limiting step of protein synthesis known as steroidogenic acute regulatory (StAR) protein, apigenin indirectly increased StAR activity and testosterone synthesis (induced by cAMP) in these cells.[27] This effect was concentration-dependent between 5-10μM with no effect at 1μM.[27]
 
+
 Apigenin has been noted to modify a receptor (TBXA2) and an enzyme's activity (aromatase) in a manner which would be conducive to increasing testosterone activity, both at relatively low concentrations. It is uncertain what oral dose this translates to at this moment in time
+
 
 6.2
 

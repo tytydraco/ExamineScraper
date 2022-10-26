@@ -48,15 +48,20 @@ The herb Harpagophytum zeyheri is also sometimes referred to as Devil's Claw,[3]
 
 Harpagophytum procumbens can be further divided into two subspecies; H. procumbens subsp. procumbens or H. procumbens subsp. transvaalense.[3] 
 
+
 Devil's Claw is a name given to the plant Harpagophytum procumbens due to the appearance of claws on the fruits; the storage form of the plant, the tubers, are used medicinally while the name is due to the fruits which are not used medicinally 
+
 
 CompositionDevil's Claw contains: 
 
 The simple Irioid Glycosides known as Harpagide and Procumbide[2]Derivatives of Harpagide including Harpagoside (also known as 8-cinnamoylharpagide), 8-cinnamoylmyoporoside, 8-O-feruloylharpagide (1% of commercial extracts, 0.25% dry plant weight[7]), and (same glycoside) as well as Harprocumbide A and 6-O-alpha-D-galactopyranosylharpagoside (different glycosides)[2] and Pagide[8]8-O-(p-coumaroyl)-harpagide and 8-O-(cis-p-coumaroyl)-harpagide, built off Harpagide and both referred to by the acronym of 8-PCHG[2][3]Derivatives of Procumbide including harprocumbide B and 6"-O-(p-coumaroyl)-procumbide[2]Pagoside[9] and Methoxypagoside[10]Decaffeoylverbascoside[10]Pentacyclic saponins Nigaichigoside F1 and F2,[11][2] Chebuloside II,[11][2] and Harproside[8]Phenolic/Phenylethanoid Glycosides such as Acteoside[12] (also known as Verbascoside, the main Phenylethanoid Glycoside[13] at up to 15.8% of ethanolic extracts or 2% plant dry weight[7]) and Isoacteoside (5% ethanolic extract[7]),[14] as well as 6-acetylacteoside, 6'-O-acetylacteoside (10% ethanolic extract[7]), 2'-O-Acetylacetoside (2% ethanolic extract[7]) 2,6-diacetylacteoside (3% ethanolic extract[7]),[15] Martynoside,[11][2] [16] Leucosceptoside A and β-OH-verbascoside[17]β-(3′,4′-dihydroxyphenyl)-O-α-rhamnopyranosyl(1→3)-β-d-glucopyranoside[14](+)-8,11,13-totaratriene-12,13-diol (built off of a totarane structure)[7][18](+)-8,11,13-abietatrien-12-ol (Ferruginol, built off of an abietane structure)[7][18] and 13-hydroxytotara-7,9,13-trien-6,12-dione (Maytenoquinone)[7]Chinane-type tricyclic diterpenoids,[19] which have been noted to form a Diels-Adder product[7]Cinnamic acid and Caffeic Acid[7][9]7α-hydroxysitosterol and 7β-hydroxysitosterolWhen looking at Harpagoside, which is commonly seen as the molecule to assess for standardization and a biomarker of the medicinally efficacy of the plant, the secondary tubers appear to have twice as much Harpagoside as the primary tubers;[3] the flowers, fruits, and stems are seemingly absent while leaves have trace amounts.[3] The tubers tend to contain anywhere between 0.5-3% Irioid Glycosides (the class seen as bioactive)[20]
 
+
 The active ingredient(s) is/are not fully established, but Harpagoside is commonly referred to as the active ingredient since products with Harpagoside are the same products with therapeutic efficacy. Due to this, Harpagoside is a marker of efficacy and is usually standardized to above 1.2% total weight
 
+
 The phenylethanoid glycosides are most likely contributors to the therapeutic effects, since they are found in high quantities in the ethanolic extracts (commonly used for anti-inflammatory purposes) and have anti-inflammatory effects in isolation
+
 
 2.
 
@@ -92,11 +97,15 @@ An ethanolic extract of Devil's Claw in activated monocytes is able to dose-depe
 
 These anti-inflammatory effects have been noted in a whole blood assay where COX-1 and COX-2 were inhibited to roughly similar degrees and nitric oxide release attenuated; the potency correlating with Harpagoside content.[27]
 
+
 Appears to inhibit AP-1 from influencing the genome, and thus prevent the production of pro-inflammatory cytokines in response to inflammatory stressors. Harpagoside itself may be active, but other constituents appear to contribute
+
 
 In regards to the Irioid Glycosides, most appear to be either inactive or relatively weak in inhibiting macrophage respiratory burst although 8-O-(p-coumaroyl)-harpagide is moderately effective with an IC50 of 32µM,[2] a mechanism that has been noted elsewhere with Triterpenoids in inhibiting Neutrophil respiratory burst.[8]
 
+
 Several bioactives appear to lessen the activity of respiratory (oxidative) burst, which may underlie antiinflammatory and antioxidative properties
+
 
 3.3
 
@@ -104,19 +113,25 @@ Cartilage and Joints
 
 A study in rabbits fed 150mg Devil's Claw extract (14% Harpagoside; said to correlate to 200mg Harpagoside for humans) for six months after unilateral medial meniscectomy and transection of the anterior cruciate ligament (surgery to damage cartilage) noted that control rats had 30% reduction in cartilage thickness in the operated knee relative to control knee; the group fed Devil's Claw had a less difference, but it did not reach statistical significance.[28] A letter to the Editor (of the journal Phytomedicine[29]) discussing this rabbit study noted that Haematoxylin and safranin staining of the joints showed a trend towards increased cartilage regeneration while elastin stainings reached statistical significance, and that mRNA levels of TIMP-2 were increased a variable 2-5 fold higher than control.[29]
 
+
 One study in rabbits has quantitatively assessed cartilage repair rates with Devil's Claw, and came back negative (a trend to inducing repair, but was not statistically significant)
+
 
 OsteoarthritisWhen looking at rat studies, arthritis induced by injections of M. butyricum had the paw edema significantly reduced by oral administration of 50mg/kg Devil's Claw (50% ethanolic extract) but was less potent than the active control of prednisone at 10mg/kg.[25] This builds off a previous study where 100mg/kg of a 60% ethanolic extract was able to abolish the increase in edema induced by Freund's Adjuvant (research toxin to induce arthritis) and showed dose dependence at 25 and 50mg/kg.[30]
 
 Contrasting that data is one study where 2g/kg Devil's Claw outright failed to exert anti-inflammatory effects in response to M. butyricum or lambda-carrageena induced arthritis.[31] This study does not mention sourcing of the Devil's Claw, and was 11 days in duration (whereas more recent studies in rats are longer in duration[25][30]).
 
+
 In rats, it appears to reduce inflammation in models of arthritis. The potency does not appear to exceed that of reference drugs (Prednisone) when tested
+
 
 Numerous observational studies exist (minimal controls) to suggest benefit to osteoarthritis associated with Devil's Claw, with 8 cited in one meta-analysis[32] but minimal available online. This review as well as a few others[33][34] note that the evidence is promising but minimal. 
 
 For studies available online, one study using the brand name product Doloteffin (2400mg Devil's Claw standardized to 60mg Harpagoside) over 8 weeks noted improvements on symptoms of Osteoarthritis (hip, lower back, and knee) as assessed by WOMAC, Arhus low back pain index, and a modified HAQ;[35] Benefits were apparent in 50-70% of persons, with more benefit being seen in older persons of those with worse disease pathology.[35] Another study conducted over 6 weeks using the same dose of Doloteffin noted that the reduction in pain was comparable to 12.5mg Rofecoxib (COX2 inhibitor),[36] and when patients of this study are given Doloteffin for a year afterwards the pain reduction seems to reach peak efficacy around 30-60 days and then persist at the same magnitude[37] although other sources cite it may take up to 4 months to realize maximal benefits from Devil's Claw.[38]
 
+
 Surprisingly little evidence available online, but there appears to be a large amount of trials published in German not available via Medline (with one meta-analysis citing up to 10 studies unretrievable via search engines[32]). Devil's Claw appears to be effective for chronic pain, either weaker or comparable to reference drugs (of which comparative trials are minimal)
+
 
 Safety and ToxicologyGeneralTraditional usage of Devil's Claw appears to be somewhat limited, with warnings of cancer with overconsumption (definition of what 'cancer'; is to traditional medicine is quite vague) and criticism from tradtional users that modern medicinal usage may be overusing Devil's Claw.[3] 
 
@@ -124,7 +139,9 @@ In rats, the LD50 has been said to be above 13.5g/kg bodyweight (with this study
 
 A meta-analysis of human evidence looking at the safety of Devil's Claw[32] notes that in trials of Osteoarthritis that around 10% or less of persons report side-effects, which are of mild severity up to high oral doses (8100mg basic extract). The most common side-effects are gastrointestinal (flatulence and diarrhea) with some reports of headaches and migraines likely related to Devil's Claw intervention.[32] Dyspepsia has also been reported.[32] This meta-analysis also cited a lack of long term evidence. 
 
+
 Some sources state that traditional usage advises against long-term usage, there is inadequate evidence to address this concern currently; short term usage does not appear to be associated with any significant side-effects aside from possible gastrointestinal disturbances
+
 
 3.4
 
@@ -132,5 +149,7 @@ Pregancy
 
 Traditional usage of Devil's Claw involved topical solutions applied to the belly of pregnant women to ease pain and more commonly used postpartum to alleviate pain, yet alternatively high oral doses were said to induce birth or expel placentas.[3] When investigating this claim, high concentrations (200-1000ug/mL) of the extract in isolated uterine muscles can induce contractions in both pregnant and non-pregnant rat uterine strips.[39]
 
+
 Due to traditional usage for expelling placentas and preliminary evidence saying that Devil's Claw can induce uterine contractions, usage of Devil's Claw should be avoided during pregnancy
+
 

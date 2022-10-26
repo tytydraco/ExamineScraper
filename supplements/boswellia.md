@@ -296,11 +296,15 @@ Boswellia serrata also sometimes referred to as Indian frankincense,[7] and in a
 
 The active component of Boswellia serrata is the oleo-gum resin, a plant exudate that is acquired after an incision into the tree. Traditional preparation of Boswellia gum includes a month-long waiting period where the water leaves this gum as it hardens; which results in a final product of 30-60% resin, 5-10% essential (and aromatic) oils (mostly monoterpenes such as E-beta-ocimene and limonene[9]), with the final 30-55% consisting of polysaccharides.[6]
 
+
 Historical usage of Boswellia seems to be related to inflammatory conditions, with some religious association as well (which may inflate the renown of the herb; see Ganoderma Lucidum as an example of overpromising historical usage related to royalty)
+
 
 Various other historical uses of Boswellia is its addition to wine to 'benumb the senses' of prisoners sentenced to death (from the Jewish Talmud, although the original source rather than English translation makes mention that it is used to 'confuse or lose the mind'), and to possess tranquilizing effects (Ethiopia).[8]
 
+
 Historical case studies of Boswellia, as scientifically invalid as they are, suggest that this gum and its incense are tranquilizing anxiolytics
+
 
 1.2
 
@@ -308,7 +312,9 @@ Composition
 
 The two 'primary' Boswellic acids 11-keto-β-boswellic acid (KBA; 4.48-5.81mg/g) and 3-O-acetyl-11-keto-β-boswellic acid (AKBA; 32.7-44.2mg/g)[10][7]α-Boswellic acid (αBA; 8.68-16.1mg/g) and its isomer β-Boswellic acid (β-BA; 53.5-246.9mg/g), and the acetylated forms of Acetyl-α-Boswellic and Acetyl-β-Boswellic acid (38.4-192.9mg/g) respectively,[10][7] the other four most research Boswellic acids (which round out the 'main six')9,11-dehydro-α-Boswellic acid and its isomer (9,11-dehydro-β-Boswellic acid) and their respective acetylated forms (Acetyl-9,11-dehydro-α-Boswellic and Acetyl-9,11-dehydro-β-Boswellic acids)[11]Lupeolic acid and Acetyl-Lupeolic Acid[11]Incensole Acetate,[12] known as a diterpenic cembrenoid.[13] Incensole oxide and Isoincensole oxide may also be foundA pentacyclic triterpenediol mixture of 3α,24-dihydroxyurs-12-ene and 3α,24-dihydroxyolean-12-ene[14][15]Serratol[16]α-Thujene[6]α and β-Amyrin[17]Tirucall-8,24-dien-21-oic acids[18]Alpha-pinene and octyl acetate[19]Beyond those non-caloric bioactives, the actual Boswellia gum does contain a polysaccharide content; these may be bioactive, and are most likely not in concentrated extracts (as concentrated extracts such as 5-Loxin and Aflapin are concentrated for the Boswellic acids):
 
-BOS 2000, a polysaccharide involved in immunity[20]Main three bioactives are considered the 11-keto Boswellic acids (KBA and AKBA) with comparably less research into other boswellic acids but one (β-Boswellic acid) possibly playing an importat role. Beyond that the aromatic compound Incensole appears to be important; amounts listed may not be accurate for patents or extracts with modified total Boswellic acid content
+BOS 2000, a polysaccharide involved in immunity[20]
+Main three bioactives are considered the 11-keto Boswellic acids (KBA and AKBA) with comparably less research into other boswellic acids but one (β-Boswellic acid) possibly playing an importat role. Beyond that the aromatic compound Incensole appears to be important; amounts listed may not be accurate for patents or extracts with modified total Boswellic acid content
+
 
 1.3
 
@@ -338,7 +344,9 @@ Boswellia serrata (via AKBA) appears to inhibit NF-kB activation from TNF-α, IL
 
 It appears that the mechanism by which AKBA acts is, at least in regards to TNF-α, interfering with the phosphorylation of IκBα and Akt (both required for TNF-α induced NF-kB activation[26][27]) and appears to act at a stage upstream of p65.[24]
 
+
 While the exact mechanism of action is not known, the boswellic acids (most potent is AKBA) appear to inhibit NF-kB in response to pretty much all tested activators of NF-kB and in all tested cell lines
+
 
 2.2
 
@@ -350,7 +358,9 @@ Tubulin assembly rate appears to be enhanced when β-boswellic acid is incubated
 
 One other study has noted positive influence on microtubule formation (polymerization) in fetal hippocampal cells at 0.15mM and 0.30mM by 25% and 41.6%.[33]
 
+
 May enhance microtubule formation and strengthen the constitution of cells, but aside from being preliminary (and not demonstrated in vivo yet) a very high concentration is required for this. Practical relevance unknown
+
 
 3.
 
@@ -362,13 +372,17 @@ Absorption
 
 In Caco-2 intestinal cells (in vitro assessment of bioavailability) KBA and AKBA appear to have relatively poor absorption but high retention in intestinal cells,[34] a phenomena associated with highly lipophilic drugs.[35] A later study revisiting the Caco-2 cell model but adding Bovine Serum Albumin to the recieving side noted moderate permeability (hypothesizing an absorption rate between 20-70%) and both KBA and AKBA showing better permeability.[36] Incubation with Vermapril (inhibitor of P-Glycoprotein) showed no influence on kinetics.[36]
 
+
 Absorption, at the level of the intestinal cell, appears to be quite good for Boswellic acids (for the two 11-keto Boswellic acids, this doesn't seem to reflect serum levels)
+
 
 The serum levels and subsequent tissue deposition of Boswellic acids can be markedly enhanced via by a lecithin delivery form (Phytosome) of Boswellia extract (known as Casperome™,[37] study duplicated in Medline[38]) a technology used with MERIVA® (a bioavailability enhanced form of curcumin) due to formulation of curcumin with phosphatidylcholine (PC).[39] Serum levels of KBA are increased 7-fold and serum levels of β-Boswellic Acid can be increased 3-fold when compared to standard Boswellia Serrata gum capsules with the same amount of Boswellic Acids (more mass overall due to the use of Phytosome technology) and an equal weight supplement with 39% of the initial content of Boswellic acids still outperforms standard Boswellia Serrata.[37]
 
 Interestingly, this study noted that the high degree of variability in serum concentrations was attenuated with the use of this phospholipid-based delivery system; KBA had ranges exceed the actual serum value at most time points following oral administration of standard Boswellia Serrata (ie. 164.39+/-197.40ng/mL) while the use of the Boswellia serrata extract formulated with phospholipids both enhanced absorption while reducing variability (corresponding time point of equal weight supplement was 165.86+/-87.37ng/mL, equal boswellic acid content was 506.33+/-233.98ng/mL).[37]
 
+
 Lecithin delivery form (Phytosome) of Boswellia extract enhance delivery of Boswellic acids to serum, thought to be mediated at the levels of the intestines. Enhanced intestinal absorption reduces the variability in serum
+
 
 3.2
 
@@ -380,13 +394,18 @@ In response to 1400mg taken thrice daily (4800mg; free living conditions) Boswel
 
 The other four Boswellic acids at 1400mg thrice daily oral intake in free living conditions (The basic α and β isomers and their acetylated versions) also highly variable in the range of 0.5ng/mL to 12ug/mL (12,000ng/mL).[7] The overall ranges for these four Boswellic acids were 36.7-4830.1ng/mL (967.2mg; α-Boswellic Acid), 87.0-11948.5ng/mL (2236.8mg; β-Boswellic Acid), 73.4-2985.8ng/mL (73.2mg; Acetyl-α-Boswellic Acid) and 131.4-6131.3ng/mL (228mg; Acetyl-β-Boswellic Acid). All values are steady state serum levels.[7]
 
+
 All six primary boswellic acids are found in plasma, with the 'main' boswellic acid of 3-O-Acetyl-11-keto-β-boswellic acid sometimes not being detectable; all boswellic acids also exert very high variability in plasma following oral administration in humans (unreliable)
+
 
 AKBA can be enhanced with fatty food intake, and liposomes can enhance absorption of all Boswellic aids; the high variability of serum concentrations still exists to a degree, however
 
+
 One study measured serum levels of lesser studied triterpenoids in a case study of a single patient, and noted serum levels of 0.06umol/L (35mg; 9,11-dehydro-α-BA), 0.1umol/L (12mg; 9,11-dehydro-β-BA), 0.47umol/L (162mg; Acetyl-9,11-dehydro-α-BA), 0.29umol/L (101mg; Acetyl-9,11-dehydro-β-BA) with no detectable serum levels of Lupeolic and Acetyl-lupeolic acid (510mg and 226mg) after 10 days of supplementation.[11]
 
+
 Other boswellic acids may be absorbed; as it was a case study variability cannot be assessed. Lupeolic acids not detected in serum
+
 
 3.3
 
@@ -400,7 +419,9 @@ In the liver these median values are 868.49(KBA), 687.00(AKBA), 1188.48(αBA), 2
 
 All the above values are ng/g concentrations and are subject to high variability; variability is reduced and overall concentrations increased in response to Phytosome delivery.[37]
 
+
 All six boswellic acids have been found in liver, kidney, retinal, and skeletal muscle tissues as well as the brain and serum
+
 
 3.4
 
@@ -416,7 +437,9 @@ KBA, β-Boswellic Acid, and α-Boswellic Acid appear to be subject to Phase I me
 
 Acetylated Boswellic acids (AKBA, Acetyl-β-Boswellic acid, and Acetyl-α-Boswellic Acid) appear to be rather resistant to metabolism in vitro in liver microsomes,[36] implicating the acetyl moiety at position 3 in attenuating metabolism rates of Boswellic Acids.[45]
 
+
 Hydroxylation occurs to non-acetylated Boswellic acids, whereas Acetylated Boswellic acids appear to be resistant to metabolism
+
 
 3.6
 
@@ -438,11 +461,15 @@ Another study has assessed neural tissue concentrations of KBA and AKBA to level
 
 AKBA may cross the blood brain barrier easier than KBA in vivo when assessing the ratios of serum to neural concentrations, but does not tend to reach overall higher amounts due to the lesser amount in Boswellia extracts.[40]
 
+
 All main Boswellic Acids show neural permeability, with the same degree of variance seen in serum
+
 
 When using a phytosome delivery system (enhanced bioavailability), concentrations of Boswellic acids in the brain can be enhanced, relative to the same oral dose of Boswellic acids without enhanced delivery, from undetectable to 62.1ng/g (KBA), 9.63ng/g to 314.91ng/g (AKBA; ), undetectable to 886.64ng/g (βBA), 7.34ng/g to 120.34 (AαBA), 9.63ng/g to 381.86ng/g (αBA), and undetectable to 402.96ng/g (AβBA).[37]
 
+
 Phytosome delivery results in significantly higher concentrations in brain tissue following oral administration
+
 
 4.2
 
@@ -452,15 +479,21 @@ Incensole Acetate has been found to activate neural TRPV3 receptors (different t
 
 In the hippocampus, mRNA levels of CRF (regulator of corticosteroids) is dose-dependently reduced following injections of Incensole Acetate, and significantly reduced corticosterone levels in a breed of mice (submissive) with higher resting corticosterone levels; no significant effect in wild type mice.[12] The mRNA levels of CRFR1 and both receptors (mineralocorticoid and glucocorticoid receptors) were unaffected.[12] Many modulatory effects on c-Fos activity have been noted in areas pertaining to stress as well.[8]
 
+
 Incensole Acetate, a bioactive not belonging to the Boswellic acid family, appears to act as a TRPV3 agonist and may have adaptogenic effects by this novel mechanism
+
 
 β-Boswellic Acid was able to, in vitro with fetal hippocampal neurons at 10, 20, and 30nM over a period of 8 days, was able to enhance length of neurons (58%, 109%, and 158%) and the mean number of neuronal branches (87%, 139%, and 251%).[33]
 
+
 Some potential enhancement of neuronal branching and growth, unknown relevance in vivo
+
 
 A methanolic extract of Boswellia socotrana has been found to have potent anti-cholinesterase properties with 22.32% inhibition at 0.05mg/mL and 71.21% inhibition at 0.2mg/mL, whereas another tested species (elongata) inhibited 11.23% and 46.34% respectively.[50] Anti-cholinesterase properties have been detected with boswellic acids previous (in particular, 11-hydroxy-β-Boswellic Acid from Boswellia Carterii[50]) so it is possible that Boswellia Serrata possesses these properties. It is currently unexplored
 
+
 Theoretically possible for Boswellia Serrata to have acetylcholinesterase inhibiting properties, as it has been noted with the species before; unexplored
+
 
 4.3
 
@@ -474,11 +507,15 @@ Edema
 
 Boswellia Serrata gum was assigned the orphan drug status for the reduction of peritumoral edema by the European Medicines Agency (EMA) in 2002, where it goes by (in Europe) the name of H15.[52] A series of case studies in 12 persons with cerebral edema (7 glioblastoma, 2 anaplastic astrocytoma, two low-grade astrocytoma, and one with cerebral metastases from malignant melanoma) either off or on a stable dose of corticosteroids were given 1200mg H15 thrice a day (3600mg total) for 12 weeks was associated with reduced edema in 2/7 tumor bearers but benefitted all patients with edema due to radiotherapy.[52] Out of the 7 patients with tumors, no tumor responded to Boswellia and overall Boswellia was well tolerated.[52] Similar results have supposedly been found in a clinical trial mentioned in some studies,[53] where 30 patients with glioblastoma recieving 1200mg thrice daily Boswellia extract had less peritumoral edema accompanied with a general improvement of well being. The trial (Winking M et al; Boswellic acid as an inhibitor of the perifocal edema in malignant glioma in man. Neurooncology 1996) is not located online.
 
+
 Appears to have limited but promising clinical effectiveness in reducing neural edema associated with radiotherapy
+
 
 In a small unblinded study of 4 persons with chronic cluster headaches who also reported disturbed sleep (due to the headaches) given 350-700mg Boswellia Serrata thrice daily (1050-2100mg total) for up to 3 months noted resoluations in nocturnal headaches in all four subjects and an attenuation of overall headache severity and frequency.[54] It should be noted that cluster headaches have edema as a possible sign.[55]
 
+
 Basically case studies (so not the most statistically sound), but shows promise for cluster headaches
+
 
 4.5
 
@@ -524,7 +561,9 @@ Immunology
 
 Endothelial cells respond to TNF-α (a pro-inflammatory cytokine), and 22% of the genes influenced by TNF-α (n=552) are influenced by Boswellic Acids,[22] particularly those related to proteolysis, cell adhesion, and inflammation.[57] Three metalloproteins (MMP-3, 10, and 11) are potently suppressed in HMECs (endothelial cells) with incubation of Boswellic acids, with more potency being derived from a mixture with a higher concentration of 3-O-Acetyl-11-keto-β-Boswellic Acid (AKBA) where TNF-α induced MMP release was almost abolished.[22] These effects may underlie the protection seen with AKBA in ApoE-/- mice, where 100umol/kg injections of AKBA halved the size of lesions induced by LPS, a proinflammatory molecule[58] and to explain a reduction in TNF-α induced ICAM-1 secretion in vitro (ICAM-1 being an adhesion factor).[59] It should be noted that the direct sequestering of LPS applies to β-Boswellic Acid and not AKBA, and cannot explain these observed results.[58]
 
+
 The anti-inflammatory effects of AKBA may be cardioprotective by reducing inflammation and atherosclerosis; this has been seen in vivo after injections, but practical significant of oral ingestion is not known (AKBA tends to have low oral absorption)
+
 
 6.
 
@@ -536,7 +575,9 @@ Warmth
 
 A component of Boswellia known as Incensole (Acetate) appears to actiate TRPV3, a receptor upon which activation induces the sensation of warmth;[8] this is a mechanism similar to Evodia Rutaecarpa, and the sensation of warmth may create a false positive for fat loss (despite no energy being expended to produce heat, but merely a sensory change).
 
+
 Warmth from Boswellia Serrata (currently not demonstrated to be an effect) may be a false positive for fat loss due to having the ability to act on a receptor class that induces the sensation of warmth independent of fat burning
+
 
 7.
 
@@ -548,7 +589,9 @@ Osteoclasts
 
 A protein known as RANKL is able to induce osteoclastogenesis via activating NF-kB[60][61] and boswellia serrata (via AKBA) can suppress RANKL-induced osteclastogenesis secondary to NF-kB inhibition at a concentration as low as 300nM (75% inhibition in vitro); AKBA also prevented TNF-α from activating NF-kB (3μM).[24] It does not appear to directly interfere with the TNF-α induced NF-kB complexation, but interferes with the genomic transcription of NF-kB.[24]
 
+
 Boswellia serrata (via NF-kB inhibition from AKBA) appears to hinder the proliferation of osteoclasts
+
 
 7.2
 
@@ -564,11 +607,15 @@ Boswellia Serrata is thought to aid the pathology of Osteoarthritis due to being
 
 In a study comparing two treatments against placebo, the first treatment under the brand name of 5-Loxin (100mg of Boswellia Serrata standardized to 30mg AKBA) was compared to another formulation of Boswellia (Aflapin at 100mg) in 60 persons with confirmed osteoarthritis;[59] the results over 90 days suggested that 5-Loxin reduced symptoms of osteroarthritis on several rating scales by 31.6% (Visual Analogue Scale), 30.3% (WOMAC; pain subset), 42.2% (WOMAC; stiffness subset), 21.25% (WOMAC; functionality subset), and 18.35% (Lequesne's Functional Index) although the Aflapin group outperformed on all parameters. Both groups reported statistically significant improvements within a week of treatment (around 8% reduction with 5-Loxin)[59] with another study noting improvements by day 5 on VAS and LFI rating scales but not WOMAC[64] and a third study suggesting that the improvements within a week occur with higher (250mg) dose of 5-Loxin and take longer with lower (100mg) doses.[65] Overall magnitude of benefits in other studies are improved symptoms of osteoarthritis as assessed by VAS (37.6%), LFI (32%), and WOMAC subsets of pain (40.1%) stiffness (41.3%) and function (38.8%) after 30 days of 100mg Aflapin[64] and reductions in VAS (48.83-65.94%), LFI (23.79-31.34%), WOMAC pain ( 39.61-52.05%) function (49.34%) and stiffness (62.22%) over 90 days of either 100mg or 250mg of 5-Loxin; with the more significant improvements associated with the higher oral dose and both the function ( 28.62%) and stiffness (42.5%) with the low dose failing to be statistically significant.[65]
 
+
 Currently a multitude of well controlled studies with either 5-Loxin or Aflapin (nutraceutical patents of Boswellia Serrata with concentrated AKBA to 30% and 20%, respectively), but all the studies using these formulations procured external funding from the producer of the supplements. It did not appear to have any influence on the results and seem to have been conducted indpendently.
+
 
 Another study of persons with osteoarthritis noted that 6g of basic plant extract in three doses of 2g alongside meals was able to reduce knee pain 70.96-73.68%, shoulder pain by 83.33%, and absolved spinal pain from baseline; improvements occurred in swelling and joint mobility to similar degrees and improvements were noted in happiness and activity levels secondary to reduced pain.[66] Conclusions from this study are limited due to being unblinded and without control group,[66] and despite the promise of the above studies in potency there may not be sufficient independent evidence for Boswellia Serrata for attenuating general joint pain.[67][68]
 
+
 Definitely shows a large degree of promise in treating joint pain without adverse effects, but the amount of interventions on the matter are enough to show this promise but not enough to draw conclusive statements on its efficacy for treating joint pain; a highly promising but not fully established nutraceutical
+
 
 8.
 
@@ -584,15 +631,20 @@ However, serum binding of AKBA to albumin is very high (greater than 95%), and 8
 
 Boswellic Acids do not appear to greatly inhibit 12-LOX nor Cyclooxygenase (COX) enzymes in vitro, nor do they prevent peroxidation of Arachidonic acid induced by iron or ascorbate.[73][74] One study using platelets, however, did note inhibition on COX1 and 12LOX by 3-O-acetyl-11-keto-β-Boswellic Acid (AKBA) with an IC50 of 6uM in platelets and 32uM in a cell-free assay;[75] with another author suggesting that their unpublished data is in accordance.[76]
 
+
 The most well known mechanism of action of Boswellia appears to he 5-Lipoxygenase inhibition, and the two most potent bioactives in this regard appear to be the 11-keto Boswellic acids. The 5-LOX inhibition is direct and specific, rather than a general inhibition that can be induced by anti-oxidant compounds; however, whether this mechanism is active in vivo is currently under investigation (with one report suggesting it is unlikely)
 
+
 No significant interactions with the two Cyclooxygenase enzymes (COX1 and COX2), the targets of NSAID drugs, although some inhibition of COX1 may be possible
+
 
 Other antiinflammatory mechanisms of Boswellic acid include NF-kB inhibition,[77] which has been noted in vivo in mice given the boswellic acid AKBA in 100umol/kg injections[58][78] and appears to be mediated by multiple mechanisms. In response to Tumor-Necrosis Factor alpha (TNF-α), AKBA appears to bind directly to IKKs and prevent activation of IκBα and p65 (which then prevents induction of NF-kB)[79] and may also directly bind to Lipopolysaccharide (LPS; a bacterial toxin that induces NF-kB).[80] β-Boswellic acid was able to sequester LPS with an IC50 of 1.8uM, which underperformed the active control of polymyxin B which wholly sequestered LPS at 100nM.[80][81] This appears to be a main mechanism of anti-inflammation, as the reduction of iNOS induction seen in macrophages is wholly due to binding to LPS (with Boswellic acids that do not bind to LPS, such as AKBA, being ineffective).[80] Both studies noted that NF-kB translocation induced by interferons (IFN-γ) was unaffected by Boswellic acids.[79][80]
 
 Incensole Acetate in Boswellia species may also inhibit NF-kB activation, as Incensole can inhibit IKK activation loop phosphorylation induced by TAK/TAB and has no inhibitory effect in T-Cells.[82] 
 
+
 General inhibitory effects on NF-kB, a locus for inflammation in response to antigens and dietary stressors; Incensole seems to have novel mechanisms of action, and β-Boswellic acid appears to bind directly to LPS
+
 
 Cathepsin G (CatG) inhibition, with β-Boswellic acid having an IC50 of 0.8umol/L.[41] Cathepsin inhibition is a therapeutic target for antiinflammatory actions in neutrophils (immune cells).[83] AKBA may also be relevant for CatG inhibition as it has an IC50 of 1.2umol/L
 
@@ -600,7 +652,9 @@ Microsomal prostaglandin E2 synthase inhibition has been noted with Boswellic ac
 
 Human Leukocyte Elastase (HLE) is also inhibited by Boswellic acids.[87] HLE is an enzyme released by immune cells (PMNs) and 3-O-Acetyl-11-keto-β-Boswellic acid inhibits HLE with an IC50 of 15μM (7.5ug/mL has also been reported[76]), and in this same study they noted some inhibition with both β-boswellic acid and ursolic acid, but an apparent lack of effect of the structurally related compound 18-β-glycyrrhetinic acid (from Licorice).[87] No other compound in this assay inhibited 5-Lipoxygenase.
 
+
 Several other direct anti-inflammatory mechanisms exist that are within the physiological ranges observed in pharmacokinetic studies, suggesting that they may be relevant to the actions of Boswellia
+
 
 8.2
 
@@ -618,11 +672,15 @@ However, when oral dosing of Boswellic acids were given for 5 days preceding and
 
 Increased antibody synthesis has also been noted with the polysaccharide fragment in both primary (83.8%) and secondary (79.3%) titres in response to oral ingestion of 10mg/kg polysaccharide, which was more potent than the active control of 2.5mg/kg Levamisole (which was comparable in potency to 1-3mg/kg polysaccharide) over 7-15 days of treatment.[20]
 
+
 May enhance immunity (antibody response to antigens, or adaptive immunity in response to infection) but this may require constant loading rather than acute loading. A single dose may actually be immunosuppressive
+
 
 One study conducted in mice given an antigen (hepatitis B surface antigen) using BOS2000 (polysaccharides) as an adjunvant alongside vaccination noted that BOS2000 was able to dose dependently increase the IgA response to the antigen, with 10mcg/mL outperforming 0.5mg/mL aluminum (active control) and doses up to 80mcg increasing the response further.[90] 
 
+
 May augment vaccine efficacy, but no oral studies have been conducted
+
 
 8.4
 
@@ -632,7 +690,9 @@ It has previously been noted that in non-immunized mice with no antigen, Boswell
 
 Stimulation has been noted with the polysaccharide fragment in response to mitogens at 1, 3, and 10mg/kg with maximal effectiveness at 3mg/kg.[20] This same study noted a proliferation of both CD4 and CD8 positive lymphocytes.[20]
 
+
 Mixed results in regards to lymphocyte proliferation, but appears to stimulate proliferation (pro-immunity result)
+
 
 8.5
 
@@ -648,7 +708,9 @@ Pancreatic
 
 In a rodent model of toxin-induced Type 1 diabetes (multiple low dose streptozotocin at 40mg/kg), injections of 150mg/kg Boswellia Serrata (5.48% and 4.66% KBA and AKBA) failed to influence blood glucose in otherwise normal mice yet outright abolished the increase of blood glucose in response to the toxin when both were administered fro 5-10 days and measured over 25 subsequent days.[92] Histology between control and the Boswellia group did not appear significantly different from each other, and the serum increase in granulocyte-colony stimulating factor was normalized (with a significant attenuation of GM-CSF) while the levels of IL-1A, IL-1β, and TNF-α were equal between control and Boswellia (attenuation of IL-2, IL-6, and IFN-γ that was not equal to control but lesser than disease control group).[92]
 
+
 Anti-inflammatory effects have potent protective effects against streptozotocin-induced toxic effects to the pancreas, with this rat study literally negating most of the toxic effects of streptozotocin
+
 
 9.
 
@@ -660,7 +722,9 @@ Testosterone
 
 Although AKBA has been demonstrated to interfere with androgen signalling in prostatic cancer cells, no normal cells lines have been investigated for interactions between AKBA and the androgen receptor.[93]
 
+
 Investigations into how boswellic acids interact with the normal androgen receptor are yet to be conducted, as studies in prostatic cancer cells do not necessarily apply to noncancerous states
+
 
 9.2
 
@@ -678,7 +742,9 @@ Motility
 
 Boswellia serrata appears to concentration-dependently reduce intestinal contractions in response to acetylcholine, barium chloride, or by EFS in a range of 1-1000mcg/mL with more efficacy in inhibiting the former two rather than EFS.[95] There was no significant effect on basal activity of the intestines despite the inhibition of contractions, and feeding of 100-400mg/kg of Boswellia Serrata to rats did not per se interact with motility although 200-400mg/kg significantly attenuated the increase in motility induced by croton oil and reduced the occurrence of diarhhea when rats were given castor oil.[95]
 
+
 Limited evidence, but suggests Boswellia Serrata gum can prevent rapid intestinal motility without affecting motility that is not unnecessarily rapid
+
 
 10.2
 
@@ -696,13 +762,17 @@ In a rat model of colitis (colonic inflammation), 34.2mg/kg Boswellia extract (1
 
 Only one study has been conducted in humans using Boswellia (as deduced by a systematic review[101]) found that adults with confirmed Collagenous colitis (an inflammatory bowel disorder subset) noted that thrice daily consumption of 400mg Boswellia Serrata for 6 weeks (totalling 1200mg daily) increase the amount of persons in remission from 26.7% to 43.8%, suggesting moderate efficacy.[102]
 
+
 Some protective effects on colitis related to suppressing the inflammation induced by injury
+
 
 A preliminary study conducted in youth with Crohn's disease using a nutraceutical combination therapy (Boswellia Serrata, Curcumin, and a standard multivitamin) with twice weekly administration of probiotics and daily injections of Growth Hormone appeared to significantly prolong remission time in a small sample.[103]
 
 With isolated Boswellia in persons with Crohn's Disease (who were at risk for remission) using 1200mg (Thrice daily dosing of 400mg; 80% ethanolic extract known as Boswellan) for one year noted that Boswellia was not more effective than placebo at retaining persons in a state of Remission.[104] Boswellia did not improve quality of life more than placebo (both groups reporting a decline), and although there was a trend for Boswellia to reduce general reported side-effects this was not significant.[104] The only significant difference was the clinical ferritin reading, which decline in treatment with Boswellia (which was thought to be normalizing the excess ferritin levels induced by inflammation).[104]
 
+
 Has once failed to show benefit to Crohn's Disease, and the promising studies are highly confounded
+
 
 11.
 
@@ -714,7 +784,9 @@ Mouth
 
 3-O-Acetyl-11-keto-β-boswellic acid (AKBA) appears to possess inhibitory activities on oral pathogens with a Minimum inhibitory concentration (MIC) in the 2-4ug/mL range against S. Mutans, E. Faecalis, E. Faecium, A. Viscosus, and S. Sanguinis (lesser activity against F. nucleatum), which rivals Triclosan on the first five strains.[105] β-boswellic acid and 11-keto-β-boswellic acid both showed some inhibitory potential while Acetylated-β-boswellic acid was seemingly inactive, and AKBA inhibited biofilm production by S. mutans and A. viscosus with an IC50 of 16ug/mL.[105] The essential oil of Boswellia in general carries this biofilm protective effect,[106]
 
+
 Appears to have potent anti-bacterial properties, which may be useful as a chewing gum
+
 
 11.2
 
@@ -730,7 +802,9 @@ Lungs
 
 Boswellia is thought to benefit asthmatic symptoms secondary to its anti-inflammatory actions, but specifically its ability to inhibit leukotriene synthesis (via being a 5-LOX inhibitor),[110] and has shown efficacy in combination with Licorice and Turmeric root (source of Curcumin).[110]
 
+
 Limited evidence, but shows promise for asthma related to inflammation
+
 
 12.
 
@@ -742,15 +816,21 @@ Mechanisms
 
 Beyond immunological mechanisms (outlined under 'Inflammation and Immunology'), 3-O-Acetyl-11-keto-β-Boswellic Acid (AKBA) appears to inhibit Hypoxia Inducible Factor 1 (HIF-1).[111] HIF-1 is a protein where its alpha section (HIF1α) has increased activity in response to low oxygenation[112] and has been designated a target for chemotherapy,[113] and while the Boswellia extract appears to inhibit HIF1α transcription absolutely at 25mcg/mL when hypoxia was induced by desferrioxamine, known to induce hypoxia. AKBA itself was effective at abolishing HIF-1 transcriptional activity (as were other Boswellic acids, and some unknown compounds), and these compounds acted on the same HIF-1 binding site as Quercetin despite structural differences.[111]
 
+
 Appears to inhibit HIF-a induction and attenuate changes associated with hypoxia
+
 
 AKBA appears to be a potent VEGFR2 kinase inhibitor, and via acting on endothelial cells in the 1-5umol/L range with an IC50 value of 1.68umol/L on VEGFR2k AKBA can inhibit angiogenesis potently and suppress the related downstream angiogenic pathways of Src/FAK, AKT, ERK, mTOR and p70S6.[114] HUVEC (endothelial cell) apoptosis may also occur, with 10umol/L AKBA reducing the VEGF-induced increase in cell viabiltiy to 40% of control.[114]
 
+
 May directly inhibit angiogenss via direct enzymatic inhibition
+
 
 3-O-Acetyl-11-keto-β-Boswellic acid (AKBA) appears appears to be a topoisomerase I inhibitor,[115] and appeared to work (as do many pentacyclic terpenoids) by competing with DNA for binding to the enzyme.[116] In cells that do not express 5-Lipoxygenase (HL-60 and CCRF-CEM[117]), AKBA is able to inhibit apoptosis via inhibiting Topoisomerase I at concentrations exceeding 10uM.[115] This inhibition of Topoisomerse I extends to Topoisomerase II, and does not per se influence DNA fragmentation.[115][118]
 
+
 May inhibit Topoisomerase, practical relevance unknown
+
 
 12.2
 
@@ -764,7 +844,9 @@ Boswellic acids can induce apoptosis in multiple glioma cell lines (T98G, LN-18,
 
 In an animal model of glioma (nonlethally injecting a tumor into the cerebrum) subsequently fed 60, 120, or 240mg/kg Boswellia Gum thrice a day (total daily doses being 180, 360, and 720mg/kg respectively) until death from brain tumor, it was noted that Boswellia diminished tumor size in a dose dependent manner after 14 days (13.5% with 60mg/kg, 65.7% with 120mg/kg; highest dose actually preventing solid tumor formation and only revealed tumor cell clusters).[53] Apoptotic cells increased in a dose-dependent manner (50%, 106%, and 147%), enhanced vitality on all measures, and doubled survival relative to control rats; the two lower doses were reported to be free of side-effects, with 720mg/kg (240mg/kg thrice daily) group suffering slight hair loss.[53] One case study in an adult female notes similar effects, where the metastasis of her breast cancer reached her brain and supplementation of Boswellia Serrata (given to reduce edema and suppress headaches) at 3 doses of 800mg eliminated the presence of the tumor in her brain as assessed by CT scans.[120]
 
+
 Rat evidence that oral administration of Boswellia gum can significantly suppress brain tumor (glioma-type) formation; the potency associated with high (720mg/kg rodent dose) being fairly astounding
+
 
 12.3
 
@@ -774,7 +856,9 @@ Mechanistically, 3-O-acetyl-keto-β-boswellic acid (AKBA) appears to have a mode
 
 AKBA may have inhibitory potential on intestinal carcinomas in mice after oral consumption, where polyp size after 8 weeks of daily ingestion was reduced 48.9% (small intestine) and 60.4% (colon) in APC/Min+ mice; no overt toxicity was noted, and the mechanisms of action thought to be via anti-inflammatory and apoptotic means.[124]
 
+
 Oral ingestion of Boswellia has shown efficacy in reducing polyp size in experimental animals, synergistic with PI3K/Akt inhibitors, and fairly potent following oral ingestion (as AKBA has low absorpton, much is sequestered in the colon; these results may be practically relevant)
+
 
 12.4
 
@@ -785,11 +869,15 @@ and 94.33% (40uM) AKBA concentrations with an IC50 of 20.07uM despite being in t
 
 One study did note that both 11-keto boswellic acids induced apoptosis in PC-3 cells in vitro with EC50 values of 12.1uM (11-keto-α-boswellic acid) and 4.9uM (AKBA); the mechanism was not fully established but was related to caspase-3 release, suggestive of DNA fragmentation.[127] Proliferation is unaffected at 50uM in this cell line,[114] but can be suppressed by transfection with the androgen receptor to make them similar to LNCaP cells.[125] The aforementioned induction of apoptosis appears to occur in both PC-3 cells and LNCaP cells actually, and 10mcg/mL or higher concentriations of AKBA mediate apoptosis via the Death Receptor 5 (DR5) by upregulating its mRNA levels and activating the promoter, secondary to JNK activation and CHOP induction (with NF-kB not playing a significant role).[128]
 
+
 AKBA appears to be anti-androgenic in prostate cancer cells and can normalize proliferation in vitro via suppressing the actions of DHT on the genome in prostate cells. It may induce apoptosis independent of the androgen receptor
+
 
 3-O-Acetyl-11-keto-β-boswellic acid (AKBA) was able to potently prostatic tumor weight and normalized the tumor volume in mice injected with 10mg/kg AKBA after they had prostatic tumors implanted and then measured for 30 days (PC-3 cell line).[114] While in control mice implanted tumors increased 459% from 95.83+/-43.37mm3, in the AKBA group they actually decline from a similar level by 49%; thought to be secondary to suppressing angiogenesis (established in vivo and in vitro) with 60mcg AKBA in vitro abolishing VEGF-induced microvessel sprouting.[114] It was determined that AKBA is a potent VEGFR2 kinase inhibitor with an IC50 of 1.68 μMol/L, and secondary to this AKBA inhibited expression of a variety of proangiogenic pathways (Src/FAK, AKT, ERK, mTOR and p70S6K).[114]
 
+
 Has shown in vivo efficacy in mice injected with PC-3 cell lines where tumor size was effectively normalized after injections of 10mg/kg AKBA
+
 
 12.5
 
@@ -799,7 +887,9 @@ A hot water extract of Boswellia Serrata can induce apoptosis in cervical cancer
 
 Beyond those two studies, other studies on cervical cancer cells are those done with synthetic analogiues of β-boswellic acid or AKBA as an attempt to synthesize new anti-cancer molecules; cyano-derivatives seem potent, but do not naturally exist in Boswellia Serrata.[130][131]
 
+
 May induce apoptosis in cervical cancer cells, but there is less research on this type of cell than in other cancer cell lines and no current assessment of potency relative to other control drugs
+
 
 12.6
 
@@ -811,7 +901,9 @@ When incubated in cells, Human MM and U266 cells have their proliferation almost
 
 Apoptosis can be induced via caspase-3 cleavage in Human MM and U266 cells with subsequent PARP cleavage, mediated via an induction of SHP-1 suppressing STAT3 activation.[134]
 
+
 May be anti-proliferative and induce apoptosis of Myeloma cells at moderate to high concentrations; seemingly potent in vitro, but currently does not have any active control or in vivo evidence to assess practical potency
+
 
 12.7
 
@@ -819,7 +911,9 @@ Leukemia
 
 In human myeloid KBM-5, AKBA appears to potentiate cytotoxicity induced by classical chemotherapeutic agents (doxorubicin, 5-flurouracil) secondart to NF-kB inhibition, and this applied to TNF-α induced apoptosis which was increased from 10% to 47.8% with 3μM AKBA.[24]
 
+
 May potentiate chemotherapy secondary to inhibiting NF-kB, a mechanism which is common to many supplements and drugs (NF-kB inhibition per se tends to augment cytotoxicity from the reference drugs)
+
 
 A downregulation of the chemokine receptor CXCR4, secondary to preventing NF-kB from acting on the CXCR4 promoter, has been noted in leukemia cancer (KBM-5) cells in vitro.[136] A triterpendiol mixture form Boswellia Serrata (not boswellic acids) on HL-60 cells has also been found to upregulate DR4 receptors and TNF-R1 and induce caspase-8 release and PARP cleavage (indicative of apoptosis).[14] This triterpendiol mixture additionally suppressed proliferation with an IC50 value of 15mcg/mL.[14]
 
@@ -831,7 +925,9 @@ A downregulation of the chemokine receptor CXCR4, secondary to preventing NF-kB 
 
 Usage of another species of Boswellia (Sacra) that also possesses the standard Boswellic acids (19.6-30.1mg/mL) has noted that in a variety of breast cancer cell lines (T47D, MCF7, MDA-MB-231, and MCF10-2A) noted that the oil was able to induce apoptosis and reduce cell count potently in all cell lines except MCF10-2A and exhibited anti-proliferative effects in vitro.[137] Boswellia species that do not have a large boswellic acid content (socotrana and dioscorides) do not have significant apoptotic effects on MCF-7 cells.[138]
 
+
 Limited evidence and no animal studies, but Boswellia appears to generally be anti-proliferative on breast cancer cells; there is a single case study suggesting that oral Boswellia has eliminated a metastatic breast cancer tumor located in a female's brain
+
 
 12.9
 
@@ -841,7 +937,9 @@ The invasiveness of pancreatic (PANC-28) cells has been noted to be suppressed i
 
 After tumor implantation of PANC-28 cells in nude mice, expression of CXCR4 was shown to occur in vivo from 73% (control) to 15%, tumor size was reduced 50%, and metastasis significantly suppressed.[136] This experiment was expanded upon later by the same authors,[140] and while AKBA (100mg/kg daily oral ingestion) was nonsignificantly more effective than Gemcitabine (25mg/kg injections twice weekly) at reducing tumor volume the combination was highly effective (nearly abolishing the increase in tumor size) with the synergism also applying to suppression of metastatic potential of injected PANC-28 cells.[140] 454+/-23 ng/ml of AKBA was found in plasma in these experiments, which correlated to 273+/-13ng/mL concentration in excised pancreatic cells.[140] Suppression of tumor size in vivo has been demonstrated elsewhere with an extraction of mixed Boswellic Acids, and noted that extractions with lower molecular weight compounds (lower concentration of boswellic acids) were still effective in vitro.[141]
 
+
 Appears to very potently reduce Pancreatic cell invasiveness and tumor size, which has been demonstrated at least once in nude mice implanted with tumors following oral administration of AKBA at 100mg/kg; due to the reasonable dosage and method of administration significantly suppressing tumorogenesis, this is a highly promising nutraceutical for Pancreatic Cancer
+
 
 13.
 
@@ -855,7 +953,9 @@ Mechanistically, Boswellic acids may act to inhibit hyaluronidase (an enzyme tha
 
 A skin cream containing 0.5% Boswellic acids appeared to enhance skin elasticity, reduce sebum excretions, and confer photoprotective in female participants using the cream for a period of 30 days both at the end of treatment as well as during one month followup, in 15 women applying the cream to half their face (other half used as control for reference) with a mean age of 44.4;[143] this study is duplicated in Medline,[144] and other improvements that were noted to occur with 0.5% Boswellic acid cream are less roughness (26% reduction cream side, 11% control side), less 'fine smooth lines'(20% reduction on cream side, 3% control side) and nonsignificant trends to improve erythema and wrinkles, and all benefits were maximally effective within 30 days (with no added benefit at day 60).[143][144]
 
+
 Has demonstrated efficacy in improving skin quality and elasticity when applied to human faces, possibly mediated by anti-inflammatory effects
+
 
 14.
 
@@ -885,7 +985,9 @@ In an animal model of formalin-induced paw edema (to assess anti-inflammatory pr
 
 In regards to Oxytocin-induced dysmenorrhea, Myrrh was able to reduce writhing times (suggesting an analgesic effect) and while Boswellia had no significant influence on its own it enhanced the activity of Myrrh in reducing the writhing time and frequency.[147]
 
+
 Frankincense is somewhat synergistic with Myrrh; gold uninvestigated (usually inedible)
+
 
 14.4
 
@@ -905,7 +1007,9 @@ It appears that Boswellia Serrata extracts have an LD50 in rats of over 5000mg/k
 
 Boswellia Serrata bioactives appear to be nongenotoxic as assessed by AMES reverse mutation assay,[150] chromosomal aberration test (Hamster cells) and mouse peripheral blood micronucleus assay.[59] An oral dose of up to 1000mg/kg Boswellia Resin to rats (equivalent human dose of 160mg/kg, or 11g for a 150lb person) has also failed to show genotoxic effects.[151]
 
+
 Standard oral doses have been subject to toxicology testing and appear safe and nongenotoxic
+
 
 15.2
 

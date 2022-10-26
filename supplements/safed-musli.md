@@ -92,7 +92,9 @@ Sources
 
 Chlorophytum Borivilianum (henceforth Safed Musli) is a traditionally rare Indian herb from Ayurveda (now commercially produced) in the Rasayana class of vitality and longevity promoting herbs, touted to also be an aphrodisiac[1] as well as a tonic (aid) for diabetes, inflammation, and used to intentionally increase body immunity.[2] In some instances this plant is called Herbal Viagra.[3] It has some reported usage postpartum in part due to preventing depression and acting as a galactogogue (milk production enhancer), although no evidence exists to support either usage.[2]
 
+
 General historical usage as a physical and sexual tonic
+
 
 1.2
 
@@ -100,7 +102,9 @@ Composition
 
 The overall composition of the roots consist of carbohydrates (42%), proteins (5–10%), fiber (3–4%) and saponins (17–20%),[3] although saponin contents as low as 13.58% have been noted.[4] The overall polyphenolic content of Chlorophytum Borivilianum appears to be quite low at 0.25% with flavonols at 0.07%.[4]
 
-Chlorophytoside I, a saponin[5]Borivilianosides of the F, G, and H series; saponins[6]Neotigogenin, Neohecogenin, and Tokorogenin[7]Immunostimulatory polysaccharide[8] and others[9]Fatty Acids (linoleic acid, 11 and 14-Eicosadienoic acid, hexadecane)[5]Stigmasterol[5] with phytosterols consisting of 0.9% total weight[4]Vitamin C at 0.67% of dry weight[4]Saponins tend to be seen as the main bioactives of Safed Musli mainly due to their overall high content (17-20%), although polysaccharides also appear to have some activity
+Chlorophytoside I, a saponin[5]Borivilianosides of the F, G, and H series; saponins[6]Neotigogenin, Neohecogenin, and Tokorogenin[7]Immunostimulatory polysaccharide[8] and others[9]Fatty Acids (linoleic acid, 11 and 14-Eicosadienoic acid, hexadecane)[5]Stigmasterol[5] with phytosterols consisting of 0.9% total weight[4]Vitamin C at 0.67% of dry weight[4]
+Saponins tend to be seen as the main bioactives of Safed Musli mainly due to their overall high content (17-20%), although polysaccharides also appear to have some activity
+
 
 Borivilianosides vary by the glycoside attached to the base structure (at R1) and modifications on both R2 and R3.[6]
 
@@ -114,7 +118,9 @@ Stress
 
 One study conducted in rats assessing the anti-stress effects of Safed Musli noted that, in response to three tests noted that 21 days of ingestion of 100-300mg/kg of the alcoholic extract improved swim time (endurance and despair swimming tests) and showed some efficacy in preventing stress ulcers.[10] A later test noted that while 125mg/kg exerted anti-stress effects, that 250mg/kg of the aqueous extract was as effective as 1mg/kg Diazepam in reducing stress as assessed by a Cold Water Restraint Test and measuring biochemical alterations in serum.[11]
 
+
 Moderate anti-stress effects, supporting its use as an adaptogenic compound
+
 
 2.2
 
@@ -122,7 +128,9 @@ Sleep
 
 The only current human intervention using Safed Musli was in combination with Velvet Bean (Mucuna Pruriens) where 18 persons with impaired sleep but otherwise healthy consumed 2250mg of the combination (equal parts) in divided doses improved all parameters of sleep as reported by self-report on a PSQI after 28 days, including global rating of sleep.[12] This study was partly funded by USPLabs, the producer of a supplement that was used in this study.
 
+
 May aid sleep, but currently all studies are somewhat confounded with donations and funding from a supplement company making the particular formulation (USPLabs)
+
 
 3.
 
@@ -150,7 +158,9 @@ Mechanisms
 
 One study on erectile properties that used a murine macrophage cell line noted that, when incubated in these macrophages, that Safed Musli at 10mg/mL was able to elevate levels of nitric oxide to 1004% of baseline levels.[14]
 
+
 Appears to be quite potent in stimulating otherwise resting macrophages; potency needs replication
+
 
 4.2
 
@@ -166,7 +176,9 @@ An immunostimulatory polysaccharide from the hot-water extract of Safed Musli wa
 
 A survival study in rats against C. albicans infection (to assess non-specific immunity) noted that the extracts were 50-60% more effective than control in promoting survival against infection, suggesting an enhancement of non-specific immunity.[15] A subsequent test against drug-induced immunosuppression noted that azathioprine-induced immunosuppression (assessed by RBC and WBC count) was effectively normalized.[15]
 
+
 Implicated in increasing non-specific (innate) immunity
+
 
 5.
 
@@ -180,11 +192,15 @@ Rho-Kinase II (ROCK-II) is a protein that contracts muscles of the corpus cavern
 
 Safed Musli (root), in an investigation on ROCK-II inhibitory potential, was found to have poor inhibitory potential at 4.11% and 40.54% (aqueous and methanolic extracts) at 50mcg/mL; this study also noted efficacy with Terminalia chebula, Albizia lebbeck, Cinnamomum cassia, and Syzygium cumini all exerting over 75% inhibition at 50mcg/mL with both extracts.[19] Ashwagandha was poorly effective and Asparagus Racemosus was ineffective while the methanolic extract of Terminalia Chebula was most potent with an IC50 of 6.09±0.17mcg/mL[19]
 
+
 May improve erectile properties via ROCK-II inhibition, but its effects at doing so seem comparatively weak
+
 
 In a macrophage cell line that while control elevated Nitric Oxide to 4.93+/-0.4uM that Safed Musli was highly effect at 10mg/mL increasing NO to 49.5 ± 1.6uM (1004% of control).[14] The authors drew a connection to the potency in vitro and the role of Nitric Oxide in erections, but did not establish a connection.[14]
 
+
 May mechanistically work via penile Nitric Oxide, unproven though
+
 
 Interventions with Safed Musli note that 100mg/kg oral intake in rats note improvements in erection as assessed by the Penile Erection Index (PEI) 140% above control after 14 days, which nonsignificantly outperformed 0.5mg/kg testosterone twice weekly and Curculigo orchioides while ourperforming Asparagus Racemosus.[14] A study on diabetic rats with impaired erectile potential (29-33% of control) fed Safed Musli at 200mg/kg aqueous extract actually noted a PEI exceeding that of control (185-194% of control after 26 days);[20] a third study notes this at 165% of control after 30 days of 200mg/kg.[21]
 
@@ -192,7 +208,9 @@ Benefits to erections have also been noted in diabetic mice (the state of diabet
 
 One study used Viagra as an active control at 4mg/kg, and noted that after 28 days of 125-250mg/kg Safed Musli that there was equal effectiveness in reducing mount latency and slightly less efficacy in intromission latency, slightly less increases of mounting and intromission frequency, and slightly less efficacy in ejaculatory latency and post-ejaculatory intervals.[21] This study did not note many differences between the doses of 125mg/kg and 250mg/kg at day 28, with 250mg/kg being more effective up until day 14 where the effects seemed to have saturated.[21]
 
+
 Appears to have potent erectogenic properties as well as aphrodisiac properties, at least one study suggests it to be slightly less potent than Viagra
+
 
 5.2
 
@@ -200,7 +218,9 @@ Testicular Properties
 
 100mg/kg of Safed Musli in rats for a period of 14 days results in a 28.04% increase in sperm count.[14] This increase in sperm count has been noted in a dose-dependent manner after 60 days of both 125mg/kg and 250mg/kg aqueous extract, reaching up to 151.69% of control with 250mg/kg.[21]
 
+
 May increase sperm count
+
 
 6.
 
@@ -224,7 +244,9 @@ Testosterone
 
 One study in rats using 200mg/kg daily for a period of 30 days noted an increase in prostatic weight in the rats fed Safed Musli, usually associated with androgenic signalling; the potency was not significantly different than 0.5mg/kg testosterone (biweekly) and was greater than Asparagus Racemosus.[21] This study did not measure serum androgens.
 
+
 Weak evidence of androgenic activity
+
 
 7.2
 
@@ -232,5 +254,7 @@ Growth Hormone
 
 One study that used Safed Musli and Mucuna Pruriens in equal parts (total dose of 2250mg) noted that over the course of 120 minutes that there were no significant increases in growth hormone Area Under Curve (AUC) if two outliers (hyperresponders) were factored out, but including these two hyperresponders (out of 15) caused a statistically significant increase in growth hormone at the time points of 60-100 minutes, but not 120 minutes;[24] a very high variability existed between subjects, and this study was funded by a supplement manufacturer that products the used product.[24]
 
+
 Technically improved growth hormone levels in serum, but with highly unreliable efficacy; results also need to be rexamined due to company involvement
+
 

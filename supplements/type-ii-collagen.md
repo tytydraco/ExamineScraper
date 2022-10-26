@@ -116,13 +116,17 @@ CII's main supplemental purpose is for the treatment of joint pain and arthritic
 
 CII primarily refers to:
 
-Various CII peptides ranging between 1,000-30,000 Da in weight,[6] and these peptides have been noted to be absorbed intact from the intestinal tract of rats when orally administered[2] with one peptide in particular being designated 250-270 as that appears to be the weight range where the most active peptides are located in[7]Various tripeptides containing Glycine such as Gly-Pro-Hyp (Glycine-Proline-Hydroxyproline, which can reach up to 8% weight after enzymatic treatment of collagen[8]), Gly-Pro-Glu (Glycine-Proline-Glutamine[9]) and Pro-Gly-Pro (Proline-Glycine-Proline[9])There are various peptides contained within CII with the active ones appearing to be fairly low molecular weight and are likely small peptides (like tripeptides) comprised of a high amounts of glycine and proline, two amino acids that are prominent in collagen protein
+Various CII peptides ranging between 1,000-30,000 Da in weight,[6] and these peptides have been noted to be absorbed intact from the intestinal tract of rats when orally administered[2] with one peptide in particular being designated 250-270 as that appears to be the weight range where the most active peptides are located in[7]Various tripeptides containing Glycine such as Gly-Pro-Hyp (Glycine-Proline-Hydroxyproline, which can reach up to 8% weight after enzymatic treatment of collagen[8]), Gly-Pro-Glu (Glycine-Proline-Glutamine[9]) and Pro-Gly-Pro (Proline-Glycine-Proline[9])
+There are various peptides contained within CII with the active ones appearing to be fairly low molecular weight and are likely small peptides (like tripeptides) comprised of a high amounts of glycine and proline, two amino acids that are prominent in collagen protein
+
 
 With sources of CII being:
 
 Shark-derived CII appears to be 12kDa in weight and effective for similar purposes[10]Porcine CII ha shown efficacy at similar doses to other types[11]Chicken sternum has shown to be a source of CII and a brand name product from this source is UC-II®[12][13]CII may also be derived from bovine articular cartilage, but due to bovine spongiform encephalopathy (Mad Cow Disease) alternate sources are sought after since some authors believe that there is a risk of infection associated with bovine sources;[10] a similar concern led to modern phosphatidylserine supplements being derived from soy rather than bovine cortex.
 
+
 Various mammals and fish have been shown to be possible sources of CII, and each source appears to be quite similar in potency when supplemented in rodents and humans
+
 
 1.2
 
@@ -132,7 +136,9 @@ Denaturation refers to the irreversible process of unwinding peptide chains into
 
 Hydrolyzed collagen refers to the process of hydrolysis on collagen, which has a heat and acid component.[16] However, as hydrolysis of collagen tends to break down peptides from larger forms into smaller ones which are in the weight range for known bioactive peptides[17] supplemental hydrolyzed collagen may have a similar supplemental role; it has shown joint pain reducing properties in humans although at a much higher dose of 10g.[18]
 
+
 The process of hydrolysis and denaturation break down peptides into smaller peptide chains and ultimately into their constituent amino acids, and upon reaching the final solution of amino acids benefits associated with the CII peptide will not occur (as CII is destroyed). Hydrolyzed collagen shows some benefits to joint pain despite this process, but requires a significantly higher oral dose
+
 
 1.3
 
@@ -148,7 +154,9 @@ Formulations and Variants
 
 Undenatured CII (UC-II®) is a patented form of collagen derived from chicken sternum that is glycosylated[21] and has been used in a few rodent[15][21][22] and industry-funded human studies.[12][13] and appears to be well tolerated in rats with a very high LD50 value (greater than 5,000mg/kg)[15] and at the active dose of 40mg in human subjects.[12]
 
+
 UC-II is a glycosylated form of CII derived from chicken cartilage and appears to be an effective supplemental form in humans and rodents
+
 
 2.
 
@@ -166,9 +174,12 @@ CD4+CD25+Foxp3+ Treg cells produce more of a cytokine known as interleukin 10 (I
 
 Continuing production of CD4+CD25+Foxp3+ Treg cells from CII is known as 'tolerance', which is achieved within a month of CII supplementation and can be continually held until supplementation is stopped where T cell populations and the two interleukins produced from them normalize about a month later resulting in symptoms recurring.
 
+
 Via a dendritic cell -> Treg cell -> IL-10 pathway oral ingestion of CII can produce a state of transient tolerance, similar in concept to providing an antigen prior to an infection, which results in less inflammatory cytokine activity and analgesic effects on joints of those affected with inflammatory joint disorders.
 
+
 Citations for the above can be found in the Inflammation and Immunology section under Interleukins and T cells
+
 
 3.
 
@@ -206,7 +217,9 @@ Neurogenesis
 
 In mice fed collagen peptides either of low molecular weight (2,000 and 8% Gly-Pro-Hyp) or high molecular weight (30,000) as control, both in the drinking water for four weeks, noted that the low molecular weight peptides appeared to enhance neurogenesis in the dentate gyrus (of the hippocampus) about 20% more than control and these effects occurred alongside mild anxiolytic effects.[8] It was hypothesized that the peptides worked centrally,[8] as a similar tripeptide (Gly-Pro-Glu) has shown blood brain barrier penetrative capacities[26] and peptides (like Noopept) have the potential to mimick larger neurotrophic proteins like BDNF and NGF.[27]
 
+
 While the mechanisms are largely hypothetical at this point, it is suggested that peptides found in low molecular weight collagen supplements may increase neurogenesis after oral administration
+
 
 5.
 
@@ -226,7 +239,9 @@ Supplementation of CII is thought to confer some benefits to otherwise healthy s
 
 Oral supplementation of undenatured CII at 40mg a day (for four months) in subjects reporting joint pain but with no history of arthritis noted that supplementation was effective in improving knee range of motion (from 73.2º to 81º with no change in placebo) and a longer time for joint pain to occur during exercise and faster recovery, maximal benefits occurring three months after supplementation and maintaining;[12] this study, however, failed to notice any influence on daily joint pain as assessed by KOOS.[12]
 
+
 Low dose collagen appears to be effective for joint pain experienced during exercise despite not affecting whole-day joint pain scores relative to placebo
+
 
 5.3
 
@@ -246,7 +261,9 @@ T regulatory (Treg) cells play a role in arthritis as they appear to accumulate 
 
 Administration of the active peptide fragment (250-270) to the serum of rheumatic patients is able to increase CD3+ T cell populations and particularly both CD3+CD25+ and CD3+CD69+ subsets.[7]
 
+
 Rheumatism is a disease state associated with abnormal and elevated T regulatory cell function in synovial fluid of those affected
+
 
 In rodent models of rheumatism such as collagen-induced arthritis (high concentrations of collagen injections can cause autoimmune rheumatism[41]) oral ingestion of the CII component known as peptide 250-270 in mice (0.1-0.5mg) for one week before induction of arthritis is able to reduce the severity of subsequent arthritis[7][42] or prevent it from occurring in a few samples.[7] Other models of rheumatism such as ovalbumin-induced[43] and Complete Freund’s Adjuvant-induced[44][10] also see benefit with oral CII administration by similar mechanisms.
 
@@ -254,7 +271,9 @@ The benefits seen in rodent studies are associated with less immunoreactivity fr
 
 IFN-γ can be stimulated with higher concentrations in vitro (40μg/mL) but are unaltered during oral tolerance[42] and the T cells which produce it have been noted to be lessened in content after tolerance.[43]
 
+
 The oral administration of CII prior to induction of collagen-induced rheumatoid arthritis functions similar to an oral vaccination, allowing immune cells to become tolerant to CII and preventing or reducing the expected adverse autoimmune responses to induction of rheumatism
+
 
 Oral ingestion of solubilized type II collagen (0.1mg for one month, 1mg for two months) in subjects with severe active rheumatoid arthritis for 90 days appeared to improve symptoms on joints (swelling, pain, and tenderness) and preserved 15m walking time relative to placebo which benefitted to a lesser degree[46] with four subjects in the collagen group (14% of the sample) reporting resolution of rheumatism.[46]
 
@@ -280,7 +299,9 @@ Oral ingestion of CII (0.1-1mg/kg) to mice later give arthritis via collagen inj
 
 Studies assessing concentrations of IL-17 itself do not appear to note any changes with ingestion of CII peptides relative to control groups.[53]
 
+
 The activity of IL-10 appears to be increased secondary to higher concentrations of this interleukin, which suppress the activity of IL-17 despite not changing concentrations of the latter; the change of signalling in this interleukin axis, which is due to T cell population changes, mediated the antiinflammatory effects of supplementation
+
 
 In mice given rheumatism oral supplementation of CII appears to reduce circulating concentrations of IL-6 relative to arthritic control while increasing IL-2 concentrations, also thought to be related to the alteration in T cell differentiation seen during oral tolerance.[44]
 
@@ -290,7 +311,9 @@ T Cells
 
 It seems in mice given type II collagen orally (0.1mg) before induction of arthritis (by collagen injection with Freund's adjuvant) can reduce the severity of arthritis[24][25] which has been noted to be related to a higher intestinal concentration of indoleamine 2,3-dioxygenase (IDO) expressing (aka. CD11c+) dendritic cells.[25] Dendritic cells have a role in stimulating naive T cells[54] and CD11c+ cells in these immunized mice hinder collagen-stimulated CD4+ T cell proliferation secondary to increasing activity of CD4+CD25+Foxp3+ regulatory T cells dependent on IDO,[25] as the latter T cell phenotype can independently increase IDO expression in dendritic cells.[55][56]
 
+
 Orally supplemented type II collagen can promote a particular type of T regulatory cell (CD4+CD25+Foxp3+) to prevent overactivity of another type of T cell (CD4+) in response to collagen, which reduces the potential autoimmune reaction to collagen exacerbating symptoms of osteoarthritis
+
 
 When assessing T cell proliferation overall (assessed via thymidine uptake), in rheumatic patients given 1mg or 10mg of CII for twelve weeks there appeared to be suppression of proliferation in most subjects.[30]
 
@@ -306,13 +329,17 @@ Type I collagen comprises approximately 80% of the total collagen of the adult h
 
 Type II collagen is not a major constituent of skin like it is in articular cartilage, as types I and III have more of a presence in skin,[57] although CII can still accumulate in the skin following oral ingestion of hydrolyzed collagen supplements in the rat.[2]
 
+
 In skin under normal conditions, the CII content is much less than is found in articular cartilage and instead type I and type III cartilage predominate. Alterations in the production of type I collagen underlie visual changes in the skin in response to environmental factors
+
 
 Hydrolyzed collagen is thought to be a supplement for skin health since oral ingestion increases serum levels of some dipeptides and tripeptides[62] of which one of them, proline-hydroxyproline (Pro-Hyp), can stimulate fibroblasts to produce the molecule known as hyaluronic acid (200µM[63])[64][65] which is in and of itself a skin health supplement;[66] this effect is also seen in chondrocytes, thought to underlie some joint health properties.[64]
 
 Fibroblasts incubated with Pro-Hyp also see an increase in cellular proliferation[63][65] associated with hyaluron synthase 2 (HAS2) induction, dependent on PKA activation.[65]
 
+
 Ingestion of CII is thought to increase synthesis of type I collagen and hyaluronic acid in the skin secondary to being a good source of the dipeptide known Pro-Hyp
+
 
 In an open-label study with females with some signs of skin aging then given hydrolyzed collagen (Biocell®; comprised of peptides ranging from 1,000-2,500kDa in weight and some hyaluronic acid with chondroitin) at 1g a day for 12 weeks noted that supplementation was associated with transient increases in wrinkling and crow's feet at six weeks while at the end of the study crow's feets normalized while wrinkles were reduced relative to baseline (13.2%);[67] hydration showed a similar trend over time, ultimately being improved after 12 weeks.[67]
 

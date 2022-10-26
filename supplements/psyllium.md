@@ -148,7 +148,9 @@ Sources
 
 Psyllium is the common name for products derived from the plant Plantago ovata[1] which the synonym of Plantago psyllium[2] or ispaghula;[3] and is more commonly known as the brand name Metamucil. Psyllium currently as a generally recognized as safe (GRAS) status in the US, and is commonly used in clinical settings for the purpose of bulk laxation (laxative effects secondary to fecal forming properties); a distinct laxative effect from more commonly used defecation-inducing compounds such as Senna Alexandrina or Polyethylene glycol (PEG), psyllium is known to be 'gentler' of a laxative and to facilitate passing of softer and sleeker stool.[4][5][6] Traditional usage of Plantago ovata seems similar to this, with almost the sole usage being promotion of defecation and relief from constipation.
 
+
 The plant known as plantago ovata and the fiber component from it, known as psyllium, are commonly and effectively used to promote defecation secondary to increasing fecal moisture, size, and ease of passage
+
 
 1.2
 
@@ -160,7 +162,9 @@ A highly (greater than 80%) fermentable component totalling 15–20% of psyllium
 
 The unfermentable (and to a degree, poorly fermentable) components of psyllium underlie the gel forming and fecal forming properties of psyllium supplementation[8] and psyllium in general appears to collect 2-3g of water per gram of psyllium.[9]
 
+
 Psyllium fiber is comprised of indigestible carbohydrate chains (fibers) and can be fractionated into different fragments based on polarity, the one consisting of most weight being both poorly fermentable in the colon while also being highly gel forming (and the fraction causative of fecal forming properties)
+
 
 2.
 
@@ -176,9 +180,12 @@ It is sometimes stated that the absorption of water in the intestines associated
 
 A study assessing the threshold of psyllium fiber required to reduce appetite (using fiber containing wafers prior to a standardized test meal) noted that 3-8 wafers (conferring 1.7-4.5g psyllium) were ineffective while 13-18 wafers (7.4-10.2g psyllium) reduced subsequent food consumption by 169 and 234kcal respectively; this study is complicated with the inclusion of other nutrients (carbohydrate) during wafer consumption.[20]
 
+
 Appetite suppression has been noted with psyllium supplementation, although it does not appear to be of remarkable potency (one study noting acute appetite suppression failed to find a reduced caloric intake over the course of the day) and occurs at higher doses, around 20g of psyllium taken before or with a meal
 
+
 Due to the low potency and high dose required, psyllium may not be a practical appetite suppressing intervention (and should be taken for other purposes, with the knowledge that appetite may be suppressed slightly)
+
 
 3.
 
@@ -198,13 +205,17 @@ Triglycerides
 
 At least in guinea pigs, increasing vitamin C content in the diet from normal (0.05%) to elevated concentrations (0.5%) alongside psyllium ingestion appears to enhance the triglyceride lowering effect of psyllium intervention in animals fed a high fat diet.[21] This study noted that, comparatively, 10% psyllium underperformed 5% chitosan in reducing serum triglycerides in response to a fat-rich diet in guinea pigs.[21]
 
+
 Some possible triglyceride lowering effects are noted in animal studies
+
 
 For human interventions, 5g of psyllium thrice day with meals for 6 weeks in diabetics is associated with a 26% reduction in triglycerides relative to placebo.[23] This reduction in triglycerides has been noted elsewhere in diabetic men given psyllium[24] although no effect has been seen in youth given 6g of psyllium for six weeks (without hypertriglyceridemia).[25]
 
 When assessing persons with high cholesterol, a meta-analysis failed to find evidence for a triglyceride lowering effect.[26]
 
+
 Some evidence suggests a triglyceride lowering effect in diabetic persons, although overall and when assessing persons with high cholesterol there does not appear to be a significant effect on triglyceride levels in serum
+
 
 3.3
 
@@ -214,7 +225,9 @@ As psyllium husk is able to bind to bile acids in the intestines and promote the
 
 The bile acid binding property is independent of short-chain fatty acid production (may occur from fiber fermentation in the colon) as it occurs in rats without a colon[7] and is directly related to the viscosity of the fiber, as when separating the gel-forming portion of psyllium from other fragments only the gel forming fragment is able to increase fecal bile acid content.[7]
 
+
 Alongside fatty acids, bile acids are also lost in the feces following ingestion of psyllium husk (and other fibers). As bile acids are required in the liver, the creation of them in order to replace what is lost goes up, and cholesterol is reduced as cholesterol is used as substrate to synthesize bile acids
+
 
 In studies assessing HDL-C in animals, psyllium appears to fully normalize the reduction in HDL-C seen with a high fat diet[21] and improvements in HDL-C have been seen in humans (diabetic) consuming 5g of psyllium thrice a day for 6 weeks where HDL-C rose 45.7% higher than placebo.[23] However, a meta-analysis of psyllium supplementation in hypercholesterolemic patients has noted a small but significnat redution in HDL-C cholesterol associated with supplementation to the magntiude of 0.0353 mmol/L (95% CI of 0.0003–0.0514 mmol/L).[26]
 
@@ -222,7 +235,9 @@ A meta-analysis of psyllium in 1030 persons with high cholesterol has noted that
 
 This meta-analysis, when comparing the effects of studies using psyllium in supplemental form versus enriched food products, noted no significant difference between the vessel by which psyllium was delivered.[26] It also noted evidence of publication bias but attributed this to a phenomena of small trials (in regards to statistical robustness) possessing greater effect sizes.[26]
 
+
 Psyllium husk supplementation appears to be able to reduce both total cholesterol and LDL-C in persons with high cholesterol in a dose and time dependent manner up to 20g of supplementation (highest dose assessed), although it does not appear to have a beneficial effect on HDL-C and instead reduces it to a small (perhaps clinically insignificant) degree
+
 
 3.4
 
@@ -244,7 +259,9 @@ Consumption of psyllium (3.5g) with a test breakfast (436kcal; ham and two slice
 
 This variation between individuals is consistent with dietary fiber in general,[36] and although the reasons for variation are not known (thought to be related to baseline characteristics or diet overall) the glucose lowering effect is thought to be related to viscosity[37][38] (and mixing of carbohydrate with the intestinal gel causing slower release[39]) and is reliant on carbohydrate coingestion.[40]
 
+
 (Soluble) fiber in general, and by extension psyllium, appears to cause gel formation in the small intestine and cause a reduced rate of glucose absorption and by extension lower glucose concentrations in serum. Psyllium has not been associated with increased fecal content of glucose (indicative of preventing absorption of glucose)
+
 
 4.2
 
@@ -258,7 +275,9 @@ Similar reductions in blood sugar have been noted in both diabetic and non-diabe
 
 One meta-analysis has concluded that psyllium husk may be an effective adjuvant treatment for diabetics who keep complications with blood glucose following drug therapy due to the reductions in blood glucose and HbA1c associated with an average 10.6g psyllium daily and high safety profile.[44]
 
+
 Psyllium husk treatment appears to be effective in reducing blood glucose concentrations, but may not provide a lasting effect on blood glucose (with glucose normalizing after supplementation is ceased). It may be useful to be taken alongside other supplements or drugs for persons with diabetes as the potency of psyllium does not appear to be of the level where it alone can provide sufficient help but has a large enough safety profile that drug-drug interactions are not a large concern
+
 
 4.3
 
@@ -270,7 +289,9 @@ A decrease in urinary glucose (22.5%) has been associated with psyllium suppleme
 
 Studies measuring serum insulin do not tend to note many significant differences associated with 6 weeks of 14g psyllium daily.[35]
 
+
 May reduce HbA1c transiently and does not appear to have a significant effect on serum glucose
+
 
 5.
 
@@ -290,7 +311,9 @@ In human interventions, there has been no significant effect of 5g of psyllium t
 
 For studies with weight loss as a primary end goal, psyllium at 'two tables spoons thrice daily' (exact dose not stated) over 150 days in obese persons in a pilot study without controlled diet noted a weight reduction of 5% (no placebo or control group) which underperformed relative to Orlistat and subitramine.[50]
 
+
 There does not appear to be sufficient evidence to support the usage of psyllium supplementation for the purpose of weight loss
+
 
 6.
 
@@ -304,7 +327,9 @@ When assessing the skeletal muscle following consumption of dietary psyllium, an
 
 Mechanistically, there does not appear to be influence on PI3K[51] (activated following activation of the insulin receptor) and an influence was noted in plasma but not intracellular membranes; cellulose was not involved with increasing GLUT4 content[51] and the authors hypothesized this was related to short chain fatty acid production in the intestines from fiber fermentation (seen with other fiber sources[52]) possible via acting upon PPARγ.
 
+
 An increase in GLUT4 content in skeletal muscle may underlie reductions of blood glucose seen with psyllium supplementation, as carbohydrate malabsorption does not appear to be present following consumption of psyllium (suggesting peripheral effects). Preliminary research at the moment
+
 
 One study using rats fed a high fat diet or a high fat diet with psyllium (5% of diet) noted that the reduction in genes involved in fatty acid oxidation (in skeletal muscle) associated with a high fat diet was attenuated, manifesting as a relative increase.[53]
 
@@ -322,11 +347,15 @@ Multiple other studies conducted on psyllium fermentation note that it is resist
 
 This poor fermentation has been noted elsewhere with the bacterial strain Bacteroides ovatus V975 where the poor fermentability of both psyllium and fenugreek fiber were said to underlie their ability to increase fecal roughage[62] (as with less fermentation in the colon comes a retention of gel forming properties; fermentation of the fiber destroys its structure and the gel forming properties would be lost)
 
+
 Due to the structure and sugar composition of psyllium, the gel forming fragment (comprising the majority of psyllium by weight) is poorly and incompletely fermented in the colon by intestinal bacteria. This allows a retention of gel-forming abilities in the colon and subsequently increases fecal roughage, but this fermentability results in less short chain fatty acid production (which are one of a few mechanisms linking systemic health effects to colonic bacteria)
+
 
 Despite the aforementioned poor fermentability, some degree of short chain fatty acids (specifically, butyrate) have been found in the feces of subjects consuming 10g of psyllium husk twice daily.[63]
 
+
 The small portion of psyllium that is able to be fermented has been confirmed to do so in humans
+
 
 7.2
 
@@ -342,13 +371,17 @@ Similar to other soluble fibers, psyllium husk is able to normalize an excessive
 
 One study noted comparable efficacy between psyllium supplementation and a combination of cellulose and pectin for fecal formation;[65] as cellulose is a common indigestible fiber in fruits and vegetables, this study suggests pectin-containing food sources may be equally efficacious.
 
+
 Psyllium can have a slight prolaxatative effect in instances of constipation (nowhere near the potency of laxative compounds such as caffeine or Senna alexandrina) while having anti-motility actions in periods of excessive defecation. Stool tends to be softer when passed when psyllium is in the diet
+
 
 Numerous studies comparing psyllium to control animals have noted a quantitative increase in fecal weight and moisture content independent of changes in food intake, due mostly to increased water resorption in the colon.[21] This has been demonstrated in humans assessed by fecal analysis following oral consumption of psyllium husk[65][66] with one study noting two out of four subjects experiencing a doubling of fecal weight.[22] In a rat model of Colectomy (Colon removed, the moisture content of feces in this rat model at 65-70% better mimicks human moisture content at 70-75%; normal rats reach 12-55%[7]), ingestion of either whole psyllium or the gel forming fragment can increase moisture content from an expected 65-70% to 86-90%.[7]
 
 The water resorbing and fecal forming properties appear to be based upon one poorly fermentable and gel forming fragment of psyllium.[65][7]
 
+
 Psyllium is able to resorb water in the intestines and increase the weight of feces, which is a mechanism thought to underlie the ability to pass 'softer' stool
+
 
 7.4
 
@@ -360,9 +393,12 @@ Gas production in the intestines occurs secondary to bacterial fermentation of f
 
 One study using 30g of psyllium with a meal and measuring flatulence (intrarectal catheter) relative to no fiber control has noted a decrease in flatus independent of any effect on farting flow rate, volume (physical property rather than audio), pressure, or duration.[70] The authors hypothesized that this was related to fecal absorption of gases (which may contribute to the known 'softness' of stool associated with psyllium) and that passing stools excreted gas independently of farting.[70]
 
+
 Fiber in general is proflatus (pro- meaning increase, -flatus being a term used to refer to flatulence of farting) although psyllium appears to be less proflatus than other fibers comparatively with some studies suggesting no significant 'flatuence' related side-effects.
 
+
 One study, which has not yet been replicated, has empirically measured less flatulence following a single dose of psyllium husk. It was thought that this was related to the feces absorbing gas and it being excreted independently of farting
+
 
 7.5
 
@@ -378,17 +414,23 @@ Dietary fiber in general (although bran and psyllium mostly of concern) appear t
 
 The increased iron absorption seen in periods of anemia, at least in dogs, appears to persist even when dietary fiber is introduced.[77]
 
+
 In vitro and in acute experiments, psyllium appears to slightly but significant reduce iron absorption secondary to directly binding to the iron and preventing its uptake. This inhibition is markedly less than that seen with wheat bran fiber, but more than that seen with pectin (pectin, overall, is fairly inactive)
+
 
 In regards to dietary minerals, one study in children (high cholesterol) with supplemental psyllium husk did not note any significant variations in circulating serum minerals (iron, zinc, and calcium) following 6g of psyllium husk daily for 4-5 weeks[79] and this failure to modify serum iron and zinc has been replicated in men with high cholesterol following 10g daily for 8 weeks[80] and 14g psyllium daily for 8 weeks (Iron only).[35] A study in hypercholesterolemics using 10g psyllium or a similar amount of pectin fiber via cereal has also noted that the reduction in serum iron seen in placebo (21 to 17mmol/L) was not present in fiber groups, manifesting as a relative increase.[81]
 
+
 There do not appear to be significant reduction in serum zinc or iron following routine consumption of psyllium husk in the diet at doses of up to 10g daily for maximal periods of up to 8 weeks (higher doses and time periods not assessed), suggesting the inhibition of nutrient binding may not be practically relevant. A limitation of these studies is assessing serum iron (a marker of chronic iron stores, a transferritin reading would reflect more transient fluctuations in iron)
+
 
 It has been noted ex vivo that the pH of solution containing psyllium (prior to fermentation and then allowed the limited fermentation to occur) is subsequently reduced (6.78 to 6.62; blank plate increased to 6.92) which was comparable to β-Glucan but underperformed to long-chain Inulin (6.39) and fructooligosaccharides (6.18).[57] Fermentable fibers such as Inulin have been noted to increase mineral absorption in the colon (calcium and magnesium most researched) due to increasing pH in the colon,[82][83] with limited evidence suggesting that this does occur with psyllium but to a lesser degree relative to Pectin.[84]
 
 Coingestion of carbohydrates alongside the fiber, in rats, does not appear to modify psyllium's actions on calcium absorption.[84]
 
+
 It is possible that an increase in pH in the colon secondary to the limited fermentation of psyllium (seen in vitro) can increase mineral uptake in the colon and may underlie overall null effects on mineral status in living models, but this possible mechanism has not been fully explored as it pertains to psyllium
+
 
 7.7
 
@@ -396,7 +438,9 @@ Inflammatory Bowel Diseases
 
 In persons undergoing remission for ulcerative colitis, it appears that supplementation of psyllium husk seeds at 10g twice daily (for a total daily dose of 20g) is able to sustain remission with a potency comparable to 500mg mesalamine (thrice daily dosing) with the two being slightly additive.[63]
 
+
 Appears to preserve remission in persons with inflammatory bowel diseases
+
 
 8.
 
@@ -408,11 +452,15 @@ Stomach
 
 Consumption of psyllium (10.8g) immediately prior to a mixed test meal (445kcal) is associated with an delay in gastric emptying (3-6 hours after meal ingestion, with no difference 1-3 hours after) as assessed by echographic evaluation.[14] This study also confirmed a high correlation (R=0.957-0.989) between the content of food in the stomach and appetite, with psyllium suppressing appetite relative to placebo only at the 6 hour mark.[14] These effects seem to be related to the gel forming properties of psyllium, as they have been mimicked in vitro with other soluble fibers.[85]
 
+
 Consumption of psyllium (and common to all gel-forming fibers) has been associated with reduced gastric emptying rates, retaining a greater portion of ingestion food in the stomach which may influence satiety
+
 
 A class of drugs known as 'floating drugs' aim to prolong the time a drug is retained in the stomach, and are used to either bioavailability (if said drug can be absorbed through the gastric wall and would be destroyed in the intestines by high pH) or targeted delivery (increases time to target gastric ulcers);[86] psyllium is useful here since it may swell up to 14 times its initial size and has density lower than that of gastric fluid[87] and an in vitro assessment noted that 75-125mg of psyllium husk in a capsule was associated with a reduced rate of drug release in the presence of HCl while not affecting overall release.[87] Other studies have noted some efficacy with psyllium in this regard[88][89][90] and are being put to use in combination with Silymarin (Milk thistle)[91] and Licorice.[87]
 
+
 May have a role in benefitting drugs that require time exposure (AUC) in the stomach
+
 
 9.
 
@@ -448,11 +496,15 @@ Some reports exist of psyllium dust (from dropping the powder and having it disp
 
 Due to the above, psyllium exposure is known as a workplace occupational hazard for healthcare workers[96][97][95] and in pharmaceutical plants that manufacture psyllium.[98][99][100]
 
+
 Inhalation of the fumes of psyllium dust is known to be a significant irritant and may cause broncial distress in persons who inhale psyllium frequently (medical workers) or have moderate to severe asthma, which seems to be a risk factor for psyllium induced broncial distress
+
 
 The endosperm and seed embryo components, but not the gel-forming colloid, are allergenic[101] and all components are present within fiber supplements to varying concentrations depending on processing and purity.[101][93] Although comparatively less frequent than asthmatic aggravation via inhalation, allergies to oral psyllium containing products have been reported.[102]
 
 The most common method of psyllium triggered anaphylaxis appears to be via cereal ingestion from enriched food products[103] although supplementation has been linked to anaphylaxis (workplace sensitization to psyllium may have been a factor[102]).
 
+
 Comparatively less frequent, but allergic reaction from oral psyllium supplements has also been reported
+
 

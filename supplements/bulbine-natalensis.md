@@ -102,7 +102,9 @@ With the control group just below 1ng/mL circulating testosterone, the most effe
 
 Other studies looking at testosterone levels note increases of up to 346% of control level in male rats at 50mg/kg bodyweight,[5] although 100mg/kg has been associated with a non-significant decline in testosterone levels below control.[5][3]
 
+
 Testosterone is reliably enhanced in rats, and fairly potently as well. However, the higher dosages of 100mg/kg appear to be either as potent at 25mg/kg or worse than nothing at all, decreasing testosterone. Dose is very important here, and a toxicological bell curve exists
+
 
 Mechanistically, supplementation of the active dose (25-50mg/kg bodyweight Bulbine Natalensis) is associated with an increase in the activities of alkaline and acid phosphatases.[1] The activity of the phosphatase enzymes correlates somewhat with increases in testicular and serum testosterone.[1]
 
@@ -194,7 +196,10 @@ As mentioned in the sections on organs, Bulbine Natalensis appears to adversely 
 
 A preliminary investigation into humans (poster presentation found here,[7] financially supported by  Sports Nutrition Research LTD which produced the tested supplement) ingesting 325mg of bulbine natalensis twice daily (650mg total, separated by 6 hours) for 28 days in otherwise healthy men noted a slight increase in ALP (2% while placebo decreased 2.4%) which were deemed to not be clinically relevant.
 
+
 There appear to be repeated nonlethal toxic effects demonstrated in rodents from one research group based in South Africa, while the lone human study on bulbine (which is financially supported by a producer of bulbine) noted an increase in the liver enzyme ALP which was not to a clinically large degree.
 
+
 Currently, the histopathological changes that have been noted in rats have not been sufficiently addressed in humans. While 650mg bulbine does not appear highly damaging according to preliminary evidence, a toxic effect cannot be ruled out
+
 

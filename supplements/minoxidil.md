@@ -64,7 +64,9 @@ Another plausible explanation could be blood flow enhancement, where increased b
 
 Finally, it is plausible that Minoxidil works via the immune system. As was indicating in a letter to the editor[7] it was suggested that the stimulation of prostaglandin synthase-1[8] and subsequent production of PGE(2)[9] may induce hair growth. It should be noted that general hair loss (alopecia areata) appears to be involved with the immune system, where excessive Th1 signalling relative to Th2 is associated with the pathophysiology of Alopecia Areata.[10]
 
+
 Overtly, a prolongation of the Anagen phase of hair follicles is seen which promotes their growth. The mechanism behind this promotion of Anagen are currently unknown
+
 
 2.2
 
@@ -74,9 +76,12 @@ Androgenic Alopecia is a term for male pattern baldness, a form of hair loss ori
 
 A Comparative study specifically looking at Androgenic Alopecia comparing 5% Minoxidil solution (50mg) against 1 (10mg) each twice daily, and it was found that after 24 weeks the increased concentration was able to significantly increase the benefits of hair regrowth when measured at 8, 16, and 24 weeks.[14] The mean change from baseline in the lower dose (in regards to vellous hair count) was 21.2 and in the 5% group 26.4 and similar trends were seen for total hair count, thus the benefits were not 5-fold higher with the higher group although they were significantly higher.[14] This study noted a response rate of 77.4% in the 1% group and 81.1% in the 5% group when looking at slight improvement or better, and 30.8% and 17.1% respectively when looking at moderate improvement (assessed by study investigators).[14]
 
+
 Minoxidil appears to work on Male Pattern Baldness, but the degree of efficacy and response rate tend to be lower than its effects on general hairloss (Alopecia Areata) as Minoxidil does not work by anti-androgenic means (primary pathology of Male Pattern Baldness)
 
+
 Short term trials note a response rate above 60% while longer term trials pinpoint it at less than 30%, with the decrease being in part a lack of Minoxidil to sustain hair regrowth but mostly due to voluntary dropout
+
 
 2.3
 
@@ -88,11 +93,15 @@ Relative to placebo, a foam Minoxidil (5%) for 16 weeks is associated with 70.6%
 
 When comparing a 5% solution against a 1% solution, the responses for 'slightly' and 'moderately' improved are 81.1% and 30.8% (5%) against 77.4% and 17.1%, suggesting getting a solution up to 5% is slightly more effective.[14] Response rate of 5% Minoxidil after 12 months of treatment has been noted at 52% in androgenic alopecia, lower than 1mg Finasteride[17] and in females with Alopecia Areata 5% Minoxidil is more effective than 2% when assessed by patients and by nonvellous hair count.[18] Although 5% Minoxidil trends to be more effective than 1-2% at early measurements, most statistically significant differences are seen at 48 weeks[17] although sometimes noted as soon as 8 weeks.[19] One study has noted that, at 48 weeks, that 5% Minoxidil resulted in 45% more hair regrowth when compared against 2% Minoxidil (despite both being more effective than placebo) [19]
 
+
 Higher concentrations of Minoxidil up to 5% appear more effective, but despite the more than doubling of the dose (from 2%) they are not twice as effective. Response rates are increased slightly as well as degree of efficacy with the 5% formulations, solution or foam
+
 
 When Minoxidil usage is ceased, the rates of hair regrowth are normalized and the appearance of balding returns to baseline within 4-6 months.[20][21][22] If maintained, the increase in hair regrowth when measured at 2 years is usually an average of 30% more than placebo with 5% trending to be more effective than 2%; this study is relatively low powered.[20]
 
+
 Minoxidil is a hair loss band-aid, and not a cure; cessation of Minoxidil slowly abolishes the benefits to hair and returns to regular balding patterns
+
 
 2.4
 
@@ -100,7 +109,9 @@ Comparative Interventions
 
 Minoxidil 5% Foam is a new delivery method of Minoxidil, and appears to be effective in persons with androgenic alopecia (male pattern baldness).[16] One study comparing a foam of 5% Minoxidil (once daily application, a cupful delivering 50mg) against twice-daily 2% Minoxidil solution (20mg in each application) in women suffering from alopecia noted that, over the course of 24 weeks, that 5% foam trended towards being more effective than 2% Minoxidil solution and increased hair count by 16.2% while the solution increased it by 13.8%.[15] The foam was rated as significantly better for not interfering with hair styling and with less reported side-effects, response rate was slightly elevated from 56.1% to 67.7%.[15]
 
+
 Minoxidil foam appears to work with once-daily application, and may be slightly more effective than traditional solutions
+
 
 3.
 
@@ -128,7 +139,9 @@ Ketoconazole (Nizoral) is a topical application that can reduce the synthesis of
 
 One study using a combination of 2% ketoconazole shampoo and 2% Minoxidil noted that the combination was more effective than 2% Minoxidil in isolation and more effective than 1mg Finasteride in isolation, but less effective than the combination of 2% Minoxidil and 1mg Finasteride.[28] A later study in 8 men with Androgenic Alopecia comparing 2% Ketoconazole applied 2-4 times weekly and daily application of Minoxidil noted that Minoxidil was nonsignificantly more effective at inducing hair regrowth.[29]
 
+
 May have additive or synergistic benefits, but studies on the combination are low powered
+
 
 4.
 

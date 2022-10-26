@@ -112,17 +112,23 @@ Composition and Structures
 
 Fucus vesiculosus contains the following active ingredients:
 
-FucoxanthinFucophlorethol compounds (Fucotriphlorethol A)Several Phlorotannins[5]Polysaccharides containing Fucose, a monosaccharide, and sulfur.[6] FCSPs may be limited to brown seaweed, or the Phaeophyceae class[6] and are also called FucoidansPossible bioaccumulation of minerals, quantities unpredictable[7][8]High probability of the prefix of fuco- being used to identify compounds from seaweed
+FucoxanthinFucophlorethol compounds (Fucotriphlorethol A)Several Phlorotannins[5]Polysaccharides containing Fucose, a monosaccharide, and sulfur.[6] FCSPs may be limited to brown seaweed, or the Phaeophyceae class[6] and are also called FucoidansPossible bioaccumulation of minerals, quantities unpredictable[7][8]
+High probability of the prefix of fuco- being used to identify compounds from seaweed
+
 
 Phlorotannins are a class of molecules that are based on the backbone of phloroglucinol (1,3,5-trihydroxybenzene) and, currently, are only known to be in the brown seaweed class of plants (Phaeophyceae).[9] Their structures are building block in nature (similar to lignans and terpenes) and thought to be created in this class of seaweed by a polyketide pathway,[10] phlorotannins can be subdivided based on the bonds they possess, such as aryl-aryl bonds (fucols) and arylether bonds (phlorethols).[9][10] Some examples of Phlorotannin structures are depicted below:
 
 Relative to the other seaweed species of Pelvetia canaliculata, Fucus spiralis, Ascophyllum nodosum and Saccharina longicruris it appears Bladderwrack has a significnantly higher content of low-weight phlorotannin structures (either phloroglucinol in isolation, or smaller structure sizes).[9]
 
+
 Phlorotannins are a unique class of molecules limited to brown seaweed (the plant class of Phaeophyceae, not limited to Bladderwrack), but are currently not too well studied
+
 
 Fucoidans are a blanket statement to address some of the carbohydrates of seaweed. Fucoidans are polysaccharides with the main backbone consisting of either 1-3 linked fucopyranosyl residues or an alteranting 1-3 and 1-4 chain of the same residues.[6] Short fucoside or sulfate substitutions can exist at C-2 or C-4, and some other minor substitutions (acetate, xylose, mannose, glucuronic acid, galactose, or glucose) may be present,[11][12][13] and the sulfur content of Bladderwrack fucoidans has been calculated to be 38.4%.[14] Fucoidans tend to be implicated in aspects of immunology and cancer as it pertains to brown seaweed, and those in brown seaweed may also be implicated in maintenance of blood health (in regards to clotting).
 
+
 Fucoidans are bioactive carbohydrate compounds, classified as dietary fiber due to an apparent lack of absorption, which are involved with immunology in similar manners as Beta-glucans, Ganoderma Lucidum polysaccharides, and Panax Ginseng polysaccharides
+
 
 2.
 
@@ -248,7 +254,9 @@ Lipolysis
 
 One study which happened to use a mixture of ingredients (retinol at 0.5uM, Conjugated Linoleic Acid at 0.003%, glaucine at 0.1% and both furcelleria lumbricalis and Bladderwrack at 0.1% each) found significant synergism when put into adipocytes, as the release of glycerol (a measure of triglyceride hydrolysis inside the cell) from the adipocytes was approximately double the sum of each individual ingredient.[49] The authors did not narrow down which of the above molecules were synergistic.
 
+
 Although the each synergistic mechanisms are not know, CLA seems to be a promising candidiate. This is based on fucoxanthin being demonstratably synergistic with Punicic Acid that has mechanisms akin to CLA. However, the degree of synergism seen here is much greater, suggesting another player is involved
+
 
 10.
 

@@ -122,13 +122,17 @@ Evodia Rutaecara, the dried unripe fruit of which is also known as Wu zhu yu (Wu
 
 When consuming Wu Zhu Yu Tang in a traditional manner, the estimated intake of Rutaecarpine is 16mg daily (extrapolated from the average intake of 9g berry extract taken thrice a day) and slightly higher levels of evodiamine.[2][3]
 
+
 Traditionally eaten when you are cold; apparently warms you up real nicely while making your stomach and intestines happy. Also supposedly fights cancer
+
 
 1.2
 
 Composition
 
-Evodiamine[4] and dehydroevodiamine, two forms of one of the main compounds belong to the 'quinazolinocarboline alkaloid' class [5] Evodiamine is found in the range of 0.2-1.6%, with the lower range of the samples tending to have more dehydroevodiamine (0.12-0.86%), suggesting interconversion[6]Rutaecarpine and its metabolite 10-hydroxyrutaecarpine (as well as the former's glycoside, rutaecarpine-10-O-rutinoside[7]) the forms of the other main quinazolinocarboline alkaloid.[5] Rutaecarpine is at around 0.15-0.55% in evodia fruit.[6]Other quinazolinocarboline alkaloids such as wuchuyine and rhetsinine[8][9] and Evodiamide, which is at around 0.005-0.08% usually, although some plants have been noted as high as 0.4-0.6%[6]The quinoline alkaloids Evocarpine, Dihydroevocarpine, 1-methyl-2-n-nonyl-4(1H)quinolone[5] as well as a large amount (17+) of others[10]Wuzhuyuamide-I[7] at low levels (0.00003%)[11]Flavonoids and flavonoid glycosides such as isorhamnetin-7-O-rutinoside and diosmetin-7-O-β-d-glucopyranoside[5]Acylgluconic acids such as trans-feruloylgluconic acid and trans-caffeoylgluconic acid[11] at 0.00003% and 0.0006% whole fruit, respectively (although can be isolated in a methane-ethanol extraction)[11]Limonoid compounds such as Limonin[12] (not to be confused with Limonene) as well as evodirutaenin, evodol, and shihulimonin A[13]Myo-inositol[11] at 8g per 299.5g sample (2%)[11]Pthalic acid dibutyl ester at 8mg per 299.5g (miniscule)[11]Essential oils of β-pinene (72.82%), 1R-α-pinene (8.90%), and β-myrcene (1.99%)[14]Main collection of compounds are the quinazolinocarboline alkaloids, evodiamine and rutaecarpine (named after the two parts of the herbs name respectively, Evodia Rutaecarpa). The flavonoids, limonoid, and other alkaloid compounds are most likely also bioactive, and the Inositol content is quite respectable and may be bioactive. The content of the main bioactives is relatively low, however
+Evodiamine[4] and dehydroevodiamine, two forms of one of the main compounds belong to the 'quinazolinocarboline alkaloid' class [5] Evodiamine is found in the range of 0.2-1.6%, with the lower range of the samples tending to have more dehydroevodiamine (0.12-0.86%), suggesting interconversion[6]Rutaecarpine and its metabolite 10-hydroxyrutaecarpine (as well as the former's glycoside, rutaecarpine-10-O-rutinoside[7]) the forms of the other main quinazolinocarboline alkaloid.[5] Rutaecarpine is at around 0.15-0.55% in evodia fruit.[6]Other quinazolinocarboline alkaloids such as wuchuyine and rhetsinine[8][9] and Evodiamide, which is at around 0.005-0.08% usually, although some plants have been noted as high as 0.4-0.6%[6]The quinoline alkaloids Evocarpine, Dihydroevocarpine, 1-methyl-2-n-nonyl-4(1H)quinolone[5] as well as a large amount (17+) of others[10]Wuzhuyuamide-I[7] at low levels (0.00003%)[11]Flavonoids and flavonoid glycosides such as isorhamnetin-7-O-rutinoside and diosmetin-7-O-β-d-glucopyranoside[5]Acylgluconic acids such as trans-feruloylgluconic acid and trans-caffeoylgluconic acid[11] at 0.00003% and 0.0006% whole fruit, respectively (although can be isolated in a methane-ethanol extraction)[11]Limonoid compounds such as Limonin[12] (not to be confused with Limonene) as well as evodirutaenin, evodol, and shihulimonin A[13]Myo-inositol[11] at 8g per 299.5g sample (2%)[11]Pthalic acid dibutyl ester at 8mg per 299.5g (miniscule)[11]Essential oils of β-pinene (72.82%), 1R-α-pinene (8.90%), and β-myrcene (1.99%)[14]
+Main collection of compounds are the quinazolinocarboline alkaloids, evodiamine and rutaecarpine (named after the two parts of the herbs name respectively, Evodia Rutaecarpa). The flavonoids, limonoid, and other alkaloid compounds are most likely also bioactive, and the Inositol content is quite respectable and may be bioactive. The content of the main bioactives is relatively low, however
+
 
 1.3
 
@@ -156,9 +160,13 @@ Rutaecarpine had a half-life of 0.98 ± 0.39 hours, a Tmax of 1.26 ± 0.23 hours
 
 Dehydroevodiamine had a half life of 0.79 ± 0.21 hours, a Tmax of 1.07 ± 0.15 hours, a Cmax of 7.64 ± 0.63ug/mL, and an AUC of 12.39 ± 2.71ug/h/mL.[5] In isolation, dehydroevodiamine appears to have better bioavailability than the previous two molecules (averaged at 15.35% in rats[9]) yet at least one study has investigated Dehydroevodiamine and its circulating levels in conjunction with other plants, and consumption of Evodia alongside Rhizoma Coptidis (1:6 ratio, combination known as Zuojinwan) appears to preserve the Tmax (1.6 hours without, 1.8 hours as Zuojinwan) yet elevate the Cmax 2.66-fold (15,383 ± 7166 to 40,992 ± 21,052) while reducing the Tmax (3.5 ± 3.0 hours to 1.5 ± 1.1) and causing a large increase in the AUC to infinity by 174% (68,134 ± 19,162 to 186,715 ± 39,211).[20]
 
+
 The three main components of Evodia Rutaecarpa all appear to be highly subject to herb-herb interactions, where their absorption and circulating levels are much higher when in the form of the whole plant rather than isolated chemical and even higher when paired in Traditional Chinese Medicine decoctions. It may be worthless to supplement evodiamine or rutacarpine in isolation if your goal is to get it to your blood (fine if you want it in the colon) due to poor bioavailability
 
-10-hydroxyrutaecarpine had a Cmax of 0.76 ± 0.16ug/mL and a Tmax of 0.50 ± 0.25 with an AUC of 9.32 ± 2.93ug/h/mL, but an undetectable half-life.[5]1-methyl-2-n-nonyl-4(1H)quinolone had a Cmax of 3.16 ± 1.28ug/mL at a Tmax of 0.77 ± 0.15 hours, its AUC was 9.83 ± 1.51ug/h/mL and half-life was 2.18 ± 0.47 hours.[5]Evocarpine had a half-life of 0.53 ± 0.18 hours and a Tmax of 0.88 ± 0.17 hours, with a Cmax of 11.53 ± 6.97ug/mL and an AUC of 33.66 ± 10.52ug/h/mL.[5]Dihydroevocarpine had a half-life of 0.49 ± 0.21 hours and a Tmax of 0.79 ± 0.15 hours, a Cmax of 6.05 ± 2.87ug/mL and an AUC of 16.53 ± 5.79ug/h/mL.[5]Isorhamnetin-7-O-rutinoside had a half-life of 0.67 ± 0.30 hours, a Tmax of 0.95 ± 0.25 hours, a Cmax of 2.21 ± 0.32ug/mL, and an AUC of 7.54 ± 1.03ug/h/mL.[5]Diosmetin-7-O-β-d-glucopyranoside had a half-life of 0.95 ± 0.51 hours, a Tmax of 1.53 ± 0.17 hours, a Cmax of 1.73 ± 0.51ug/mL, and an AUC of 9.41 ± 3.57ug/h/mL.[5]In general, all compounds tend to have low to moderate bioavailability and relatively rapid pharmacokinetic profiles; hitting their peak concentrations in the blood before or at an hour after administration. Evodiamine and Rutaecarpine seem to really benefit from being ingested as a whole berry rather than isolated compounds
+
+10-hydroxyrutaecarpine had a Cmax of 0.76 ± 0.16ug/mL and a Tmax of 0.50 ± 0.25 with an AUC of 9.32 ± 2.93ug/h/mL, but an undetectable half-life.[5]1-methyl-2-n-nonyl-4(1H)quinolone had a Cmax of 3.16 ± 1.28ug/mL at a Tmax of 0.77 ± 0.15 hours, its AUC was 9.83 ± 1.51ug/h/mL and half-life was 2.18 ± 0.47 hours.[5]Evocarpine had a half-life of 0.53 ± 0.18 hours and a Tmax of 0.88 ± 0.17 hours, with a Cmax of 11.53 ± 6.97ug/mL and an AUC of 33.66 ± 10.52ug/h/mL.[5]Dihydroevocarpine had a half-life of 0.49 ± 0.21 hours and a Tmax of 0.79 ± 0.15 hours, a Cmax of 6.05 ± 2.87ug/mL and an AUC of 16.53 ± 5.79ug/h/mL.[5]Isorhamnetin-7-O-rutinoside had a half-life of 0.67 ± 0.30 hours, a Tmax of 0.95 ± 0.25 hours, a Cmax of 2.21 ± 0.32ug/mL, and an AUC of 7.54 ± 1.03ug/h/mL.[5]Diosmetin-7-O-β-d-glucopyranoside had a half-life of 0.95 ± 0.51 hours, a Tmax of 1.53 ± 0.17 hours, a Cmax of 1.73 ± 0.51ug/mL, and an AUC of 9.41 ± 3.57ug/h/mL.[5]
+In general, all compounds tend to have low to moderate bioavailability and relatively rapid pharmacokinetic profiles; hitting their peak concentrations in the blood before or at an hour after administration. Evodiamine and Rutaecarpine seem to really benefit from being ingested as a whole berry rather than isolated compounds
+
 
 2.2
 
@@ -182,7 +190,9 @@ Rutaecarpine is metabolites mostly by cytochrome P450 1A2 (aromatase) at the 10,
 
 Interestingly, Rutaecarpine's metabolite 10-hydroxyrutaecarpine, which is produced by CYP3A4, can act as an aromatase inhibitor, inhibiting CYP1A1 and CYP1A2 (two aromatase isomers) with IC50 values of 2.56 ± 0.04uM and 2.57 ± 0.11uM, respectively.[3] Rutaecarpine also shares aromatase inhibitory potential with preference for CYP1A2,[26] but prolonged (3 days) ingestion of rutaecarpine,[27] Evodia,[2] or a Wu Zhu Yu Tang mixture of which effects are attributable to Evodia[2] may cause CYP1A induction and thus the opposite effects of inhibition.
 
+
 Rutaecarpine technically is an aromatase inhibitor, but causes increased aromatase activity relatively quickly
+
 
 CYP1B1 is also inhibited by 10-HRT at 0.09 ± 0.01uM.[3] CYP3A4 seems to be unaffected by rutaecarpine.[27]
 
@@ -222,7 +232,9 @@ Evodia Rutacarpa has been investigated for its effects on body fat due to it bei
 
 This heat production, however, is not the sole reason for evodiamine's fat burning effects.[33]
 
+
 Evodiamine has been traditionally used to increase warmth, and it appears it might increase both heat production and reduce the perception of cold. However, the studies from which this data is drawn are not suited to human oral consumption of Evodia
+
 
 4.2
 
@@ -232,7 +244,9 @@ When incubated in preadipocytes, evodiamine is able to activate the MAPK cascade
 
 Inhibition of preadipocyte differentiation has been noted elsewhere relatively dose-dependently, but most significantly at 4uM concentration or above[36] and in vivo following injections of evodiamine.[37] The authors mentioned this was 'negative crosstalk' with insulin signalling, which interferes with its effects.[33]
 
+
 Evodiamine appears to exert anti-obesity effects via inhibiting preadipocyte differentiation
+
 
 4.3
 
@@ -240,7 +254,9 @@ Interventions
 
 One study on mice fed 0.03% evodiamine and rats fed 1.35% evodia extract (standardized to 0.02% evodiamine) in their obesity causing diets over 21 days showed no difference in food intake compared to control (important to note, as the adverse taste of capsaicin screws with food intake in animal studies) but a small reduction in fat mass on mice (28% reduction of perirenal fat, 11% less epididymal fat) and decreases in weight (-10.3% relative to control) and increased thermogenesis; suggesting evodiamine may exert an anti-obesity effect.[31] Another study investigating mechanisms fed 0.03% evodiamine for 6 months and noted significant anti-obesity effects by reducing the rate of weight gain, and this persisted in UCP1 knockout mice who were unable to produce heat from evodiamine.[33]
 
+
 Evodiamine has been shown to prevent fat gain to a degree in mice fed a diet that induces fat gain, but has not yet been demonstrated to induce fat loss. The heat producing effects of evodiamine may not be related to attenuation of fat gain
+
 
 5.
 
@@ -282,7 +298,9 @@ Evodiamine has an IC50 value of 6.02uM in MCF-7 breast cancer cells, which expre
 
 Evodiamine is a dual catalytic topoisomerase I and II inhibitor,[47] and shows efficacy against some cells that are resistant to the more potent topoisomerase I inhibitor Camptothecin,[47] and does not seem to induce DNA damage.[47] A flavanoid from evodiamine also possesses dual inhibitory potential.[45]
 
+
 A mechanism by which Evodia Fructs may be anti-cancer; awaits more studies to see its overall clinical relevance, but its dual inhibition is novel and promising at least
+
 
 6.2
 
@@ -306,7 +324,9 @@ This effect is rather significant; pretreatment of 80mg/kg oral Rutaecarpine dai
 
 Rutaecarpine is able to induce (increase) activity of various hepatic enzymes such as CYP1A2, CYP2B, and CYP2E1;[27][68] CYP2E1 induction is seen at 80mg/kg oral ingestion in rats while only 20mg/kg is needed for CYP1A2.[66] As caffeine is highly metabolized by CYP1A and CYP2E1, their increased activity causes greater metabolism of caffeine in a shorter time frame and thus limits systemic exposure.
 
+
 Rutaecarpine appears to potently suppress the circulating levels of caffeine via increasing hepatic and intestinal degradation; a highly antagonistic compound
+
 
 7.2
 
@@ -316,11 +336,15 @@ The pair of Evodia fruit and Rhizoma Coptidis (rhizome of Coptis chinensis) is k
 
 Coptis and Evodia form a dichotomy of cold and hot (Yin and Yang), respectively, where Coptis reportedly induces a cold state and a seeking process for a warm environment while Evodia induces heat and the seeking behavior for a cold environment.[70] Coptis seems to be able to reduce internal body temperature and oxygen consumption in mice and prolong time spent in a warm environment (as assessed by warm pads) while Evodia increases time in a cold environment, and increases both oxygen consumption and body temperature.[70] Zuo jin wan is classified as cold whereas Fan zuo jin wan is classified as warm.[69][70] The only currently known biomarker for this temperature preference is liver ATPase activity.[71][72]
 
+
 Coptis Chinensis and Evodia Fructus appear to be mostly antagonist to each other in how they are seen to affect temperature; yet they are used together in decoctions and mixtures (for acute conditions and short-term usage; a 'harmonizing of hot and cold' treatment strategy). The historical reports of Evodia's 'heat' and Coptis's 'cold' properties actually do seem to have some merit, as evidenced by the rat preference tests trying to bioregulate their temperature
+
 
 When looking at the pharmacokinetics of the combination, Rhizoma Coptidis appears to benefit the pharmacokinetics and circulating levels of some bioactives in Evodia such as dehydroevodiamine[20] by about 274% of the value of Evodia alone despite the same oral dosage (AUC value).[73] Evodia seems to either not significantly affect the pharmacokinetics of some Coptidis molecules such as coptisine (acutely)[20] yet increase general absorption[74] but can reduce the AUC of various alkaloids (coptisine, palmatine, jateorrhizine) after prolonged ingestion and reduce the AUC and Cmax values of the berberine content of Coptidis Rhizoma either chronically[74] or acutely.[73] This was hypothesized to be secondary to Evodia Fructus pretreatment enhancing the expression of hepatic UGT1A1, a sulfation enzyme, which conjugated compounds in Coptidis Rhizoma.[74]
 
+
 Coptidis chinensis rhizome enhances the bioavailability and circulating amount of co-ingested Evodia fruit, but Evodia fruit hinders the absorption and circulating amount of the active ingredients of Coptidis Chinensis; almost as if the former is sacrificing itself for the latter
+
 
 7.3
 
@@ -328,7 +352,9 @@ Paeoniflorin
 
 Paeoniflorin is the main bioactive found in the herb Paeonia Lactiflora, and its bioavailability and circulating amounts are enhanced by various herbs. Although not to the same degree of Fennel fruit (which increases bioavailability to 226.02% of the level of Paeoniflorin in isolation), consumption of Paeoniflorin alongside Evodia fruit elevates relative absorption to 123.62%.[75]
 
+
 Paeonia Lactiflora doesn't do much for Evodia, but Evodia enhances the absorption of Paeonia Lactiflora bioactives
+
 
 8.
 

@@ -68,7 +68,9 @@ Composition
 
 As a mushroom, King Oyster is similar to many Herbal Supplements in the sense that it contains a variety of bioactives such as:
 
-Eryngiolide A,[5] an anticancer macrocyclic diterpene possibly formed from two 1,2-dihydromintlactone molecules[5]A hemolysin with two components, Erylysin A and Erylysin B; not heat stable at 37°C for 5 hours[6]Eryngase[7] and Eryngeolysin[8]Bioactive peptides named Eryngin[9] and Pleurostrin[10]Pleurone[11]Beta-Glucans at 20-50% of dry matter (weight after water is removed)[12] and some other polysaccharides such as 3-O-methylated alpha-galactans[13] and an anti-oxidant polysaccharide[14]Up to 8 different sterol compounds[15]Dietary protein, with up to 1.88-2.65% of total fresh weight as protein (and 5.3% nitrogen content)[3]Dietary lipids, at around 0.8% fresh weight[3]A minor hydrogen cyanide (HCN) content, 1-2mg/kg and lesser with cooking, in the basidiomata[16][3]Dietary Minerals such as Calcium (74.28+/-0.04mcg/g), Copper (7.474+/-0.002mcg/g), Zinc (27.91+/-0.01), Sodium(678+/-0.2mcg/g), Magnesium (740+/-230mcg/g), Potassium (17.6+/-4.2mg/g), Phosphorus (9.0+/-2.6mg/g), and Sulfur(4.5+/-1.3mg/g).[17]It is quite unheard of to see such a large and round molecule; quite an interesting structure. It appears that two of the center molecules, the 1,2-dihydromintlactones, may unhinge at the 4 carbon and form this cyclic structure
+Eryngiolide A,[5] an anticancer macrocyclic diterpene possibly formed from two 1,2-dihydromintlactone molecules[5]A hemolysin with two components, Erylysin A and Erylysin B; not heat stable at 37°C for 5 hours[6]Eryngase[7] and Eryngeolysin[8]Bioactive peptides named Eryngin[9] and Pleurostrin[10]Pleurone[11]Beta-Glucans at 20-50% of dry matter (weight after water is removed)[12] and some other polysaccharides such as 3-O-methylated alpha-galactans[13] and an anti-oxidant polysaccharide[14]Up to 8 different sterol compounds[15]Dietary protein, with up to 1.88-2.65% of total fresh weight as protein (and 5.3% nitrogen content)[3]Dietary lipids, at around 0.8% fresh weight[3]A minor hydrogen cyanide (HCN) content, 1-2mg/kg and lesser with cooking, in the basidiomata[16][3]Dietary Minerals such as Calcium (74.28+/-0.04mcg/g), Copper (7.474+/-0.002mcg/g), Zinc (27.91+/-0.01), Sodium(678+/-0.2mcg/g), Magnesium (740+/-230mcg/g), Potassium (17.6+/-4.2mg/g), Phosphorus (9.0+/-2.6mg/g), and Sulfur(4.5+/-1.3mg/g).[17]
+It is quite unheard of to see such a large and round molecule; quite an interesting structure. It appears that two of the center molecules, the 1,2-dihydromintlactones, may unhinge at the 4 carbon and form this cyclic structure
+
 
 2.
 
@@ -138,5 +140,7 @@ Bone Metabolism
 
 A water extract of King Oyster has been shown, in vitro, to increase Alkaline Phosphatase activity at 0.08-10ul/mL concentrations (1.5 and 2-fold increases, respectively) and was able to delay the progression of osteoporosis ex vivo (in bones removed from mice) from 16% over 4 weeks in control to 8%.[24] These effects may be secondary to estrogen-like activity, as a study in ovariectomized rats (to model menopause) found that 0.3% of an ethanolic extract of the fruiting bodies per day for 75 days of treatment had better bone mineral density relative to control by 14% (with estrogen at 30ug/kg being 25% higher than control).[19]
 
+
 May be useful to menopausal women for reducing the risk of osteoporosis, but appears to be estrogenic
+
 

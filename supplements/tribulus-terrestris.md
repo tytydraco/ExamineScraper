@@ -188,13 +188,17 @@ Sources
 
 Tribulus terrestris (of the family Zygophyllaceae) is an annual creeping herb widespread in China, eastern Asia, and extends into western Asia and southern Europe. The fruits of this plant have been used in Traditional Chinese Medicine for the treatment of eye trouble, edema, abdominal distention, high blood pressure, and cardiovascular diseases while in India its usage in Ayurveda was for the purpose of impotency, poor appetite, jaundice, urogenital disorders, and cardiovascular diseases.[1][2][3][4][1] In Ayurvedic medicine, Tribulus terrestris is referred to as Gokshura or Chhota Gokshura for the treatment of lower back pain, sciatica, inflammation of the pelvic and sacral region, dry cough, respiratory disorders;[5][6] it is known to be interchangeable with pedalium murex for the purpose of gokshura.[6]
 
+
 Tribulus is a plant used in both traditional chinese medicine and ayurveda for purposes mostly related to cardiovascular health, virility, and urogenital health
+
 
 The tribulus genera extends to 25 species of which 12 of them are found in the middle east.[7]
 
 There are other species in the tribulus genera that are sometimes used in supplementation, including pentandrus (has more kaempferol in its flavonoid profile whereas terrestris has more quercetin; pentandrus also has tricin-7-diglucoside as a unique componnet)[8] and alatus which also possesses steroidal glycosides such as spirostane, furostane, and cholestane[9] and is implicated in testosterone boosting[10] similar to pedalium murex but not tribulus terrestris.
 
+
 Tribulus terrestris is one of a few species of the tribulus genera and the most commonly supplemented species
+
 
 1.2
 
@@ -208,7 +212,9 @@ Furostanol based steroidal saponins such as terrestroside A,B as well as terrest
 
 The root contains phenolics at around 178.57mg/g in the water extract (17.8%) and 114.28mg/g in ethanolic (11.4%) with the flavonoid component being 10mg/g and 5mg/g, respectively.[19]
 
+
 Both the fruits and the plant root itself appear to contain a variety of compounds that are roughly based on a steroid skeleton, steroidal saponins
+
 
 1.3
 
@@ -220,7 +226,9 @@ The chemical make-up of the plant seems to vary by region of growth, with Vietna
 
 Much of the literature focuses on the extracts of Bulgarian, Chinese, and Indian origin;[11] which proves problematic if the tribestin or protodioscin contents are the active components.
 
+
 Although the region of Tribulus growth appears to influence the components, the major difference is in those grown in middle-eastern Europe and Western Asia having a higher protodioscin content and those grown in Eastern Asia and Oceania tending to have greater tribuloin content and no gitogenic saponins
+
 
 Beyond the numerical differences of the above 6 compounds, Bulgarian Tribulus is the only extract to possess sulphated spirostanol and furostanol saponins[15] and chinese tribulus seems to be the only compound with \_cis\_A/B ring junctures in their saponins.[11]
 
@@ -252,7 +260,9 @@ Cholinergic Neurotransmission
 
 Tribulus terrestris failed to inhibit acetylcholinesterase at 10µg/mL and very weakly inhibited it at 1mg/mL (37.89 ± 0.77) whereas this concentration range was able to inhibit butyrylcholinesterase by 17.06+/-0.55% (10µg/mL) and 78.32+/-1.27% (1mg/mL).[34]
 
+
 Technically may interact with acetylcholine metabolism, but this has not yet been shown in a living model and it doesn't seem to be overly potent at the concentrations expected to be seen in the blood and brain
+
 
 3.2
 
@@ -262,7 +272,9 @@ One rat study investigating aphrodisia and using doses of 2.5mg/kg, 5mg/kg, and 
 
 In a rat model of chronic manageable stress (induces depression), 750-2,250mg/kg of a tribulus terrestris extract (80% saponins) was able to preserve the reduction in appetite.[36]
 
+
 There do appear to be increases in appetite in stressed rats and may be some inhernetly; needs more research to properly assess the traditional claims of increasing appetite
+
 
 3.3
 
@@ -272,7 +284,9 @@ At least one study has indicated that Tribulus may possess pain-reducing propert
 
 In diabetic rats, 100-300mg/kg of a water extract over eight weeks is able to prevent diabetes-induced hyperalgesia (more sensitivity to pain) in heat and chemical testing with a potency comparable to 100mg/kg Pregabalin.[38]
 
+
 Tribulus terrestris extracts appear to be fairly effective in reducing pain perception in response to chemical and heat pain tests, with a potency comparable to some reference drugs
+
 
 3.4
 
@@ -282,7 +296,9 @@ In chronic stress induced depression given 375-2,250mg/kg tribulus terrestris (8
 
 Ghana tablets (tribulus, tinospora cordifolia, and emblica officinalis) at 260mg/kg, correlating to a 2g human dose, appears to exert antidepressant and anxiolytic effects although to a degree weaker than the reference drugs diazepam (2mg/kg) and imipramine (5mg/kg).[5]
 
+
 Tribulus terrestris appears to have antidepressant effects in stressed rats, suggesting that it is an adaptogenic herb. The potency is respectable although it requires very high doses to be so
+
 
 3.5
 
@@ -290,7 +306,9 @@ Menopausal Symptoms
 
 A study has been reported (vicariously through this review, not found online[39]) that usage of tribulus terrestris was associated with improvements in menopausal symptoms in 98% of the research group (49/50) although it had a potential conflict of interest.
 
+
 The aphrodisiac/adaptogenic effects are supposed to extend to women, but this is not a well researched topic at all
+
 
 4.
 
@@ -304,7 +322,9 @@ Tribulus terrestis saponins (100mg/L) are able to reduce infarct size in hearts 
 
 Other saponins may have cardioprotective effects, such as hecogenin-3-O-β-d-glucopyranosyl(1 → 4)-β-d-galactopyranoside (30-100μg/mL) via activating PKCε[14] although they are significantly weaker than tribulosin at doing so.
 
+
 Due to activating protein kinase C epsilon (PKCε), tribulosin can protect cardiac cells from cell death. This occurs at a remarkably low concentration and is likely relevant to oral supplementation of tribulus terrestris saponins
+
 
 In hypertensive humans given 3g of tribulus fruits or a water extract thereof, four weeks supplementation was sufficient to slightly reduced heart rate.[44]
 
@@ -316,13 +336,17 @@ Tribulus terrestris appear to have ACE inhibitory properties in vitro at 0.33mg/
 
 In otherwise healthy rats, 2.5-10mg/kg tribulus terrestris appears to increase blood pressure in a dose-dependent manner (6-11%) during erections, although when the rats were not sexually stimulated there were no differences.[35]
 
+
 Tribulus may reduce blood pressure via either the kidneys (a diuretic and/or protective effect) or via ACE inhibition, and while it shouldn't influence blood pressure in otherwise normal subjects it may increase the erection-induced blood pressure spike
+
 
 In humans with hypertension, tribulus terrestris given at 2g of the whole fruit extract of a water extract thereof over four weeks noted significant reductions in systolic blood pressure (4-4.3%) by one week which increased to 9.6-10.7% after four weeks; diastolic blood pressure was reduced by 7.4-8.1% after four weeks.[44] This study should be approached with caution as the intervention group had significantly higher blood pressure at baseline which may have exacerbated the results.[44]
 
 As the reduction in blood pressure was associated with an increase in urinary output, it is though that the observed benefits were secondary to the kidneys.[44]
 
+
 Appears to reduce blood pressure in hypertensive humans, and while the lone study is incredibly promising more research should be put forward to ascertain the potency
+
 
 4.3
 
@@ -332,7 +356,9 @@ Tribulus pterocarpus phenolics have been noted to inhibit platelet aggregation i
 
 Tribulus terrestris has been found to inhibit adrenaline-induced platelet aggregation with an IC50 value of 970µg/mL.[47]
 
+
 Tribulus terrestris has weak and probably not relevant anti-platelet effects, although the species of pterocarpus appears to be quite potent. They were measured on different aggregators, however, and it is not sure if tribulus terrestris has a role in blood clotting or not
+
 
 4.4
 
@@ -340,7 +366,9 @@ Cholesterol
 
 A reduction in total cholesterol has been noted with tribulus terrestris fruits or a water extract thereof at 3g daily over four weeks, which reached 9.49-10.23% at the end of the study (placebo down 2.14%).[44]
 
+
 Possible reductions in total cholesterol that need to be investigated further
+
 
 5.
 
@@ -354,7 +382,9 @@ The seeds of tribulus terrestris appear to inhibit pancreatic α-amylase with an
 
 In rats, 100mg/kg of the saponins from tribulus terrestris is able to approximately half the increase in blood glucose from an oral sucrose tolerance test; it failed to influence glucose absorption.[49]
 
+
 May inhibit the enzymatic activity of pancreatic amylase and some other enzymes, and while it doesn't seem to be the most potent herb in doing so this may be biologically relevant
+
 
 5.2
 
@@ -364,7 +394,9 @@ One study using 2g/kg Tribulus Terrestris in a model of streptozotocin-induced d
 
 In diabetic rats, 50mg/kg of a hydroalcoholic extract (45.84% saponins) for eight weeks is able to improve insulin levels in serum with a potency comparable to 6mg/kg Olmesartan and slightly less effective than 1mg/kg Glimepiride.[33]
 
+
 Appears to confer anti-diabetic effects, particularly insulin is increased (normally suppressed in these models of diabetes). Mechanisms are not yet known
+
 
 5.3
 
@@ -372,11 +404,15 @@ Diabetic Adjuvants
 
 Tribulus terrestris extract appears to have inhibitory potential against rat aldose reductase (IC50 of 348-444µg/mL) and polyphenol redutase (IC50 of 439-705µg/mL) with the water extract tending to be more potent than the ethanolic and chloroform extracts.[19] This inhibitory potential was lesser than other tested plants of tinospora cordifolia (IC50 176µg/mL), holy basil (IC50 280µg/mL), and morinda cetrifolia (IC50 132µg/mL) as well as the standard reference Quercetin (IC50 82µg/mL) on aldose reductase.[19]
 
+
 Tribulus terrestris appears to have aldose reductase inhibiting potential, which doesn't seem to be too potent when compared to other herbs
+
 
 In diabetic rats, supplementation of 50mg/kg of an hydroalcoholic extract is able to improve kidney function as assessed by glomerular filtration rate.[33]
 
+
 May improve kidney function in diabetic rats (diabetic nephropathy)
+
 
 6.
 
@@ -388,7 +424,9 @@ Glucose Metabolism
 
 At least in diabetic rats, oral intake of 50mg/kg of a hydroalcoholic extract of tribulus terrestris for eight weeks failed to modify GLUT2 and GLUT4 concentrations in the soleus muscle.[33]
 
+
 Does not appear to modify glucose uptake into skeletal muscle, although this is not a well researched topic
+
 
 6.2
 
@@ -396,7 +434,9 @@ Power Output
 
 In humans supplementing tribulus terrestris, resistance trained males using supplementation at 3.21mg/kg body weight (45% saponins) over eight weeks failed to experience an increase in power output[51] and supplementation of a standardized extract at 450mg (60% saponins) similarly failed in elite rugby players over five weeks.[52]
 
+
 The limited human evidence has been conducted in well trained human subjects, and supplementation at the recommended doses for power output (and above the recommended dosages for libido enhancement) has twice failed to improve power output
+
 
 7.
 
@@ -408,7 +448,9 @@ Macrophages
 
 Tribulus terrestris appears to be able to inhibit COX-2 induction in macrophages stimulated with LPS with 86.9% suppression at 10µg/mL although there was less suppression of iNOS (16.9%).[53]
 
+
 Possibly relevant anti-inflammatory effects that need to be investigated further
+
 
 8.
 
@@ -420,15 +462,21 @@ Testosterone
 
 A tribulus terrestris extract (Bulgarian, thus higher protodioscin) seems to be able to increase androgen receptor (AR) immunoreactivity in the rat hypothalamus (specifically, the PVN) when dosed at 5mg/kg bodyweight for 8 weeks, increasing from 162.67+/-14.73 ARs to 383.17+/-15.73 ARs (58%) suggesting it may alter androgen signalling.[54] There was also a significant increase in neurons expressing NADPH-d by 67%, suggesting that Tribulus can increase Nitric Oxide Synthase (NOS) and subsequent NO production[54] as NADPH-d immunostaining can be a biomarker for NOS activity.[55]
 
+
 Expression of the androgen receptor may be increased in the brain, possibly related to the libido enhancing effects
+
 
 When testing for androgenic effects of Tribulus independent of serum testosterone levels, a rat study measuring prostate weight of rats subject to 11, 42, and 110mg/kg Tribulus extract (11.42% Protodioscin) with the lowest dose correlating to 750mg Tribulus extract in a 70kg human noted that, over 28 days of feeding, that aside from serum testoterone being unaffected prostatic weight was unaffected at all doses suggesting no intrinsic androgenic activity.[56]
 
+
 There does not appear to be a direct androgenic effect of tribulus supplementation (independent of increasing testosterone)
+
 
 When tested in vitro, an extract of tribulus terrestris did not appear to significantly inhibit the 5α-reductase enzyme.[57]
 
+
 May not interact with the 5α-reductase enzyme
+
 
 When looking at interventions, currently those that show an increase in circulating testosterone including a non-human primate injection of isolated protodioscin (7.5mg/kg) resulting in a 52% increase acutely which returned to baseline 90-180min after injection.[58] This same study noted that 8 weeks administration of 5-10mg/kg in rabbits and rats led to increases in dihydrotestosterone (DHT) in rabbits (testosterone increases statistically insignificant) and in the castrated rats testosterone increased by 25%[58] and another study exclusively using sexually sluggish rats (those that were previously shown to copulate less with receptive females) noted an increase in testosterone from 2.4+/-0.03ng/mL to 3.12+/-0.06 and 3.72+/-0.06ng/m (30% and 55% increase) with 50mg/kg and 100mg/kg fruit extract, respectively.[59] One other study using otherwise healthy rats has noted, offhand, an increase in testosterone with both the control drug (Viagra at 0.71mg/kg) and Tribulus fruits at 100mg/kg but does not disclose total increases.[60]
 
@@ -438,7 +486,9 @@ It should be noted that based on body surface area conversions[63] an oral dose 
 
 Some human studies have shown increased testosterone associated with Tribulus supplementation, however they are confounded with coingestion of other nutrients[64][65][66] and one which used 6g of the root extract of tribulus terrestris by itself for 60 days in infertile men noted a trend to increase testosterone (failed to be statistically significant) reaching 16.3%.[67] This is similar to the first study using a formulation known as Tribestan where an increase in testosterone was noted in impotent male rams[68] and suggests that the only role tribulus terrestris may have in increasing testosterone is normalizing testicular damage in impotent subjects.
 
+
 When looking at animal and human evidence, there is sporadic evidence to suggest an increase in testosterone with this herb in rodents but it has repeatedly failed to increase testosterone in humans. There may be a weak increase in testosterone in infertile men, but this needs to be explored more
+
 
 8.2
 
@@ -446,7 +496,9 @@ Estrogen
 
 A rat study using female rats and assessing intrinsic estrogenic potential of Tribulus Terrestris found no significant effect of extracts of 11, 42, and 110mg/kg bodyweight where the lowest dose correlates to a 750mg oral intake for a 70kg human.[56]
 
+
 Currently no evidence to support alterations in estrogen metabolism with supplementation of tribulus terrestris
+
 
 9.
 
@@ -460,7 +512,9 @@ In a rat model of cadmium toxicity, 5mg/kg of an ethanolic extract of tribulus t
 
 In an in vitro tacrine induced toxicity model, the fruits of tribulus terrestris with Tribulusimide D (10-20µM; EC50 13.46+/-0.2µM) and Quercetin-3-O-β-D-glucopyranosyl-(1→6)-β-D-glucopyranoside (20-40µM; EC50 of 7.06+/-0.7 µM) having a potency comparable to Silybin at 100µM; Terrestiamide confirmed inactive[27] and since Tribulusimides A and B have been shown to be hepatoprotective elsewhere[26] it is though this lignanamide class is responsible for hepatoprotection.
 
+
 Tribulus terrestris appears to have protective effects in the liver, which are more potent than vitamin E when looking at antioxidative changes against mineral toxicity and slightly weaker or comparable when looking at cellular damage and liver enzymes
+
 
 Anti-inflammatory effects have been noted with the aqueous extract of Tribulus in vitro, where suppression of HepG2 tumor cell growth was noted (and no effect on normal cell growth) and thought to be secondary to increasing IκBα content and reducing NF-kB content, the former of which appears to be through inhibiting the IκBα kinase enzyme (although it did not influence binding of the IKK-β subunit, usually implicated with NF-kB).[72]
 
@@ -470,11 +524,15 @@ Kidney
 
 In a rat model of cadmium toxicity, 5mg/kg oral tribulus terrestris ethanolic extract over six weeks is able to fully normalize oxidative parameters (TBARS and antioxidant enzymes) and significantly attenuate cadmium buildup in the kidneys, the potency being comparable to 75mg/kg Vitamin E.[69] This protective effect extends to mice, where mercury toxicity with 6mg/kg of a methanolic extract of tribulus terrestris fruits[73][70][71]
 
+
 In studies on rodents given experimental heavy metal toxicity, tribulus appears to be quite protective with a potency exceeding Vitamin E on a weight basis. This occurs at a concentration low enough that it likely applies to supplementation in humans
+
 
 A case study of tribulus terrestris overconsumption (2L of a tribulus water product for the treatment of kidney stones) has resulted in nephrotoxicity which was treated in a clinical setting.[74] Although it has been claimed that the particular product in question could have been contaminated with bacteria (the symptoms were similar)[75] a subsequent study in diabetic rats given a hydroalcoholic extract of tribulus terrestris at 50mg/kg (45.84% saponins) reported histological damage to distal tubules and collecting ducts while glomerular function and the renal cortex seemed unaffected.[33] This study also reported improvemetns in diabetic symptoms and an increase in glomerular filtration rate, so it is unsure if this 'toxicity' is relevant to kidney function.[33]
 
+
 While possible kidney toxicity cannot yet be ruled out, it seems to not be too much of a concern since the case study failed to place causation on the herb and the lone rat intervention also noted improvements in kidney function alongside the 'altered' histology
+
 
 A 60kDa protein found in tribulus terrestris appears to be able to dissolve calcium oxalate kidney stones in vitro with a potency comparable to cystone.[18] A basic water extract of tribulus terrestris fruits themselves also show this property, with 25-100µg/mL causing 71% inhibition of calcium oxalate nucleation in vitro while showing dose-dependence in preventing stone growth between 25µg/mL (18%) and 1,000µg/mL (170%) with 50-200µg/mL causing 65-70% inhibition.[76] A part of the benefit from tribulus terrestris is thought to be due to flavonoids that inhibit oxalate synthesis, such as quercetin (Noncompetitive inhibition of glycolate oxidase with an IC50 of 0.5µM) and kaempferol (Competitive with an IC50 of 0.3µM).[77]
 
@@ -482,11 +540,15 @@ Beyond reducing stone growth, the cell damage induced by calcium oxalate is sign
 
 When tribulus terrestris itself is used in rats, it shows dose-dependent protective effects with most potency in the ethanolic extract[78] and when Unex is used (a combination formula of tribulus terrestris and boerhaavia diffusa) in a rat model of ethylene glycol induced kidney stones, 200mg/kg oral ingestion is able to reduce kidney stone formation with a potency comparable to 750mg/kg cystone (400mg/kg Unex appeared to be slightly less potent).[30]
 
+
 Tribulus terrestris appears to be able to reduce kidney stone formation in vitro (specifically calcium oxalate stones) which may be due to multiple components. It has shown efficacy in rodents, and when paired with another herb known as Boerhaavia diffusa it appears to be quite potent
+
 
 In a human study giving 3g of the fruit extract of tribulus terrestris or a water extract thereof, both interventions were effective in increasing urinary output by 200mL daily when supplemented for a month.[44]
 
+
 The water soluble components in tribulus appear to have diuretic properties in humans
+
 
 9.3
 
@@ -494,7 +556,9 @@ Testicles
 
 5mg/kg tribulus terrestris in rats is able to attenute cadmium-induced testicular toxicity when preloaded, although with a potency less than 75mg/kg Vitamin E.[79]
 
+
 Appears to have general antioxidative and mineral chelating effects in the testicles are respectable oral dosages
+
 
 11mg/kg tribulus terrestris in boars (750mg human equivalent at 70kg bodyweight) appears to increase seminal volume, although 42-110mg/kg was not associated with an increase.[80] 
 
@@ -514,7 +578,9 @@ Tribulus has been investigated for its benefits on BPH, although this study used
 
 Another possible confound to the above research is that IPPS symptoms include urinary flow, as Benign Prostatic Hyperplasia may sometimes reduce flow rate. Tribulus itself appears to possess diuretic properties, although this study used a large dose of Tribulus where 5g/kg in Guinea pigs was as effective as furosemide.[83]
 
+
 Possibly beneficial for benign prostatic hyperplasia, but evidence is limited and no mechanisms are known
+
 
 10.
 
@@ -540,11 +606,15 @@ Elsewhere, a mixture of tribulus terrestris and cornus officinalis (the latter w
 
 An increase in erectile properties have been noted in rabbits given 2.5-100mg/kg of a tribulus fruit extract for one month[85] and this dosage range has been noted to enhance the efficacy of pro-erectile signalling molecules (acetylcholine or electrical stimulation) without affecting anti-erectile signalling molecules.[87] Protodioscin by itself in ineffective[87] and this same dosage range in rats appears to enhance the intracavernous pressure (ICP) of the penis by 17-43% (most efficacy at 5mg/kg) during erections.[35]
 
+
 Tribulus terrestris appears to relax penile tissue in vitro and enhances erections after oral ingestion, but the difference in dosages (quite high in vitro yet low oral doses) suggest differing mechanisms of action. The mechanism by which tribulus increases erections is not known, but may be related to central androgen receptors
+
 
 In persons with low sperm count given 6g of tribulus root daily for two months (where almost half of participants reported erectile problems) there was significant improvements in the loss of erection (6.03%), rigidity (9.41%), premature ejaculation (6.12%), and lack of orgasm (9.76%).[67]
 
+
 Increases in erectile properties and sexual satisfaction in men has been improved with the standard oses of tribulus supplementation
+
 
 11.
 
@@ -556,7 +626,9 @@ Hair
 
 Tribulus terrestris seems to also be able to stimulate Melanocyte-stimulating hormone when orally administered at a large dose (1g/kg for humans), which increased the rate of MSH detection in hair follicles from 18.75% in control to 75% in the Tribulus group.[88] A later in vitro study demonstrated that a result of Melanocyte-Stimulating Hormone, the actual proliferation of melanocytes, appears to be concentration dependent with 0.5mg/mL actually inhibiting proliferation and 1.5mg/mL inducing proliferation.[89] These effects on melanocyte differentiation were also correlated with tyrosinase activity, suggesting that high doses of Tribulus may have the ability to induce hair pigmentation.
 
+
 May have the ability to induce coloration of hair follicles at high concentrations, but results are too preliminary to implicate any practical guides
+
 
 11.2
 
@@ -564,7 +636,9 @@ Skin
 
 Tribulus terrestris fruits at a 70% ethanolic extract at 50μg/mL is able to prevent UVB-induced cell death in skin cells, reducing 87.9% apoptosis to 25.5% associated with inhibiting NF-kB translocation[90] and augmenting the UVB-induced increase in nucleotide excision repair genes (XPA and XPC, two major DNA repair genes[91]) which were not increased in control cells nor in cancerous skin cells (squamous cell carcinoma).[90]
 
+
 Appears to increase DNA repair in skin cells that are exposed to radiation, and this does not occur in cancerous cells
+
 
 12.
 
@@ -576,7 +650,9 @@ General
 
 A 28-day oral toxicology test of 500mg/kg lyophilized dry fruit extract in rats (80mg/kg human dose) failed to establish any toxic signs[59] and another LD50 study found that the LD50 of a basic lyophilized extract of Tribulus (aerial parts and root) as assessed by intraperitoneal injections was 813mg/kg and the 95% condfidence interval calculated to be 739-894mg/kg,[92] suggesting that a lethal dose of Tribulus injections in humans would be (based on body surface area conversions) 118-143mg/kg. Due to unknown bioavailability, it cannot be estalished what a toxic oral dose would be.
 
+
 Doses typically used for supplementation do not appear to be lethal or harmful
+
 
 12.2
 
@@ -584,7 +660,9 @@ Case Studies
 
 One case study noted gynecomastia and reduced testosterone associated with Tribulus terrestris supplementation, amidst other factors.[93] This study involved a 21-year old man with a history of breast swelling whom used cigarettes (2 daily) and drank alcohol (10 units weekly) who reported development of a benign nodule in the left breast that coincided with consumption of a Tribulus product (unnamed). Causation could not be placed on the product.[93]
 
+
 Standard assortment of case studies, with little evidence to outright blame Tribulus for the effects caused
+
 
 12.3
 
@@ -594,5 +672,7 @@ A case study of tribulus terrestris overconsumption (2L of a tribulus water prod
 
 There are well established instances of tribulus terrestris induced neurotoxicity and renal toxicity in ruminant animals (known as Geeldikkop and Staggers)[94][95] although this does not appear to extend to humans.
 
+
 There is limited evidence to support an increase in kidney toxicity with tribulus terrestris. While the case study did pretty much note causation to the product it is possible that it was contaminated, and the rat study noting renal toxicity had quite mixed results and it is difficult to reach a conclusion at this point in time
+
 

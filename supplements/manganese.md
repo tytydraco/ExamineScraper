@@ -78,7 +78,9 @@ Sources of manganese in the diet tend to be grains (37% of dietary manganese), t
 
 Manganese is present in water, as it normally exists in running water (due to being prominent in the earth's crust) but industries using manganese in production could also contaminate local water supplies;[2] ambient concentrations of manganese vary between sea water (0.4-10µg/L; average of 2µg/L[3][4]), fresh water (highly variable between 1-200µg/L[4]), and in the US some river testing has noted various concentrations from below 11µg/L to above 51µg/L.[3][2] In regards to drinking water, it is estimated that 20µg of manganese is ingested daily from drinking water assuming an intake of 2 liters of water with the median concentration of 10µg/L[2] which is significantly less than estimated dietary intake of manganese (between 0.7mg and 10.9mg daily[5]) and approximately 1/100th the adequate intake (AI) for adults.
 
+
 While manganese is present in the drinking water supply, it is at a small enough concentration that is likely doesn't play a major role in human health and nutrition (for better or worse)
+
 
 1.2
 
@@ -158,7 +160,9 @@ Iron
 
 Women have been noted to have higher manganese absorption rates in some studies when compared to men[29] later noted to be correlated with the ferritin content as those with a good ferritin content (greater than 50μg/L) had an absorption rate of 0.97%[30] (many studies suggest around 5% absorption or less in nourished subjects[31][15]) and those with ferritin less than less than 15μg/L absorbed nearly 5-fold the amount (4.86%).[30] This observation may not be gender exclusive as one study noting a group average of 8.4% bioavailability had one outlier with iron-deficiency anemia absorbing 45.5% of the same oral dose manganese.[14]
 
+
 It seems subjects with low iron status, assessed by low ferritin stores, have a relatively increased absorption rate of manganese from the diet
+
 
 6.
 
@@ -170,5 +174,7 @@ General
 
 Manganese is known to be able to be absorbed via the nasal and lung membranes, underlying how it can enter the body via inhalation[25] and is a potential industrial toxin in industries that use manganese (steel industries primarily).[3][4] Excessive industrial exposure leads to a condition known as Manganism which features Parkinson's like symptoms[reference|url=http://www.atsdr.cdc.gov/toxprofiles/tp151.pdf|title=TOXICOLOGICAL PROFILE FOR MANGANESE[4] secondary to the neurotoxicity it can promote in this context,[26] primarily manifesting as cognitive deficit[32] and decreased brain volumes[33] although some impairment may exist even without apparent symptoms of neurodegeneration.[34]
 
+
 In the context of industrial usage of manganese, where it can be inhaled in the air, chronic exposure can promote neurodegeneration. Due to this, manganese (despite being an essential mineral) is an industrial toxin.
+
 

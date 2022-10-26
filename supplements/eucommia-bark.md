@@ -126,7 +126,9 @@ More commonly referred to as the Gutta-Percha or Rubber Bark tree or the traditi
 
 This plant also has some usage as a tree that can produce rubber[4] due to the trans-polyisoprene compounds it can produce,[5][6] which is why the tree also has the common name of 'Rubber Bark Tree'.
 
+
 Eucommia ulmoides is a medicinal plant recommended to support vitality and strength, and also has commercial benefits as the tree can be used to manufacture rubber
+
 
 1.2
 
@@ -136,7 +138,9 @@ The bark (ethanolic extract unless otherwise stated) has been noted to include:
 
 Geniposidic acid (0.925% of bark) and its aglycone geniposide (0.488%) and genipin (0.214%)[7]Trans-polyisoprene compounds, used mostly in rubber making[6]Lignans (+)-pinoresinol-4,4′-di-O-β-D-glucopyranoside (pinoresinol diglucoside[8]), (+)-pinoresinol-4-O-β-D-glucopyranosyl(1→6)-β-D-glucopyranoside, (+)-medioresinol-4,4′-di-O-β-D-glucopyranoside, (+)-syringaresinol-4,4′-di-O- β-D-glucopyranoside, (−)-olivil-4′-O-β-D-glucopyranoside, (−)-olivil-4-O-β-D- glucopyranoside, and (+)-pinoresinol-4-O-β-D-glucopyranoside[9] with both syringaresinol diglycoside (0.214%) and (+)-pinoresinol-di-β-d-glucopyranoside (0.991%) being quantified[7]Licoagroside F (28.78+/-0.81μg/g)[10]The flavonoids Baicalein (0.28+/-0.010μg/g), wogonin (0.20+/-0.0027μg/g), and oroxylin A (0.09+/-0.0040μg/g)[10]Caprylic acid (involved in androgen signalling[1] and also found in coconut oil)Triterpenoids[1]Chlorogenic acid (0.302%)[7]Whereas the leaves of Eucommia ulmoides include:
 
-The irioid glycosides Geniposidic acid (10.1-17.4mg/g),[11][12] Aucubin (6.5-19.7mg/g; geniposidic acid without the carboxylic acid group),[12][13] and Asperuloside (13.7-27.8mg/g)[14][15]Quercetin (0.27-0.62mg/g) as isoquercetin, rutin (7.6-14.3mg/g), and 3-O-sambubioside[11][12] as well as 3-O-alpha-L-arabinopyranosyl-(1->2)-beta-D-glucopyranoside[16]Kaempferol and astragalin (kaempferol 3-O-beta-D-glucopyranoside)[16]Licoagroside F at 8.97+/-0.41μg/g[10]Baicalein (0.23+/-0.002μg/g), Wogonin (0.19+/-0.0030μg/g), and Oroxylin A (0.04+/-0.0004μg/g)[10]Lignans Syringaresinol di-O-Glc (275.53+/-0.99μg/g) and Pinoresinol di-O-Glc (384.15+/-19.67μg/g)[10]Chlorogenic acid (26.3-46.9mg/g)[11][12][17]Ferulic and caffeic acid[11]The bark and leaves tend to possess both lignans and irioid glycosides as the active components, which are likely what set this plant out from others. The other phenolics in the plants are quite general to most plants and not in remarkable quantities in this plant
+The irioid glycosides Geniposidic acid (10.1-17.4mg/g),[11][12] Aucubin (6.5-19.7mg/g; geniposidic acid without the carboxylic acid group),[12][13] and Asperuloside (13.7-27.8mg/g)[14][15]Quercetin (0.27-0.62mg/g) as isoquercetin, rutin (7.6-14.3mg/g), and 3-O-sambubioside[11][12] as well as 3-O-alpha-L-arabinopyranosyl-(1->2)-beta-D-glucopyranoside[16]Kaempferol and astragalin (kaempferol 3-O-beta-D-glucopyranoside)[16]Licoagroside F at 8.97+/-0.41μg/g[10]Baicalein (0.23+/-0.002μg/g), Wogonin (0.19+/-0.0030μg/g), and Oroxylin A (0.04+/-0.0004μg/g)[10]Lignans Syringaresinol di-O-Glc (275.53+/-0.99μg/g) and Pinoresinol di-O-Glc (384.15+/-19.67μg/g)[10]Chlorogenic acid (26.3-46.9mg/g)[11][12][17]Ferulic and caffeic acid[11]
+The bark and leaves tend to possess both lignans and irioid glycosides as the active components, which are likely what set this plant out from others. The other phenolics in the plants are quite general to most plants and not in remarkable quantities in this plant
+
 
 The water extract of the leaves is a relatively potent antioxidant with an IC50 of 18.9+/-0.2μg/mL in a DPPH assay (albeit weaker than the reference drugs of vitamin c at 5.9+/-0.1μg/mL and vitamin e at 9.7+/-0.2μg/mL)[11] The unique bioactive, geniposidic acid, does not appear to have significant antioxidant properties[11] and the total flavonoid content is 9.5-21.3mg/g of the leaves.[12]
 
@@ -154,7 +158,9 @@ The irioid glycoside geniposide and its aglycone (genipin) have been detected in
 
 The lignan (+)-pinoresinol-di-β-D-glucopyranoside has been noted to be absorbed in rats with a Tmax of 1.56+/-0.87 hours and a half-life of 3.66 hours, being detected at a Cmax of 18.57+/-8.09ng/mL at an oral intake of 10mg/kg.[22]
 
+
 Both the irioid glycosides as well as the lignans seem to have the potential to be absorbed, although pharmacokinetic data is somewhat limited as it is not sure what the active ingredient(s) is/are
+
 
 2.2
 
@@ -168,11 +174,15 @@ Mechanisms
 
 Lignans in Eucommia ulmoides may have phosphodiestease (PDE) inhibiting properties, with IC50 values between 63.5-123.8µM and two (of seven tested) lignans having an IC50 greater than 200µM;[9] this has been noted previously against cAMP-related PDE enzymes[24] but an in-depth evaluation of which subsets of the PDE enzyme are inhibited and the selectivity of the lignans is not yet conducted.
 
+
 May inhibit PDE enzymes, but due to the lack of research on selectivity and moderate potency (paired with unknown amounts of lignans in the plant) it is not sure how practically relevant this information is
+
 
 The bioactive asperuloside has been found to inhibit PI3K with an IC50 of 2µM, being less potent than uttronin A (1.1µM) and hypericin (180nM)[25] while being more effective than emodin (3.3µM) and quercetin.[26]
 
+
 May inhibit PI3K
+
 
 3.
 
@@ -186,7 +196,9 @@ Eucommia ulmoides stem bark extract appears to have acetylcholinesterase inhibit
 
 In rats given intracerebral injections of beta-amyloid proteins (induces Alzheimer's-like cognitive dysfunction), 5-20mg/kg of the stem bark extract noted that the higher range of intake (10-20mg/kg) protected from memory dysfunction.[27]
 
+
 Appears to have neuroprotective properties, which have at least once been confirmed to occur in a living model at fairly reasonable oral dosages
+
 
 4.
 
@@ -200,13 +212,17 @@ Mechanistically, eucommia ulmoides appears to possess beta-blocking potential as
 
 Eucommia ulmoides bark can also cause vasorelaxation in a concentration dependent manner in a way that is fully dependent on nitric oxide[30][31] and thought to be related to potassium channels.[31]
 
+
 May have beta-blocking potential (thought to be related to the lignans) and may be vasorelaxant
+
 
 Eucommia ulmoides appears to have antihypertensive effects due to its activating effects on the parasympathetic nervous system[32] and can work in a dose-dependent manner in spontaneously hypertensive rats.[33] In fructose overfed rats that develop insulin resistance and hypertension, 500-1000mg/kg of eucommia ulmoides can reduce blood pressure in a dose dependent manner but cannot completely normalize it.[34][35][36]
 
 In prehypertensive humans, while supplementation of 500mg eucommia ulmoides (8% pinoresinol) daily for eight weeks only caused marginal reductions in blood pressure that faded with time a higher dose (1,000mg thrice daily) for two weeks has resulted in a reduction in both systolic and diastolic blood pressure by 7.5/3.9mmHg.[29]
 
+
 Eucommia ulmoides appears to be reliably antihypertensive in rats, and a daily dose of 3g of the leaves has been shown at least once to be effective in humans
+
 
 5.
 
@@ -218,7 +234,9 @@ Mechanisms
 
 Ingestion of eucommia ulmoides daily for 90 days in rats appears to reduce the expression of the GLUT4 transporter in rats given a high fat diet, yet increased expression in rats on a normal diet (not obesogenic) and increased expression in skeletal muscle.[15]
 
+
 Appears to modify GLUT4 transporters in a somewhat unreliable manner
+
 
 5.2
 
@@ -242,15 +260,21 @@ Differential effects have been noted on UCPs, with an increase in UCP3 seen in n
 
 It is hypothesized that the above changes are due in part to geniposide and geniposidic acid as well as their aglycone (genipin) as they consist of most of the plant's phytochemicals by weight[38] and since geniposide has shown lipid reducing properties in isolation.[40]
 
+
 Eucommia ulmoides appears to modify the levels of proteins involved in energy metabolism and expenditure and in particular the uncoupling proteins (mediates heat production and 'wastes' energy), but the exact mechanism of action underlying these observations is not yet clear
+
 
 A study in anaethesized rats given an intraduodenal injection of eucommia ulmoides (1-5mg or 4-20mg/kg) noted an increase in sympathetic nerve activity in both white and brown adipose tissue, and in concious rats there was an increase in plasma fatty acids (154.5-156.6% at 1-5mg of the leaf extract) and body temperature.[41]
 
+
 An increase in heat expenditure following a single dose has been noted in rats, following fairly reasonable oral dosages as well
+
 
 At least one study, in assessing its mechanisms on blood pressure, has found beta-blocking properties in human fat cells able to reduce the effects of isoproterenol.[29] This suggests that eucommia ulmoides can suppress the effects of fat burners that signal via these receptors, namely ephedrine or synephrine.
 
+
 It's beta-blocking potential, while beneficial to blood pressure, may antagonize the effects of other fat burner
+
 
 6.2
 
@@ -262,7 +286,9 @@ In osteoporotic mice, 5% of the diet as the water extract of eucomia ulmoides le
 
 For rat studies that measure weight as a secondary data point, 500-1000mg/kg of the leaf extract over 4 weeks has failed to cause a significant fat reducing effect in fructose-overfed rats.[34]
 
+
 Longterm ingestion of eucommia ulmoides in rats appears to cause minor fat loss and is more potently an anti-obese agent, there are a lack of human studies on this herb at this point in time
+
 
 7.
 
@@ -306,7 +332,9 @@ In mammalian COS-7 cells, an ethanolic extract of the bark from Eucommia ulmoide
 
 While oral intake of 1-50mg of the ethanolic extract in rats has failed to modify prostatic weights (suggesting weak androgenicity), it was able to increase the testosterone (5000mcg injection) induced prostatic growth by approximately 20%.[1]
 
+
 Eucommia ulmoides appears to be androgenic, although weakly on its own. This plant appears to augment signalling of other androgens through the androgen receptor (thus increasing their efficacy) which is currently thought to be due to the caprylic acid content
+
 
 9.2
 
@@ -314,7 +342,9 @@ Estrogen
 
 Similar to the effects on the androgen receptor, Eucommia ulmoides (50ng/mL) strongly binds to and weakly activates the estrogen receptor (ERα) while augmenting the signalling of estradiol.[1]
 
+
 Similar to its effects on the androgen receptor, this herb appears to augment signalling through the estrogen receptor (alpha confirmed, beta isoform not tested)
+
 
 9.3
 
@@ -322,7 +352,9 @@ Cortisol
 
 The augmenting effects of Eucommia ulmoides on the androgen and estrogen receptor do not appear to extend to the cortisol receptor nor the progesterone receptor.[1]
 
+
 Does not appear to significantly modify signalling through the cortisol receptor
+
 
 9.4
 
@@ -330,7 +362,9 @@ Growth Hormone
 
 In isolated rat pituitary cells incubated with 20µg/mL of the n-hexane, chloroform, or ethyl acetate fractions, there appears to be a stimulation of growth hormone release.[46]
 
+
 May stimulate growth hormone release, requires studies in living models to assess whether this is relevant or not
+
 
 10.
 

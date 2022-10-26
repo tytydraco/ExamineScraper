@@ -224,11 +224,15 @@ Sources
 
 Fucoxanthin is a carotenoid structure that is found in seaweed and microalgae, and perhaps the second most famous sea-based carotenoid (of the 750 known carotenoids, over 250 of them are exclusively marine-sourced[1]) behind astaxanthin only. It is hypothesized to comprise up to 10% of all carotenoids in nature[2] and it has a role in gathering light for energy production via forming something known as a chlorophyll a/c-fucoxanthin complex;[3][4] it is a primary carotenoid that transfers light energy to photosynthetic machinery for energy production in plants (unlike secondary carotenoids such as β-carotene and astaxanthin which prevent excess light from being transferred).[5][6] It is a component of many dietary seaweeds and is thought to confer health promoting benefits associated with seaweed and the Japanese diet.
 
+
 Fucoxanthin is a pigment (specifically, a brown pigment and a type of carotenoid) found in seaweed and microalgae that is used to fix light and aid the process of photosynthesis
+
 
 Fucoxanthin can be found in the following species of seaweed and algae:
 
-Fucus vesiculosus (Bladderwrack)[7] and other species including evanescens[8]Myagropsis myagroides at 9.01mg/g[9]Dictyota coriacea at 6.42mg/g[9]Himanthalia elongata[10]Petalonia binghamiae (Vinogradova) at 3.57+/-0.028 mg/g[11]Undaria Pinnatifida (Wakame)[12][13]Hijikia fusiformis (Hijiki)[13]Turbinaria turbinate at 0.59+/-0.08mg/g[14]Laminaria japonica (Ma-Kombu)[13]Ecklonia cava[9]The Sargassum family (fulvellum, coreanum, hemiphyllum, horneri, etc.)[13][9] with the species plagyophyllum having 0.71+/-0.01mg/g dry weight[14]Sea urchin gonads at 2mcg/g,[15] also contains astaxanthin at 1mcg/gPhaeodactylum tricornutum (Microalgae) at 15.42-16.51 mg/g[16]Odontella aurita (Microalgae) at 6.34-20.63mg/g dry weight depending on nitrogen availability[6]Isochrysis (species of microalgae) at 17mg/g (1.7% dry weight)[17]Fucoxanthin is found in high levels in seaweed, although it is at even higher levels in microalgae; the level of fucoxanthin found in some particular species may be high enough to actually obtain the benefits of supplementation even when supplementing seaweed products
+Fucus vesiculosus (Bladderwrack)[7] and other species including evanescens[8]Myagropsis myagroides at 9.01mg/g[9]Dictyota coriacea at 6.42mg/g[9]Himanthalia elongata[10]Petalonia binghamiae (Vinogradova) at 3.57+/-0.028 mg/g[11]Undaria Pinnatifida (Wakame)[12][13]Hijikia fusiformis (Hijiki)[13]Turbinaria turbinate at 0.59+/-0.08mg/g[14]Laminaria japonica (Ma-Kombu)[13]Ecklonia cava[9]The Sargassum family (fulvellum, coreanum, hemiphyllum, horneri, etc.)[13][9] with the species plagyophyllum having 0.71+/-0.01mg/g dry weight[14]Sea urchin gonads at 2mcg/g,[15] also contains astaxanthin at 1mcg/gPhaeodactylum tricornutum (Microalgae) at 15.42-16.51 mg/g[16]Odontella aurita (Microalgae) at 6.34-20.63mg/g dry weight depending on nitrogen availability[6]Isochrysis (species of microalgae) at 17mg/g (1.7% dry weight)[17]
+Fucoxanthin is found in high levels in seaweed, although it is at even higher levels in microalgae; the level of fucoxanthin found in some particular species may be high enough to actually obtain the benefits of supplementation even when supplementing seaweed products
+
 
 No fucoxanthin is found in the yolks of the eggs laid by hens fed fucoxanthin although metabolites such as fucoxanthinal are found.[18]
 
@@ -270,7 +274,9 @@ Fucoxanthin is deacetylated in the intestines to fucoxanthinal, which is distrib
 
 Paradoxically, fucoxanthin is a molecule which is fat soluble and requires fatty acids in order to be absorbed yet also possesses the ability to inhibit pancreatic lipase and inhibit some degree of fat absorption.[28] The AUC of lymph absorption seems to be comparable between fucoxanthin (2mg/mL in the lumen) and without, suggesting a delayed absorption of triglycerides rather than hindering absorption. No fecal fat test was done in this study.[28] As fucoxanthin is metabolized into fucoxanthinol by a few enzymes, one of which is lipase (the others being cholesterol esterase and carboxylesterase), it is possible that this could be indirect inhibition from competitive antagonism.[29]
 
+
 Fucoxanthin, via its metabolite fucoxanthinol, is readily taken up in the gut alongside fatty acids
+
 
 2.2
 
@@ -280,7 +286,9 @@ Fucoxanthin is metabolized into predominately fucoxanthinol (deacetylation in th
 
 Amarouciaxanthin A has been detected in rats via hepatic conversion[30] after ingestion of Fucoxanthin after 24 hours,[26] but has not been detected in humans in two studies lasting up to 24 hours.[25][32] It is not know whether or not Amarouciaxanthin A exists in humans or whether it takes longer than 24 hours to be converted.
 
+
 No fucoxanthin circulates in the blood, as it all gets metabolized to fucoxanthinol; Amarouciaxanthin A has not yet been shown to exist in humans, but it is not known whether this is due to the research conducted being too short or due to inter-species differences
+
 
 2.3
 
@@ -292,7 +300,9 @@ Fucoxanthinol's serum parameters in humans after 31mg ingestion dissolved in MCT
 
 One other study measured the serum one week after daily ingestion of Wakame at 6.1mg fucoxanthin, and circulating levels of fucoxanthinol were found to be 0.8nmol/L.[32] This study did not actively dissolve the fucoxanthin in fatty acids, and thus this low circulating level may be due to poor absorption.
 
+
 Higher circulating levels of fucoxanthinol appear to need mixture with fatty acids like Medium Chain Triglycerides (MCTs) for absorption
+
 
 2.4
 
@@ -318,7 +328,9 @@ It has been found that bioaccumulation of fucoxanthin has not occurred in humans
 
 Bioaccumulation at the level of 100mg/kg bodyweight fucoxanthin in rats is associated with giving the tissue an orange tone, as fucoxanthin and their metabolites do possess pigmentation activity.[25]
 
+
 A build-up effect occurs over time with sufficiently high (supplemental) dosages of oral fucoxanthin, with no significant toxicity being seen at the lower range of chronic oral intake and a non-toxic coloration of tissue at obscenely high doses
+
 
 2.7
 
@@ -328,7 +340,9 @@ Fucoxanthin, at 1-10uM, has been shown to reduce the changes in CYP3A4 and MRP1 
 
 Even without the PXR inducer, fucoxanthin was able to suppress CYP3A4 activity by 21% at 10uM in a concentration dependent manner and reduce protein content by 33% over 24 hours, by decreasing mRNA transcription rates.[36]
 
+
 May reduce activity of CYP3A4, which is an enzyme that metabolizes more than 50% of pharmaceuticals in existence.[37] Would be prudent to ask a medical doctor about possible interactions.
+
 
 3.
 
@@ -342,7 +356,9 @@ In fat tissue of rats fed the seaweed Petalonia binghamiae (150mg/kg containing 
 
 In 3T3-L1 adipocytes, 5-10μM fucoxanthin is able to increase AMPK activity secondary to increasing LKB1 phosphorylation in a concentration dependent manner (1μM not significantly active); this concentration was also sufficient to increase CPT-1a activity.[11]
 
+
 Fucoxanthin appears to stimulate AMPK activity
+
 
 4.
 
@@ -366,7 +382,9 @@ Absorption
 
 The addition of 0.2% fucoxanthin to the high fat diet of rats is able to increase fecal total lipids (23.6%), fecal cholesterol (28.9%), and fecal triglycerides (135%) relative to high fat control.[42]
 
+
 Appears to hinder cholesterol and triglyceride absorption, which may be a mechanism underlying both a reduction in cholesterol as well as weight loss effects
+
 
 5.2
 
@@ -376,13 +394,17 @@ Mechanistically, the increase in liver mRNA levels of SREBP-1c, ACC, FAS, and G6
 
 At least one study has noted that the suppression of SREBP-1c may be acute following the addition of 200μg/mL Petalonia binghamiae (0.36% fucoxanthin) to 3T3-LI adipocytes.[11]
 
+
 A few genes and their proteins are increased in the liver in response to an obesogenic diet, and the increase seen appears to be reduced by fucoxanthin in either a rehabilitative (taken after obesity) manner or when taken alongside a high fat diet
+
 
 In rats fed a high fat diet with 0.2% fucoxanthin for four weeks, there was a trend to decrease triglycerides[42] which has been noted to be statistically significant with 0.083-0.167mg/kg bodyweight fucoxanthin in obese rats (52 days of supplementation)[43] and with 70 days supplementation of Petalonia binghamiae (150mg/kg containing 3.57mg/g fucoxanthin).[11]
 
 associated with fucoxanthin supplementation. The only human study conducted noted a decrease in triglycerides from 177mg/dl to 155mg/dl (non-fatty liver group) and 195mg/dl to 158mg/dl (fatty liver group) after 16 weeks of supplementation.[44]
 
+
 Preliminary evidence suggest that fucoxanthin reduces triglycerides, reliability of this decrease not fully established
+
 
 5.3
 
@@ -390,7 +412,9 @@ Cholesterol
 
 Mechanistically, the increase in HMG-CoA, CYP7A1, and ACAT (cholesterol producing proteins in the liver) seen with a high fat diet appears to be attenuated when the diet has a 0.2% fucoxanthin content.[42]
 
+
 May prevent increases of cholesterol production in the liver in response to the diet
+
 
 In rats fed a high fat diet with 0.2% fucoxanthin for four weeks, there is a significant increase in HDL-C relative to high fat control (58%) which was comparable to normal diets.[42] 
 
@@ -430,7 +454,9 @@ Fucoxanthin, at 0.02% of the diet in rats, can significantly reduce blood glucos
 
 Interestingly, fucoxanthin can increase the levels of DHA (a component of fish oil) in the liver tissue independent of fish oil supplementation; some anti-diabetic effects of fish oil pertaining to the liver (such as reduction of fatty liver build-up secondary to PPARs) may apply to fucoxanthin.[48] The combination of both these nutraceuticals has been shown to reduce the weight gain and blood glucose associated with diabetic mice as well.[49]
 
+
 Fucoxanthin appears to have anti-diabetic effects by normalizing the function of skeletal muscle in diabetes; this effect of normalization does not affect non-diabetic animals
+
 
 7.
 
@@ -442,7 +468,9 @@ Adipokines
 
 In obese rats (from a high fat diet) supplemented with fucoxanthin at 0.083-0.167mg/kg for 52 days, an increase in circulating adiponectin is seen alongside a decrease in leptin[43] and hyperleptinemia has been noted to be suppressed elsewhere.[45]
 
+
 May increase adiponectin in obese rats
+
 
 7.2
 
@@ -484,7 +512,9 @@ Overall, weight loss over 16 weeks was 5.5+/-1.4kg in the group with more than 1
 
 In rats, fucoxanthin has been shown to reduce fat mass over 70 days (150mg/kg seaweed at around 0.5mg/kg bodyweight fucoxanthin[11]) 52 days at merely 0.083mg/kg daily[43]
 
+
 Animal studies suggest that fucoxanthin increases fat loss reliably and at very low doses, easily attainable from daily consumption of brown seaweed. The lone human study appears to reflect results in animal research, and fucoxanthin appears to have a moderately potent but highly delayed effect on inducing fat loss; preliminary research, however
+
 
 7.6
 
@@ -504,7 +534,9 @@ Fuxocanthin, at an oral intake of 0.02% of the diet in rats, has been demonstrat
 
 GLUT4 mRNA content in obesity-induced mice with fucoxanthin appears to reach the levels of non-obese controls[45] while blood glucose and insulin trend towards normal.[45]
 
+
 Glucose uptake of skeletal muscle appears to be enhanced when diabetic mice are given fucoxanthin, but the biomarker of this (decreased blood glucose) has been shown to not occur in normal mice. It is possible that fucoxanthin alleviates abnormalities in skeletal muscle function associated with diabetes, but does not indiscriminately enhance glucose uptake (and thus limited usage in healthy individuals for glucose control). More studies would be needed to confirm
+
 
 9.
 
@@ -532,7 +564,9 @@ Against hydroxyl radicals, fucoxanthin appears to be 7.9-fold less potent than i
 
 Against singlet oxygen (of which carotenoids are known to sequester[69]) and reactive nitrogen species (ONOO-), fucoxanthin appears to be less antioxidative than β-carotene.[64][67] It has shown significantly protective properties against hypochlorous acid in vitro exceeding that of cysteine and other carotenoids (lutein and zeaxanthin), but still to a lesser degree than astaxanthin.[67]
 
+
 Fucoxanthin appears to have direct antioxidative properties, and these antioxidative properties seem to be more general than other carotenoids. That being said, they are not overly potent and have failed to outperform the reference compounds (Vitamin C, Vitamin E, β-carotene) and astaxanthin is another carotenoid compound that seems to generally outperform fucoxanthin
+
 
 10.2
 
@@ -540,7 +574,9 @@ Radiation and DNA Damage
 
 In cells exposed to UV-B irradiation fucoxanthin is able to cause concentration dependent cytoprotection secondary to sequestering reactive oxygen species (ROS), with the increase in ROS seen in cells from radiation (169.31% of baseline) being reduced progressively to 138.65% (5μM), 101.36% (50μM), 85.43% (100μM), and 71.08% (250μM) with 5μM (a somewhat physiologically relevant concentration) sequestering 18.11% of ROS and increasing cell survival from 43.48 to 59.73%.[70]
 
+
 Appears to be somewhat protective against UV(B) radiation damage secondary to the direct antioxidative properties
+
 
 10.3
 
@@ -548,7 +584,9 @@ Antioxidant Enzymes
 
 In mouse liver cells (BNL CL.2 cell line), fucoxanthin at 5μM appears to activate a gene known as Nrf2 secondary to causing pro-oxidative effects within a cell;[71] a process known as hormesis.[72] Activation of Nrf2 results in activation of the genome's antioxidant response element (ARE) and creation of two antioxidant enzymes known as Heme-oxygenase 1 (HO-1) and NQO1.[71]
 
+
 In liver cells, fucoxanthin may be able to hormetically induce an antioxidant response from the genome (ARE activation secondary to activatin Nrf2, resulting in HO-1 induction)
+
 
 11.
 
@@ -564,7 +602,9 @@ The above antiinflammatory mechanisms are hypothesized to occur secondary to inh
 
 These properties are likely to apply to fucoxanthinol[76] and other structurally similar metabolites found in seaweeds.[77]
 
+
 Fucoxanthin is able to suppress macrophage activation from LPS, which is a standard antiinflammatory response. While it appears to be quite potent at maximal efficacy (similar to prednisone), maximal efficacy may require an impractically high concentration of fucoxanthin to reach the immune cells and thus not be relevant to oral supplementation
+
 
 11.2
 
@@ -612,7 +652,9 @@ Fucoxanthin shows synergism with Fish Oil, in which 6.9% of fish oil with 0.1% f
 
 Fucoxanthin can also increase hepatic stores of docosahexaenoic acid (DHA) in the liver independent of fish oil supplementation.[48]
 
+
 Coingestion of fucoxanthin with fatty acids, via increasing intestinal absorption of fucoxanthin and fucoxanthinol (a metabolite) increases the effects of fucoxanthin in the body since more gets into your body
+
 
 14.2
 
@@ -624,7 +666,9 @@ As assessed by the lone human study on the matter, there is benefit to combining
 
 Neither study disclosed interaction with companies invested in Xanthigen.
 
+
 A relatively weak synergism, but a synergism none-the-less. Pomegranate Seed Oil and possibly Punicic Acid appear to increase the fat loss effects of Fucoxanthin
+
 
 15.
 

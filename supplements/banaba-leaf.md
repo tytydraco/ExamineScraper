@@ -60,7 +60,9 @@ Sources
 
 Banaba leaf (of the family Lythraceae) is a term used to refer to the genus of Lagerstroemia, commonly referred to as Crape myrtle.[1]) The supplement sold as 'Banaba' tends to refer to the species of Lagerstroemia Speciosia (Giant Crape Myrtle, Pride of India, or Banaba) with the species of indica or fauriei also being sold at times.[2]
 
+
 Unless otherwise stated, this article on Banaba Leaf refers to the plant Lagerstroemia Speciosa although the term of 'Banaba' sometimes is applied to the entire genus of Lagerstroemia falsely
+
 
 1.2
 
@@ -70,13 +72,17 @@ The herb Banaba (Lagerstroemia Speciosa) usually contains the following compound
 
 Valoneaic acid dilactone (VAD) at 0.057% dry weight (leaves)[3][4] which can be increased up to 2% after being subject to hydrolysis, and non-hydrolyzed Banaba can have the VAD content increased up to 0.184% via roasting the leaves;[4] VAD is also present in Pomegranate rinds[5]Some unique ellagitannin structures such as Lagerstroemin,[6] Ellagic Acid (common),[7] Flosin A and Reginin A,[4] Casuarinin, Casurariin, Epipunicacortein A, stachyurin, and 2, 3-(S)-hexahydroxydiphenoyl-α/β-D-glucose[6]Ethyl Gallate (3,4,5-Trihydroxybenzoic acid ethyl ester)[8]The triterpenoid 3β,23-dihydroxy-1-oxo-olean-12-en-28-oic[9]With the following compounds in Banaba meaning more general:
 
-Anthocyanins in the flowers due to the coloration.[1] Cyanidin-3-Glucoside may comprise up to 15% of total anthocyanin content,[1] and Delphinidin-3-Glucoside is also present[1]Flavonoids indlucing Orobol-7-O-D-glucoside[10]Triterpenoids such as Corosolic Acid (up to 14% dry weight of concentrated extracts,[11] 3% dry weight of leaves is a better estimate[12]), Maslinic Acid (4958mg/kg[11]), 23-Hydroxyursolic, Oleanolic Acid, Arjunolic Acid, and Asiatic Acid;[3] Ursolic Acid itself is also present at 2108mg/kg (2.1%)[11]Betulinic acid at 257mg/kg[11]P-coumaric acid, Caffeic Acid, 4-Hydroxybenzoic Acid, and 3-O-Methylprotocatechuic Acid (derivative of anthocyanins)[6]Bioflavonoids such as Kaempferol, Quercetin, and Isoquercetin[6]The main bioactives that exert the benefits associated with Banaba Leaf appear to be Valoneaic Acid and Corosolic Acid; the latter being very common among plants but Lagerstroemia Speciosa being a very good source of Corosolic Acid
+Anthocyanins in the flowers due to the coloration.[1] Cyanidin-3-Glucoside may comprise up to 15% of total anthocyanin content,[1] and Delphinidin-3-Glucoside is also present[1]Flavonoids indlucing Orobol-7-O-D-glucoside[10]Triterpenoids such as Corosolic Acid (up to 14% dry weight of concentrated extracts,[11] 3% dry weight of leaves is a better estimate[12]), Maslinic Acid (4958mg/kg[11]), 23-Hydroxyursolic, Oleanolic Acid, Arjunolic Acid, and Asiatic Acid;[3] Ursolic Acid itself is also present at 2108mg/kg (2.1%)[11]Betulinic acid at 257mg/kg[11]P-coumaric acid, Caffeic Acid, 4-Hydroxybenzoic Acid, and 3-O-Methylprotocatechuic Acid (derivative of anthocyanins)[6]Bioflavonoids such as Kaempferol, Quercetin, and Isoquercetin[6]
+The main bioactives that exert the benefits associated with Banaba Leaf appear to be Valoneaic Acid and Corosolic Acid; the latter being very common among plants but Lagerstroemia Speciosa being a very good source of Corosolic Acid
+
 
 The content of Valoneaic Acid (VA) in Banaba leaves can be increased by roasting (15 minutes at 170°C) from 0.057% to 0.184% the weight of the dry leaves (222% increase), and VA can be produced by the breakdown of the compounds Lagerstroemin, flosin A, and reginin A.[4]
 
 Extracts of Banaba appear to have anti-oxidant effects, which have been confirmed in the serum of rats fed 50-500mg/kg Banaba leaf (1% Corosolic Acid) over 60 days.[13] In vitro tests suggest this extract has an anti-oxidant potency (measured by ABTS+) of 0.012umol of Trolox equivalents per gram.[13] The fruits also have anti-oxidant potential, which is comparable to some other fruits although not inherently remarkable in potency.[14]
 
+
 Some (unremarkable) antioxidant properties, and roasting the leaves may increase the content of Valoneaic Acid by breaking down some tannins structures into Valoneaic Acid
+
 
 2.
 
@@ -112,11 +118,15 @@ When looking at fractions of Banaba leaf the acetone, ethanolic, butanolic, and 
 
 Alpha glucosidase may also be inhibited by triterpenoid compounds, with Corosolic Acid being most potent (IC50 of 3.53ug/mL; uncompetitive inhibition) with notable inhibition coming from Maslinic Acid (5.52+/-0.19μg/mL) and Oleanolic Acid (6.29+/-0.37μg/mL) with the ethyl acetate fraction itself tested being 88.72+/-1.02μg/mL.[3] One other study has noted that the extract itself has an IC50 of 0.3μg/mL, suggesting other compounds may be contributing beyond Corosolic Acid.[16]
 
+
 There appear to be compounds within Banaba that can inhibit the absorption of carbohydrates from the intestines
+
 
 One acute study using 10mg Corosolic Acid (99% pure) given 5 minutes prior to a 75g Glucose Tolerance Test in humans noted that at 60-120 minutes post-ingestion that there was reductions in blood glucose and that the 90 minute time point was statistically significant.[17]
 
+
 Corosolic acid appears to have some degree of efficacy in humans
+
 
 4.2
 
@@ -124,7 +134,9 @@ Mechanisms
 
 An ellagitannin from Banaba, Lagerstroemin, appears to act as an agonist of the insulin receptor.[18] A such, it works via PI3K and is inhibited by Wortmannin.[18]
 
+
 A Lagerstroemin unique tannin structure may directly activate the insulin receptor
+
 
 4.3
 
@@ -136,7 +148,9 @@ Isolated Corosolic acid from Banaba at 0.023% of the diet in KK-Ay diabetic mice
 
 Glucosol, a patented blend of Banaba, appears to be able to reduce blood glucose in the serum of diabetic rats within 90 minutes of administration.[21]
 
+
 Various benefits in animal models associated with the Corosolic Acid content
+
 
 One human study (not located online, but noted in this review as citation 19[20]) notes that oral administration of Banaba Leaf over a year in pre-diabetic persons (glucose greater than 110mg/dL) was associated with a 16.6% reduction in blood glucose with no reported hypoglycemia nor adverse effects.
 
@@ -144,7 +158,9 @@ One study using the Brand name product 'Glucosol' (no funding from company produ
 
 Other studies include a trial using a product blend (Banaba Leaf, Green tea and coffee (for green tea catechins and chlorogenic acid respectively) and Garcinia Cambogia) noted reductions in blood glucose of 13.5% with no significant influence on HbA1c, Fructosamine, Insulin, Total cholesterol, HDL-C, Triglycerides, Leptin or Body Weight in persons with high serum glucose (n=20).[22] One other highly confounded study exists where over 12 weeks participants consumed Banaba (16mg), Bitter Melon (100mg), Garcinia Cambogia (1500mg, 60% HCA), Gymnema extract (133mg) Black Pepper extract at 1.6mg, and the dietary minerals Magnesium (50mg), Vanadium (50mcg), and Chromium (167mcg) which preceded a weight loss of 6.29kg.[23]
 
+
 Although a variety of human studies exist, a few are too confounded with other nutrients to draw conclusions from and many of these studies are inaccessible online. There appears to be some benefit associated with oral Banaba Leaf which is possibly related to the Corosolic Acid content, but there is a lack of published and large double-blind trials
+
 
 5.
 
@@ -160,9 +176,13 @@ Corosolic acid has also been shown to induce GLUT4 mobilization in adipocytes[27
 
 At least one ellagic acid derivative (3-O-methylellagic acid, of which ellagic acid passively degrades into) has been noted to suppress glucose uptake.[24]
 
+
 Mixed effects on glucose uptake, but many of the tannin structures appear to be able to stimulate GLUT4 translocation and promote glucose uptake into cells
+
 
 In regards to adipocyte proliferation, the proliferation of adipocytes (with 100% set as control) is reduced at a concentration of 0.1mg/mL to 62-64% with either 3-O-methyl-ellagic acid 4'-sulfate or 3,4,3'-tri-O-methylellagic acid and is reduced to 38% with 3-O-methylellagic acid; these inhibitory effects are lost at 0.5mg/mL.[24] In 3T3-L1 adipocytes, a basic Banaba Leaf hot water extract has shown these suppressive effects on fat cell proliferation in the presence of corticosteroids and insulin in vitro at 0.1-0.25mg/mL.[26]
 
+
 Some compounds may suppress fat cell proliferation
+
 

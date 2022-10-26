@@ -130,7 +130,9 @@ Sources
 
 Supplementation of 7-keto is sometimes used with the acetyl ester, known fully as 3β-Acetyl-7-ketoDHEA.[3] Supplementation of 7-keto is sometimes used in place of supplementation of DHEA if the androgenic and estrogenic effects of DHEA are not desired, as 7-keto is incapable of converting to these active steroid hormones.
 
+
 An endogenously produced metabolite of DHEA that appears to be more involved with corticosterone metabolism and is not inhernetly a steroid precursor like DHEA is
+
 
 1.2
 
@@ -148,7 +150,9 @@ Serum
 
 The acetylated form of 7-keto (3β-acetyl-7-oxo-DHEA) appears to be rapidly metabolized to a sulfated form of 7-keto (7-ketoDHEA 3βsulfate[5]) with free 7-ketoDHEA as an intermediate, as the acetate group and the sulfate group occur on the same carbon.[3] Sulfation or acetylation of 7-keto at the 3-position does not appear to interfere with the induction of fat burning enzymes (mentioned in section on fat mass and obesity).[6]
 
+
 7-ketoDHEA, similar to DHEA, can exist in a free form or a sulfated form in the body
+
 
 2.2
 
@@ -158,7 +162,9 @@ Metabolism
 
 The activity of 11β-HSD1 balances the oxygenated DHEA metabolites between one another[18] and the enzyme known as Hexose-6-phosphate dehydrogenase appears to influence favorably conversion of these oxygenated metabolites into 7β hydroxyDHEA.[19]
 
+
 7-keto is one of three 'oxygenated DHEA metabolites', and cannot be converted into DHEA after supplementation due to the conversion of DHEA into these oxygenated metabolites occurring in only one direction rather than a multidirectional function (A -> B only, rather than A being interchangeable with B)
+
 
 2.3
 
@@ -176,7 +182,9 @@ Memory and Cognition
 
 Injections of either DHEA (20mg/kg) or 7-keto (24mg/kg) in mice who were also injected with the learning neurotoxin scopolamine noted that both treatments noted that both neurosteroids were able to abolish the learning impairment induced by scopolamine in young mice, and that young mice given either neurohormone without scopolamine appeared to outperform control mice in memory acquisition training but this trend was not statistically significant.[21] In older mice given 7-keto without scopolamine, there were improvements in memory retention that were not seen with parent DHEA[21] (benefit has been noted with DHEA when injected directly into the brains of older mice[22][23][24])
 
+
 Preliminary evidence that 7-keto can reduce memory impairment by cholinergic toxins or by age, but the studies are currently using injections with no human evidence
+
 
 3.2
 
@@ -184,7 +192,9 @@ Fatigue
 
 One study using 200mg 7-keto for 8 weeks in combination with a calorically restricted diet and exercise program (both adminstered to placebo) failed to find any significant difference in post-intervention ratings of fatigue or vigor (assessed via Profile of Mood States).[25]
 
+
 Currently no evidence to support a reduction in fatigue associated with 7-keto supplementation
+
 
 3.3
 
@@ -192,7 +202,9 @@ PMS
 
 When assessing neurohormones of women during the midfollicular and midluteal phases of their menstrual cycles, it was noted that despite no changes in parent DHEA that there was a lower circulating level of oxygenated metabolites including 7-keto; the authors hypothesized that oxygenated DHEA metabolites may play a role in mood changes associated with menopause.[26]
 
+
 Endogenous 7-keto and the oxygenated DHEA metabolite appear to be reduced in the brain during a menstrual cycle, and are thought to be related to mood changes (as they are neurohormones). There are currently no studies using supplementation to assess this claim
+
 
 3.4
 
@@ -200,7 +212,9 @@ Alcoholism
 
 In rats conditioned to respond to alcohol ingestion (operant conditioning), acute consumption of 7-keto (10-56mg/kg) was able to reduce responding to alcohol, suggesting of possible anti-alcoholic effects; these effects were also noted with DHEA (10-180mg/kg).[27] 7-keto DHEA and DHEA itself were equally efficacious in reducing blood alcohol (in a dose dependent manner) while 7-keto was more effective at reducing response to a near absolute degree at 56mg/kg;[27] the authors noted that this may not have been an inherent effect (as DHEA is known to not alter alcohol metabolism[28]) and is likely indicative of less alcohol consumption in the rats.[27]
 
+
 7-keto appears to have a fair bit of animal evidence to support its usage as an anti-alcohol consumption agent, and has more potency than parent DHEA. Fairly potent in animal studies and awaiting human trials
+
 
 3.5
 
@@ -208,7 +222,9 @@ Stress
 
 One letter to the editor[29] notes 5 case reports where severe trauma (stemming from childhood abuse) noted that in these treatment resistant women supplementation of 7-keto was associated with rapid improvements in vocational and interpersonal functioning and subjective improvements after 25-50mg for 4-6 weeks (in one case a dose of 75mg was used).[29]
 
+
 A few case studies reporting that 7-keto can improve stress in trauma patients, no trails conducted
+
 
 4.
 
@@ -220,7 +236,9 @@ Blood Pressure
 
 Despite being associated with greater weight loss than placebo, one study using 200mg 7-Keto for 8 weeks in obese persons failed to find any significant influence on systolic or diastolic blood pressure at rest.[25]
 
+
 Not enough evidence to assess the interaction of 7-keto DHEA and blood pressure
+
 
 5.
 
@@ -236,7 +254,9 @@ In regards to activation of 'thermogenic enzymes' (mitochondrial sn-glycerol-3-p
 
 One study feeding rats 7-keto at 0.2% of feed for 6-9 days noted that the rates for liver mitochondrial enzymes were increased for sn-glycerol-3-phosphate dehydrogenase (569%) and the protein content increased for malic enzyme (859%), sn-glycerol-3-phosphate dehydrogenase (137%), fatty acid acetyl-CoA oxidase (128%), and catalase (66.8%).[33]
 
+
 7-keto appears to induce enzymes associated with mitochondrial membrane permeability, increasing permeability and secondary to that exerting an uncoupling effect where more substrate must be oxidized to meet cellular ATP quota
+
 
 5.2
 
@@ -244,17 +264,23 @@ Interventions
 
 One study using 7-Keto in isolation at 200mg (100mg twice a day for 7 days) noted that, during a period of caloric restriction (800kcal less than regular intake), metabolic rate increased an average of 1.4% (total caloric expenditure a highly variable 21+/-115kcal) while placebo experienced a decrease in metabolic rate by 3.9% relative to baseline; this study was too short in duration to assess changes in weight.[34]
 
+
 In accessing the metabolic rate, 7-Keto supplementation appears to attenuate or reverse the decline in metabolic rate associated with caloric restriction
+
 
 Studies conducted over a longer period of time note that 200mg (100mg twice daily) for 8 weeks in obese adults in combination with a weight loss diet (1800kcal mixed diet) and exercise program (3 days weeks cross training) noted that the loss in weight associated with placebo (0.97kg) was increased (2.88kg) as well as the fat loss (from 0.57% to 1.8%); no significant differences in dietary intake were reported.[25]
 
+
 Studies measuring weight loss associated with 7-keto note that supplementation results in more weight and fat loss over a period of time; both studies were paired with diet and exercise which may be prerequisites
+
 
 Another trial (external funding source and confounded with Asparagus racemosus, choline, inositol, L-Tyrosine and minerals) noted that pairing 400mg 7-Keto (200mg twice daily) with a calorically restricted diet (25kcal/kg of target body weight) and exercise program for 8 weeks noted similar effects (increasing weight loss from 0.72+/-2.12kg in placebo to 2.15+/-2.38kg; high variability seemed to be due to exercise/diet intervention rather than supplementation as it occurred in placebo).[35]
 
 One study using 7-keto at 200mg (alongside green tea catechins, chromium, Vitamin D, Vitamin C and calcium) during a period of caloric restriction in obese adults noted that the supplement was associated with a 3.4% increase in metabolic rate (59+/-118kcal) while placebo decreased 3.4%.[34] One study suggests a spike n 7.2% of the metabolic rate, but this study used a subactive dose of 7-Keto (17mg) paired with a variety of stimulatory compounds (Yerba Mate at 167mg, piper nigrum at 1.7mg, 50mg Coleus Forskohlii, 100mg Citris Aurantium at 6% Synephrine, and 233mg Guarana at 22% caffeine).[36]
 
+
 Some studies suggest higher spikes in metabolic rate but are confounded with inclusion of other nutrients and not very respective of the bioactivity of 7-keto in isolation
+
 
 6.
 
@@ -286,11 +312,15 @@ At least one study has suggested that this effect may only have a role in a stat
 
 This inhibition appears to be mutual, with higher concentrations of glucocorticoids inhibiting the interconversion of oxygenated DHEA metabolites,[42] and when assessing 7α-hydroxyDHEA and the β isomer, they do not appear to directly interfere with the cortisol receptor or its activation, similar to parent DHEA.[43]
 
+
 Mechanistically, 7-keto may prevent the conversion of cortisone into cortisol by competitively interfering with the enzyme that mediates the conversion
+
 
 Application of 25mg 7-keto via a cream for 8 days has failed to significantly modify circulating cortisol levels over 100 days of assessment in otherwise healthy male volunteers.[20]
 
+
 Despite the above mechanisms, not enough evidence assessing the levels of circulating cortisol following 7-keto supplementation
+
 
 7.2
 
@@ -302,7 +332,9 @@ Application of 7-keto topical cream prior to sleep (conferring 25mg 7-keto via 5
 
 One study has failed to find any influence on testosterone levels in otherwise healthy obese adults using 200mg 7-Keto for 8 weeks, but only measured 6 individuals.[25]
 
+
 No direct androgenic effects associated with 7-keto, the influence on circulating androgens appears unreliable based on limited evidence
+
 
 7.3
 
@@ -312,7 +344,9 @@ When tested in vitro, 7-keto appears to activate the beta subset of the estrogen
 
 Application of 25mg 7-keto via a topical cream for 8 days has failed to note any decreases in serum estradiol during treatment, although a decrease in estraiol was noted on days 72 and 100 (reaching 48% of baseline value) which coincided with decreases in serum SHBG.[20] 200mg of 7-keto for 8 weeks in otherwise obese persons in combination with exercise and a calorically restricted diet failed to significantly influenced estradiol levels in serum (this study only measured serum estradiol of 6 persons).[25]
 
+
 May directly influence estrogen receptors, but only the beta subunit (not associated with classical effects of estrogen) and is quite weak at doing so; influences on circulating estrogen level is either a reduction or no effect but there is minimal evidence looking at this interaction
+
 
 7.4
 
@@ -336,7 +370,9 @@ Thyroid Hormones
 
 One study using 8 weeks of supplementation of 200mg 7-Keto noted that supplementation was associated with an increase in T3 by 17.88ng/dL while placebo increased T3 by 2.75ng/dL while both T4 and TSH were unaffected after 8 weeks.[25]
 
+
 7-keto supplementation may have a small enhancement on thyroid hormones
+
 
 7.7
 

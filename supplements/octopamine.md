@@ -116,7 +116,9 @@ The common name octopamine originated from the source of its discovery in 1940, 
 
 Octopamine and the trace amine tyramine are both known to be predominant neuromodulators in invertebrates where their signalling pathway is coupled to adenylyl cyclase (to produce cAMP)[4] and parallels the human catecholamine signalling system;[5][6] however, these receptors are not expressed in humans and octopamine seems to interact with the adrenergic receptors themselves or trace amine receptors.
 
+
 Octopamine is one of the final products of L-tyrosine metabolism in the human, and is used as an intermediate from which the body can make synephrine from. It has a major role in invertebrates which cannot be extended to humans (similar to ecdysteroids)
+
 
 Dietary supplements that are said to contain bitter orange (Citrus aurantium) may contain synephrine, octopamine, and tyramine[7] with synephrine being the most prominent inclusion and octopamine in the range of 140-900µg/g (although it is usually 1.0-1.3% the content of synephrine and comparable to the tyramine content).[8][9]
 
@@ -124,7 +126,9 @@ Citrus aurantium contains a variety of biogenic amines, all with structural simi
 
 L-tyrosine is the parent amino acid from which biogenic amines (not of the phenylethylamine class) are derived fromDecarboxylated L-tyrosine is tyramineA methylation of the amine group of tyramine leads to N-methyltyramine, and another methylation leads to the production of hordenineIf tyramine is hydroxylated the octopamine is the result, whereas if N-methyltyramine is hydroxylated then synephrine is the restAnd other natural sources which contain octopamine include:
 
-Garlic peel which contains N-trans-coumaroyloctopamine and N-trans-feruloyloctopamine,[10] two known tyrosinase inhibitors (IC50 values less than 10µM[11])Acorus Tatarinowii (containing N-trans-coumaroyloctopamine and N-trans-feruloyloctopamine[12])Octopamine is found in the bitter orange similar to many biogenic amines related to L-tyrosine that are used as dietary supplements, this includes synephrine and hordenine
+Garlic peel which contains N-trans-coumaroyloctopamine and N-trans-feruloyloctopamine,[10] two known tyrosinase inhibitors (IC50 values less than 10µM[11])Acorus Tatarinowii (containing N-trans-coumaroyloctopamine and N-trans-feruloyloctopamine[12])
+Octopamine is found in the bitter orange similar to many biogenic amines related to L-tyrosine that are used as dietary supplements, this includes synephrine and hordenine
+
 
 Octopamine in general can occur in one of three isomers preceded with meta (m), ortho (o), or para (p) to produce isomer names such as p-octopamine; a similar naming system to synephrine. Additionally, both the R form of (-)- and the S form of (+)- exist as enantiomers leading to six possible variants of octopamine:[13][14]
 
@@ -132,7 +136,9 @@ Octopamine in general can occur in one of three isomers preceded with meta (m), 
 
 P-octopamine tends to be synthesized endogenously from dietary L-tyrosine (indirectly) and is thought to only endogenously exist in the R enantiomer, suggesting that R-p-octopamine is the major naturally occurring form in humans.[13] Some m-octopamine has been detected in human nervous tissues and brain[15] despite not occurring in plants,[16] and o-octopamine is seen as fully synthetic as it has not been detected in nature.
 
+
 Octopamine could exist in one of six differing forms, due to the position of the hydroxyl group on the benzene ring (giving rise to isomers) or the orientation of the hydroxyl group in the amine sidechain (giving rise to enantiomers of the aforementioned isomers)
+
 
 2.
 
@@ -186,7 +192,9 @@ Hydroxymandelic acid metabolites account for two thirds of orally ingested octop
 
 When a high dose of synephrine is given to participants orally, no octopamine is produced endogenously[7][28] suggesting that the synthesis of synephrine from octopamine via N-methylation[29] occurs in reverse (demethylation) to a rate comparable to oxidative degradation of octopamine into hydroxymandelic acid resulting in no significant accumulation of octopamine.[13] The major urinary metabolite of synephrine is also hydroxymandelic acid of the corresponding enantiomer.[30]
 
+
 While octopamine is an intermediate of synephrine metabolism and should transiently arise with synephrine supplementation, it is thought that rapid metabolism of octopamine produced in this manner prevents increases in urinary octopamine (important as while octopamine is banned by WADA, synephrine is not)
+
 
 4.
 
@@ -198,7 +206,9 @@ Adrenergic Neurotransmission
 
 In invertebrates, the role of the octopamine/tyramine signalling pathways parallels that of catecholamine (adrenaline and dopamine) in humans[5][6] with octopamine in humans thought to be only indirectly implicated in adrenergic neurotransmission as a TA receptor ligand.
 
+
 A large amount of information on octopamine as it relates to adrenergic signalling, if conducted in invertebrates, cannot reliably be extended to humans due to species differences. This includes in vitro studies using cells or receptors isolated from insects rather than mammalian cells
+
 
 Octopamine has been noted to be an agonist of human β1-receptors (EC50 of 3,129+/-461nM[31]) and an agonist of β3 (adipocytes[32]), although it appears to have no effects on β2 receptors (transfected HEK293) up to a concentration of 6.7µM while allosterically inhibiting other agonists (isoprenaline).
 
@@ -206,7 +216,9 @@ At the level of the α-adrenergic receptor, m-octopamine appears to be an agonis
 
 When assessing the α2A-adrenergic receptor in particular, a racemic mixture of m-octopamine was noted to inhibit cAMP at 10µM secondary to this receptor whereas the least potent form of (+)-p-octopamine failed to have any effect at 100µM.[34]
 
+
 Octopamine appears to be a ligand for the adrenergic receptors including both the alpha and beta classes, although the concentrations needed to target the alpha receptors seem to be significantly higher than those required to activate the beta receptors. Although this would normally suggest selectivity, the concentrations required for octopamine to act on these receptors (except perhaps β3) seems higher than oral supplementation can feasibly produce
+
 
 4.2
 
@@ -216,11 +228,15 @@ Octopamine has been noted to interact with dopamine receptors, binding to the sa
 
 Elsewhere and in jejunal (intestinal) tissue of the rabbit, octopamine has demonstrated agonistic properties on the D1 receptor in a manner blocked by SCH-23390.[38] The reason for the difference noted in intestinal tissue and neural tissue is not clear.
 
+
 Although there is no current evidence in humans, it appears that octopamine has a role in inhibiting the activity of the D1 receptor (thereby changing dopamine signalling towards other receptors such as D2) and this occurs at a concentration which is not astoundingly high
+
 
 The human dopamine transporter (DAT) in HEK293 cells appears to have affinity for dl-octopamine, which interacted with a KD of 220μM which was weaker than p-tyramine (22μM) and D-amphetamine (5.5μM)[39] with its efficacy positively correlated with the sodium content of the medium (DAT being a sodium chloride dependent transporter)[40][39] although not dependent on it.[41] The reduced potency of octopamine relative to tyramine is thought to be due to hydroxylation on the β-carbon on the sidechain, which is known to reduce affinity for the DAT of similarly structured compounds.[39]
 
+
 Octopamine is known to have affinity for the dopamine transporter, perhaps as a substrate, but when tested in vitro it seems to have fairly low affinity (relative to the concentration of it expected in the brain). The interactions of octopamine and the DAT in vitro need further research
+
 
 4.3
 
@@ -232,7 +248,9 @@ Other instances of migraine, such as those that may occur alongside eating disor
 
 Chronic tension-type headache (CTTH), which differs from chornic migraines as they do not possess all the acute side-effects of migraines (photophobia, osmophobia, phonophobia, nausea[48]), do not appear to have abnormalities in the overall L-tyrosine metabolic pathway like chronic migraines do.[45]
 
+
 In general, migraine may be associated with abnormalities in L-tyrosine metabolism which implicate the catecholamines (noradrenaline and dopamine) as well as trace amines such as octopamine and tyramine. These abnormalities do not extend to all forms of migraine, and a role for octopamine supplementation is not currently known in this regard
+
 
 5.
 
@@ -244,7 +262,9 @@ Lipogenesis
 
 Octopamine has been noted to be able to inhibit glucose uptake into an adipocyte (100μM) acutely via activation of the β3 adrenoceptor[49] although there was an additional enhancement of glucose uptake via a different mechanism;[49] octopamine can be metabolized in fat cells by monoamine oxidase (MAO[50]) or semicarbazide-sensitive amine oxidase (SSAO[51]) to form an oxidative byproduct creatine hydrogen peroxide (H2O2)[49] which itself is thought to activate AMPK.[52] This pathway also extends to tyramine which has similar metabolism as octopamine, and the glucose uptake enhanced with increased oxidation.[53]
 
+
 Mixed effects on glucose uptake into fat cells due to two divergent mechanisms, and practical relevance of this information towards supplemental octopamine is unknown
+
 
 5.2
 
@@ -254,11 +274,15 @@ When incubated in fat cells taken from obese patients, m-octopamine (10µM) incr
 
 When using an isomer of octopamine that exerts lipolytic effects via β3 agonism and antilipolytic effects via α2 agonism, the former appears to be more significant resulting in a net lipolytic effect;[58] ablating the β3 receptors results in only a weak lipogenic effect,[58] possibly due to still acting in a lipolytic manner via α1 adrenoceptors.[54]
 
+
 Octopamine activates both α1 adrenergic receptors (causes lipolysis) and α2 adrenergic receptors (inhibits lipolysis), although it seems that p-octopamine is commonly used as a fat loss supplement since this particular isomer does not activate the latter subset of adrenergic receptors
+
 
 P-octopamine interacts with the β-adrenergic receptors in adipocytes, although it seems to be able to active lipolysis to a significantly larger degree in rat and hamster cells relative to human cells[32] thought to be due to a significantly higher percentage of β3-adrenoceptors (present in brown fat, but limited in white fat in humans[59]). P-octopamine appears to have only 2-fold less potency than noradrenaline on β3-adrenoceptors, while bearing 200-fold less affinity on cells expressed β1 and β2.[32]
 
+
 Octopamine is a full agonist of the β3 receptor with weak affinity for the other two receptor subtypes, suggesting that following oral supplementation it would be a selective β3 receptor activator. While this receptor mediates fat loss effects of octopamine, it is not known to be expressed to a high degree in human white adipose tissue (being expressed more in brown adipose tissue and in rodents relative to humans)
+
 
 6.
 

@@ -220,7 +220,9 @@ Sources
 
 Schisandra chinensis (of the family Schisandraceae) is a deciduous woody climbing vine that can grow up to 8 meters and bears flowers (yellowish-white to pinkish) and small 5-8mm fruits of a deep red color;[1] the plant itself is sometimes referred to as Chinese Magnolia Vine (not to be confused with Magnolia officinalis) and the fruits, referred to as fructae or fructus shisandra, are used in Traditional chinese medicine for the treatment of cough (antitussive) and asthma as well as to expel mucus from the lungs (expectorant), urinary and genital disorders, feminine health, sedative, astringent, and a general wellness tonic to counter fatigue.[1] Due to the fatigue fighting properties, it is referred to as 'Qi-Invigorating'[2] in the 'Yang' family of herbs[3] whereas Qi refers to an abstract concept of vital energy and Yang refers to an overal manifestation of bodily functions (with reference to organ function).[3]
 
+
 Schisandra chinensis is a plant which bears some small fruits, and these fruits are used in both chinese and russian traditional medicine to fight fatigue and promote general well being
+
 
 At times, the related species Schisandra sphenanthera is also used in traditional chinese medicine under the name of Wuweizi, although recently it is called Nan-Wuweizi whereas schisandra chinensis is called Ban-wuweizi and the two are not considered perfectly interchangeable.[4] Both contain lignans which are seen as the main bioactives of schisandra chinensis (albeit different lignans) and sphenanthera contains triterpenoids not present in chinensis.[4]
 
@@ -232,9 +234,13 @@ Shisandra chinensis (fruits unless otherwise specified) usually contain:
 
 (Lignans) Schisandrin (synonymous with Schisandrin A) in the range of 3.9-9.39mg/g (0.4-0.9%) of the dry fruit weight[5][6][7] as well as Schisandrin B (2.1-5mg/g; 0.2-0.5%[5][7]) and Schisandrin C (up to 1.4%, at times undetectable[5]); the only difference between the three being whether a phenyl group has one (Schisandrin B), two (Schisandrin C), or no (Schisandrin A) catechol groups in place of the desmethoxy groups(Lignans) γ-Schisandrin at 0.1-0.3% of the fruits dry weight[5][6] Schisandrol A (4.26% fruit dry weight[7]), Schisandrol B (Aka. Gomisin A; 1.1-4.7mg/g; 0.1-0.5%[5] yet elsewhere up to 1.18%[7]), and Deoxyschisandrin (0.9-3.4mg/g; 0.09-0.3%[5])(Lignans) Schisandtherin A (up to 0.66mg/g 0.06%[5] and elsewhere 0.14%[7]) and Schisantherin B (0.9-2.14mg/g; 0.09-0.2%[5]) as well as Schisantherin D,[4] although C and E are only present in schisandra sphenanthera[4](Lignans) Gomisin G (up to 0.88mg/g; 0.09%[5]) and angeloylgomisin G,[8] Gomisin J (0.4-0.9mg/g; 0.04-0.09%[5]), M1 and M2,[4] K1 through K3 (where K3 is synonymous with schisanhenol, and is at 0.06-0.12mg/g fruit dry weight[8]),[4] L1 and L2,[4] and Angeloylgomisin Q[8]Gomisin O, Epigomisin O, Angeloylgomisin O, Angeloylisogomisin O, 6-O-Benzoylgomisin O, Isobenzoylgomisin O[4][8]Gomisin H, Tigoylgomisin H, Benzoylgomisin H, and Angeloylgomisin H (the latter at 1.7-5.4mg/g; 0.2-0.5%[5])[8][4](Lignans) Pregomisin,[9] Chamigrenol,[9] meso-dihydroguaiaretic acid,[4] and nordihydroguaiaretic acid[4]Micrantherin A[8]The above lignans total in the range of 16.09-32.38mg/g dry weight (average of 25mg/g) of the fruits[5] and it appears that the ones in highest quantities and are likely to be relevant following oral ingestion are the Schisandrins (A-C), Schisandrols (A-B), and Angeloylgomisin H.[8]
 
+
 The lignan components are thought to be the major components of schisandra chinensis since they are active by themselves and are at high levels in the fruits; they are structurally unique, and quite different from other lignans such as sesamin
 
-(Triterpene; schisanartane skeleton) Preschisanartanin[10](Triterpenes; schisanartane skeleton) Schindilactone A-C[10] and Schintrilactone A-B (interconvert in solution)[11](Triterpenes; schisanartane skeleton) Lancifodilactone C,[10] Henridilactone D,[10] and Micrandilactone B[10][12](Triterpene; 18-norschiartane skeleton) Wuweizidilactone A-F[12]α-iso-cubebene[13] and α-iso-cubebenol;[14][15] while not precisely quantified, 316mg can be found in the n-hexane extract of 2,500g of fresh berry weight[13]The triterpenoids of schisandra chinensis are structurally very unique relative to other terpenoid structures in other plants, although their exact role in the supplementation of this fruit is not exactly known
+
+(Triterpene; schisanartane skeleton) Preschisanartanin[10](Triterpenes; schisanartane skeleton) Schindilactone A-C[10] and Schintrilactone A-B (interconvert in solution)[11](Triterpenes; schisanartane skeleton) Lancifodilactone C,[10] Henridilactone D,[10] and Micrandilactone B[10][12](Triterpene; 18-norschiartane skeleton) Wuweizidilactone A-F[12]α-iso-cubebene[13] and α-iso-cubebenol;[14][15] while not precisely quantified, 316mg can be found in the n-hexane extract of 2,500g of fresh berry weight[13]
+The triterpenoids of schisandra chinensis are structurally very unique relative to other terpenoid structures in other plants, although their exact role in the supplementation of this fruit is not exactly known
+
 
 Dihydrophaseic acid (as 3-O-β-d-glucopyranoside[4])Organic acids (citrus, tartaric, kinic, malic, fumaric, protocatechuic) at up to 18% of the fruit by weight[16][17] and thought to explain the tart tasteBenzyl alcohol (as the glycosides β-d-glucopyranosyl (1→6)-β-d-glucopyranoside and β-d-glucopyranosyl (1→2)-β-d-glucopyranoside[4])Isoscoparin[4]Quercetin (as 3-O-β-l-rhamnopyranosyl(1→6)-β-d-glucopyranoside[4])Melatonin at 96ng/g dry fruit weight[18]Phytosterols such as stigmasterol[16]Vitamin CVitamin ETrace elements (Nickel, Copper, Magnesium, Zinc); too low in quantity to be considered bioactive[16]The lignans tend to be named related to either the plant (lignans that sound like Shisandra) the Japanese tea Gomishi made from Schisandra berries (Gomisin lignans) or the Chinese name for the ethanolic extract of Schisandra, Wuweizi (some of the nortriterpenoids).
 
@@ -242,7 +248,9 @@ There is a polysaccharide within the fruits of shisandra chinensis temporarily d
 
 The lignans are also found in the shoot and leaves, just in a higher concentration in the fruits.[16][20] Some of them possess an anti-oxidant capacity.[21] It has been estimated that maximum value of total lignans reaches 6-11% at flowering in the stem and bark of Schisandra Chinensis, in which 3-8% was either Schisandrin, Schisandrol, or Gomisin A.[6]
 
+
 The main bioactives are the 'lignans', and all 30+ lignans seem to be categorized into 5 more precise categories; three bearing a name related to Shisandra and two bearing a name of Gomisin
+
 
 1.3
 
@@ -254,13 +262,17 @@ The seed extract can be extracted with 95% ethanol at a 1:1 w/v ratio and admini
 
 Ethanolic extracts of schisandra chinensis have also been reported to be used in traditional chinese medicine under the name of Wurenchun.[22] At times, a wine can be produced (usually in Korea) which is referred to as omija cha, somewhat similar to traditional usage of rubus coreanus (also a wine thought to bear medicinal properties in Korean medicine).
 
+
 Russian traditional medicine tends to air dry the fruits and then extract them with ethanol to create tinctures to be used over the course of one month, whereas the seeds have also been used but for acute usage
+
 
 There is a Kampo (Japanese medicine) formulation known as shoseiryuto (小青竜湯) which contains the fruits of shisandra alongside other herbal supplements, and is used for the purpsoes of the common cold and nasal drip as well as allergic rhinitus and pollinosus. The alleged antiallergic immune booster Shoseiryuto contains:
 
 Pinellia ternata (tuber) at 6g (10.1% yield after decocting)Shisandra chinensis (fruits) at 3g (25.2% yield after decocting)Ephedra sinicus (source of ephedrine) at 3g (12.9% yield after decocting)Licorice at 3g (25.9% yield after decocting)Asiasarum sieboldii or heterotropoides (root) at 3g (12.8% yield after decocting)Peony root (paeonia genera) at 3g (22.6% yield after decocting)Cinnamon (bark) at 3g (6.6% yield after decocting)Ginger (processed) at 3g (10.6% yield after decocting)In where all components totally 24g are boiled in 20-fold as much water for 40-60 minutes or until the water has been half boiled off (in the decoction process), and then the supplements are then removed and the powder used as a supplement. This processing method leaves the yield mentioned above, and the final weight of products is around 18.5% with shisandra chinesis totalling 25.2% of what remains suggesting it plays a major role.[23]
 
+
 Shisandra chinensis appears to be a major component of the Kampo formulation Shoseiryuto (小青竜湯) claimed to increase immunity and exert antiallergic properties
+
 
 2.
 
@@ -276,7 +288,9 @@ It was mechanistically demonstrated that mitochondria get an increase in glutath
 
 Gomisin lignans have also been implicating in interacting with Quinone Reductase in liver cancer cells, which was found to increase activity of the anti-oxidant response element (ARE) of the genome via enhanced Nrf2 translocation.[31] This enhanced Nrf2 translocation can manifest itself as Heme-Oxygenase 1 induction and confer anti-inflammatory effects as well.[32]
 
+
 Schisandra lignans as hormetic anti-oxidants underlies most of the therapeutic, preventative, and (theoretically, not yet demonstrated) life enhancing properties of Schisandra Chinensis in most organ systems Schisandra has been demonstrated to reach (brain, liver, lungs, kidneys, spleen, and heart)
+
 
 2.2
 
@@ -290,7 +304,9 @@ Another mechanism has been noted as well, Myosin-Light Chain dephosphorylation, 
 
 Increased blood flow may underlie improvements in physical performance (not too thoroughly demonstrated), and may in part contribute to neural and hepatic benefits.
 
+
 Direct action on smooth muscle cells and estrogen receptors may mediate improvements in blood flow 
+
 
 2.3
 
@@ -300,7 +316,9 @@ In part, subjective improvements in cognition can be attributed to placebo or re
 
 Another possible mechanisms of improved cognition is pertaining to acetylcholine, whereas consumption of Schisandra Chinensis fruits is associated with inhibiting Acetylcholinesterase (thereby increasing levels of acetylcholine) and simultaneously possessing the capacity to enhance cholinergic signalling in the presence of a ligand.[39]
 
+
 Combination of anti-stress effects, sedation, increased acetylcholine transmission, and (theoretically) increased blood flow. One rabbit study from Russia in the 1930s claimed improved glucose utilization in neurons, but aside from not being indexed online this claim has not been reinvestigated
+
 
 3.
 
@@ -314,7 +332,9 @@ When looking at select lignans (Schisandrin A, Schisandrol A, Schisandrin B) the
 
 Studies looking to enhance bioavailability have noted that Schisandra may be rate-limited in the intestines by it's dissolution rate, as a self-emulsifying drug delivery system of oleic acid at 20%, Polysorbate 20 as surfactant at 65%, and Transcutol P as cosurfactant at 15% (Schisandra at 20% by weight) was shown to enhance bioavailability of Schisandrin and Schisandrin B by 292.2% and 205.8%, respectively.[22]
 
+
 Bioavailability of Schisandrin lignans is poor in water, and can be enhanced in the presence of fatty acids or a good solvent. Although most lignans appear to be absorbed, some have a relatively greater absorption than each other and they can increase each other's absorption (See: Nutrient-Nutrient Interactions section)
+
 
 3.2
 
@@ -326,7 +346,9 @@ Shisandrin (72.13 mg/kg) had a Tmax of 8 hours, a Cmax of 1,321ug/mL, an AUC t
 
 Other lignans, such as Gomisin A, appear to be well absorbed and reaches a peak serum concentration 15-30 minutes after oral absorption and with a half-life of 70min.[45] Gomisin A is highly conjugated and metabolized in the blood, however, as 80% of it in serum is bound to proteins and a great deal metabolized.[45][46]
 
+
 All tested lignans appear to be absorbed by humans and rats, and their absorption is enhanced with co-consumption of the lignans with each other (as whole fruit extract; see nutrient interactions section) and when consumed with fatty acids or a proper solvent (see previous section on bioavailability) The Tmax values spread from 1 hour to 8 hours, supporting a 'long-lasting' notion
+
 
 3.3
 
@@ -334,11 +356,15 @@ Distribution
 
 Schisandra lignans have been noted in vitro to bind to plasma proteins in accordance with their retention times (most from schisandrin B, least from Schisandrol A out of the five tested) with no interspecies differences ex vivo and ranging from 30-98% binding.[7]
 
+
 The lignans that have been tested from schisandra chinensis appear to bind to human albumin (with no significant differences when compared to rat or dog albumin), and thus can be carried to peripheral tissues
+
 
 Distribution of Schisandrin (the lignan) appears to favor the liver, but has also been detected in the kidneys, lungs, heart, and spleen (quantitied in descending order).[43]
 
+
 Preliminary, but it appears to favor the organs that Traditional Chinese Medicine mentions it invigorates or replenishes
+
 
 3.4
 
@@ -348,17 +374,23 @@ Shisandra chinensis fruits (both water and ethanolic extracts) have been noted t
 
 The molecules of shisandra chinensis thought to mediate the above include Schisandrol A (40μM but not 10μM), Schisandrins A and B (EC50 of 1.25μM).[47]
 
+
 Shisandra chinensis is known to activate the xenobiotic sensing PXR thought to be due to its lignan components
+
 
 Perhaps secondary to the activation of PXR, Shisandrins A and B as well as Shisandrol B have been noted to induce the mRNA of CYP3A4 while Schisandrol A was weaker.[47] Shisandra whole fruit has been tested in vitro in a CYP3A4 inhibitory assay, with 100-1,000µg/mL dose dependently inhibiting CYP3A4 activity (assessed by the 6β-hydroxylation of testosterone) with an IC50 of 123µg/mL.[23]
 
 Schisandria Chinensis fruit extract is able to inhibit the CYP3A4 enzyme[51] which metabolizes over 50% of pharmaceuticals; this inhibition may be due to the Lignan components, specifically Schisandrin A and B[52] and more potently with Gomisin A.[53]
 
+
 Shisandra appears to induce the activity of CYP3A4 which is thought to be secondary to PXR activation, and while it appears very low doses of the fruits may not have this effect (due to a high concentration needed paired with a low oral intake) high doses of the fruits or any extract concentrated for the lignans are likely to be more potent
+
 
 Schisandrin B has been noted to induce the mRNA of CYP3A11 in isolated rat hepatocytes,[47] and both CYP2C9 as well as CYP2C29 were induced by the overall schisandra chinensis extracts thought to be due to the lignans acting on PXR.[47]
 
+
 Other enzymes also mediated by PXR appear to be influenced by the lignans of shisandra
+
 
 3.5
 
@@ -368,19 +400,27 @@ Lignans of this structural class (Dibenzocyclooctadiene) in general tend to be P
 
 In rats circulating paclitaxel concentrations are increased with isolated Schisandrol B (10-25mg/kg oral intake) with the higher dose reaching a 163% increase in Cmax and a 182% increase in AUC.[59] This has been replicated in otherwise healthy humans where 300mg of the fruits appears to increase the Cmax (51%) and AUC (47%) of talinol thought to be due to the P-glycoprotein inhibition.[60]
 
+
 The lignans in schisandra chinensis, due to their structure, appear to be inhibitors of P-glycoprotein mediated efflux and thus may increase the absorption of drugs that are subject to this efflux; this may also underlie anti-cancer properties in particular cancer cell lines
+
 
 In vitro in isolated rat hepatocytes, shisandra chinensis due to the lignan component can actiate the transcription of the efflux protein MRP2 possibly secondary to PXR activation.[47]
 
+
 Secondary to the PXR activation mentioned above, the MRP2 efflux protein appears to be increased in activity
+
 
 When investigated, the Kampo therapy Shoseiryuto (50mg/kg; of which the ethanolic extract of schisandra chinesis was 25.2% of it) failed to significantly alter the pharmacokinetics of nifedipine in rats although it trended to do so.[23] This is thought to be related to shisandra chinensis since it is known to activate the PXR[47] which influences CYP2C9 activity,[50] the enzyme mediating warfarin metabolism.[61]
 
+
 Limited in vivo evidence assessing the CYP3A4 inhibitory properties have failed to find a significnat inhibitory effect following oral ingestion of shisandra chinensis, although the dose was low and there was a trend towards inhibiting its activity
+
 
 Schisandra chinensis water extract at 500mg/kg is able to reduce the pharmacokinetic profile of warfarin injections by reducing the AUC by 29% and the half-life by 11.5% while increasing the clearance rate by 37.3%.[47]
 
+
 The fruits of shisandra appear to increase the rate of warfarin efflux from the body, suggesting that it can reduce the overall therapeutic efficacy of warfarin by lowering bodily exposure
+
 
 4.
 
@@ -418,7 +458,9 @@ In isolated brain homogenates, Schisandrin B at 25mg/kg bodyweight (oral adminis
 
 Schisandrin was also implicated in enhancing M1 receptor (cholinergic) neurotransmission as assessed by oxotermorine-induced tremors, able to enhance the tremoring effects of the drug while not confering any tremors on its own at this dose; oral doses of 1 and 10mg/kg bodyweight water extract were insignificantly different. [39] Injections of 175mg/kg Schisandrin do induce convulsions, however.
 
+
 There is biological basis for Schisandra Chinensis in improving memory and focus related to acetylcholine, although studies are preliminary. The enhancement of cholinergic neurotransmission is particularly intriguing
+
 
 5.3
 
@@ -428,7 +470,9 @@ In accordance with traditional usage of Schisandra as a hypnotic and sedative (a
 
 Without a prior stress, administration of Schisandra at 25-100mg/kg demonstrated an anxiolytic effect and promoted sedation and sleepfulness in rats.[72]
 
+
 Appears to exert sedative and anxiety-reducing effects, in accordance with it's title as an adaptogen that reduces stress
+
 
 6.
 
@@ -444,7 +488,9 @@ This increased glutathione content in cardiac mitochondria appears to be seconda
 
 An alternate mechanism that may offer cardioprotection is inhibition of Smad2/3 complex translocation and MAPK activation via inhibiting TGFβ1 signalling in smooth muscle cells.[79] TGFβ1 signalling was inhibited in a dose-dependent manner with full inhibition at 500ug/mL, and Smad2/3 phosphorylation was halved at 100ug/mL with no further reduction at 500ug/mL, and reduced nuclear translocation of Smad3; this inhibition was secondary to PPM1A activation, which reduces Smad phosphorylation.[80] These effects were best seen with Schisandrin B, since Gomisin N induced cell death.[79]
 
+
 There is biological basis for claims of Schisandra Chinensis fruit extract (some of the lignans) to benefit the heart organ itself, and it appears to induce these benefits by a hormetic (induce a bit of harm, reap a greater amount of benefit) mechanism
+
 
 6.2
 
@@ -456,7 +502,9 @@ The relaxing effect of low doses seems to be inhibited by estrogen-receptor anta
 
 Only one human study has been performed on this topic, with the hypothesis that improvements in liver function was secondary to increased blood circulation; it was found that 130mg Schisandra (confounded with 5mg Sesamin) daily was able to improve blood circulation by 9% in 1 week, and held roughly static during the second week of measurement at 9.7%.[33]
 
+
 Schisandra Chinensis extract appears to be able to increase blood flow and nitric oxide bioavailability, which can compliment the previously mentioned cardio-protective effects
+
 
 Improvements in blood flow may also apply to the penis.[84] Lignans were able to induce relaxation in pre-contracted (via phenylephedrine) cells by 8.0% at 0.1mg/mL and by 98.6% at 2mg/mL, suggesting an increasing dose-efficacy.[84] The mechanisms appeared to be due to be inhibiting the influx of calcium ions, as there were no beneficial effects noted with Ca2+ preincubation.[84]
 
@@ -478,11 +526,15 @@ Glucose Uptake
 
 One fraction of schisandra chinensis (containing Schizandrin, Gomisin A, and Angeloylgomisin H at 2.8+/-0.4mg/g, 1.7+/-0.3mg/g and 0.6+/-0.1mg/g) appears to stimulate PPARγ transcriptional activity in 3T3-L1 fibroblastic cells at the concentration of 500ng/mL with a potency slightly lesser than 200-2,000nM rosiglitazone.[87] Elsewhere (in HepG2 cells) it appears that these results have been replicated with two of the main lignans (Schisandrin A and C[88]) whereas Gomisin N by itself exceeded rosiglitazone in potency.[88] 
 
+
 Lignans from shisandra chinensis appear to be able to activate PPARγ transcriptional activity
+
 
 No ethanolic fractions from schisandra chinensis appear to promote insulin secretion from isolated Min6 cells.[87]
 
+
 Limited evidence does not support the role of shisandra chinensis lignans as an insulinotrophic agent
+
 
 7.2
 
@@ -506,7 +558,9 @@ One study on static physical loading noted that 1-10mg/kg total lignans of Schis
 
 Beyond the above Russian studies, two recent studies from China[91][70] suggest that Fructus Chinensis prior to exercise can reduce changes in corticosterone and glucose that occur during exercise and offer a protective effect on adrenal glands, without influencing testosterone or luteinizing hormone.
 
+
 Inherent problems with copious amounts of Russian Research 50 years ago are that they tend to not be indexed online, and without full text access to said Review that collects them it is hard to prove they even exist
+
 
 8.2
 
@@ -516,7 +570,9 @@ When pre-loaded, Schizandra (2 capsules each of 94.1mg, giving 3.1mg Shizandrin 
 
 Nitric Oxide (NO) levels are increased prior to exercise in both beginner and trained athletes.[35] In neither cortisol or NO were the effects seen with Shizandra amplified with exercise, instead spiking both biomarkers to exercise levels prior to exercise.[35] The authors claimed this was due to a preparatory effect.
 
+
 One study. It did show benefit and was nice in how it examined both elite athletes and beginners, but it was conducted in 1999 and no studies since then have attempted to replicate it
+
 
 8.3
 
@@ -526,7 +582,9 @@ In mice subject to a thermal chamber (research method of overheating), Schisandr
 
 In mice subject to a cold stress (10 minute swim in 12◦C water), subsequent administration of 0.2mL/kg Schisandra fruit extract was able to prolong exercise to exhaustion when swimming in normal water; higher doses in the 1-10mg/kg range of pure lignans had no effect and 100mg/kg exerted a negative influence (Lupandin 1981; Lebedev 1966).[6]
 
+
 In general, research from Russia past suggests Schisandra Fruit extract is able to exert an adaptogenic effect and reduce stress from abnormal temperatures
+
 
 9.
 
@@ -566,7 +624,9 @@ High dose Schisandrin B has been demonstrated to decrease cyclosporin-induced cy
 
 Higher doses (5g/kg) have been demonstrated to decrease urinary albumin in type 1 diabetic animals.[89] Secondary to reduced albumineria (which encourages podocyte damage[97]) podocyte damage in these animals was reduced.[89]
 
+
 A pleiotropic protective effect of Schisandra on the kidneys appears to exist, via both anti-inflammatory mechanisms (inhibition of NF-kB) or encouraging mitochondrial integrity via Schisandrin B; that being said, the oral doses used in the above rat studies is very high and quite impractical for preventative medicine
+
 
 11.2
 
@@ -584,7 +644,9 @@ A study delineating how Schisandra affects the liver practically found that both
 
 In regards to liver enzymes; Schisandra lignans can reduce a stress-induced increase of ALT from 96.7±6.3IU/L to 29.70-34.76IU/L, with 100mg/kg being more effective than 200mg/kg; the control group in this study had ALT levels at 17.5 ± 4.7IU/L.[99] These benefits have been noted in humans with 260mg Schisandra extract plus 10mg Sesamin daily, and alongside the reductions in liver enzymes (ALT, AST) the increase in anti-oxidant enzymes (glutathione, reductase) as well as a reduction in fatty liver and inflammatory markers was seen; no significant influences were noted on bilirubin.[107] A study on blood flow in humans using half the dose of the previous study found increased blood circulation with no influence on liver enzymes; these humans were healthy, so either the dose or prior disease state may account for the discrepancy.[33]
 
+
 Appears to offer both a preventative and rehabilitative liver protection effect, which may be due to a combination of factors (anxiety and stress reduction lessens the adverse effects of stress on the liver, direct protection via anti-oxidant enzymes, increased general blood circulation). Human studies are limited, so conclusions are preliminary despite promising
+
 
 12.
 
@@ -626,7 +688,9 @@ In research animals, Adapt-232 has been implicated in increasing physical endura
 
 Rhodiola Rosea is a 2.8:1 concentration with 70% ethanolic extraction, Siberian Ginseng at 10.5:1 concentration and 70% ethanolic extraction, and Shizandria at 1.2:1 concentration with 95% ethanolic extraction.[38] This gives a by weight standardization of 0.5% rosavin, 0.32% rhodioloside, and 0.05% tyrosol from Rhodiola; 0.37% schizandrin and 0.24% γ-schizandrin from Schizandria, and 0.15% eleutherosides B and E per 450mg capsule, which delivers 270mg of total bioactive compounds (the latter value is where the percentages are in reference to).[38]
 
+
 A combination of adaptogens that, although have not been shown to be synergistic, have been used alongside each other with good results
+
 
 14.2
 
@@ -636,7 +700,9 @@ The lignans may be synergistic with each other in regards to absorption, as isol
 
 A possible mechanisms is due to less intestinal efflux, as many lignans inhibit P-glycoprotein[54] (a protein in cells and the intestines that send molecules back out into the intestinal lumen or out of a cell) yet some lignans are actually subject to this protein.[41] Consumption of the P-glycoprotein substrate with the inhibitors (both lignans) may decrease efflux and inadvertently increase bioavailability.
 
+
 Combinations of lignans may be better absorbed than isolated lignans, thus a supplement using the whole fruit powder is likely to be more effective than taking a supplement with an isolated lignan
+
 
 14.3
 
@@ -646,7 +712,9 @@ Sheng-Mai-San is a herbal combination in Traditional Chinese medicine consisting
 
 And it has been demonstrated that the combination of herbs results in better bioavailability of Schisandrin (a lignan used as biomarker) than does a basic aqueous extract of Schisandra fruit delivering the same about of Schisandrin.[116] Whereas isolated Shisandrin at 5mg/kg delivered an AUC of 31766.4+/-7551.1ug/mL, the AUC from Schisandra was 70209.1+/-29155.0ug/mL and from the Sheng-Mai-San concoction 116697.4+/-35816.4ug/mL.[116] This is a 121% enhancement of average AUC using the whole plant, and a 267% enhancement of average AUC using the three herbs.[116]
 
+
 Similar to the Dang-Gui Buxue Tang concotion of Angelicae Sinensis and Astragalus membranaceus, it appears that the historical combination of herbs has biological basis
+
 
 14.4
 
@@ -658,7 +726,9 @@ This particular blend appears to be protective of the liver. In rats, it has bee
 
 The more interesting studies attributed to Ninjin-Yoei-To are recovery of lost scent in rats after 28 days supplementation.[124]
 
+
 The combination of herbs in Ninjin-Yoei-To exists, and should be noted; that being said, it is incredibly confounded and hard to delineate which bioactives do what and to what degree
+
 
 There is a related mixture of herbs simply called Ninjin-To by some studies, which retains Ginseng radix, Glycyrrhizae radix, Atractylodis rhizome and adds in Zingiberis siccatum rhizoma; this concoction does not include Schisandra Chinensis.
 

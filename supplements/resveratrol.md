@@ -296,11 +296,15 @@ It is estimated to have an average intake of 0.2mg daily in a Spanish population
 
 Interestingly, it is classified as a phytoalexin (plant toxin). Its reason for existence is to protect grapes from infection, as it is synthesized in response to Bothrytis cinerea infection.[6][7]
 
+
 Resveratrol is a polyphenolic compound referred to as a 'stilbene' due to its structure, and it is the most common and well researched stilbene currently known (despite stilbene's per se being a class of molecules). Stilbenes tend to be most well known for occurring in the Vitis family (Grape family) although they extend to many plants
+
 
 Food products or other common consumables that have a resveratrol content include:
 
+
 Note: 1umol of Resveratrol is equal to approximately 0.23mg
+
 
 The Vitis family of plants,[8][9] which is usually Wine (0.005-2.861umol/L;[10] highest in Red Bordeaux) and Grapes (27-35mcg/g trans-resveratrol with 160-460ng/g cis-resveratrol[11])Raspberry, at 38-59ng/g trans-resveratrol [11]Plums, at 13-20ng/g trans-resveratrol [11]Grape Tomatoes, at 168-175ng/g trans-resveratrol [11]Piper Imperiale[12]Açai berries[13]Peanuts and peanut products[14] at possibly as high as 5mcg/g in boiled peanuts, 0.3mcg/g in peanut butter and 0.05mcg/g in roasted peanuts.With common nutritional supplements that have a resveratrol content including:
 
@@ -334,7 +338,9 @@ Sirtuins are a class of 7 protein messengers in mammalian cells with a myriad of
 
 The entire sirtuin family is highly involved with regulation of mitochondria[24] and energy metabolism,[25] and is a player in musclular energy metabolism in response to exercise.[26]
 
+
 The sirtuin system is a group of cytoplasmic and mitochondrial proteins that are involved in energy restriction and metabolism and thought to be related to aging, with activation of this system thought to promote longevity
+
 
 2.2
 
@@ -342,7 +348,9 @@ Mitochondrial Biogenesis
 
 Resveratrol has been noted to exert many actions in a manner that is dependent on SIRT1[27][28][29] and it was initially hypothesized that resveratrol allosterically modified SIRT1 to increase its affinity for substrate and NAD+ (directly increasing its activity[30]), although this is currently thought to not be the case since the fluorescent used in past research (Fluor de Lys-SIRT1 peptide) may have been a research artefact (unintended mistake);[31][32][33] while a direct interaction isn't fully ruled out yet[34] it seems more likely that the influence on SIRT1 is indirect.
 
+
 It seems unlikely that resveratrol directly activates SIRT1, although an activation of SIRT1 does appear to exist with resveratrol and it is currently thought to be downstream of directly influencing other molecular targets
+
 
 Resveratrol may act on SIRT1 secondary to acting on AMPK in various tissues[35][36][37][38] which is thought to be due to AMPK increasing levels of NAD+ in a cell, which is the cofactor for SIRT1.[39] The opposite also holds true as abolishing SIRT1 activity prevents resveratrol from acting on AMPK,[40] and SIRT1 has the ability to deacetylate the AMPK kinase known as LKB1 which would increase AMPK activity[41][42] while abolishing SIRT1 prevents resveratrol from acting on AMPK.[40]
 
@@ -350,7 +358,9 @@ It was noted that AMPK was activated in a SIRT1 dependent manner at lower concen
 
 Regardless of the exact mechanisms, AMPK and SIRT1 both beneficially influence mitochondrial biogenesis[44][45] as since both SIRT1[46][47] and AMPK[48] promote the activity of PGC1α, which then promotes the transcription of proteins involved in mitochondrial biogenesis.[49] This pathway, however, has been noted to be primarily AMPK directly but dependent on SIRT1 (suggesting a positive modulator role).[45]
 
+
 There is ultimately one shared result of activate SIRT1 and AMPK in a cell (increase in mitochondrial biogenesis secondary to PGC1α activatioN) although there appear to be two distinct pathways involved; it seems that resveratrol can directly activate AMPK via PDE inhibition at higher concentrations, and another influence on SIRT1 may positively regulate the AMPK pathway allowing it to occur at lower concentrations
+
 
 3.
 
@@ -368,7 +378,9 @@ Interestingly, there is a circadian rhythm with resveratrol absorption. It appea
 
 When consumed with a balanced meal, the overall bioavailability of Resveratrol does not change. However, the time until peak levels in the blood (Tmax) and the peak levels (Cmax) are delayed and reduced, respectively. Overall exposure (AUC) does not change with the balanced meal,[57] but may in response to a higher-fat meal (45g relative to 15g in the balanced meal).[58]
 
+
 Its well absorbed in the intestines, and food does not affect its overall absorption. Bioavailability is another issue though, as conjugation begins at this stage.
+
 
 3.2
 
@@ -392,7 +404,9 @@ Consumption of 300mL of white wine can increase plasma levels in the range of 0.
 
 These numbers should be taken with a grain of salt, as in addition to the high inter-individual variation trans-resveratrol also varies in content due to growing conditions for grapes.[73]
 
+
 There appears to be no difference between the resveratrol in food and wine compared to capsule form. However, resveratrol has low bioavailability anyways at around 10% of ingested dose being bioactive. Food can have an advantage due to ingestion of compounds that increase bioavailability (like Quercetin) but capsules can be micronized to increased bioavailability 3.6-fold. Additionally, it would be hard to get very large dosages through wine without saying farewell to your liver (in regards to Alcohol)
+
 
 3.4
 
@@ -424,7 +438,9 @@ Half-life of the resveratrol molecule appears to be in the range of 1-3 hours, a
 
 Elimination half-life is estimated at being around 7-14 hours.[50]
 
+
 In the end, resveratrol is readily absorbed and distributed to the body. It is mostly excreted within a day, and has a half-life of a few (1-3) hours. Blood levels are relatively dose-dependent, and the 'peak' level of blood concentration is slowly pushed backwards (up to 90 minutes, from 30) with the more resveratrol you consume. It can get into cells as well, when should preclude its metabolic actions. Its only real downfall is that it is heavily conjugated by the liver (P450)
+
 
 4.
 
@@ -451,7 +467,9 @@ Studies in Drosophilia and C.Elegans
 
 It appears that resveratrol reliably increases lifespan in these two non-mammalian models,[90][90][88][91][84] which may be related to acting on Juvenile Hormone; a longevity promoting yet insect exclusive hormone.[88][89]
 
+
 In insect models (commonly used in longevity research as they have short lifespans and a study spanning an insects lifetime is actually practical to conduct and publish), resveratrol may promote lifespan by a mechanism that does not exist in humans
+
 
 4.3
 
@@ -461,7 +479,9 @@ In mammalian models of premature aging, resveratrol does not seem to be indicati
 
 It should be noted that this is not the consensus, and some studies do note increase longevity in lab animals.[96] However, it is currently up for debate whether the effects seen are due to a legitimate life extension mechanism or whether they protect from causes of death acutely (such as heart attacks) and push the median lifespan past statistical significance.
 
+
 At this moment in time, it appears that resveratrol 'adds life to years' rather than 'adds years to life'. It may protect against common causes of death (covered in heart health and cancer metabolism) as well as metabolic syndrome, which could then push the median lifespan higher and exert a 'pseudo-life extension' appearance; however, a novel life extension mechanism independent of lifestyle that can be attributed to resveratrol appears to be lacking.
+
 
 5.
 
@@ -489,15 +509,21 @@ Other studies have noted that glutamate-induced changes (associated with excitot
 
 At least one study noted that neuroprotection from resveratrol was abolished with an NMDA receptor antagonist,[106] which the authors thought reflected a preconditioning effect (as despite NMDA overactivation contributing to toxicity[107] a low level of activation preconditions the neurons and is neuroprotective[108]).
 
+
 There are unclear effects of resveratrol on the glutaminergic receptors. While in general it appears to suppress overactivation of glutaminergic signalling (all three major receptor subsets), some neuroprotective effects appear to be prevented by blocking the receptor. It is possible that resveratrol is a weak agonist of sorts while outcompeting stronger agonists
+
 
 In regards to seizures induced by kainic acid (acting via kainate receptors, one of the glutamate receptor isoforms), resveratrol appears to be able to reduce seizures and hippocampal neurotoxicity[109][110][111][112] although it appears ineffective in younger still developing rats[113] who are known to be more sensitive to kainate-induced seizures.[114]
 
+
 May suppress the signalling through kainate receptors, and reduces the seizure potential of kainic acid. This appears to be well replicated in rat models, although it failed in the one more sensitive to kainic acid
+
 
 In morphine tolerant mice (experiencing upregulations in NR1 and NR2B subunits of NMDA receptors which contributes to morphine tolerance[115][116]), resveratrol administration into the brain (7.5-30µg) appears to downregulate these two subunits via preventing an increase in PSD-95 expression with no inhernet suppressive effect without morphine.[117] PSD-95 provides a physical anchorage for NMDA receptors at the membrane[118] and this was thought to mediate the suppression in NMDA receptor increases.[117]
 
+
 With agents that predispose the neurons to excitotoxicity secondary to upregulating NMDA receptors, resveratrol has been implicated in preventing this upregulation. Although the mechanism is not known, it appears to be through preventing a scaffolding protein from supporting NMDA receptors in the membrane
+
 
 5.4
 
@@ -507,11 +533,15 @@ Glial cells are cells used to support neurons, and are highly involved in neurol
 
 Astrocytes are also involved in glutamatergic neurotransmission as they can convert glutamate into glutamine (via glutamine synthetase)[123] and the released glutamine is taken up by neurons for converion into glutamate via a glutamate-glutamine cycle[124][125] to then be released into the synapse.
 
+
 Glial cells, particularly the astrocytes, are intimately involved in neurotransmission between neurons and are further implicated in glutaminergic neurotransmission
+
 
 It is hypothesized[126] that resveratrol acts on glial cells as it has been noted to increase glutamate uptake into glial cells in the dosage range of 0.1-250μM[127] which also appears to increase glutathione content of these cells.[128] Resveratrol has also been noted to protect astroglia from neurotoxicity from ammonia[129] which is used in the process of converting glutamate into glutamine via glutamine synthetase. It seems that under periods of ammonia toxicity that this enzyme is downregulated due to increased oxidative stress[130][131][132] and as such the upregulation of this enzyme seen with resveratrol[127] may underlie the protective effects.[129]
 
+
 Resveratrol appears to increase glial cell uptake of glutamate, and encourage its production into glutamine. This mechanisms can be used to explain neuroprotection from ammonia, and it may also contribute to the observed anti-glutaminergic effects of resveratrol
+
 
 5.5
 
@@ -537,7 +567,9 @@ Atherosclerosis
 
 When investigating SIRT1 levels of the endothelium of persons with coronary artery bypass, they were found to be expressed at lower levels in artherosclerotic arteries relative to normal vessels (about 60% of normal level for tissue, 20% for the endothelium itself).[136]
 
+
 The typical target of resveratrol, SIRT1, appears to be reduced in artherosclerotic arteries
+
 
 In regards to oxidized LDL (oLDL; a form of LDL with is seen as more artherogenic), resveratrol is able to attenuate the rate of oLDL formation form LDL secondary to its direct anti-oxidative effects against both metal ions and hydrogen peroxide.[137][138][20]
 
@@ -549,17 +581,23 @@ When looking at the endothelial nitric oxide synthase enzyme (eNOS), resveratrol
 
 Uncoupling of eNOS (which is caused by deficiency of the tetrahydrobiopterin subunit aka. BH4[141][142]) is when the eNOS enzyme no longer couples exclusively to its substrate L-arginine and can begin producing superoxide (O2-) radicals;[143][142] such uncoupling can be treated by either NADPH oxidase inhibition[144] or via increasing BH4 synthesis. Resveratrol possesses both of these properties, being able to reduce the expression of the NOX4 subunit of NADPH oxidase[145] and able to increase the activity of GTP cyclohydrolase 1 (GCH1), the rate limiting enzyme of BH4 synthesis (30-100mg/kg resveratrol in mice).[146]
 
+
 Resveratrol appears to stabilize the mRNA which signals the genome to produce the eNOS enzyme (thereby increasing overall production of eNOS), which is not related to the estrogenic effects of resveratrol. There is also a recoupling effect on eNOS (by mitigating some of the pathological changes seen in unhealthy states)
+
 
 Resveratrol is being investigated for its benefits to the endothelium as it is a direct free radical scavenger (specifically ROS) at 10-100µM[136][147] may inhibit NADPH,[148] and at least in vitro appears to induce eNOS;[149] these effects of resveratrol suggest it can be beneficial in preserving endothelial responsiveness to agents that induce vasorelaxation (such as nitric oxide or acetylcholine), which are commonly hindered by alterations of the above three mechanisms.[150][151]
 
+
 Resveratrol is thought to preserve the response of the endothelium to endogenous (occurring within the body) agents that induce relaxation. Relaxation of the vessel wall by these agents tends to be impaired in chronic disease, and resveratrol may reverse or attenuate this impairment
+
 
 28 days of resveratrol supplementation in spontaneously hypertensive rats at 0.448-4.48mg/L (the lower dose to mimic moderate wine consumption; 0.05-0.5mg/kg in rats and equivalent to 3.3-33mg resveratrol in humans) was able to increase acetylcholine-induced maximal vasorelaxation from 60.7+/-1.4% in control to 80.8% (no dose dependence noted) without influencing KCl or phenylephrine induced contraction nor the EC50 of acetylcholine induced contraction.[152] Enhancement of vasorelaxation has been noted elsewhere with a higher dose of 5mg/kg to a similar degree of efficacy.[153]
 
 One study in spontaneously hypertensive rats noted that endothelial nitric oxide synthase (eNOS) was not significantly altered despite enhanced acetylcholine responsiveness of the endothelium,[152] although in vitro studies note increases in eNOS at physiologically relevant concentrations.[139][149][154] This was thought to explain enhanced endothelial-dependent vasodilation noted in rats given 5mg/kg resveratrol (a supplemental dose),[153] and noted that it can occur at lower doses occurring in wine (human equivalent of 3.3mg) to a similar degree as higher doses.[152]
 
+
 Appears to enhance acetylcholine induced relaxation of the arteries in rats with hypertension, which is thought to be related to the endothelial-dependent vasorelaxation noted in rat models; this may be independent of changes in blood pressure.
+
 
 6.3
 
@@ -591,7 +629,9 @@ Insulin sensitivity and Diabetes
 
 Resveratrol, per se, has been shown to increase insulin sensitivity when supplemented obese persons at 150mg daily as measured by HOMA index and measured at 13.3% improvement over 30 days alongside reductions in glucose (4.2%) and insulin (13.7% reduction).[160] It has been suggested to do most of its mechanisms of action on the level of the cell, as it increases Akt phosphorylation (Type II diabetics at 5-10mg daily)[161] and activates AMPK (150mg in non-diabetic obese persons).[160] This mechanism of insulin sensitization, AMPK, is not activated in healthy non-obese persons nor are there apparent benefits to insulin sensitivity of muscle, fat, or the liver in this population.[162] This study, however, used 75mg, a dose higher than the one associated with insulin sensitization in type II diabetics[161] and half of that which activated AMPK in healthy obese adults.[160] Additionally, these benefits appear to fade after 6 months cessation of supplementation.[163]
 
+
 Resveratrol appears to benefit glucose metabolism, with lower doses needed for those in worse metabolic condition (insulin resistant, diabetic) and higher doses needed for those in pre-clinical disease states; may not be effective in healthy persons at increasing insulin sensitivity, and appears to exert temporary benefit
+
 
 On the level of the pancreas, resveratrol can reduce the degree of pancreatic beta-cell death in rats fed a high dose (70-400mg/kg bodyweight).[164][165] It has been seen to have protective effects against oxidation at a low dose of 0.04% dietary intake in diabetic mice.[166] These interactions with the pancrease do not appear to influence insulin secretion, as evidenced by a prolonged study in lemurs in which resveratrol (and caloric restriction) were both implicated in improved glycemic control independent of insulin secretion.[167]
 
@@ -611,7 +651,9 @@ In preadipocytes (the stage between mesenchymal cell and adipocyte), resveratrol
 
 In mature adipocytes, resveratrol can induce apoptosis (possibly via non-SIRT1 mediated synergysm with TNF-alpha mediated cellular apoptosis)[172] and increased ephedrine-induced lipolysis while decreasing insulin-induced lipogenesis[173][174] and increasing insulin and basal mediated glucose uptake into adipocytes.[175] In essence, resveratrol seems to have non-significant benefits towards fat metabolism in adult cells as well as preadipocytes.
 
+
 These mechanisms suggest resveratrol may be a great long-term anti-obesity agent, but it is unlikely that the above will cause fat loss over a short period of time independent of an increase in metabolic rate.
+
 
 8.2
 
@@ -635,7 +677,9 @@ Since AMPK deficient mice do not respond to resveratrol well, fat loss effects a
 
 Accordingly, 150mg resveratrol for 30 days does not result in fat loss in humans. Additionally, a suppression of sleeping metabolic rate was found to be significant although a slight increase in waking metabolic rate (via non-significant increases in diet-induced thermogenesis) made the whole-day metabolic rate not significantly different between groups.[160]
 
+
 Practically, resveratrol may cause some fat loss although this is most likely insignificant. Probably only enough to negate its suppression of sleeping metabolic rate and overall have no effect on fat loss in a short period of time.
+
 
 9.
 
@@ -677,7 +721,9 @@ Although Resveratrol seems to possess the ability to preserve fast-twitch muscle
 
 Indirectly, the mechanism of PCG-1a overexpression is being investigated as a method to alleviate sarcopenia risk[191] which resveratrol has been found to elevate downstream of SIRT1.[192]
 
+
 Nothing overly significant in regards to muscular health, although a concerning (albeit unproven) possibility with regards to mTOR; the Rapamycin study.
+
 
 9.6
 
@@ -685,7 +731,9 @@ Oxidative Interactions
 
 One study has noted that supplementation of 250mg resveratrol taken concomitantly with resistance training over the course of 8 weeks in otherwise healthy older men was able to prevent the reductions in blood pressure and improvements in oxygen uptake associated with exercise, which was seen in placebo given exercise alone.[193] A commentary on this study[194] has noted that many of the benefits in placebo that were statistically significant that were not significant in the resveratrol condition were of similar practical magnitude (ex. the statistical decrease of LDL-C by 0.3+/-0.2mM in placebo was significant while the 0.2+/-0.2mM in resveratrol was not) and it was claimed the harm of resveratrol was overstated. The defense from the initial authors[195] of the clinical trial[193] agreed that while the interpretation could be seen as excessive it was not the study's aim to assess practical relevance.
 
+
 High dose resveratrol, due to it being an antioxidant and the process of oxidation being required for some adaptive responses to exercise, may have some hindering effects on optimal exercise adaptations. The magnitude of this 'blunting' effect appears to be minor and it may not have much practical relevance
+
 
 9.7
 
@@ -795,7 +843,9 @@ Resveratrol is being investigated in reducing the risk of breast cancers.
 
 It has been seen to inhibit a positive feedback loop in breast cells via aromatase promotor regions;[231] as mentioned in the section on hormones, this occurs at around 25-50uM concentration.
 
+
 Lots of possible mechanisms and promise, but human evidence is just starting to surface. It is too early to make a conclusion about resveratrol's interaction with cancer metabolism although it looks promising in most cases.
+
 
 14.
 
@@ -843,7 +893,9 @@ D-Glucaro-1,4-Lactone is produced during metabolism of Calcium-D-glucarate in hu
 
 This metabolite of D-glucarate at 0.5mM was able to cause a very low dose of resveratrol (0.1uM) to potently inhibit thrombin-induced aggregation and increase anti-oxidant potential; both compounds were ineffective at these dosages in isolation.[244] Synergism between these two molecules has also been noted in preventing skin cancer occurrence when ingested orally.[245]
 
+
 Potentially synergistic for reducing blood clotting, currently the studies are not in living systems
+
 
 14.7
 

@@ -180,7 +180,9 @@ Properties
 
 Anthocyanins may be subject to degradation when exposed to heat, with one study noting an activation energy of 54kJ/mol in the temperature range of 80-90°C[21] and another noting a range of 47-61kJ/mol.[20]
 
+
 Anthocyanins may be degraded by heat treatment, although several human studies still use tea as a vessel for experimenting with Roselle (so it appears that this heat destruction may not be practically relevant)
+
 
 2.
 
@@ -194,7 +196,9 @@ One study with oral intake of 130.25mg Anthocyanins (65.56mg Cyanidin-3-Sambubio
 
 Urinary concentrations of Delphinidin-3-Sambubioside, Cyanidin-3-Sambubioside, or anthocyanin conjugates following oral ingestion of 130.25mg Anthocyanins via Hibiscus Sabdariffa tea (65.56mg Cyanidin-3-Sambubioside, 62.12mg Delphinidin-3-Sambubioside, 0.15mg Cyanidin-3-Glucoside, and 2.42mg Delphinidin-3-Glucoside) have been noted,[15] and the same research group has conducted another study where 147.4mg Anthocyanins (62.6 Cyanidin-3-Sambubioside and 81.6mg Delphinidin-3-Sambubioside) was given orally to participants noted that detection of these glycosides can be found in the urine within 2 hours, with a maximum excretion rate of 7.51mcg/h; Cyanidin and Delphinidin glucosides could not be determined due to low urinary concentrations.[22] This latter study noted that the amount of anthocyanins detected in the urine is about 0.018% of the oral dose, with studies on anthocyanins in general suggesting most of the metabolism occurs in the colon by intestinal microflora.[23]
 
+
 The anthocyanins have been tested for pharmacokinetics in humans, and they appear to be fairly rapidly excreted with poor bioavailability; the glycosides themselves (Delphinidin-3-Sambubioside rather than Delphinidin) are found in the urine, but the overall exposure to anthocyanins after oral administration is poor
+
 
 Oral administration of a polyphenolic enriched Hibiscus Sabdariffa extract to rats resulted in a variety of pharmacokinetic profiles for active ingredients of this herb.[13]
 
@@ -204,7 +208,9 @@ Quercetin (6.9umol) was found to peak at 1.57+/-0.18uM and six glucuronide metab
 
 N-feruloyltyramine was found to peak after 20 minutes to 0.54+/-0.16uM following oral ingestion of 1uM, and conferred a half-life of 47.8 minutes.[13]
 
+
 Some serum parameters are noted with the non-anthocyanin compounds in rats
+
 
 2.2
 
@@ -248,7 +254,9 @@ Mechanistically speaking, a water extract of Hibiscus Sabdariffa is able to conc
 
 An ACE inhibitor potential of Roselle has been noted via competitive inhibition,[10] which is related to the anthocyanins Delphinidin and Cyanidin as 3-Sambubioside glycosides with IC50 values of 141.61μM/84.55μg/mL (Ki of 31.9μM) and 117.75μM/68.41μg/mL (Ki 56.9μM) respectively;[32] both of these were less effective than the active control, Lisinopril, but greater than that of other bioflavonoids such as apigenin, luteolin, and Quercetin glycosides.[32] A basic water extract seemed to outperfom the anthocyanin rich fragment in this study (IC50 40.04μg/mL versus 91.2μg/mL) suggesting other bioactives not in the anthocyanin class are more active.[32]
 
+
 Mechanistically, the extract does possess ACE inhibitory potential via the anthocyanins although these are not as strong as pharmaceutical reference drugs. 
+
 
 A study where 10g dried calyx infused in 510mL water (9.6mg anthocyanins) drunk as tea daily before breakfast for 4 weeks was associated with an 11% reduction in systolic blood pressure (139.05 to 123.73mmHg) and 12.5% reduction in diastolic blood pressure (90.81 to 79.52mmHg) in persons with diagnosed hypertension not currently taking other antihypertensive agents.[5] When compared to the active control of 50mg Captopril (taken in two divided doses) for the same period of time was not significantly different in effects.[5] These effects are noted in both prehypertensive and hypertensive adults over 6 weeks, but with thrice daily ingestion of 240mL tea with main meals (1.25g of the calyx each serving with 7.04mg Anthocyanins) in a blinded manner (placebo tea sweetened and colored to mimick Roselle tea) noted a reduction of systolic and diastolic blood pressure by 5.5% and 4% respectively in hypertensive persons and to similar level in prehypertensive persons.[33] Mean Arterial Pressure was reduced significantly by 4.7% when compared to baseline, but barely missed statistical significance relative to placebo (P=0.054).[33] Although extending for 6 weeks, significant reductions in both blood pressures were noted by week 2,[33] and other studies using Hibiscus Sabdariffa tea over 15 days have replicated these reductions in blood pressure, with measurements on day 12 reaching reductions of 11.2% systolic and 10.7% diastolic in essential hypertensive persons.[3] This latter study had reductions in blood pressure about two-fold observed in the previous study at the 2 week interval, but this may simply be due to this demographic having higher blood pressure at the start of the study.[33][3]
 
@@ -256,7 +264,9 @@ When compared to Lisinopril, the 12.21% blood pressure reduction observed with 2
 
 In type II diabetics, Roselle tea consumed over 30 days was able to reduce systolic blood pressure from 134.4+/-11.8 to 112.7+/-5.7 (16.1% reduction) when the control group drinking black tea actually had an increase (118.6+/-14.9 to 127.3+/-8.7; 7.3% increase); Roselle also decreased mean pulse pressure to 66% of baseline values.[35]
 
+
 Repeated human trials have noted a reduction in blood pressure associated with drinking moderate amounts of Roselle tea. Only one trial has attempted to blind participants to the treatment by giving them a falsely scented and flavored placebo tea, but this also replicated the benefits associated with Roselle
+
 
 4.3
 
@@ -268,7 +278,9 @@ When making tea from the calyxes (2g steeped for 25-30 minutes and drunk; twice 
 
 In hypercholesterolemics with serum LDL-C in the 130-190mg/dL range who received 1g of the plant extract daily (hydroalcoholic leaf extract) for 90 days did not influence body mass nor did it significantly influence any measured parameter in serum (Total cholesterol, LDL-C, HDL-C, and blood glucose).[39]
 
+
 Improvements may occur in regards to cholesterol and lipoproteins in persons with metabolic ailments (currently hypercholesterolemia and diabetes studies in humans), although the degree of improvement is moderate relative to other compounds
+
 
 In regards to triglycerides, 5-15% of the diet as Hibiscus Sabdariffa ethanolic extract for 4 weeks noted decreases in total lipids (12.3%) and triglycerides (48%),[40] with another study using 5-10% of the calyx itself reaching 49-53% reduction of serum lipids.[41] A mechanistic study thought that this may be related to activation of AMPK, which was noted in hepatocytes and suppressed SREBP-1 (a protein mediating hepatic fatty acid synthesis).[42]
 
@@ -276,7 +288,9 @@ The absorption of triglycerides has been noted to be significantly reduced at 5%
 
 In human studies, one study in diabetics notes a 14.9% decrease with 2g of calyx steeped for 25-30 minutes and drunk twice a day for a month[38] with a study in hypercholesterolemics using 1g of a hydroalcoholic extract over 90 days failing to reach statistical significance.[39]
 
+
 Studies in rats suggest potent hypolipidemic (triglyceride lowering) effects of Hibiscus Sabdariffa possible related to hepatic fatty acid synthesis suppression and possible fatty acid burning via AMPK; studies in humans using lower doses (commonly used for blood pressure health) tend to have far less potency
+
 
 5.
 
@@ -358,19 +372,25 @@ Kidneys
 
 The aqueous extracts of Roselle appear to reduce protein expression of αENaC after oral administration to adrenalectomized rats, which may be related to the diuretic and natiuretic (sodium excreting) effects of Roselle.[14] This diuretic effect is known as potassium sparing, and works in a dose-dependent manner between doses of 1500-2500mg/kg (authors stating that, due to extraction, this equates to 5mg/kg) although the highest dose was less effective than 13mg/kg furosemide.[47]
 
+
 Appears to have diuretic properties
+
 
 A study using drug-induced calcium kidney stone formation in rats treated with 250-750mg/kg Roselle extract was able to significantly reduce calcium deposition in renal tissue (no dose dependence noted, underperformed relative to 750mg/kg Cystone) as assessed by histology; the increases in phosphorus and urea (in kidney stone control) was reduced with comparable potency to Cystone, the reference drug.[48]
 
 In persons ingesting 1.5g of the dried calyx as tea twice a day, it appears that in persons who have not had a kidney stone previously that a trend exists towards increased uricosuria (uric acid excretion in the urine) while in those who have formed a kidney stone this relationship is statistically significant;[49] the effect was noted to be transient, and vanished during a washout period.
 
+
 May possess kidney stone reducing properties
+
 
 When fed to rats at an oral dose of 25-50mg/kg (aqueous extract) over 28 days was able to reduce the activity of Ca2+/Mg2+ATPase (no apparent dose response), without influencing NA2+/K+ATPase (although a trend to increase); plasma albumin or ALP was noted, but a decrease of urea and creatinine were noted at the higher dose of 50mg/kg.[6]
 
 In rats given a 5/6 Nephrectomy and then divided into either control or a group treated with Roselle (250mg/kg of a water extract from red calyxes for 6 weeks after a 1 week downtime after surgery) noted significantly reduced glomerular and tubulointerstitial injuries (histological examination) and less fibrosis with no significant effect on albuminuria or serum IL-6/TNF-α levels.[4] The increase in blood pressure associated with 5/6 Nephrectomies was significantly attenuated.[4]
 
+
 Blood pressure related mechanisms have been noted in renal tissue, which may be related to those observed in human trials
+
 
 10.2
 
@@ -388,7 +408,9 @@ One study investigating rat testes noted that four weeks of 200mg/kg Hibiscus ex
 
 Although a possible estrogenic effects is though to exist, a failure to alter testicle weight was noted at doses even up to 4.2g/kg bodyweight for 12 weeks[9] and a reduction of the testicular:body weight ratio tends to be indicative of estrogen-related testicular toxicity.[10] Currently the mechanism mediating possible testicular toxicity are unknown, with the authors of the aforementioned rat study citing the following and hypothesizing Quercetin may be related, as Quercetin isolated from Roselle coloring was noted to possess mutagenic activities in vitro.[52]
 
+
 There appears to be some possible testicular toxic effects, seen at the dose of 200mg/kg (human dose of about 2g for a 150lb person) or above. The mechanisms underlying this possible toxicity are not known, and no studies exist in humans assessing testicular toxicity
+
 
 11.
 
@@ -426,19 +448,26 @@ Looking at rats, a dose-escalation study noted that no mortality existed for acu
 
 Despite the aforementioned, a review of safety[10] has noted that the LD50 to be above 5,000mg/kg citing a rat intervention in hypertensive rats.[56] The LD50 may be variable due to processing techniques and varying levels of bioactives, as the bioactive(s) underlying this toxicity is currently not known.
 
+
 2,000mg may be approximately the lowest toxicity threshold, with no acute but possible chronic adverse effects at this dose and higher doses being more likely to induce toxic effects
 
+
 Due to the potential toxicity, 200mg/kg as a rat dose (32mg/kg human dose, 2.2g of calyx per day for a 150lb person) may be a practical upper limit for usage
+
 
 12.2
 
 Reproductive Toxicity
 
+
 Testicular Toxicity falls into this category somewhat (in this particular case, sperm cells are implicated) and discussed in the section of 'Interactions with Organs', subset 'Testicles'
+
 
 In a study on mice using 0.6g/100mL or 1.8g/100mL of Hibiscus Sabdariffa extract in the drinking water during 21 days of lactation reported suppressed food and water intake in mothers (no dose dependence on the former) and both increased body weight and delayed onset of puberty in rat pups.[57] This study itself attributed a reduced food intake during lactation to these effects, and a followup study by the same researchers noted a dose-dependent increase in serum sodium and corticosterone, and was again attributed to maternal malnutrition.[58] These results have been replicated twice again by the same research group,[59] with one noting that these trials have not noted birth defects per se.[60]
 
 One trial has noted that the offspring consuming the same doses of Hibiscus Sabdariffa themselves had delayed pubertal onset, again attributed to reduced food and water intake.[61]
 
+
 A series of studies that note increased rat pup weight with a possible delay in puberty, which have been linked to maternal malnutrition (no pair fed studies as of yet, which are studies that restrict nutrition in one group to match that of the drug group; attempting to delineate effects of caloric deprivation and effects of the drug. Due to the lack of pair fed studies, this hypothesis is still tentative)
+
 

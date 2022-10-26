@@ -48,7 +48,9 @@ The term 'Locoweed' is used to refer to plants of the Oxytropis family (although
 
 Some studies also refer to similar historical usage when referring to an Oxytropus Falcata, suggesting the two species names are used interchangeably.[1]
 
+
 A highly acclaimed herb for Tibetan medicine (King of Tibetan Medicine like Ganoderma Lucidum is to Chinese and Ashawgandha is to Indian). A species in the Oxytropus genera appears to be highly toxic to livestock that graze upon it
+
 
 1.2
 
@@ -56,11 +58,15 @@ Composition
 
 Oxytropis contains:
 
-Oxytropine A-C (actually all structurally different)[4] and Oxytrofalcatin A-F (structurally related N-benzoylindole analogues)[4][5]Falcatins A and B, two triterpenes[9] and two 'rare' sequesterpenes 3-methyl-5-(2,2,4-trimethylcyclohexanol-3-yl)pent-1-ene-3-ol and 3-methyl-5-(1,3,3-trimethyl-7-oxabicyclo{2.2.1}hept-2-yl)pent-1-en-3-ol[9]2′,4′-Dihydroxychalcone (DHC) is sometimes seen as the main active ingredient (despite not being named after the herb),[2] and 2′,4′,β-trihydroxy-dihydrochalcone is also found in this plant[3] as well as other chalcone structures[3][10]N-Benzoyl-β-phenylethylamine[11] and (-)-N-Benzoyl-2-hydroxy-2-phenylethylamine[4][12]N-formylbenzamide, 4-hydroxybenzamide, and N-formyl-p-hydroxybenzamide[5]Rhamnetin, Rhamnocitrin,[1][3] and the latter's 3-O-beta-neohesperidoside.[11] Rhamnocitrin has also been found to be bound to 3-Hydroxy-3-methylglutarate group on its glycoside, and this compound (rhamnocitrin-3-O-{(S)-3-hydroxy-3-methylglutaryl-(1→3)}-{α-l-rhamnopyranosyl-(1→2)}-β-d-galactopyranoside) is referred to as Oxytroflavoside B.[1] Oxytropisoflavans A and B have been reported, and are structually different than the aforementioned[13]Kaempferol (and many glycosides such as Robinin, Astrasikokioside I, and Mauritianin),[1][3] Quercetin, and Apigenin[4](6aR,11aR)-3,8-dihydroxy-9,10-dimethoxypterocarpan, propterol B, (3R)-(−)-isomucronulatol, and mucronulatol[13]Chrysin[4], Genistin (the glycoside of one of the two Soy isoflavones)[4] and Daidzein (the other one)[13]Melilotigenin B and C, initially from Melilotus officinalis and 24-hydroxy-11-deoxoglabrolide[9]Pinocembrin,[11] Pinostrobin, and Liquirtigenin (an active component of Licorice)[4]Naringenin,[14] Formononectin,[13][4] and Luteolin[4]Dalbergin, (-)-Maackiain,[11] Sparteine, Lupanine, Thermopsine, and Anagyrine[4]Pendulone, calycosin, 2'-hydroxybiochanin A, Pseudobaptigenin, Astraciceran, and (S)-(–)-Sakuranetin[13]3',4',5,7-4-hydroxy-flavanone[14]5,6-dihydroxy-3,7,3',4'-tetramethoxyflavonol and 5,6-dihydroxy-3,7,4'-trimethoxyflavonol[14]β-sitosterol, Daucosterol, Stigmasterol, 7a-hydroxysitosterol, and 7-oxositosterol[14][15]A cluster of standard flavanoid compounds with some unique ones (really, there is an astonishing variety of flavanoids here that need to be quantified), some structurally unique chalcone structures which are thought to be the active ingredients, and a confirmed phenethylamine content
+Oxytropine A-C (actually all structurally different)[4] and Oxytrofalcatin A-F (structurally related N-benzoylindole analogues)[4][5]Falcatins A and B, two triterpenes[9] and two 'rare' sequesterpenes 3-methyl-5-(2,2,4-trimethylcyclohexanol-3-yl)pent-1-ene-3-ol and 3-methyl-5-(1,3,3-trimethyl-7-oxabicyclo{2.2.1}hept-2-yl)pent-1-en-3-ol[9]2′,4′-Dihydroxychalcone (DHC) is sometimes seen as the main active ingredient (despite not being named after the herb),[2] and 2′,4′,β-trihydroxy-dihydrochalcone is also found in this plant[3] as well as other chalcone structures[3][10]N-Benzoyl-β-phenylethylamine[11] and (-)-N-Benzoyl-2-hydroxy-2-phenylethylamine[4][12]N-formylbenzamide, 4-hydroxybenzamide, and N-formyl-p-hydroxybenzamide[5]Rhamnetin, Rhamnocitrin,[1][3] and the latter's 3-O-beta-neohesperidoside.[11] Rhamnocitrin has also been found to be bound to 3-Hydroxy-3-methylglutarate group on its glycoside, and this compound (rhamnocitrin-3-O-{(S)-3-hydroxy-3-methylglutaryl-(1→3)}-{α-l-rhamnopyranosyl-(1→2)}-β-d-galactopyranoside) is referred to as Oxytroflavoside B.[1] Oxytropisoflavans A and B have been reported, and are structually different than the aforementioned[13]Kaempferol (and many glycosides such as Robinin, Astrasikokioside I, and Mauritianin),[1][3] Quercetin, and Apigenin[4](6aR,11aR)-3,8-dihydroxy-9,10-dimethoxypterocarpan, propterol B, (3R)-(−)-isomucronulatol, and mucronulatol[13]Chrysin[4], Genistin (the glycoside of one of the two Soy isoflavones)[4] and Daidzein (the other one)[13]Melilotigenin B and C, initially from Melilotus officinalis and 24-hydroxy-11-deoxoglabrolide[9]Pinocembrin,[11] Pinostrobin, and Liquirtigenin (an active component of Licorice)[4]Naringenin,[14] Formononectin,[13][4] and Luteolin[4]Dalbergin, (-)-Maackiain,[11] Sparteine, Lupanine, Thermopsine, and Anagyrine[4]Pendulone, calycosin, 2'-hydroxybiochanin A, Pseudobaptigenin, Astraciceran, and (S)-(–)-Sakuranetin[13]3',4',5,7-4-hydroxy-flavanone[14]5,6-dihydroxy-3,7,3',4'-tetramethoxyflavonol and 5,6-dihydroxy-3,7,4'-trimethoxyflavonol[14]β-sitosterol, Daucosterol, Stigmasterol, 7a-hydroxysitosterol, and 7-oxositosterol[14][15]
+A cluster of standard flavanoid compounds with some unique ones (really, there is an astonishing variety of flavanoids here that need to be quantified), some structurally unique chalcone structures which are thought to be the active ingredients, and a confirmed phenethylamine content
+
 
 Anti-oxidant properties in this plant appear to be mostly via the flavonoids, as the chalcones are weak in a DPPH assay.[3]
 
+
 A very weird collection of interesting looking structures to be honest, even Oxytropine C appears to be structurally related to catecholamines (if broken to the top right of the left benzene ring)
+
 
 2.
 
@@ -82,7 +88,9 @@ Analgesia
 
 Topical application of Oxytropis Falcate is able to dose-dependently reduce the perception of pain in mice (assessed by acetic acid induced writhing) in a dose dependent manner reaching 56.67% at a topical dose of 90.6mg/kg Oxytropis (5.5mg/kg DHC), which outperformed the active control of Diclofenac emulgel (34.75%).[2] This pain reduction was noted in a hot-plate test, where dose-dependence was noted and the highest dose outperformed the active control at 30, 60, and 90 minutes of assessment.[2]
 
+
 Appeared to be a fairly potent pain-killer according to the one study conducted on it
+
 
 3.2
 
@@ -96,5 +104,7 @@ Interventions
 
 In a mouse model of arthritis (complete Freund's adjuvant injections), topical administration of Oxytropis falcate (5.7-90.6mg/kg) was able to attenuate joint inflammation in a dose-dependent manner.[2]
 
+
 Possible anti-inflammatory effects following topical administration
+
 

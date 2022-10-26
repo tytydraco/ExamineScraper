@@ -156,22 +156,30 @@ Origin and Composition
 
 Colostrum, sometimes also called 'first milk’, is the first form of mother’s milk that mammalian neonates receive after birth. It is produced in the mammary glands of females just prior to giving birth and is a concentrated source of proteins, growth factors, and antibodies that are essential for early development of newborns. Colostrum is enriched with many immunoglobulins (also found in lesser amounts in Whey Protein) and other antimicrobial agents also found in whey. In contrast to other dairy proteins such as whey, colostrum is highly enriched with specific growth factors thought to promote rapid growth and development of offspring.
 
+
 Colostrum, or 'first milk', is a mammary-derived protein source that is highly enriched in growth factors and specific proteins that promote development and improve immunity in newborns. It is used as a dietary supplement on the assumption that constituent growth factors may confer additional benefits.
+
 
 The precise composition of colostrum varies significantly, both over the course of the lactating period as well as in response to factors affecting the mother such as immunization and antibody production.
 
 Colostrum contains the following caloric components:
 
-Dietary protein, after excluding immunoglobulins (up to 70-80% of total protein, compared to 1-2% in milk[1]) the remaining protein in colostrum is a 3:1 ratio of Whey Protein to Casein Protein.[2] Total protein content is usually upwards of 11% of the raw product,[1] compared to 4.5% in standard bovine milk.[1]Carbohydrates, with a present lactose content (27-46g/L;[3] the higher end of the range comparable to bovine milk[4] and comparable to the 55g/L in human colostrum[3]) with some oligosaccharides (neutral[5][6][7] and acidic[8][9]) based off of lactose,[3] mostly 3-sialyl-lactose at 1500µM/L and 6-sialyl-lactose at 30µM/L (more than 50% total oligosaccharides in bovine colostrum[3]). Biological significance of these oligosaccharides in regards to supplemental colostrum is currently uninvestigated.Dietary fatty acids, estimated at 1.6% of commercial products[10] and usually 3.9-4.4% of fresh bovine colostrum[3][11]Immunoglobulins, a subset of dietary protein, thought to be the main bioactive components and usually standardized. They are present at 20-150g/L in colostrum[1] (depending on vaccine administration and immune status of the cow) which is higher than the 0.5-1g/L in bovine milk.[1] Although humans primarily secrete IgA in breast milk, bovine colostrum is richest in IgG.[1] Without processing, the immunoglobulin content (already up to 70-80% of total protein[1]) tends to be up to 70-75% IgG1 followed by IgM, IgA, and IgG2 in descending concentrations.[12]Colostrum has a similar overall macronutrient profile to milk except for a larger protein content. The major difference is in the composition of the protein, as the immunoglobulin content of milk is very small relative to the amount of immunoglobulins in colostrum, which constitutes the majority of colostrum's protein content. The predominant immunoglobulin in colostrum is IgG.
+Dietary protein, after excluding immunoglobulins (up to 70-80% of total protein, compared to 1-2% in milk[1]) the remaining protein in colostrum is a 3:1 ratio of Whey Protein to Casein Protein.[2] Total protein content is usually upwards of 11% of the raw product,[1] compared to 4.5% in standard bovine milk.[1]Carbohydrates, with a present lactose content (27-46g/L;[3] the higher end of the range comparable to bovine milk[4] and comparable to the 55g/L in human colostrum[3]) with some oligosaccharides (neutral[5][6][7] and acidic[8][9]) based off of lactose,[3] mostly 3-sialyl-lactose at 1500µM/L and 6-sialyl-lactose at 30µM/L (more than 50% total oligosaccharides in bovine colostrum[3]). Biological significance of these oligosaccharides in regards to supplemental colostrum is currently uninvestigated.Dietary fatty acids, estimated at 1.6% of commercial products[10] and usually 3.9-4.4% of fresh bovine colostrum[3][11]Immunoglobulins, a subset of dietary protein, thought to be the main bioactive components and usually standardized. They are present at 20-150g/L in colostrum[1] (depending on vaccine administration and immune status of the cow) which is higher than the 0.5-1g/L in bovine milk.[1] Although humans primarily secrete IgA in breast milk, bovine colostrum is richest in IgG.[1] Without processing, the immunoglobulin content (already up to 70-80% of total protein[1]) tends to be up to 70-75% IgG1 followed by IgM, IgA, and IgG2 in descending concentrations.[12]
+Colostrum has a similar overall macronutrient profile to milk except for a larger protein content. The major difference is in the composition of the protein, as the immunoglobulin content of milk is very small relative to the amount of immunoglobulins in colostrum, which constitutes the majority of colostrum's protein content. The predominant immunoglobulin in colostrum is IgG.
+
 
 Noncaloric components of colostrum have been noted to be:
 
-IGF-1 at variable concentrations such as 213ng/g,[10] 3.7µg/g,[13] or 8.5µg per 125mL[14], which is approximately 10 times higher in concentration than in regular milk[15]IGF-1 binding proteins[16]TGF-α[17][18]TGF-β1 at 113 ng/g (80% protein extract conferring 15-20% immunoglobulins[10])TGF-β2 at 441 ng/g (80% protein extract conferring 15-20% immunoglobulins[10])Antimicrobial peptides such as lactoperoxidase (0.2g/L, similar to milk[1]) and lactoferrin,[19] the latter at 1.5g/L in colostrum[1] yet only 100mg/L in bovine milk[1]α-lactalbumin (3.0g/L relative to 1.3g/L in milk[1]) and β-lactalbumin (8.0g/L relative to 3.3g/L in milk[1])Soluble tumor necrosis factor (TNF) receptor 1 (sTNFr1), at least in human colostrum[20]Epidermal growth factor (EGF)[17]Glycomacropeptide (GMP) at 2.5g/L in colostrum[1] (1.2g/L in bovine milk[1])Lysozyme[19][1] anywhere between 0.14-0.70mg/L which is comparable to milk;[18][1] known to complement the antibacterial properties of lactoferrin[21]The majority of growth factors and bioactive proteins found in colostrum are also found in other dairy products, but they are at increased concentrations in colostrum relative to milk or whey protein.
+IGF-1 at variable concentrations such as 213ng/g,[10] 3.7µg/g,[13] or 8.5µg per 125mL[14], which is approximately 10 times higher in concentration than in regular milk[15]IGF-1 binding proteins[16]TGF-α[17][18]TGF-β1 at 113 ng/g (80% protein extract conferring 15-20% immunoglobulins[10])TGF-β2 at 441 ng/g (80% protein extract conferring 15-20% immunoglobulins[10])Antimicrobial peptides such as lactoperoxidase (0.2g/L, similar to milk[1]) and lactoferrin,[19] the latter at 1.5g/L in colostrum[1] yet only 100mg/L in bovine milk[1]α-lactalbumin (3.0g/L relative to 1.3g/L in milk[1]) and β-lactalbumin (8.0g/L relative to 3.3g/L in milk[1])Soluble tumor necrosis factor (TNF) receptor 1 (sTNFr1), at least in human colostrum[20]Epidermal growth factor (EGF)[17]Glycomacropeptide (GMP) at 2.5g/L in colostrum[1] (1.2g/L in bovine milk[1])Lysozyme[19][1] anywhere between 0.14-0.70mg/L which is comparable to milk;[18][1] known to complement the antibacterial properties of lactoferrin[21]
+The majority of growth factors and bioactive proteins found in colostrum are also found in other dairy products, but they are at increased concentrations in colostrum relative to milk or whey protein.
+
 
 Although bovine colostrum is a source of dietary IGF-1 (which is identical in humans and bovines)[22]) the IGF-1 does not appear to be absorbed in adult humans.[13]
 This is similar to the adult rat[23] and is thought to be due destruction of these peptides during digestion. In contrast, mammalian neonates readily absorb dietary IGF-1 (particularly calves[24][25]) due to a less developed, more permeable gut that allows large peptides to be absorbed undigested. As the neonate ages and the gut becomes more developed, intestinal permeability is reduced significantly.[26][27]
 
+
 The most investigated bioactive protein in colostrum, insulin-like growth factor (IGF-1), is indeed at higher concentrations but it does not appear to be absorbed from the adult intestinal tract and is instead digested to presumably inactive peptides.
+
 
 1.2
 
@@ -198,7 +206,9 @@ Although like most proteins, the immunoglobulins in bovine colostrum undergo rap
 
 Immunoglobulins are known to be partially hydrolyzed in the intestines, and directly placing these immunoglobulins into the intestines of participants (100 mL of a solution containing 6.1g immunoglobulins) resulted in 79% nitrogen absorption.[36] Importantly, this was less than expected from animal sources of dietary protein (94-97%[37]), which could be explained by partial resistance of immunoglobulins to digestion in the intestines that may also facilitate increased absorption.[36] Thus, incomplete digestion of these antibodies may allow colostrum to confer some passive immunity in the gastrointestinal tract.[36][38]
 
+
 Immunoglobulins in colostrum appear to be partially resistant to digestion in the small intestine, possibly leaving some antibody intact to activate passive immunity.
+
 
 3.
 
@@ -230,7 +240,9 @@ Another study conducted by Dr. Jose Antonio and colleagues used a more straightf
 
 Supplementation of 60g colostrum (20g thrice daily with meals) has been noted to increase weight in elite field hockey players (attributed to lean mass) when compared to baseline, although this increase is comparable to that seen with the control treatment of whey protein.[28] Other studies have noted comparable efficacy to whey protein,[44][29] with the only difference between group (favoring colostrum) possible being due to lower baseline values and not inherently due to the intervention.[44]
 
+
 Studies on the effects of colostrum on muscle hypertrophy report mixed results. While limited evidence suggests that colostrum may have muscle hypertrophy promoting effects distinct from other protein sources, side-by side comparisons of colostrum and whey in other studies have failed to find significant differences. 
+
 
 4.3
 
@@ -246,7 +258,9 @@ Studies examining the effect of colostrum on muscular power output have reported
 
 In contrast, supplementation of 60g colostrum paired with an exercise regimen failed to increase muscular power output as assessed by biceps curls relative to whey protein control.[44] Moreover, colostrum supplementation for eight weeks also failed to produce significantly greater results than a whey protein control in 1 rep max strength tests for a variety of exercises including bench press, chin-ups, and leg presses.[43][29]
 
+
 Although mixed reports indicate that colostrum supplementation may provide slight advantages over whey in peak power output, this does not seem to apply to gains in maximal strength.
+
 
 4.5
 
@@ -254,7 +268,9 @@ Soreness, Injury, and Recovery
 
 One study compared whey and colostrum (both at 60g daily) for eight weeks in two consecutive treadmill running tests to exhaustion with a 20-minute break in between each run. In the first run, effective peak running speed (PRSE; indicative of power output) was assessed. The second run was used to examine the ability of whey versus colostrum to facilitate recovery.[45] There was no difference between the colostrum and whey groups over the 8 week testing period for the first run. For the second run, although no difference was noted between whey and colostrum groups at week 4, there was a very modest, but significant increase in power output after 8 weeks of supplementation.[45] 
 
+
 While colostrum does not appear to affect performance during an initial bout of exercise, the results of one study suggest that it may promote faster acute recovery, enhancing total power output on subsequent bouts.
+
 
 4.6
 
@@ -263,11 +279,15 @@ Immunological Interactions
 Both NSAID drugs[46] and increased body temperature from exercise[47][48][49] have been known to increase intestinal permeability. Since bovine colostrum appears to reduce the increase in intestinal permeability caused by NSAIDs,[46] the possibility that colostrum may also help attenuate heat-induced intestinal permeability due to exercise has been explored. When tested in vitro, colostrum does not affect intestinal cells at normal temperatures (37°C), but does protect against heat-induced intestinal cell damage when the temperature is increased to 39°C. These protective effects can be blocked using EGFR-blocking antibodies, however, suggesting that colostrum may contain an EGFR ligand, a possible explanation for its protective effects.[50]
 The electrical resistance of intestinal cells, which is inversely correlated to permeability, decreased by 22% at 39°C. This was attenuated by slightly more than half with colostrum.[50] Colostrum was also observed to induce HSP70 (Heat Shock Protein 70 – a protective stress-response protein),[51] which was attenuated by the EGFR-blocking antibody.[50]
 
+
 Colostrum has been shown to induce expression of HSP70, which may underlie its ability to reduce heat-induced intestinal permeability in vitro. EGFR appears to be partially responsible for mediating this effect.
+
 
 Human studies for the most part correlate with the in vitro data that suggests colostrum attenuates heat-induced intestinal permeability. In one recent study, supplementation with colostrum (15-20% immunoglobulins and 80% protein by weight) at 20g daily for two weeks prior to an exercise test where participants ran at a constant speed at 80% VO2max noted that a 2.5-fold increase in intestinal permeability in the placebo group was attenuated by 80% in the colostrum group (with no influence physical performance).[50] In another study that compared the effects of 60g daily colostrum, Whey Protein control, or placebo in trained individuals, the investigators noted that colostrum actually increased intestinal permeability. Participants were subjected to a 30 minute run to exhaustion, where it was noted that colostrum actually caused an increase in intestinal permeability relative to placebo or whey.[10] It should be noted that in this particular study, the exercise stimulus had no effect on intestinal permeability in any of the experimental groups, so this particular model was not appropriate to assess the effect of colostrum on heat/exercise induced changes in gut permeability. This work does suggest that colostrum may increase macromolecular transport in a non-pathological manner, which warrants further investigation. 
 
+
 Clinical evidence confirms that supplementation of bovine colostrum attenuates exercise-induced increases in intestinal permeability.
+
 
 In studies assessing sickness rates, 10g colostrum (20% IgG) for five weeks prior to high-intensity cycling failed to significantly reduce the incidence of upper respiratory tract-related illness symptoms despite showing a weak trend relative to control (10g whey protein).[52]
 
@@ -277,7 +297,9 @@ Aerobic Exercise
 
 One study investigated the influence of low dose bovine colostrum in cyclists over a 10 week period.[53] On week 1, baseline levels were assessed for performance (40 km time trial), VO2max, and time to fatigue (TTF) at 110% of ventilatory threshold. These tests were repeated in weeks 7 and 9. Beginning on week 2, subjects received either 10g of colostrum or a whey protein placebo for the next five weeks while undergoing normal training (weeks 2-6) and repeat testing on week 7. This was followed by five consecutive days of high intensity training (HIT) that included an additional 40 km time trial on the fifth day. After the final week of testing during week 9, subjects performed a final TTF test. Colostrum did not have a clear discernible effect on time-trial performance during normal training. After HIT training, the colostrum supplementing group demonstrated a 1.9 +/- 2.2% improvement in time trial performance from baseline and a 2.3 +/- 5.0% increase in time-trial intensity (as measured by % VO2max). Colostrum also prevented the decrease in TTF noted in the placebo group following the HIT period (4.6 +/- 4.6%).[53]
 
+
 While colostrum does not seem to increase aerobic performance per se, it can increase performance following a bout of high-intensity training.
+
 
 4.8
 
@@ -287,7 +309,9 @@ To evaluate the effect of colostrum on exercise performance, one study examined 
 
 In contrast, colostrum failed to improve anaerobic performance in lightly trained men subjected to an eight week training protocol[29] and also failed to reduce time-to-fatigue at 110% ventilatory threshold in highly trained cyclists.[53]
 
+
 Studies on the affect of colostrum on anaerobic exercise performance are not clear, as literature reports are mixed. If colostrum does affect anaerobic performance under certain circumstances, it may occur via increased lactate buffering in working muscles.
+
 
 5.
 
@@ -299,7 +323,9 @@ Immunogenesis
 
 The proliferation of lymphocytes induced by tetanus vaccine does not appear to be altered with prior supplementation of colostrum at 1,200mg (500mg immunoglobulins) daily for ten weeks in otherwise healthy adults.[54] Moreover, total immunoglobulin-secreting cells and total immunoglobulin levels are not changed when colostrum is taken alongside a vaccination (Salmonella typhi).[55] In contrast to the apparent lack of effect on immune cell proliferation or total immunoglobulin levels, colostrum may have the ability to amplify immune responses. In the same study investigating the effects of colostrum on immunogenesis in response to a Salmonella typhi vaccination in humans, colostrum significantly increased the amount of IgA antibodies specifically generated against the Salmonella typhi vaccine.[55]
 
+
 While colostrum does not appear to effect total immune cell proliferation or total immunogloblin levels, one study demonstrated that it may amplify the production of specific antibodies against certain antigens. This suggests that colostrum may have potent immunomodulatory effects that warrant further investigation. 
+
 
 5.2
 
@@ -324,7 +350,9 @@ Interferons are important cytokines released in response to infection that coord
 
 Human studies that have examined the effects of colostrum on interferon gamma production also mixed results. Athough one study reported that colostrum significantly increased interferon gamma production in cultured human peripheral blood mononuclear cells (PBMCs),[64] an earlier study failed to demonstrate any effects in this cell population.[65] Moreover, in a human study examining the ability of colostrum to attenuate post-exercise decreases in immune function, colostrum supplementation (12.5g twice per day for 10 days) failed to affect interferon gamma levels relative to placebo.[57]
 
+
 Colostrum does not appear to affect systemic interferon levels when administered orally. In vitro studies in cultured cells have reported mixed results, however, with the body of evidence suggesting that colostrum may increase resistance to infection by stimulating local immune responses in the intestines.
+
 
 5.4
 
@@ -338,7 +366,9 @@ Neutrophils
 
 One study initiating an endurance test in athletes after a glycogen depletion protocol confirmed a large increase in neutrophil count after the endurance test which returned to baseline after rest; colostrum failed to have a significant influence on this process at 25g relative to skim milk control.[57] Another study examining the ability of colostrum supplementation to counter exercise-induced immuno-suppression noted that in spite of a lack of effect on total neutrophil count, colostrum significantly enhanced neutrophil activity 1 hr post-exercise relative to placebo control (an isomacronutrient mixture of skim milk powder and milk protein concentrate).[66]
 
+
 While colostrum supplementation does not appear to affect total neutrophil count, one study demonstrated that it may significantly counter exercise-induced suppression of neutrophil activity.
+
 
 5.6
 
@@ -376,7 +406,9 @@ In contrast, similar colostrum lozenges in adults (each tablet containing 6.4-8.
 
 Other studies assessing upper respiratory symptoms have found nonsignificant protective effects with prolonged colostrum supplementation in swimmers using 50g colostrum (the trend noted after five weeks, but not the initial four, when compared with placebo),[58] and nonsignificant reductions in sickness occurrence over 14 weeks with 26g colostrum in people training for a marathon.[56]
 
+
 Colostrum, which is enriched with IgA, may confer a modest protective effect against the incidence and severity of upper respiratory tract infections in certain individuals. 
+
 
 5.10
 
@@ -435,22 +467,30 @@ The primary mechanism of action of immunoglobulins in colostrum occurs through a
 Supplementation of colostrum is thought to be protective against traveller's diarrhea, which is frequently caused by strains of Escherichia coli (up to 42% in some locales).[90] This protective effect has been successfully demonstrated in a placebo-controlled trial in which subjects received concentrated colostrum in tablet form from cattle that were immunized against Escherichia coli.[91][92] Another placebo-controlled study also found protective effects against Escherichia coli-induced diarrhea when an immunoglobulin concentrate from colostrum of cattle immunized against Escherichia coli was taken with meals for a week prior to Escherichia coli exposure.[91] Immunoglobulins from colostrum do not completely eliminate the Escherichia coli, however, as bacteria can be recovered from the feces of most subjects even when diarrhea is reduced.[92][91] This suggests that immunoglobulins present in colostrum protect against traveller's diarrhea by limiting bacterial colonization in the intestines.[93]
 The protective effect of colostrum may occur at the level of the stomach (rather than intestines) as enteric coated capsules containing immunized colostrum have failed to reduce diarrhea from Escherichia coli.[35]
 
+
 By blocking microbe pathogenesis in the gut, immunoglobulins contained in colostrum may offer a degree of protection from certain bacterial infections. Moreover, it is possible that low dose colostrum from cattle who have been immunized against Escherichia coli, when taken before a meal, can reduce traveler's diarrhea.
+
 
 Diarrhea associated with HIV (HIV enteropathy[94]) was greatly reduced in an open-label study where subjects received 32g colostrum containing 2-4g immunoglobulins via porrage. Bowel movements were reduced from 7 times daily to 1.6 times daily after four weeks of supplementation. These results were sustained for two weeks after cessation of supplementation.[82] A case study[95] and small pilot study[96] have also shown success in reducing Cryptosporidium-associated diarrhea in HIV patients using colostrum from cattle hyperimmune to Cryptosporidium parvum . A larger study of 24 HIV patients with both Cryptosporidium-associated diarrhea and idiopathic HIV enteropathy tested treatment with bovine immunoglobulin concentrate in both powdered-and capsule-formulations. Treatment was successful only for those patients receiving the powdered formulation who had Cryptosporidium-associated diarrhea, while it was relatively unsuccessful for the other subjects.[97] This difference may account for some of the nonresponders in other studies.[98]
 The magnitude of benefit seen with colostrum may be less when powdered[97][96] than when it is formulated and administered as a porridge since the gel-forming properties of the starch in this formulation may slow intestinal transit time, giving constituent immunoglobulins more time to act.[82][99]
 
+
 Although the quality of evidence is limited to small placebo-controlled trials and larger open-label studies, the administration of moderate to high doses of bovine colostrum appears to be highly effective in reducing diarrhea associated with HIV, specifically when the protozoan Cryptosporidium parvum is the cause of diarrhea.
+
 
 Growth factors present in colostrum may also confer a degree of protection to gastrointestinal injury, such as that associated with non steroidal anti-inflammatory drugs (NSAIDs). One study noted that colostrum prevented indomethacin-induced gastric damage in mice and rats.[100] This study also noted that colostrum induced proliferation of (RIE-1) rat intestinal epithelial cells and HT-29 human colonic carcinoma cells, suggesting that colostrum promotes wound healing/damage repair of the intestinal epithelium. Although TGFβ is known to promote healing/repair of intestinal epithelial cells,[101] recombinant TGFβ had little to no effect on epithelial cell proliferation, suggesting that the proliferative effects of colostrum on intestinal epithelial cells in vitro is mediated by other growth factors such as EGF and lactoferrin, which are known to synergistically activate proliferation of these cells.[102] Notably, when administered in the amounts present in colostrum, TGFβ reduced gastric injury to a similar extent to colostrum, which is consistent with known effects of TGFβ as a wound-healing agonist in intestinal epithelial cells,[101] fibroblasts,[103] and other cell types.[104]
 
 When later tested in humans, it was noted that colostrum (125mL thrice daily) given alongside NSAIDs in people who were not routinely using NSAIDs blunted an increase in permeability seen with NSAID therapy alone. Administration of colostrum to people who routinely took NSAIDs did not have any significant effect, although this study noted that baseline permeability in this group was more normal than expected.[46] The placebo in this study, an isonitrogenous solution of whey, was without effect.[46]
 
+
 Growth factors present in colostrum have been shown to reduce gastric NSAID- induced injury in animal models and humans by promoting the healing/repair of damaged intestinal epithelium.
+
 
 In subjects with distal colitis (inflammatory bowel disease), a colostrum solution of 100mL (about 4mg/L IGFs, 6µg/L EGF, and 25µg/L TGF-α) taken twice daily via enema for four weeks was assocaited with a significant improvement in symptoms of colitis as asssessed by Powell-Tuck (symptom rating scale[105]). Symptoms were reduced by 50% after two weeks, which was maintained until four weeks.[17]
 
+
 Preliminary evidence suggests moderate therapeutic potency of colostrum supplementation for symptoms of colitis.
+
 
 8.
 

@@ -62,11 +62,15 @@ Perilla oil refers to the fat soluble component (oil) of the seeds from the plan
 
 There is also an oil that can be derived from the leaves of perilla frutescens which is the medicinal component of the plant,[3][4] and this oil may have a different composition than the seed oil (due to some volatiles also removed in the extraction process that remain in the oil)
 
+
 Perilla seed oil is a dietary oil which confers a nutty taste after it is roasted and processed into an oil, and appears to be used in some asian cuisine. Perilla oil may also refer to an oil taken from the leaves which is sometimes used medicinally, and while the oil itself is similar there may be different minor components depending on which plant part it came from
+
 
 It is sought after as a dietary supplement since, among vegetable sources of oil, perilla contains the highest proportion of omega-3 fatty acids relative to omega-6 fatty acids with omega-3 (as alpha-linolenic acid) being in the 54-65% range and omega-6 (as linoleic acid) being in the 14-20% range.[5] This is the same fatty acid (alpha-linolenic acid; ALA) which comprises the omega-3 profile of other plant products such as flaxseed oil (55% ALA[6]), salvia hispanica (Chia), borage oil, and walnuts but not animal based fish oil products.[5]
 
+
 Perilla oil (seed and leaf) is a source of plant-based omega-3 fatty acids, and appears to be one of the better sources when looking at the omega-3 content relative to omega-6 fatty acid content
+
 
 1.2
 
@@ -110,7 +114,9 @@ Anxiety and Stress
 
 Oral ingestion of 3-6mg/kg of the essential oil (derived from leaves) to mice subject to chronic unpredictable manageable stress (CUMS) testing over the course of four weeks noted that the oil had anti-stress properties in the latter two weeks with the higher dose being comparbale to 20mg/kg fluoxetine.[3] Both treatments only saw benefits in the forced swim test but not open-field test, and it appeared that the reduction in BDNF mRNA that is seen during stress was attenuated with both treatments.[3]
 
+
 The leaf oil extract has shown benefits to stress prevention in mice, but it is not sure if this applies to the seed oil component (most commonly sold form of 'perilla oil')
+
 
 4.
 
@@ -140,5 +146,7 @@ A methanolic extract from the leaves of perilla frutescens appears to have antip
 
 In a mouse model of spontaneous nephritis characterized by high serum IgA[24][25] from gut‐associated lymphoid tissue,[26] perilla leaf extract (50-500mg/kg of the 9% rosmarinic acid extract) over the course of 16 weeks appeared to reduce serum IgA levels and concentrations of IgA in glomeruli of treated mice relative to control.[23] This was thought to be due to less IgA release from lymphoid tissue (replicated in vitro with perilla leaf extract and rosmarinic acid, mostly in spleen cells).[23]
 
+
 Perilla oil appears to be associated with a reduced rate of IgA nephropathy in in vitro and rodent research which is thought to be mostly (if not fully) due to the rosmarinic acid content
+
 

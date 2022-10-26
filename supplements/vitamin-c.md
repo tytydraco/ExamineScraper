@@ -259,13 +259,17 @@ The current recommendations for Vitamin C intake (according to the FDA) appears 
 
 Average dietary intakes have been reported to be 152+/-83.7mg in spain,[12]
 
+
 Vitamin C is a relatively safe micronutrient that is a common supplement for its antioxidant properties and reported benefits against the common cold. Average dietary intakes are in the sufficiency range (above what the RDA recommends) although the lowest groups of vitamin C intake are under the recommendations
+
 
 Particularly rich sources of Vitamin C include:
 
 Kiwi fruits (290-800mg/kg in the deliciosa (common) species and 370-1850mg/kg in argutafruit[13])Whereas the most common or significant dietary sources of Vitamin C include:
 
-Citrus Fruits (29.6% in spain,[12] usually oranges[14]) and 9% in the US (all fruits inclusive[15])Noncitrus fruits (21.5% in spain,[12] usually apples[14])Juices (6.3% in spain[12] and 25-34% in the US[16][15])Fruiting vegetables (usually peppers and sweet peppers) at 20% in spain[12] and 23% in the US (all vegetables inclusive[15])Potatoes (3.9% in spain[12])Leafy green vegetables (6.7% in spain[12])Cruciferous vegetables (2.9% in spain[12])Fortified cereals (4% in US[15])Fruits tend to be the highest food source of vitamin C, and in mediterraean countries they also appear to be a predominant source of vitamin C in the average diet. In the US, juices appear to contribute a significant amount of vitamin C to the diet
+Citrus Fruits (29.6% in spain,[12] usually oranges[14]) and 9% in the US (all fruits inclusive[15])Noncitrus fruits (21.5% in spain,[12] usually apples[14])Juices (6.3% in spain[12] and 25-34% in the US[16][15])Fruiting vegetables (usually peppers and sweet peppers) at 20% in spain[12] and 23% in the US (all vegetables inclusive[15])Potatoes (3.9% in spain[12])Leafy green vegetables (6.7% in spain[12])Cruciferous vegetables (2.9% in spain[12])Fortified cereals (4% in US[15])
+Fruits tend to be the highest food source of vitamin C, and in mediterraean countries they also appear to be a predominant source of vitamin C in the average diet. In the US, juices appear to contribute a significant amount of vitamin C to the diet
+
 
 1.2
 
@@ -275,19 +279,25 @@ Vitamin C appears to be a cofactor for proper collagen synthesis, L-carnitine bi
 
 The biosynthesis of L-Carnitine (β-hydroxy butyric acid) that requires Vitamin C is not as a substrate, but as a necessary cofactor (iron and alpha-ketoglutarate are also required cofactors).[22] This is similar to the biosynthesis of catecholamines, as the dopamine-β-hydroxylase enzyme that converts dopamine into noradrenaline (which subsequently converts into adrenaline) is Vitamin C dependent.[23] Other enzymes that Vitamin C is known to positively modulate include those involved in the synthesis of oxytocin, vasopressin, cholecystokinin and α-Melanocyte-stimulating hormone.[24]
 
+
 Vitamin C is required in the human body since it is required by some critical enzymes, particular those that synthesize L-Carnitine and the neurotransmitters known as catecholamines (dopamine and adrenaline). It also influences a few other neurotransmitters, and is required for proper collagen (joint) synthesis rates
+
 
 Biosynthesis of Vitamin C can normally occur from either glucose or galactose being converted to glucose-6-phosphate, which then is converted to uridine diphosphate glucose and (via uridine diphosphate glucuoronic acid) into L-glucuronic acid. This molecule is then converted into L-glucuronolactone, L-gulono-γ-lactone, and then via the enzyme known as gulonolactone oxidase it is converted into L-keto-gulono-γ-lactone and Vitamin C.[7] Humans (as well as guinea pigs, fruit eating bats, and apes) cannot follow the above biosynthetic pathway as the gulonolactone oxidase enzyme does not exist within us.[7][25]
 
 Due to the inability to synthesize Vitamin C, it needs to be obtained via the diet. A failure to get sufficient Vitamin C in the diet results in scurvy,[26][27] and the ability of a molecule to prevent scurvy (of which Vitamin C is the reference drug) is known as being anti-scorbutic.[28]
 
+
 Vitamin C can normally be synthesized in animals such as canines and felines, but humans do not have an ability to synthesize Vitamin C. If Vitamin C is not obtained via the diet, then a human will eventually get scurvy
+
 
 While scurvy is the clinical deficiency state (and is true 'Vitamin C deficiency'), there are various states associated with excessive oxidation which serum vitamin C tends to be reduced (or at least the REDOX balanced altered suggesting a prooxidative state) relative to healthy cohorts. This includes fever and viral infections, stress, alcoholism,[7] smoking,[29][30] type II diabetes[31][32] despite consuming adequate vitamin C,[33] and in persons who have very recently suffered a myocardial infarction[34][35] or acute pancreatitis (these last two normalizing after some time).[36][37]
 
 It has been noted[38] that it is still unclear whether the disease state causes a depletion in vitamin C or vice versa (vitamin C depletion exacerbates the progression of the above states) or whether it is merely a biomarker of a poor diet (this is seen in smokers[39]); at least in myocardial infarction[40] and acute pancreatitis,[41] there is a drastic increase in oxidation rapidly and both diabetes[42] and smoking[29] are associated with elevated chronic oxidation.
 
+
 Vitamin C depletion (not to a clinical state where scurvey results) is associated with a variety of disease states. The reason for these observations is not fully clear, and the role vitamin C therapy could play in these states is similarly not clear
+
 
 1.3
 
@@ -303,7 +313,9 @@ European regulation state that any supplement with the label 'Vitamin C' may be 
 
 They differ on some parameters such as DNA oxidation where Sodium Ascorbate and Ascorbic Acid (the main dietary form) could exert pro-oxidative effects on DNA, Calcium Ascorbate acting neutral on DNA and Ascorbyl-6-Palmitate being protective on DNA.[44] Due to this, it appears that Ascorbyl-6-Palmitate is used often in antioxidant supplements,[7] but does not have water solubility.
 
+
 'Vitamin C' on the label may refer to one of five different molecules, but all of them are able to act as a vitamin in the body. There may be some small differences between the molecules
+
 
 Ester-C is a brand name product (patented by Zila Nutraceuticals) for Vitamin C that consists of Vitamin C metabolites (the aldonic acids L-lyxonic, L-xylonic, and
 L-Threonic acid) with Calcium, and is labelled as Calcium Ascorbate. It is touted to be non-acidic and may be better tolerated by persons with acid reflux, as one study in persons sensitive to acidic foods noted that while 53.6% of the Vitamin C group experienced gastric upset, only 14.3% of the Ester-C group did.[45]
@@ -312,7 +324,9 @@ Beyond this, Ester-C appears to be more effective at treating scurvy (Vitamin C 
 
 Studies conducted using Ester-C that have been funded by Zila Nutraceuticals are cited following this sentence.[45]
 
+
 Ester-C is a form of Vitamin C supplementation that may have benefit in persons who are sensitive to acid containing foods, but beyond that its supposed benefits over standard Vitamin C have not been thoroughly proven
+
 
 2.
 
@@ -342,7 +356,9 @@ Vitamin C appears to be metabolized into primarly one of three metabolites after
 
 As the first stage of metabolism is turning into a free radical, conditions characterized by excessive oxidation deplete circulating L-ascorbic acid (which acts in a protective but sacrifical manner); this is best shown with studies on smoking[56][57] which usually requires a higher Vitamin C intake.
 
+
 Vitamin C is metabolized into a free radical (via a sacrifical and protective antioxidant effect) and then converted into dehydroascobic acid. From here, vitamin C then proceeds along to produce oxalic acid via 2,3-diketogulonic acid
+
 
 3.
 
@@ -356,11 +372,15 @@ Vitamin C is actively transported into the brain via the Sodium-dependent Vitami
 
 There appears to be a 4-fold higher cerebrospinal fluid concentration of ascorbate relative to plasma in rats,[66][65] resulting in a cerebrospinal concentration of around 200-400μM when plasma are 60μM or less[67][68] although human measurements are more modest at 160μM relative to the same plasma level of 40-60μM.[69][70]
 
+
 Vitamin C can cross the blood brain barrier, but the rate of entry is somewhat limited and and it needs to be in the oxidized form of dehydroascorbate for this to occur. The majority of Vitamin C entry into the brain occurs via cerebrospinal fluid
+
 
 Within the brain, Vitamin C appears to be in highest concentrations in the hippocampus, parietal cortex, and the cerebellum[71][72][73] with slightly lower concentrations in the frontal cortex, thalamic nuclei, olfactoy bulb, and striatum with lowest detected in the spinal cord and pons (lowest).[71][74] It is thought that distribution of Vitamin C in the brain mirrors that of where the SVCT2 transport is expressed (noted to be high in the cerebellum, hippocampus, olfactory bulb[75] and frontal cortex[76]), although this does not fully explain the distribution as the parietal cortex does not possess SVCT2.[76]
 
+
 Vitamin C seems to be in highest concentrations in the hippocampus, cerebellum, and frontal/parietal cortices
+
 
 3.2
 
@@ -368,7 +388,9 @@ Mechanisms
 
 As mentioned elsewhere (Biological Significance), Vitamin C is a cofactor in the production of catecholamines (via the enzyme dopamine-β-hydroxylase[23][77][78]) and other neurohormones such as oxytocin, vasopressin, and α-Melanocyte-stimulating hormone.[24][79] Another area that Vitamin C facilitates is supporting HIF-1α production, which uses a prolyl and lysyl hydroxylation similar to what is seen with collagen.[58][80] These enzymatic interactions rely on the ability of L-ascorbic acid to transfer a single electron, and may involve the Vitamin C metabolites as well.
 
+
 Vitamin C interacts with a variety of enzymes involved in cognition. It does not inherently induce these enzymes (increase their activity or the amount of them), but its existence is required for optimal enzyme functioning; this likely means that for enzymatic benefits perhaps only avoiding a deficiency is required
+
 
 3.3
 
@@ -384,7 +406,9 @@ Neuroprotection
 
 Vitamin C has been found to, in vitro, protect cerebellar granule cells from glutamate induced excitotoxicity[83][84] which is thought to be related to how NDMA receptors can respond to REDOX modulation.[85][86] This is more of a general phenomena that applies to reducing agents (antioxidants), and is abolished by prooxidants.[86]
 
+
 Vitamin C appears to have putative neuroprotective roles against excitotoxicity (toxicity from excessive cell stimulation) through inhibiting the NMDA receptor. This does not appear to be a unique role for Vitamin C, but something that is attributable to antioxidants in general
+
 
 3.5
 
@@ -400,13 +424,17 @@ Depression
 
 Vitamin C appears to have antidepressant effects, associated with potassium channels (can be read up on under the depression section on the agmatine page).[91] In short, potassium channel blockers appear to have anti-depressant effects[92] while potassium channel openers have pro-depressive effects and inhibit the actions of potassium channel blockers[93][92] and vitamin C appears to be synergistically antidepressive with potassium channel blockers.[91]
 
+
 Vitamin C appears to have antidepressant effects. While the direct mechanism of action is not known, it appears to ultimately work via potassium channels (like most antidepressants) and is synergistic with potassium channel blockers
+
 
 In regards to animal research, administration of Vitamin C has shown an antidepressant effect in a tail suspension test,[94][91] chronic unpredictable manageable stress,[95] and acute stress[90] at a dosage range of 1-10mg/kg oral administration.
 
 In humans, there is an old case study where depression in a child (induced by ACTH administration) was alleviated with vitamin C[96] but more importantly, a study using a product known as Cetebe (3,000mg vitamin C) in otherwise healthy adults for two weeks noted a reduction in depressive symptoms (Becks Depression Inventory) and increase in the frequency of intercourse (no influence on masturbation);[97] this study was funded by the producer of Cetebe, GlaxoSmithKline.
 
+
 Preliminary evidence in humans to support antidepressant effects in humans, with the lone controlled trial having a notable conflict of interest
+
 
 3.7
 
@@ -420,11 +448,15 @@ Alzheimer's
 
 In regards to Alzheimer's, oxidative stress is thought to play a major role in the pathogenesis of the disease[99] with byproducts of peroxidation being detected in higher than normal levels in neurofibrillary tangles[100][101][102] and lower serum vitamin C concentrations despite adequate dietary intake[103] although due to a higher cerebrospinal fluid to plasma ratio in alzheimer's (5.1 relative to 3.1 in controls[104]) it is thought the lower serum concentration reflects increased uptake by the brain to counter increaed oxidative stress;[105] this would position the decrease in Vitamin C as a consequence of Alzheimer's rather than a cause.
 
+
 Vitamin C and oxidative kinetics appear to be altered in persons with Alzheimer's disease
+
 
 In rat studies, orally ingested Vitamin C (25mg/kg in rats) alongside intracerebral injections of fibrillar amyloid-β was able to reduce oxidative and inflammatory biomarkers (the former comparable to melatonin at 20mg/kg but weaker than vitamin E at 50mg/kg; the latter similar to vitamin E but less than melatonin)[106] although elsewhere in an older APP/PSEN1 transgenic mouse model injected with 125mg/kg vitamin C failed to find evidence for neuroprotection or beneficial changes in oxidation (despite slightly improving memory).[107]
 
+
 Mixed evidence as to whether vitamin C can be of help. It may be neuroprotective but not rehabilitative, and the benefits appear to extend to other antioxidant compounds as well
+
 
 4.
 
@@ -440,7 +472,9 @@ The endothelial variant of the NOS enzyme (eNOS) appears to be susceptible to ox
 
 Other possible mechanisms that may contribute (also general to antioxidants) include scavenging superoxide[116] which would otherwise reduce nitric oxide into peroxynitrate[117] and directly reducing nitrite (product of nitrate) into nitric oxide[118] or producing nitric oxide from S-nitrosothiols.[119]
 
+
 Vitamin C appears to promote nitric oxide secondary to its antioxidant properties preventing a unnecessarily rapid decline of nitric oxide. This is not a unique mechanism of action, and is thought to underlie the effects of other potent antioxidants such as melatonin or pycnogenol (both demonstrated to act similarly)
+
 
 4.2
 
@@ -460,7 +494,9 @@ Ascorbate appears to be important to a pancreatic β-cell due in part to its ant
 
 Two grams of vitamin C daily for 2 weeks in otherwise healthy adults has been noted to delay the postprandial insulin spike and prolong the increase in serum glucose when measured at one hour (but not beyond that),[130] hypothesized to be due to competitive inhibition with glucose into pancreatic β-cells.
 
+
 Not substantial amounts of evidence at this moment in time, but vitamin C may be protective of pancreatic beta-cells. However, supplementation of vitamin C with glucose may cause a transient state of insulin resistance by increasing circulating glucose and suppressing insulin secretion
+
 
 5.2
 
@@ -470,7 +506,9 @@ Many studies have examined the potential role of vitamin C supplementation in re
 
 Overall, there was a reduction in fasting insulin, but there was no change in HbA1c, and no subgroup analyses were able to find a statistically significant difference.[151]
 
+
 Vitamin C supplementation may modestly reduce blood glucose and insulin in type 2 diabetics, however, it can't be said that vitamin C is well-researched for this purpose. Further research with this possible interaction specifically in mind is needed. 
+
 
 5.3
 
@@ -482,7 +520,9 @@ This cast doubt on any anti-cancer properties for vitamin C, which was further r
 
 The mechanism behind the selective toxicity of vitamin C against cancer cells was unknown until only recently, when a recent study found that vitamin C-induced oxidative stress inhibits GAPDH, an important metabolic enzyme in the glycolytic pathway.[153] Because cancer cells tend to rely on high rates of glycolysis for survival,[158] the ability of high-dose vitamin C to suppress glycolytic metabolism confer anti-tumorigenic activity in certain types of cancer cells.[153]
 
+
 By suppressing an important enzyme in the glycolytic pathway, high dose vitamin C may have selectively kill certain types of cancer cells. Clinical trials are currently under way to evaluate the efficacy of vitamin C as a cancer treatment in humans.
+
 
 6.
 
@@ -496,7 +536,9 @@ Skeletal muscle is known to be a large store of bodily vitamin C (around two thi
 
 The main mechanism of concern with Vitamin C supplementation and muscle metabolism would be the antioxidant properties of Vitamin C,[162] although both the collagen and carnitine synthesis roles are thought to be useful.
 
+
 Vitamin C appears to be readily taken up and stored in skeletal muscle tissue, where it is thought to confer antioxidant protection and support carnitine and collagen biosynthesis
+
 
 6.2
 
@@ -509,15 +551,21 @@ IL-8 following an ultramarathon[168] nor any influence on IL-6 following short-t
 
 Although the combination of vitamin E and vitamin C can suppress IL-6 production in response to exercise,[170] this may or may not be helpful, given other work that suggesting that IL-6 may play a positive role in exercise adaptation. IL-6 has been noted to function as a sort of “fuel gage” for muscle tissue, where it is released when muscle glucose levels are low, causing an increase in glucose production in the liver while also increasing lipolysis during exercise.[171][172] Acute increases in IL-6 may also be responsible for much of the direct fat-burning effects from of exercise training, amplifying fat oxidation in intramuscular[173][174][175] and whole body fat stores.[176]
 
+
 Vitamin C was shown in one study to decrease IL-6 production from skeletal muscle in response to exercise. Although IL-6 is a pro-inflammatory cytokine, other studies suggest that it may play a role in exercise adaptation, in part by increasing fat oxidation. More research is needed to determine whether possible vitamin C-induced suppression of IL-6 could affect exercise performance of adaptation in humans.
+
 
 For studies that measure upper respitatory tract infection risk following exercise, no significant effects are seen with 1,500mg Vitamin C for 12 days prior to a simulated half marathon in the heat.[166]
 
+
 Usage of supplemental vitamin C in the 1,500-2,000mg range before short duration exercise is able to attenuate the increase in cortisol. However, this does not appear to significantly mediate immune responses to exercise.
+
 
 In contrast to the suppression of cortisol mentioned above with short term exercise, longer and more strenuous exercise such as ultramarathons are known to have an augmentation of cortisol with vitamin C.[168][165] This is thought to be related to the observation that the risk of colds is only reduced in populations subject to strenous exercise (where vitamin C halves the risk of cold symptoms) according to meta-analyses on the topic.[177][178]
 
+
 Strenous and prolonged exercise such as marathons or skiing appear to be affected differently with supplemental vitamin C, as they increase cortisol rather than decrease it. This type of exercise also appears to be the type that does experience reductions in cold frequency with supplemental vitamin C
+
 
 6.3
 
@@ -545,7 +593,9 @@ Vitamin C has also been observed to decrease endurance performance in certain ex
 
 While studies in greyhounds have limited relevance to humans, a later human study further suggested that antioxidants may limit endurance in humans.[184] 14 men age 27-36 received either a 1000mg daily dose of vitamin C or a placebo during an 8-week endurance training program. The study found that vitamin C suppressed endurance capacity, which was associated with a decrease in mitochondrial biogenesis,[184] driven by decreased expression of a number of different proteins important for the process.
 
+
 There is mixed evidence of the effects of vitamin C on endurance performance, with results ranging from possible positive effects to possible negative effects. The study that suggested vitamin C has a negative affect on endurance performance attributed this effect to decreased mitochondrial biogenesis.
+
 
 6.6
 
@@ -553,7 +603,9 @@ Insulin sensitivity
 
 Since exercise-induced increases in insulin sensitivity are in part driven by increased reactive oxygen species production (ROS)[1], a study in 2009 by Ristow et al, examined the effects of supplementation with vitamin C (500mg twice/day) and vitamin E (400IU/day) on changes in insulin sensitivity caused by exercise.[185] Subjects were enrolled in a 5 day per week training program for 4 weeks that consisted of both cardio and weight training. To rule out any possible “beginner effects” (i.e. the well-known result in exercise-science studies where those with little to no training experience tend to respond better), participants included beginners, as well as those with more extensive training experience. In subject that took a placebo, insulin sensitivity increased over the course of the training program. This occured in beginners as well as those with more extensive training experience. Subjects that took vitamin C/E supplements during the 4-week training period showed no increases in insulin sensitivity, however, indicating that the antioxidant supplementation negated the exercise-induced increase in insulin sensitivity.[185]
 
+
 Vitamin C at 500mg twice per day in combination with 400 IU vitamin E was shown in one study to negate the insulin-sensitivity increasing effects of exercise in both trained and untrained individuals. Further studies are needed to explore the effects of antioxidant supplementation on exercise-induced increases in insulin sensitivity in different populations and exercise protocols. 
+
 
 7.
 
@@ -577,7 +629,9 @@ According to meta-analyses on the topic assessing doses of 200mg vitamin C or mo
 
 It has been noted[188] that the observations from Linus Pauling on vitamin C interactions with the common cold may have been influenced by athletic cohorts, as one of the more convincing studies he wrote about[189] was in regards to children in a skiing school (German PDF[190]).
 
+
 Most of the literature uses dosages within the range of 200mg to 2,000mg, and while this does appears to be ineffective for preventing or reducing the occurrence of the common cold it does appear to slightly reduce the duration thereof. There are more marked benefits in athletic populations, where risk may be halved
+
 
 8.2
 
@@ -585,7 +639,9 @@ Bacterial Interactions
 
 One study has noted that drug resistant Mycobacterium tuberculosis (bacteria that causes tuberculosis) is highly sensitive to being destroyed by Vitamin C, which was fairly unique as other bacteria tested were not affected.[191] This was due to a large iron content in this bacteria, which is reduced (from Fe3+ to Fe2+) and causes prooxidative effects after reacting with oxygen.
 
+
 Although there is no human evidence at this moment in time, Vitamin C supplementation holds promise for being able to destroy the tuberculosis bacteria despite being drug resistant
+
 
 9.
 
@@ -599,7 +655,9 @@ Vitamin C (L-Ascorbic acid) is a single electron donor, and can be reduced into 
 
 The above reduction conducted by L-ascorbic acid that converts it to AFR is the main antioxidative effect of Vitamin C, and is known to be 'sacrificial' as the L-ascorbic acid molecule is changed when the reaction occurs. This scavenging applies to most reactive oxygen species (ROS) including superoxide (O2-)[197] and some reactive nitrogen species such as peroxynitrate either directly[198] or reducing an O2- induced conversion of nitric oxide into peroxynitrate.[197]
 
+
 Vitamin C gets reduced (absorbs oxidation) in a sacrifical manner to either protect other things from being oxidized or to facilitate enzymes in the body. The molecules created have the potential to be restored back into Vitamin C, and if this does not occur then Vitamin C is metablized to oxalic acid and then urinated out
+
 
 It is wholly possible for Vitamin C to also act as a prooxidant depending on context, although the ascorbyl radical itself (technically a prooxidant) is not overly potent due to the position of the free radical group.[199][200] Dietary minerals in vitro are able to oxidize ascorbate as ascorbate is oxidized in the presence of minerals such as iron or copper[201][202] while chelating the minerals prevents autooxidation;[203] this reduction of minerals via ascorbate produces reduced minerals that are better able to exert prooxidative effects. It has been noted[200] that prooxidative effects appear to predominate in vitro at low concentrations of vitamin C relative to minerals (usually iron), and antioxidative effects at higher concentrations of vitamin C relative to minerals.
 
@@ -623,17 +681,23 @@ A deficiency of vitamin C in rodents tends to result in elevated plasma cortisol
 
 In rats unable to synthesize vitamin C, injections (500mg per rat) are able to delay the turnover of cortisol and enhance its actions in the body[212] and has been found to enhance ACTH-induced cortisol production.[213]
 
+
 In animal studies, injections of vitamin C can enhance glucocorticoid activity by delaying turnover and enhancing secretion while cortisol activity is also enhanced during deficiency
+
 
 Supplementation of Vitamin C has been shown to reduce exercise-induced spikes in cortisol after both acute[164][167] and up to 12 days supplementation[166] in the dosage range of 1,000-1,500mg. These studies tend to note either no significant changes in lipid peroxides (a parameter of oxidation in the body) relative to placebo,[166] or a relative decrease.[167] These results are not unanimous as some studies note only a trend towards a reduction in cortisol that fails to reach significance,[214] and similar effects have been noted when a Vitamin C and Vitamin E combination supplement has reduced oxidative parameters.[179]
 
 Elsewhere, an increase in cortisol has been noted with ultramarathons using similar doses of Vitamin C (1,500mg for 7 days).[168][165] These studies either fail to report an increase in oxidative damage[165] or actually note increases in some oxidative biomarkers such as F2-Isoprostane,[168] and one study using Vitamin E alongside Vitamin C (400IU and 500mg, respectively) has noted the same effects.[208]
 
+
 Vitamin C appears to have a bidirectional relationship with cortisol, with increases noted when Vitamin C is able to be a prooxidant and decreases noted when Vitamin C is able to be an antioxidant. The addition of Vitamin E does not appear to significantly influence the actions of Vitamin C
+
 
 One study using 3,000mg Vitamin C prior to a non-exercise stressor has failed to find a significant influence on cortisol concentrations relative to control.[215]
 
+
 Minimal studies assessing cortisol concentrations outside of exercise, none of which are promising
+
 
 10.2
 
@@ -643,7 +707,9 @@ In instances where oxidative stressors damage testicular function (usually rat s
 
 It should be noted that these protective effects may not be unique to vitamin C, as various other antioxidant compounds have also been noted to exert protection against oxidative toxins (including but not limited to quercetin, vitamin E, selenium, and panax ginseng).
 
+
 There may be protective effects of vitamin C (any antioxidant, actually) on testicular function. An impairment of testicular function normally suppresses testosterone concentrations, and preserving function would preserve testosterone concentrations; while this is a relative increase, it does not suggest that superloading Vitamin C increases testosterone beyond basal levels
+
 
 11.
 
@@ -673,13 +739,17 @@ Vitamin C appears to be involved in regulation of catecholamines (dopamine, adre
 
 The importance of vitamin C in maintaining adrenal gland function and catecholamine secretion is thought to underlie why scurvy (Vitamin C deficiency) is associated with fatigue (the earliest observable symptom).[228][229][230] In rodent models where vitamin C deficiencies are induced, circulating catecholamines do appear to be reduced.[231]
 
+
 Vitamin C is a mandatory cofactor for the synthesis of noradrenaline from dopamine, and subsequently adrenaline from noradrenaline. It is thought that a deficiency of vitamin C and lack of catecholamine secretion underlies fatigue symptoms associated with scurvy
+
 
 Incubating adrenal chromaffin cells with vitamin C does not appear to increase the activity of the enzyme[232] but has been found to increase noradrenaline production from dopamine in SH-SY5Y neuroblastoma cells (50% increase with 1mM ascorbate over 6 hours,[233] with a later study noting 100-1000µM of ascorbate or 100-300µM dehydroascrobate also causing a similar increase but a plateau at around 500µM[234]). This reaction appeared to be unique to vitamin C (the other antioxidants trolox and N-acetylcysteine failed to mimic the results).[234]
 
 In otherwise healthy humans with a relatively low intake of dietary vitamin C (did not have scurvy), oral ingestion of vitamin C (3,000mg) has been shown to reduce adrenaline secretion in response to stress without affecting noradrenaline nor dopamine.[215]
 
+
 Vitamin C dose-dependently increases noradrenaline production from dopamine in the adrenalins up until around 0.5mM concentration, where it then plateaus. It appears that this concentration is near physiological concentrations already, as adding additional vitamin C to the diet does not appear to further increase urinary catecholamines
+
 
 12.3
 
@@ -699,7 +769,9 @@ In rat brains, Vitamin C concentrations in the brain approximately double during
 
 Dietary requirements (FDA numbers) appear to be increased from 75mg up to 85mg (pregnancy) and 120mg (lactation)[11] and a maternal deficiency of Vitamin C (rodent studies, mostly guinea pigs) appears to deletiriously affect offspring with effects such as; reduced hippocampal neurogenesis and memory formation.[243][244]
 
+
 Vitamin C is outright vital for cognitive development of infants during pregnancy, and there are higher dietary requirements of Vitamin C during pregnancy and lactation; these increased needs are still wholly feasible through dietary intake of Vitamin C, and a deficiency (however impractical in human life) may result in cognitive impairment to the child
+
 
 14.
 
@@ -713,13 +785,17 @@ In animal studies, vitamin C has been found to reduce cadmium toxicity[245][246]
 
 Lead, in particular, appears to be chelated by vitamin C with a potency lesser than EDTA despite requiring a higher dose to match carboxylic acid groups (40mg/kg injections of EDTA being equivalent to 1,750-2,333mg/kg vitamin C per rat).[254] EDTA and vitamin C are, however, additive.[254]
 
+
 In animal research, supplementation of vitamin C appears to reduce the accumulation of toxic heavy metals and partially normalize the adverse changes. The protection does not appear to be absolute, although statistically significant
+
 
 In humans not subject to lead toxicity (non-concernable serum and hair concentrations) given 500-1000mg vitamin C for three months, there was no significant influence of Vitamin C on lead accumulation.[255]
 
 One study in psychiatric outpatients noted that combination therapy with vitamin C (2,000mg) and zinc (30mg as gluconate) was found to reduce serum lead concentrations, but copper was also reduced.[256] Industrial workers exposed to lead have also noted a beneficial trend in sperm parameters with 1,000mg for 3 months[221] (lead is known to be adverse to testicular function at concentrations in industrial work utilizing lead[257][258]).
 
+
 There is mixed evidence for oral supplementation of Vitamin C at doses exceeding 500mg for the removal of lead from the body, with suggestions that this may only affect persons already in a state of lead toxicity and not inherently to otherwise normal persons
+
 
 14.2
 
@@ -737,7 +813,9 @@ Vitamin E
 
 Vitamin E is a very common addition to Vitamin C supplements, and the combination is marketed as an antioxidant blend. Vitamin C appears to have an ability to recycle and/or spare the oxidation of Vitamin E (in reference to α-tocopherol) in lipid membranes,[260][261] and this preservation of Vitamin E has been noted to probably be the reason lipid peroxidation (a type of oxidation to cellular membranes that Vitamin C does not effectively counter, but Vitamin E does) is reduced with cellular incubation of Vitamin C[262][263] and is synergistic with coincubation with α-tocopherol.[264][265]
 
+
 In cellular cultures, Vitamin C appears to preserve Vitamin E (since Vitamin C is oxidized, Vitamin E is not and it can do other things) which results in a reduction in lipid peroxidation; incubations of Vitamin C with Vitamin E synergistically reduces lipid peroxidation
+
 
 15.2
 
@@ -745,7 +823,9 @@ Dietary Minerals
 
 Vitamin C has been found to increase the absorption of both iron not bound by heme (ie. not in meat products)[266][267]) and has been noted to reduce the inhibitory effects of phytic acid[268] but not tannins.[269]
 
+
 May increase the absorption rates of zinc and iron, which would be of interest to those with anemia
+
 
 15.3
 
@@ -757,7 +837,9 @@ Vitamin C interacts with nitrite to block nitrosamine formation as the products 
 
 There are some instances where vitamin C has been implicated in augmenting nitrosamine production, such as coingestion with lipids[273] and at pH values below 2.[274][270]
 
+
 Nitrates can form nitric oxide via nitrite, and nitric oxide that reacts with amines may cause the production of nitrosamines which are known carcinogens. This is mostly a concern with meat products (due to heme causing an increase in the reaction rate), and not too much of a concern with vegetables or water inherently
+
 
 A few epidemiological studies note significant interactions between vitamin C intake and nitroso compound dietary intake and their influence on cancer.[275]
 
@@ -783,7 +865,10 @@ There appears to be a rare possibility of nephrotoxicity (kidney toxicity) assoc
 
 The above observations are thought to be due to the metabolism of Vitamin C into oxalate (known to occur with superloading),[290] which the (admittedly unreliable) production of excess oxalate and then deposition into kidney tissues is a known cause of renal failure.[291][292] It has been noted to be a bit more reliably occurring in calcium-kidney stone forming patients.[292]
 
+
 At least one case study has linked 'several grams of vitamin C' daily towards oxalate nephrotoxicity (a toxic kidney condition due to excessive oxalate concentrations in the kidneys), and it is reasonable to assume that Vitamin C plays a significant role here since it is well established to be able to cause oxalate nephrotoxicity in clinical settings with injections of Vitamin C
 
+
 Due to the lack of information in the lone oral case study and the long history of safe usage, it is reasonable to assume that oral supplementation does not carry a significant risk. However, intravenous usage of Vitamin C appears to carry more risk and unless supervised by a medical professional should be avoided
+
 

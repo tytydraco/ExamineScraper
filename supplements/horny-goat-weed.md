@@ -126,7 +126,9 @@ Icariin metabolizes to Baohuoside I, which is the same structure but with one le
 
 Efflux of Icariin from the intestinal wall into the lumen occurs via P-glycoprotein efflux pumps.[7]
 
+
 Fairly poor absorption in the intestines, but looks promising to combine Icariin with P-glycoprotein inhibitors such as Ecdysteroids or MRP2 inhibitors in regards to Icariin's metabolite, Baohuoside I
+
 
 2.2
 
@@ -146,7 +148,9 @@ A study on Horny Goat Weed dosed at 1.64g/kg (4.38mg/kg Icariin) orally showed a
 
 Another chinese mixture of herbs featuring Horny Goat Weed (Er-Xian) at 4.8g/kg orally, measured parameters (Cmax, AUC, Half life and Elimination Constant)do not reach the level of 4.5mg/kg Icariin, yet Icariin's absorption appears to have been increased as Horny Goat Weed only comprised 19% of the mixture by weight and the results were quite comparable.[12]
 
+
 The pharmacokinetic profile of Icariin appears to be beneficially influenced by some herbs or components of herbs, we just don't know which ones specifically.
+
 
 2.4
 
@@ -164,7 +168,9 @@ Kinetics
 
 Icariin is able to cross the blood-brain barrier[15] and after intravenous injection, Icariin and the three diglycoside compounds (Epimedium A-C) are found in the brain, although mostly Epimedium C. Icariin appeared to be more localized to the sciatic nerve.[16] A study using Icariin liposomes intravenously found about 1.83% of the injected dose to be found in the brain after injection of 20mg/kg Icariin liposomes and neural levels exceeded 0.2mcg/g brain mass.[11]
 
+
 It can get to the brain, but in a limited amount
+
 
 3.2
 
@@ -194,7 +200,9 @@ Possible explanations for the above results (estrogenicity in females but not ma
 
 A possible structural explanation for the above effects is hydroxylation at the 4' carbon on the flavonoid backbone, which seems to confer estrogenic effects from flavonoids. The 4' carbon on the Icariin backbone is R3 in the above diagram, as desmethyliscaritin has a hydroxyl group here.[31][32] That being said, the 7' carbon on the A ring may also be implicated in estrogenicity.[3]
 
+
 Estrogenicity as it applies to Icariin and related compounds is complex, like many bioflavonoid-related compounds. It doesn't seem to be large enough of a concern to negate its potential usage as a testosterone booster, however.
+
 
 5.
 
@@ -210,7 +218,9 @@ One study using 200mg/kg (of a lower purity, 40%; bioequivalent to 80mg/kg) Icar
 
 The above oral dose of 80mg/kg pure Icariin, after conversions to humans based on Body Surface Area,[35] appears to be 12.8mg/kg bodyweight Icariin or 1163mg Icariin daily for a 200lb human.
 
+
 Seems to have the mechanisms to increase testosterone, but no human studies exist on the subject matter.
+
 
 6.
 
@@ -224,15 +234,21 @@ Icariin is a selective PDE5 (enzyme) inhibitor[36] with an IC50 value between 0.
 
 Other compounds in the Epimedium family that have PDE5 inhibitory potential are Icarisid II derived from Epimedium wanshanense (not significantly different in potency than Icariin; approximately half of Viagra)[41]
 
+
 Secondary to PDE5 inhibition, Icariin appears to be a potent pro-erectile agent. It is clearly outperformed by Viagra
+
 
 Lower doses (1-5mg/kg) are able to improve neuronal Nitric Oxide Synthase (NOS) expression[34] and inducible (iNOS) expression[33][34] content in addition to PDE5 inhibtion. Effects on iNOS and nNOS do not appear to differ greatly from each other at the dosages of 1mg, 5mg, and 10mg/kg bodyweight,[34] suggesting low doses could also exert benefit but by different means.
 
+
 Icariin may also promote Nitric Oxide signalling via increasing expression of NOS enzymes, which may work synergistically with the PDE5 inhibition
+
 
 Icariin has also been linked to increasing neurite growth of major pelvic ganglia in vitro[34] which may be downstream of P13K and MEK/ERK activation.[42]
 
+
 Beneficial effects on neurons may extend to the pelvis
+
 
 7.
 
@@ -244,7 +260,9 @@ Yohimbine
 
 Yohimbine has also been researched into its properties as an erectogenic (boner pill). A study conducted in yohimbine and sildenafil (Viagra), which shares the same PDE5 inhibitory mechanism as Icariin, found that they were synergistic in regards to increasing intercavernous pressure and erections.[43]
 
+
 Theoretical that Yohimbine and Horny Goat Weed can synergistically be pro-erectile, but this has not directly been demonstrated
+
 
 7.2
 
@@ -252,7 +270,9 @@ P-Glycoprotein inhibitors
 
 P-Glycoprotein inhibitors such as ecdysteroids or capsicum carotenoids are able to inhibit the efflux protein known as P-Glycoprotein. This efflux protein is responsible for ejecting Icariin into the intestinal lumen after it has been absorbed[7] which is also its main excretory pathway when connected to bile acids to prevent reuptake.[13] Coingestion of Icariin with a P-glycoprotein inhibitor increases the AUC of Icariin, and could plausibly increase the bioactivity of Icariin (although this has not been demonstrated).[13]
 
+
 P-Glycoprotein inhibitors may increase the bioavailability of Icariin
+
 
 8.
 

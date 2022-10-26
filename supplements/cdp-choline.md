@@ -174,7 +174,9 @@ Finally, Choline phosphotransferase (CPT, not to be confused with carnitine palm
 
 The role of CDP-Choline is thought to be due to provision of cytidine (which increases uridine) and choline, thus providing substrate for the reaction. Although in the above reaction CDP-Choline is formed after the rate-limiting step, oral CDP-Choline is dissociated completely and is a prodrug for cytidine and choline rather than conferring bodily CDP-Choline.[18][19]
 
+
 The Kennedy cycle uses CDP-choline as an intermediate in phospholipid synthesis, which is important for the functioning of all cells but is usually most important for neurons. The rate-limiting step is the one that produces CDP-choline, but this is mostly irrelevant to supplementation since CDP-choline ingestion does not raise plasma CDP-choline levels (instead, it raises plasma cytidine and choline)
+
 
 2.
 
@@ -194,7 +196,9 @@ There are some interspecies differences in the metabolism of CDP-Choline. While 
 
 CDP-choline increases serum concentrations of free choline at doses as low as 500mg which tends to occur 2-3 hours after administration[18][3] and following ingestion of 1000mg CDP-choline it has been noted to reach a Cmax of 2.085+/-0.189 at a Tmax of 3.292+/-0.689 hours, 
 
+
 In humans, CDP-choline acts as a prodrug for both choline and uridine
+
 
 2.3
 
@@ -212,15 +216,21 @@ Blood Pressure
 
 In vitro, CDP-Choline appears to potentiate acetylcholine-induced relaxation in the internal (reducing the EC50 from 120ng/mL to 23ng/mL with 1mg/mL CDP-choline), but not external, vascular carotid bed (the internal bed has rich cholinergic innervation[23][24] colocalized with adrenergic receptors[25]) and is blocked by choline reuptake inhibitors.[26]
 
+
 Possibly vessel relaxing properties associated with cholinergic signalling, which suggest that CDP-Choline may have relaxing properties on blood vessels. The concentrations seems quite high though, and CDP-Choline (used in the in vitro experiment) is not per se found in the blood
+
 
 In instances of shock (haemorrhagic shock), injections of CDP-choline to rats (which rapidly produces cytidine monophosphate and phosphocholine[19][27]) has been noted to increase blood pressure and reduce heart rate when delivered either systemically[28][29] or intracerebrally;[30][31] the cardiac appears to be mediated via the cholinergic system[30][31] as well as the histaminergic system (as H1 receptor antagonists block the effects[29] whereas cholinergic antagonists do not[28]).
 
+
 In hypotensive (low blood pressure) rats, injections of CDP-Choline appear to increase blood pressure and normalized heart rate. This is a dual effect mediated via both the histaminergic and cholinergic systems
+
 
 In otherwise healthy elderly adults, one study assessing memory formation with 500-1,000mg CDP-Choline found modest but significant reductions in systolic blood pressure.[32]
 
+
 Limited oral supplementation studies in humans, but appears to have blood pressure reducing properties when there is not a hypotensive crisis
+
 
 4.
 
@@ -238,7 +248,9 @@ Appetite
 
 In a study in otherwise healthy persons administered 500mg or 2,000mg CDP-choline for six weeks, it was found that the higher dose was able to stimulate activity in the amygdala, insula, and lateral orbitofrontal cortex (in response to food intake) which was thought to underlie appetite suppressing effects noted with supplementation (on a scale of 1-10, reduced from 6.8 down to 5.92; as 1 is the lowest ranking this is a 27% decline) although weight did not appear affected.[34]
 
+
 May have minor appetite reducing properties in humans at higher doses (2,000mg daily), although the reason for this is currently unknown
+
 
 4.3
 
@@ -246,7 +258,9 @@ Attention
 
 In otherwise healthy women aged 40-60 given CDP-choline at 250-500mg for 28 days and then subject to a Continuous Performance Test II (CPT-II) it was noted that supplementation of both doses was able to reduce omission and comission errors, indicative of improved attentional focus and inhibition.[35] The two groups were for the most part equally effective, although 250mg may have been slightly more potent.[35]
 
+
 At least one study has reported an improvement in attention with 250-500mg (250mg outperforming 500mg) with supplemental CDP-Choline
+
 
 4.4
 
@@ -258,7 +272,9 @@ Activation of the nicotinic receptors is known to release opioid peptides (endog
 
 Secondary to increasing choline in the brain, CDP-choline appears to also have pain killing effects via the nicotinic acetylcholine receptors; cytidine infusions do not have such a pain killing effect.[39] This analgesic effect is dose-dependent[46] and is inhibited by naloxone (opioid inverse agonist) and CGP-35348 (GABAB receptor antagonist),[46][40] which confirms actions through the nicotinic receptor onto opioid release, but implicates GABAB receptors in the process (serotonin and adrenergic signalling, which is also induced by nicotinic activation, does not appear to be involved with the observed analgesic effect).[46]
 
+
 Choline itself appears to have pain-killing properties when it reaches the brain, as activation of choline receptors causes a release of opioid painkillers. CDP-Choline injections have been shown to have painkilling properties due to the choline content, but no orally supplemented studies currently exist (instead studies using 1-5µmol injections)
+
 
 4.5
 
@@ -286,11 +302,15 @@ Due to choline being the substrate for production of acetylcholine, CDP-Choline 
 
 Injections of CDP-Choline (100mg/kg) have been confirmed to increase extracellular acetylcholine in the brain (hippocampus and neocortex) in free moving rats following traumatic brain injury.[60]
 
+
 Supplementation of CDP-Choline, via both of the components (choline and uridine), can increase acetylcholine release in living models
+
 
 In the striatum and cortex the protein content of the vesicular acetylcholine transporter appears to be increased with supplemental CDP-Choline (325mg/kg), which also appears to apply to Alpha-GPC when controlled for choline content (although alpha-GPC affected more brain regions overall).[67][68] This has been noted in a living system, where aged rats given 100-500mg/kg CDP-Choline daily for 7 months experienced a 6-17% increase in muscarinic acetylcholine receptor concentration (whereas control experienced a decline) although affinity of the receptor was not modified.[69]
 
+
 May increase choline transporters in the brain following oral ingestion of higher dosages, both choline itself and the uridine component are implicated in the observed changes
+
 
 4.8
 
@@ -316,13 +336,18 @@ A single injection of 900mg/kg has been reported to possess a suppressive effect
 
 In studies where dopamine agonists are used, chronic injections (300mg/kg, but not 100mg/kg) are known to enhance apomorphine induced turning (42%).[78] This may be related to the dopamine transporter being upregulated by subchronic CDP-choline ingestion (cerebellum and frontal cortex)[74] which has been noted to occur in aged rats (11-18% with 100-500mg/kg CDP-Choline oral intake) over 7 months[69] or the aforementioned enhancement of dopamine release from stimulation. The enhancement of dopamine receptor concentrations seems to be related to the uridine component as it has been noted to be associated with improvements in membrane rheology.[69]
 
+
 CDP-Choline does not appear to influence dopamine concentrations per se, but it does appear to augment dopaminergic signalling by both increasing levels of the dopamine transporter and by increasing the amount of dopamine released from a stimulated neuron. This augmentation seems to apply to dopamine agonists as well as dopamine itself
+
 
 CDP-choline has noted a preservation of dopaminergic neurons in the face of the parkinson's research toxins MPP+[81] and 6-hydroxydopamine[82] which may be related to its general anti-apoptotic effects.[52] Although more reflective of the neuroprotective effects of the uridine component, preserving dopaminergic neurons can prevent a reduction in dopamine seen with toxins or other damages.
 
+
 The neuroprotective effects of CDP-Choline, when applied to neurons that secrete dopamine, suggest that CDP-Choline can attenuate declines in dopamine secretion seen with neurological damage
 
+
 The dopaminergic interactions of CDP-Choline seem to be more related to the uridine component than it is related to the choline component
+
 
 4.11
 
@@ -334,7 +359,9 @@ Supplementation of 500mg CDP-choline twice daily for two weeks in persons previo
 
 In persons with previous cocaine abuse (but not meeting DMS-IV criteria for dependence), supplementation of the same 500mg twice daily dose for four days prior to a cocaine challenge did not significantly alter cardiovascular parameters nor the cognitive alterations induced by cocaine self-administration.[88]
 
+
 CDP-Choline may have putative anti-addictive properties when taken at 500mg twice daily, but does not appear to be overly potent. The one study it has failed to have any actions was in the study where participants were not directed to try and reduce cocaine intake nor were they treatment seeking
+
 
 4.12
 
@@ -342,7 +369,9 @@ Memory and Cognition
 
 In young and otherwise healthy rats, CDP-Choline has failed to improve spatial memory formation (500mg/kg for 8 weeks) as assessed by water maze[89] but elsewhere at 10-500mg/kg has been found to improve active and passive avoidance tasks following 10 days of administration,[90] the latter study having a comparable potency to Piracetam and meclofenoxate (Centrophenoxine). This potency comparable to piracetam (100-500mg/kg) has been noted elsewhere with CDP-Choline in mice (25-500mg/kg)[91][92] and the two appear to be synergistic towards acute memory formation in otherwise healthy rodents.[91]
 
+
 In otherwise healthy and youthful rodents, CDP-Choline appears to have some potential as a nootropic compound and memory enhancer but is not 100% reliable. When it does enhance memory formation, it does so at a potency comparable to Piracetam
+
 
 The aging process is known to cause a reduction of spatial memory formation in rats[93][94] and humans[95] associated cholinergic[96] and membrane[97][98] dysfunction in the hippocampus relative to youthful controls. Due to CDP-Choline being involved in both membrane and acetylcholine metabolism, it has been investigated for cognitive decline (as since uridine is also effective in this regard,[99] it is thought that both molecules confer benefit). 
 
@@ -350,11 +379,15 @@ Supplementation of 500mg/kg of CDP-choline to rats for 8 weeks was able to rever
 
 In elderly humans without dementia, supplemnetation of 500-1,000mg CDP-choline is associated with improvements in memory recall[32] and verbal memory (1,000mg effective only in those with poor scores at baseline, 2,000mg effective in all subjects)[101] but not object recognition.[32]
 
+
 CDP-Choline appears to be effective in promoting memory formation and recall in elderly subjects in the dosage range of 500-2,000mg, and appears to have dose-dependent benefits within this range
+
 
 In studies that assess memory following some form of injury, CDP-choline (100-1,000mg/kg) for seven days appeared to have neuroprotective effects in a rat model of cerebrovascular dementia as assessed by improved performance in a maze test and less hippocampal cell death.[102] This was seen significantly at the highest dose (1,000mg/kg).
 
+
 Secondary to the neuroprotective effects, there may be memory preserving effects in situations of cognitive damage. This requires a fairly high dosage, however
+
 
 5.
 
@@ -366,7 +399,9 @@ Pancreatic Hormones
 
 Both insulin[103] and glucagon[104] appear to be increased following infusions of CDP-choline or choline itself, which appears to be related to increasing acetylcholine concentrations in the pancreas secondary to activating the nicotinic acetylcholine receptors.[103]
 
+
 Choline can increase concentrations of both pancreatic hormones, practical relevance of this information not known
+
 
 6.
 
@@ -382,7 +417,9 @@ Intramuscular injections of 1,000mg CDP-choline daily in persons with glaucoma o
 
 When assessing intraocular pressure, regardless of whether participants are selected based on having an intraocular pressure of less than 18mmHg[107] or greater than 21mmHg[106] supplementation of CDP-choline does not appear to have an effect.
 
+
 May be able to promote neural conductance along vision pathways, but does not appear to influence intraocular pressure
+
 
 7.
 

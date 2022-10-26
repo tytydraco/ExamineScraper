@@ -150,7 +150,9 @@ L-Citrulline is a non-protein amino acid compound (does not get used to form str
 
 Other food sources of L-citrulline include muskmelons, bitter melons, squashes, gourds, cucumbers, and pumpkins.[1]
 
+
 Citrulline is an amino acid that is not one of the essential amino acids nor a common dietary amino acid (named after its only good natural source, watermelons), but is interconverted in the body and serves roles similar to L-arginine and L-ornithine supplementation
+
 
 1.2
 
@@ -160,7 +162,9 @@ Citrulline is created in the body by one of two pathways, either recycled from a
 
 It appears that the arginine pathway accounts for about 10% of circulating citrulline while the glutamine pathway accounts for 90%;[6] reducing plasma glutamine levels can reduce plasma citrulline.[11]
 
+
 Two pathways mediate production of L-Citrulline, with the citrulline that is a byproduct of nitric oxide production being a minor contributor but plasma glutamine being a major contributor
+
 
 As for the urea cycle (one of the mechanisms behind the 10%), L-Arginine is converted into L-Ornithine via the arginase enzyme (giving off urea as a cofactor)[12][13] and from there ornithine (using carbamoyl phosphate as a cofactor) is subject to the Ornithine carbamoyltransferase enzyme to produce L-Citrulline. In this sense, the metabolic pathway from arginine towards citrulline (via ornithine) causes an increase in urea and a concomitant decrease in ammonia, which was used by the Carbamoyl phosphate synthase enzyme to create carbamoyl phosphate.[14] If need be, arginine can directly be converted into L-citrulline via a Arginine deiminase enzyme to produce, rather than require, ammonia.[15]
 
@@ -168,13 +172,17 @@ The cycle is formed as citrulline then binds with L-aspartate (related to D-Aspa
 
 Citrulline's convertion into L-arginosuccinate and subsequent conversion into L-arginine also is involved in the nitric oxide cycle rather than the urea cycle, with the only difference being that Arginine directly converts into citrulling (by giving off a nitric oxide molecule) rather than being indirectly converted via ornithine.[17][18]
 
+
 Citrulline can be produced by arginine by one of two mechanism, either directly via arginine giving off a nitric oxide molecule (which is the path involved in the nitric oxide cycle) or indirectly via arginine's conversion into ornithine (which is involved in the urea cycle, sequestering ammonia)
+
 
 1.3
 
 Metabolism
 
+
 Citrulline per se is more of a byproduct of arginine metabolism (nitric oxide cycle) and of ornithine metabolism (urea cycle), and merely gets converted back to arginine via arginosuccinate. That being said, supplemental citrulline also beneficially affects arginine and ornithine concentrations so their bioactivity is also relevant
+
 
 1.4
 
@@ -192,7 +200,9 @@ Intestinal Absorption
 
 L-Citrulline is taken up to a much greater degree in the gut than its counterpart L-Arginine, and results in a higher plasma level of L-Arginine via the Arginine/Ornithine/Citrulline cycle.[23] It is absorbed through numerous sodium-dependent transporters.[24] 
 
+
 Relative to arginine, citrulline is better absorbed in the intestines and may be a better source of bodily arginine than arginine itself
+
 
 2.2
 
@@ -204,7 +214,9 @@ A single dose of 6g citrulline malate (0.08g/kg) in athletes prior to exercise h
 
 Interestingly, the aforementioned studies using 0.18g/kg citrulline noted a 6-11 fold increase in citrulline alongside a mere doubling of arginine and ornithine[11][21] while the later study using 6g (calculated to be 0.08g/kg) had a much smaller increase in citrulline but still more than doubled both arginine and ornithine.[20] This was also noted in a dose-response study using 2g up to 15g citrulline where citrulline in plasma followed linear dose-dependence and both arginine and ornithine having less dose-dependence.[22] The authors hypothesized that, due to the increase in arginine being less than predicted and serum citrulline being the main predictor of arginine synthesis[19] that this indicates a rate-limiting step being reached in the kidneys.
 
+
 Oral Citrulline supplementation can increase plasma urea cycle amino acids which include citrulline itself (most drastic increase), ornithine, and arginine. Ornithine and Arginine can reach up to a doubling or tripling with 5-10g citrulline supplementation and then seems to be restricted from increasing further, while citrulline simply follows linear dose-response patterns (more oral supplementation causing more serum citrulline)
+
 
 Citrulline has been noted to not influence serum levels of any of the branched chain amino acids at rest,[21] but can accelerate depletion of BCAAs induced by prolonged exercise (via increasing their utilization as fuel).[20]
 
@@ -212,7 +224,9 @@ A reduction of glutamine (13% following 0.18g/kg citrulline for 7 days) has been
 
 Other amino acids tested (glutamic acid, aspartic acid, asparagine, alanine, lysine, tryptophan, phenylalanine, L-tyrosine, histidine) are mostly unaffected.[20]
 
+
 Citrulline may deplete BCAA serum concentrations during exercise, but does not appear to do this inherently at rest. There are also some interactions with glutamine, but beyond that other amino acids do not appear to be affected
+
 
 2.3
 
@@ -220,7 +234,9 @@ Metabolism
 
 Approximately 83% of orally ingested citrulline appears to be taken up by the kidneys[26][27][28] where it is converted into L-Arginine in the proximal tubules (via the enzymes arginosuccinate synthase and arginosuccinate lyase[29]); this conversion of citrulline into arginine (either from supplemental citrulline or that produced as a byproduct of arginine creating nitric oxide) accounts for 5-15% of circulating arginine but 60% of total arginine (the difference being due to the ability of arginine to be incorporated into proteins).[11][30]
 
+
 The majority of L-citrulline either floats in the blood passively or gets transported to the kidneys for conversion into arginine. Due to this, most bioactivities of citrulline are secondary to arginine ingestion
+
 
 3.
 
@@ -230,7 +246,9 @@ Neurology
 
 Memory and Learning
 
+
 Arginine has a few interactions with memory and learning, and as it is the molecule that citrulline acts vicariously through then reading that page will give a more complete view of citrulline's actions
+
 
 Citrulline (and beta-alanine) have been found to be normally expressed at higher concentrations in the hippocampus of trained rats relative to untrained rats in a cognitive test.[31]
 
@@ -256,7 +274,9 @@ In youth given a cold-pressor test (known to increase blood pressure without aff
 
 In youth with congenital heart disease having supplemental citrulline around an operation (5 doses of 1.9g/m2, which is 3.2g and 3.6g for average adult females and males), subjects with elevated citrulline concentrations in the blood appeared to be protected from developing pulmonary hypertension and there was less overall development in the citrulline treated group (due to higher serum citrulline concentrations).[41]
 
+
 Citrulline supplementation appears to reduce blood pressure and improve blood flow in situations where blood flow is otherwise hindered or blood pressure higher than normal, but citrulline does not have unidirectional reducing effects; it may be ineffective in resting normotensive persons
+
 
 5.
 
@@ -284,13 +304,17 @@ Elsewhere, citrulline (as malate) has been found to increase muscular ATP effici
 
 At least one study in rats has noted increased force output by 23% following intake of 3g/kg daily (human equivalent of 480mg/kg).[46]
 
+
 Citrulline does appear to interact with ATP production (in a beneficial manner) via increasing the efficiency of energy production, but it is unclear whether citrulline increases aerobic or anaerobic energy metabolism (or both, depending on context)
+
 
 Citrulline (as malate) is sometimes used as an acid and ammonia buffer in bacterial models[51] and in mammals including humans.[52] Citrulline administration does appear to stimulate hepatic ureagenesis (via Ornithine sequestering ammonia)[52] and elsewhere has been noted to simply increase ornithine concentrations itself (by approximately double, a similar increase in ornithine and arginine).[11][21] 6g of citrulline appears to increase plasma ornithine (200% or so) to a lesser degree than supplemental ornithine itself at a similar dosage (300-500%).[53][54]
 
 Ammonia normally signals for muscle fatigue when it accumulates due to inhibiting the conversion of Pyruvate to Acetyl-CoA (via activating phosphofructokinase)[55][56] which hinders contractility of muscles.[57] Secondary to preventing ammonia accumulation (which has been confirmed in mice[58]), an increase in physical performance may occur.
 
+
 Citrulline may also possess the properties of ornithine supplementation and buffer ammonia, but on a gram per gram basis appears to be less efficient at raising plasma ornithine concentrations than ornithine itself (which is opposite that seen with arginine, where citrulline is actually more effective)
+
 
 6.2
 
@@ -300,11 +324,15 @@ Although citrulline does not appear to be an activator of mTOR like leucine is (
 
 Citrulline has failed to activate both the p44/42 MAPK pathway and the ERK1/2 pathway in skeletal muscle,[59] while leucine itself can activate ERK1/2 and induce 4E-BP1 (downstream of mTOR) to a much larger degree than citrulline.[59]
 
+
 Citrulline positively influences the mTOR pathway, but this does not appear to be through direct activation like leucine does. If anything, citrulline normalizes suppressed mTOR signalling
+
 
 For human studies, supplementation of 0.18g/kg citrulline for a week has failed to significantly modify leucine oxidation rates or whole body protein synthesis[21] but elsewhere at the same dose has been noted to improve nitrogen balance in humans in the fed state.[11] Urinary nitrogen in the fasted state with oral doses of citrulline between 2-15g does not appear to be acutely affected.[22]
 
+
 Mixed evidence as to whether Citrulline supplementation can help with muscle protein synthesis
+
 
 6.3
 
@@ -312,7 +340,9 @@ Interventions
 
 Citrulline, when supplemented at dosages around 250mg/kg bodyweight, has been implicated in increasing anaerobic performance in rats[46] and mice.[58]
 
+
 Rat studies have noted benefits with 250mg/kg citrulling (human equivalent of 40mg/kg)
+
 
 In weightlifters given a training protocol (do as many reps as possible until fatigue, for 8 sets), ingestion of 8g citrulline malate alongside 10g sucrose (sucrose also supplied to placebo condition) failed to improve performance on sets 1-2 but progressively increased the amount of reps conducted relative to placebo from 10.48% to 52.92% more reps.[64]
 
@@ -320,7 +350,9 @@ This study also noted that while 73.17% of the subjects reported nonresponse on 
 
 Muscle soreness has been noted to be reduced following weight training with 8g citrulline malate by 39.74% (24 hours after) and 41.79% (48 hours after) relative to placebo.[64]
 
+
 Citrulline appears to benefit weightlifting secondary to reducing fatigue from a prolonged workout; it does not appear to be too effective on the first few reps conducted
+
 
 A trial in incline treadmill walking to fatigue with either 3g citrulline acutely or 9g over 24 hours (three doses of 3g) actually noted a reduction in time to exhaustion (895.4s to 888.2s; 0.8%) and increase in the rate of percieved exertion.[44] The authors also noted that the exercise-induced increase in insulin that occured in placebo failed to occur with citrulline.[44]
 
@@ -346,7 +378,9 @@ In trained athletes given 6g citrulline malate prior to a prolonged (137km) cycl
 
 IGF-1 concentrations after 0.18g/kg citrulline for 7 days are not significantly affected.[21]
 
+
 Has been noted to increase growth hormone concentrations, but this may require physical exercise as a prerequisite. As such, it may be more correct to say citrulline augments growth hormone release rather than directly induces it
+
 
 8.2
 
@@ -366,7 +400,9 @@ Citrulline is thought to be a pro-erectile agent as it is a precursor for argini
 
 In men with erectile dysfunction as assessed by weak erections (assessed b yerectile hardness score[67]) given 1,500mg citrulline daily (two doses of 750mg) for one month was able to benefit half of the 24 patients assessed (as assessed by 'very satisfied' with treatment) while there was merely a 8.3% improvement in placebo.[68]
 
+
 Citrulline appears to have pro-erectile properties vicariously through arginine. It is likely more potent than arginine at doing this due to having a greater bodily exposure to arginine, but the preliminary evidence right now does not suggest that it is more potent than the reference drug Viagra
+
 
 10.
 
@@ -382,11 +418,15 @@ When looking at citrulline ingestion at rest, 0.18g/kg has been found to improve
 
 During exercise, 6g citrulline in trained cyclists prior to a 137km cycling test noted that plasma BCAAs were reduced relative to control and attributed to increase utilization of BCAAs for fuel.[20]
 
+
 Citrulline does appear to interact with BCAA metabolism in the body, although human studies seem to have differing results based on the context of the study
+
 
 Similar to how citrulline is able to restore muscle protein synthesis rates[59][60] and muscular function[61] during aging and malnourishment in rats via mTORc1 dependent means,[62][63] citrulline itself is a weak agonist (enough that it could be false positive from sensitizing mTORc1[59]). Conversely, leucine itself is a potent activator of mTORc1 activity.
 
+
 Citrulline may positively mediate leucine's signalling through mTOR, which theoretically suggests that they are synergistic. The application of the combination towards weight lifters has not yet been investigated, so the synergism is currently just a hypothesis rather than a demonstrated fact
+
 
 10.2
 
@@ -394,7 +434,9 @@ Glutathione
 
 L-citrulline increases levels of nitric oxide (NO), a vasodilator. Although NO effects are potent, the extent of vasodilation is limited by the short half life of NO, which is broken down by oxidation soon after it is formed.[69] One study found that taking reduced glutathione (GSH), a reducing agent, alongside L-citrulline may help to protect against the rapid oxidative oxidative destruction of NO. In vitro studies in human umbilical vein endothelial cells demonstrated that L-citrulline (0.3mM) in combination with GSH (1mM) resulted in significantly greater nitrite levels than vehicle-treated controls or L-citrulline alone. Likewise, 3-day treatment of rats with L-citrulline (500mg/kg/day) and GSH (50mg/kg/day) by oral gavage increased plasma nitric oxide levels more than a control or L-citrulline alone. The investigators also conducted a small human trial, where resistance-trained makes were randomly assigned to orally ingest either a placebo, L-citrulline (2g/day), GSH (1g/day), or L-citrulline (2g/day) in combination with GSH (200mg/day) for 7 days, followed by performance of a resistance exercise session. Consistent with in vitro and rat studies, subjects taking GSH along with L-citrulline had significantly higher nitrite and nitric oxide levels 30 minutes after exercise relative to placebo or L-citrulline alone.[69]
 
+
 Supplementing with reduced glutathione (GSH) alongside L-citrulline may extend the half life of nitric oxide, potentially resulting in greater vasodilation compared to L-citrulline alone. 
+
 
 10.3
 
@@ -414,7 +456,9 @@ Citrulline administration appears to promote ureogenesis (production of urea) an
 
 A study assessing synergism between citrulline and bicarbonate supplementation is currently not available.
 
+
 Theoretically synergistic, but has not been directly investigated at this moment in time
+
 
 10.5
 
@@ -424,7 +468,9 @@ One study in endothelial cells (in vitro) noted that the statin tested, simvasta
 
 As simvastatin,[70] atorvastatin,[71][72] and lovastatin[73] (bioactive in red yeast rice) have all been noted to increase eNOS,[71] iNOS,[71][73] and nNOS[72] it is thought that this is a common mechanisms to statin drugs in general.
 
+
 Statin drugs may be able to increase the expression of the enzyme that mediates conversion of arginine into nitric oxide, and due to this there is possible synergism for anything pertaining to nitric oxide. This has not yet been tested in a living system
+
 
 11.
 

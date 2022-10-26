@@ -108,9 +108,12 @@ One study has been conducted assessing visceral adipose (a hardened faty surroun
 
 Adipose tissue necrosis can be induced in vitro with such an infusion of PC[18] that may affect other cell types;[19] necrosis of adipose is sometimes observed in animal models[17][20] although not all the time.[21] Long term cost-benefit analyses of safety regarding PC/deoxycholate injections have not yet been undertaken.
 
+
 Injections of a mixture of deoxychlorate and phosphatidylcholine appear to be commonly used for localized fat loss, most commonly studied for lipodystrophies. Phosphatidylcholine may play a role here, but the trial sizes are relatively small and those used in more hedonistic models (aesthetic fat loss rather than lipodystrophy) are less than optimally structured although theoretically it should apply to all fat deposits. A clear cost-benefit analysis has not yet been conducted
 
+
 Oral phosphatidylcholine is unlikely to possess such effects as those noted with injections
+
 
 5.
 

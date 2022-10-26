@@ -230,7 +230,9 @@ Different strains of this bacteria that have been successfully used with oral in
 
 L. reuteri ATCC PTA 6475; shown to have aesthetic benefits in mice[10] and genomically is somewhat similar to the popular strain ATCC 55730[11]L. reuteri ATCC PTA 4659[12]L. reuteri ATCC 23272;[13] which may still have a therapeutic effect when administered heat-killed[14]L. reuteri ATCC 55730 (SD2112[15]); used in treatment of H. pylori[16] and confirmed to colonize the intestines after oral ingestion in humans[15]L. reuteri DSM 17938;[17] a daughter strain derived from ATCC 55730 (slightly increased acid resistance and improved growth in vitro[18]) that has been confirmed to colonize the intestinal tract.[19] This daughter strain was created over concern regarding two genes found in ATCC 55730 that may confer resistance to tetracycline and lincomycin that were removed in the creation of DSM 17938[18]L. reuteri NCIMB 30242; formerly known as CardiovivaTM[20][21], now known as LRCTM, is implicated in cholesterol reduction[20] and increasing serum Vitamin D;[21] this appears to require microencapsulation to survive digestion via food products[20]L. reuteri RC-14; used alongside L. rhamnosus GR-1 for vaginal health (bacterial vaginosis[22] and UTIs[23]) due to these strains being able to colonize the vagina following oral administration[24]L. reuteri CF48-3A[12]L. reuteri DSMZ 17648 (PylopassTM); used in treatment of H. pylori[25]L. reuteri GMNL 263 (Lr263); used in rats for treatment of fatty liver[26]L. reuteri LTH 2584[27]L. reuteri LTH 5531[28]L. reuteri l5007; which appears to uniquely synthesize exopolysaccharides[29]L. reuteri 100-23[30]The alphanumerical strain designations are used to refer to the company which safeguards and distributes the strain (e.g. ATCC being an acronym for American Type Culture Collection and JCM referring to Japan Collection of Microorganisms) and the numerical designation is used to differentiate between strains of the same location.
 
+
 There are numerous different strains of Lactobacillus reuteri which, although similar, have some minor differences that make them unique. Three particular strains that are bolded above tend to be most commonly used in dietary supplements and are also the most researched.
+
 
 Lactobacillus and lactic acid producing bacteria in general are present in many fermented foods, including:
 
@@ -252,17 +254,23 @@ Metabolites from L. reuteri
 
 Reuterin (3-hydroxypropionaldehyde) is a small molecule produced by Lactobacillus reuteri which has antimicrobial properties[34] due to its ability to induce oxidative stress in microbes.[35] This molecule is an intermediate made from glycerol and prior to its conversion to 1,3-propanediol,[36] is synthesized in a particular bacterial compartment called the metabolosome.[37] Reuterin is produced in higher levels when Lactobacillus reuteri are cultured in a medium containing high levels of glycerol.[35]
 
+
 Lactobacillus reuteri can use glycerol to produce reuterin, which is a molecule that has antimicrobial effects.
+
 
 Reutericyclin is an antibiotic produced from L. reuteri which is a cyclical tetramic acid[38] active primarily on the bacterial membrane of Gram-positive organisms[39] including methicillin-resistant Staphylococcus aureus (MRSA)[40] and Clostridium difficile, with the latter occurring at physiologically relevant concentrations.[41] This particular metabolite may be produced in higher levels by the strain LTH 2584, since this strain possesses stronger antibacterial effects not accounted for by the weaker antimicrobial effects attributed to reuterin and small organic acids produced by other strains.[27]
 
+
 Reutericyclin is another antibacterial metabolite unique to L. reuteri, although it does not appear to be as ubiquitous as reuterin which is produced in most if not all strains of L. reuteri; the strain LTH 2584 seems to produce most reutericyclin.
+
 
 By producing histamine,[42] L. reuteri  ATCC 6475 exerts a number of antiinflammatory actions, including suppression of TNF-α. Histamine is produced from L-histidine via histidine decarboxylase, which is expressed via a histidine decarboxylase gene cluster present in a few Lactobacillus species.[43][44] Inhibiting any single gene in this cluster reduced but did not ablate the inhibitory effects of L. reuteri  on TNF-α signalling, suggesting that multiple genes in this cluster are responsible.[42] Histamine suppression of TNF-α occurs via activation of the histamine H2 receptor[42][45]
 
 L. reuteri ATCC 6475 has also been shown to reduce levels of the pro-inflammatory cytokine IL-17A after oral ingestion in mice,[46][10] which is mediated by increased production of the anti-inflammatory cytokine IL-10 via histamine-activation of the H2 receptor.[47] Upon binding to the IL-10 receptor, IL-10 suppresses IL-17 producing T cells.[48][49]
 
+
 L. reuteri appears to produce histamine which then exerts antiinflammatory actions.
+
 
 2.2
 
@@ -292,13 +300,17 @@ In humans in good health who are not supplementing probiotics, the entire genus 
 
 One study examining Lactobacillus populations in humans failed to detect any reuteri, instead detecting acidophilus, fermentum, crispatus, rhamnosus, and plantarum.[60] Lack of reuteri was confirmed in another study.[17] This may be due to individual differences as it has been estimated that only 10% of the population has detectable L. reuteri  in fecal analysis.[15][7]
 
+
 Lactobacillus tends to have a low quantitative presence in the large intestines of humans, and Lactobacillus reuteri levels are often too low to be detected or outright absent in many people.
+
 
 One study noted that supplementing a food product containing at minimum 1x109 CFU L. reuteri for three weeks can increase total Lactobacillus CFU in feces.[17] Colonization has been noted elsewhere with 1x1010 CFU[57] and 1x1011 CFU[56] taken as a daily supplement, with colonization being detected within one week in one study[56] and within 2-4 days elsewhere.[19]
 
 Colonization induced by 1x1011 CFU for four weeks appears to return to normal after two months after cessation of supplementation.[56] Another study noted supplementation of DSM 17938 at 1x108 every other day for one week was successful in colonizing the intestines (a similar potency to daily supplementation) but did not last for more than four days following supplement cessation.[19]
 
+
 Lactobacillus reuteri ingestion increases fecal concentrations of L. reuteri, and alternate day dosing may be as effective as daily dosing. Upon cessation of supplementation, L. reuteri concentrations readily return to presupplementation levels.
+
 
 In rats, a high fructose diet appears to greatly increase Clostridia bacteria to 130.1% of control values , with no significant changes in Bifidobacteria or Lactobacilli counts.[26] Feeding 2x109 CFU L. reuteri (GMNL-263) during this period prevented the increase in Clostridia while increasing both Bifidobacteria (126.7%) and Lactobacilli (135.4+/-7.8%) concentrations.[26] Similar suppression of Clostridia have been noted elsewhere in rats with prebiotics and different lactic acid producting probiotics (bifidobacterium and streptococcus thermophilus) as well as with fructooligosaccharides.[62]
 
@@ -346,7 +358,9 @@ Adipogenesis
 
 Adipose tissue is an important glucose disposal site that plays a critical role in regulation of glucose homeostasis. Insulin resistance decreases the ability of adipose tissue to absorb/utilize glucose in part by decreasing expression of the adipogenic proteins PPARγ and GLUT4. The decrease in the expression of PPARγ and GLUT4 in adipose tissue induced by a high fructose diet in rats was suppressed with coingestion of 2x109 CFU of L. reuteri over 14 weeks, which may be related to restoring Lactobacilli levels while decreasing levels of Clostridia.[26]
 
+
 L. reuteri may confer a degree of protection against insulin resistance by preventing the suppression of PPARγ and GLUT4 in response to a high fructose diet. 
+
 
 6.2
 
@@ -362,7 +376,9 @@ Lactobacillus supplementation has been shown to influence weight in animals in a
 
 In obese humans, there appeared to be a trend for increased fecal Lactobacillus (species not specified) independent of supplementation relative to lean controls,[75] and self-reported consumption of probiotic yogurts (primarily Lactobacillus) is associated with weight loss.[76]
 
+
 While oral intake of probiotic yogurts tends to be associated with weight loss (likely confounded with other lifestyle factors), the effect of specific Lactobacillus strains on human body weight is not well established.
+
 
 A few studies not directly assessing weight have noted that rats given L. reuteri (ATCC PTA 6475) exhibited reduced fat mass relative to control groups. This was noted with 109 CFU L. reuteri thrice weekly in male mice over four weeks, which was associated with a 50% reduction in visceral fat pads (interestingly, this was ineffective in females).[77] Another study noted that L. reuteri ATCC PTA 6475 given to rats of mixed gender at a dose of 3.5x105 CFU daily 20 weeks inhibited most of the fat gain caused by high fat 'western' diets.[72]
 
@@ -392,7 +408,9 @@ L. reuteri ATCC PTA 6475 has been implicated in protecting rats from bone loss d
 
 Mechanistically, it seems that the proliferation of osteoclasts (negative regulators of bone mass) is attenuated without affecting osteoblast activity in overectomized rats.[79] This effect that may be mediated by bone marrow CD4+ T cell activity, which enhances osteoclast activity.[81] Although increased upon ovarectomy, this phenomenon was prevented with L. reuteri ATCC PTA 6475.[79] 
 
+
 Rat evidence suggests that Lactobacillus reuteri ATCC PTA 6475 has bone sparing effects,which may occur via modulation of gut immunology and T cell populations that could result in less secretion of cytokines that contribute to bone loss.
+
 
 8.
 
@@ -414,7 +432,9 @@ Other studies measuring IL-10 after ingestion of L. reuteri strains have noted a
 
 In humans with cystic fibrosis, DSM 17938 at 108 CFU daily for six months was not associated with any alterations in serum IL-10 relative to placebo.[83]
 
+
 At least in mice, Lactobacillus reuteri appears to hinder IL-17 signaling, which is thought to occur via increased IL-10 signaling (IL-10 suppresses IL-17 in some tissues). This alteration in cytokine function appears to underlie the effects of Lactobacillus on testosterone, fertility, and aesthetics, which appear to be strain-specific.
+
 
 8.3
 
@@ -426,7 +446,9 @@ L. reuteri DSM 17938 given at a dose of 106 CFU/g body weight per day to rat pup
 
 Ultimately, it may be that preserving the populations of regulatory T cells through feeding of L. reuteri exerts anti-inflammatory effects as it is noted to be associated with less proinflammatory (IL-6, TNF-α) and more antinflammatory (IL-10) cytokines.[71]
 
+
 In rat models, feeding of L. reuteri seems to restore abnormalities in T-cell populations, specifically by increasing regulatory T cell levels.
+
 
 8.4
 
@@ -434,11 +456,15 @@ Allergies
 
 One study in mice feeding 109 CFU of ATCC 23272 for nine days noted that the expansion of CD4+CD25+Foxp3+ T cells in splenic tissue and increase in secreted IL-10 was associated with immunosuppressive actions in vitro, which reduced airway inflammation and hyperresponsiveness upon exposure to antigens.[13]
 
+
 In mice, ATCC 23272 has been noted to desensitize the lungs to antigens and is thus thought to have antiallergic properties.
+
 
 When tested in infants, supplementaton of ATCC 55730 (108 CFU) in families known to have allergic diseases (where supplementation started the last month of gestation, and continued in the offspring for one year) who were then followed up after seven years failed to find any differences in the occurrence rates for asthma, rhinoconjunctivitis, eczema, and skin prick test reactivity.[87] These null results are similar to other probiotics that also exert acute antiallergic actions such as L. paracasei LF19.[88]
 
+
 Supplementation of the mother and offspring with ATCC 55730 when the family is known to be at risk for allergic diseases failed to modify the incidence of disease in the offspring after seven years.
+
 
 9.
 
@@ -480,7 +506,9 @@ Helicobacter pylori is a bacteria known to exist endogenously in the stomach of 
 
 In subjects who tested positive for H. pylori yet did not reach the criteria for standard eradication therapy (Maastricht Guidelines[102]), four tablets of 5x109 CFU (daily dose of 2x1010 CFU) of the DSMZ 17648 strain of L. reuteri for two weeks significantly decreased H. pylori load. This decrease persisted over the course of the 24-week study, beyond the cessation of supplementation.[25] Benefits have also been noted with the live strain ATCC 55730 in chewable tablets at 108 colonies once daily. After a month of supplementation, a 13% reduction in breath urea (a measure of H. pylori levels) was observed in subjects given L. reuteri versus a 3% increase in the placebo group.[16] A reduction in gastrointestinal symptoms upon treatment with L. reuteri was also noted.[16]
 
+
 There is some evidence to suggest that L. reuteri may decrease the concentration of H. pylori in the gut.
+
 
 10.3
 
@@ -490,7 +518,9 @@ In otherwise healthy adult humans given supplementation of L. reuteri DSM 17938 
 
 In hospitalized adults at-risk for antibiotic-associated diarrhea (due to detecting Clostridium difficile, known to cause diarrhea[105]), supplementation of L. reuteri ATCC 55730 at 108 CFU for one month reduced the frequency of diarrhea from 50% to 7.7%.[106]
 
+
 L. reuteri may reduce diarrhea caused by some antibiotics.
+
 
 10.4
 
@@ -502,11 +532,15 @@ The RC-14 strain of L. reuteri and the GR-1 strain of L. rhamnosus both appear t
 
 In postmenopausal female urinary tract infections (UTIs), supplementation of mixed Lactobacillus (109 CFU of L. rhamnosus GR-1 and L. reuteri RC-14 twice daily) was compared against the pharmaceutical trimethoprim-sulfamethoxazole (480mg) for one year. Both groups performed equally,as the probiotic reduced the mean number of symptomatic UTIs from 6.8 to 3.3 while the pharmaceutical reduced them from 7.0 to 2.9.[23] While performing equally to the pharmaceutical, Lactobacillus did not increase antibiotic resistance against the causative pathogen (E. coli) as trimethoprim-sulfamethoxazole did. On the other hand, there was a statistically non-significant increase in withdrawals from the trial in the Lactobacillus group relative to the antibiotic group due to side-effects.[23] While this study found that Lactobacillus treatment was clearly not inferior to antibiotic treatment, this interpretation has been contested on both technical grounds and due to concern over antibiotic resistance generated by antibiotic treatment.[109][110] 
 
+
 Mixed Lactobacillus probiotics appear to be able to reduce urinary tract infections in postmenopausal women, with one study suggesting comparable potency to a reference antibiotic for this purpose.
+
 
 One human study using L. reuteri RC-14 alongside L. rhamnosus GR-1 (collectively 109 CFU, taken twice daily) in women with bacterial vaginosis noted that oral supplementation for 12 weeks resulted in greater restoration of vaginal microflora (61.5%) compared to the placebo group (26.9%).[22] This study also noted that approximately half of overall subjects recieving the probiotic had normal microflora, and that supplementation resulted in over 80% of subjects showing increased Lactobacillus counts in vaginal secretions.[22]
 
+
 Lactobacillus genus probiotics have been noted to be beneficial for vaginal health at times, specifically both L. reuteri ATCC 6475 and l. reuteri RC-14 have been implicated.
+
 
 11.
 
@@ -518,7 +552,9 @@ Immunotherapy
 
 L. reuteri ATCC 6475 supernatant has been noted to increase the apoptosis of leukemia cells (KBM-5) caused by TNF-α, an effect which may be occur via inhibition of NF-kB.[55] L. reuteri did not appear to inhibit DNA binding of the NF-kB complex (p50 and p65 subunits) but appeared to inhibit p65 subunits from translocating to the nucleus by reducing ubiquination and degradation of IκBα .[55] These effects were noted alongside an increase in JNK and p38 phosphorylation from TNF-α, while another MAPK protein known as ERK1/2 was suppressed.[55]
 
+
 The NF-kB inhibitory effects of L. reuteri (likely through one of its metabolites) have been shown to sensitize some cancer cells to endogenous cytotoxic agents, although the practical relevance of this information is not yet known.
+
 
 12.
 
@@ -562,11 +598,15 @@ In infantile colic, L. reuteri DSM 17938 at 1x108 CFU daily (liquid suspension g
 
 However, in a meta-analysis of trials treating cholic, it was noted that all trials had potential bias warranting caution when drawing positive conclusions.[131] Notably, a subsequent trial on DSM 17938 at the 108 CFU dosage in infants under three months with colic failed to find a beneficial influence of L. reuteri relative to placebo.[132]
 
+
 In regards to infantile colic (excessive crying, which is thought to be gastrointestinal in nature), supplementation of L. reuteri DSM 17938 via liquid suspension has been noted in numerous trials to greatly reduce crying. A recent meta-analysis, however, found potential bias with these studies and was followed up by an additional study which failed to note any benefit. Although promising, more independent research needs to be conducted to determine if L. reuteri is an effective treatment for colic.
+
 
 L. reuteri DSM 17938 appears to confer other gastrointestinal benefits to children, and prophylactic treatment for the first three months of life has been noted to reduce overall regurgitation (37%) and improve bowel frequency (16%) relative to placebo.[130] the latter This is thought to be related to a reduction in risk of constipation seen with L. reuteri DSM 17938 treatment.[133]
 
+
 Supplementation of L. reuteri DSM 17938 appears to support gastrointestinal motility in infants, resulting in less symptoms of both regurgitation and constipation.
+
 
 14.
 
@@ -580,7 +620,9 @@ Pseudomonas aeruginosa is a pathogenic bacteria with clinical relevance to cysti
 
 L. reuteri ATCC 55730 given to youth with cystic fibrosis at 1010 CFU daily (liquid suspension) over the course of six months was associated with a significantly reduced risk of pulmonary exacerbations (OR 0.06; reducing eleven exacerbations down to one) with a reduced risk of upper respiratory tract infections.[135] These benefits were without changes in sputum or FEV1 (lung power) between groups,with no changes in serum or sputum IL-8 or TNF-α.[135] Elsewhere, supplementation of 108 CFU of DSM 17938 via once daily tablets for six months also failed to influence IL-8 or TNF-α or to improve pulmonary function, but did appear to be associated with increased gastrointestinal comfort associated with beneficial alterations in intestinal microflora (a significant decrease in Proteobacteria and increase in both Firmicutes and Bacteroidetes).[83]
 
+
 Preliminary evidence indicates that L. reuteri may greatly reduce the risk of pulmonary exacerbations in cystic fibrosis and may have a beneficial influence on the gut microbiome, which is altered from the norm in cystic fibrosis.
+
 
 15.
 
@@ -600,7 +642,9 @@ Cobalamin (Vitamin B12) is known to be synthesized by a few bacteria which inclu
 
 The form of B12 that is produced from L. reuteri (CRL 1098) has been identified as pseudovitamin B12.[141] While one study found that oral ingestion of L. reuteri CRL 1098 by mice improved symptoms of B12 deficiency (1x107 CFU daily),[142] it was noted that the medium for cultivating CRL 1098 may have been contaminated with B12 of other origins.[143]
 
+
 Lactobacillus reuteri is capable of synthesizing vitamin B12 for its own usage in order to produce antimicrobial compounds, but the variant synthesized is pseudovitamin B12. There is currently no good evidence to support that B12 synthesized in the human gut from this bacteria contributes to overall B12 status.
+
 
 15.3
 
@@ -622,5 +666,7 @@ Safety in diseased adult populations has also been assessed. Oral ingestion of L
 
 Studies on the safety of L. reuteri have also been performed in infants. Otherwise healthy infants aged 3-65 days fed a formula at a concentration of 2.2x108 CFU/180mL L. reuteri ATCC 55730 (also called SD 2112) for 4 weeks showed no adverse effects and no differences in growth, stooling behaviors, instances of crying, or irritability compared to placebo formula.[148] No adverse events were seen in children 6-36 months old with either or acute diarrhea[149] or chronic constipation[133] were given the DSM 17938 strain of L. reuteri.
 
+
 Various strains of L. reuteri appear to be safe in both healthy adults as well as adults with certain disease states. L. reuteri also seems to be well-tolerated in healthy infants as well as those with bowel problems.
+
 

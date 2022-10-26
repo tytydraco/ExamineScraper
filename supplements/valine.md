@@ -92,13 +92,17 @@ Excitation
 
 Due to the link between athletes and Amyotrophic lateral sclerosis (ALS, albeit somewhat unreliable of an association that is still up for debate[10] with both positive[11][12] and null[13] evidence) investigation into agents possibly used by these athletes were conducted and BCAAs suspected.
 
+
 The epidemiological link between ALS and athletes is somewhat weak and inconsistent, and even then the link between ALS and BCAA supplementation (hypothesized to be more commonly occurring in athletes) is currently unsupported
+
 
 Valine has been noted to (in vitro) cause dose-dependent hyperexcitability in stimulated neurons (10-300μM incubation for 6 days) which is abolished by rapamycin (mTOR inhibitor) and suppress with Riluzole (sodium channel blocker),[14] and this was similar to the other two BCAAs but not amino acids without a branched side-chain (alanine and phenylalanine). As hyperexcitability of neurons is a pathological feature of ALS in humans[15][16] and of the mouse model which mimicks ALS (the G93A model[17][18]), it was thought that this induced hyperexcitability could be a mechanism of action. BCAA-induced hypersensitivity also appeared to be sodium channel dependent, and occurred in mice (B6SJL strain) raised from birth with 2.5% of the diet as BCAAs (1:1:1 ratio).[14]
 
 Both in vitro and mouse models of BCAA incubation/supplementation fail to find alterations in resting membrane potential.[14]
 
+
 It is plausible that BCAAs may increase neuronal excitation via mTOR dependent means, but the in vitro evidence used quite high concentrations while the mouse model was conducted from birth (which is usually more sensitive to neurological effects but may not accurately represent a non-infant consuming the agent). More research on this topic is needed
+
 
 3.
 
@@ -112,11 +116,15 @@ Mechanisms
 
 Elsewhere in humans (either with type II diabetes or impaired glucose tolerance) intravenous valine has been noted to reduce fractional clearance rate of glucose.[20]
 
+
 May induce a transient state of insulin resistance, similar to leucine but quicker acting
+
 
 Valine has been noted to increase insulin secretion from the pancreas, but is approximately 3-9% (health persons and those with impaired glucose tolerance) as potent as glucose itself and weaker than L-arginine (46-61%), but in type II diabetics increases to 47% (Arginine at 180%).[20]
 
+
 Valine may increase insulin secretion, but it is fairly weak in doing so
+
 
 3.2
 
@@ -148,7 +156,9 @@ In dendritic cell cultures (antigen presenting cells) removal of BCAAs or valine
 
 Supplementation of L-Valine to healthy controls and cirrhotic patients (from hepatitis C) experience increase dendritic cell and monocyte interaction as well as increased IL-12 secretion[24] which has been noted to apply to persons with advanced cirrhosis[25] which is known to have impaired dendritic function.[26]
 
+
 Valine supplementation is possibly immunostimulatory
+
 
 5.2
 

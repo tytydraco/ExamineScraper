@@ -130,7 +130,9 @@ Anethum graveolens (of the family Apiaceae), commonly referred to as Dill and le
 
 Traditional usage of anethum graveolens includes gastrointestinal ailments such as flatulence, indigestion, stomachache as well as for the purposes of a carminative, antispasmodic, sedative, galactagogue, diuretic, and antihyperlipidemic.[5] Alongside the usage of being a galactogogue, anethum graveolens is also used for other feminine purposes such as uteral and cervical health as well as for cervical ectropion.[3]
 
+
 Dill (Anethum graveolens) is a food product that also appears to have some traditional medical usages for gastrointestinal health, urinary health, and feminine health related to lactation and menstruation
+
 
 1.2
 
@@ -138,11 +140,15 @@ Composition
 
 Anethum graveolens is known to contain (fruits unless otherwise specified):
 
-Dillanoside[6]The psychotropics dillapiol and apiol[7]Monoterpenoid ketodiols[4] and glycosides[4]Shashenoside I[4]Syringin[4]Icariside F2[4]Nitrate (2,236-3,267mg/kg; average of 2,936mg/kg)[8]Benzyl-β,D-glucopyranosides, 4-hydroxybenzyl-β,D-glucopyranosides, and 4-hydroxybenzyl alcohol 4-O,β,D-glucopyranosides[4]Erythritol[4]D-threitol[4]β-carotene at 4039+/-266µg/100g in the leaves[9]Lutein and Zeaxanthine (collectively at 4618+/-304µg/100g) in the leaves[9]β-Cryptoxanthin at 61+/-7µg/100g (leaves)[9]Uridine and thymidine[4]The bioactives of dill are not very well known at this moment in time, although it seems the essential oil component is fairly important and dill does have an appreciable nitrate content
+Dillanoside[6]The psychotropics dillapiol and apiol[7]Monoterpenoid ketodiols[4] and glycosides[4]Shashenoside I[4]Syringin[4]Icariside F2[4]Nitrate (2,236-3,267mg/kg; average of 2,936mg/kg)[8]Benzyl-β,D-glucopyranosides, 4-hydroxybenzyl-β,D-glucopyranosides, and 4-hydroxybenzyl alcohol 4-O,β,D-glucopyranosides[4]Erythritol[4]D-threitol[4]β-carotene at 4039+/-266µg/100g in the leaves[9]Lutein and Zeaxanthine (collectively at 4618+/-304µg/100g) in the leaves[9]β-Cryptoxanthin at 61+/-7µg/100g (leaves)[9]Uridine and thymidine[4]
+The bioactives of dill are not very well known at this moment in time, although it seems the essential oil component is fairly important and dill does have an appreciable nitrate content
+
 
 While the essential oil fragment (found in seeds and fruits) contains:
 
-D-Carvone, reported to be near 50-60%[4] but elsewhere quantified at 2.47% at the flowering stage (none prior)[10]Dihydrocarvone (cis and trans)[4]Carveol (cis and trans)[4]L and D-Dihydrocarveol[4]Carvacrol[4]Limonene[4] at 3.4-3.7% with one sample (flowering stage) at 10%[10]α-terpinene and γ-terpinene[4]β-Terpineol[4]Terpinene-4-ol[4]Terpinolene (0.06% or less)[10]n-undecane (0.1-0.2%)[10]α-Phellandrene[4] at 26-47% and β-Phellandrene at 7-9%[10]α-pinene at 1.8-2.6% and β-pinene at 0.1-0.3%[10]p-cymene[4] at 5-6.6%[10]Thymol[4] at 0.33-0.35%[10](3R, 4S, 8S)-3,9-epoxy-1-menthene (Dill ether, an odorant)[11]Myristicin at 7.6% at initial growth phases, declining to trace levels at the flowering stages[10] with Apiol (another psychotropic[7]) initially at 4.3% and declining to 0.7%;[10] Dillapiol is also present in the oil[7]The essential oil, found mostly in the fruits and seeds, it is either D-Carvone or Phellandrene isomers (likely higher in phellandrene since those things underlie the characteristic taste of dill). Although the following decline rapidly during plant growth, there appears to be a hallucinogenic/psychotropic component (Myristicin, Apiol, Dillapiol)
+D-Carvone, reported to be near 50-60%[4] but elsewhere quantified at 2.47% at the flowering stage (none prior)[10]Dihydrocarvone (cis and trans)[4]Carveol (cis and trans)[4]L and D-Dihydrocarveol[4]Carvacrol[4]Limonene[4] at 3.4-3.7% with one sample (flowering stage) at 10%[10]α-terpinene and γ-terpinene[4]β-Terpineol[4]Terpinene-4-ol[4]Terpinolene (0.06% or less)[10]n-undecane (0.1-0.2%)[10]α-Phellandrene[4] at 26-47% and β-Phellandrene at 7-9%[10]α-pinene at 1.8-2.6% and β-pinene at 0.1-0.3%[10]p-cymene[4] at 5-6.6%[10]Thymol[4] at 0.33-0.35%[10](3R, 4S, 8S)-3,9-epoxy-1-menthene (Dill ether, an odorant)[11]Myristicin at 7.6% at initial growth phases, declining to trace levels at the flowering stages[10] with Apiol (another psychotropic[7]) initially at 4.3% and declining to 0.7%;[10] Dillapiol is also present in the oil[7]
+The essential oil, found mostly in the fruits and seeds, it is either D-Carvone or Phellandrene isomers (likely higher in phellandrene since those things underlie the characteristic taste of dill). Although the following decline rapidly during plant growth, there appears to be a hallucinogenic/psychotropic component (Myristicin, Apiol, Dillapiol)
+
 
 Dill has a phenolic content of 462.80+/-4.59mg GAE/100g and a flavonoid content of 10.90+/-0.11mg Quercetin equivalents/100g[12] and appears to have a total carotenoid content of around 8.7mg/100g of the leaves;[9] both being very small quantities relative to other herbs.
 
@@ -166,7 +172,9 @@ Cholinergic Neurotransmission
 
 The essential oil of anethum graveolens has been found to inhibit butyrylcholinesterase, with 200μg/mL with the n-hexane extract causing 46.58+/-4.77% inhibition and the dichloromethane extract inhibiting 47.92+/-5.52% of activity;[16] there was no inhibition of acetylcholinesterase with any extract.[16]
 
+
 Possible inhibition of peripheral metabolism of acetylcholine, physiological relevance unknown
+
 
 2.2
 
@@ -182,7 +190,9 @@ Libido
 
 Oral ingestion of 50-450mg/kg Anethum graveolens to rats for two weeks noted that the lowest dosage increased mounting frequency (to around three-fold) after a single dose, but continued dosing was progressively less effective and the higher doses were also less effective.[2]
 
+
 An odd interaction with libido, but the low oral dose and time required to experience an increase in libido enhancement may make for an interesting acute sexual aid
+
 
 3.
 
@@ -202,7 +212,9 @@ A preliminary animal study using anethum graveolens leaves following the removal
 
 Subsequently, 650mg of dill twice daily in persons with high cholesterol for six weeks failed to improve triglycerides (actually causing a 6% nonsignificant increase)[18] a failure which has been seen elsewhere with 600mg daily in persons with metabolic syndrome.[5]
 
+
 A study in animal suggested very potent triglyceride reducing effects of anethum graveolens, but subsequent human studies using standard supplemental dosages have twice failed
+
 
 3.3
 
@@ -248,7 +260,9 @@ The water extract of dill appears to directly scavenge radicals in a DPPH assay 
 
 The water extract can chelate metals by 60% in vitro at a concentration of 400μg/mL[23] which was more effective than the ethanolic or acetone extracts although all were significantly less potent than the reference of EDTA.[23]
 
+
 Possessses both mineral chelating properties as well as antioxidative properties, but in vitro data suggests that it is significantly less potent than the reference drugs
+
 
 7.
 
@@ -262,7 +276,9 @@ In mice subject to pylorus-ligated stomach ulceration, the seeds of anethum grav
 
 Oral ingestion of the seeds also exert protective effects against alcohol induced ulcers (EC50 values of 340g/kg for the water extract and 1.73g/kg for the ethanolic extract) and against HCl induced ulcers (EC50 values of 120mg/kg for the water extract and 1.12g/kg for the ethanolic extract); a potency comparable to sucralfate (100mg/kg) as the reference drug.[24]
 
+
 The seeds of anethum graveolens appear to be able to reduce stomach acidity and may protect the stomach against ulceration
+
 
 7.2
 
@@ -270,7 +286,9 @@ Kidneys
 
 The fruits of anethum graveolens have been noted to have diuretic properties in dogs associated with increased urinary Na+ and Cl- concentrations.[14]
 
+
 Appears to have diuretic properties
+
 
 7.3
 
@@ -292,7 +310,9 @@ Anethum graveolens extracts up to the highest tolerable doses (450mg/kg ethanoli
 
 Via histological examination, it appeared that sperm cells clustered closer and more numerously in the seminiferous tubules which narrowed their diameter slightly.[26] It is thought that dill modifies adhesion factors on the sperm and interferes with sperm-egg interactions.
 
+
 Dill appears to be an anti-fertility drug for males, but at the doses which it is effect it does not appear to reduce serum testosterone nor does it possess toxic effects on the sperm cells or testicles
+
 
 8.2
 
@@ -302,7 +322,9 @@ Dill has been claimed to promote mensturation,[28] which is a traditional claim 
 
 Extracts of dill up to 5g/kg (or in the case of ethanolic, 0.45g/kg; all of which are the highest nontoxic doses[24]) have failed to alter reproductive organ weight in female rats.[25] There were no alterations in serum progesterone, although the chloroform extract reduced estrogen somewhat and prolonged pregnancy (no birth defects resulted).[25]
 
+
 Dill appears to interact with pregnancy, but currently there are no known toxic effects to the fetus or abortions induced from the supplement; the topic requires more research
+
 
 8.3
 
@@ -322,7 +344,9 @@ In mice, injections of the water extract of the seeds appear to have a maximal t
 
 The hydroalcoholic extract of dill appears to possess a NOAEL of 50mg/kg in mice when injected over the course of 45 days, which was due to a decrease in white blood cell count seen with 500-1,000mg/kg;[29] acutely, doses of up to 2,000mg/kg were nontoxic.[29]
 
+
 While the recommended dose of Dill for what is used as a supplement is safe, there is toxicity associated with higher levels of dill and the dosage where toxic effects are seen is low enough to feasibly be overconsumed via food
+
 
 9.2
 

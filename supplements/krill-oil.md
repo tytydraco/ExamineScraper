@@ -106,27 +106,37 @@ Krill oil fatty acids tend to be diacylglycerides (two fatty acids bound to a gl
 
 Fish oil supplementation tends to be triglycerides while Lovaza (brand name) are ethyl esters.
 
+
 Structurally, the fatty acids are bound in phospholipid form. While they confer the same benefits as the fatty acids, there are some differences in the absorption kinetics and the phospholipid itself may also be bioactive
+
 
 The fatty acid breakdown of krill oil appears to be 26.1-30.7% saturated fatty acids, 24.2-25.9% monounsaturated fatty acids, and 34.1-48.5% omega-3 polyunsaturated fatty acids; the final 2.5% consists of omega-6 fatty acids.[8][1] The individual fatty acid breakdown of krill oil (not considering the structural form) is:
 
-Eicosapentaenoic acid (EPA; 20:5 n3) at 19% (fish oil at 27%)[8]Docosahexaenoic acid (DHA; 22:6 n3) at 10.9% (fish oil at 24%)[8]Myristic acid (14:0) at 7.2% (fish oil at 3.2%)[8]Palmitic acid (16:0) at 21.8% (fish oil at 7.8%)[8]Stearic acid (18:0) at 1.3% (fish oil at 2.6%)[8]Arachidonic acid (20:0) at less than 0.1% (fish oil at 0.6%)[8]Behenic acid (22:0) at 0.2% (fish oil at 0.4%)[8]16:1 n7 at 5.4% (fish oil 3.9%)[8]18:1, with n5,7, and 9 collectively 18.3% (fish oil 6.1%)[8]18:3 n3 at 1.0% (fish oil at 0.5%)[8]18:4 n3 at 1.6% (fish oil at 1.9%)[8]Krill oil is high in the two fatty acids commonly said to underlie the benefits of fish oil, although on a per weight basis they appear to be a tad lower than fish oil due to a higher percentage of saturated fats in krill oil; krill oil is low in omega-6 fatty acids and has a respectable monounsaturated fat content which is fairly balanced with the omega-3 and saturated content
+Eicosapentaenoic acid (EPA; 20:5 n3) at 19% (fish oil at 27%)[8]Docosahexaenoic acid (DHA; 22:6 n3) at 10.9% (fish oil at 24%)[8]Myristic acid (14:0) at 7.2% (fish oil at 3.2%)[8]Palmitic acid (16:0) at 21.8% (fish oil at 7.8%)[8]Stearic acid (18:0) at 1.3% (fish oil at 2.6%)[8]Arachidonic acid (20:0) at less than 0.1% (fish oil at 0.6%)[8]Behenic acid (22:0) at 0.2% (fish oil at 0.4%)[8]16:1 n7 at 5.4% (fish oil 3.9%)[8]18:1, with n5,7, and 9 collectively 18.3% (fish oil 6.1%)[8]18:3 n3 at 1.0% (fish oil at 0.5%)[8]18:4 n3 at 1.6% (fish oil at 1.9%)[8]
+Krill oil is high in the two fatty acids commonly said to underlie the benefits of fish oil, although on a per weight basis they appear to be a tad lower than fish oil due to a higher percentage of saturated fats in krill oil; krill oil is low in omega-6 fatty acids and has a respectable monounsaturated fat content which is fairly balanced with the omega-3 and saturated content
+
 
 Of these fatty acids, between 28-58% are bound as phospholipids[5][6] and appear to be mostly phosphatidylcholine (48[5] to 80%[9] of various combinations[10][11]), with some phosphatidylethanolamine (1.5-8%[12][5]) and phosphatidylglycerol (1%[5]); some studies reported a high (21-24%) unidentifiable component[5] which is possibly phosphatidylserine but not confirmed to be so. The overall phosphatidylcholine content has been calculated once to be 34+/-5g per 100g oil.[10] Phosphatidylinositol appears to be negligible.[12]
 
 Some diglycerides are further bound to cholesterol (0.79-4.65% total lipids)[6] and krill oil has been confirmed to not be a source of sphingomyelin like calf brain is.[13][12]
 
+
 Approximately a bit more than half of the fatty acids are bound in the form of phospholipids, with phosphatidylcholine being the most prominent one. Other phospholipids and variants of mono/diacylglycerol molecules are also present, but likely to play minor roles
+
 
 Other components of krill oil that may also confer bioactivity include:
 
-66.1mg of cholesterol has been detected per 100g krill, which is about a third of shrimp but similar to other fish products.[1] Other estimates suggest a range of 17-76.3mg/g in the oil 62.1-72.6mg/100g in the krill itself.[1]Astaxanthin content has been reported[14][15] which is half the 3R,3'R configuration[16][15] and may be esterified (up to 95% of astaxanthin.[16]) Total carotenoids reach 878-1016mcg/g of the oil[17][18] and both β-carotene and vitamin A are negligible (latter at 91mcg/g, former undetectable[17])Vitamin E[19]A novel flavonoid, reported to be similar to 6,8-di-c-glucosylluteolin (secondhand reports)[19][14]There appear to be a phenolic and cholesterol content in krill oil as well, with the astaxanthin content of the oil likely being too low to matter as a supplement itself (ie. the benefits on the astaxanthin page may not apply to orally ingested krill oil)
+66.1mg of cholesterol has been detected per 100g krill, which is about a third of shrimp but similar to other fish products.[1] Other estimates suggest a range of 17-76.3mg/g in the oil 62.1-72.6mg/100g in the krill itself.[1]Astaxanthin content has been reported[14][15] which is half the 3R,3'R configuration[16][15] and may be esterified (up to 95% of astaxanthin.[16]) Total carotenoids reach 878-1016mcg/g of the oil[17][18] and both β-carotene and vitamin A are negligible (latter at 91mcg/g, former undetectable[17])Vitamin E[19]A novel flavonoid, reported to be similar to 6,8-di-c-glucosylluteolin (secondhand reports)[19][14]
+There appear to be a phenolic and cholesterol content in krill oil as well, with the astaxanthin content of the oil likely being too low to matter as a supplement itself (ie. the benefits on the astaxanthin page may not apply to orally ingested krill oil)
+
 
 Fluoride contamination is thought to be an issue with krill oil supplementation as the exoskeletal of krill is very high in naturally occurring fluoride (350mg/100g) and while the tissue is low, upon death fluoride may migrate from the exoskeleton into the meat (up to 9mg/100g has been reported) if the shell is not immediately removed.[1][20][21] This fluoride is well absorbed by mammals,[22] but isn't thought to be a concern with immediate removal of the exoskeleton as over 99% of fluoride is localized there.[20] It is uncertain how or if this is a concern to krill oil supplementation.
 
 There is likely to be low risk of mercury in krill oil sourced EPA and DHA, mainly due to positive correlations between fish size and predatory status with mercury content (putting fish such as shark, albacore tuna, and swordfish high in mercury concentrations with prawn, herring, and small fish lower); however, this does not appear to be directly assessed.
 
+
 There is a logical basis for worry about fluoride contamination, but the exact level of concern towards krill oil supplements is not known. This concern can be heavily alleviated by proper processing and handling practises of krill
+
 
 1.3
 
@@ -146,7 +156,9 @@ Bioavailability
 
 When testing the bioavailability of various forms of fish oils, Krill oil appears to be the most well absorbed. In a study with 1680mg oils, Krill oil elicited an AUC of 80.03+/-34.71% compared to fish oil triglycerides of 59.78+/-36.75% and fish oil ethyl esters at 47.53+/-38.42% (33% better absorbed than fish oil, 68% better absorbed than ethyl esters).[7]
 
+
 Krill oil appears to be better absorbed than fish oil and fish oil ethyl esters
+
 
 2.2
 
@@ -164,7 +176,9 @@ Neuroprotection
 
 Although not directly linked to Krill oil, it appears that supplemental DHA (3% of lipids) in the form of phospholipids (37.2% phosphatidylcholine and 36.6% lyso-PC) appears to have more antioxidative effects in the brains of rats injected with the toxin streptozotocin relative to DHA in triglyceride form (fish oil supplementation).[24]
 
+
 May be more neuroprotective than fish oil supplementation on a gram per gram basis as assessed by its antioxidant effects
+
 
 3.2
 
@@ -180,7 +194,9 @@ Krill oil is thought to confer memory promoting properties due to consisting of 
 
 Phospholipids from krill have been noted to increased performance in a radial maze test in adult rats at 301-420mg/kg EPA+DHA associated with neurogenesis in the dentate gyrus of the hippocampus.[9] This study noted that 100mg/kg EPA+DHA was ineffective.[9] Elsewhere, adult rats of both sexes given krill oil at 1.25% of the diet for six weeks (200mg per rat, or 1,000-1,333mg/kg) noted a cognitive enhancing effect (as assessed by lever discrimination) with mixed antidepressive effects that did not outperform Imipramine.[31]
 
+
 Krill oil is linked to an improvement in memory in adult rats without overt cognitive degeneration, but requires quite a high oral dose for this to occur with the human equivalence exceeding 160mg/kg bodyweight
+
 
 3.4
 
@@ -191,7 +207,9 @@ contractions that underlie cramping.[34] It is though that the fish oil fatty ac
 
 One study has assessed the effects of 2g Krill oil daily over 90 days in women with diagnosed PMS, and found that supplementation caused a time-dependent improvement in all measured symptoms (breast tenderness, bloating, stress, irritability, depression, weight gain, etc.) that outperformed the control of fish oil despite having similar EPA and DHA content.[36] This study noted that both fish oil and krill oil were effective on physical symptoms of bloating, cramping, and weight gain although only krill oil had neural benefit.[36]
 
+
 Fish oil fatty acids in general are thought to alleviate some symptoms of PMS (mostly related to cramping), and while krill oil has once been noted to be effective in this regard it has also reduced neural symptoms of PMS such as irritability and outperformed fish oil
+
 
 4.
 
@@ -223,7 +241,9 @@ In a rat model of rheumatoid arthritis (collagen injections; 0.44% of the diet a
 
 When tested in humans, supplementation of krill oil at 300mg daily for 30 days was able to significantly improve WOMAC ratings in the range of 20.3-28.9% (depending on subscale) in persons with rheumatoid arthritis.[42]
 
+
 May confer benefit to rheumatoid arthritis based on the animal research, which is a mechanism shared with fish oil. It appears to be better than fish oil, but this may simply be due to better absorption (and the difference becoming insignificant with higher fish oil intake relative to krill oil)
+
 
 6.
 
@@ -245,11 +265,15 @@ Liver
 
 Krill oil has been noted to have differential effects relative to fish oil in the liver, where after supplementation of the diet with either krill oil (1.5%) or fish oil (1.1%) with similar EPA+DHA concentrations (0.29-0.31%) noted that Krill oil was able to activate 4,892 analyzed genes (20,118 assessed overall) whereas fish oil activated 192.[46] Both treatments seem to suppress hepatic glucose production, but only krill oil suppressed lipogenic genes (SREBF1, MLXIPL) while the increase in activity of the cholesterol biosynthesis pathway was noted to be a decrease with krill oil.[46] Elsewhere, krill oil has been noted to increase β-oxidation of fatty acids whereas fish oil is ineffective.[47]
 
+
 There is evidence for different effects between Krill oil and fish oil on the liver that extend beyond merely being a better absorbed form of the fatty acids.
+
 
 When a high fat diet is paired with 2.5% krill oil in rats, the increase in overall weight gain and liver weight gain is abolished (1.25% merely attenuates[44]) which is thought to be secondary to a reduction (55%) of citrate influx into the mitochondria and subsequent fatty acid synthesis (related to less Vmax of the transporter) and increase in hepatic fat oxidation (3.4-fold more than high fat control, 2.1-fold more than normal control).[43] This reduced rate of the tricarboxylate transporter has been noted elsewhere, which resulted in a decrease in lipogenesis in the liver.[48]
 
+
 In animals, krill oil has been demonstrated to reduce liver fat accumulation during overfeeding via reducing the rate of a transporter involved in lipogenesis. It appears to do so to a degree greater than fish oil even when fatty acids (EPA and DHA) are controlled
+
 
 7.2
 
@@ -257,5 +281,7 @@ Intestines
 
 5% krill oil in the diet of rats given chemical-induced ulcerative colitis (via dextran sulfate sodium) was able to confer protective effects which were thought to be secondary to reducing inflammatory events.[49]
 
+
 May be of use against ulcerative colitis; has not been directly compared against fish oil (to assess comparative potency)
+
 

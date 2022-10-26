@@ -160,11 +160,15 @@ Mineral Detoxification
 
 Among plants, chlorella vulgaris as a plant is able to bioaccumulate heavy metals (as assessed by hexavalent chromium) to a larger degree than its environment[13] which is a common property for algae in general[14] with chlorella vulgaris being noted to accumulate up to 3,579.01μg/g heavy metal in a medium containing 100μg/mL hexavalent chromium.[13] Other studies assessing the bioaccumulation properties of chlorella species have noted success with accumulating arsenic[15][16] and mercury.[17]
 
+
 When looking in vitro, most algae appears to be able to accumulate metals from their surroundings to a large degree. Chlorella is implicated in this, being able to bioaccumulate heavy metals to a large degree
+
 
 In mice, the chlorella source of parachlorella beijerinckii (CK-5 strain with walls intact) given to pregnant mice at 10% of the diet alongside intentional mercurcy contamination noted that the chlorella group was associated with mildly less mercurcy accumulation in the blood (15%) and brain (13.5%) of the mother with less in blood, brain, liver, and the kidney of the fetus after birth.[11] This enhancement of mercury removal from mice has been noted elsewhere at half the dose (5% of the diet) in as little as 21 days[18] and 100mg acutely (5,400mg/kg; estimated human equivalent of 430mg/kg) alongside a high dose of mercury (5mg/kg) has been noted to increase fecal and urinary mercury elimination in mice relative to control.[19]
 
+
 High doses of a particular strain of chlorella known as parachlorella beijerinckii CK-5 appear to have mouse evidence for increasing mercury removal from the organism following oral ingestion. This requires feasible yet high oral doses, and it is not confirmed if this extends to chlorella vulgaris (the major supplemental form of chlorella)
+
 
 3.
 
@@ -244,7 +248,9 @@ One study that had no control group, but used Chlorella (9g daily; two doses of 
 
 One study investigating the immune system but also measuring anthropometric measures noted that 4 weeks of supplementation of 6g chlorella to otherwise healthy non-obese adult men failed to modify either lean mass or fat mass.[30] This has also been noted with a higher dose (10g) of GABA-rich Chlorella over a period of 12 weeks.[24]
 
+
 Interventions suggest either no effects, or clinically insignificant effects (small magnitude) that disappear with cessation; Chlorella is not apparently anti-obese or pro-fat loss
+
 
 9.
 
@@ -256,7 +262,9 @@ Estrogen
 
 In vitro, Chlorella shows some ability to metabolize more potent estrogens (estradiol) to lesser potent forms such as estrone and an unknown metabolite; unknown if this can occur in vivo .[36] This biodegradation has been noted elsewhere[37] and may extend to other phenolic compounds with structural similarity like Bisphenol-A.[38]
 
+
 Appears to be able to degrade estrogens and xenoestrogens outside of the body, but whether these abilities carry over into the body is unknown (and likely doubtful, as light sensitivity implicates enzymes that may be degraded after digestion)
+
 
 10.
 

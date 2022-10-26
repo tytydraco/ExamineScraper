@@ -80,7 +80,9 @@ Sources
 
 Irvingia Gabonensis is commonly referred to as Bush Mango or African Mango, and belongs to the Irvingiaceae plant family.[1] It is a wild forest tree 15-40m with a bole slightly buttressed, possessing dark green foliage and yellow flowers.[2][3] The fruits of Irvingia Gabonensis, smooth yellow spheres with a hardened endocarp when ripe, possess seeds which are of interst for the usage of food products[4][5] and especially as a soup thickener,[6] pharmaceutical formulations,[7][8][9] and cosmetics.[10] These fruits are sometimes referred to as 'Mangoes' (hence they synonym of African Bush Mango) although they are unrelated, since the true Mango fruits are borne from the plant Mangifera indica of the plant family Anacardiacea; as mangoes sometimes grow in Africa, the differentiation between the two plants becomes important.[11]
 
+
 Irvingia Gabonensis is a plant, and the fruits it bears are sometimes referred to as the 'Mangoes' or 'African Bush Mangoes' despite being unrelated to the true Mango fruit. Although these fruits can be used as food, the seeds in these fruits are used frequently for various purposes
+
 
 1.2
 
@@ -88,15 +90,21 @@ Composition
 
 For its usage as a food, the nutritional breakdown of Irvingia Gabonensis seeds appears to be:
 
-683 calories per 100g[12]10.9+/-0.1% protein by weight (hydrated), being reduced to 8.3+/-0.4% after heat treatment[12]64.2+/-0.6% fatty acids (ether extract), reduced to 63.1+/-0.5% upon heat treatment, with a general range of 54-67%[13][14]15.2+/-0.6% carbohydrate (process of elimination), increased to 17.0+/-0.4% after heat treatment[12]3.4-3.6% crude fiber[12]2.2-2.7% crude ash (mineral content)[12]In general, the seeds are comparatively high in fatty acids with a lower carbohydrate, protein, and dietary fiber content in compensation. Despite the gel-forming properties of irvingia gabonensis (as a soup thickener) the fiber component has not yet been characterized
+683 calories per 100g[12]10.9+/-0.1% protein by weight (hydrated), being reduced to 8.3+/-0.4% after heat treatment[12]64.2+/-0.6% fatty acids (ether extract), reduced to 63.1+/-0.5% upon heat treatment, with a general range of 54-67%[13][14]15.2+/-0.6% carbohydrate (process of elimination), increased to 17.0+/-0.4% after heat treatment[12]3.4-3.6% crude fiber[12]2.2-2.7% crude ash (mineral content)[12]
+In general, the seeds are comparatively high in fatty acids with a lower carbohydrate, protein, and dietary fiber content in compensation. Despite the gel-forming properties of irvingia gabonensis (as a soup thickener) the fiber component has not yet been characterized
+
 
 And in particular the fatty acid content (86.56% saturated, 6.99% monounsaturated, 6.45% polyunsaturated; 3% free fatty acids with the rest as triglycerides[14][15]) can be broken down into:
 
-lauric (39.35%)[14]myristic (20.54%)[14]palmitic (10.39%)[14]stearic (11.46%)[14]arachidic (4.52%)[14]Caprylic (0.05%)[14]Capric (0.25%)[14]Oleic (6.99%)[14]Linolenic (6.44%)[14]Linoleic (0.01%)[14]The fatty acid component, which is the majority of the irvingia gabonensis seed, appears to be highly saturated and mostly medium chain triglycerides (similar to coconut oil although with a lesser content of short chain fatty acids and more long chain fatty acids)
+lauric (39.35%)[14]myristic (20.54%)[14]palmitic (10.39%)[14]stearic (11.46%)[14]arachidic (4.52%)[14]Caprylic (0.05%)[14]Capric (0.25%)[14]Oleic (6.99%)[14]Linolenic (6.44%)[14]Linoleic (0.01%)[14]
+The fatty acid component, which is the majority of the irvingia gabonensis seed, appears to be highly saturated and mostly medium chain triglycerides (similar to coconut oil although with a lesser content of short chain fatty acids and more long chain fatty acids)
+
 
 Beyond the macronutrient profile, Irvingia Gabonensis seeds tend to contain:
 
-Ellagic acid, and methylated derivates thereof as well as their glycosides[11]Ellagitannin structures[11]Quercetin-3-O-rhamnoside[11]Kaempferol-3-O-glucoside[11]Possibly a diosmetin content[11]6.2mg Vitamin C per 100g, reduced to 2.2+/-0.3 after heat treatment[12]3.5-3.8mg Iron per 100g[12]120-127mg Calcium per 100g[12]Other minerals such as Magnesium (429+/-0.3ppm dry weight), Zinc (5.7+/-0.2ppm) and potassium (587+/-0.4ppm)[16]Phytate (1043.6+/-0.2mg/g)[16]In regards to non-caloric bioactives, there do not appear to be any remarkable or unique molecules detected in irvingia gabonensis that are not found in other plants or seeds
+Ellagic acid, and methylated derivates thereof as well as their glycosides[11]Ellagitannin structures[11]Quercetin-3-O-rhamnoside[11]Kaempferol-3-O-glucoside[11]Possibly a diosmetin content[11]6.2mg Vitamin C per 100g, reduced to 2.2+/-0.3 after heat treatment[12]3.5-3.8mg Iron per 100g[12]120-127mg Calcium per 100g[12]Other minerals such as Magnesium (429+/-0.3ppm dry weight), Zinc (5.7+/-0.2ppm) and potassium (587+/-0.4ppm)[16]Phytate (1043.6+/-0.2mg/g)[16]
+In regards to non-caloric bioactives, there do not appear to be any remarkable or unique molecules detected in irvingia gabonensis that are not found in other plants or seeds
+
 
 Relative to other oils derived from seeds, Irvingia seeds are comparatively high in fatty acids.[14]
 
@@ -132,7 +140,9 @@ Decreases in total cholesterol have been noted to be 26.2% over 10 weeks followi
 
 LDL reductions have been noted to be 27.3% after twice-daily consumption of Irvingia at 150mg[20] or thrice daily consumption of 1.05g (3.15g total) which resulted in a decrease of 45.52%.[21] HDL-C was only recorded in the latter study, which was noted to be increased by 46.852%.[21]
 
+
 Currently, both studies have the diet uncontrolled and weight loss may inflate the improvements seen with Irvingia Gabonensis treatment.
+
 
 4.
 
@@ -154,7 +164,9 @@ Mechanisms
 
 In an in vitro assay using 3T3-L1 adipocytes cultured with Irvingia Gabonensis (IGOB131 extract) noted a reduced uptake of triglycerides which reached 80.9+/-0.7% at 250uM as well as suppression of pro-differentiation proteins such as PPARγ, which reduced relative expression to 60% after 12 hours of 50uM treatment and down to 20% after 100-250uM treatment for 24 hours.[22] This study also noted a suppression of leptin synthesis and upregulation of adiponectin synthesis in a dose and time-dependent manner.[22]
 
+
 Possible anti-obesity mechanisms (PPARγ suppression restricts fat cell proliferation and triglyceride uptake) but the observed effects were seen at a high concentration, and may not apply to oral ingestion of irvingia gabonensis
+
 
 5.2
 
@@ -168,7 +180,9 @@ One study simply used nonpatented seed extract (1.05g thrice a day for a month) 
 
 Due to the limited evidence, the only systemic review at this time has concluded that there is insufficient evidence to recommend irvingia gabonensis as a fat loss aid in part due to flaws in reporting of the methodology.[24]
 
+
 Currently, the limited evidence investigating irvingia gabonensis for fat loss is either confounded (by the addition of Cissus quadrangularis or by possible competing interests) or of low metholodigical quality; the role of this supplement as a fat loss agent is currently unsupported
+
 
 6.
 
@@ -180,7 +194,9 @@ Intestines
 
 At least in rodents, ingestion of Irvingia Gabonensis at doses between 100-400mg/kg results in a slowing of gastric and intestinal motility that did not appear to be dose dependent (37.45-40.12% slower transit speed) and appeared to protect mice from castor oil-induced diarrhea.[25] An increase in intestinal liquid was also seen, possibly secondary to soluble fibers in Irvinga Gabonensis (and fecal-forming properties)[25] which also occur ex vivo in any liquid.[6]
 
+
 The properties of Irvingia Gabonensis seeds to act as an emulsifier and add viscosity to liquids may also act in the body, and this soluble fiber-like property may precede various effects of Irvingia such as satiety and digestion
+
 
 6.2
 
@@ -198,5 +214,7 @@ General
 
 The IGOB131 extract of Irvingia Gabonensis given a once daily dose of 100, 1000, or 2500mg/kg bodyweight for the course of 90 days in otherwise healthy rats aged 6-7 weeks, and no abnormalities were noted in body weight or food intake (although at some random time points food intake was significantly decreased with no noticeable trends between doses or time) and no clinically significant side-effects in blood parameters (as those that were statistically significant were small in magnitude and random amongst groups, time, and dose).[18] No abnormalities were noted in organ weight deemed clinically significance, no pathological changes during biopsy, and in vitro cytotoxicity and mutagenicity tested suggested no significant abnormalities at the concentrations tested.[18]
 
+
 Insufficient evidence to draw conclusions, but at this moment in time there do not appear to be any significant side-effects associated with irvingia gabonensis
+
 

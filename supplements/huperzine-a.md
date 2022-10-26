@@ -86,7 +86,9 @@ Neurogenesis
 
 Huperzine-A is able to promote proliferation of hippocampal neural stem cells (NSCs) at a concentration of 1μM for 48 hours (which is more potent than 10-100μM) to 125% of control secondary to activating the ERK pathway,[21] and this neurogenesis was confimed in vivo with injections of 0.2mg/kg of huperzine-A for 4 weeks (about a 25% increase in BrdU stained cells, affecting both newborn and adult mice).[21]
 
+
 Appears to promote neurogenesis in biologically relevant dosages
+
 
 4.
 

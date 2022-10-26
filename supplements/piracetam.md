@@ -164,7 +164,9 @@ Origin
 
 Piracetam (known as (2-oxo-1-pyrrolidine-acetamide) is a synthetic compound of the racetam family, and shares the characteristic 5-carbon oxopyrrolidone ring structure.[1] Piracetam was the first of the racetam family, and developed by UCB Pharma in Belgium,[2][1] and is also known as Nootropyl or UCB6215.[3] It is a nootropic compound, derived from the greek word noos (mind) and tropein (towards); ultimately meaning 'towards the mind'.[4]
 
+
 Synthetic molecule designed to enhance brain function. Piracetam is the basic 'racetam' molecule of a family of related compounds
+
 
 1.2
 
@@ -206,31 +208,42 @@ Interestingly, the aforementioned study divided dementia patients into those wit
 
 Piracetam (and Leviracetam) have been found to antagonize an inhibition of glucose uptake into erythrocytes induced by hypnotic drugs (including Melatonin)[13] which is likely related to membrane fluidity.[14][13] A possible connection between membrane fluidity and glucose consumption exists, although plausible mechanisms also exist for glucose consumption being enhanced downstream of modulating ion currents and action potentials.[1]
 
+
 Overall, Piracetam increases glucose and oxygen consumption in brains which precedes cognitive improvement (as these benefits are global (not favoring certain brain regions) and more significant in cognitively impaired persons, both of which are in accordance with interventions in humans).
 
+
 The exact mechanisms underlying the enhancement of glucose and oxygen consumption are currently not established
+
 
 Influences on neurons may be mediated by positively modulating AMPA-gluatmate receptors, which can increase calcium influx into neurons and increase the density of AMPA receptor binding sites.[15] This mechanism of action is similar to Aniracetam and oxiracetam[15] and like those two, Piracetam does not significantly act on or modulate the other two glutamate receptor subtypes, NMDA and Kainate receptors,[15][1] although 500mg/kg to aged mice for 2 weeks may increase the amount of NMDA receptors expressed.[16] Increased receptor expression has been noted with acetylcholine receptors as well only in aged mice (no effect in youth), suggesting that this is a basic mechanism not unique to glutaminergic receptors.[17]
 
 Piracetam appears to bind to Glu2 and Glu3 subunits of AMPA receptors, of which Aniracetam binds to Glu3 mostly; binding to Glu2 is a unique site for Piracetam.[18]
 
+
 Piracetam shows affinity for two subsets of AMPA (glutamate) receptors, Glu2 and Glu3, and may attenuate the rate of action potentials. It does not appear to directly act upon the other two glutamate receptors (Kainate and NMDA) although the ability of piracetam to possibly increase receptors in general in aged mice may influnce these two receptor classes
+
 
 Piracetam was initially shown to reduce high voltage-dependent calcium influx into neurons[19] has been found to inhibit CAV2.2 calcium channels in some peripheral and central neurons with an IC50 value of 3.4umol/L and a maximal efficacy of 94+/-2% inhibition at 2000umol/L.[20] The effects of Piracetam were independent of a G-Protein Coupled Receptor (GPRC), were reversible, and were not occluded by noradrenaline (which had some additive benefits with Piracetam).[20] These effects were noted in superior cervical ganglion cells (large percentage of CAV2.2 channels) and in CA1 hippocampal neurons, where Piracetam at 10umol/L reduced action potential frequency from 133+/-11% (action potential on regular neurons, with 100% resting levels) to 97+/-10%, excitatory post-synaptic potentials were reduced from 80+/-7% in control to 18+/-5% with Piracetam.[20] These mechanisms are similar to that of Leviracetam.[21]
 
 The authors noted a reduction of resting membrane potential after action potential, and suggested that other ion channels could be getting modified by Piracetam.[20]
 
+
 May interact with Calcium Channels, where it attenuates excessive neuronal firing
+
 
 Piracetam is initially formed via using Gamma-Amino Butyric Acid (GABA) and, after losing a molecule, assuming a cyclical shape.[22] That being said, Piracetam does not appear to interact with GABA receptors.[23][20]
 
+
 No significant interactions with GABA receptors despite its origin being a GABA derivative
+
 
 Piracetam can interact with phospholipid structures due to having high affinity for the polar head of the phospholipid,[24] which may underlie changes (increases) in membrane fluidity[25] that may act in a therapeutic manner, as it had no apparent benefit to membrane fluidity in otherwise healthy young brain slices (independent of species tested).[26]
 
 Membrane fluidity is lessened (rigidity promoting) in instances of oxidative and lipid peroxidative stress, where Piracetam appears to act to normalize fluidity.[27] A normalization of mitochondrial function secondary to preserving fluidity is noted in instances of excessive oxidative stress[14] and perturbed fluidity in the mitochondria is associated with states of cognitive decline.[28][29] As Piracetam is implicated in increasing mitochondrial membrane fluidity in aged brain only[26] and this preservation of mitochondrial membrane potential is associated with improvements in Aß1–42 levels and preserving neurite outgrowth in animals.[30]
 
+
 Appears to preserve membrane fluidity, which may be due to increasing membrane fluidity in states where fluidity is compromised. These benefits correlate better to instances of cognitive improvement in cognitive degeneration than do AMPA or Calcium channel modulation/inhibition
+
 
 Piracetam may enhance glutamate release from neuronal synapses, but this effect has not been established in vivo.[31][23]
 
@@ -244,7 +257,9 @@ One study has noted that, using non-dyslexic persons as a control to test the ef
 
 One study has been conducted on 18 persons aged 50 or above but with no salient signs of cognitive decline, which noted that thrice daily doses of 1600mg (4800mg daily) was associated with general improvement in cognition on a battery of tests, with no specific subset showing a large magnitude of benefit.[34] This study was single blind and lasted 8 weeks, and the blinding may have failed due to the majority of the subjects receiving Piracetam properly guessing so.
 
+
 In young and otherwise healthy adults, some (quite weak) cognitive enhancement is apparent. These benefits are more pronounced in populations where cognitive impairment may not be present but optimal cognition is likely not present either (such as 'organic' cognitive decline associated with healthy aging)
+
 
 A meta-analysis on Piracetam assessing 19 double-blind trials noted a significant benefit associated with Piracetam when it came to persons with some manner of cognitive ailment.[35] This study built of a 1997 Cochrane Meta-Analysis that assessed 5 studies and found benefit with an Odds Ratio of 2.89 (95% CI of 1.01-8.24) barely showing statistical significance with limited studies,[36] and noted that when assessing 19 studies that met the inclusion criteria of double-blind and parallel studies (54 in total, excluding 35 including cross-over) noted that in 1,488 persons the Odds Ratio for improvement with Piracetam over Placebo was 3.35 (95% CI of 2.70-4.17) using fixed effects model, and a similar OR and CI were noted for Mantel Haenszel and random effects model.[35] Excluding the two most statistically influencing studies (one of which is located online[37]) reduce the OR to 2.50 (95% CI 1.96-3.17).[35] Numerically, this meta-analysis concluded that the amount of people reporting improvement is 112% higher (60.9% in piracetam and 32.5% in placebo) with piracetam relative to placebo and no effects on cognitive or worsening thereof is reduced 34.4-37.9% relative to placebo (magnitude of improvement not assessed due to hetergeneity of the data).[35]
 
@@ -252,7 +267,9 @@ This aforemented Meta-Analysis excluded 3 double-blind trials (only one of which
 
 In a self-report survey from outpatients of cerebrovascular disorders, Piracetam showed a modest memory improvement,[44][1] a much greater response was seen in in vivo models of traumatic brain injury.[45]
 
+
 There appears to be sufficient evidence to indicate that an improvement in cognitive function exists in persons with degenerating cognitive function. Lots of studies not published online or otherwise just presented at symposiums, however, Piracetam may have slightly more benefit in instances of neural trauma when compared to its benefits in organic cognitive decline
+
 
 3.3
 
@@ -262,7 +279,9 @@ One review exists on Dyslexia in particular when it comes to Piracetam[46] where
 
 When dyslexic studients are given Piracetam and paired against otherwise healthy peers, a greater increase appears to be apparent with Dyslexic students (15% more than placebo) than with non-dyslexic counterparts (8.6% more than placebo) over a period of 21 days.[33]
 
+
 Is associated with improvements to verbal learning and performance in Dyslexics
+
 
 3.4
 
@@ -290,7 +309,9 @@ Piracetam shows promise in alleviating damage done from strokes in animal models
 
 One study on ischemic cerebrovascular disease in persons suffering from aphasia (impairment of language ability, in this case due to brain hypoxia) using 4.8g Piracetam daily for 6 months after stroke noted that, after assessment via the GAT, NIHSS, mRS and BI rating scales, that while there was significant improvement in regards to auditory comprehension there was no significant influence on the other measured parameters of spontaneous speech, reading fluency, reading comprehension, repetition, and naming when compared to placebo.[55] These null results are in contrast to previous research, where 6 weeks of 4800mg Piracetam was associated with improvements in 6 languages tests whereas placebo only improved in three,[56] and one other study assessing brain waves which suggested improvements.[57]
 
+
 Mixed evidence on the benefits of Piracetam on recovery of language function after Stroke, with either significant improvement existing or minor trends towards improvement
+
 
 3.7
 
@@ -298,7 +319,9 @@ Dependence
 
 One study assessing the effects of 4.8g Piracetam on whether or not it could reduce Cocaine dependence found that, after 10 weeks, the Piracetam group was associated with more Cocaine use than placebo and was rated as worse than both placebo and the other tested group, Ginkgo Biloba, which had no effect.[58]
 
+
 The lone study assessing cocaine dependence has noted an increased dependency of cocaine dependence associated with Piracetam usage
+
 
 3.8
 
@@ -306,7 +329,9 @@ Analgesia
 
 Piracetam appears to have analgesic properties in response to acute inflammatory hyperalgesia at 30-300mg/kg oral intake (in rats) an hour prior to testing, with dose-dependent reductions in pain reaching up to 41% inhibition of acetic acid induced writhing.[59] These benefits were thought to be secondary to the antiinflammatory properties of Piracetam.[59]
 
+
 There appears to be analgesic properties against acute inflammatory pain
+
 
 3.9
 
@@ -324,7 +349,9 @@ Piracetam is tested for alleviating BHS in children. One study of 40 children (5
 
 These studies do not seem to report any significant difference between cyanotic or pallid BHS symptoms, benefitting both to equal degrees.[64][65] Some case studies suggest this may extend to Leviracetam, another Racetam compound.[67] Additionally, in these studies on children, the doses (50-100mg/kg bodyweight) used for the specified durations are not associated with any observed side effects.[64][65][66]
 
+
 Piracetam appears to be highly effective and safe in the treatment of Breath Holding Spells (BHSs) in children, and has not been associated with toxic effects at the dose range of 40-100mg/kg bodyweight
+
 
 3.11
 
@@ -352,7 +379,9 @@ Mechanisms underlying these effects are somewhat elusive, and at least one study
 
 In hyperactive disorders (acute stroke, Type II Diabetes, Raynaud's phenomenon), a normalization of platelet function occurs.[73][74] One possibility is the rheological effects of Piracetam (increasing membrane fluidity) normalizing cell function, but other possibilities that have not been excluded are reducing the sensitivity of platelets to ADP or inhibition of Thromboxane A2 synthesis (a proinflammatory prostaglandin).[71][72]
 
+
 Appears to inhibit blood clotting at doses in the higher range for those used in cognitive enhancement (4.8g or above), with the mechanisms currently unknown
+
 
 4.2
 
@@ -362,7 +391,9 @@ One large intervention that was comparative between Piracetam at 4.8g (1600mg th
 
 4.8g daily (in three doses of 1.6g) appears to be optimal due to peak efficacy at 1-4 hours post consumption and declining efficacy 8-12 hours after consumption.[72]
 
+
 May be effective as prophylaxis after strokes to maintain blood flow, with one study suggesting no significant differences when compared to Aspirin (commonly the first choice for prophylaxis after stroke)
+
 
 5.
 
@@ -376,7 +407,9 @@ It is known that mediators in the inflammatory pain response (hyperalgesia) are 
 
 Oral ingestion of 30-300mg/kg Piracetam to rats prior to inflammatory stimuli (carrageenin) was able to reduce myeloperoxidase (MPO) activity at 100mg/kg, and this effect was replicated with localized treatment.[59] When looking at mechanisms, it appears that piracetam failed to reduce TNF-α levels in serum but prevented TNF-α from inducing secretion of IL-1β and MPO and reducing prooxidative changes.[59]
 
+
 Piracetam appears to prevent TNF-α from causing an inflammatory response, which underlies the pain reducing effects of Piracetam by preserving intracellular oxidant status
+
 
 6.
 
@@ -404,7 +437,9 @@ One study in chicks that injected Piracetam noted an increase in corticosterone,
 
 This inhibition of actions applies to most basic racetam compounds including Aniracetam, Oxiracetam, and Pramiracetam.[89][84][88]
 
+
 Corticosteroids and Aldosterone are critical for the memory enhancing effects of Piracetam, probably via the Mineralocorticoid Type I receptor; excessive levels of either hormone abolish the benefits in a similar manner as does no circulating levels
+
 
 8.
 
@@ -420,7 +455,9 @@ In a few animal models, choline supplementation has been noted to increase the m
 
 These studies on Piracetam and choline synergism have not been tested in humans.
 
+
 May augment the relatively poor memory enhancing effects of Piracetam in otherwise healthy animals, but administration of choline alongside Piracetam is not a prerequisite to its efficacy and has not been tested in humans
+
 
 8.2
 
@@ -428,7 +465,9 @@ Alcohol
 
 Chronic alcohol consumption is related to build-up of lipofuscin in brain tissue[96] of which piracetam has been implicated in reversing (both in rats)[97] after cessation of alcohol and treatment of piracetam. Piracetam is also implicated in increasing synaptic reorganization[98] and alleviating further loss of neurons after alcoholism.[97]
 
+
 May attenuate some pathology associated with excessive alcohol consumption (alcoholism)
+
 
 8.3
 
@@ -436,7 +475,9 @@ Cinnarizine
 
 Cinnarizine is an anti-histamine used for motion sickness and that is sometimes combined with Piracetam as a combination product called Fezam (Phezam) or Omaron.[99][100] It is touted that the ingredients are synergistic with each other in regards to increasing cerebral oxygenation, although the synergism has not been shown experimentally. Both compounds in isolation are effective at preventing hypoxia-related damages however.[101][102]
 
+
 Said to be synergistic, this has not yet been demonstrated
+
 
 8.4
 
@@ -444,7 +485,9 @@ Morin
 
 Morin is a flavonoid compound found in Maclura pomifera (Osage Orange), tinctoria (Old Fustic), Morus Alba, and Psidium guajava (Guava) that serves as an inhibitor of CYP3A4 and P-Gyp. A 10mg/kg Morin pretreatment for a period of 7 days in rats was able to increase the AUC of a 50mg/kg Piracetam dose 1.5 and increase its Cmax by 1.45, but acute Morin ingestion failed to mimic these results.[103] The authors suggested that a Morin-rich diet could influence pharmacokinetics of Piracetam.
 
+
 May increase apparent bioavailability when measured in serum due to enzyme inhibition
+
 
 9.
 
@@ -480,7 +523,9 @@ Adverse effects, although rare and of short duration[1] are limited to anxiety, 
 
 In animal models (rodents, dogs, and marmoset), an LD50 failed to be established at the dosage of 8-10g/kg bodyweight in those three species.[23][107]
 
+
 Piracetam appears to be quite non-toxic at common doses used, and a few studies exceeding recommended dose (4.8g daily) fail to find toxicity associated with Piracetam
+
 
 In general, racetams (usually referring to Class I racetams; Pi-, Ani-, and Oxi-) are said to have little side effects and low toxicity rates at commonly used dosages and up to 12g for up to 8 weeks.[23][108][109] However, a possibility for adverse drug-drug interactions persists for Piracetam due to it interacting with blood in an anti-clotting manner (and such, caution should be taken when pairing Piracetam with pharmaceutical blood thinning agents such as Warfarin or potent nutraceutical options).
 

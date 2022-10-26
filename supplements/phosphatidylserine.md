@@ -108,7 +108,9 @@ Structure
 
 Phosphatidylserine (PS) is a structure somewhat similar to a triacylglyceride (storage form of dietary fat), but with two fatty acids (diacylglyceride) with the final bonding site on glycerol occupied by a phosphatadic acid molecule and serine amino acid. Various compounds may be called phosphatidylserine given they have that one serine containing group; the other two fatty acid chains are irrelevant to the naming, but not necessarily the function, and may differ depending on source.
 
+
 Phosphatidylserine is a triglyceride structure with one fatty acid replaced with a phosphatic acid and a serine amino acid, and is a phospholipid structure due to this
+
 
 1.3
 
@@ -126,11 +128,15 @@ Variants and Formulations
 
 The first source of supplemental phosphatidylserine was that from the bovine cortex, and while on a molecular level and for some practises there are no significant differences between bovine cortex and soy lecithin based phosphatidylserine[14][15] the reduction in cortisol seen with bovine cortex PS injections[16] and oral supplementation[17] does not appear to occur with soy lecithin based PS when orally supplemented.[18][18]
 
+
 Relative to the commonly supplemented soy lecithin based phosphatidylserine, the PS derived from bovine brain tissue is structurally the same yet implicated in reducing cortisol (maybe due to other compounds in the extract), but the bovine brain derived PS is no longer used due to concerns over Creutzfeldt–Jakob disease
+
 
 Phosphatidylserine has recently started to be extracted from sunflower oil, and at this moment in time there do not appear to be much research into its effects in living organisms nor a known reason to supplement over soy lecithin based phosphatidylserine.
 
+
 There is currently a lack of information on phosphatidylserine sourced from sunflower oil
+
 
 2.
 
@@ -146,7 +152,9 @@ Other studies in children with ADHD have noted promise when pairing PS with fish
 
 In otherwise healthy young adults given 400mg PS for 2 weeks, a significant improvement in processing speed (20%) and accuracy (13% more correct responses, 39% less wrong responses) pre-exercise (but not post-exercise) is noted relative to placebo and independent of mood state.[18]
 
+
 Phosphatidylserine appears to promote attention and reduce symptoms of ADHD, and when the phosphatidylserine molecule contains the fish oil fatty acids then it may promote attention to an even greater degree
+
 
 2.2
 
@@ -156,9 +164,12 @@ Stress has been noted to be reduced with doses as low as 60mg in otherwise healt
 
 Using cortisol as a biomarker, stress levels during cognitive testing appear to be unaffected despite improvement in performance[18] and some studies in healthy individuals fail to find any salient effect.[28] Regardless, studies that measure heart rate changes during stress fail to find a significant influence of supplementation.[25][26][28]
 
+
 Phosphatidylserine supplementation appears to exert anti-stress effects in otherwise healthy persons without stress disorders following prolonged supplementation, and this appears to possibly be independent of the classical biomarkers of stress reduction (cortisol, heart rate)
 
+
 The anti-stress effect appears to be somewhat different than other supplements and not 100% reliable, and it is uncertain how phosphatidylserine is doing this. It does, however, appear to extend to both soy lecithin based and bovine cortex based phosphatidylserine
+
 
 2.3
 
@@ -180,7 +191,9 @@ In studies assessing cognitive decline in Alzheimer's via the MMSE, there appear
 
 In other cognitive disease states, persons with Parkinson's disease given bovine cerebral phosphatidylserine note some degree of improvement on EEG parameters[40] and in general dementia 300mg of bovine cortex phosphatidylserine has noted some degree of benefit within 3 weeks of a 6 week trial[41] and has improved memory and depressive symptoms in persons suffering from geriatric depression.[42]
 
+
 In persons with age-related cognitive decline associated with pathology, there appears to be a large body of evidence to support the role of bovine cortex phosphatidylserine in alleviating symptoms at 300mg daily. However, there is a lack of evidence to support the role of soy lecithin-based phosphatidylserine in this role and some suspicion that it may not be as effective
+
 
 2.5
 
@@ -190,7 +203,9 @@ PS supplementation has been implicated in increased spatial memory in aged rats 
 
 Studies in non-aged rats (to establish a nootropic effect rather than cognitive rehabilitative effect) using 50mg/kg bodyweight for 27 days was able to significantly enhance brightness discrimination (indicative of memory formation) without significantly affecting anxiety or depressive symptoms.[45]
 
+
 There appears to be a memory promoting effect of phosphatidylserine supplementation in rats that occurs in cognitively damaged models, aged rat models, and young rats as well; the dosage used in these rat studies is higher than usual (around 500mg for a non-obese human) but not unfeasibly high
+
 
 The first report of cognitive improvment in elderly humans with aging associated mental impairment (non-pathological) was 3 months of 300mg soy-based phosphatidylserine (PS), in which scores on the Wechsler Memory test improved with particular improvement in visual memory;[46] this was later replicated with 300mg PS over 12 weeks[47] and two studies have noted that PS supplementation appears to aid in face recognition in elderly persons at this dose.[47][48]
 
@@ -198,7 +213,9 @@ Other studies note that 100 or 300mg daily for 6 months has failed to outperform
 
 In studies that assess more quantifiable parameters, supplementation of PS (where fish oil fatty acids were added to the structure) reported an improvement in immediate word recall by 42% in elderly subjects.[55]
 
+
 In healthy elderly adults, there appears to be benefit associated with long term supplementation of phosphatidylserine which seems to be more catered towards preventing dementia; benefits to practical cognition, such as working memory and cognition in everyday situations (or at least rating scales thought to be indicative of this), seems somewhat mixed and may be restricted to PS complexed with fish oils
+
 
 3.
 
@@ -230,7 +247,9 @@ Studies using soy lecithin-derived phosphatidylserine noted that 400mg PS delive
 
 This apparent discrepancy appears to be either due to other molecules that may coexist with bovine cortex but not soy lecithin (eg. sphingomyelin) or the fatty acids bound to the glycerol backbone in the relative sources.
 
+
 Phosphatidylserine derived from the bovine cortex appears to reduce cortisol in high concentrations, there is no evidence to support the role of soy based phosphatidylserine in this role and evidence to actively disprove an ability of PS to suppress cortisol or ACTH
+
 
 5.
 
@@ -258,7 +277,9 @@ Ginkgo Biloba
 
 Ginkgo biloba is a cognitive enhancing herb, with at least one study noted that despite inefficacy with 120mg of ginkgo that complexing this herb with phosphatidylserine results in enhanced memory, with a degree greater than that seen with ginkgo complexed with phosphatidylcholine (which also outperformend ginkgo in isolation).[59]
 
+
 Further testing is required, but the two agents may be synergistic
+
 
 6.
 

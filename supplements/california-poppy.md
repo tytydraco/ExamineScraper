@@ -98,7 +98,9 @@ One study combining California Poppy with Crataegus oxyacantha in 264 patients w
 
 Animal studies on anxiety with California Poppy (aqueous extract) show benefit with 25mg/kg daily.[9] 200mg/kg of a 60% aqueous extract (injections) appears to have anxiolytic properties in animals as well with nonsignificantly different potency when compared to 2mg/kg Midozolam (although it trended to be weaker).[10]
 
+
 Appears to have moderate to weak anti-anxiety actions, but insufficient human testing (only current study is confounded with the inclusion of another herb)
+
 
 3.2
 
@@ -120,7 +122,9 @@ Serotonin
 
 A 70% ethanolic extract of California Poppy (1.82% alkaloids) was able to bind to both 5-HT1A and 5-HT7 receptors in vitro at 100mcg/mL.[3] Specifically, when the 70% ethanolic extract was incubated at 9mcg/mL, it showed inhibition of 64 +/-4% of 5-HT1A receptors and inhibition of 76 +/-1% of 5-HT7 receptors. Binding on the 5-HT1A was mostly due to N-methyllaurotetanine since it alone showed an EC50 of 160+/-10nM and a Ki of 0.085 ± 0.001uM in preventing binding of 8-OH-DPAT to this receptor.[3]
 
+
 Highly potent interactions at the level of the receptor with the ethanolic extract, but it is not known whether this is an agonist (activator) or antagonist (inactivator), or whether it is biologically relevant
+
 
 3.5
 

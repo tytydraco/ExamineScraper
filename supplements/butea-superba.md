@@ -72,13 +72,17 @@ Sources
 
 Butea Superba is one of three herbs with the designation of 'Kwao Krua' in traditional Thai medicine, and is more specifically called 'Red Kwao Krua' with the other relevant herbs being 'White' Kwao Krua (Pueraria Mirifica) and 'Black' Kwao Krua (Mucuna collettii); Butea Superba is visually similar to Pueraria Mirifica.[1]
 
+
 Butea Superba is a tuber vegetable that has been used for male vitality purposes in Thailand
+
 
 1.2
 
 Composition
 
-Butesuperin A and B[2]Medicarpin,[3] also found in Butea monospermaFormononetin and Prunetin (isoflavones)[3]3,7,3'Trihydroxy-4'-methoxyflavone and its glycoside[4]3,5,7,3',4'-pentahydroxy-8-methoxy-flavonol and its glycoside[5]Soy isoflavones Daidzein and Genistein, as well as Coumestrol[2]Procyanidin B2 and B5, as well as the constituent (-)-epicatechin[6]A few components are known, but the active component is not currently known
+Butesuperin A and B[2]Medicarpin,[3] also found in Butea monospermaFormononetin and Prunetin (isoflavones)[3]3,7,3'Trihydroxy-4'-methoxyflavone and its glycoside[4]3,5,7,3',4'-pentahydroxy-8-methoxy-flavonol and its glycoside[5]Soy isoflavones Daidzein and Genistein, as well as Coumestrol[2]Procyanidin B2 and B5, as well as the constituent (-)-epicatechin[6]
+A few components are known, but the active component is not currently known
+
 
 2.
 
@@ -100,7 +104,9 @@ Acetylcholine
 
 In a screening study of Thai herbs, Butea Superba at 0.1mg/mL was able to inhibit acetylcholineasterase in the range of 50-65%, underperforming relative to Tabernaemontana divaricata and Stephania suberosa; all herbs underperformed relative to Galantamine as active control.[8]
 
+
 May inhibit acetylcholinesterase (and increase acetylcholine as a response) although it underperformed relative to other herbs as well as the active control of Galantamine
+
 
 4.
 
@@ -114,13 +120,17 @@ Butea Superba has been noted to enhance penile erection in rats at a concentrati
 
 Butea Superba ethanolic stem extract at 50mcg/mL in vitro was shown to inhibit ROCK-II by 51.83%, with the successive aqueous extract inhibiting 34.85%;[12] this outperformed herbs such as Sphaeranthus Indicus (22.4% and 36.77%, respectively), Chlorophytum Borivilianum (4.11% and 40.54%) and Tribulus Terrestris (20.48% and 10.83%) but greatly underperformed relative to Syzygium Cumini (87.27% and 89.67%) and Terminalia chebula (87.55% and 86.83%).[12]
 
+
 Has mechanisms to induce penile relaxation
+
 
 One study in persons with erectile dysfunction using the basic tuber extract at 500mg for a period of 3 months noted that there were improvements in sexual function as reported by IIEF-5 with 82.4% of patients (n=17 overall) reporting either fair or excellent improvement from baseline.[13] This study is highly limited, if not downgraded in importance from double-blind to pilot, as the entire placebo condition dropped out.[13]
 
 In an open-label trial for persons taking 100mg of Butea Superba noted that the proerectile effects of the herb, when taken 1-2 hours before sex, was comparable to the active control of Viagra; when the study was conducted in a double-blind manner using a different batch of Butea Superba, these effects failed to be replicated.[11] The authors noted a higher degree of variation between batches, and stated that blending of PDE5 inhibitors in the first batch caused a false positive.[11]
 
+
 Preliminary evidence to support the usage of Butea Superba for the use of erectile dysfunction, but literally the entire placebo group dropped out of the first study and the second appears to have faulty product used (with much less remarkable results coming from the later batch)
+
 
 4.2
 
@@ -138,13 +148,17 @@ Testosterone
 
 One study hypothesized that Butea Superba has direct androgenic effects, as evidenced by 150-200mg/kg of the root powder causing a dose-dependent decrease in serum testosterone paired with side-effects commonly associated with androgenicity (increased serum ALP and AST; increased spleen weight).[15] These androgenic effects were replicated in female mice.[16]
 
+
 Limited evidence in support of it, but there is some evidence to suggest that components of Butea Superba have direct androgenic actions
+
 
 In rats, Butea Superba at oral doses of 10, 50, or 250mg/kg daily for 8 weeks failed to influence circulating testosterone levels[17] although another study noted a dose-dependent decrease above 250mg/kg.[15] When tested in humans, in a sample of persons with erectile dysfunction an increase from 2.751.40ng/mg to 3.061.37ng/mg (11.2%) was observed but deemed to be not statistically significant.[13] 
 
 At least one case study has noted a case of hyperandrogenemia associated with Butea Superba supplementation, where a 35 year old man took Butea Superba (unreported dosage) for 'a few weeks' for the purposes of hair regrowth and upon clinical examination his serum DHT was 1512pg/mL (152% of the maximum possible value in the normal range), 328ug/mL DHEAS, 1.7% free testosterone and 43.24pg/mL SHBG.[18] Upon cessation of the herb, DHT and sexual desire normalized at 1 week followup.
 
+
 Highly unreliable effects on circulating testosterone, with decreases (thought to be secondary to androgenic phytonutrients) and increases (reason unknown) both being reported
+
 
 5.2
 
@@ -152,7 +166,9 @@ Estrogen
 
 One study noted that there are some weak phytoestrogens (one pterocarpan and isoflavones) contained in Butea Superba with a relative potency (relative to 17β-estradiol) ranging from 5.27-15.5%.[19] Other components (currently unknown) in the extracts of Butea Superba appear to have anti-estrogenic effects against 17β-estradiol when coincubated.[19]
 
+
 Potential estrogenic and antiestrogenic effects depending on cellular context, practical significance not known
+
 
 5.3
 
@@ -172,5 +188,7 @@ Oral intakes of 1250mg/kg of the tuber to rats for 8 weeks has failed to exert t
 
 It has been noted that consumption of high doses of Butea Superba (300mg/kg in rats; human dose of 48mg/kg) may exert genotoxic effects despite lower doses being free from toxicity.[20] This has been noted elsewhere with 1000mg/kg but not 200mg/kg.[21]
 
+
 Limited evidence all around, but it appears to be safe at low doses (those that seem to be used in nutritional supplementation) although it appears to be mutagenic (causing mutations) at higher doses
+
 

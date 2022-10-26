@@ -74,7 +74,9 @@ Pygeum is a term used to refer to the bark of Prunus africanum (sometimes referr
 
 It is marketed in Italy (Pigenil) and France (Tadenan), with the latter being a combination product with Saw Palmetto in a 4:1 ratio to Pygeum bark. Pygeum appears to have a history of usage as Tadenan against Benign prostatic hyperplasia.[5]
 
+
 Pygeum is derived from the tree bark of the african cherry tree, and has relatively recent usage against benign prostatic hyperplasia but originates from traditional african medicine
+
 
 1.2
 
@@ -82,7 +84,9 @@ Composition
 
 The bark of Pygeum tends to contain
 
-N-butylbenzenesulfonamide[6]Atraric acid[7]β-sitosterol (349-583mg/kg)[6][8] as well as β-sitostenone at 116–260 mg/kg[8]Fatty acids of mostly linoleic acid (30.6%), palmitic (28.3%), oleic (24.90%), and stearic (10.58%) with trace linolenic, lauric, and myristic acids[9]Docosanol[10] at 10-28mg/kg dry weight[8]Behenic acid, ursolic acid (highly variable at 317-2000mg/kg),[8] and lignoceric acid[10]Ferulic acid[11] at 30-90mg/kg[8]Friedelin may[12] or may not[8] be detectable above 7mg/kgThe bioactives are mostly thought to be fatty acids, and although the main bioactives are not currently known they are suspected to be the antiandrogenic N-butylbenzenesulfonamide and Atraric acid
+N-butylbenzenesulfonamide[6]Atraric acid[7]β-sitosterol (349-583mg/kg)[6][8] as well as β-sitostenone at 116–260 mg/kg[8]Fatty acids of mostly linoleic acid (30.6%), palmitic (28.3%), oleic (24.90%), and stearic (10.58%) with trace linolenic, lauric, and myristic acids[9]Docosanol[10] at 10-28mg/kg dry weight[8]Behenic acid, ursolic acid (highly variable at 317-2000mg/kg),[8] and lignoceric acid[10]Ferulic acid[11] at 30-90mg/kg[8]Friedelin may[12] or may not[8] be detectable above 7mg/kg
+The bioactives are mostly thought to be fatty acids, and although the main bioactives are not currently known they are suspected to be the antiandrogenic N-butylbenzenesulfonamide and Atraric acid
+
 
 2.
 
@@ -116,7 +120,9 @@ Atraric acid has an IC50 value around 3μM while it exerts no significant inhibi
 
 Testosterone binding was not tested,[15] although androgen receptor blockers should also hinder the signalling of testosterone.
 
+
 Compounds in Pygeum appear to be androgen receptor \_antagonist\_s, which reduce signalling via the androgen receptor, and appears to be seemingly potent at this in vitro
+
 
 3.2
 
@@ -126,7 +132,9 @@ In a mouse uterine cytosol (competitive ligand binding assay), Pygeum extract ha
 
 When investigating the two molecules known to have anti-androgenic effects, N-butylbenzenesulfonamide failed to activate the estogen receptor at the concentrations required to inhibit 90% of androgen receptor activity; at 10-fold higher concentrations, atraric acid had slight estrogenic effects.[17][20][16]
 
+
 It is possible that Pygeum has a phytoestrogenic potential that interferes with estrogen signalling (which would establish it as a selective estrogen receptor modulator or SERM) but this is not fully elucidated or established in a living model
+
 
 4.
 
@@ -152,7 +160,9 @@ One study comparing the efficacy of Pygeum extract on prostatic tissue (obtained
 
 These anti-proliferative effects have been confirmed in a human (n=1) during a preliminary assessment, where myofibroblast proliferation was reduced although there was no apparent effect on the prostatic epithelial cell line PNT2.[26]
 
+
 Mechanistically, Pygeum may reduce prostatic cell proliferation and appears to be slightly more effective in cells undergoing benigin hyperplasia. Pygeum has been noted to interfere with prostatic growth factors
+
 
 In regards to prostatic hyperplasia, a 2002 Cochrane meta-analysis[27] was able to note 18 trials comparing Pygeum (17 of which to placebo control) with no comparison against reference drugs; overall, the analysis of studies meeting inclusion criteria (minimal due to lack of extractable data, reducing the total sample of 1562 down to 430) noted that Pygeum was associated with a 19% reduction in nocturia that was not statistically significant (3 trials assessed with an effect size of -0.9 and 95% CI of -2.0 to 0.1), 24% improvement in residual urine volume (2 trials; effect size of 2.5 with a 95% CI of 0.3-5.0), and 23% increase in peak urine flow (4 trials; effect size of -13 with a 95% CI of -23 to -3).[27] Symptoms of benign prostatic hyperplasia, as assessed by physician, were reduced in the Pygeum group relative to placebo (5 trials assessed, 64% of patients reporting an improvement in symptoms in Pygeum relative to 30% in placebo);[27][28] this meta-analysis is duplicated in Medline.[29]
 
@@ -160,9 +170,12 @@ Beyond the meta-analysis, a trial using 25mg Pygeum (confounded with the inclusi
 
 One trial using 50mg of Pygeum extract twice daily for 2 months in an open-label trial has noted that treatment with Pygeum is associated with reduced symptoms of Benign prostatic hyperplasia (40% reduction) and concomitant improvements in self-reported quality of life (32% improvement, although more variable) and reduction in nocturia (32%);[32] This trial did not have a placebo control,[32] and a subsequent study that was blinded but comparing 50mg twice daily against 100mg Pygeum daily for 2 months found that both were effective to similar degrees in reducing symptoms of benign prostatic hyperplasia and appeared to retain efficacy when held at the same dose over 10 months of an open-label follow-up period.[33]
 
+
 There 'appears' to be a great deal of evidence as assessed by the meta-analysis mentioned previously, but a good deal of this evidence is not located online and appears to be intertwined with European usage of Pygeum as a phytopharmaceutical against Benign prostatic hyperplasia
 
+
 When looking at the evidence in Pubmed, 50-100mg Pygeum supplementation daily is not clearly associated with beneficial effects on symptoms associated with benign prostatic hyperplasia
+
 
 5.2
 

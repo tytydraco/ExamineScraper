@@ -92,7 +92,9 @@ Foods that have had their molybdenum content estimated include:
 
 Peanuts at 20.65µg/100g[3] and peanut butter at 8.42µg/100g[3]Black rice at 4.7µg/100g with lower levels in glutinous rice (3.7µg/100g) and milled rice (2.7µg/100g)[3]Rice cereals (category) at around 2.7µg/100g[3]Legumes (category) averaging 2.3µg/100g,[3] although the highest levels can be found in black soybeans (Seoritae; 32.7µg/100g while sprouts have 6.48µg/100g) and mungbeans (26.7µg/100g, only 2.16µg/100g in the sprout); processed soybean products seem to have low molybdenum content[3]Pumpkin seeds at 11.96µg/100g;[3] lower contents can be found in other seeds such as sesame (2.04-4.60µg/100g), sunflower (2.73µg/100g), pine nuts (0.76µg/100g), and perilla seeds (2.5µg/100g)[3]Garlic (bulb) at 2.53µg/100g[3]Parlsey at 2.98µg/100g[3]Crown daisy at 2.00µg/100g[3]Chinese chive at 2.18µg/100g[3]Laver (seaweed) at 2.89-6.29µg/100g[3]Oyster at 1.55µg/100g[3]Cocoa extract at 2.80µg/100g[3]Egg yolk of eggs from chickens at 0.91µg/100g[3]Cow's milk at 0.37µg/100g, with lower contents for low fat[3]As a general statement most meats, vegetables, and fruits tend to have low levels of molybdenum (0.50µg/100g or less).[3] Drinking water can also be considered a source of molybdenum.[4] Ground and well water can have varying concentrations depending on the soil that the water runs through,[5] and it seems that intake of molybdenum from drinking water (US study) generally does not exceed 20µg each day.[5][6] This provides about half of the molybdenum's recommended daily allowance.[7]
 
+
 Molybdenum is found in significant concentrations in certain grain and legume products including breads and beans, with a high level in peanuts as well. Molybdenum is naturally low in many vegetables, and most fruits and animal products. It is present in the water supply at a satisfactory concentration, generally providing almost half of the RDI by water alone since requirements for the mineral are low.
+
 
 1.2
 
@@ -104,7 +106,9 @@ While molybdenum was initially given the status of essential mineral due to bein
 
 Molybdenum is used by the above enzymes in a form bound to an organic ligand known as molybdopterin. Together, molybdenum and molybdopterin form the complex known as the molybdenum cofactor, which plays a critical role in the active site of these enzymes by[17] by catalyzing the transfer of an oxygen in a two-electron reaction.[18]
 
+
 Molybdenum is an essential mineral that binds to the organic ligand molybdopterin. Together, molybdenum and molybdopterin form the molybdenum cofactor, which is critical for the function of several enzymes involved in the metabolism of purines, pyrimidines, and xanthines as well as sulfite metabolism.
+
 
 1.3
 
@@ -116,7 +120,9 @@ Infants: 2µg (0-6 months) up to 3µg (7-12 months)[7]Children: 17µg (1-3 years
 
 The average daily intake of molybdenum in North America has been found to be 50-126µg in one study[2] and 120-240µg in another;[19] both values are from the 1980s.
 
+
 The requirements for molybdenum are based on how much molybdenum intake is required each day to make sure there is no long term bodily losses of this mineral. This recommended daily intake is readily achieved, and the human diet (plus water intake) tend to provide more than enough molybdenum even with the lowest estimates.
+
 
 1.4
 
@@ -126,7 +132,9 @@ It has been reported that, currently, there are no known cases of molybdenum def
 
 Molybdenum deficiency, however, has been noted in hospital setting in a patient on total parental nutrition (TPN) devoid of molybdenum over the course of six months; major symptoms appeared to be a high L-methionine level in serum with low L-cystiene and taurine, with a general impairment of sulfur elimination.[22] The patient was normalized when molybdenum (as ammonium molybdate) was added to TPN.[22]
 
+
 The mammalian body appears to be very resilient to deficiencies of molybdenum and there are no known cases of free living (ie. non-hospitalized) subjects developing a deficiency. When a deficiency does occur, it appears to result in impaired sulfur metabolism.
+
 
 2.
 
@@ -138,7 +146,9 @@ Absorption
 
 Orally supplemented molybdenum appears to be well-absorbed at a rate of 88-93% in otherwise healthy male subjects at various doses between 22µg and 1378µg.[23][24]
 
+
 Molybdenum is well-absorbed in the intestines following oral ingestion.
+
 
 2.2
 
@@ -162,7 +172,9 @@ Molybdenum is eliminated in both urine and feces in a dose-dependent manner.[27]
 
 The lower end of this dosage range (24-122µg a day) seems to maintain molybdenum balance in serum quite well,[23] while daily doses of 466-1468µg that are associated with a relative increase of fecal elimination put the body into a positive molybdenum balance where retention exceeds elimination.[23]
 
+
 Molybdenum is eliminated primarily via the urine at standard doses. At higher doses (450µg+ daily) there is a shift to fecal elimination while the body also becomes unable to fully eliminate all excess molybdenum. This results in an overall retention of molybdenum.
+
 
 3.
 
@@ -174,7 +186,9 @@ Type II Diabetes
 
 In type II diabetic patients, the serum molybdenum concentrations correlated with severity of diabetes with 25% of subjects with slight-to-moderate complications from diabetes and 58% of subjects with severe complications exhibiting a serum concentration higher than the upper limit of reference values (1.2µg/L).[28] It also seemed that urinary molybdenum was lower in diabetics with severe complications compared to those with slight-to-moderate complications.[28] In instances of kidney damage, molybdenum also seems to be higher in serum prior to hemodialysis.[32]
 
+
 Serum molybdenum appears to be higher in subjects with type II diabetes, which may be secondary to impaired kidney function causing a retention of molybdenum (which is primarily eliminated by the kidneys).
+
 
 4.
 
@@ -186,7 +200,9 @@ Estrogens
 
 A study in females rats given additional molybdenum in their drinking water (5-100mg/L in addition to 0.025mg/kg in the diet) noted that concentrations of 10mg/L or above appeared to prolong the estrus cycle.[33] A later study, however, failed to find this effect when using much higher doses of 5, 17, or 60mg/kg over 90 days.[31]
 
+
 There is mixed evidence on how molybdenum interacts with estrogen in rats. Further evidence is needed.
+
 
 4.2
 
@@ -194,7 +210,9 @@ Androgens
 
 In men who were sampled at an infertility clinic, it was noted that higher blood concentrations of molybdenum were associated with lower testosterone concentrations in serum.[34]
 
+
 One observational study found an inverse relationship between molybdenum and testosterone, but it is currently uncertain whether molybdenum has a causative role or if it is merely a biomarker of infertility.
+
 
 5.
 
@@ -206,7 +224,9 @@ Pregnancy and Childbirth
 
 It seems that the greatest currently known need for dietary molybdenum is during the early stages of embryonic development, in part due to the need of the rapidly-developing brain to have access to sulfated molecules produced by sulfite oxidase.[33][1] However, excess molybdenum (10-100mg/L, but not 5mg/L) in the female rat's drinking water appears to reduce litter size and average weight of the pups; fetal resorption increased while conception rate was unaffected.[33] The alterations in estrus noted in this study[33] failed to be replicated elsewhere with higher doses (up to 60mg/kg) in the rat,[31] but fertility was not tested in the latter study.
 
+
 Animal studies indicate that very high molybdenum intake may lead to fetal toxicity.
+
 
 6.
 
@@ -220,7 +240,9 @@ In rats, administration of varying doses of molybdenum (as sodium molybdate dihy
 
 An increase in renal copper concentrations has been noted with molybdenum intake (three-fold increase at 60mg/kg) despite no changes in dietary copper.[31] Due to copper's toxic effects on the kidneys,[36] this may play a role in molybdenum's nephrotoxic effects.
 
+
 A study in rats on molybdenum toxicity reported a no observed adverse effect level (NOAEL) of 17mg/kg, with a lowest observed adverse effect level (LOAEL) of 60mg/kg. This may be due to increased renal copper concentrations, a known cause of renal toxicity.
+
 
 6.2
 
@@ -228,5 +250,7 @@ Case Reports
 
 One case report in a male patient in his late 30s exists where ingestion of 300-800µg molybdenum for 18 days (in part due to a high-molybdenum supplement) resulted in neurological symptoms including psychosis and hallucinations resulting in a grand mal seizure and cortical brain damage.[37] The patient was treated with chelation therapy with success, but reintroduction of the supplement to demonstrate causation was not attempted.[37]
 
+
 At least one case report suggests high molybdenum intake from dietary supplements promotes the development of psychosis and seizures.
+
 

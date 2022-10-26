@@ -84,7 +84,9 @@ Japanese Catnip appears to be used to relieve body aches, as a hemostatic, antib
 
 The dried above-ground parts of S. tenuifolia is often consumed in the East in sauce, beverage, beneficial tea or herbal medicine, with various quantities being added.[3] A 'carbonized' form is also sometimes used, particularly for bloody stool and metrorrhagia, is stirfried at a high temperature untilits exterior surface becomes blackish-brown and its interior surface turns dark yellow.[1]
 
+
 Leaf or leaf/stem (aerial parts) extracts have traditionally been dried and then used to fight off infections or allergies
+
 
 1.2
 
@@ -92,7 +94,9 @@ Composition
 
 The dry weight of the aerial (above ground) parts include:
 
-0.5-1.8% volatile oils,[1] mostly R-(+)-Pulegone[2][4] and Menthone[5] with some D-Limonene, Menthofuran[1][5] and Menthol at 0.0234%[6]Monoterpenes including Schizonepetosides A-E, Schizonol, and Schizonodiol[1][7][8]2α,3α,24-trihydroxyolean-12en-28oic acid[2]Ursolic Acid[2]Rosmarinic Acid[2]Diosmetin at 4.3+/-0.3mg/g dried leaves[3]Hesperidin[2] at 12.0+/-0.4mg/g dried leaves[3]Luteolin-7-O-glucuroninide[2] with Luteolin (aglycone) at 5.5+/-0.3mg/g dried leaves[3]β-Sitosterol[2][9]The effects of Japanese Catnip are most likely related to either the volatile oils of the monoterpenoids, but no evidence exists to suggest what bioactive(s) is/are the main ones; all studies currently just use water extracts of the aerial parts of the plant itself
+0.5-1.8% volatile oils,[1] mostly R-(+)-Pulegone[2][4] and Menthone[5] with some D-Limonene, Menthofuran[1][5] and Menthol at 0.0234%[6]Monoterpenes including Schizonepetosides A-E, Schizonol, and Schizonodiol[1][7][8]2α,3α,24-trihydroxyolean-12en-28oic acid[2]Ursolic Acid[2]Rosmarinic Acid[2]Diosmetin at 4.3+/-0.3mg/g dried leaves[3]Hesperidin[2] at 12.0+/-0.4mg/g dried leaves[3]Luteolin-7-O-glucuroninide[2] with Luteolin (aglycone) at 5.5+/-0.3mg/g dried leaves[3]β-Sitosterol[2][9]
+The effects of Japanese Catnip are most likely related to either the volatile oils of the monoterpenoids, but no evidence exists to suggest what bioactive(s) is/are the main ones; all studies currently just use water extracts of the aerial parts of the plant itself
+
 
 Total phenolics may reach 172mg/g (1.7%) dry leaf extract.[3]
 
@@ -110,7 +114,9 @@ The same dose of schizonepetin appears to inhibit the CYP1A2 enzyme as assessed 
 
 CYP2C19 appears to be unaffected by schizonepetin at the oral dose of 24mg/kg.[10]
 
+
 An oral dose of 24mg/kg schizonepetin in rats (estimated human equivalent of 3.84mg/kg) but not half the dose appears to be able to influence Phase I enzymes and possible alter drug pharmacokinetics
+
 
 3.
 
@@ -122,7 +128,9 @@ Mechanisms
 
 In isolated macrophages, Japanese Catnip appears to suppress TNF-α content at 50-200mcg/mL at 6 hours, with only the highest dose lasting to 24 hours; the inhibitory effect on IL-6 content was more insensitive, only occurring at the highest concentration at the 6 hour point.[11] TNF-α mRNA, but not IL-6, was suppressed with Japanese Catnip and thought to be related to inhibiting JNK/SAPK dependent c-Jun/ATF-2 activity; a member of the AP-1 family that is tied into TNF-α secretion.[4] MAPK inhibition has also been noted in macrophages, extending to all three subsets (p38, ERK, and JNK; upstream of AP-1).[12]
 
+
 In activated macrophages, Japanese Catnip extract appears to be anti-inflammatory. It is not as potent as reference drugs (Dexamethasone), but appears to suppress TNF-α more than IL-6 and may be selective (Dexamethasone, and many antiinflammatories, are universally antiinflammatory)
+
 
 3.2
 
@@ -130,7 +138,9 @@ Splenocytes
 
 At least one study assessing cell viability noted that 100mcg/mL of the water extract was not cytotoxic, but noted mitogenic activity to a level of 1.5-2.5 that of control cells.[13]
 
+
 May help proliferate immune cells, needs more resarch on the topic
+
 
 3.3
 
@@ -140,7 +150,9 @@ In response to injected anti-CD3, the serum increase in IFN-γ and IL-4 mRNA exp
 
 The currently thought mechanism of action was noted in vitro, where Japanese Catnip could suppress NF-kB translocation while simultaneously promoting (NFAT)c2 translocation.[13] An increase in phosphorylation of both STAT4 and STAT6 is noted with Japanese Catnip, but is thought to not be causative of the above cytokine changes.
 
+
 Appears to possess anti-inflammatory effects in regards to T-cell differentiation, yet has some 'selective' effects where IL-2 is increased (Dexamethasone and many anti-inflammatories do not tend to influence IL-2 much) and can activate STAT4/6
+
 
 3.4
 
@@ -148,7 +160,9 @@ Allergic Reactions
 
 In human leukemic mast cells (HMC-1) using isolated compounds found in Japanese Catnip, 100mcg/mL of ursolic acid, rosmarinic acid, Pulegone, and 2α,3α,24-trihydroxyolean-12en-28oic acid were all able to significantly reduce Mast cell degranulation induced by either PMA or calcium ionophore (although this concentration of Ursolic acid was cytotoxic).[2] When measuring the release of IL-6, IL-8, and TNF-α, it appeared that ursolic acid was most effective of the isolated ingredients yet the Japanese Catnip per se outperfomed all isolated components at 1mcg/mL (whereas it performed equally at 100mcg/mL.[2] This seemingly anti-allergic activity has been confirmed in vivo in mice fed Japanese Catnip prior to DNCB application[16] and has been noted to reduce mortality rates induced by compound 48/80 when 0.005-1g/kg is ingested and concurrently reduced histamine concentrations.[17]
 
+
 Appears to have anti-allergic effects by preventing mast cell degranulation, which have been confirmed in rodent models
+
 
 3.5
 
@@ -158,7 +172,9 @@ Interventions
 
 In a carrageenan-induced paw edema test, the reduction in antioxidative enzymes seen in control are attenuated at 500mg/kg to a similar degree as 10mg/kg Indomethacin (125-250mg/kg showing antioxidative effects, but to a lesser degree) and reduced both TNF-α, nitrate, and lipid peroxidation to similar degrees; Japanese Catnip at 500mg/kg appeared to be equally effective in reducing paw edema (indicative of inflammation associated with TNF-α and oxidation[18]) as 10mg/kg Indomethacin.[3]
 
+
 The anti-inflammatory effects are preliminary, with two animal studies being conducted; that being said, it appears to be moderately potent with 500mg/kg in rats being not significantly different than 10mg/kg Indomethacin, but weaker than Dexamethasone
+
 
 4.
 
@@ -172,7 +188,9 @@ In vitro, the dried aerial parts of Japanese Catnip show concentration-dependent
 
 Anti-oxidative effects have been noted in vivo, with 500mg/kg of the water extract of aerial parts being as effective as 10mg/kg Indomethacin in response to carrageenan injections.[3]
 
+
 Possesses anti-oxidative effects, practical relevance unknown
+
 
 5.
 
@@ -184,7 +202,9 @@ Liver
 
 The two monoterpenes, Menthofuran and Pulegone, may metabolize into a compound known as p-cresol which has been shown to cause glutathione depletion in hepatocytes,[19][20] although the volatile oil β-Myrcene appears to be hepatoprotective.[21] No studies have assessed the entire volatile oil essence of Japanese Catnip per se, so it is unknown what the overall effect is.
 
+
 Volatile oils in Japanese Catnip possess both hepatotoxic and hepatoprotective properties, with the practical significance of supplemental Japanese Catnip unknown
+
 
 6.
 
@@ -196,7 +216,9 @@ Skin
 
 Anti-inflammatory properties of Japanese Catnip appears to exert protective effects against atopic dermatitis (as assessed by a mouse study inducing dematitis with DNCB).[16]
 
+
 Related to the anti-allergic mechanisms of action, Japanese Catnip may suppress skin eruptions in response to inflammation or allergins
+
 
 7.
 

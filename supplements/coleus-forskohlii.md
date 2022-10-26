@@ -180,7 +180,9 @@ Forskolin is an adenylyl cyclase (synonymous with adenylate cyclase) stimulator,
 
 This increase in cAMP does not increase lipolysis per se at low concentrations of 0.1-1µM, but when it surpasses 10µM it can induce lipolysis on its own.[18] Low concentrations are effective at increasing lipolysis when paired with β2-adrenergic agonists, suggesting the fat burning effects of forskolin are dependent on either high dosages or costimulation with other agents (exogenous and/or endogenous).[18] Similar to the costimulatory effect with agents that would normally stimulate adenylyl cyclase, pharmacological targets that can inherently suppress adenylyl cyclase activity such as α2-adrenergic stimulation or insulin can suppress the activity of forskolin in increasing cAMP.[19]
 
+
 Forskolin can activate adenylyl cyclase to increase cAMP concentrations in a cell, and is additive with other agents that eventually increase cAMP. Endogenous molecules or supplements that exert a suppressive action on cAMP (via suppression of adenylyl cyclase) can suppress the activity of forskolin
+
 
 2.2
 
@@ -210,7 +212,9 @@ Adenosinergic Neurotransmission
 
 One study has found that adenosine signalling was required for forskolin (1µM) to increase cAMP in cerebral cortex slices of the rat, as the addition of caffeine was able to inhibit forskolin with an IC50 of 21+/-3µM.[23][24] This is likely due to the signalling properties of adenosine receptors, as increasing adenosine[25][26] or other adenosine receptor agonists[26] outside the cell increases the potency of forskolin while theophylline (weaker adenosine receptor antagonist) has much weaker effects.[23] When tested in hippocampal cells it seems that while activation of A1 adenosine receptors suppresses AMP accumulation from forskolin that A2 receptors stimulate it;[26] replicated in cerebral cortex slices.[27][28]
 
+
 Activation of adenosine (A2) receptors seem to increase the ability of forskolin to accumulate cAMP in some neuronal cells, while blocking these receptors (notably with caffeine) reduces the potency of forskolin
+
 
 4.2
 
@@ -220,7 +224,9 @@ Coleus leaves appear to have acetylcholinesterase inhibiting properties with an 
 
 These effects are thought to be secondary to rosmarinic acid which has an IC50 value of 0.44mg/mL, and the inhibition appears to be reversible.[11][3] Rosmarinic acid has been detected in the brain (20.4-24.1μM 30-60 minutes after intraperitoneal injection of 1g/kg) following ingestion of coleus leaf tea and acetylcholinesterase activity has been noted to be decreased by 5.5-10% (60 minute and 30 minutes, respectively).[11] Acetylcholineasterase inhibition has also been noted with isolated rosmarinic acid to the level of 12.8-13.5% following ingestion of 550μmol/kg.[11]
 
+
 Coleus forskohlii leaves (not commonly supplemented, as many supplements contain the root) appear to have acetylcholinesterase inhibiting properties due to the rosmarinic acid content. These effects are confirmed in vivo
+
 
 5.
 
@@ -298,11 +304,15 @@ Eyes
 
 One study noted decreases in Intra-Ocular Pressure (IOP) with forskohlin in human subjects given eyedrops containing the compound (1% of a 50µL solution)[51] via its effects as an adenylate cyclate activator.[52][53] It has been suggested that the role of forskolin is in enhancing the responsiveness of retinal ganglion cells (RGCs) to the stimulation from BDNF, as BDNF signals via cAMP in these cells[54][55] but increasing extracellular levels of BDNF are acutely effective in regenerating these cells[56] but are met with downregulation of its receptor TrkB.[57][58]
 
+
 BDNF signalling in retinal cells works as a growth factor and uses cAMP as an intermediate in its signalling pathway. As chronic exposure to BDNF and its mimetics may reduce the expression of its receptor it is thought that downstream stimulation (via forskolin) could have similar efficacy without the risk of tolerance
+
 
 Oral studies using forskolin have been confounded with other compounds. A reduction in IOP has been noted with oral ingestion of coleus forskohlii (200mg of 10% forskolin) alongside 200mg rutin and two B-vitamins (thiamin and riboflavin at 550µg and 700µg respectively) by approximately 20% after 40 days in subjects with primary open angle glaucoma (POAG)[59] while other studies using this formulation have replicated its findings[60] and seems effective when given in addition to their standard (topical) therapy where the supplement over one month reduced IOP by an average of 10%.[61]
 
+
 Studies lasting upwards of 40 days have found forskolin to be effective in reducing intraocular pressure when orally administered at supplemental doses. More studies are needed using forskolin alone (as the mentioned studies have confounds) and perhaps longer periods of time to properly assess the tolerance issue
+
 
 8.2
 
@@ -386,5 +396,7 @@ Tolerance
 
 Aortic cells normally increase calcium uptake in response to cAMP, although it appears that a 20 hour incubation of 25µM forskolin can desensitize these cells to stimulation from cAMP despite adenylyl cyclase not being desensitized, suggesting refractory adaptation on another level.[78] Other cells have noted refractoriness at the level of protein synthesis and can be mimicked by isoproterenol (β2-adrenergic agonist).[79]
 
+
 It seems that while adenylyl cyclase itself is not desensitized or altered in function with exposure to forskolin, prolonged elevations of cAMP cause proteins to be synthesized in an attempt to normalize intracellular cAMP levels.
+
 

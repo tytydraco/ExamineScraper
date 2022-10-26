@@ -136,21 +136,29 @@ Composition
 
 Sea Buckthorn contains:
 
-Hippophaeosides A-C[5]Hippophins C-F (seeds of the sinensis variant[6]) which are kaempferol glycosidesThere are some molecules that are (currently known to be) unique to sea buckthorn and are named after it accordingly. They appear to be flavonoid glycosides
+Hippophaeosides A-C[5]Hippophins C-F (seeds of the sinensis variant[6]) which are kaempferol glycosides
+There are some molecules that are (currently known to be) unique to sea buckthorn and are named after it accordingly. They appear to be flavonoid glycosides
 
-Procyanidins[7] comprised of catechin, epicatechin, gallocatechin, and epigallocatechin[8]Various forms of Quercetin (itself at 29.7µg/g in the seeds only) including Pentamethylquercetin,[9] Isorhamnetin (3.74-147µg/g and highest in leaves[10] or 27.91-112.65µg/g in water extracts[11]) and related glycosides,[12][13] Quercetin-3,O-galactoside (34.98-334µg/g and highest in leaves),[10] Quercetin-3-O-glucoside-7-O-rhamnoside,[13] and Rutin (155-365µg/g and highest in leaves)[10]Myricetin (27.1-161.7µg/g)[10]Kaempferol (4.29-54.6µg/g[10][14] or 10.74-46.43µg/g[11]) and glycosides[6][15]Tiliroside (0.05%)[5]Zeaxanthin as the most abundant carotenoid[16] at 2.34-3.34mg/g[17][16] and a particular abundance of the Zeaxanthin-C16:0,C16:0 ester (18.53-21.27% total carotenoids)[16]Other carotenoids including neoxanthin (0.01-0.08% total carotenoids),[16] Lutein (0.23-0.27% total carotenoids),[16] β-carotene (14.68-29.06% total carotenoids),[16] and γ-carotene (2.39-3.99% total carotenoids).[16] Total carotenoids in the fruits range from 8.85-25.51mg/100g with an outlier of 43.06mg/100g[18]Inositol[19]Ursolic acid and ursolic aldehyde[5]Methyl gallate and gallic acid[5] and larger tannin structures such as casuarinin (leaves)[20]Pomolic acid[5]Panthenoic Acid (Vitamin B5) in the berries[21]Vitamins B1, B2, and B6 in the berries[21]Nicotinamide, Folate, and Biotin in the berries[21][22]Vitamin C in the berries (0.4% or 400mg/100g by dry weight[23])[21]Vitamin E in the berries[21]β-sitosterol[5]Beyond the hippophins, sea buckthorn appears to have a large variety of the standard polyphenolics with more relevant concentrations of quercetin and its analogues (isorhamnetin, quercetin glycosides) as well as procyanidins made of catechins. Kaempferol is also a large component, as it is also the backbone for the hippophins
+
+Procyanidins[7] comprised of catechin, epicatechin, gallocatechin, and epigallocatechin[8]Various forms of Quercetin (itself at 29.7µg/g in the seeds only) including Pentamethylquercetin,[9] Isorhamnetin (3.74-147µg/g and highest in leaves[10] or 27.91-112.65µg/g in water extracts[11]) and related glycosides,[12][13] Quercetin-3,O-galactoside (34.98-334µg/g and highest in leaves),[10] Quercetin-3-O-glucoside-7-O-rhamnoside,[13] and Rutin (155-365µg/g and highest in leaves)[10]Myricetin (27.1-161.7µg/g)[10]Kaempferol (4.29-54.6µg/g[10][14] or 10.74-46.43µg/g[11]) and glycosides[6][15]Tiliroside (0.05%)[5]Zeaxanthin as the most abundant carotenoid[16] at 2.34-3.34mg/g[17][16] and a particular abundance of the Zeaxanthin-C16:0,C16:0 ester (18.53-21.27% total carotenoids)[16]Other carotenoids including neoxanthin (0.01-0.08% total carotenoids),[16] Lutein (0.23-0.27% total carotenoids),[16] β-carotene (14.68-29.06% total carotenoids),[16] and γ-carotene (2.39-3.99% total carotenoids).[16] Total carotenoids in the fruits range from 8.85-25.51mg/100g with an outlier of 43.06mg/100g[18]Inositol[19]Ursolic acid and ursolic aldehyde[5]Methyl gallate and gallic acid[5] and larger tannin structures such as casuarinin (leaves)[20]Pomolic acid[5]Panthenoic Acid (Vitamin B5) in the berries[21]Vitamins B1, B2, and B6 in the berries[21]Nicotinamide, Folate, and Biotin in the berries[21][22]Vitamin C in the berries (0.4% or 400mg/100g by dry weight[23])[21]Vitamin E in the berries[21]β-sitosterol[5]
+Beyond the hippophins, sea buckthorn appears to have a large variety of the standard polyphenolics with more relevant concentrations of quercetin and its analogues (isorhamnetin, quercetin glycosides) as well as procyanidins made of catechins. Kaempferol is also a large component, as it is also the backbone for the hippophins
+
 
 The fatty acid composition (found in seed and berry oils with fat content, but not in supplements derived from leaves) includes:
 
 23.4% (range of 17-27%) of palmitic acid[24][25]17.3% (range of 10-22%) of palmitoleic acid[24][25]1.5% of stearic acid[24]20.5%[24] or 20-40% as a range of oleic acid[25]5.5% of vaccenic acid (18:1n7)[24]17.9% (10-20% range) of linoleic acid[24][25]11.4% of alpha-linolenic acid[24]Whereas volatile compounds include:
 
-Vomifoliol[5]2-methylbutanoic acid ethyl ester[26]3-methylbutanoic acid ethyl ester[26]Hexanoic and octanoic acid ethyl esters[26]3-methylbutyl 2-methylbutanoate and 3-methylbutyl 3-methylbutanoate[26]Benzoic acid methyl ester[26]The aforementioned compounds confer taste and aromatic properties to sea buckthorn, but their contributions to health effects are not known
+Vomifoliol[5]2-methylbutanoic acid ethyl ester[26]3-methylbutanoic acid ethyl ester[26]Hexanoic and octanoic acid ethyl esters[26]3-methylbutyl 2-methylbutanoate and 3-methylbutyl 3-methylbutanoate[26]Benzoic acid methyl ester[26]
+The aforementioned compounds confer taste and aromatic properties to sea buckthorn, but their contributions to health effects are not known
+
 
 The total antioxidant capacity of the plant appears to be about 0.2–18.2% (ABTS method) or 0.7–28.2% (TEAC method) as potent as Trolox (water soluble Vitamin E) using a variety of analytical methods, with the higher values thought to be more reflective of the plant as compounds could have been destroyed with other testing methods.[10] Other studies have noted that gallic acid equivalents (GAE) of seabuckthorn are 76.07–93.72mg/g in the leaves[11] (higher at 363mg/g in the water extract[1]) and that seabuckthorn is less potent than Vitamin C in vitro.[11] Total carotenoids can vary from 1.5−18.5mg/100g fresh weight of the berries.[27]
 
 Most antioxidants appear to accumulate in the seeds relative to the pulp, leaves, or stem, despite most flavonoids being in the leaves (and least in seeds).[10] The total phenolic content of the leaves is 47.06–66.03mg/g rutin equivalents (RE).[11]
 
+
 The antioxidative potency of sea buckthorn is present and somewhat respectable, but when compared to the research standards (Vitamin E, Vitamin C, Gallic Acid) it appears to be significantly weaker
+
 
 2.
 
@@ -164,7 +172,9 @@ The main flavonoids of sea buckthorn (isorhamnetin, kaempferol and quercetin) ap
 
 Isolated procyanidins from sea buckthorn appear to reduce the rate of protein absorption with an EC50 somewhere between 39.8-65.8μg/mL, and the tested extracts were able to inhibit protein digestive enzymes in vitro with a potency of 57.5-67.7% (trypsin) and 44.1-60.3% (pepsin).[30]
 
+
 May possibly reduce the rate of protein absorption secondary to inhibiting enzymes of protein hydrolysis
+
 
 Ingestion of sea buckthorn berries and extracts has been noted to delay the spike in triglycerides following a test meal in humans, although the total AUC of triglycerides (indicative of absorption) was unaffected.[31] This was mostly attributed to the fiber component[31] and is similar to previous literature looking at the influence of sea buckthorn berries on postprandial glycemia (carbohydrate absorption).[32]
 
@@ -178,7 +188,9 @@ Appetite
 
 One rat intervention using 500-1,000mg/kg of the ethanolic extract of sea buckthorn noted reduced food intake in a dose-dependent manner and a decrease in leptin,[4] whereas a study in children (with dyspepsia) has noted an increase in leptin and neuropeptide Y, suggesting an increase in appetite.[33]
 
+
 Unclear influences on appetite regulation
+
 
 3.2
 
@@ -186,7 +198,9 @@ Neuroprotection
 
 50-200mg/kg of sea buckthorn (75% ethanolic extract of leaves) for 21 days prior to scopolamine administration was able to dose-dependently reduce lipid peroxidation as assessed by MDA concentrations and acetylcholinesterase activity, both of which were fully normalized at 200mg/kg. Cognition also appeared to be preserved with sea buckthorn ingestion.[34]
 
+
 Oral sea buckthorn appears to have neuroprotective properties, and they are of moderate to respectable potency according to the preliminary evidence
+
 
 3.3
 
@@ -232,7 +246,9 @@ The overall methanolic extract has been noted to inhibit adipocyte triglyceride 
 
 When an ethanolic extract of sea buckthorn (1,000mg/kg) is given to rats, hepatic expression of PPARγ appears to be increased.[4]
 
+
 Different isolated components in sea buckthorn seem to differentially modulate adipocyte function and growth. Overall, there is perhaps an increase in PPARγ
+
 
 5.2
 
@@ -282,7 +298,9 @@ Sea buckthorn appears to have antiulcer properties, secondary to both its antiox
 
 Some antiulcer properties have been noted in horses (against glandular ulcers but not nonglandular)[51] and against acetic acid[7][50] and stress-induced[50] gastric ulcerations in rats.
 
+
 The seed oil, composed of mostly procyanidins and the polyphenols, appears to have biologically relevant anti-ulcer properties in research animals. This has not been tested in humans.
+
 
 8.2
 
@@ -308,13 +326,17 @@ Skin
 
 Oral supplementation of a sea buckthorn extract (50mg/kg) daily for six weeks in irradiated nude mice is able to effectively prevent UV-induced changes in skin quality and wrinkling.[58]
 
+
 Appears to be protective of the skin following oral ingestion
+
 
 Sea buckthorn appears to be a traditional remedy for increasing wound healing rates.[59]
 
 Oral ingestion of the oil from sea buckthorn (2.5mL/kg to rats) as well as topical application (200µL) are both effective in increasing the rate of healing in a burn model,[60] and topical application of the isolated flavonoids (1% of solution) has been found to accelerate the healing of incision wounds.[61] The healing properties appear to be associated with increased angiogenesis (as assessed by increased metalloproteinases 2 and 9 as well as VEGF expression).[60][59]
 
+
 Oral ingestion, as well as topical administration, show some efficacy in accelerating wound healing rates. There is currently no human evidence nor are there comparisons to reference drugs in order to assess potency
+
 
 10.
 

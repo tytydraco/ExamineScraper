@@ -88,7 +88,9 @@ Structure
 
 Aniracetam is a pyrrolidinone compound of the racetam family,[1] and has an additional anisoyl ring with a methoxy group at the lone para position. (replacing the amine group of piracetam) with an O-methoxy group on the furthest binding point. Its structure is dissimilar to that of oxiracetam (which is quite similar to piracetam) and Pramiracetam (fairly unique structure) yet closely related to that of nefiracetam.
 
+
 Aniracetam is a piracetam molecule in which the amine is replaced by a methylated phenyl group, this modification was made to enhance fat solubility and underlies differences between piracetam and aniracetam
+
 
 2.
 
@@ -110,7 +112,9 @@ Absorption and bioavailability
 
 Aniracetam appears to be greatly taken up from the gut even in a fasted state, but is subject to extensive first pass hepatic metabolism. Due to this, it has an overall bioavailabiliy of around 8.6-11.4%.[3] Bioavailability is presumed higher when taken with fatty acids, but unexplored.
 
+
 Is fat-soluble and logically enhanced when taken with fatty acids, does not appear to need fatty acids to be absorbed
+
 
 3.2
 
@@ -122,7 +126,9 @@ In a study of healthy male volunteers, Aniracetam showed a Cmax (max concentrati
 
 It appears that superloading Aniracetam (50-100mg/kg bodyweight) does not augment the Cmax or Tmax significantly, and tends to only prolong the AUC to 1.7-2.1 hours.[3]
 
+
 Appears to be rapidly absorbed in under 30 minutes, and rapidly metabolized; higher doses do not change the time it takes to work, but may prolong the AUC (Area-Under-Curve) of Aniracetam, either by delaying excretion or metabolism
+
 
 3.3
 
@@ -132,7 +138,9 @@ The main human metabolite of Aniracetam is a compound known as N-Anisoyl-GABA (a
 
 One study that confirmed protective effects against amnesia in a choice reaction test with aniracetam (10-100mg/kg) subsequently tested all metabolites, with both P-anisic acid and 2-pyrrolidinone failing to exert anti-amnesiac effects while N-anisoyl-GABA at 30mg/kg was similarly effective.[7]
 
+
 Aniracetam is heavily metabolized into N-anisoyl-GABA and P-Anisic Acid, which should be considered for bioactivity in the body
+
 
 4.
 
@@ -146,13 +154,17 @@ AMPA is one of the three subsets of glutamate (excitatory) receptors, of which t
 
 Aniracetam is a modulator of the AMPA receptor that works by binding to a non-active site of AMPA receptors and allosterically modifying the binding site, of which the final result is a reduced rate of desensitization[11] in the presence of positive stimuli (such as glutamate, which is intrinsically produced).[12] This occurs in the concentration range of 1-5mM.[11][13]
 
+
 AMPA receptors appear to be positively modulated by aniracetam, similar to other basic racetam compounds
+
 
 Aniracetam has been noted to be a positve modulator of kainate receptors.[14][15]
 
 Aniracetam does not directly agonize NDMA receptors, but does not appear to hinder agonism of NMDA receptors either.[16][17]
 
+
 May have a positive influence on kainate receptors, does not appear to interact with NMDA receptors much if at all
+
 
 4.2
 

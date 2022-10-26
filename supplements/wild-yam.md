@@ -60,13 +60,17 @@ Sources
 
 Dioscorea Villosa is a tuber vegetable that is commonly referred to as 'Wild Yam' and appeared to be recommended for menopausal symptoms and menstrual complaints.[1] The family of Dioscorea refers to Yams in general, with Villosa sometimes being referred to as Wild Yam but the term 'Wild Yam' also being used to refer to many species such as deltoidea, versicolor, bulbifera, and triphylla.[2] The Yam most commonly bought and consumed in first world nations (White Yam) is Dioscorea rotundata with Purple Yams being Dioscorea Alata.
 
+
 Dioscorea Villosa is one of many species referred to as 'Wild Yam', although the term 'Wild Yam' appears to refer to multiple species
+
 
 1.2
 
 Composition
 
-Diosgenin is commonly seen as the active ingredient and is an aglycone[3]Dioscin (Diosgenin glycone) and other glycones of Diosgenin including Dioscin Prosapogenin A,[4] Deltonin,[4] and Diosgenin 3-O-{a-L-rhamnopyranosyl(1ﬁ2)}-{b-D-glucopyranosyl(1ﬁ3)-b-D-glucopyranosyl(1ﬁ4)}-b-D-glucopyranoside[5]Zingiberensis saponin I[4]Diarylheptanoid compounds[6]Parvifloside (and Methyl Parvifloside) and two other furostanols, methyl-protodeltonin and trigofoenoside A-1[4][7]Main component appears to be Diosgenin, and a variety of molecules which are Diosgenin bound to different glycosides; other steroidal saponins appeared to exist in this species of Yam
+Diosgenin is commonly seen as the active ingredient and is an aglycone[3]Dioscin (Diosgenin glycone) and other glycones of Diosgenin including Dioscin Prosapogenin A,[4] Deltonin,[4] and Diosgenin 3-O-{a-L-rhamnopyranosyl(1ﬁ2)}-{b-D-glucopyranosyl(1ﬁ3)-b-D-glucopyranosyl(1ﬁ4)}-b-D-glucopyranoside[5]Zingiberensis saponin I[4]Diarylheptanoid compounds[6]Parvifloside (and Methyl Parvifloside) and two other furostanols, methyl-protodeltonin and trigofoenoside A-1[4][7]
+Main component appears to be Diosgenin, and a variety of molecules which are Diosgenin bound to different glycosides; other steroidal saponins appeared to exist in this species of Yam
+
 
 2.
 
@@ -80,7 +84,9 @@ In a trial testing the efficacy of a cream containing Dioscorea Villosa (funded 
 
 This study was confounded as the cream (10% Dioscorea Villosa) also contained Linum usitatissmum, Perlargonium graveolens, and Salvia officinalis with 10mg active Vitamin E; the observed effects cannot thus be attributed to Wild Yam per se. Additionally, a very high dropout rate was noted (23/50 completing the study).[8]
 
+
 Currently no evidence to support a reduction in menopausal symptoms associated with Dioscorea Villosa
+
 
 3.
 
@@ -94,7 +100,9 @@ An in vitro test assessing renal tubular epithelial cells (NRK52E) of the kidney
 
 Macrophage accumulation was noted to be not significantly significant globally, but was increased in the glomeruli and interstitial spaces; in the liver, a significant increase was noted in the centrilobular veins and sinusoids.[10]
 
+
 Preliminary evidence suggests that Wild Yam is weakly fibrotic, but that chronic intake of Wild Yam can result in small fibrosis of the kidney
+
 
 4.
 
@@ -102,7 +110,9 @@ Interactions with Cancer
 
 In a large database screening of 374 alternative medicines (herbs, seeds, roots, plankton and fungi) for potential tumoricidal effects it was found that Dioscorea Villosa was the most effective at inducing apoptosis in the tested tumor cell line.[11] In an immortal neuroblastoma cell line (Neuro-2a), Dioscorea Villosa ethanolic extract possessed an LD50 of 19mcg/mL; the study noted that out of 374 tested compounds, only 54 were deemed to be strong (LD50 less than 528mcg/mL) and others in this category included Psoralea fruit, Green Tea, Ginger, Kava, Feverfew, and Black Cohosh as well as both Bloodroot and Dragon's Blood.[11]
 
+
 Preliminary evidence suggests Dioscorea Villosa may confer anti-cancer effects, but not enough evidence exists to draw many conclusions on efficacy or safety
+
 
 5.
 
@@ -116,7 +126,9 @@ Diosgenin has thought to act like an estrogen mimetic due to its structural simi
 
 A study in ovariectomized mice (to mimic menopause) failed to find significant alteration in uterine weight associated with dietary intake of 9.8-37.7mg/kg Diosgenin over a period of 20 weeks, suggesting a lack of estrogenic effects.[13] When mice were implanted with estrogen responsive breast cancer tumors in another experiment, the addition of Diosgenin failed to augment the growth of these tumors (another null result of estrogenicity) although it did not appear to hinder the growth either (possible lack of antagonistic effects).[13]
 
+
 Does not appear to interact with estrogen; limited evidence
+
 
 6.
 
@@ -130,7 +142,9 @@ In TESTSKIN cells (a human 3D skin equivalent model), Diosgenin appears to enhan
 
 When Diosgenin was given to (ovariectomized) mice at 0.01-0.04% of the diet for 20 weeks (totalling 9.8-37.7mg/kg), these mice appeared to have improved skin thickness with 0.04% similar to non-ovariectomized control; fat accumulation was not affected.[13]
 
+
 One study suggesting Diosgenin can enhance skin thickness, which has been demonstrated following oral administration of Diosgenin to mice. In vitro, appears to be relatively potent and mediated by novel means
+
 
 7.
 

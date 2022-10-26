@@ -66,7 +66,9 @@ These effects were mimicked in a rat study where Caralluma fimbriata was adminis
 
 Mechanistically, it is not known exactly how Caralluma suppresses appetite. The aforementioned intervention hypothesized it may be through pregnane glycosides acting in a similar manner to steroidal glycosides from Hoodia, and act to increase ATP in the hypothalamus to decrease appetite.[11]
 
+
 Preliminary evidence suggests that Caralluma Fimbriata can suppress appetite, in mechanisms similar to Hoodia. The effects may require continued supplementation (and thus acute effects of supplementation may be placebo) if the rat study applies to humans, but not enough evidence exists to be sure
+
 
 3.
 

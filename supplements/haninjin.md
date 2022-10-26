@@ -74,7 +74,9 @@ Sources and Composition
 
 Composition
 
-Iwayomin[4]Scopolin (0.403% dry weight) and its aglycone Scopoletin (1.509%)[4][5][6]Genkwanin[6] and Jaceoside[6]Quebrachitol[6]2,4-dihydroxy-6-methoxyacetophenone[6] (and its 4-O-b-D-glucoside)[4]Fraxidin 8-O-bD-glucoside[4]Myrciaphenone A[4] and Erythroxyloside B[4]Vulgarone B[7]Coniferin[4]Citrusin C[4]Tachioside[4]3-O-Methylisosecotanapartholide and Isosecotanapartholide[5]Caffeic Acid (methyl ester; 0.122%)[5]Benzoic Acid[4]Chlorogenic Acid[6]Dibromo-4-methoxybiphenyl[8]Glycocholic Acid[8]Bomame[8]Enopyranoside derivative (concentrated in ethanolic extract)[8]Camphor (concentrated in ethanolic extract)[8] and other aromatic essential oils such as Borneol, 1,8-Cineole, β-Caryophyllene, and Campehene[9]Various bioactives, but it is not really known which are seen as the 'main' bioactive components of Artemisia Iwayomogi
+Iwayomin[4]Scopolin (0.403% dry weight) and its aglycone Scopoletin (1.509%)[4][5][6]Genkwanin[6] and Jaceoside[6]Quebrachitol[6]2,4-dihydroxy-6-methoxyacetophenone[6] (and its 4-O-b-D-glucoside)[4]Fraxidin 8-O-bD-glucoside[4]Myrciaphenone A[4] and Erythroxyloside B[4]Vulgarone B[7]Coniferin[4]Citrusin C[4]Tachioside[4]3-O-Methylisosecotanapartholide and Isosecotanapartholide[5]Caffeic Acid (methyl ester; 0.122%)[5]Benzoic Acid[4]Chlorogenic Acid[6]Dibromo-4-methoxybiphenyl[8]Glycocholic Acid[8]Bomame[8]Enopyranoside derivative (concentrated in ethanolic extract)[8]Camphor (concentrated in ethanolic extract)[8] and other aromatic essential oils such as Borneol, 1,8-Cineole, β-Caryophyllene, and Campehene[9]
+Various bioactives, but it is not really known which are seen as the 'main' bioactive components of Artemisia Iwayomogi
+
 
 Some bioactive polysaccharides:
 
@@ -122,7 +124,9 @@ In tests on activated macrophages, the methanolic extract of the bark of Artemis
 
 In a human gingival fibroblast cells (acquired by biopsy), Artemisia Iwayomogi appears to downregulate 19% of the gene products upregulated by proinflammatory LPS while upregulating 48% of the genes that are downregulated by LPS.[5] The pathways that seemed to be implicated most include the Focal Adhesion pathway, the Cytokine-Cytokine receptor interation pathway, and MAPK signalling.[5] At 20-80mcg/mL Artemisia Iwayomogi (70% ethanolic extract) noted suppression of IL-6 release induce by TNF-α at 40mcg/mL or above, with some efficacy coming from isolated Scopolin and Scopoletin (0.1-1uM).[5]
 
+
 Bioactives may have anti-inflammatory effects, with the suppression of active macrophages being fairly potent in vitro
+
 
 5.2
 
@@ -130,17 +134,23 @@ Immune Cells
 
 In mouse thymocytes and splenocytes, a low concentration of 2g/mL AIP1 (polysaccharide) appears to attenuate the rate of which thymocytes die in culture over a period of 12 days; there was no increase in thymocyte count, suggesting anti-apoptoic yet not mitogenic effects.[10][14] These effects were associated with less DNA fragmentation, and preliminarly thought to be mediated via downregulation of the Fas receptor (and less activity of the Fas/FasL death pathway),[10] and downregulation of Fas mRNA has been noted elsewhere in thymocytes despite being induced by the TCDD toxin (known to induce apoptosis of thymocytes with an upregulation of Fas playing a pivotal role).[15]
 
+
 The polysaccharide in Artemisia Iwayogoi (may also be in other Artemisia species) appears to not have mitogenic (immune cell proliferating) effects but instead attenuates the rate of which cells undergo apoptosis (lyse)
+
 
 This same polysaccharide fragment appears to have suppressive effects an the antigen-presenting dendritic cells in a concentration dependent manner, with 1mcg/mL reducing the percentage of CD11c+ positive immature Dendritic cells from 12.56% (vehicle cultures) to 9.04% (AIP1 culture) and reducing the T-cell stimulating potential of these cells.[11] This study also noted downregulation of TRAF5-like protein mRNA (2.14 fold), PKM2 mRNA (2.22 fold), and Coactosin-like protein 1 (2.61 fold) with no influence on HGPRT.[11] A reduction in these dendritic cells has been noted in vivo following injections of 0.5–50mg/kg in a pulsatile manner.[16]
 
+
 May have some actions against antigen-presenting cells
+
 
 When a water extract in injected into mice at a dose of 1-1000mg/kg bodyweight prior to injection of 8mg/kg of Compound 48/80 (mast cell degranulator, able to induce a fatal allergic reaction) was able to reduce lethality in a dose-dependent manner with 500-1000mg/kg abolishing lethality and 1g/kg injected shortly after Compound 48/80 having similar effects.[17] In vitro, this extract was able to dose-dependently reduce histamine release from both IgE and Compound 48/80 in a dose-dependent manner and 100mcg/mL of the extract incubated with rat plasma Mast Cells (RPMCs) abolished the increase in intracellular calcium and greatly attenuated TNF-a and IL-6 release from human mast cells possibly secondary to inhibiting the effects of p38 MAPK and NF-kB.[17] These results have been replicated both in vivo and in vitro, where the increase in TNF-α and IL-6 secretion from mast cells were reduced by 67% and 57% at a concentration of 1mg/mL.[18]
 
 At least one study has noted that injections of a low-weight polysaccharide (AIP1) can dose-dependently reduce eosinophile infiltration into lung tissue following injection of an antigen (Ovalbumin) and reduce serum levels of IgE and TNF-α in lung tissue.[16]
 
+
 Possibly potent anti-allergic effects
+
 
 6.
 
@@ -152,7 +162,9 @@ General
 
 Artemisia Iwayomogi appears to have peroxynitrate (ONOO-) radical scavenging properties, which according to this one study was the most potent of a scan of 138 herbs (listed in full text) with 93.12% inhibition at 10mcg/L in vitro;[6] Artemisia slightly outperformed Codonopsis Pilosula (90.33%), Geum japonicum (91.05%), and Ligularia ﬁscheri (88.68%), and Artemisia had an IC50 for scavenging peroxynitrate of 1.79+/-041ug/mL which was mostly due to chlorogenic acid (IC50 0.52+/-0.04uM), genkwanin (1.01+/-0.10uM), and scopoletin (1.03+/-0.15uM).[6]
 
+
 Potentially very potent in inhibiting peroxynitrate formation, outperforming other antioxidant herbs
+
 
 7.
 
@@ -168,13 +180,17 @@ Fas gene expression appears to positively mediate fibrogenesis in the liver[19] 
 
 Another theorized mechanism (not yet demonstrated) is downregulation or inhibition of FXR and SREBP-1c, which was thought as the benefits of Artemisia mimicked that of UDCA used as active control on one study of bilt duct litigation[22] which is the mechanism UDCA benefits this model.[23]
 
+
 Fas receptor inhibition may play a role in preventing fibrosis, but despite its confirmed role in pathology it has not been found to be a major locus for the benefits of Artemisia Iwanoyogi; SREBP-1c may also be implicated
+
 
 In rats given a bile duct litigation (inducing Fibrosis via cholestatic liver injury) the water extract of Artemisia Iwayomogi at 25-50mg/kg for 14 days was able to ameliorate the increase in white blood cells (no influence on platelets or RBCs), triglycerides, bilirubin, and lipid peroxidation biomarkers in serum (MDA) all slightly outperforming the active control of 25mg/kg UDCA.[22] In other studies on fibrosis (although using CCL4 toxicity as a means to induce fibrosis) 50mg/kg of the water extract given orally in a rehabilitative manner appears to nearly normalized fibrotic scores.[24][25]
 
 Upon histological examination staining for PDGF-β, TGF-β, and α-SMA proteins and mRNA appeared to be significantly reduced to the same degree as UDCA and the scores for portal inflammation and fibrosis (modified Knodell score outlined here[26]) were reduced in a dose-dependent manner.[22] These histopathological changes are similar to previous studies in CCL4 induced fibrosis.[25][24]
 
+
 A relatively low oral dose of the water extracts appears to be highly anti-fibrotic in research animals
+
 
 Two studies have been conducted comparing the protective effects of Artemisia Iwayomogi (Haninjin) and Artemisia capillaris (Injinho), both seen as protective of the liver, with Iwayonogi appearing to be more potent in protecting the liver form fibrosis induce by CCL4 toxin[24] and in alcohol-induced liver injury.[27]
 

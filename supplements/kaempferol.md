@@ -162,13 +162,17 @@ Adipogenesis
 
 Kaempferol's inhibitory activity on Fatty Acid Synthase(FASN), the sole enzyme responsible for de novo lipogenesis, is via acting as an inhibitor of the FASN cascade, which uses the two substrate malonyl-CoA and acetyl-Coa along with NAPDH to ultimately produce palmitate.[16] Out of tested polyphenols, Kaempferol's inhibition of FASN was more potent than that of Green Tea Catechins, Apigenin and Taxifolin but less than that of quercetin and luteolin, of which the latter was the most inhibitory.[16]
 
+
 Kaempferol may inhibit they fatty acid synthase enzyme associated with production of fatty acids from glucose
+
 
 Kaempferol (as well as Quercetin) are able to inhibit PPARγ activation of adipogenesis by rosiglitazone and other endogenous ligands by having high affinity to the receptor but low potency to activate it.[17] Kaempferol appeared to activate PPARγ at most of 45% relative to rosiglitazone whilst Quercetin maxed at 20%, and neither induced adipocyte differentiation at concentrations ranging from 5-50µM.
 
 Over the long term, Kaempferol may reduce adipocyte formation by causing its stem cell (bone marrow cells) to favor osteogenesis (bone forming) rather than fat cell forming.[6]
 
+
 Possible inhibition of PPARγ induced by other agonists thereof
+
 
 6.2
 

@@ -156,11 +156,15 @@ Copper is most well known for being a vital component of the antioxidant enzyme 
 
 There is also another variant of this enzyme which uses manganese as its functional group (known as MnSOD) rather than copper and zinc-SOD.[13] MnSOD has similar functions,[14] however, the main difference being where in the body each enzyme is expressed.
 
+
 Copper is an important cofactor for a number of enzymes in the body that catalyze redox reactions. The most important enzyme in so far as health claims and the effects of copper in humans is the antioxidant enzyme known as copper, zinc superoxide dismutase (Cu,Zn-SOD) where copper works in concert with zinc to transform toxic superoxide molecules into peroxide.
+
 
 Copper as a free ion rather than a component of enzymes has a stimulatory role in immune cells, where a deficiency tends to lead to a suppressed response to antigens[15][16] and may also suppress innate immunity,[17] manifesting as neutropenia (a lack of neutrophils).[18]
 
+
 Beyond its role as an enzyme cofactor, copper ions appear to have a stimulatory role in the immune system. It is important to emphasize, however, that copper is an essential\_trace mineral; relatively low levels are required for optimal health and copper is inherently toxic high at high concentrations.
+
 
 1.3
 
@@ -172,7 +176,9 @@ The recommended daily allowance (RDA) of copper in the United States is:
 
 The median intake for copper in the standard diet has been reported to be between 1,000-1,600µg (1.0-1.6mg), which sufficiently covers the RDA. The tolerable upper limit (TUL) for copper has been reported to be 10mg[5] In otherwise healthy adults, copper intake in the range of 800µg and 1,680µg has been shown to result in similar retention in the body due fluctuating absorption rates.[22]
 
+
 The standard diets of first-world countries are sufficient to supply the recommended daily intakes of copper for all age groups.
+
 
 1.4
 
@@ -182,7 +188,9 @@ The human body is somewhat resilient to copper deficiency due to the intestines 
 
 Gastric bypass surgery is thought to be a risk factor for copper deficiency,[24] as are other gastric stressors such as gastrointestinal surgeries.[25] Usage of proton pump inhibitors (PPIs) may also contribute to copper deficiency[26] by reducing the ability of the body to absorb dietary copper.
 
+
 Copper deficiency is relatively rare, and not a major concern for the general population. Although rare, copper deficiencies have been noted under conditions that may reduce copper absorption, such as previous gastric bypass surgery or concurrent use of proton pump inhibitors.
+
 
 Some rodent studies have assessed the effects of a 'marginally' copper-deficient diet, which tends to be defined as providing approximately 25-50% of required dietary copper. For the rat, this equates to 1.5-3.0mg/kg copper, compared to 6.0-6.2mg/kg in the standard rat diet.[27][28]
 
@@ -190,11 +198,15 @@ This low dose of copper appears to be associated with increased inflammation fol
 
 These studies on reduced intake have noted effects that are similar to but less severe than models of true copper deficiency in rodents, where instances of substantially increased inflammation[33][34] and congestive heart failure have been reported.[35] Alterations in cardiac function prior to cardiomyopathy[36] and cardiac hypertrophy secondary to more drastic copper deficiencies[37] appear to be reversible following copper repletion.
 
+
 In rodents given a 'marginal' copper deficiency, (50% of the standard copper intake or less) there are negative changes in immune and cardiovascular function. These changes can be normalized when copper is introduced back into the diet at sufficient levels.
+
 
 True copper deficiency may result in myelopathy,[38][39] which has been noted in instances following gastrointestinal surgery.[25] Such myelopathy is known to occur in ruminants, where it is known as 'swayback'[25] and presents in both ruminants and humans as gait ataxia and sensory symptoms.[38][39] As assessed by MRI, copper deficiency myelopathy appears similar to subacute degeneration of the dorsal column in cases of Vitamin B12 deficiency.[38][39][40]
 
+
 True copper deficiency results in a neurological condition that is, to a degree, clinically similar to Vitamin B12 deficiency. This has only been noted in situations following gastrointestinal surgeries where copper absorption has been significantly impaired, however.
+
 
 1.5
 
@@ -214,23 +226,31 @@ Dietary copper tends to be bound a bound form in food products, and the acidic e
 
 It has been argued[46] that food-bound copper is processed differently than copper in the water supply or via dietary supplements; copper can appear rapidly in the blood as free copper (see distribution section) bypassing oral metabolism when not in foodbound form,[47] while acid-mediated digestion of copper from food products allows it to be processed by the liver.
 
+
 The acidity of the stomach plays a role in extracting dietary copper sources from foodstuffs so that free copper can be absorbed in the intestines.
+
 
 Copper is absorbed in the intestines from the same transporter as zinc, known as zinc transporters (ZnTs),[48][49] as well as a common bivalent cation transporter known as DMT1[50] that also mediates absorption of other minerals.[51] Copper also has its own transporter known as the copper transporter 1 (CRT1) which can also mediate zinc and iron transportation.[51] When copper is complexed with amino acids, amino acid transporters may also play a role in copper absorption.[52]
 
 The overall absorption of copper from the diet tends to be approximately 30-40%[53] although it is estimated to range between 12-67% reflecting dietary copper levels (better absorption with low intake, worse absorption with progressively higher intakes of copper[22][54]). Copper absorption also tends to vary from person to person, as differences have been noted among individuals even with the same amount of copper in the diet.[54]
 
+
 Copper can be absorbed from the intestines using a variety of different transporters, with the three groups of transporters (zinc transports, copper transports, and generalized bivalent cation transporters) also mediating iron and zinc absorption.
+
 
 High levels of zinc in the intestines can promote the synthesis of a binding protein known as metallothionein[55][56] which also binds to copper; this mechanism leads to high doses of zinc reducing copper absorption.[55][56] Copper also has the potential to induce metallothionein proteins,[57] in a process known as mutual antagonism.[58] Because copper intake is much lower relative to zinc, copper is typically not taken in amounts that would interfere with zinc absorption, however.
 
+
 The induction (responsive production) of the protein metallothionein is a protective mechanism that attenuates absorption of zinc or copper at high concentrations, reducing the risk of harm from mineral overdoses. High concentrations of either mineral can induce this protein, raising the potential for one mineral to cause deficiencies of the other by preventing absorption. On a practical level, copper-induced zinc deficiencies have not been reported due to the low amount of copper present in the diet relative to zinc. Excessive zinc intake is a well-known cause of copper deficiency, however.
+
 
 The addition of phytate to the diet has failed to influence copper absoprtion in man[54] although high levels of phytate in the rat show the expected reduction in bodily retention of copper over a prolonged period of time.[59]
 
 When looking at how other dietary components can influence absorption of copper in both rodents and humans,[53] it seems that high protein diets increase copper absorption in both rodents and humans (150g protein compared to 50g[60]) resulting in lower copper requirements with higher protein intakes.[61] Composition of the protein sources may also be relevant, as raw meat products have been noted to induce copper deficiency in rats whereas cooked meats have not been shown to have this effect.[62] The general idea of increased dietary protein promoting greater retention of copper may also be a more general mechanism that applies to other dietary minerals as well.[53]
 
+
 In regard to dietary factors that can interact with copper absorption, high protein diets tend to promote copper absorption while higher than normal intakes of phytic acid may reduce absorption. These alterations in absorption are similar for most other divalent cations including calcium and magnesium.
+
 
 2.2
 
@@ -238,7 +258,9 @@ Peripheral Distribution
 
 When present in the blood, around 85-95% of copper is bound to the main transportation protein known as ceruloplasmin where it is referred to as 'bound' copper. In contrast, the remaining 5-15% of copper is more loosely bound to albumin and is termed 'free copper'.[46] Free copper levels are more biologically relevant since they can dissociate easier and act in nearby tissues. Diseases associated with high copper accumulation in tissue (ex. Wilson's Disease[63]) are at times due to reduced ceruloplasmin levels, causing an increase in free copper[64] (this is not the only explanation, however[65]). Outside of Wilson’s disease, more moderate increases in free copper are still thought to be harmful and a potential cause of toxicity.[66][46]
 
+
 The majority of copper found in circulation is tightly bound to the primary binding protein known as ceruloplasmin, with the remaining amount of copper, known as free copper, more loosely associated with albumin. Significant increases in free copper are considered a risk factor for toxicity.
+
 
 The overall copper content of an average human body (70kg body weight; approximately 110mg copper) tends to be 6% total copper circulating in the blood and another 9% within the brain, with the remaining 85% being stored in peripheral tissue. Among the peripheral tissues, 47% of total body copper is located in bone and connective tissue while 27% is in skeletal muscle and the remaining copper is stored in the liver.[67][68]
 
@@ -274,7 +296,9 @@ The heart tissue of people who have died of ischemic heart disease tend to be lo
 
 However, several observational studies have noted that blood copper levels may actually be associated with cardiovascular disease. One cohort study found that increased ceruloplasmin levels (which is a major protein which carries copper in the blood) was correlated with an increased risk of heart attack.[81] An analysis of the Second National Health and Nutrition Examination Survey which directly measured serum copper also found that increased serum copper was associated with an increased risk for cardiovascular disease.[82] 
 
+
 The heart tissue of people with heart disease tends to be low in copper. However, people with heart disease also tend to have higher levels of copper in the blood.
+
 
 There have been a few clinical trials to date specifically looking at how copper affects heart tissue and markers of cardiovascular disease. 
 
@@ -282,7 +306,9 @@ One study found that administering a copper chelator, which would be expected to
 
 In terms of copper supplementation, one randomized placebo-controlled trial found no effect on C-reactive protein, homocysteine, and cholesterol when supplementing patients with moderately high blood cholesterol with 2mg copper per day for 8 weeks.[85] A randomized crossover trial in healthy young women treated with 0, 3, or 6mg copper for 4 weeks per period found no effect on several markers for cardiovascular disease except for a 30% reduction in plasminogen activator inhibitor type 1, a risk factor for thrombosis and atherosclerosis,[86] with 6mg of copper.[87]
 
+
 A copper chelator has been noted to help mitigate left ventricular hypertrophy in patients with type 2 diabetes. Copper supplementation has not been seen to have much effect on cardiovascular risk markers over the short term in clinical trials.
+
 
 4.2
 
@@ -312,7 +338,9 @@ One randomized placebo-controlled trial found no effect on total, HDL, or LDL ch
 
 Copper supplementation of up to 6mg per day does not seem to have an effect on the susceptibility of LDL to oxidation in vitro.[93]
 
+
 Clinical trial evidence to date suggests that copper supplementation has no effect on plasma lipid profile.
+
 
 5.
 
@@ -336,11 +364,15 @@ Copper is present in the retina[102] where it functions in REDOX balance as a co
 
 Copper concentrations in the human retina are generally an order of magnitude lower than zinc concentrations when assessed posthumously, ranging between 0.2-9nM/mg (retina), 0.4-7nM/mg (RPE; retinal pigment epithelium), and 0.6-4.2nM/mg (choroid) dry weight.[102] The changes in copper seem to be similar to changes in zinc, increasing in the choroid during the aging process (with minimal changes in the retina and RPE. There also appears to be some sex differences, with zinc being higher in the male choroid (no difference between zinc and copper in females) and copper higher in the RPE of women.[102] Cadmium, which is not present in this tissue at birth but increases with age[105] seems to also accumulate in the eye alongside copper and zinc with some sex differences.[102]
 
+
 Copper is present in all regions of the eye where it works with zinc as a cofactor for the enzyme Cu,Zn-superoxide dismutase. 
+
 
 Due to the role of other essential minerals that are involved in oxidative processes in the retina (Zinc and Selenium in particular), copper is also thought to play a role in oxidative pathology of the retina, namely age-related macular degeneration.[106] Copper has been added to some compound formulations for age-related macular degeneration (AREDS at 2mg[107][108]) to avoid copper-deficiency, which is thought to be a risk with zinc supplementation.[109] There do not appear to be any studies on copper in isolation, however.
 
+
 At this moment in time there is no evidence to assess the role of copper specifically in age-related macular degeneration. It has been included alongside zinc in some formulations for precautionary measures.
+
 
 7.
 
@@ -362,7 +394,9 @@ Copper is known to play an important role in several cell signaling pathways imp
 
 The mechanism by which copper enhances the macrophage immune-response has only recently been uncovered. As part of the innate immune response, activated macrophages (and neutrophils) engulf invading pathogens such as bacteria into membrane-bound phagosomes in a process called phagocytosis. The respiratory burst reaction inside phagosomes generates toxic reactive oxygen species (ROS) to kill invading pathogens while protecting the rest of the cell from damage. Copper has recently been found to play an important role in this process, where elevated intracellular copper levels in macrophages causes the copper transporter protein ATP7A to relocate to phagosomes, delivering additional copper ions that are thought to enhance the ROS-generating ability of the respiratory burst reaction.[115][116]
 
+
 By increasing ROS production within phagosomes, copper plays an important role in the ability of macrophages and neutrophils to kill invading pathogens.
+
 
 8.
 
@@ -388,7 +422,9 @@ The copper intrauterine device (IUD) is an implantable device in women which uti
 
 Women who use a copper IUD may experience bleeding irregularities within the first six months of usage[124] that may promote discontinuation of the IUD;[125] these irregularities may be treated by the likes of NSAIDs and other drugs.[126] Usage of the contraceptive may increase serum copper levels slightly (up to 6%), which is not thought to be toxic.[41] Use of a copper IUD has not been shown to affect copper concentrations in breast milk.[42]
 
+
 Copper IUDs may increase serum copper concentrations, but it is to a small degree and currently not thought be a significant health factor.
+
 
 10.
 
@@ -402,13 +438,17 @@ Copper is thought to contribute to Alzheimer's Disease (AD) since alterations in
 
 Although copper concentrations tend to be increased in the brain during the normal aging process in both serum[130] and the brain,[131] preexisting symptoms of AD can be exacerbated by long-term dietary copper exposure,[132] and copper chelators that decrease free copper levels can be therapeutic in mouse models.[133] Given the plausible role for copper in the pathology of AD, and plenty of aforementioned “circumstantial” evidence, it has been recommended that the elderly avoid multivitamins containing added copper[21] and also consider diets with lower copper levels.[20]
 
+
 Although copper concentrations in the body naturally become elevated during the aging process, levels tend to be higher in subjects with symptoms of Alzheimer's disease. Copper seems to be associated with worsening of symptoms and may have a causative role, suggesting that the elderly may benefit from reducing copper intake from food and supplements.
+
 
 When looking at in vitro evidence, it seems that copper itself can induce oxidative stress in neurons in a manner modulated by amyloid precursor proteins (APPs).[134][135] A prevailing theory is that by binding to amyloid beta (Aβ), a peptide derived from from APP, copper to undergoes redox cycling that produces peroxide, a possible driver of the oxidative-stress associated with AD pathology.[136][137][138][139][140][141]
 
 ATP7B is a gene that controls 'free' copper levels (copper in the body that is not bound to the primary copper-binding protein ceruloplasmin) and its dysfunction explains Wilson's disease. Thus, it was hypothesized that variations in ATP7B activity could also partially explain AD occurrence.[142] Supporting this idea, it has been reported that ATP7B SNPs that affect the affinity of ceruloplasmin for copper differ between AD patients and age-matched healthy controls.[143]
 
+
 The presence of certain mutations (SNPs) in ATP7B can increase free copper levels by reducing the binding affinity of ceruloplasmin. Certain ATP7B SNPs have recently been found to be more prevalent in those with Alzheimer’s disease (AD), suggesting that changes in genes that affect copper handling may confer a genetic susceptibility to AD.
+
 
 11.
 
@@ -422,9 +462,12 @@ Zinc is a dietary mineral with shared metabolism and regulation with copper. Pro
 
 Metallothionein gene expression is regulated by the transcription factor metal-regulatory transcription factor 1 (MTF-1),[146][147] which is activated by zinc or copper as well as toxic heavy metals including cadmium[148][148] and mercury.[149] By binding to and sequestering heavy metals, metallothioneins also play an important role in limiting heavy metal toxicity.
 
-Metallothioneins can be found in the intestines, where high oral doses of zinc (600mg or greater[150]) increase their expression, which appears to be a protective response to limit zinc toxicity. Because metallothioneins bind minerals indiscriminately, this can cause reduced absorption of other minerals such as copper and is known to induce copper deficiencies,[151][152] a potential cause of CNS demyelination[153][154] and/or death.[151]
+Metallothioneins can be found in the intestines, where high oral doses of zinc (600mg or greater[150]) increase their expression, which appears to be a protective response to limit zinc toxicity. Because metallothioneins bind minerals indiscriminately, this can cause reduced absorption of other minerals such as copper and is known to induce copper deficiencies,[151][152] a potential cause of CNS demyelination[153]
+[154] and/or death.[151]
+
 
 High doses of zinc are known to induce metallothioneins which can bind to copper and prevent its absorption. At the extreme, this could potentially cause copper deficiencies resulting in cognitive impairments and potentially death. It is unlikely that standard supplemental doses of zinc (15-50mg) are sufficient to cause such symptoms, however, as all known cases of zinc-induced copper deficiency were the result of accidental zinc overdoses or 500mg or greater.
+
 
 11.2
 
@@ -432,5 +475,7 @@ Amino Acids
 
 High dietary protein intake (150g in an adult male[60]) has been shown to increase copper retention, although individual amino acids can have positive or negative effects in isolation. L-histidine has shown an inhibitory effect on copper retention[155] while other amino acids like Glycine, L-tryptophan, and L-methionine have been shown to promote it.[52] The ability of protein to affect copper levels is thought to be related to the affinity of individual amino acids for copper ions, which can function as ligands to transport copper across cellular membranes for absorption.[53] L-cysteine can reduce copper absorption by reducing divalent copper to a less absorbed, monovalent state,[156] a mechanism similar to Vitamin C-mediated suppression of copper absorption.[157] Binding of divalent copper to amino acid ligands attenuates the inhibitory effect of cysteine or vitamin C on absorption.[158]
 
+
 Copper is known to have a variety of interactions at the level of the intestines with amino acids that can affect absorption in a positive and negative manner. From a practical standpoint, the effects of increased dietary protein consumption (from food) seem to cause the pro-absorptive mechanisms to win out; increased protein intake has been shown to promote copper absorption.
+
 

@@ -68,11 +68,15 @@ Composition
 
 The following bioactives are found in Codonopsis Pilosula:
 
-Codonopilates A-C, a group of triterpenyl esters isolated from a CHCl3 fraction[3]24-methylenecycloartanyl linolate and 24-methylenecycloartan-3-ol, structurally similar to Codonopilates[3]Codotubulosine A and B[2] at 0.516-3.44mg/g dry weight, respectively. The variant of modesta has a lesser content (0.14-0.42mg/g)[2] as well as Codonopsine and Codonospinine[2]Codonopyrrolidium B, a pyrrolidine alkaloid[3]Hesperidin[4]Alpha-spinasterol[4]N-hexyl beta-sophoroside[4]Lobetyolin[5] and lobetyolinin[4]5-hydroxymethylfurfural[2][3]Perlolyrine[6]Taraxerol, taraxeryl acetate,[4] and 14-taraxeren-3-ol[3]Squalene[3]Adenosine at 0.885-0.92mg/g dry weight[2]beta-sitosterol and beta-daucosterol[4]Vitamin E (as alpha-tocopherol)Main bioactives that may underlie bioactivities of Codonopsis Pilosula, most likely the alkaloids; although Codonopilates are large structures with side chains, all other alkaloids (Codonopyrrolidium B, Codotubulosine A and B, Codonopsine and Codonopsinine) have pyrrolidine alkaloids structures, similar to Piracetam and the racetam family
+Codonopilates A-C, a group of triterpenyl esters isolated from a CHCl3 fraction[3]24-methylenecycloartanyl linolate and 24-methylenecycloartan-3-ol, structurally similar to Codonopilates[3]Codotubulosine A and B[2] at 0.516-3.44mg/g dry weight, respectively. The variant of modesta has a lesser content (0.14-0.42mg/g)[2] as well as Codonopsine and Codonospinine[2]Codonopyrrolidium B, a pyrrolidine alkaloid[3]Hesperidin[4]Alpha-spinasterol[4]N-hexyl beta-sophoroside[4]Lobetyolin[5] and lobetyolinin[4]5-hydroxymethylfurfural[2][3]Perlolyrine[6]Taraxerol, taraxeryl acetate,[4] and 14-taraxeren-3-ol[3]Squalene[3]Adenosine at 0.885-0.92mg/g dry weight[2]beta-sitosterol and beta-daucosterol[4]Vitamin E (as alpha-tocopherol)
+Main bioactives that may underlie bioactivities of Codonopsis Pilosula, most likely the alkaloids; although Codonopilates are large structures with side chains, all other alkaloids (Codonopyrrolidium B, Codotubulosine A and B, Codonopsine and Codonopsinine) have pyrrolidine alkaloids structures, similar to Piracetam and the racetam family
+
 
 The Codonopsis Pilosula herb tends to contain the following crude polysaccharides (totalling around 4.55% of the weight of the plant[7]):
 
-An acidic polysaccharide fragment (Rhamnose:Arabinose:Galactose:Mannose:Galacturonic Acid in a 1.34:3.49:1.07:0.45:1.98 ratio)[8] and a separate acidic polysaccharide (arabinose:glucose:rhamnose:galactose:mannose:glucuronic acid:galacturonic acid at 11.4:24.6:3.8:11.5:1.8:1.0:28.4)[9]Polysaccharide containing Galactose, Rhamnose, and Arabinose in similar ratios[10] which may be called CPPS3[11]Water soluble polysaccharide S-CPPA1 (glucose:galactose:arabinose in a 10.5:3.4:1.7 ratio, 2.35% protein and 133.2kDa)[7] consisting of 0.82% crude material by weightA few polysaccharides (chains of carbohydrates, a component of the carbohydrate content of the plant) may also possess bioactivity
+An acidic polysaccharide fragment (Rhamnose:Arabinose:Galactose:Mannose:Galacturonic Acid in a 1.34:3.49:1.07:0.45:1.98 ratio)[8] and a separate acidic polysaccharide (arabinose:glucose:rhamnose:galactose:mannose:glucuronic acid:galacturonic acid at 11.4:24.6:3.8:11.5:1.8:1.0:28.4)[9]Polysaccharide containing Galactose, Rhamnose, and Arabinose in similar ratios[10] which may be called CPPS3[11]Water soluble polysaccharide S-CPPA1 (glucose:galactose:arabinose in a 10.5:3.4:1.7 ratio, 2.35% protein and 133.2kDa)[7] consisting of 0.82% crude material by weight
+A few polysaccharides (chains of carbohydrates, a component of the carbohydrate content of the plant) may also possess bioactivity
+
 
 2.
 
@@ -86,13 +90,17 @@ One rat study noted that ingestion of Codonopsis resulted in attenuation of the 
 
 Currently, other studies that note interactions with the cholinergic system have found increased tension in the smooth muscle tissue of the stomach, which was partially blocked by Atropine.[13]
 
+
 Possibly something related to acetylcholine receptors may contribute, but the evidence is currently subpar
+
 
 Codonopsis alkaloids were found to suppress cell growth of the neural cell line PC12. Cell growth was suppressed by up to 15% at the concentration of 30ug/mL under the influence of NGF at 2ug/mL; in this study, 100ug/mL of Codonopsis was required to be equally effective as 50ug/mL NGF in suppressing proliferation (to 80% of control).[14]
 
 Codonopsis alkaloids have been found to, in vitro, enhance NGF-induced neuronal outgrowth in PC12 cells. Although it alone failed to enhance neurite length, 2ug/mL enhanced NGF-induced growth from 7.0+/-3% to 52.0+/-8%; 742% the growth of NGF alone.[14] Synergism were noted to be statistically significant at 10ug/mL, and missed statistical significance at 3ug/mL.[14] These benefits appeared to be mediated via MAPK (the pathway mediated by NGF[15]), as incubation with the inhibitor PD98059 suppressed growth.[14] In Schwann cells (RSC 69) it was found that the signalling via MAPK is p38 and ERK dependent,[16] where concentrations of 10-100ug/mL for 16 hours significantly increased proliferation of cell nuclear antigen (up to 120% at 60ug/mL) and increased Schwann cell proliferation around 350% of control at 20-40ug/mL and increased cell migration in a dose-dependent manner coupled with increased MMP9 and uPA, which may be downstream of an increase in FGF-2.[16] The authors hypothesized that the increase of neuronal proliferation and migration could aid nerve regeneration.[16]
 
+
 Too preliminary to draw conclusions, but some bioactives in Codonopsis (alkaloids in structure) appear to enhance neuronal differentiation in vitro.
+
 
 2.2
 

@@ -102,11 +102,15 @@ Nardostachys jatamansi (of the family Valerianaceae, plant is synonymous with Na
 
 In traditional chinese medicine, the rhizomes of N. jatamansi and the related herb N. chinensis are referred to as 'Gansongxiang' or 'Gansong' while in Kampo medicine (Japan) it is referred to as 'Kanshoko'.[6]
 
+
 Nardostachys jatamanis (synonym of nardostachys grandiflora, but not the same plant as nardostachys chinensis) is a traditionally used antispasmolytic and anticonvulsive herb which appears to have links to both Ayurveda and Traditional Chinese Medicine
+
 
 Jatamansi, in traditional usage, is sometimes replaced with its substitute Selinum vaginatum or 'bhootkeshi'[7][8] (similar to the relationship between tribulus terrestris and pedalium murex or between panax ginseng and codonopsis pilosula); these two plants appear to have different phenolic profiles as well as having different primary bioactives.[7]
 
+
 Jatamansi is commonly associated with the herb Selinum vaginatum due to having similar physical properties and have been used interchangeable in some traditional medicine, it is not known if the two herbs are similar enough in chemical profile to warrant this lack of discrimination
+
 
 1.2
 
@@ -114,7 +118,9 @@ Composition
 
 The rhizome component (vertical root) of the herb has been found to contain
 
-Nardal, its oxidized form Nardin[9][4] and the methyl ester of Nardin.[10] Nardin appears to be highly variable in quantity between 0.008-0.039% up to 0.37%[9]Nardin A and Nardin B (sequesterpenes)[10]Jatamansic acid[4][11]Jatamol A and B[12]Spirojatamol[13] which has been detected at 26.9% of the essential oil[6] and 400mg/kg of the root[13]Nardostachysin (terpenoid) as two isomers, with the β being more stable[3]Neolignans (unidentified)[14]Taraxerone[10]Ursolic acid and its 3-O-arabinosyl conjugate[10]Valeranone, at 30.9% of the essential oil[6] and 200mg/kg of the root[13]Valepotriates (less than 0.07%)[15]Valerenic acid (less than Valerian)[15]Chlorogenic acid[7]Ferulic acid[7]Protocatechuic acid[7]Syringic acid[7]Aromadendrene at 5% of the essential oil[6]Cubeb-11-ene at 3.9% and Epi-a-selinene at 3.3% of the essential oil[6]Although there is a lack of evidence to support what the main bioactive is (benefits are seen with extracts rather than isolated molecules usually) it is thought that the main bioactives are Jatamansic acid and Nardostachysin as well as Nardal/Nardin
+Nardal, its oxidized form Nardin[9][4] and the methyl ester of Nardin.[10] Nardin appears to be highly variable in quantity between 0.008-0.039% up to 0.37%[9]Nardin A and Nardin B (sequesterpenes)[10]Jatamansic acid[4][11]Jatamol A and B[12]Spirojatamol[13] which has been detected at 26.9% of the essential oil[6] and 400mg/kg of the root[13]Nardostachysin (terpenoid) as two isomers, with the β being more stable[3]Neolignans (unidentified)[14]Taraxerone[10]Ursolic acid and its 3-O-arabinosyl conjugate[10]Valeranone, at 30.9% of the essential oil[6] and 200mg/kg of the root[13]Valepotriates (less than 0.07%)[15]Valerenic acid (less than Valerian)[15]Chlorogenic acid[7]Ferulic acid[7]Protocatechuic acid[7]Syringic acid[7]Aromadendrene at 5% of the essential oil[6]Cubeb-11-ene at 3.9% and Epi-a-selinene at 3.3% of the essential oil[6]
+Although there is a lack of evidence to support what the main bioactive is (benefits are seen with extracts rather than isolated molecules usually) it is thought that the main bioactives are Jatamansic acid and Nardostachysin as well as Nardal/Nardin
+
 
 It should be noted that the volatiles in the related plant Nardostachys chinensis differ widely.[6] N. chinensis contains Patchouli alcohol (named after patchouli but found in higher levels in Indian Valerian) while N. jatamansi has been reported to have none in some sources[6] but have a small content (100mg/kg) elsewhere.[13]
 
@@ -136,7 +142,9 @@ Sedation
 
 Jatamansi has traditionally been recommended as a sedative and destressing agent[3][2] and been noted to increase cerebral levels of GABA in mice[17] and some studies comparing a healthy rodent control against one given Jatamansi note that 250mg/kg is able to slightly reduce locomotion (11.5%) and increase rest time (12.6%) indicative of some sedation.[18]
 
+
 Possible relaxing and sedative effects, although this has not yet been studied directly or in humans
+
 
 2.2
 
@@ -146,11 +154,15 @@ Jatamansi hydroalcoholic extract (rhizome) has shown in vitro acetylcholinestera
 
 Other possible mechanisms include a preservation of brain Na+/K+ATPase activity, although this study noted significant protection in an ischemic model and only a trend to increase activity in healthy controls at 250mg/kg.[18]
 
+
 Has the ability to inhibit acetylcholinesterase; appears to be somewhat weak to moderate potency and the molecule(s) mediating this inhibition is not yet known.
+
 
 When 50-200mg/kg of an ethanolic root extract is fed to young and old mice for 8 days, it was noted that 100mg/kg of the extract was as effective as the reference drug (200mg/kg Piracetam) in improving learning as assessed by an elevated maze plus test, with 200mg/kg trending to outperform Piracetam in both young and old.[21] The 100mg/kg dose was also tested alongside Diazepam and Scopolamine (amnesiac compounds) and it was found that Jatamansi abolished the memory deficit by these compounds.[21]
 
+
 Appears to have memory enhancing properties in both youth and elderly, requires human testing
+
 
 2.3
 
@@ -158,7 +170,9 @@ Depression
 
 100-400mg/kg of the ethanolic extract of Jatamansi appears to have comparable efficacy as Imipramine (15mg/kg) and sertraline (20mg/kg) in reducing depressive symptoms in mice,[22] which is thought to be secondary to increasing monoamines (as whole brain MAOA and MAOB enzymes were reduced) and some interaction with GABA(B) receptors, as an agonist of GABA(B) receptors abolished the anti-depressive effects.[22] Elsewhere, an increase in brain monoamines (noradrenaline, dopamine, serotonin, and GABA) is noted with Jatamansi ingestion after 15 days[17] with an increase in GABA, serotonin, and taurine occurring after a single dose.[17]
 
+
 Preliminary evidence in mice suggest fairly potent anti-depressive effects comparable to Imipramine and Sertaline (reference drugs) with an interaction at GABA(B) receptors which is not common. Requires more evidence to come to conclusions
+
 
 2.4
 
@@ -170,9 +184,12 @@ A single acute dose of Jatamanis appears to have adaptogen-like effects via redu
 
 100-200mg/kg of the root extract fed to rats during 21 days of stress testing appears to dose-dependently attenuate the increase in corticosterone and normalize the stress-induced cognitive deficits, with no significant differences between 200mg/kg jatamansi (stressed rats) and unstressed controls in reference and working memory errors, retention of new memories, or correct choice tasks.[5]
 
+
 Jatamansi appears to be an adaptogen herb at 200mg/kg in rats (human dose of 32mg/kg of the root) or higher, and is less potent than the reference drug of panax ginseng on a dry weight basis but at 5-fold the dose is comparable in potency. Through the adaptogenic effects ingestion of Jatamansi appears to preserve cognition during stressful periods
 
+
 There is currently no support in humans, only numerous studies in animals
+
 
 2.5
 
@@ -180,7 +197,9 @@ Fatigue
 
 Rats given 200-500mg/kg Jatamansi in a model of stress induced fatigue noted that the increase in oxidative stress parameters seen in stressed control were attenuated in a dose-dependent manner as well as other biomarkers of stress (locomotion, anxiety) with both doses comparable to 100mg/kg Panax ginseng.[25]
 
+
 Possible antifatigue effects with a potency not exceeding Panax Ginseng, the refrence antifatigue agent
+
 
 2.6
 
@@ -190,7 +209,9 @@ In C6 glioma cells ex vivo, incubation with all extracts of jatamansi appears to
 
 Oral intake of 200mg/kg Jatamansi ethanolic extract (this study confounded with selenium and crocetin from saffron[27]) appears to have neuroprotective properties against streptozotocin injections as assessed by escape/step-through latency associated with less lipid peroxidation in the hippocampus and frontal cortex, where damage was normalized.[27] When tested in isolation, jatamansi at 250mg/kg appears to be protective against cerebral ischemia[18] and 200-800mg/kg of the ethanolic root extract was able to confer partial protection against some changes in 6-OHDA induced neurotoxicity in a dose-dependent manner (with almost absolute protection on parameters of locomotion and rest only).[28]
 
+
 Appears to have general neuroprotective effects, but although it occurs at a concentration low enough that it might be practically relevant there is not enough information to draw conclusions or compare it against other neuroprotective agents
+
 
 2.7
 
@@ -198,11 +219,15 @@ Catalepsy and Seizures
 
 Haloperidol-induced catalepsy appears to be reduced with oral intake of 250-500mg/kg Jatamansi water extract to a level that is not significantly different than combination L-DOPA (100mg/kg IP) and Carbidopa (25mg/kg IP), although 500mg/kg trended to be weaker (and 100mg/kg was protective but significantly less than the reference drugs).[29] Similar effects are noted with reserpine-induced catalepsy where it outperformed Vitamin E (10mg/kg),[30] and both studies trace the bioactives back to the triterpene class.[29][30]
 
+
 Appears to have anti-cataleptic effects in response to toxins
+
 
 One study to induce seizures in rats noted that 50-400mg/kg was able to slightly protect against electricity induced seizures with no protective effect against pentylenetetrazole-induced seizures.[31] When tested alongside phenytoin, jatamansi appeared to synergistically reduced seizures with 50mg/kg jatamansi and 75mg/kg phenytoin conferring absolute protection and reducing the ED50 of phenytoin from 169+/-14.0mg/kg to 32.4+/-4.58mg/kg (to 19% of baseline).[31]
 
+
 Appears to have some anti-seizure effects, but alone it is not that remarkable. Jatamansi appears to be synergistic with the antiseizure agent phenytoin
+
 
 3.
 
@@ -214,7 +239,9 @@ Cardiac Tissue
 
 500mg/kg of jatamansi is able to attenuate cardiac damage induced by 15mg/kg doxorubicin[32] and is able to preserve lipid metabolism despite doxorubicin toxicity;[33] it is thought that this protective effect is mediated via anti-lipid peroxidation at the level of the cell membrane.[33]
 
+
 May be cardioprotective
+
 
 4.
 
@@ -238,11 +265,15 @@ Jatamansi has shown benefit in animal models for mild (cerulein-induced)[35][36]
 
 The mechanism of action is thought to be either via MAPK inhibition[38] or preventing pancreatic stellate cell activation (noted with Jatamansi in vitro[39]) which is a common pancreatitis treatment target.[40] An increase in heme-oxygenase 1 (HO-1) has also been noted.[36]
 
+
 Appears to have protective effects on the pancreas against stressors that induce pancreatitis. Although there is no human evidence currently, the respectible dose that it occurs in rats/mice suggest that this is relevant to human consumption and would correlate to an estimate human intake of around 0.8-1.6mg/kg or higher
+
 
 Protective effects have been noted on the β-cells of the pancreas, where oral ingestion of Jatamasi prior to streptozotocin injections significantly protected from diabetes.[41] This was replicated in vitro in response to cytokine damage with 100µg/mL conferring near absolute protection in RINm5F cells, and the mechanism is thought to be related to preventing NF-kB activity downstream of the pro-diabetic stressors.[41]
 
+
 Protective effects on the pancreas extend to the β-cells, where there may be some anti-diabetic effects (in regards to reducing the risk thereof, the role of Jatamansi in treatment of diabetes is not known)
+
 
 5.2
 
@@ -250,7 +281,9 @@ Liver
 
 Jatamansi has been demonstrated to have hepatoprotective effects in one study combining the herb with Momordica charantia and Ferula asafetida,[42] the combination of which was statistically comparable but trended to be less potent than Liv-52 as reference drug.[42] In isolation, jatamansi 50% ethanolic extract at 800mg/kg preloaded prior to thioacetamide was able to confer absolute protection as assessed by liver enzymes in serum (no histological examination undertaken, but death with an LD90 does was greatly attenuated but not abolished with jatamasni).[43]
 
+
 Appears to have hepatoprotective properties, although it is too soon to suggest potency or a role in treatment. Preliminary evidence on the topic looks promising
+
 
 6.
 
@@ -262,7 +295,9 @@ Hair
 
 Extracts of Jatamansi applied topically via oil are noted to increase hair growth rates in mice (reducing the required time to regrow hair by 30%), which has been noted with isolated Jatamansic acid (27%) and Nardin (23%); no group outperformed 2% Minoxidil as active control (43%).[4]
 
+
 Topical application of the oil of Jatamansi appears to promote hair growth, although not more potent than the reference drug (Minoxidil; Rogaine). The effects of oral ingestion of Jatamansi are unknown
+
 
 7.
 

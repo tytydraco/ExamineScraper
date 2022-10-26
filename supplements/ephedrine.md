@@ -202,7 +202,9 @@ This agonism may not appear to be seen in vivo at doses of 50mg taken thrice dai
 
 It has been shown to increase only the beta-3 subunit in white adipose tissue in rats, but enhances glycerol release from brown adipose tissue and inhibits glucose uptake for both types of adipocyte.[23]
 
+
 Ephedrine isomers are direct agonists at beta-adrenergic receptors and may directly stimulate lipolysis, but the EC50 values are fairly high and may not reflect serum levels following ingestion
+
 
 4.2
 
@@ -216,7 +218,9 @@ It has been noted that caffeine ingestion does, however, increase ephedrine's ef
 
 The previous animal studies have noted a 10% increase in REE with ephedrine supplementation, however human studies are more variable at 3.6%,[22] 10.7% (with caffeine),[28] and 7.1%.[29] Studies using indirect calorimetry note various increases, such as 30.1±5.4kcal/3hours at 20mg ephedrine + 200mg caffeine, and 22.7±7.7kcal/3hours at half the ephedrine dosage.[16] It has also been noted to reduce a 13% reduction in REE (from caloric restriction) into an 8% reduction, saving 5% of the metabolic rate.[30]
 
+
 Metabolic rate, thermogenesis, and oxygen consumption are all reliably increased with ephedrine supplementation. The increase is greater with caffeine or other xanthine compounds, is greater in obese persons, and shows most practical significance during periods of caloric restriction. Estimates are around 5-12% increases in metabolic rate.
+
 
 4.3
 
@@ -254,7 +258,9 @@ One study using a single acute dose of 24mg ephedrine in otherwise healthy untra
 
 Studies using ergometer assessments of power fail to find improvements in power output associated with 60mg ephedra sinicus (and 300mg caffeine)[38] and ephedrine in isolation has been associated with improving power output during a 30s wingate test (at time points of 5 and 10 seconds, insignificant at other time points) when measured 90 minutes after ingestion of 1mg/kg;[41] this latter study has been criticized for its conclusions, where the clinical significance was minor (less than 1% improvement when averaged over all 30 seconds) and may not be worth the risks associated with high dose ephdrine consumtption.[42]
 
+
 Power output improvement with lower doses of ephedrine appears unreliable, whereas higher doses (0.8-1mg/kg) have been associated with enhanced power output when taken 90 minutes before exercise. The cost-benefit analysis of these high doses of ephedrine has been questioned, however, with some authors arguing it may not be the best intervention due to possible side-effects associated with stimulant usage
+
 
 5.3
 
@@ -264,7 +270,9 @@ In a test on performing high intensity cycling until failure (where placebo mana
 
 One study assessing performance on a weighted (11kg) 10 kilometer run following ingestion of 0.8mg/kg ephedrine noted a 2.8% improvement in run time associated with ephedrine over placebo (similar effects in caffeine plus ephedrine) associated with improved pace during the last 5k and no significant influence on VO2 max; this was attributed to the increase in serum free fatty acids and modulation of catecholamines (less adrenaline and more dopamine).[45]
 
+
 Limited evidence, but ephedrine appears to enhance endurance exercise performance which may merely be secondary to increased free fatty acid levels in serum and possibly a reduced rate of percieved exertion
+
 
 6.
 

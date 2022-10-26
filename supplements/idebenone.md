@@ -92,15 +92,21 @@ Unlike many other compounds, Idebenone appears to be protective against excitoto
 
 Ischemia (damaging via glutamate) appears to be protected against with idebenone (100mg/kg intraperitoneal injections)[9] and secondary to that a preservation of memory (losses seen with ischemic control).[10]
 
+
 In periods of excitotoxicity, idebenone appears to exert a protective effect. This is mostly due to the antioxidative effects preventing ATP depletion
+
 
 50μM idebenone can suppress 4-AP induced glutamate release without affecting basal glutamate release and as this is inhibited by bafilomycin A1 it is thought to be due to reducing exocytosis of glutamate; this was dependent on calcium ions, and mostly CaV2.2 and CaV2.1 channels.[11]
 
+
 Glutamate release appears to be suppressed with idebenone supplementation, and this suppression is due to less synaptic release of glutamate containing vesicles rather than anything at the level of the synapse
+
 
 Although idebenone has once failed to alter synaptic sensitivity to glutamate[11] it has elsewhere at 10-100μM been found to enhance signalling via AMPA receptors (those comprising α1 and α2 subunits).[12]
 
+
 Although it is possible that Idebenone can enhance glutaminergic signalling, there is mixed evidence right now and no in vivo studies to confirm
+
 
 3.3
 
@@ -124,5 +130,7 @@ Eyes
 
 Leber’s hereditary optic neuropathy (LHON) has been noted to have remission associated with idebenone supplementation[20] and/or accelerate the rate of recovery,[21] with other case studies, open-label trials, or retrospective assessments noting benefit with supplementation.[22][23][24][25][26] It has since been investigated in a 24 week trial where 900mg of idebenone daily was able to improve visual acuity only in those with discordant visual acuities at baseline.[27]
 
+
 May have benefit for visual acuity in Leber’s hereditary optic neuropathy at a dosage of around 900mg daily (lower doses may be effective, but to a lesser degree)
+
 

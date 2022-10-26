@@ -128,7 +128,9 @@ OEA is thought to be an endogenous regulator of satiety. Basal concentrations of
 
 It is synthesized in vivo from fatty acids from cell membranes, and is released when feeding occurs.[4]
 
+
 OEA appears to be present in the intestinal tract and its concentration in tissue seems to be associated with the level of satiety in rats. Its secretion is increased when food is ingested, suggesting a link between OEA and feeding-induced satiety.
+
 
 OEA can be synthesized in neurons in rats.[5]
 
@@ -162,7 +164,9 @@ The G-Protein Coupled Receptor (GPR) known as GPR119 was, up until recently, con
 
 These receptors are also present in the intestines where they have roles in the secretion of the intestinal hormone Glucagon-Like Peptide-1 (GLP-1) and play a role in appetite suppression via the GPR119 receptor[9][10] and in regulating intestinal motility (unrelated to PPARα activity[14]).
 
+
 Two GPR receptors, GPR55 and GPR 119, interact with OEA and may account for some of its effects in the body.
+
 
 3.
 
@@ -176,7 +180,9 @@ Oleoylethanolamide (OEA) has been hypothesized[15] to have poor availability, si
 
 Only 0.48% of the orally-administered dose was found to be intact in the intestines 90 minutes after ingestion of 10mg/kg in rats, but this still increased the basal concentration in intestinal tissue (0.354nM/g) 11-fold to 3.91+/-0.98nM/g and was as effective as 5mg/kg peripheral injections in suppressing food intake.[15] Combining oral oleate and ethanolamine separately did not replicate the effect of OEA even when controlled for the same oral dose, suggesting the metabolites of OEA did not affect feeding at this concentration[15] (oleate itself could suppress appetite, but it requires a significantly higher concentration in the intestines[18]).
 
+
 Orally-ingested OEA appears to be extensively metabolized in the intestine, but despite this near-complete metabolism, orally-ingested OEA is still effective in modifying food intake in rats.
+
 
 4.
 
@@ -208,7 +214,9 @@ Oxytocin is a hormone involved in a variety of processes including suppressing a
 
 OEA has been shown to increase oxytocin levels in the brain in a manner dependent on PPARα activation[24] and oxytocin itself stimulates the production of OEA in adipocytes (following intracerebroventricular infusion and without stimulating serum OEA or cannabinoid metabolites[21]) and appears to also require the presence of PPARα.[21]
 
+
 Due to a positive feedback mechanism between OEA and oxytocin, both agents are implicated in increasing levels of the other. Increases in central oxytocin appear to be able to be transported towards adipocytes and increases local OEA production
+
 
 4.5
 
@@ -218,23 +226,31 @@ The mechanism underlying the ability of OEA to suppress food intake is via PPAR�
 
 The properties of OEA differ from the appetite-suppressing hormone cholecystokinin (CCK), which does not delay time to next meal in free-feeding rats like OEA does.[8] CCK is secreted from the intestines in response to a meal to cause satiety acutely.[28]
 
+
 Oleoylethanolamide appears to work in the intestines, activating a receptor known as PPARα to ultimately influence the brain to reduce food intake. Injecting directly into the brain does not appear effective in reducing food intake despite ultimately influencing the brain.
+
 
 Following an injection of 5mg/kg OEA into rats, the levels of appetite-stimulating peptides NPY and AgRP failed to be altered in either the fed or 24-hour fasted state relative to control injections, despite both peptides increasing greatly during the fasting period.[1]
 
 The concentration of the anorectic (appetite-suppressing) peptide known as the Cocaine and Amphetamine Regulated Transcript (CART) has been affected by peripheral injections of OEA when measured in the paraventricular nucleus but not the arcuate nucleus, where two hours after the injection of OEA the reduction in CART induced by fasting (15-20%) was ablated.[1]
 
+
 When looking at central (in the brain) peptides regulating food intake, it appears that OEA administration may preserve a decrease in appetite-suppressing peptides yet it does not necessarily blunt an increase in the appetite-promoting peptides seen during fasting.
+
 
 The same injections of 5mg/kg OEA to rats caused time-dependent reductions in peptide YY (PYY, a hormone secreted from the gut[29]) in both the fasted and fed state.[1]
 
+
 With respect to peripheral peptides regulating hunger, PYY (an appetite-stimulating hormone) appears to be reduced with injections of OEA in rats.
+
 
 Injections of OEA at 5mg/kg to rats appeared to reduce spontaneous food intake over the course of the next four hours,[1] and acute suppression of food intake in rats is known to occur with peripheral injections of OEA in rats.[3][8] When comparing fed rats to fasted rats reintroduced to food, OEA administration seems more effective in the latter and there does not appear to be recompensation for this anorectic effect.[1][8]
 
 Oral ingestion of OEA (10mg/kg) given to fasted rats 90 minutes prior to food reintroduction reduces food intake by 15.5% relative to control.[15]
 
+
 Injections appear to be effective in reducing food intake in rats, and OEA has also been shown to be effective within 90 minutes of being given to rats orally.
+
 
 4.6
 
@@ -260,7 +276,9 @@ Injections of oleoylethanolamide (OEA) at 5mg/kg into rats in the fed state does
 
 Although coadministration of CL316243 and OEA is able to reduce leptin concentrations in rats (possibly associated with increases in energy expenditure and reductions in fat mass), neither agent in isolation affects leptin.[31]
 
+
 Repeated doses over six days, but not single dosing, of injected OEA may increase adiponectin levels by 12% in rats.
+
 
 5.2
 
@@ -270,7 +288,9 @@ The β-adrenergic receptors are known to positively mediate body fat loss (mice 
 
 OEA targets PPARα, and PPARα is known to have increased effects when the β3 receptor is activated[36] which partly mediates the effects of β3 on other lipolytic proteins such as PGC-1α and Uncoupling Protein 1 (UCP1) in brown adipose tissue.[37][38] In accordance with the hypotheses, coadministration of OEA (5mg/kg peripheral injection) and a β3 agonist appear to be additive in reducing food intake and synergistic in reducing fat mass in rats associated with an increase in energy expenditure (with no influence on locomotor activity).[31] At least in rats, the increase in PPARα and UCP1 (thought to reflect the increase in energy expenditure) occurred in both white and brown adipose tissue alongside improvements in mitochondrial biomarkers (Cox4i1, Cox4i2, Fgf21 and Prdm16).[31]
 
+
 OEA appears to be able to enhance the thermogenic actions and mitochondrial effects of β3-adrenergic receptor activation in rats in both white and brown adipose tissues, at the same dose as that used to suppress appetite.
+
 
 5.3
 
@@ -296,7 +316,9 @@ Peptide YY
 
 Injections of 5mg/kg OEA to rats appears to cause time-dependent reductions in peptide YY (PYY, a hormone secreted from the gut[29]) in both the fasted and fed state.[1]
 
+
 With respect to peripheral peptides regulating hunger, PYY (an appetite-stimulating hormone) appears to be reduced with injections of OEA in rats.
+
 
 7.
 

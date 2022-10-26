@@ -52,7 +52,9 @@ A fatty acid (6.57%), carbohydrate (19.45%), protein (23.95%), and ash (10.65%) 
 
 A fatty acid (47.03%), carbohydrate (6.37%), protein (35.95%), and ash (3.55%) content by dry weight[1]The fatty acid component, called the seed oil, is comprised mainly of oleic acid (43.8%), linoleic acid (33.1%), palmitic acid (13.4%) and stearic acid (7.8%)β-carotene (78.89µg/100g dry weight[1])Caffeic acid trihexoside and two caffeic acid derivatives[2]Phenolic acids including p-hydroxybenzoic acid, sinapic acid, and vanillic acid[2]Vitamin E tocopherols including α (0.97-3.46mg/100g seed oil), β (not detectable up to 1.29mg/100g seed oil), γ (15.5-28.7mg/100g seed oil), and δ (1.44-6.73mg/100g seed oil)[2]The seed oil contains phenolic acids in the free form only, at 34.3-113mg of gallic acid equivalents per 100g of seed oil.[2]
 
+
 In general, all parts of cucurbita pepo fruits are considered food products but extracts from the seeds (water extracts of the seed oil) can be used as dietary supplements. The unique bioactives in these extracts seem to be triterpenoid structures, and there are some carotenoids and phenolic acids as well
+
 
 1.3
 

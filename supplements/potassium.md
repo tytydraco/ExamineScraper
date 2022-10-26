@@ -60,7 +60,9 @@ When looking at reviews on the association between potassium intake and instance
 
 This beneficial effect does not specifically apply to supplements as a decrease in stroke risk has also been noted with three servings of fruits and vegetable daily, reaching a 22% reduction in the risk of stroke in a manner independent of blood pressure and thought to be due in part due to potassium.[8]
 
+
 Potassium appears to be highly protective against strokes when consumed in adequate amounts, although the protective effect does not seem dose dependent as both minor and major increases in potassium intake both confer a powerful protective effect
+
 
 3.
 
@@ -74,7 +76,9 @@ Potassium intake has been found to have a relation with calcium retention in oth
 
 When supplemented, potassium (as citrate) taken over the course of one year in postmenopausal women with osteopenia appears to be effective in reducing some biomarkers of bone turnover such as u-NTX and P1NP suggesting a protective effect on bone mineral density; no apparent changes were seen in lumbar or hip BMD between the two groups however, thought to be in part due to the relatively short length of the study.[10]
 
+
 While not overly potent, potassium seems to have a protective effect on bone mineral density thought to be due to helping retain calcium better
+
 
 4.
 
@@ -86,7 +90,9 @@ Kidneys
 
 When given to rats sensitive to kidney damage, increasing the potassium concentration of the feed from 0.75% to 2.11%[11] or up to 2.6-3.8% at a level similar to sodium (4%)[12] appears to be highly protective against the subsequent renal damage after stroke when compared to lower potassium concentrations; this effect seems to occur without any apparent changes to blood pressure.[11][12]
 
+
 The mechanism by which potassium exerts a protective effect against strokes may also influence damage that occurs after a stroke, including kidney damage. It is uncertain if potassium has a direct protective effect outside of stroke-related incidents
+
 
 Potassium intake is known to reduce calcium loss in urine (via helping the body retain it better)[9] which has been hypothesized[7] to be the reason as to why potassium is associated with reduced risk of kidney stones, with half the relative risk when comparing the highest quintile of intake against the lowest.[13]
 
@@ -102,5 +108,7 @@ Hyperkalemia refers to high blood levels of potassium which can cause symptoms s
 
 In a review assessing studies using potassium supplements and whether or not they can induce hyperkalemia, it was found that doses of 50-75 mmol (1,950-2,925 mg) taken in divided doses over the course of the day increased serum potassium in a manner which did not appear dose dependent; no side-effects were reported in the review while biomarkers of renal function (urinary and serum sodium and creatinine) were unaffected.[1]
 
+
 Large doses of potassium, taken in forms that can be absorbed rapidly (usually powders such as salt substitutes), can pose a risk for hyperkalemia and cardiac complications. Lower doses, and divided doses, carry less of a risk
+
 

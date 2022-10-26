@@ -126,5 +126,7 @@ A rat study using 1% dietary anthranoid (hidroxyanthraquinones) intake for 480 d
 
 In humans, an association was found in the past between laxatives of this class (the anthranoid laxatives)[30] but is contested.[31] No causation has been established between chronic use of Senna products and colorectal cancer risk in humans.
 
+
 The above toxicological reports suggest that Senna usage is fine if not abused (in dose) and kept relatively short, with normal doses over a prolonged period having the ability to cause some reversible abnormalities. Large doses of senna for chronic periods of time may be a risk factor for colon cancer and has biological plausibility, but has not been fully demonstrated yet
+
 

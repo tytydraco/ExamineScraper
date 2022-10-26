@@ -132,11 +132,15 @@ Two of the main bioactive fatty acids (see the rest of the Full Summary for deta
 -Docosanoic acid (C22:0) (behenic acid): 0.0066±0.0002% dry mass as triglycerides and 0.0564±0.0050mg/g dry mass as free fatty acids[3]
 -Tetracosanoic acid (C24:0) (lignoceric acid) 0.0107±0.0003% dry mass as triglycerides and 0.0960±0.0033mg/g as free fatty acids[3]Campesterol (a phytosterol) at 0.1175±0.0025mg/g dry mass[3]β-Sitosterol (a phytosterol) at 0.454±0.018mg/g dry mass[3]Stigmasterol (a phytosterol) at 0.0477±0.0020mg/g dry mass[3]In general, most of the fatty acids in saw palmetto exist in triglyceride form over the free fatty acid form.[3]
 
+
 Saw palmetto contains numerous fatty acids, mostly in triglyceride form, and phytosterols.
+
 
 The mechanism of action that saw palmetto is most known for is inhibition of the enzyme 5α-reductase, which is responsible for converting testosterone into its more androgenic form, dihydrotestosterone (DHT). Anti-5α-reductase activity is found in the lipid soluble extracts of the fruits,[4] with more potency in the saponifiable subfraction.[4]
 
+
 Saw palmetto bioactivity tends to be concentrated in the fat-soluble components of the berry.
+
 
 1.2
 
@@ -148,7 +152,9 @@ This extraction increases process the amount of fatty acids as triglycerides rel
 
 This particular extraction, in contrast to the raw berries, has certified concentrations of phytosterols (campesterol, β-sitosterol and stigmasterol), carotenoids (46.8μg/g as β-carotene), and vitamers of Vitamin E (gamma and delta tocopherol at 280μg/g and 35.3μg/g).[2]
 
+
 Supercritical CO2 extracts are one of the basic forms of saw palmetto extracts.
+
 
 There is another extract known as Permixon® which is an n-hexane extract lipodo/sterolic extract of the fruits.[7]
 
@@ -166,7 +172,9 @@ Oleic acid and lauric acid obtained from saw palmetto, as well as reference stan
 
 This reduction of ligand binding is not thought to occur through a competitive mechanism, as saw palmetto appeared to reduce the total number of binding sites on α1-adrenergic receptors and (when tested in isolation) signaling through the receptor.[8]
 
+
 In vitro studies have shown that components of saw palmetto impair the ability of ligands to bind to the α1-adrenergic receptor, inhibiting downstream signaling.
+
 
 Oral ingestion of saw palmetto supercritical CO2 extract at 6-60mg/kg in rats over the course of four weeks has been found to increase the Bmax (total binding capacity) of prazosin to α1-adrenergic receptors expressed in the prostate,[9] suggesting a chronic adaptation in opposition to the acute effects.
 
@@ -238,17 +246,23 @@ Other studies assessing saw palmetto noted that an n-hexane extract of a saw pal
 
 This inhibitory effect has been shown to reduce DHT synthesis from testosterone in prostatic epithelial cells, where most local DHT synthesis takes place, and in prostatic fibroblasts; the Permixon® extract had an IC50 of less than 10µg/mL in fibroblasts and of 70µg/mL in epithelial cells.[20]
 
+
 Saw palmetto, specifically the n-hexane extract, seems to inhibit both isomers of the 5α-reductase enzyme at concentrations which approximate plasma concentrations reached via oral ingestion of the supplement. These inhibitory effects have been shown to reduce DHT formation in vitro, and while less potent it is seems to be comparable in efficacy to finasteride. It is not certain what molecule(s) mediate this effect, as the potency seen in some extracts is far greater than the dietary fatty acids present in saw palmetto.
+
 
 It has been noted in prostate cancer cells (LNCaP) that, while finasteride suppresses the activity of the type II isomer of 5α-reductase alongside other effects (suppression of PSA secretion and downregulation of prostatic androgen receptors), saw palmetto failed to downregulate the androgen receptor or influence PSA secretion rates.[7] 
 
 This extract of saw palmetto also failed to influence androgen receptor binding to its promoter in LNCaP cells.[7] Another study using fibroblasts from human foreskin noted inhibitory effects on DHT binding to both cytosolic and nuclear receptors (the latter thought to be the androgen receptor).[21]
 
+
 There is mixed evidence as to the effects of saw palmetto on the androgen receptor.
+
 
 A study using saw palmetto paired with Haematococcus pluvialis as a source of astaxanthin at 800-1,200mg a day (specific doses of the constituents and type of extractions not specified) found an increase in testosterone in the 1,200mg group of 38.04% relative to placebo when used over the course of 14 days that failed to reach statistical significance; a reduction in DHT of unspecified magnitude appeared to reach significance.[22] Other studies assessing saw palmetto on testosterone are similarly confounded with other nutrients[23][24][25][26] with one study using saw palmetto (lipidosterolic extract) in isolation at 160mg over one week failing to influence serum testosterone or DHT concentrations relative to baseline (while finasteride was effective at reducing DHT).[12]
 
+
 Studies assessing saw palmetto on testosterone are currently highly confounded with other nutrients or have potential conflicts of interest. One lone study lasting only a week using saw palmetto in isolation failed to find any influence on testosterone or DHT concentrations.
+
 
 7.
 
@@ -300,7 +314,9 @@ Male pattern baldness, also known as androgenic alopecia, is an androgen-depende
 
 The liposterolic extract of saw palmetto (200mg of 85-95% liposterolic content) paired with 50mg β-sitosterol and some B-vitamins (biotin at 100mcg and niacin at 15mg) in 10 otherwise healthy men with androgenic alopecia over the course of 18-24.7 weeks found that 60% of the subjects had their hair improved (blinded investigator-assessed) compared to one subject in placebo although no objective measurements were taken.[39] A later study assessing usage of 320mg saw palmetto over the course of two years in otherwise healthy men with male pattern baldness noted that 38% of subjects treated with saw palmetto reported an increase in hair growth which performed less effectively than 1mg finasteride (66%); saw palmetto appeared to work primarily at the crown of the head whereas finasteride was effective at the crown and frontal regions.[40]
 
+
 Dihydrotestoterone (DHT), produce by two isozymes of 5α-reductase, is known to play a role in male pattern baldness. Since saw palmetto inhibits both isozymes, it has been studied in humans and seems to be somewhat effective based on limited evidence, but not as effective as finasteride.
+
 
 10.
 
@@ -314,7 +330,9 @@ Saw palmetto may affect benign prostatic hyperplasia (BPH) inhibits 5α-reductas
 
 In regard to prostate specific antigen (PSA), a biomarker of prostate cancer, treatment of cells with the Permixon® mixture of saw palmetto has been noted to inhibit 5α-reductase enzymes at 10µg/mL (up to 72-76% with similar potency between isoforms) without influencing secretion of PSA[19][7] even when the culture is stimulated with testosterone or DHT;[19][7] this effect differs from finasteride which, at its therapeutic concentration, suppresses DHT-induced increases of PSA.[7] This discrepancy is thought to be due to how PSA is regulated by androgens[42] since saw palmetto does not interfere with androgen signalling in the prostate cell.[7]
 
+
 Saw palmetto inhibits 5α-reductase in prostate cancer cells in vitro, but does not affect PSA levels. This may be because saw palmetto does not interfere with androgen signalling in prostate cells, and PSA is regulated by androgens.
+
 
 Saw palmetto has undergone numerous trials and meta-analyses for BPH, with mixed results.
 
@@ -326,7 +344,9 @@ Another study using saw palmetto alongside tamsulosin (α1-adrenergic receptor a
 
 Despite these individual positive findings, a later Cochrane review has concluded that saw palmetto is no better than placebo for many aspects of BPH.[47] This is in contrast to an earlier Cochrane review, which concluded saw palmetto to be effective.[48] The reason given for the reversal of their conclusion was due to the fact that most of the studies in the earlier review were short-termed and under-powered, and also used unvalidated measures of outcomes. The later review included two trials[49][50] which used the well-validated International Prostate Symptom Score. The former showed a small, barely significant improvement in this score, and the latter did not. When taking these studies into account in addition to other newer studies, the authors of the review concluded that there was no substantial benefit over placebo but state that the evidence is somewhat mixed.[47] The most recent review from the Cochrane group, which included two new studies, found statistically significant effects for nocturia and patient-reported symptoms, but no statistically significant effects for American Urological Association score, peak urine flow, physician-assessed improvement of symptoms, or prostate size in studies compared to placebo.[51]
 
+
 The evidence of saw palmetto's effects on BPH appears to be mixed. Several small studies have found some benefit, but larger, more well-conducted studies tend to find no or weak benefits, with a newer systematic review finding little substantial benefit over placebo.
+
 
 11.
 

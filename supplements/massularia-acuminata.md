@@ -28,7 +28,9 @@ Lower doses seem more effective than higher, with 50mg/kg bodyweight increasing 
 
 When 1000mg/kg in rats is converted into a human dosage based on Body Surface Area[4] it results in a 160mg/kg bodyweight dosage of Massularia Accuminata; the lower dose, 50mg/kg, correlates to 8mg/kg bodyweight and is more feasible.
 
+
 A U-shaped curve exists in animals, with 50mg/kg and 1000mg/kg both being effective but does between them to a lesser degree; as toxicity is associated with doses of 250mg/kg or above in animals, the lower dose may be prudent at this point in time
+
 
 3.
 
@@ -38,5 +40,7 @@ One rat study specifically investigating liver indices after water-soluble Massu
 
 The effects on day 21, relative to day 1, were trending to worsen but not statistically significant.[5]
 
+
 Evidence suggests that it may have hepatotoxic effects
+
 

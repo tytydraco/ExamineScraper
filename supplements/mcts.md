@@ -156,7 +156,9 @@ Within the liver, MCFAs cross the mitochondrial membrane rapidly and without a n
 
 Caprylic acid is the most ketogenic MCFA, resulting in a blood ketone response about ~25% greater than an MCT oil mixture containing a 60% caprylic acid and 40% capric acid. [22] Additionally, a significant positive correlation was observed between blood ketone levels and the dose of caprylic acid, but not capric acid, suggesting that caprylic acid is driving the ketogenic effects of many commercial MCT oil products. [22]
 
+
 MCTs do not undergo the same digestive and absorptive processes as long-chain fats. Instead, they are readily absorped into the portal vein and rapidly oxidized within the liver, resulting in the production of ketones. Caprylic acid appears to be the most ketogenic MCFA.
+
 
 3.
 
@@ -182,7 +184,9 @@ In women with obesity administered a very low energy diet (~600 kcal/d) suppleme
 
 However, a 12-week intervention in Chinese men and women with type-2 diabetes reported that adding 18 grams of MCTs into the diet resulted in a significant reduction in daily energy intake compared to adding 18 grams of corn oil.[31]
 
+
 MCTs appear to reduce energy intake when substituted for long-chained fats and compared to meals without any added fat, but the calories supplied are not fully compensated for compared to the no-fat condition. Evidence regarding appetite and satiety is mixed.
+
 
 3.3
 
@@ -200,7 +204,9 @@ Only one randomized controlled trial to date has compared a 45% MCT oil diet to 
 
 The only study not involving children is a case study of a 43 year-old man with history of partial epilepsy who previously failed multiple trials of antiepileptic drugs.[47] He reported a dramatic reduction in seizure frequency with the addition of four tablespoons (60 mL) of MCT oil daily and a recurrence of seizures after ten days of MCT oil discontinuation.[47]
 
+
 A high-fat (70% kcal), high-MCT oil (30-60% of kcal) diet with limited carbohydrate (20% kcal) and protein (10% kcal) is an effective alternative to the traditional therapeutic ketogenic diet used for the treatment of epilepsy in children. Both diets have comparable reductions in seizure frequency and adverse events, including growth retardation and gastrointestinal problems. Evidence in adults is lacking.
+
 
 3.4
 
@@ -214,7 +220,9 @@ A follow-up randomized controlled trial assessed the effectiveness of consuming 
 
 A third double-blind, randomized controlled trial involved four elderly adults with mild cognitive impairment who supplemented with 56 grams of commercial MCT oil or canola oil placebo per day for 24 weeks.[50] No statistical tests were performed and no performance improvements in the ADAS-cog were noted.
 
+
 Two studies have suggested that caprylic acid supplementation can enhance cognitive function after a single 40 mL dose and after daily dosing of 20 grams over 90 days among older adults with mild to moderate cognitive impairment and who are negative for the APOE4 variant.
+
 
 4.
 
@@ -238,7 +246,9 @@ Several studies by a group of researchers in Beijing, China have investigated a 
 
 These effects appear to occur only in men,[65] which the authors speculate may be owed to a deficiency in estrogen among the primarily postmenopausal women participating in the study.[66] Additionally, the MCFA mixture group lost significantly more fat mass than the long-chain fat group in these studies, which may have impacted the oil’s effect on blood lipids. A reanalysis of the data by BMI status showed that only overweight and obese participants experienced significant reductions in triglycerides and LDL-cholesterol and were also the only groups to experience significant reductions in fat mass,[67] supporting the notion that weight loss was the primary driver of the superior effect on blood lipids.
 
+
 Low doses of MCT oil (10-20 grams) appear to have little to no effect on blood lipids in healthy adults. However, large doses (40% of kcal) appear to notably increase fasting triglyceride levels, especially when overfeeding.
+
 
 One study in patients with hyperlipidemia reported that consuming ~10% of energy intake from MCT oil significantly increases total cholesterol (16%) and non-HDL cholesterol (19%) compared to corn oil without affecting fasting triglycerides and preventing an increase in postprandial triglycerides.[68] However, consuming 43% of calories from MCTs, again in patients with hyperlipidemia, caused a significant increase in triglycerides (20-30%) and VLDL (26-38%) compared to both palm oil and high-oleic sunflower oil, as well as significant increases in total (12%) and LDL-cholesterol (14%) compared to sunflower oil only.[69]
 
@@ -246,11 +256,15 @@ In people with type-2 diabetes, small doses of MCT oil (18 grams) have been repo
 
 An inpatient feeding study compared weight-maintenance diets with 40% of calories supplied by MCTs or long-chain fats provided by partially hydrogenated shortening (Crisco), each consumed over a four-day period.[71] The MCT diet significantly reduced triglycerides in participants with type-2 diabetes (-19%) but did not affect total and HDL-cholesterol. A double-blind randomized controlled trial involving people with type 2 diabetes reported that consuming 28% of kcal from MCTs had no effect on triglycerides or cholesterol levels relative to a common vegetable oil over two weeks.[72] 
 
+
 In people with elevated triglyceride and cholesterol levels, MCT oil appears to increase blood lipids further, especially compared to oils high in polyunsaturated fatty acids. However, even large doses of MCT oil appear to have minor effects on the blood lipids of people with type-2 diabetes.
+
 
 It has been suggested that any cholesterol-raising effect of MCTs is owed to the use of a comparator oil high in polyunsaturated fatty acids, which are well known to reduce blood cholesterol concentrations.[73] Accordingly, MCTs may be relatively neutral compared to monounsaturated and long-chain saturated fatty acids, which has been shown via comparisons to olive oil,[58] oleic and mystryic acids,[54] and butter.[57]
 
+
 Most studies have compared MCTs to highly polyunsaturated seed oils such as corn and soybean oils. Further research is necessary to determine the effects of MCTs compared to other dietary fats.
+
 
 5.
 
@@ -272,7 +286,9 @@ However, a follow-up study in five free-living adults with type 2 diabetes repor
 
 A 90 day randomized controlled trial using 18 grams of MCTs, relative to 18 grams of corn oil, in type 2 diabetics reported a 17% improvement in insulin sensitivity as assessed by HOMA-IR, while the control group experienced a worsening of sensitivty (7%); the difference between groups was significant.[31] However, the MCT oil group also lost a significant amount of bodyweight that correlated with improvements in insulin sensitivity.
 
+
 MCTs appear to improve insulin sensitivity in people with type 2 diabetes.
+
 
 6.
 
@@ -286,7 +302,9 @@ Medium-chain triglycerides (65% of coconut oil by weight), relative to long-chai
 
 This may be related to the enzyme carnitine palmitoyltransferase (CPT), the rate limiting step in fatty acid oxidation, not being required for fatty acids of medium or short chain length.[85]
 
+
 Medium-chain triglycerides appears to be more readily oxidized via lipolysis ('fat burning') relative to longer chain fatty acids, which may be important in obesity as impaired long-chain fatty acid oxidation has been noted in obese persons
+
 
 In animal studies in which the animals are overfed, there appears to be less weight gain associated with medium-chain fatty acid ingestion relative to long-chain fatty acid ingestion although a degree of weight gain is still present.[86][87][88][89]
 
@@ -302,7 +320,9 @@ Ingestion of medium-chain triglycerides in obese persons (BMI above 30 and and 9
 
 Interventions
 
+
 This section notes studies on coconut oil per se (65% medium-chain triglycerides, or MCTs) and supplemental MCTs themselves. In areas where long-chain triglycerides are used as an active control, the acronym LCT is used
+
 
 The increase in long-chain fatty acid oxidation in obese persons[83] has also been seen alongside an increase in fat oxidation in overweight persons (BMI 25-33) that may be independent of weight loss over 6 weeks (40% of diet as fat, 75% thereof being test oil) when medium-chain triglycerides are compared to the control of olive oil.[92]
 
@@ -312,7 +332,9 @@ One study compared 10 grams of MCTs to 10 grams of LCTs (both paired with a 2,20
 
 One study using a test bread (14g fatty acids of which 1.7g were MCTs) daily for 12 weeks noted that the body weight reduction in the MCT group was greater (6.1+/-0.5%) than the LCT group (4.5+/-0.5%)[94] and a study in type II diabetics which noted improvements in HbA1c with consumption of 18g MCTs also noted a 2.6% weight loss over 90 days (132 to 128.6lbs average) where the control of LCTs was inactive.[96]
 
+
 There appears to be a fat reducing effect of coconut oil and MCTs that exceeds other oils used, which is more readily apparent in obese persons than lean persons. The magnitude of this effect is not astounding (with some studies not noting a weight reducing effect)
+
 
 7.
 
@@ -326,7 +348,9 @@ It has been reported that medium chain triglycerides in general, when replacing 
 
 For studies assessing glycogen, there does not appear to be a significant interaction for for normal distance aerobic exercise[100][101] or ultradistances[102] with or without additional carbohydrates.[103]
 
+
 There is not a large amount of convincing evidence that calories from medium chain triglycerides and coconut oil are somehow better for performance than carbohydrates or long chain fatty acids, although the calories themselves may confer an ergogenic property
+
 
 8.
 

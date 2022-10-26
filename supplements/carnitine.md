@@ -306,11 +306,15 @@ Carnitine exists in the body in two forms, either L-carnitine or the acetylated 
 
 The rate-limiting step of biosynthesis appears to be either of the trimethyllysine enzymes (aldose and hydroxylase) as dietary y-butryobetaine increases serum carnitine levels to a much higher degree than dietary e-N-trimethyllysine.[12]
 
+
 L-Carnitine can be synthesized in the human body from two dietary essential amino acids, L-methionine and lysine. This process involves a few Vitamin C dependent enzymes, and deficiencies of Vitamin C can impair L-carnitine biosynthesis
+
 
 This internal synthesis is lower in newborns[13] and thus partially reliant on mother's milk for carnitine intake.[14] It appears that despite high fluctuations in breast milk carnitine content, that most babies can regulate their systemic carnitine levels; which may be of benefit to vegetarian mothers with lower carnitine stores.[15][16] Bottle formulations tend to have carnitine supplementation, which can reverse problems associated with a lack of carnitine in infants such as gastrointestinal dysmotility.[17]
 
+
 Synthesis of L-carnitine is lower in newborns, although this is covered by both breast milk (provides dietary L-carnitine) and formulations which tend to add L-carnitine to avoid complications of low synthesis
+
 
 1.4
 
@@ -324,13 +328,17 @@ However this population also has a higher bioavailability of carnitine when inge
 
 Despite the above relative deficiency state, studies on vegetarians and carnitine supplementation are lacking.
 
+
 It would be prudent for vegetarians to supplement L-carnitine, but there is a lack of human interventions on the subject matter
+
 
 Related to infants, women appear to experience reduction in plasma Carnitine stores during pregnancy. The 12th week to pregnancy is associated with reduced carnitine stores, and 500mg of L-Carnitine can reduce this decline.[22] The reason why is not wholly known, but it is suspected to be reduced precursors and less carnitine synthesis.[23]
 
 Elderly persons may also suffer from a relative carnitine deficiency. Serum levels of carnitine tend to increase until approximately the age of 70, in which case they then decline for unknown reasons; the decline of which is correlated with lean body mass.[24][25] Supplementation of 2g L-Carnitine is associated with less fatigue and a better body composition in centarians[25] and can increase muscle function.[26]
 
+
 Older people suffering from fatigue or other non-clinical complications would benefit from L-carnitine supplementation.
+
 
 1.5
 
@@ -352,11 +360,15 @@ Formulations and Variants
 
 L-Carnitine is seen as the basic form of Carnitine supplementation. As Carnitine has a chiral center, a similar compound called D-Carnitine also exists. One can also find a racemic mixture of both compounds called DL-Carnitine or simple Carnitine. The D-Carnitine molecule cannot fix a carnitine deficiency as it is biologically inert, and may actively work against L-Carnitine in doing so.[37] The mechanisms of interference include competing for intestinal absorption[38] and reversing resorption by the kidneys.[37] In fact, supplementation with D-Carnitine in isolation can reduce body stores by inhibiting dietary usage and induce a Carnitine deficiency.[39][40] Due to these reasons, the L-Carnitine molecule is highly preferred.
 
+
 L-Carnitine is the basic form of carnitine supplementation, and is always the base carnitine molecule used since its isomer (D-Carnitine) may actually hinder the effects known to occur with L-carnitine (similar to how L-Arginine is used since its isomer, D-arginine, actually blocks its effects)
+
 
 Acetyl-L-Carnitine, also known as ALCAR or less frequently as Levacecarnine, is a carnitine molecule bound to an acetyl group. Acetyl-L-Carnitine tends to be seen as the neurological version of Carnitine, and seems to have more interactions in the brain relative to L-Carnitine. In Chronic fatigue, for example, ALCAR can reduce mental fatigue whereas other forms (Propionyl-L-Carnitine) do not significantly do so.[41]
 
+
 Acetyl-L-carnitine is another form of L-carnitine that is catered toward neurological effects, and it seems to have some unique properties associated with it that basic L-carnitine does not
+
 
 GPLC is a Glycine amino acid, bound to a carnitine molecule that is esterified to a short chain fatty acid. When Propinoyl-L-Carnitine reaches the mitochondria, it gets metabolized into L-carnitine and propionyl coenzyme A.[42][43] Propionyl coenzyme A is relevant as it gets converted into succinyl coenzyme A and thus succinate, which is an intermediate in the TCA cycle. Due to providing succinate as well as carnitine, supplemental GPLC can provide an anaplerotic effect.[44]
 
@@ -364,11 +376,15 @@ The initial stages of metabolism are undergone by the enzyme Carnitine acetyltra
 
 In practice, Propionyl-L-Carnitine appears to be more effective than L-Carnitine on matters related to blood flow and regulation. The most significant usage is seen with Intermittent Claudication where PLC exerts more benefit than Carnitine even on a molar basis, suggesting synergism between the Propionyl group and the Carnitine group.[46] GPLC has also been used to increase Nitric Oxide production in sedentary men[47] and athletes at doses of 3-4.5g daily.[48]
 
+
 Glycine propionyl-L-carnitine (GPLC) or propionyl-L-carnitine (PLC) are seen as variants of L-carnitine that can benefit blood flow and pressure to a larger degree than the other forms of L-carnitine
+
 
 L-Carnitine L-Tartrate is a salt of L-Carnitine bound to tataric acid, and appears to have a quicker absorption rate when measured at 3.5 hours (in pigs) despite no differences in overall bioavailability.[49] It is used quite frequently in athletic studies due to the quicker influx of L-Carnitine coinciding with activity when taken before.
 
+
 L-Carnitine L-Tartrate (LCLT) is a form of L-carnitine that is used in a lot of studies in athletes, and it is thought to have a more rapid influx into plasma following oral ingestion (which makes it useful for timing-critical situations, like pre-workout dosing)
+
 
 2.
 
@@ -380,15 +396,21 @@ Absorption
 
 L-Carnitine and ALCAR are absorbed in the intestines (jejunum) mostly by the organic cation transporter 2 (OCTN2)[50][51] which is a sodium dependent transporter.[38] This transporters takes up L-carnitine molecules, and while ALCAR needs to be deacetylated (removal of the acetyl group) prior to absorption it can readily be reacetylated afterwards.[38] Alterations in this transporter, such as its increase in states of carnitine deficiency[52] or its impairment in persons with Celiac disease who are not on a gluten-free diet (and normalization upon switching to a gluten free diet[53]) determine alterations in L-carnitine absorption.
 
+
 L-Carnitine is absorbed in the gut via the OCTN2 transporter, and alterations in this transporter determine alterations in L-carnitine absorption. If it is increased, then more is absorbed, if it is impaired or blocked, then less L-carnitine is absorbed
+
 
 When looking at the overall bioavailability of L-carnitine supplements, there has been contrasting data on whether L-carnitine[49] or ALCAR[6][3] are better absorbed relative to the other, although all that has been ascertained is that the isomer of D-carnitine is not absorbed from the intestines.[38] The bioavailability of carnitine supplements in the dosage range of 1-6g appears to range from 14-18%, which is lower than the bioavailability from lower doses via food products (54-87%)[54][3] and applies to L-carnitine and ALCAR,[3] thought to also extend to Propionyl-L-Carnitine.[55]
 
+
 When examining variations in the absorption of L-carnitine, it seems that L-carnitine found in food products is absorbed to a better degree than L-carnitine from supplements (regardless of the form used), but supplements are still absorbed to a fairly decent degree
+
 
 Intradermal delivery of L-carnitine with a microneedling device has been shown to increase bioavailability as much as 2.8x in rats, although this number is subject to vary depending on vehicle and pretreatment.[56] Topical application doesn't seem to be effective.
 
+
 Delivery of l-Carnitine via a microneedling defice can increase bioavailability. Topical absorption of L-Carnitine doesn't seem to be a viable method to take L-Carnitine.
+
 
 2.2
 
@@ -420,7 +442,9 @@ Cellular Kinetics
 
 On the cell, the uptake of carnitine is one of active transport and is augmented by insulin stimulation and results in increased accrual of dietary L-carnitine[67] but does not affect basal L-carnitine flux.[68].
 
+
 At a cellular level, insulin appears to increase the rate of uptake of L-carnitine into tissue
+
 
 2.6
 
@@ -452,7 +476,9 @@ On the inner mitochondrial membrane, Acetyl-L-Carnitine is taken up by the trans
 
 Citrate (made from the mitochondria) and Acetate (made from cytosolic peroxisomes) can be used to make Acetyl groups to bind to CoA between the mitochondrial membrane walls and create more Acetyl-CoA, to wait for conversion into ALCAR when an excess of L-Carnitine arises.[72]
 
+
 L-Carnitine in the mitochondria exists in a balance with acetyl-L-carnitine and acetyl-CoA to regulate mitochondrial activity and fat burning.
+
 
 3.2
 
@@ -482,7 +508,9 @@ ALCAR supplementation in rats is associated with 26 proteins in the mitochondria
 
 As mentioned before, Acetyl-L-Carnitine supplementation is associated with an attenuated decline in mitochondrial count during aging.[77]
 
+
 Mechanically, ALCAR supplementation has the ability to reduce the correlates of aging seen in lab animals, regardless of deficiency state. Whether this translates to a pro-longevity effect in humans is not known for sure, but highly plausible.
+
 
 4.
 
@@ -526,13 +554,17 @@ There are increase in glucose availability in certain brain regions following 25
 
 Other energy molecules including inositol (30%), creatine in its phosphorylated form (66%), and phosphorylated adenosine molecules (AMP, ADP, ATP; collectively 23%) were increased over control[91] and the ATPase enzymes (enyzme that uses ATP to fuel metabolic processes) has been noted to be increased in synaptic membranes following infusions of 30-60mg/kg for 28 days.[92]
 
+
 Independent of how the energy is used, oral supplementation of ALCAR has been noted to increase glucose and creatine levels in some brain regions
+
 
 Intravenous administration of ALCAR results in an increase in cerebral glucose usage within 30 minutes, and when infusing 250-750mg/kg the global increase reaches 13-22% over baseline; this was not replicated with carnitine nor carnitine plus acetate.[93] When looking at ages, middle and older aged mice appear to be more sensitive to experience an increase in glucose usage than do young mice,[94] and at least in old mice this has occurred with daily ingestion of 100mg/kg for 28 days.[94]
 
 The brain region that appears most sensitive to ALCAR increasing glucose uptake is the nuclear accumbens (22-34% increase within 15 minutes of infusion of 500-750mg/kg) locus corealus (48-53%), and corticol amygdala (24-48%).[93] In contrast, the hippocampus and frontal cortex were not significantly affected in these young mice[93] although the hippocampus as well as most othe brain regions do appear to be significantly affected in older mice even at low oral intakes of 100mg/kg (20% average increase in the affected brain regions).[94]
 
+
 High doses can increase glucose usage in the brain, and older subjects appear to be more sensitive to this increase
+
 
 4.7
 
@@ -546,7 +578,9 @@ ALCAR supplementation has also been shown to be a mood elevator and alleviate de
 
 Although reliable in aged models, its potency is not enough to be warranted as treatment for dementia in isolation.[109] It is still, however, touted as being a viable conjunct treatment with other neurological protective compounds.
 
+
 ALCAR appears to be a good therapy for cognitive decline, although its usage in otherwise healthy people has not been well studied
+
 
 4.8
 
@@ -574,11 +608,15 @@ Red Blood Cells
 
 In vitro, L-Carnitine has been noted to augment the bone marrow cell proliferative effects of recombinant human erythropoietin (hEPO) at a concentration of 200-400µM[115] although concentrations below 200µM appear ineffective.[116] Concentrations of 200µM L-carnitine have been noted to occur in serum following oral supplementation of 15mg/kg oral L-carnitine but not the lower tested dose (1mg/kg).[117]
 
+
 L-Carnitine appears to be able to enhance the actions of erythropoietin in vitro, which requires a certain concentration to be met and without activity below this concentration
+
 
 In aged rats, 150mg/kg L-carnitine (as 195mg/kg L-carnitine L-tartrate) in the drinking water for three months failed to alter red blood cell count or hematocrit relative to control;[118] this study also failed to find these effects with DHEA sulfate (1mg/kg) supplementation in isolation, yet the combination led to reductions in RBC count and hematocrit relative to control.[118]
 
+
 In otherwise healthy but aged rats, supplemental L-carnitine in the water has once failed to influence red blood cell count and function
+
 
 Long term dialysis is associated with decreased serum L-carnitine concentrations[119] which are normalized upon supplementation of L-carnitine[120][121] and treatment of these persons with supplemental L-carnitine appears to promote better responses to exogenous hEPO based on clinical observations mentioned in review.[122][123] 
 
@@ -586,7 +624,9 @@ A pilot study of L-carnitine supplementation at 500mg daily in poor responders t
 
 The first meta-analysis to be published assessing 18 randomized trials (total participants 482) noted a stastistically significant increase in hemoglobin and reduced dose of hEPO required for maintenance dialysis,[124] and the second meta-analysis comprising all studies using oral L-carnitine supplementation for longer than two weeks (49 trials)[125] confirmed a decrease in inflammation as assessing C-reactive protein levels (in these persons, a biomarker for all cause mortality[126]) but failed to confirm any benefit on hematocrit, red blood cell count, or the maintenance dose of hEPO required.[125] This latter meta-analysis also reported an improved quality of life with supplementation of L-carnitine based off of the results of six (out of ten) trials with combinable continuous data, but did not draw conclusions due to paucity of data.[125]
 
+
 Serum L-Carnitine is reduced in the state of hemodialysis-induced anemia, and the reduced responsiveness to exogenous erythropoietin seen in this state is thought to be attenuated by L-carnitine supplementation. While supplementation of L-carnitine during dialysis may be beneficial, the benefits to erythropoietin responsiveness are not fully established
+
 
 5.2
 
@@ -594,7 +634,9 @@ Atherosclerosis
 
 L-Carnitine supplementation to mice (1.3% of drinking water, assuming 5mL water intake this is a human equivalent of 208mg/kg converted from the mouse dose of 2,600mg/kg) was able to produce trimethylamine oxide (TMAO) via an intestinal microbial dependent pathway and produce atherosclerosis in ApoE-/- mice; TMAO production, but not atherosclerosis, was confirmed in non-vegan humans.[127]
 
+
 It is unclear how much concern should be paid to this information due to the high dose used, but it seems unlikely that carnitine could cause atherosclerosis in supplemental doses.
+
 
 5.3
 
@@ -604,7 +646,9 @@ ALCAR in conjunction with ALA can potentially reduce hypertension in via their c
 
 A dose of 4.5g GPLC has been shown to increase nitric oxide levels after 28 days of supplementation in some persons,[48] and does so at a dose of 3g as well.[47]
 
+
 ALCAR may benefit blood pressure in unhealthy people (metabolic syndrome, high blood pressure). It has the mechanisms to improve blood pressure independent of a disease state via nitric oxide, but it is unclear how it affects blood pressure in individuals with normal blood pressure.
+
 
 5.4
 
@@ -614,7 +658,9 @@ Carnitine, in the form of Propionyl-L-Carnitine (PLC, or GPLC if bound to Glycin
 
 PLC aids peripheral arterial diseases in general as it increases peripheral microcirculation.[135][136] In persons with peripheral arterial diseases, PLC supplementation can increase strength and exercise performance[137] although exercise itself can also be seen as therapeutic.[138]
 
+
 Quite promising for periphery artery disease and intermittent claudication
+
 
 5.5
 
@@ -628,7 +674,9 @@ Acetyl-L-Carnitine is proposed to target these defects its various mitochondrial
 
 Another possible mechanism is increasing levels of CPT1 in the myocardium, without affecting overall carnitine levels.[150] A decline of this rate-limiting step is seen during aging, thus upregulating it may attenuate changes seen with aging. It has been noted in human hearts that less fatty acid oxidation occurs with aging, causing a shift towards cardiac glucose metabolism[151] which are thought to be due to less CPT1 activity.[152][153]
 
+
 Acytel-L-Carnitine has the mechanisms to benefit the heart muscle itself during aging and looks promising as a cardiac anti-aging compound. Practical relevance is not known at this time.
+
 
 5.6
 
@@ -636,7 +684,9 @@ Secondary Prevention
 
 One meta-analysis assessing the role of L-Carnitine in secondary prevention of cardiovascular disease[154] assessing 13 trials conducted on the topic in persons who sufferred a myocardial infarction[155][156][157][158][159][160][161][162][163][164] noted that supplemental L-Carnitine was associated with a 27% reduced risk of all-cause mortality (RR 0.78; 95% CI of 0.60-1.00) due to large reductions in ventricular arrhythmias (62%; RR of 0.35 and 95% CI of 0.21-0.58 derived from 5 trials) and angina (40%; RR of 0.60 and 95% CI of 0.50-0.72 with data derived from two trials) but no protective effect against heart failure (6 trials; 95% CI of 0.67-1.09) nor myocardial reinfarction (4 trials, 95% CI of 0.41-1.48).[154] The authors hypothesized that Carnitine would be effective in persons with acute myocardial infarction and stable angina.[154]
 
+
 The supplement appears to confer protective effects to people who have experienced a heart attack in the past
+
 
 6.
 
@@ -666,7 +716,9 @@ In rats, exceptionally high levels of L-carnitine supplementation results in a p
 
 This effect is drastically enhanced during co-ingestion of choline and caffeine, but although it can increased the caloric content of urine (like ketone bodies) it has yet to ultimately be shown as causative for fat loss in humans and animals.[174]
 
+
 L-Carnitine has many mechanisms by which it can theoretically increase the rate of fat loss, yet it doesn't seem to actually induce or augment fat loss when supplemented. The exception to this is in a deficiency state, in which L-carnitine supplementation will restore hindered fat burning potential.
+
 
 7.
 
@@ -686,7 +738,9 @@ The mechanisms by which it increases muscular uptake of glucose is via stimulati
 
 Mechanisms of increasing insulin sensitivity include shuttling acyl and acetyl groups out of a cell and into plasma, to be excreted in the urine; a process known as fatty acid dumping.[175] L-Carnitine could also simply shuttle these acyl groups into the mitochondria to be burnt during beta-oxidation (fat burning).[184] Build-up of these groups in a cell may lead to skeletal muscle insulin resistance, and thus carnitine transport would act as a therapeutic measure.[176][184]
 
+
 Carnitine appears to be able to increase glucose disposal, and can increase insulin sensitivity in those with impaired glucose metabolism (whether it increases insulin resistance in healthy people is less clear)
+
 
 7.2
 
@@ -696,7 +750,9 @@ Insulin secretion is able to increase carnitine deposition in muscle tissue via 
 
 Interestingly, this level of insulin may be reached during insulin resistance (pre-diabetes) and thus carnitine can act as a glucose disposal agent independent of meals. This may help to explain differences seen in persons with metabolic syndrome and healthy subjects.
 
+
 High insulin levels increase deposition of carnitine into muscles, and thus it would be good to take Carnitine with carbohydrates. Those with high fasting insulin levels may not even need carbohydrates for this benefit.
+
 
 8.
 
@@ -718,7 +774,9 @@ Carnitine supplementation, as either Acetyl-L-Carnitine or GPLC, has been shown 
 
 In comparing 1g and 2g L-Carnitine (as L-Tartrate), both doses are effective in reducing markers of muscular damage despite the higher dosage causing greater serum increases of Carnitine.[194] One study that looked as to whether these reductions in muscle damage affected acute recovery times noted no differences between placebo and 2g L-Carnitine when two anaerboic cardio sessions were separated by 3 hours.[195]
 
+
 Carnitine supplementation seems to reduce markers of muscle damage after anaerobic exercise, possibly through enhancing oxygenation of tissue when oxygen is lacking. This mechanism might also explain the greater work volume seen in one study.
+
 
 8.3
 
@@ -736,7 +794,9 @@ High dose L-carnitine in rats in conjunction with dietary caffeine and choline (
 
 There is not a consensus that moderate to high doses of L-Carnitine improve athletic performance[201][202] although the mechanisms by which athletic performance can be improved exist with carnitine supplementation.[203]
 
+
 Studies show mixed results. It doesn't seem to reliably offer aerobic exercise benefits after common dosages and might increase sprint performance (both max speed and volume done). It seems a bit more reliable in increasing work volume at 1.5-2g daily, but further study is needed.
+
 
 9.
 
@@ -750,7 +810,9 @@ Supplemental L-Carnitine L-Tartrate at 2g daily has been shown in vivo to increa
 
 2g L-Carnitine L-Tartrate does not further increase testosterone levels that are induced by exercise after 3 weeks supplementation in healthy males[191] and still does not increase test in a population of men going through andropause (male equivalent of menopause) despite controlling other symptoms.[205] In one rat study, it was noted that although Acetyl-L-carnitine did not increase testosterone that it prevented the decline of testosterone associated with chronic stress.[206]
 
+
 Supplementation may be a decent adjunct to a testosterone boosting protocol, but aside from a lack of evidence on its mechanisms, it does not seem to boost testosterone itself.
+
 
 9.2
 
@@ -792,7 +854,9 @@ L-carnitine has been actively explored in humans as a way to combat cachexia (mu
 
 Interestingly, when L-carnitine was supplemented in combination with medroxyprogesterone or megestrol acetate, eicosapentaenoic and thalidomide, there was a significant improvement in patient fatigue, body composition, and appetite [219].
 
+
 Carnitine is not really a cancer preventative agent, but is being studied for its inclusion into chemotherapy to assist in combating the side-effects cachexia and suppressed appetite. Effects are possibly related to carnitine deficiencies that occur in some cancer metabolisms.
+
 
 12.
 
@@ -874,7 +938,9 @@ It has been noted that DHEA can increase sensitivity of red blood cells to oxida
 
 One study in rats tested both L-carnitine L-tartrate (195mg/kg in the drinking water) and DHEA sulfate (1mg/kg) noted that, while neither agent alone influenced red blood cells, that the combination led to a minor reduction in both red blood cell count (12.1%) and hematocrit (9.7%) despite hemoglobin and other erythrocytic indices being unaffected in all groups.[118]
 
+
 It is possible for L-carnitine and DHEA to have interactions at the level of the red blood cell, although the clinical relevance of this information (beneficial, inert, or harmful) is not yet known and more data required
+
 
 15.
 
@@ -888,7 +954,9 @@ A safety study on L-Carnitine L-Tartrate investigating 3g daily for 3 weeks in 2
 
 At least in carnitine deficiency states (which may not be fully applicable to healthy humans) the recommended dosage of Levocarnitine (L-Carnitine) is 100-400mg per kilogram bodyweight
 
+
 In general, there does not appear to be any toxicity associated with the standard supplemental dosages of carnitine
+
 
 A few studies have noted a benign adverse effect of 'odd smell', which is said to be due to the formation of trimethylamines; it has occurred at a frequency of 4%.[110]
 

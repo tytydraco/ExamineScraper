@@ -152,7 +152,9 @@ R-β-Methylphenylethylamine (1-amino-2-phenylpropane), also known simply as β-M
 
 N-Methylphenethylamine (NMPEA; N-Methyl-β-phenylethylamine) is a differently structured metabolite of PEA where the methylation occurs on the amine itself, and NMPEA is also not classified as an amphetamine.[15]
 
+
 There are two variations of the basic phenylethylamine structure involving methylation, but neither of which are methylated on the second carbon (which would be an amphetamine); one methylates on the first carbon from the benzene ring whereas the other directly methylates the amine group
+
 
 2.
 
@@ -164,7 +166,9 @@ Trace Amine Receptors
 
 A collection of intracellular receptors known as trace amine-associated receptors (TAARs) or simply trace amine (TA) receptors are known to respond to the variety of amino acids known as trace amines.[16] These receptors are known to be expressed in both rats and humans although their response to drugs may differ[17] due to somewhat low homology (76–78%)[18][19] although recombinant human TAARs (rhTAAR) and human TAAR (hTAAR) have high homology (96.9%).[20] These receptors are intracellular[21] and associated with the membrane fraction of cells excluding the cell surface membrane despite their similarities to adrenergic receptors (which are at the cell surface membrane),[22] thought to be due to the nine-amino acid long proximal terminal of adrenergic receptors which, when added to TAAR1, can stabilize it in the cell surface membrane.[23]
 
+
 Trace amine receptors are intracellular receptors which respond to the neurotransmitters that are in lower amounts without their own receptors. These neurotransmitters include tyramine, tryptamine, octopamine, β-phenylethylamine, and 3-Iodothyronamine amongst others, and this signalling pathway highly interacts with catecholamine (dopamine, adrenaline, noradrenaline) signalling
+
 
 The TA1 receptor (also known as TAAR1[24]) is a G-protein coupled receptor with structural hallmarks that parallel the rhodopsin/β-adrenergic receptor superfamily[2] that responds to trace amines including tyramine and β-phenylethylamine, and after binding produces cAMP.[18] TA2 (aka. GPR58 or TAAR2[25]) is a similar receptor that also responds to β-phenylethylamine but instead of tyramine it responds to tryptamine,[18] and both the TA1 and TA2 receptors have mRNA expressed in brain regions (substantia nigra/ventral tegmental area, locus coeruleus, and dorsal raphe nucleus) where β-phenylethylamine is known to exert catecholaminergic activity.[18]
 
@@ -172,7 +176,9 @@ This receptor (TA1) is known to have a baseline activity without any ligand, and
 
 These trace amine receptors are also known to be a molecular target of entactogenic drugs such as amphetamine, tenamphetamine (Molly), LSD,[21] Mescaline, MDMA,[20] and endogenous hallucinogens.[27]
 
+
 β-phenylethylamine is an endogenous agonist at the TA1 and TA2 receptors, with slightly more potency than other trace amines. Actions at this receptor are thought to explain the roles of β-phenylethylamine in interacting with adrenergic and dopaminergic neurotransmission
+
 
 2.2
 
@@ -208,11 +214,15 @@ Metabolism
 
 Based on studies injecting β-phenylethylamine into the dog, the half-life of PEA appeared to be in the range of 6-16 minutes depending on dose[15] and N-methyl-β-phenylethylamine (NMPEA) appears to follow suit in this rapid metabolism[15] and is also a known substrate for MAO-B.[41]
 
+
 β-phenylethylamine appears to be primarily metabolized by MAO-B, and this metabolism appears to occur quite rapidly in serum
+
 
 Interconversions may also happen in cells, as nonspecific N-methyltransferase enzymes can convert β-phenylethylamine into N-Methylphenethylamine (NMPEA) and dopamine-β-hydroxylase can convert PEA into a phenylethanolamine (PEOH);[33][42] PEOH can be further methylated by the specific enzyme phenylethanolamine N-methyltransferase (PNMT) which is the enzyme that converts noradrenaline into adrenaline.[43][44] It should be noted that PEOH is also a substrate for both MAO enzymes[45] with specificity for MAO-B.[46]
 
+
 β-phenylethylamine produced in neurons (from L-phenylalanine) can be used by alternate enzymes as an intermediate in a few pathways involved in neurotransmission
+
 
 4.
 
@@ -224,13 +234,17 @@ Adrenergic Neurotransmission
 
 Catecholaminergic neurons tend to express a high level of aromatic amino acid decarboxylase (AADC) which produces β-phenylethylamine (PEA) from its parent amino acid L-phenylalanine, while the enzyme of metabolism (MAO-B) tends to be expressed in high levels in astrocytes[47] but there was a failure to express high levels of MAO-B in catecholaminrgic neurons (locus coeruleus and substantia nigra) despite detecting MAO-B in serotonergic neurons.[47] This has been interpreted as a potential higher concentration of PEA within catecholaminergic neurons than is generally assumed based on assessing brain wet weight.[7]
 
+
 The enzymes of β-phenylethylamine synthesis are located alongside those of catecholamine synthesis, and due to a relatively lower amount of its enzyme of metabolism in cells that have a high noradrenergic presence it is thought to accumulate to a degree and be more intracellularly active in these brain regions
+
 
 At the level of the adrenergic receptor, β-phenylethylamine (and tyramine) are partial allosteric antagonists of both the β1 and β2[26] (noncompetitive against the agonist isoprenaline[21]) with an Emax of 403+/-54nM.[26]
 
 PEA is thought to be an antagonist at the α-adrenergic receptor albeit at impractically high concentrations (100µM).[48]
 
+
 At the level of the adrenergic receptors, β-phenylethylamine appears to be an allosteric and partial inhibitor
+
 
 4.2
 
@@ -238,13 +252,17 @@ Dopaminergic Neurotransmission
 
 β-phenylethylamine synthesis rates in dopaminergic neurons parallel that of dopamine, although striatal concentrations seem to be about 3-fold lower due to elevated MAO-B metabolism.[10]
 
+
 β-phenylethylamine appears to be localized around dopaminergic neurons, although it is at a lower concentration than dopamine due to its rapid metabolism by MAO-B
+
 
 β-phenylethylamine has been noted to increase dopamine secretion when taken up into dopaminergic neurons, secondary to the dopamine transporter (DAT; as blocking the transporter ablates the effects of PEA);[36] the vesicular monoamine transporter not playing a role in vitro[36] and the VMAT inhibitor reserpine not blocking the dopaminergic actions of β-phenylethylamine.[49] This may be due to β-phenylethylamine being a substrate for DAT, and increasing dopamine secretion secondary to TA1 activation.[28] Similar to the actions expected of a TA1 agonist, β-phenylethylamine has been repeatedly shown to induce dopamine secretion in vitro[50] and in vivo[51][52] and to inhibit dopamine uptake.[53][54]
 
 β-phenylethylamine appears to have an additional role in activating the D2 autoreceptor at physiological concentrations, acting to regulate excessive firing.[55][56]
 
+
 Secondary to activation of the trace amine receptor (TA1), β-phenylethylamine appears to cause an increase in dopamine efflux paired with a reduction in dopamine uptake into neurons
+
 
 4.3
 
@@ -276,7 +294,9 @@ Immunosuppression
 
 The trace amine receptors that β-phenylethylamine is known to influence (TAAR1 and 2) appear to be expressed on leukocytes[66] as well as both T and B cells,[25] and activation of both receptors by β-phenylethylamine at an EC50 of 0.52+/-0.05nM causes chemotaxis of the immune cells;[25] this is a concentration already lower than human plasma at rest (14.5nM[67]) and thus appears to be physiologically relevant. Similar actions were also noted with the trace amines T1AM (3-Monoiodothyronamine, EC50 0.25+/-0.04nM[25]) and tyramine (0.52+/-0.05 nM[25]) which are also within physiological concentrations.[67]
 
+
 Trace amino acids appear to be able to influence leukocyte migration at a concentration which is relevant even without nutritional supplementation
+
 
 5.2
 
@@ -312,7 +332,9 @@ Parkinson's Disease (PD) is pathologically characterized by dopaminergic insuffi
 
 One study noted a negative correlation between cerebrospinal fluid content of β-phenylethylamine and the severity of Parkinson's disease as assessed by Hoehn and Yahr stage[75] although a later study assessing serum β-phenylethylamine failed to replicate this correlation with disease severity although PD per se had a significantly lower serum level of this trace amine (48%).[76]
 
+
 β-phenylethylamine is synthesized in and acts on the brain region which is known to dysfunction during Parkinson's disease, and accordingly concentrations of β-phenylethylamine in the blood and cerebrospinal fluid appear to be reduced during Parkinson's Disease
+
 
 8.
 

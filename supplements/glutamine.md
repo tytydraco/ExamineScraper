@@ -134,11 +134,15 @@ Glutamine is found in high amounts in most meat and animal products, as well as 
 
 Beef at 4.7% protein[1] where meat in general fluctuates between 4.4% and 4.8%[1]Skim Milk at 8.08% protein[1] whereas milk products in general tend to fluctuate between 8.7% and 9.2%[1]White Rice at 11.1% protein[1]Corn at 16.2% protein[1]Tofu at 9.1% protein[1]Eggs at 4.3% protein[1]Average dietary intake of glutamine, according to the Nurse's Study of 70,356 women, is around 6.85+/-2.19 g glutamine daily.[1]
 
+
 It should be noted that the above percentages are based on total protein content, and not total caloric content nor weight. If assessed by weight, beef protein has 1.23g of glutamine per 100g product whereas skim milk has 0.28g glutamine per 100g product.[1]
+
 
 It is also noted that some of these levels of glutamine may be underreported, and subsequently levels of glutamate higher than expected; this is due to one of the historically used methods of amino acid analysis, hydrolysis, inducing conversion of glutamine to glutamate[2][3] or pyroglutamic acid.[4] The sequencing study cited above[1] demonstrates the higher range of values, and it's methods are described here.[5] Comparing results between conventional methods and gene sequencing can yield differences of up to 4% in total amino acids (influence on glutamine would be dependent on glutamine content of food).[1]
 
+
 Glutamine analysis hasn't been too accurate in the past for exact numbers (due to degradation and conversion of glutamine) but the general trend of meat and dairy being the best dietary sources of glutamine exists. Interestingly, some plant sources have a higher glutamine content on a percentage basis, but they are not the best sources of dietary glutamine due to the low overall amount of protein from plant sources relative to meat and dairy sources
+
 
 1.2
 
@@ -198,13 +202,17 @@ Ischemia/reperfusion (I/R) is an injury to tissue caused by a restriction of oxy
 
 This protection is thought to be associated with enhanced cardiac glutathione concentrations (a deficiency of which exacerbates damage[20]) or the induction of heat shock proteins, particularly HSP70.[21]
 
+
 Glutamine appears to reduce the damage associated with ischemia/reperfusion injury in cardiac cells, which may be associated with enhancing antioxidant and heat shock protein defenses
+
 
 When given to humans around the time of surgery associated with I/R injury (cardiopulmonary bypass[22]), supplementation of 500 mg/kg glutamine (as alanyl-glutamine) for three days prior to surgery is associated with less clinical and biochemical indicators of damage in three days of followup[23] which has been previously seen with IV administration of 400 mg/kg glutamine (as Dipeptiven).[24]
 
 In persons with chronic stable angina a single oral dose of 80 mg/kg glutamine is able to enhance physical performance as assessed by a Bruce test, suggestive of protective effects.[16]
 
+
 Supplementation of glutamine to persons with cardiac impairments or around the time of cardiac surgery has been shown to be cardioprotective, and this has been confirmed with oral supplementation. It is not sure how this information applies to otherwise healthy individuals
+
 
 4.
 
@@ -240,13 +248,17 @@ Glutamine is an amino acid intimately linked in vitro with muscle homeostasis an
 
 In vitro, glutamine is known to reduce the rates of leucine oxidation and increase the deposition of leucine, which increases the effects of leucine in a skeletal muscle cell.[14]
 
+
 When looking at cellular cultures and isolated cells, glutamine appears to dose-dependently increase muscle protein synthesis. When glutamine is increased in the blood via injections, this relationship is still observed
+
 
 Studies using glutamine in otherwise healthy persons and investigating either muscle protein synthesis or lean mass gains have noted a failure with 900 mg/kg lean mass (placbo being 900mg/kg maltodextrin) in youth paired with resistance training.[36]
 
 The addition of glutamine to creatine[37] or extra glutamine (300 mg/kg bodyweight) to a protein and carbohydrate shake[38] or amino acid and carbohydrate shake[38] have also failed to outperform the supplements ingested without glutamine, suggesting no role as a synergistic.
 
+
 In studies of otherwise healthy humans given glutamine supplementation, it does not appear to enhance the rates of muscle protein synthesis
+
 
 6.2
 
@@ -272,7 +284,9 @@ Supplementation with glutamine during longer duration cardiovascular exercise, v
 
 An oral load of 2 g glutamine has been shown to increase plasma bicarbonate levels in vivo[50]. This has been shown to not affect high intensity exercise to any noticeable degree[51], whether it aids in endurance events or not is not known.
 
+
 By attenuating or otherwise preventing glutamine depletion in exericse lasting for more than one hour, performance may indirectly increase relative to the glutamine depleted state. This is not so much performance 'enhancement' as it is performance 'preservation'
+
 
 6.5
 

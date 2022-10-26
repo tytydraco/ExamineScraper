@@ -130,7 +130,9 @@ Selenium is consistently high in seafood and generally high in meats and eggs, a
 
 Legumes such as lentils can be notable sources but vary depending on the species of legume. Wheat flour used in bread and pasta also provides nutritionally important amounts of selenium. Vegetables and fruits are not usually significant sources of selenium, however there are reports of Indian onions and portobello mushrooms being potent sources.[4]
 
+
 A wide variety of foods can supply significant amounts of selenium, with fish and Brazil nuts being the most consistent sources.
+
 
 1.3
 
@@ -194,7 +196,9 @@ This may be an issue of selenium being anti-diabetic acutely (via acting as an i
 
 However, one intervention found that supplementation of selenium by pregnant women who were not deficient in selenium, did not result in increases of adiponectin, a marker of insulin resistance. [37]
 
+
 Supplementation of selenium for insulin resistance or type 2 diabetes is not recommended due to its possible pro-diabetic effects. 
+
 
 2.3
 
@@ -204,7 +208,9 @@ Several studies have found that selenium levels decrease in women during pregnan
 
 A systematic review and meta-analysis, found that selenium concentrations are lower in women with gestational hyperglycemia, when compared to normoglycemic pregnant women. [43] The same study found that women with gestational diabetes mellitus had lower concentrations of selenium than normal pregnant women in the second and third trimester. However, the differences were only significant in the third trimester. It is believed that this is due to the higher tendency of insulin resistance and higher activity of peroxidase enzymes, such as erythrocyte glutathione peroxidase, in the third trimester.[43] 
 
+
 Women with GDM or impaired glucose tolerance are more likely to be impacted by oxidative stress and more likely to have lower concentrations of selenium. Increasing selenium intake through food or dietary supplements may be beneficial for such populations.
+
 
 3.
 
@@ -252,7 +258,9 @@ Thus, based on this research, new studies have aimed to look at the effect of an
 
 A single-blind, placebo-controlled study that aimed to compare silymarin, n-acetylcysteine, and selenium to placebo in reducing lesion counts, found that after eight weeks of supplementation, there was a notable reduction in lesion count in all of the experimental groups, however, the reduction in lesion count was only statistically significant in the n-acetylcysteine and silymarin groups.[67]
 
+
 Selenium supplementation is not very effective in reducing lesion counts in those who suffer from acne.
+
 
 5.
 
@@ -274,7 +282,9 @@ It is theorized that selenium’s role in preventing the incidence of KBD may be
 
 This possible mechanism likely explains why one epidemiological interventional study found that the experimental groups that were given either selenium-iodine salt or rice from areas where there was no prevalence of KBD, were less likely to develop more X-ray lesions, and more likely to have higher metaphyseal repair rates than the control groups.[70]
 
+
 KBD is exclusive to areas where foods are contaminated by the T-2 toxin and where there exists a deficiency of selenium. Supplementation of selenium can prevent the onset of KBD and help treat it. 
+
 
 5.2
 
@@ -296,7 +306,9 @@ A double-blind, randomized, placebo-controlled trial found that pregnant women w
 A systematic review and meta-analysis, concluded from thirteen observational studies and three randomized control trials, that there exists an inverse association of blood selenium levels and the risk of pre-eclampsia. This review found that supplementation of selenium significantly reduces the incidence of pre-eclampsia (p=0.02). [80]
 However, the authors of one of the studies which this meta-analysis uses, have critiqued this interpretation because the authors of the meta-analysis failed to distinguish that there was a significant reduction in selenium concentrations in umbilical venous samples in the pre-eclampsia group. The authors also critiqued several other aspects of the review, stating that the errors would affect the results of the meta-analysis. [81]
 
+
 Several observational studies have found that women with lower levels of selenium in their blood are more likely to develop pre-eclampsia than women with adequate levels of Selenium in their blood. Supplementation of selenium has been demonstrated in randomized controlled trials to lower the incidence of pre-eclampsia.
+
 
 6.
 

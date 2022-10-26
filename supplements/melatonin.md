@@ -296,7 +296,9 @@ Melatonin is also found in a variety of foods, and is universally found in plant
 
 Tomato at 3–114 ng/g[4][5]Walnuts at 3-4ng/g[6]Cereal (barley, rye) at 300–1,000 pg/g[1]Strawberries at 1–11 ng/g[4]Olive oil at 53–119 pg/ml[7]Unprocessed cow milk at 3–25 pg/ml[8][9]Night-time milk (functional food product) at 10–40 ng/ml[10]Wine (from grapes) at 50–230 pg/ml[4][11]Beer (from hops) at 52–170 pg/ml[12]Cherries at 2.06-13.46ng/g[13]Common supplements (or herbs not commonly used as food products) that contain melatonin are (64 total, not all listed):
 
-Periostracum cicadae (Chantui) at 3.7mcg/g[14]Babreum coscluea (Shiya Tea-Leaf), Uncaria rhynchophylla (Gouteng), and Viola philippica Cav (Diding) at 2.1-2.3mcg/g[14]Phellodendron amurense (Huangbo) at 1.235mcg/g and Mori Albae Cortex (Sangbaipi) at 1.11mcg/g[14]Coptis chinensis (Huanglian) at 1mcg/g[14]Angelica sinsensis (Danghui) at 698ng/g[14]Ziziphus jujuba (Suanzhaoren) at 256ng/g, or 146ng/g in the variant referred to as Dazao[14]Salvia miltiorrhiza (Danshen) at 187ng/g[14]Panax notoginseng (Sangqui) at 169ng/g[14]Curcuma aeruginosa (Erzhu) at 120ng/g[14]Schisandra Chinensis (Wuweizi) fruits at 86ng/g[14]Melatonin is produced naturally in the body, and is also a functional food component, similar to its amino acid precursor L-tryptophan, and some intermediate metabolites like serotonin, which is found in some foods.
+Periostracum cicadae (Chantui) at 3.7mcg/g[14]Babreum coscluea (Shiya Tea-Leaf), Uncaria rhynchophylla (Gouteng), and Viola philippica Cav (Diding) at 2.1-2.3mcg/g[14]Phellodendron amurense (Huangbo) at 1.235mcg/g and Mori Albae Cortex (Sangbaipi) at 1.11mcg/g[14]Coptis chinensis (Huanglian) at 1mcg/g[14]Angelica sinsensis (Danghui) at 698ng/g[14]Ziziphus jujuba (Suanzhaoren) at 256ng/g, or 146ng/g in the variant referred to as Dazao[14]Salvia miltiorrhiza (Danshen) at 187ng/g[14]Panax notoginseng (Sangqui) at 169ng/g[14]Curcuma aeruginosa (Erzhu) at 120ng/g[14]Schisandra Chinensis (Wuweizi) fruits at 86ng/g[14]
+Melatonin is produced naturally in the body, and is also a functional food component, similar to its amino acid precursor L-tryptophan, and some intermediate metabolites like serotonin, which is found in some foods.
+
 
 1.2
 
@@ -306,7 +308,9 @@ Melatonin is made de novo in the human body in multiple locations, with the pine
 
 The biosynthetic pathway of melatonin starts from the dietary amino acid L-tryptophan, which is converted to 5-hydroxytryptophan, or 5-HTP, by tryptophan-5-hydroxylase. 5-HTP is converted to the active hormone serotonin by the enzyme aromatic L-amino acid decarboxylase, further converted to N-acetylserotonin by the enzyme serotonin-N-acetyltransferase (sometimes called arylalkylamine-N-acetyltransferase), and finally converted to N-acetyl-5-methoxytryptamine (melatonin) by the enzyme hydroxyindole-O-methyltransferase (HIOMT).[18] Increases in melatonin from supplemental L-tryptophan have been noted in non-human species to varying degrees.[19] Sometimes, melatonin failed to increase.[20] This may be due to the first rate limiting enzyme tryptophan-5-hydroxylase (regulating conversion of dietary tryptophan to serotonin). Thus, supplementing melatonin appears to circumvent this rate limit. The 'true' rate-limiting enzyme is arylalkylamine-N-acetyltransferase, which mediates conversion from serotonin to N-acetylserotonin[21] and is the control point for external regulation by light and darkness, being suppressed with light-induced signals from the retina.[22]
 
+
 Melatonin is made from serotonin, which is made from dietary L-tryptophan. It is regulated by sunlight, mostly in the retina.
+
 
 Given how the suprachiasmatic nuclei (SCN) of the pituitary expresses melatonin receptors,[23] it is thought that supplemental melatonin can suppress endogenous secretion via negative feedback.
 
@@ -316,33 +320,45 @@ When a blind person supplemented a dose of 50mg in one case study (blind people 
 
 Results in blind people suggest that an override of regulation from sunlight/darkness may not be the factor behind the lack of negative feedback, as some studies do control for persons with no conscious light perception.[27]
 
+
 Regulation of melatonin secretion from the pineal gland does not appear to be negatively influenced by melatonin supplementation over the long term (multiple days) and no negative feedback from melatonin supplementation (less natural secretion after a period of supplementation) has been observed.
+
 
 Beyond just fluctuating throughout every day (higher in evening, lower during waking hours), melatonin may fluctuate throughout the seasons in humans, following a bimodal distribution with peaks in January and July.[28]
 
+
 Some alterations of circulating melatonin level depend on the season. Clinical relevance is currently unknown.
+
 
 The circadian rhythm of melatonin appears to shift toward earlier clock hours later on in the aging process.[29]
 
 When investigating rats divided into three age groups (correlating with youth, adult, and elderly), it appears that overall melatonin levels are highest in adults (only due to youth having smaller pineal glands; youth has the highest density of melatonin) and lower levels of melatonin are apparent in elderly rats.[30] Similar trends were seen in N-acetylserotonin, another pineal hormone.[30] This higher density in rat pups is seen in human youth, where spikes in melatonin occur around age 2-4 and then decline until puberty, where they remain constant, [31] before gradually declining over the rest of the lifespan. The most drastic drop in nightly melatonin levels appears to occur around the ages of 41-60, where the melatonin levels of 41-50 year-olds is significantly higher than the age bracket of 51-60.[31][32][33][34][35]
 
+
 Melatonin appears to fluctuate with age, decreasing steadily after puberty, but undergoing a significant decrease in average nightly melatonin levels around the ages of 41-60.
+
 
 Melatonin levels appear to correlate with one's dietary lifestyle.[2] Consumption of plant-based products may influence circulating melatonin levels due to plants containing melatonin in possibly physiologically relevant levels, if a sufficient amount of the plant is consumed.[3] At least in survey research, the highest quartile of vegetable intake (relative to the lowest quartile) is associated with a 16% higher urinary melatonin level.[36]
 
 Studies on fasting people (or food restriction to less than 300 calories daily) note that circulating melatonin levels can decrease by up to 20%, with no change of urinary secretion rates over a period of 2-7 days.[37][38][39] This may be secondary to transient glucose deprivation, as supplementation with glucose at 0.5g/kg during these periods restores circulating levels of melatonin, and suggests that the pinealocytes that secrete melatonin may require glucose for optimal functioning.[39][38] However, when investigating rats undergoing caloric restriction (40% of basal metabolic rate) for the purposes of longevity, melatonin levels in serum are increased.[40]
 
+
 Melatonin levels appear to fluctuate with overall caloric and food intake, as well as some food selections. Melatonin may be relevant for explaining some of the health benefits of vegetables, and this could potentially extend to alcohol-containing products.
+
 
 In people with major depressive disorder, serum melatonin disorders appeared to be lower than age-matched controls, with no difference in this sample during depressive episodes and during periods of remission.[41]
 
 In people with bipolar disorder, serum melatonin disorders appeared to be lower than age-matched controls.[41]
 
+
 Some alterations in circulating melatonin levels depend on clinical states, like depression or bipolar disorder.
+
 
 When comparing active smokers of tobacco against non-smoking controls, smokers appear to have approximately twice the circulating levels of melatonin when measured during the daytime (11-12h): 17.44+/-1.8 pg/ml in smokers relative to 9.77+/-1.4 pg/ml in non-smokers,[42] while a study on 21 young female smokers taking measurements of serum melatonin at night (23-24h) found that, relative to non-smokers, smokers had reduced levels of melatonin (47.9+/-14.5pg/mL) and nonsmokers 47% higher levels (70.5+/-18.9pg/mL).[43] A later study on smokers found endogenous levels of melatonin in smokers just above 2nmol/L/h, which is not significantly different from the nonsmokers in the previous study.[44] This latter study did note, however, that smokers were about half as responsive to blood increases in melatonin from supplements,[44] due to induction of the aromatase enzyme from Polyaromatic Hydrocarbons (PAHs) in cigarette smoke.[42][45]
 
+
 Alterations in melatonin status and smoking are complex and understudied. There may be a normalization of the circadian rhythm, which needs to be confirmed with further studies. Smokers appear to have less response to melatonin supplementation than do nonsmokers.
+
 
 1.3
 
@@ -352,7 +368,9 @@ Epithalamin is a hormone secreted from the pineal gland (similar to melatonin) t
 
 One study administering epithalamin (6 courses of treatment of 10mg every third day for 15 days, spanning 3 years) to people aged 60-69 with aged cardiovascular systems and low serum melatonin noted that, 12 years after cessation of epithalamin treatment and during follow-up, some parameters associated with aging appeared to be either attenuated or reversed. The epithalamin group outperformed placebo on cycling power, improved lipid and glucose metabolism, and appeared to normalize the suppressed nightly spike of melatonin in the aged control.[48]
 
+
 Epithalamin is a peptide hormone related to melatonin that seems to be able to prolong lifespan in research animals, and improve biomarkers in elderly humans.
+
 
 2.
 
@@ -364,15 +382,21 @@ Melatonin Receptors
 
 Melatonin exerts many of its effects vicariously through melatonin receptors, similar to how insulin affects the insulin receptor. The melatonin receptors are named MT1 and MT2, and are G-protein coupled receptors (GPRCs) coupled to Gi proteins (a heterotrimer of α, β, and γ that dissociates into α and βγ when the receptor is activated[49]).[50] These two receptors are quite different from each other, as they structure[51][52] pharmacological characteristics[53] and chromosomal location,[54] yet both have high affinity for melatonin.[55][56] A third 'receptor' exists, known as MT3, but it is not a GPRC like MT1/2. Due to the cytoplasmic protein quinone reductase II having the same melatonin binding properties as 'MT3',[57] and deletion of quinone reductase II causing 'MT3' to disappear, MT3 may just be quinone reductase II.[58][59]
 
+
 Two G-protein coupled receptors, with different actions, mediate the actions of melatonin, MT1 and MT2. Quinone reductase II may bind to melatonin and was thought to be a third receptor (MT3), but it is a cytoplasmic protein. Quinone reductase II may still be relevant, however.
+
 
 An orphan receptor on the nuclear membrane, named RZR/ROR, can mediate melatonin-like effects.[60][61]
 
+
 A fourth receptor, located on the nucleus rather than the cytoplasm, appears to be intimately involved with nuclear melatonin signalling via cytoplasmic receptor cross-talk.
+
 
 Expression of melatonin receptors are in[50] the Suprachiasmatic Nuclei (SCN) of the Pineal gland, where MT1 and MT2 both exist and MT1 activation suppresses neuronal firing, the hypothalamus, where both receptors suppress gonadotropin releasing hormone release, the retina, where MT2 reduces dopamine release and an MT3 receptor reduces ocular pressure, the pars tuberalis of the pituitary gland,[62] the kidneys (MT1),[63] the pancreas and beta-cells of the pancreas (both MT1 and MT2),[64] the adrenal cortex, where MT1 activation suppresses cortisol secretion, the testes, where MT1 suppresses testosterone, the pituitary, where MT1 suppresses Follicle Stimulating Hormone (FSH), Luteinizing Hormone (LH), and prolactin. Expression of melatonin receptors is also present in vasculature, where each main receptor mediates either vasoconstriction (MT1) or vasodilation (MT2) and on some adipocytes where MT1 negatively regulates adipose tissue proliferation and increases leptin secretion (there is no MT2 on white adipose tissue, but there is expression of MT2 on brown adipose suppresses glucose uptake[65]).
 
+
 Melatonin is most heavily localized in the brain and associated neuro-organs. It also has a heavy presence in sex organs. It is a fairly ubiquitous compound, with expression on fat cells, immune cells, cardiac cells as well as the bloodstream cells
+
 
 2.2
 
@@ -380,11 +404,15 @@ Non-melatonin receptors
 
 GPR50 is an orphan receptor (belonging to the same GPRC family as melatonin receptors[66]), which appears to play a role in adaptive thermogenesis[67] and is expressed in humans, specifically in the dorsomedial nucleus of the hypothalamus and tanycytes that line the third ventricle.[68] Knockout of this receptor (abolishing its effects) appears to confer resistance to diet-induced obesity, yet paradoxically reduces the amount of weight lost in a fasted state. Knockout also reduced night time thermogenesis, despite 25% higher locomotion during waking hours.[69] GPR50 appears to interact with leptin signalling, as administration of leptin can improve GPR50 nuclear activity in obese mice (with seemingly suppressed levels of GPR50[67]) but not in GPR50-/- mice, suggesting leptin acts vicariously through this receptor, but only on matters related to thermogenesis (as feeding patterns appear unaltered).[67][70] In fact, after leptin was administered to rats with the standard leptin receptor but no GPR50 receptor, the amount of genes activated by leptin in control mice (2,705) is reduced by just over 50% (to 1,327).[67] It should be noted that melatonin is not a direct ligand of this receptor.[71][66]
 
+
 GPR50 is an orphan receptor, which seems to mediate the aspects of leptin related to thermogenesis, but not appetite. It may mediate up to half of the effects of leptin as well.
+
 
 GPR50 appears to heterodimerize with the melatonin receptor MT1, which results in reduced efficacy of MT1 signalling, by preventing the binding of agonists to MT1.[72] GPR50 has the capacity to heterodimerize with MT2, but does not influence the functions of MT2, similar to how MT1 and MT2 heterodimerization does not influence binding of ligands.[72] Melatonin normally has a Ki of 0.73±0.26nM, yet the heterodimerization has a Ki of 0.37±0.28nM.[72] Secondary to this, GPR50 appears to antagonize the effects of MT1.[72] Co-expression of GPR50 alongside MT1 does not affect basal MT1 actions, but reduces the maximal response of MT1 by melatonin agonism by 50%. Reducing the expression of GPR50 reverses these effects.[72]
 
+
 Expression of GPR50 appears to reduce the actions of MT1, and may alter the signals sent through MT1 via melatonin.
+
 
 3.
 
@@ -398,7 +426,9 @@ In a model of delayed sleep phase syndrome, 500mcg of melatonin appears to be as
 
 A comparative study between 500mcg and forty-fold the dose (20mg) showed that 500mcg was more effective at regulating the circadian rhythm of a blind person (with no external melatonin regulation from darkness).[75] A lower dose of 10mg in blind people appears to be more effective than 20mg, although insignificantly different from 500mcg.[76]
 
+
 Although differences between very low (300-500mcg) and higher (3-5mg) doses tend to go back and forth in regard to efficacy, both seem to be more potent than superloaded doses (20mg).
+
 
 Oral doses of 500mcg melatonin (seen as the lowest active dose) in shift workers resulted in a Cmax of 1,580+/-329 pg/ml after a Tmax of 1+/-0.14 hours,[24] noting that this high dose was above physiological ranges for up to three hours, but after the fourth hour levels returned to the physiological range of 24-198pg/mL.[24] Other studies that use 500mcg note serum levels of 3,054+/-3,022pmol/L (709.4+/-701.9pg/mL) with a half-life of 0.68 hours.[77]
 
@@ -408,17 +438,23 @@ With 6mg of melatonin, in one hour serum levels of 1,171.3+/-235.2pg/mL are seen
 
 One study assessing 100mg melatonin (200-fold higher dose than the lowest active dose) noted serum peaks approximately 100 minutes after administration, or 652,310+/-82,456pmol/L (151,517+/-19,153pg/mL).[80] This dose is able to stay in circulation longer than smaller doses, still affecting biology up to bedtime, when taken at 8am.[80][81] The study noting the higher serum peak measured levels of 95+/-15pmol/L (22.06+/-3.48pg/mL) the next morning at 8am, which was still above baseline for these participants.[80]
 
+
 Serum peaks are quite unreliable, although all small doses tend to increase circulating melatonin around 8-10 times more than the highest physiologically relevant concentration. Higher doses increase melatonin levels even further, and delay the time to peak concentrations while also delaying the excretion rates.
+
 
 When examining a large dose (80mg) of melatonin given to healthy people in the morning (7:30am), the various parameters recorded were: a 24m half-life, with stable levels 60-150 minutes after ingestion and a gradual decline in serum melatonin levels until 9pm, when they returned to physiologically relevant levels.[82] The peak values were highly variable and significant in magnitude, 350-10,000fold higher than previously observed peak levels. Such variability has been seen elsewhere[83]), and hourly dosing of 80mg melatonin was able to attenuate but unable to inhibit the decline throughout the day.[82]
 
 Fast absorption appears to be similar between higher doses (80mg),[82] 100mg[84]) and lower doses (6mg).[83] One study testing four low doses (100mcg, 500mcg, 1mg, 5mg) also noted that the absorption rates appeared to be nonsignificantly different, all taking within 0.78-1.25 hours to reach Cmax.[77]
 
+
 Melatonin appears to be rapidly absorbed and very rapidly excreted, with the concentration in the blood between these times being significantly higher than normal levels.
+
 
 When administered intranasally to rabbits, melatonin had a bioavailability of 94% when paired with sodium glycocholate, but 55% without.[85] This route of administration was accompanied by a 5 minute Tmax and a 13 minute half-life, with 1.5mg of melatonin conferring a Cmax of 493+/-290ng/mL at 5 minutes. These parameters mimicked intravenous injections.[85]
 
+
 Melatonin administered via the nasal route may be markedly more effective than oral supplementation.
+
 
 3.2
 
@@ -436,7 +472,9 @@ Adrenergic Neurotransmission
 
 In humans, 3mg of melatonin is able to attenuate a stress-induced rise in adrenaline and noradrenaline in young healthy men, but is unable to abolish it.[92] Without a stressor, oral melatonin at low doses (1-2mg) appears to reduce circulating adrenaline by about 60-90 minutes after ingestion.[93][94][95]
 
+
 Melatonin may be able to reduce concentrations of circulating adrenaline and noradrenaline.
+
 
 4.2
 
@@ -444,7 +482,9 @@ Dopaminergic Neurotransmission
 
 Melatonin appears to inhibit dopamine release in the ventral hippocampus, medulla pons, preoptic area, and the hypothalamus (posterior and median),[96][97] yet no inhibition occurs in the cerebral cortex, striatum, cerebellum, or dorsal hippocampus.[97] This inhibition appears to be mediated by inhibiting calcium influx into co-stimulated nerves.[98][99] In accordance to this inhibition, active in physiologically relevant nM ranges (although maximal potency is at pharmacological mM ranges), dopamine experiences a diurnal rhythm of release, vicariously through melatonin suppression.[100][101] This inhibition of dopamine release appears to apply to amphetamine-induced dopamine release, which may be of concern to ephedrine supplementation.[102][103]
 
+
 Mechanistically, melatonin appears to be a negative regulator of dopamine release in neurons.
+
 
 4.3
 
@@ -470,7 +510,9 @@ Headaches and Blood Flow
 
 Melatonin has been investigated for its usage in treating migraines[121], due to migraines having a circadian rhythm[122] and insomnia being correlated with morning migraines.[123] One study that tested this hypothesis in people aged 18-65, with an attack frequency of 2-7 per month, noted that melatonin failed to exert more benefits than placebo when taken at 2mg one hour before sleep for 8 weeks, although a (nonsignificant) improvement in sleep quality (assessed by the Pittsburg Sleep Quality Index) was observed. This became significant when controlling for people with insomnia (correlated highly with those who had auras with their migraines).[124] This study was criticized for its methodology, mainly because the combination of a crossover design and an 8 week duration limits the length observations could be made. Placebo response rate was much higher than expected, suggesting design flaws.[125]
 
+
 Melatonin has not yet been shown to reduce the frequency or intensity of migraines, but has not conclusively been shown to be ineffective. More evidence is required.
+
 
 4.6
 
@@ -482,11 +524,15 @@ Some studies do not note a significant decrease in sleep latency,[126][127][128]
 
 A part of melatonin's pro-sleep mechanisms may be related to a decrease in body temperature, as the two are highly associated.[133]
 
+
 Melatonin appears to be quite reliable for shortening sleep latency, and inducing faster sleep. This may be related to the hypothermic (temperature lowering) effects of melatonin, and does not necessarily indicate better sleep quality.
+
 
 In older people with primary insomnia, melatonin (2mg of a slow release formula) has shown efficacy in improving sleep quality.[139][140] Melatonin has also shown efficacy for children suffering from insomnia that affects development.[141] In this latter study, kids with an average age of 12 (8.6-15.7yrs), using melatonin in ranges of 0.3-10mg (average dose of 2.69mg), for an average of 3.1 years, did not significantly differ from a non-supplemented control when assessed by Tanner stages, three questions used to assess physical maturation of puberty.[142][143] No differences in mental maturity were seen.[141] Benefits to insomnia have also been noted for people who suffer from insomnia and also experience migraines with auras, which may be correlated.[124]
 
+
 Due to melatonin shortening the time it takes to fall asleep (sleep latency) it shows most efficacy in insomnia treatment and, despite being used in all age groups, is surprisingly free of withdrawal and other side-effects at the doses used.
+
 
 Melatonin has shown some efficacy in improving sleep quality for people suffering from tinnitus.[144]
 
@@ -496,7 +542,9 @@ Jet lag is a term used to refer to dysregulation between external regulators of 
 
 Melatonin is investigated for its usage in solving jet lag due to its ability to 'fix’' the circadian rhythm and restore desynchronization via signalling the SCN through MT2 receptors.[149]
 
+
 In situations where external stimuli (sunlight and darkness cycles) and internal stimuli (the internal clock) are not in sync, supplemental melatonin is thought to help re-establish balance.
+
 
 A Cochrane database meta-analysis of 10 studies that transversed at least 5 time zones found that melatonin was significantly more effective than placebo, when taken at the destination's bedtime, in normalizing the circadian rhythm and reducing the symptoms of jet lag.[150] According to the studies reviewed, there is no significant difference between 500mcg and 5mg on the effects of melatonin in reducing jet lag. Some better sleep was noted with 5mg. It should be noted that some people still experienced jet lag, as the meta-analysis[150] noted that in the two studies that reported individual statistics, about 18% of subjects still experienced jet lag after melatonin, with placebo at 67%. The one study that did not report benefits can be found here.[151]
 
@@ -504,11 +552,15 @@ In studies comparing melatonin against other sedatives, it appears to be less ef
 
 Other interventions using melatonin for jet lag (in regards to travel) indexed in Medline are found here,[153][154][155][156][157] and this phenomena as it applies to shift work is noted here.[158][159]
 
+
 Melatonin, taken in the evening (sometimes 30 minutes before sleep, at times up to 4-5 hours before sleep with a higher dose) appears to normalize abnormal circadian rhythms. In order to fix jet lag, supplementation should be timed with the clock of the current time zone.
+
 
 Interestingly, green light treatment in the morning combined with 3g of melatonin the night prior, additively,but not synergistically, benefits correction of abnormal circadian rhythms.[160] Bright light in the morning also aids in normalizing the circadian rhythm[161] or otherwise shifting it to another time.[162] Bright light, when observed in the afternoon and combined with melatonin, partially abolishes the effects of melatonin.[163] In this study, while light treatment at 21:00 and 24:00 delayed normalization of the circadian rhythm by 0.68 hours. Supplemental melatonin at 20:40 corrected it by 0.4 hours. The combination failed to be significantly different than placebo.[163] These results also suggest that melatonin can negate the negative effects of light at night, as it applies to jet lag.
 
+
 Melatonin at night works well with bright light therapy in the morning, for the purposes of lowering sleep latency, but is antagonistic with bright lights prior to sleep.
+
 
 The first night effect is a delay in sleep onset due to sleeping in new settings, common during travel. Similar to Panax ginseng,[164] melatonin is effective in reducing sleep latency (time to fall asleep) and as an aid against the first night effect, which is sometimes seen in any study assessing patients in clinical settings during sleep.[165]
 
@@ -578,11 +630,15 @@ A human study using melatonin supplementation and measuring serum leptin noted t
 
 These effects have also been seen in rats at 25mcg/mL in drinking water (about 500mcg daily) for 9 weeks with either a high fat (35% fat, 35% carbs) or a low fat (4% fat, 60% carbs) diet, where leptin area under curve was increased, but only when measured from early morning to early evening, with no significant difference at any point in the evening.[180] Another study in rats using a lower dose of 10mcg/mL (ended up being 35mcg daily) of water also found influences on circulating leptin, where levels were increased to approximately 150% of control (data derived from graph) after one month. This study also found an increase in circulating zinc.[181] Similar results have been seen in cases of excessive melatonin administration (3mg/kg in mice via I.V), where leptin increased to 127% of control over 6 months.[182]
 
+
 Melatonin supplementation over a period of longer than a week increases circulating leptin levels without changes in body fat or food intake. This increase does not appear to be dose-dependent. Due to interactions with the circadian rhythm, concrete numbers pertaining to the leptin increase may not be reliable. 
+
 
 When examining isolated fat cells (where most leptin is produced), the amount of leptin secreted is not significantly enhanced when incubated with 1nM melatonin.[181] However, this may be due to the incubation with melatonin alone, as other studies pairing melatonin with insulin note that melatonin may augment the insulin-induced secretion of leptin, as neither induced leptin secretion in vitro by themselves, while the combination increased secretion by 120% and mRNA content by 50%. Adding dexamethasone to the mixture increased these levels to 250% and 100%, respectively.[183] Melatonin was able to suppress a Cyclic Adenosine Monophosphate (cAMP)-induced suppression of leptin release and play a synergistic role in activating the insulin receptor and its target, Protein Kinase B (Akt). Its effects were abolished when the MT1 receptor was prevented from acting.[183] These effects were later replicated by the same research group, with the same potency, when adipocytes were incubated on a 12 hour on/12 hour off protocol to mimic the circadian rhythm.[184]
 
+
 Melatonin appears to potentiate insulin-induced leptin secretion.
+
 
 Please refer to the section on Mechanisms and the subhead 'Non-Melatonin Receptors' for discussion on GPR50, a leptin receptor that negatively influences melatonin signalling through MT1. The increase in leptin may be a mechanism of negative feedback due to melatonin signalling.
 
@@ -596,13 +652,17 @@ Melatonin appears to be somewhat of a negative regulator of adipocyte physiology
 
 When treated in 3T3-L1 preadipocytes, melatonin is able to induce proliferation. This appears to act through MT1 receptor activation.[188]
 
+
 Melatonin appears to influence mesenchymal cells (a cell that can develop into either adipose cells or bone cells) towards bone rather than fat, a process similar to that seen with resveratrol.
+
 
 In a model of PAZ6 adipocytes (the human brown preadipocyte cell line[65]), it was found that the mRNA for both melatonin receptors existed, and via MT2 receptors, suppressed GLUT4 translocation and glucose uptake by approximately 25% over 14 days incubation, but failed to significantly reduce activity after one day.[65] In this study, brown and white adipocytes were both tested and although white had less MT1 than brown adipose, white expressed no MT2.[65] A study using luzindole (an agonist of mostly MT2 but with some affinity to MT1) demonstrated it was less effective than melatonin at creating these effects, supporting the lack or either relative absence of active MT2 on white adipocytes.[188]
 
 Activation of melatonin receptors appears to be associated with suppression of adenyl cyclase and a decrease in Cortisol-Induced Aromatase (cAMP) levels.[188][187] This decrease in cAMP levels (associated with the Gi protein coupled to melatonin receptors) can suppress lipolysis induced by beta(2)adrenergic stimulation.[189]
 
+
 White adipose expresses MT1 and little-to-none MT2. Although glucose metabolism is heavily influenced in brown adipocytes, humans do not have much (relative to rats), which means it may not be practically relevant. Signalling via MT1 in white adipose may be the most practically relevant mechanistic pathway of melatonin for humans.
+
 
 When investigating oxidation, incubation of preadipocytes with melatonin is associated with increased levels of copper, zinc, manganese and Superoxide Dismutases (SODs). An increase in catalase was observed after a 24 hour incubation. These trends reversed at the 48 hour mark of incubation.[188]
 
@@ -614,7 +674,9 @@ When rats are fed 500mcg melatonin daily via drinking water and concurrently giv
 
 When 5mg of melatonin is administered 2 hours before bedtime to a sample of people with metabolic syndrome, a small but statistically significant reduction of BMI has been observed (from 29 to 28.8) over two months, which correlates with improvements in blood pressure and antioxidant profile.[176]
 
+
 Though melatonin is unlikely to be a potent weight loss or anti-weight gain agent, it does seem to beneficially influence these parameters.
+
 
 7.
 
@@ -648,7 +710,9 @@ When investigating postmenopausal breast cancer survivors, melatonin does not ap
 
 When examining the aromatase enzyme (CYP1A1/2, conversion of testosterone to estrogen), melatonin appears to interact with aromatase. In MCF-7 (breast cancer) cells conditioned to proliferate after testosterone administration (via estrogen), melatonin was found to slightly suppress proliferation and inhibit aromatase at physiological concentrations (approx. 58% of control levels at 1nM) as compared to pharmaceutical concentrations (75% at 10uM). It was able to suppress Cortisol-Induced Aromatase (cAMP) upregulation.[197] These actions appear to be through activation of the MT1 receptor,[198] secondary to downregulating aromatase-inducing genes.[199] These effects have also been noted in fibroblast cells, a source of estrogen production in postmenopausal estrogen-responsive breast cancer.[200]
 
+
 Melatonin appears to regulate aromatase, but the concentrations at which it does this may be more likely to prevent an age-related deficiency, rather than act as a pharmacological intervention that would be used with testosterone supplements.
+
 
 8.2
 
@@ -656,11 +720,15 @@ Androgens
 
 In the Leydig cells of hamster testes, melatonin appears to suppress androgen signalling via the MT1 receptor. Melatonin agonism of the MT1 receptor leads to downregulation of the StAR enzyme, as well as other steroidogenic enzymes, such as 3β-HSD and 17β-HSD.[201] These effects appear opposite of D-aspartic acid and in parallel to the actions of Corticotropin-Releasing Hormone (CRH).[201] Melatonin appears to increase intracellular corticotropin-releasing hormone levels[201] which, paired with the passive diffusion of CRH from Leydig cells,[202] led to researchers to pair melatonin with an antagonist of the CRH receptor, which completely abolished the inhibitory effects of melatonin on testosterone synthesis.[203] Melatonin appears to work via MT1 to decrease phosphorylation of p38, which increases synthesis of CRH,[204] after which CRH suppresses androgen synthesis.[203]
 
+
 Melatonin is an indirect negative regulator of testosterone in the testes.
+
 
 When supplemented to otherwise healthy men, 6 mg of melatonin does not appear to significantly influence testosterone levels. It may trend to attenuate the exercise-induced decrease in testosterone.[79] This same dose taken nightly for a month does not alter testosterone levels, luteinizing hormone levels or follicle stimulating hormone levels in otherwise healthy men.[165]
 
+
 Despite the mechanisms of negative regulation, melatonin does not appear to actually influence testosterone levels in healthy men.
+
 
 8.3
 
@@ -680,7 +748,9 @@ Both 500mcg and 5mg of melatonin appear to be similarly effective in increasing 
 
 A 500mg dose of melatonin may inhibit the release of growth hormone that is induced by serotonin, which appears to be exercise-related and insulin-induced hypoglycemia (low blood sugar).[206]
 
+
 Melatonin supplementation in the range of 500-5,000mcg is able to acutely increase growth hormone levels in otherwise healthy young males at rest, which is thought to be due to melatonin’s ability to sensitize the pituitary to the effects of GHRH, rather than through a direct stimulatory effect.
+
 
 Interactions between melatonin and exercise in regard to growth hormone are somewhat mixed, as one study using 500mcg and 5mg of melatonin against placebo in young and otherwise healthy people experienced with resistance training, noted that, for 120 minutes after exercise, 5mg melatonin significantly increased growth hormone response, relative to placebo, in men, while 500mcg trended towards significance. This study has a research grant from Iovate Health Sciences.[207] Other studies on the subject note that a 5mg oral dose of melatonin taken before anaerobic bicycle exercise can significantly increase the peak and overall exposure to growth hormone by approximately 72%.[78] One other study in resistance-trained adult men undergoing full-body resistance training supplementing 6mg melatonin an hour before exercise noted that melatonin actually decreased the exercise-induced spikes in growth hormone, relative to placebo.[79]
 
@@ -722,7 +792,9 @@ Melatonin is able to influence eye health, as the eye expresses melatonin recept
 
 One study, investigating mechanisms, noted that incubation of retina with melatonin agonists was associated with modulation of adrenaline receptors, downregulation of the beta(2)adrenergic receptor and upregulation of the alpha(2)adrenergic receptor, which is suppressive of adrenaline's actions.[225] Protein content of carbonic anhydrases is also reduced with melatonin agonists, which may also confer reductions in ocular blood pressure.[226]
 
+
 Melatonin appears to regulate ocular blood pressure, by reducing intraocular blood pressure through melatonin receptors. This effect may occur through suppressing the actions of adrenaline-mediated blood pressure increases. A 500mcg oral dose can reduce ocular blood pressure 2-3 hours after administration.
+
 
 The concentration of melatonin in the eye (aqueous humour) appears to be roughly similar between glaucoma patients and normal people, when measured in the morning and early afternoon (800 and 1600h),[227] a time when levels are lower than in the evening.[228] It is not known if people with glaucoma have lower sleeping melatonin levels in the aqueous humour.[229]
 
@@ -736,7 +808,9 @@ One study investigating melatonin and tinnitus found that 3mg of melatonin, take
 
 In another trial pairing, 3mg of melatonin, paired with the blood-flow enhancing drug Sulodexide at 250-500mg (with the other two groups being melatonin in isolation and control) during both combination therapy and melatonin in isolation were found to be more effective than placebo, while additive benefits against tinnitus were seen with combination therapy.[233] Improvements were seen in 79.4% of combination therapy instances, and in 58.8% of people in the melatonin-only group, when assessed by both Tinnitus Handicap Inventory (THI) and acufenometry.[233] This study is duplicated in Pubmed.[234]
 
+
 Melatonin is not a cure for tinnitus, but it appears to be more effective than placebo at suppressing tinnitus-related symptoms and improving sleep, secondary to a lessened subjective sensation of tinnitus.
+
 
 11.
 
@@ -752,11 +826,15 @@ A study comparing young and old rats fed 10mg/kg melatonin of intraperitoneal in
 
 In vitro activation of the membrane receptor (MT1) was able to increase the RNA levels of the catalytic subunit of telomerase, TERT (observed in research as it correlates well with telomerase[239]), in an MCF-7 cell line by about 50% at 1nM concentration with no dose-dependence.[237] However, binding of an agonist to RZR/RORα (a nuclear receptor melatonin can bind with[61]) can reduce expression of TERT in a dose-dependent manner by 30-40%, depending on concentration (1pM-1nM, the latter being the level of circulating melatonin).[237] Neither receptor appears to influence the TR subunit.
 
+
 Melatonin appears to be able to positively and negatively regulate the catalytic subunit of telomerase, which appears to be of equal potency at physiologically relevant concentrations of 1nM. At least one rat study noted that pharmacologically high levels of melatonin via supplementation increased telomerase expression.
+
 
 Estrogens appear to be able to induce telomerase activity, due to an imperfect estrogen response element on the telomerase (TERT) promotor.[240] Estradiol can upregulate telomerase via the ERα.[241] Melatonin has the ability to regulate aromatase, and suppress excessive telomerase activity induced by estrogens and estrogenic compounds such as cadmium,[242] which is useful for estrogen-responsive cancers that express higher levels of telomerase for cell viability.[243][244] This inhibition of TERT expression in cancerous estrogen responsive cell lines has been observed in vivo with 0.1mg/mL melatonin in rat drinking water.[245]
 
+
 Melatonin appears to be able to suppress excessive expression of telomerase through environmental and endogenous estrogens, via regulation of TERT transcription. This is more of an anti-cancer mechanism, with its implications for longevity currently unexplored.
+
 
 11.2
 
@@ -764,7 +842,9 @@ Breast Cancer
 
 Melatonin has been noted in one meta-analysis to reduce the risk of death after one year in people with solid tumor cancers, with a relative risk (RR) of 0.66 and 95% CI of 0.59-0.73, suggesting approximately a quarter risk.[246]
 
+
 Melatonin may exert a general protective effect in cancer patients, which results in less death.
+
 
 It has been hypothesized that melatonin levels, through markers such as circadian rhythm disturbances and urinary metabolite levels, is inversely correlated with breast cancer, and that a reduced melatonin status increases breast cancer risk.[247][248][249][250]
 
@@ -788,7 +868,9 @@ Melatonin’s life-extending properties are being investigated for a few reasons
 
 A study comparing young healthy controls (n=20), clinically healthy elder people (n=24), and centenarians (n=24) found that those over 100 years of age had standard aging of thyroid parameters and dehydroepiandrosterone (decreases in accordance with age) but that the difference between daily and nightly melatonin excretion (urine) was more similar to the youthful control rather than the aged cohort, which experienced a normalization.[256]
 
+
 Melatonin and the pineal gland are highly associated with longevity. Since melatonin levels decline with age, supplementation can have restorative effects.
+
 
 12.2
 
@@ -808,13 +890,17 @@ Studies in the Elderly State
 
 Combination therapy of melatonin (1mg/kg) and growth hormone (2mg/kg) has been found to reverse some increases in inflammatory cytokines (TNF-α and IL-1) and increase others (IL-10) in cardiac tissue of rats. Therapy also abolished age-related changes in NF-kB distribution (cytosol and nuclear membrane).[259] The reduction in mitochondrial potential seen with aging in cardiac cells (SAMP8 mice) appears to also be normalized[260] and is seen in rats in a rehabilitative manner (30 days of supplementation to older rats).[261]
 
+
 Melatonin appears to confer a cardioprotective effect against aging.This is not abolished by growth hormone therapy, though the study in question was unable to assess synergism or additive effects.
+
 
 In SAMP8 mice and Wistar rats, oral melatonin (1mg/kg) appears to reduce some effects of aging on the skin.[262]
 
 Melatonin administration of both 1 and 10mg/kg daily in rats is also able to prevent age-related changes in pancreatic tissue.[263] and liver tissue.[264]
 
+
 A reduction in age-related changes associated with oral intake of melatonin at 1mg/kg in rats and mice (0.08-0.16mg/kg bodyweight humans, or 5.45mg for a 150lb person) appears to extend to all measured organs.
+
 
 13.
 
@@ -836,7 +922,9 @@ In vitro, 1-5mM of melatonin has been found to accelerate the growth of hair (in
 
 Although the study cannot be found online (again, mentioned indirectly through a review[272]), there appears to be a large open-label study of 1891 people with androgenic hair loss, which reported that the rate of no hair loss rose from 12.5% to 61.5%, but stimulated hair growth in 22.5% of the sample.
 
+
 Melatonin receptors are expressed in hair cells. It appears to have a role in promoting hair growth. While melatonin does appear to be both effective and potent at inducing hair growth and stalling hair loss, even in androgenic hair loss, as is the case with a receding hairline, it appears to be somewhat unreliable and does not affect 100% of subjects.
+
 
 14.
 
@@ -860,7 +948,9 @@ Alcohol is a component of some beverages, like beer and wine, that, surprisingly
 
 When measuring urinary melatonin levels, however, there do not appear to be any significant influences from alcohol consumption,[278][279][276] and one study suggests a decrease in urinary melatonin secretion between 9-17% (2-4 drinks, no effect seen from just one).[280]
 
+
 The effects of alcohol on melatonin are not clear at this time.
+
 
 14.3
 
@@ -932,7 +1022,9 @@ Tolerance
 
 A study assessing 6 months (n=112) and 12 months (n=96) of melatonin treatment of 2mg in a controlled release capsule, taken 1-2 hours prior to sleep, people aged 20-80 with primary insomnia failed to show any tolerance to the treatment. The authors noted a slight sensitization to the effects of melatonin at the 3-4 month period, which was attributed to better entrainment of the circadian rhythm.[291] These results have been replicated in another study, lasting 6 months, with a sample of 791 people. No melatonin tolerance due to usage was observed,[137] Another study, lasting 6 months with a sample size of 421 people also replicated these results.[138]
 
+
 A handful of large scale, 6-12 month studies, suggest continued administration of melatonin does not result in tolerance.
+
 
 15.3
 
@@ -944,7 +1036,10 @@ In a study investigating children with sleep onset problems taking melatonin (1-
 
 In contrast to this, at least one large scale (n=791) double-blind study on insomniacs noted that there were no withdrawal symptoms associated with stopping melatonin usage after 6 months, at 2mg of a sustained release formulation. Withdrawal was assessed by the Tyrer questionnaire, with about 28% in both placebo and melatonin.[137] Data from 6-12 months of melatonin usage in insomniacs noted that during a 2-week monitoring period after cessation of melatonin, there was a slight residual effect of better sleep, no tolerance during long-term melatonin treatment, and no noted withdrawal effects significantly different than placebo.[291] An apparent absence of withdrawal or dependence is more common in older people with symptoms of insomnia. Melatonin for usage of up to 6-12 months is not associated with dependence or withdrawal symptoms, an example of a potential withdrawal symptom being exacerbation of insomnia.[297][139][140]
 
+
 There is a lack of solid evidence to suggest the presence of withdrawal or dependence from melatonin supplementation. Some evidence affirms that there is no adverse effect on drug dependence or withdrawal. Doses higher than 2mg have not been sufficiently studied.
 
+
 It is possible that the termination of the benefits to sleep upon discontinuing melatonin may be seen as 'reactive insomnia', as sleep quality returns to the quality that it was prior to melatonin intervention.
+
 

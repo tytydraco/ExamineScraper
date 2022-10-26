@@ -82,7 +82,9 @@ Pu-erh tea has a taste that is described as 'complex, silky smooth, and mellow' 
 
 When tea is fermented by bacteria, levels of catechins initially drop.[2] However, new compounds are generated via microorganisms, such as theabrownin[13] and statins, which is produced by the Streptomyces cinereus strain Y11 bacteria.[12][14]
 
+
 Overall, green tea is the 'basic' tea that is enzymatically inactive and non-oxidized. White tea and Oolong tea are partially oxidized, but Oolong is still enzymatically active. Black tea is fully oxidized and enzymatically active. Pu-erh tea is fermented and quite unique from the other teas.
+
 
 3.
 
@@ -92,7 +94,9 @@ In studies looking at the interactions between milk and tea catechins (ie. addin
 
 One study noted that milk ingestion with green tea abolished the catechins' beneficial effects on cardiovascular health (vasorelaxation),[19] but has been criticized for its methodology as it took a single measurement 2 hours after ingestion when the benefits associated with green tea could be chronic in nature.
 
+
 Consumption of tea with milk may alter but does not significantly reduce the bioavailability of green tea catechins; it has been suggested that proteins may abolish the benefits of green tea catechins on heart health, but the lone study supporting this notion has some methodological flaws
+
 
 4.
 

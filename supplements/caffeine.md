@@ -100,7 +100,9 @@ As for main sources of caffeine, the exact caffeine content is variable. Coffee 
 
 Cocoa powder tends to have around 0.21% caffeine by weight and finished chocolate products around 0.017-0.125% caffeine by weight; commerical hot chocolates may contain 4-5mg caffeine per serving.[10]
 
+
 People love their coffee and their caffeine; there is definite basis for calling this compound the world's favorite drug. Scandinavian countries and Germany consume the most, followed by North American countries and Western Europe. Stereotypical trends of coffee in Scandinavia, tea in Western Europe, and a higher soda percentage in the Americas persist.
+
 
 1.2
 
@@ -122,7 +124,9 @@ Formulations and Variants
 
 Inorganic sources of caffeine can be detected via stable isotope analysis and specifically the δ13C, as products that are synthesized in the lab (usually the original carbon source is coal) tend to have differences in values when measured via stable isotope analysis than those that are created in plants via a photosynthetic pathway; this applies to caffeine,[13][14] taurine,[15] sugar (for honey products),[16] and alcohol products[17] amongst others. This detection is mostly just for regulations since FDA regulations say that synthetic, but not naturally occurring caffeine, much be present on the label[13] and there are no known differences in the bioactivity of caffeine depending on source.
 
+
 Caffeine can be made synthetically or naturally (via plants), and while they treat the body similarly when ingested there are some labelling laws that apply to synthetic but not natural products; laboratory analysis can detect the difference between the two
+
 
 Caffeine is, by far and large, the most popular ingredient in over-the-counter fat burning supplements and proprietary blends.[18][19]
 
@@ -136,11 +140,15 @@ Oral Interactions
 
 Caffeine's pharmacokinetic parameters can be fairly reliably measured with a saliva reading of caffeine content, given that the saliva is approximately 80% of the serum value of caffeine at any given time and the correlation is fairly high.[20][21][22]
 
+
 Caffeine can possibly be measured in saliva, as it can accumulate in bodily fluids
+
 
 Caffeine can be absorbed through the buccal mucosa, a term for oral absorption without needing to swallow.[23][24] This leads to chewing gum infused with caffeine having a quicker absorption of caffeine relative to coffee as it does not need to pass the stomach and intestines to get into the blood.[25]
 
+
 It is possible caffeine can be absorbed through the mouth and into the blood when consumed via a chewing gum
+
 
 2.2
 
@@ -148,7 +156,9 @@ Gastric (Stomach)
 
 Caffeine is able to increase secretion of gastric acid (HCl) per se, but is one of multiple components of coffee able to do so,[26] but at a weaker potency than these other components (evidenced by decaffeinated coffee causing significantly more gastric acid release than isolated caffeine).[27] The increase of gastrin induced by coffee is not due to caffeine.[28]|published=1976 Mar 19|authors=Börger HW, Schafmayer A, Arnold R, Becker HD, Creutzfeldt W|journal=Dtsch Med Wochenschr]
 
+
 Appears to increase gastric acid secretion; which may be good for digestion in the stomach yet negative for symptoms of GERD
+
 
 2.3
 
@@ -164,7 +174,9 @@ Caffeine absorption is slightly delayed from soda and chocolate relative to coff
 
 Caffeine, when in the stomach, can act upon gastric myenteric and submucous nerves to induce gastric emptying.[38][32] The influx of digestive metabolites into the small intestines may stimulate the gastrocolic reflex[39] and be a possible mechanism behind caffeine causing the need to defecate shortly after consumption. The ultimate result of this reflex mediated by caffeine is an increased anal sphincter contraction power and less neural input needed to induce contraction (decreased sensory threshold).[40] due to these reasons, caffeine is sometimes referred to as a 'cathartic' agent, alongside prunes. Interestingly, chlorogenic acid has been implicated in aiding the laxatative effect of prunes,[41] and is an active component of coffee.[42]
 
+
 Taken up nearly completely and in under 45 minutes for almost all forms of caffeine and dosages; a slight variance is seen with different vehicles of caffeine such as chewing gum, coffee or chocolate.
+
 
 2.4
 
@@ -183,7 +195,9 @@ In an attempt to give approximate values to bridge oral ingestion and serum valu
 
 The half-life of caffeine varies widely, due to aforementioned variations in CYP1A. One study noted a range of 2.7-9.9 hours[30] with highly similar ranges in another group of persons by the same researchers.[29]
 
+
 Most metabolism of the caffeine molecule (up to 84%) occurs through the CYP1A1/2 (Aromatase) enzyme, and other enzymes (Xanthine Oxidase, CYP2A6, NAT2) are involved in the entire metabolic cascade or quite briefly on caffeine itself. Variations in CYP1A1/2, either genetic or through supplements, can greatly affect caffeine pharmacokinetics.
+
 
 2.5
 
@@ -249,7 +263,9 @@ Caffeine has been noted to induce nuclear activity of DAF-16 in C. Elegans (nema
 
 Caffeine has also been noted to inhibit TORC1 activation to a greater degree than TORC2 (IC50 of 0.22mM; Rapamycin as reference drug with an IC50 of 5.2nM),[89] which via Sch9 (mammalian ortholog S6K[90]) phosphorylates PKA and prevents nuclear actions of Rim15[91] (mammalian ortholog LATS[92]) which normally mediates oxidant defense and stress response genes;[93][94] bypassing TORC1 abolishes the longevity promoting effects of caffeine,[89] and the authors hypothesized this may be relevant to humans (one cup of coffee reaches plasma levels of 1-10µM which may result in 4-8% inhibition of mTORc1, with only 3% being required in yeast to promote longevity[89]).
 
+
 There appears to be dependence on both mTOR inhibition and DAF-16 nuclear accumulation (usually not co-dependent) associated with the longevity promoting effects of caffeine
+
 
 4.
 
@@ -271,7 +287,9 @@ The A3 subset also contributes to sedative effects in a similar fashion to A1, a
 
 Adenosine receptors are upregulated by 20% in response to chronic caffeine intake,[107] although binding efficacy and the post-translational effects of adenosine antagonism are not altered in chronic vs. naive mice subject to caffeine.[108] The receptors may also become sensitive to adenosine agonism, as assessed by human platelet A2A.[109] Following this, adenosine levels circulating in the body may also increase following chronic caffeine ingestion in rats.[110]
 
+
 The 'primary', or at least most popular, mechanism of action due to the wakefulness effect. Its effects also induce changes in Acetylcholine and Dopamine systems, and interact with the Serotonergic system. The actual effects of adenosine blockade do not disappear with tolerance, but may be diminished by opposing reactions through adenosine and new receptors.
+
 
 4.2
 
@@ -285,7 +303,9 @@ The serotonergic system may interact with the analgesic (painkilling) effects of
 
 Cessation of caffeine is associated with a transient decline in brain serotonin levels, which is associated with temporary memory impairment.[112] This decrease in brain serotonin may be through adaptations in neurons to reduce serotonin synthesis, as cessation of caffeine is associated with reduced serotonin but not reduced tryptophan.[111] As tryptophan was not reduced but 5-HTP was, the intermediate enzyme (tryptophan hydroxylase) appears to be downregulated; this can theoretically be bypassed with 5-HTP supplementation.
 
+
 Serotonin (5-HT) and its related compounds (5-HTP, 5-HIAA) all seem to be elevated during chronic caffeine usage, and a short deficiency exists after caffeine cessation due to (plausible) downregulation of tryptophan hydroxylase.
+
 
 4.3
 
@@ -297,7 +317,9 @@ Acutely, caffeine ingestion increases adrenaline and noradrenaline levels in the
 
 Chronic caffeine ingestion is able to downregulate (reduce) the amount of beta-adrenergic receptors in the brain by up to 25% in some areas.[107] This effect in independent of adenosine antagonism.[119] Caffeine, chronically, has also been shown to decrease circulating catecholamine levels and prevent against diet-induced insulin resistance in rats[120] and prolonged caffeine usage at the same dose causes a lessening of adrenergic (adrenaline-mediated) effects in humans, not just those induced by caffeine.[121]
 
+
 Seemingly opposite effects with acute and chronic caffeine usage, possibly mediated through changing receptor content.
+
 
 4.4
 

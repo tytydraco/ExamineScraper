@@ -172,7 +172,9 @@ Composition
 
 The bis-benzylisoquinoline alkaloid Fangchinoline at 43.50+/-0.024mg/g in the root[6] although lower concentrations of 3.14-8.08mg/g,[4] 0.40%,[7] or 0.97-2.37%[8] have been reportedTetrandrine (another bis-benzylisoquinoline alkaloid[9]) at 82.31+/-0.003mg/g of the root[6] although lower concentrations of 2.80-10.31mg/g,[4] 0.78%,[7] or 1.28-2.84%[8] have been reported. Other similar structures include 2-N-methyltetrandrine and (+)-2-N-merhylfangchinoline[10]Cassameridine and cassythicine[3]Corydione[3]Nantenine and Oxonantenine[3]Aristolochic acid I and II (potential contaminants from Aristolochia fangchi)[11]Oblongine (2.90+/-0.024mg/g of the root)[6]Cyclanoline (59.09+/-0.009mg/g of the root)[6]Magnoflorine (140-580µg/g[4])A 4,5-Dioxoaporphine alkaloid (aerial parts)[12]The biflavones Stephaflavone A-B (aerial parts)[13]β-sitosterol (aerial parts)[13]Although it is subject to variance, some reports suggest that the total alkaloid content of the dry root of stephania tetrandra is approximately 2.3% of which tetrandrine and fangchinoline constitute 1% and 0.5% (total weight), respectively.[9][14]
 
+
 The main bioactives appears to be the two bis-benzylisoquinoline alkaloids, fangchinoline and tetrandrine
+
 
 1.3
 
@@ -190,13 +192,17 @@ Enzymatic Interactions
 
 Tetrandrine appears to inhibit the P-glycoprotein efflux transporter,[16] with inhibition detectable at 1-2µM in vitro and an oral intake of 10-20mg/kg tetrandrine being able to increase the bioavailability of berberine (normally effluxed by P-glycoprotein);[17] this inhibition of P-glycoprotein also underlies some potential chemotherapeutic roles of tetandrine by overcoming drug resistance.[18][19]
 
+
 Appears to be a relatively potent and biologically relevant P-glycoprotein inhibitor
+
 
 Moderate inhibitory potential on CYP3A4 activity with tetrandrine with an IC50 of 3.9µM in vitro.[17]
 
 Tetrandrine has been noted to have no significant inhibitory activity on CYP1A2 (IC50 is somewhere above 100µM) nor CYP2D6 (IC50 is 58.3µM).[17]
 
+
 The inhibition of CYP3A4 has not been confirmed in vivo, but it seems potent enough to be of concern
+
 
 3.
 
@@ -216,7 +222,9 @@ Adrenergic Receptors
 
 Tetrandrine appears to directly interact with α1-adrenergic receptors via competing with prazosin and phenylephrine binding[20] with a Ki value of 690+/-120nM yet IC50 values of 252.8µM (in inhibiting adrenaline induced calcium influx), 11.6µM (inhibiting spontaous basal contractions), and 7.4µM (refilling of calcium stores sensitive to noradrenaline).[26]
 
+
 Tetrandrine appears to be able to displace ligands of the α1-adrenergic receptors at the prazosin binding site, and moderately to weakly inhibits calcium influx via this receptor
+
 
 4.
 
@@ -228,7 +236,9 @@ Glutaminergic Neurotransmission
 
 A water extract of stephania tetrandra was able to inhibit NMDA induced currents by 38.65+/-7.50%, which was less effective than both scutellaria baicalensis (83.45+/-4.34%) and salvia miltiorrhiza (52.97+/-1.78%); as these plants had a magnesium content and the study was conducted in vitro, this may not apply to oral ingestion of this herb.[27]
 
+
 Requires more research to confirm if there are any actual interactions with glutaminergic neurotransmission
+
 
 4.2
 
@@ -256,7 +266,9 @@ Tetrandrine's main mechanism of action, blocking calcium channels nonspecificall
 
 Tetrandrine appears to reversibly block sodium (Na+) channels in the myocardium in the 60-120μM range by 28.1-87.5% and an IC50 of 74.4-76.9μM.[34]
 
+
 May possess anti-arrythmic properties on heart tissue via inhibiting ion channels
+
 
 6.
 
@@ -274,7 +286,9 @@ Blood Glucose
 
 In Streptozotocin induced diabetic mice, the water extract of stephania tetrandra appears to reduce blood glucose in a dose-dependent manner in the range of 0.48—16mg/kg, which is due to fangchinoline as tetrandrine was ineffective.[15] The reduction in blood glucose reached 52.7+/-6.7% with 3mg/kg fangchinoline and was attributed to increased insulin release[15] and this increase in insulin secretion is augmented with calycosin and formononectin form astragalus membranaceus (wherein the combination of 300µg/kg fangchinoline, normally too low a dose, paired with either 30-100µg/kg calycosin or formononectin becomes effective despite the latter two flavonoids not being effective on their own).[35]
 
+
 Fangchinoline appears to be an effective insulin secretagogue (causes insulin release) in diabetic rats at very low oral doses, and this is synergistic with flavonoids from astragalus membranaceus (a traditional pairing for glucose control)
+
 
 6.3
 
@@ -294,11 +308,15 @@ In osteoclasts, a signalling molecule produced by osteoblasts called 'receptor a
 
 Tetrandrine at 300-1,000nM is able to inhibit the RANKL-induced activation of NFATc1; specifically, while there was minimal suppressive effect initially the autoamplification of NFATc1 was halved.[44]
 
+
 Although the exact mechanisms are not known, tetrandrine appears to dysregulate the ability of NFATc1 to autoamplify, which ultimately causes less osteoclastogenesis over the long run
+
 
 In sciatic-neurectomized mice, injections of 600-2,000µg/kg tetrandrine every other day for four weeks prevented the losses in bone mineral density and trabecular volume, insofar that trabecular bone density in the 600µg/kg group (despite neurectomy) was increased relative to non-neurectomized control.[44]
 
+
 Injections of very low dose tetrandrine appear to be highly protective of bone mass, insofar to abolish losses in mice subject to neurectomy
+
 
 8.
 
@@ -316,7 +334,9 @@ Neutrophils
 
 Tetrandrine is able to inhibit Mac-1 upregulation at a concentration of 0.1–10μM,[46] Mac-1 which promotes neutrophil adhesion[47] and itself is stimulated by oxidation[48] and calcium ions;[49] tetrandrine suppreses Mac-1 activation secondary to reducing calcium influx[46] although its known antioxidant property[50] also seems to contribute somewhat. The overall anti-adhesive effect is concentration dependent, and can reduce fMLP and PMA induced adhesion to around 60% of baseline at 10µM.[46]
 
+
 At quite low concentrations, tetrandrine is able to prevent neutrophil adhesion via suppressing both calcium influx and oxidation products within neutrophils
+
 
 8.3
 
@@ -338,7 +358,9 @@ Virology
 
 Fangchinoline appears to inhibit HIV1 replication against multiple strains (NL4-3, LAI, BaL, PM1; inactive in TZM-b1) with an IC50 in the range of 0.8-1.7µM.[53] It appears to target late stages of the infection cycle, and appears to interfere with gp160 proteolytic processing,[53] gp160 being the inactive polypeptide precursor for the envelope proteins that allow HIV replication.[54][55]
 
+
 At least in vitro, fangchinoline appears to be relatively potent in suppressing HIV1 replication
+
 
 8.6
 
@@ -348,7 +370,9 @@ Tetrandrine appears to have antibacterial properties against Staphylococcus aure
 
 It appears that tetrandrine can bind directly to peptidoglycan[56] and MRSA tetrandrine appears to be synergistically anti-bacterial with ethidium bromide, reducing the 125-250μg/mL MIC to 31.2-125μg/mL (2 to 4-fold reduction).[57] Elsewhere against strains of candida albicans, tetrandrine appears to be synergistically anti-bacterial when used alongside ketoconazole.[58]
 
+
 Appears to have some anti-bacterial properties itself (although not overly potent), yet is somewhat synergistic with other pharmacological anti-bacterial agents
+
 
 9.
 
@@ -370,7 +394,9 @@ Kidneys
 
 In isolated rat primary mesangial cells (kidney cells) stimulated with IL-1β (to induce glomerulonephritis in vitro[59]) isolated tetrandrine was able to inhibit the activation of ERK/NF-kB as well as subsequent secretion of MMP9,[60] which are known to correlate with and encourage renal pathology.[61] Tetrandrine was active in the concentration range of 2-10μg/mL, and was more effective (near complete suppression) in regards to iNOS, ERK, and IKK activity but less potent in suppressing IkBα.[60]
 
+
 Appears to reduce the effects of inflammation upon isolated kidney cells, which appears to occur at a low enough concentration that it may apply to oral supplementation of this herb
+
 
 10.2
 
@@ -380,7 +406,9 @@ In rats subject to bile duct ligation, tetrandrine (1-5mg/kg) appears to show an
 
 When compared to other agents, 5mg/kg tetrandrine is equally effective at reducing collagen accumulation as 50mg/kg silymarins (from milk thistle)[62] and 200mg/kg of the water extract of stephania tetrandra five times weekly for five weeks was as effective as 300mg/kg Salvia miltiorrhiza (water extract) in reducing liver enzymes but more effective in reducing fibrosis from CCl4;[63] pairing stephania tetrandra and salvia miltiorrhiza was not additive in efficacy.[63]
 
+
 Stephania tetrandra appears to have anti-fibrotic potential that has a comparable or greater potency than other anti-fibrotic supplements
+
 
 10.3
 
@@ -392,7 +420,9 @@ Tetrandrine failed to have any influence on cGMP concentrations in the rabbit co
 
 Possibly related to the aforementioned increase in cAMP, tetrandine is known to cause relaxation in precontracted corpus cavernosum penile tissue.[67][68]
 
+
 May have pro-erectile properties associated with increasing cAMP concentrations, and while the concentration that maximal effects occur is likely too high there may be some benefits (since the lowest active concentration is feasible); no studies using oral ingestion currently exist
+
 
 11.
 
@@ -404,7 +434,9 @@ Astragalus Membranaceus
 
 Astragalus membranaceus appears to be synergistic with stephania tetrandra in reducing blood glucose, as inactive levels of astagalus (3-100mg/kg) and isolated fangchinoline (0.3mg/kg) appear to be active when ingested together in diabetic mice, insofar that 0.3mg/kg fangchinoline in the presence of 30mg/kg astragalus was as effective as 1mg/kg fangchinoline.[15] This appears to be due to the flavonoids known as formononetin and calycosin from astragalus, as these isolated flavonoids at 0.03-0.1mg/kg oral ingestion potentiated 0.3mg/kg fangchinoline.[35]
 
+
 Astragalus may be synergistic with stephania tetrandra in regards to reducing blood glucose, thought to be secondary to promoting insulin secretion from the pancreas. The oral doses the isolated bioactives are effective is remarkably low, showing a good deal of promise
+
 
 11.2
 
@@ -414,11 +446,15 @@ Berberine is an anti-diabetic alkaloid that works via activating the protein kno
 
 Furthermore, it appears that the upregulation of P-glycoprotein that berberine exhibits[71][72] is effectively overcome with tetrandrine.[17][70]
 
+
 Tetrandrine inhibits the transporter that effluxes berberine into the intestines, and by inhibiting this transporter it increases berberine absorption. Tetrandrine may also prevent berberine from upregulating (creatine more) of these transporters
+
 
 When looking at pharmacokinetic data, 10-20mg/kg tetrandrine alongside 100mg/kg berberine in rats was able to increase the Cmax of berberine in plasma in a dose-dependent manner by 36-62% (reaching 15.4ng/mL and 18.3ng/mL, from 11.3ng/mL in control) and the overall AUC increased to a similar 33-61%.[17] Three weeks of treatment noted that the decreases of blood glucose seen in diabetic rats with 100mg/kg berberine (20.6%) was significantly increased with coingestion of 10mg/kg tetrandrine (55.2%) which even exceeded a double dose of berberine at 200mg/kg (39.5%).[17]
 
+
 Tetrandrine is able to increase the glucose lowering and anti-diabetic properties of berberine, insofar that adding 1/10th the dose of tetrandrine to berberine is more effective than doubling the berberine dose
+
 
 12.
 
@@ -430,5 +466,7 @@ Case Studies
 
 There are a series of case studies (end stage renal disease) of which causation was placed upon a weight loss supplement said to include stephania tetrandra which was instead cut with another plant bearing the name of Fang Chi, Aristolochia fangchi (or Birthwort);[73] this latter plant contains high levels of the nephrotoxin aristolochic acid.[74][75]
 
+
 The plant Aristolochia fangchi is one of the four plants, alongside Stephania tetrandra, that is referred to as 'Fang Chi'. It also appears to have a relatively potent kidney toxin in it, and thus supplements that contain aristolochia fangchi rather than stephania tetrandra may cause significant kidney damage
+
 

@@ -156,7 +156,9 @@ Boron appears to be absorbed from the intestines and is reported to be nearly co
 
 It is thought that passive transportation may play a role as boron is the smallest known metalloid[7] (this has been noted in plants[8]) although plants have also shown transporters which accept boron selectively.[9][10] In regards to mammals a sodium coupled borate transporter (NaBCl or SLC4A11) has been identified in rat,[11] swine[12] as well as human intestinal tissue[13] and is responsive to dietary boron.[12]
 
+
 Boron appears to be well absorbed from the intestines, and this may be due to being absorbed (as borate) via the transporter known as SLC4A11
+
 
 2.2
 
@@ -182,7 +184,9 @@ Deficiency
 
 A Boron deficiency (intake of less than 0.23mg daily) appears to alter brainwave activity; enhancing delta power in the left parietal and temporal lobes and decreasing frontal lobe activity; similar results to intentional Magnesium deficiency.[19] This state of deficiency is associated with cognitive impairment when paired against an adequate intake of 3mg or more[20] which may be associated with Boron being involved in neuronal membrane stabilization.[21][22]
 
+
 May play a role in preserving neuronal function, but no intervention evidence exists to support supplementation currently
+
 
 4.
 
@@ -240,11 +244,15 @@ One study in otherwise healthy men noted that acute supplementation of Boron, ov
 
 One study has been conducted on athletic males participating in bodybuilding, using a lower dose. 2.5mg of Boron daily for 9 weeks elevated plasma boron levels (20.1ppb to 32.6ppb; a 62% increase) yet failed to find significant differences between groups for any hormones measured.[28]
 
+
 In healthy male adults, supplemental Boron appears to be have mixed results. It has been implicated in increasing testosterone, but these may be dependent on time or dose as prolonged studies with the same or a lesser dose fail to replicate the increase in free testosterone seen in one study
+
 
 In postmenopausal women on a Boron deficient diet (0.25mg daily), 3mg in supplementation can preserve a decrease in testosterone induced by the diet.[26] The increase appeared to be of greater magnitude when dietary Magnesium was low, suggesting Boron may act on similar mechanisms.
 
+
 Boron deficiency appears to reduce androgen status in women, and sufficiency can restore levels; a similar phenomena as seen with Zinc
+
 
 One toxicological study in rats noted that, as it pertains to testosterone, that over 30 days of observation that there was an increase in testosterone in a dose-dependent manner up to 122% elevations (2000ppm) but that the progression of toxicological effects over 60 days reversed the increase in testosterone in the highest group to a decline while the lowest group (500mg) experiencing a 10.5% increase at day 30 increased this to 158% at day 60.[29] These results suggest that boron accumulation in the testes contributes to an increase in testosterone, and time or dose can be contributing factors and have been replicated with 25mg/kg over 6 weeks (toxicity) while 2-12.5mg/kg were associated with improvements in testosterone.[27]
 
@@ -254,7 +262,9 @@ Estrogen
 
 In otherwise healthy adult men, 10mg of Boron daily for a week significantly reduces serum estradiol (an estrogen) from 42.33pg/mL to 25.81pg/mL (39%), although no significant effect was seen after a single dose when measured for 6 hours afterwards.[15] Conversely, another study found 4 weeks of 10mg Boron found increases of serum estradiol from 51.9pmol/mL to 73.9pmol/L in 18 apparently healthy men.[6]
 
+
 Two studies on males and estrogen, with dichotomous results at the same dose in the same population
+
 
 In postmenopausal women on a Boron deficienct diet, supplementation of Boron at 3mg/day is able to preserve estrogen levels that drop during boron deficiency.[26]
 
@@ -298,7 +308,9 @@ Bladder and Urinary Tract
 
 A letter to the editor of the Journal of Alternative and Complementary Medicine makes note of a small study with 14 participants.[32] 10mg of Boron daily was given to persons with confirmed urolithiasis (kidney stones) and patients tended to report pain reduction after 2-3 days of treatment and multiple patients noted passing of kidney stones within a few weeks of treatmetn; the time to pass kidney stones was highly variable.[32]
 
+
 Preliminary evidence that Boron may aid kidney stone excretion and associated pain
+
 
 10.
 
@@ -312,7 +324,9 @@ Boron supplementation interacts with Vitamin D metabolism.[33] This is exemplifi
 
 Currently, these observations do not have proven mechanisms; one author hypothesized that boron may be reacting with a vitamin D metabolite to form a competitive inhibitor of 24-hydroxylase, an enzyme in Vitamin D synthesis, or otherwise directly inhibiting the enzyme.[33] These hypothesis' has not been tested.
 
+
 Appears to elevate levels of an intermediate between Vitamin D3 and hormonally active Vitamin D3, via unknown mechanisms
+
 
 11.
 
@@ -328,7 +342,9 @@ It has been noted[37] that there is no clear evidence for testicular harm from e
 
 These lack of toxic effects on the testicles have been extended to rats receiving 500ppm daily for 60 days, although 1000-2000ppm were associated with accumulation of testicular boron and testicular atrophy.[29] These effects were replicated in rats exposed to 1173mg for 90 days.[40]
 
+
 Testicular harm from excess Boron levels appears to be at least three-fold higher than standard supplemental doses, and are likely not a concern with proper supplementation
+
 
 11.2
 

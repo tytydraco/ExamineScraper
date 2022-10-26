@@ -106,11 +106,15 @@ Metabolism
 
 Synephrine is known to be an endogenous metabolite of octopamine metabolism, specifically its N-methylated derivative; its synthesis has been detected in the rat brain[8] and it has been detected in human urine independent of supplementation or oral ingestion.[9][10]
 
+
 Synephrine appears to be an endogenously produced end product of tyramine metabolism, as tyramine is metabolized into octopamine (another trace amino acid) which is then oxidized into synephrine
+
 
 Synephrine is a substrate for the monoamine oxidase (MAO) enzymes (Km of 250µM and a Vmax of 32.6nM/mg protein/30 minutes), seeming to be metabolized more by MAO-A than MAO-B[11] (similar to its parent molecule octopamine,[12] and the lack of difference in the metabolism of monoamines and their N-methylated derivatives has been noted previously with noradrenaline and normetanephrine[13]).
 
+
 The oxidation of octopamine into synephrine, as well as the oxidation of synephrine itself, is conducted via the MAO enzymes and mostly by MAO-A
+
 
 2.2
 
@@ -128,7 +132,9 @@ Headache and Migraine
 
 Synephrine is known to be endogenously produced as a metabolite in tyramine metabolism as it can be decarboxylated in plants from tyramine to produce synephrine (to give off carbon dioxide[15]) and synephrine, as well as other trace amines (tyramine, octopamine) can be detected in plasma[16] at levels much higher in persons with cluster headaches[17] and in migraines with aurae.[18] Synephrine specifically is also higher in persons with migraines with aurea (0.72+/-0.44ng/108 platelets) although not in migraines without aurae (0.37+/-0.29ng/108 platelets) which were similar to normal controls (0.33+/-0.25ng/108 platelets).[18]
 
+
 Trace amine metabolism (tyramine based) appears to be perturbed in the pathology of migraines, and due to this platelet concentrations of synephrine may be higher than in persons without migraines or those with migraines but no aurae associated with the migraine. Significance to oral supplementation not known
+
 
 4.
 

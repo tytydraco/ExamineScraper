@@ -142,7 +142,9 @@ When tested in rats, supplementation of lysine (1.5% of rat feed) does not appea
 
 Studies comparing the bioavailability of copper using either a lysine conjugate (copper-lysine) versus a more basic form (copper sulphate) have mixed effects in various tested animal species as to whether lysine aids in the absorption[9][10] or if the two are equally effective,[11][12] potentially related to how copper-lysine seems to form passively in intestinal cells from free copper.[6]
 
+
 While Lysine appears to interact with some trace minerals to allow them easier access into intestinal cells, it does not appear to have consistent evidence as to whether the inclusion of lysine with these minerals (ex. copper or iron) increases their absorption or if there is no effect
+
 
 2.2
 
@@ -152,7 +154,9 @@ Lysine appears to be transported across the blood brain barrier by cationic amin
 
 While at normal physiological concentrations competition between amino acids seems unlikely, saturating the transporter with lysine an inhibit the uptake of arginine[15] subsequently reducing nitric oxide production;[16] this was hypothesized to be a potential mechanism for how lysine supplementation could affect neurological function.[17]
 
+
 Lysine is taken up into the brain by the same transporter that takes arginine into the brain, and it is thought that high doses of lysine could hinder the ability of arginine to produce nitric oxide in this tissue and thus indirectly influence cognition
+
 
 3.
 
@@ -182,7 +186,9 @@ Glycation (non-enzymatic glycosylation) refers to the process of adding a sugar 
 
 When testing lysine, the enzyme known as lysozyme experiences less glycation when incubated in the presence of lysine[22] and the glycation of albumin appeared to be reduced in diabetic rats given 0.1% lysine in their drinking water.[18]
 
+
 Lysine shows preliminary promising in limiting glycation seen during states of high blood glucose, but the precise mechanism and potency relative to other options is unknown
+
 
 4.4
 
@@ -204,7 +210,9 @@ Lysine has been tested a few times as an oral supplement in subjects with recurr
 
 One study did note that recurrence rates of symptoms appeared to be related to the amount of lysine in serum, with those above the predetermined threshold (165μM/L) having less recurrence than those below this threshold.[29]
 
+
 Lysine appears to have a relation to recurrence, severity, healing time when it comes to herpes flare-ups. This appears to be somewhat related to the amount of lysine in your body and supplementation exceeding 2g a day seems to be associated with benefits. Increasing lysine in the diet also appears effective but requires Arginine to be limited
+
 
 6.
 
@@ -230,7 +238,9 @@ L-arginine is an essential amino acid, and appears to be synergistic with L-lysi
 
 A later study using 3g of L-arginine paired with 3g L-lysine twice daily (12g total) for 12 days in both youth and elderly men has failed to find appreciable increases in 24 hour AUC measurements of growth hormone[32] and this failure has been replicated in a study using 2g of the three amino acids L-Arginine, L-Ornithine, and L-Lysine in weight trained men.[33]
 
+
 Although technically they appear to be synergistic (based on one study without a placebo control, so it has its flaws), this synergism is only acute and has failed to manifest in day-long GH measurements. Despite the synergism, the combination still may not be an appreciable way to increase growth hormone.
+
 
 7.2
 
@@ -252,5 +262,7 @@ Supplementation of 25-40g lysine (as monohydrochloride) over 3-5 days, in studie
 
 While fatty liver has been noted in rats fed 5% lysine in the diet[41] it has been noted[27][28] that this equates to 90-100 times greater than combined normal supplementary doses (assumed 2g) and human diet. An LD50 value could not be reached after oral ingestion although an LD50 of 4mg/kg has been found to intravenous injection.[17][1]
 
+
 Overall, oral supplementation of lysine appears to be highly safe. Large doses (25 grams or more over the course of a day) may cause intestinal distress and diarrhea which is alleviated by lowering the dose
+
 

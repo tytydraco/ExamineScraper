@@ -210,7 +210,9 @@ Eleutherococcus senticosus (synonymous with Acanthopanax senticosus and sometime
 
 Traditional usage of eleuthero involves eating the root or its extracts in the dosage range of 9-27g a day (chinese medicine) or 6-12g a day (American sources, more modern);[6] these are both higher than a more commonly recommended 2-4 grams of eleuthero root. The root itself is a light brown, free-flowing powder that has a somewhat sweet flavour with bitter undertones.[6]
 
+
 Eleuthero is a root that has been used in traditional chinese medicine mostly for its anti-fatigue purposes and some pro-vitality and longevity purposes in older individuals as well
+
 
 1.2
 
@@ -219,15 +221,21 @@ Composition
 The roots and/or leaves of eleuthero, the main component used, tend to contain:
 
 Eleutheroside B, E, E1, and E2 (lignans)[7][8] which are structurally based off of episyringaresinol. Syringoresinol[1] is also present, and Eleutheroside B is merely syringin[1][9] and appears to be the main bioactive lignan.[1] Total eleutherosides appear to range from 0.6-0.9% of the dry weight of the root and usually 0.31% and 0.51% are reference levels for eleutheroside B and E, respectively[10]Ciwujianosides[1] (A1, A2, A3, A4, B, C1,[11][12] C2,[11] C3,[11] C4,[11] D1,[12] D2[11] D3, E)Acanthopanaxosides A-C (triterpene saponins)[11] and E[13]Copteroside B[13]Silphioside F[13]Sessiloside[11]Tauroside H1[11]Eleutherazine A and B (Aerial parts)[1]Oplopanone B (Aerial parts)[1]Mesembryanthemoidigenic acid (as 3-O-alpha-rhamnopyranosyl-
-(1-2)-alpha-arabinopyranosyl)[11]Chiisanoside[11]Hederasaponin B[11] and its glycoside, 3-O-beta-D-glucuronopyranoside 6'-O-methyl ester[13]Gypsogenin (as 3-O-beta-D-glucuronopyranoside)[13]Sesamin (lignan)[1](+)-pinoresinol-di-O-β-d-glucoside and (+)-pinoresinol-O-β-d-glucoside[9]Isofraxidin (as 7-O-β-D-glucoside),[9] structurally related to scopoletinQuercetin,[14] quercitrin,[14] and rutin[14]Chlorogenic acid[9] and caffeic acid derivatives[15]Eleuthero contains both saponins and lignans, with a large amount (over 200) different molecules being detected as either aglycones or glycosides. The main bioactive appears to be Eleutheroside B (Syringin) and Eleuetheroside E (a syringaresinol diglucoside) and these are not structurally related to panax ginseng bioactives
+(1-2)-alpha-arabinopyranosyl)[11]Chiisanoside[11]Hederasaponin B[11] and its glycoside, 3-O-beta-D-glucuronopyranoside 6'-O-methyl ester[13]Gypsogenin (as 3-O-beta-D-glucuronopyranoside)[13]Sesamin (lignan)[1](+)-pinoresinol-di-O-β-d-glucoside and (+)-pinoresinol-O-β-d-glucoside[9]Isofraxidin (as 7-O-β-D-glucoside),[9] structurally related to scopoletinQuercetin,[14] quercitrin,[14] and rutin[14]Chlorogenic acid[9] and caffeic acid derivatives[15]
+Eleuthero contains both saponins and lignans, with a large amount (over 200) different molecules being detected as either aglycones or glycosides. The main bioactive appears to be Eleutheroside B (Syringin) and Eleuetheroside E (a syringaresinol diglucoside) and these are not structurally related to panax ginseng bioactives
+
 
 The essential oil of eleuthero (0.05% of the root) contains:[16]
 
-Isocaryophyllene (9.97%)Caryophyllene oxide (16.4%)n-octadecanolmanoyl oxide9,17-octadecadienaltetradecanal)humulene oxidehumulenefarnesene(E,E)-2,4-decadienallinaloolp-cymene2-n-pentylfuranα-pinenen-heptaldehydePossesses an aromatic component, but there is no literature currently assessing the possible usage of eleuthero in aromatherapy
+Isocaryophyllene (9.97%)Caryophyllene oxide (16.4%)n-octadecanolmanoyl oxide9,17-octadecadienaltetradecanal)humulene oxidehumulenefarnesene(E,E)-2,4-decadienallinaloolp-cymene2-n-pentylfuranα-pinenen-heptaldehyde
+Possesses an aromatic component, but there is no literature currently assessing the possible usage of eleuthero in aromatherapy
+
 
 The polysaccharides of eleuthero root include:
 
-Acanthopanacis senticosi Polysaccharides (ASP)[17][18] including a glucan with a rough weight of 150,000[19] and a heteroxylan with a mass of 30,000[19]The root contains polysaccharides that appear immunostimulatory in nature, although this may not apply to encapsulated eleuthero supplements (polysaccharides are carbohydrates, and they tend to be extracted out of the product in favor of the lignans and triterpenoids)
+Acanthopanacis senticosi Polysaccharides (ASP)[17][18] including a glucan with a rough weight of 150,000[19] and a heteroxylan with a mass of 30,000[19]
+The root contains polysaccharides that appear immunostimulatory in nature, although this may not apply to encapsulated eleuthero supplements (polysaccharides are carbohydrates, and they tend to be extracted out of the product in favor of the lignans and triterpenoids)
+
 
 2.
 
@@ -239,7 +247,9 @@ Absorption
 
 The bioavailability of eleutheroside B and E has been determined to be 3.30+/-0.63% and 3.82+/-0.86% in rats, respectively.[20]
 
+
 Mechanisms of absorption not well studied at this moment in time, but absorption appears to be fairly poor
+
 
 2.2
 
@@ -251,7 +261,9 @@ Eleutheroside E has been noted to have a Tmax of 0.42+/-0.14 or 2.75+/-2.17 hour
 
 Isofraxidin (isolated isofraxidin) noted that the oral doses of 7.5mg/kg and 15mg/kg isofraxidin reached Cmax values of 6.56+/-0.10µg/mL and 13.80+/-2.19µg/mL at Tmax values of 0.19+/-0.03 and 0.23+/-0.03 hours with half-lives of 0.51-0.57 hours and AUC0−∞ values of 22.85+/-4.26µg/h/mL and 45.14+/-7.33µg/h/mL.[21] These numbers were slightly higher with the same dose of isofraxidin via eleuthero root, reaching an AUC of 124.98µg/h/mL at the higher dose after 24 hours.[21]
 
+
 The three main agents of eleuthero have been detected in serum following oral ingestion, and appear to be better absorbed when consumed via the whole root extract relative to being consumed as an isolated molecule
+
 
 2.3
 
@@ -259,7 +271,9 @@ Disposition
 
 When eleutheroside B and E are injected into rats they can be detected in the liver, kidney, spleen, and heart (descending order of concentration of eleutheroside E, eleutheroside B detected in kidney, liver, and heart).[22]
 
+
 Eleutherosides have been detected in organs following oral ingestion, but the degree of evidence assessing this is not substantial
+
 
 2.4
 
@@ -267,7 +281,9 @@ Enzymatic Interactions
 
 485mg of eleuthero root has failed to significantly influence CYP2D6 or CYP3A4 activity[23] which replicates previous in vitro data showing no effect of eleuthero component on CYP3A4 activity in human liver microsomes.[24]
 
+
 Currently no known enzyme interactions that would interfere with pharmaceuticals
+
 
 3.
 
@@ -281,7 +297,9 @@ Ingestion of 2000mg/kg eleuthero to mice for a week appears to exert anti-depres
 
 When looking at c-Fos immunoreactivity, there appears to be a larger induction of imunoreactivity following oral ingestion of 100mg/kg eleuthero in the paraventricular nuclei and the caudal portion of the supraoptic nuceli;[28] two regions involed in chronic stress.
 
+
 Eleuthero appears to be catecholaminergic in nature (similar to the adaptogen Muira puama) and able to increase neurotransmitters. The dosage this occurs at may be practically relevant to supplemental doses (100-250mg/kg of the root extract to a rat is 16-40mg/kg for a human, and a 150lb human would need 1.1-2.7g of the dry root)
+
 
 3.2
 
@@ -289,7 +307,9 @@ Cognition
 
 Syringin has been implicated in promoting neurite outgrowth in PC12 cells, although to a lesser degree relative to (+)-syringaresinol diglucoside and aucubin (from Aucuba japonica).[30]
 
+
 Possible positive growth on neurites, but not well studied or replicated. Some literature behind a russian paywall suggesting an increase in cognition that cannot be assessed[31]|published=2003 Sep-Oct|authors=Arushanian EB, Baĭda OA, Mastiagin SS, Popova AP, Shikina IB|journal=Eksp Klin Farmakol]
+
 
 3.3
 
@@ -299,7 +319,9 @@ It is thought that the release of Neuropeptide Y seen with adaptogens[32] can be
 
 This adaptogen complex (ADAPT232) also appears to induce HSP72 induction from neuroglia[32] which has been detected in the serum of rats given the combination therapy prior to a swimming stress test.[35]
 
+
 Neuropeptide Y appears to be related to chronic stress, and it is thought that this is a molecular target of adaptogenic compounds. Studies assessing this tend to use ADAPT232 (Eleuthero with Rhodiola and Schisandra chinensis) and there is insufficient evidence to evaluate eleuthero in isolation on this parameter
+
 
 3.4
 
@@ -307,7 +329,9 @@ Sleep
 
 One study assessing isolated eleutheroside E at 10 or 50mg/kg (injections) is able to normalize a fair bit of the alterations observed during sleep deprivation in mice[36] and a normalization of the changes in erythropoeisis induced by sleep deprivation (suppression, normally) were noted to occur with adaptogens including eleuthero supplementation in mice thought to be secondary to modulating neuroamines.[37]
 
+
 May aid function in sleep deprivation, although there are no studies assessing the potency of eleuthero relative to other agents for reference
+
 
 3.5
 
@@ -319,13 +343,17 @@ Eleuthero fruit extracts have also been noted to reduce glutamate-induced oxidat
 
 In rat corticol neurons damaged by amyloid β(25-35), both main eleuterosides (B and E) and isofraxidin showed protective effects in the concentration range of 1-10μM and both the butanolic (100μg/mL) and water (1-100μg/mL) extracts of the roots in general was able to normalize damage (similar to the active control of 100ng/mL NGF).[43] This has been noted elsewhere where eleutheroside B was again the most protective agent.[44]
 
+
 In vitro, there appear to be neuroprotective effects of eleuthero root extracts related to antioxidant enzyme induction. These might be occurring at feasible concentrations (no brain pharmacokinetic data, however)
+
 
 Oral ingestion of 30, 100, and 300mg/kg eleuthero (stem bark with 0.486+/-0.046% eleutheroside E) was able to preserve 3.5%, 25.9% and 53.1% of hippocampal cell viability when rats were subject to ischemia/reperfusion and then give the oral dose of eleuthero immediately after and 90 minutes after surgery.[45] This study also noted that with the preservation of hippocampal cells came preservation of spatial memory in a Y-Maze test, with the highest dose inhibiting 81.9% of the losses in spatial memory.[45]
 
 The injury induced increase in inflammatory parameters (COX2 induction and activated microglia) has also been noted to be markedly attenuated 7 days after the injury as assessed by histological examination,[45] and these protective effects have been replicated elsewhere but with 100mg/kg injections of eleutherococcus.[46]
 
+
 Has demonstrated rehabilitative effects on one animal model of cognitive damage, with the higher tested dose (300mg/kg in rats, human estimated dose of 48mg/kg) being quite profoundly protective via mixed antiinflammatory and antioxidative
+
 
 3.6
 
@@ -333,7 +361,9 @@ Bipolar Disorder
 
 In a trial on adolescents already using lithium for bipolar disorder and then given either eleuthero root (750mg thrice a day for 2250mg total) or fluoxetine (20mg) for 6 weeks, there were no apparent differences in remission (51.4% vs 48.7%) or response rates (67.6% vs 71.8%) between groups although there appeared to be less side-effects assocaited with eleuthero (4) in comparison to fluoxetine (12).[10]
 
+
 A lone trial suggesting that adding high dose eleuthero to lithium was as effective as adding fluoxetine to lithium for the treatment of bipolar disorder
+
 
 4.
 
@@ -347,7 +377,9 @@ One study conducted in postmenopausal women given eleuthero (500mg thrice daily 
 
 In nematodes (C. Elegans), both eleutherococcus senticosus and rhodiola rosea appear to have life extension properties in the range of 10-20% while both are characterized by a shortening of life when overdosed to 10-fold the effective dose.[51] It is thought that these act via hormetic mechanisms.[51]
 
+
 Theoretically possible that eleuthero (as well as other adaptogens) can act on a mechanism to promote longevity, although there is insufficient evidence to currently claim that eleuthero can promote longevity
+
 
 4.2
 
@@ -355,7 +387,9 @@ Vitality
 
 One study conducted in older persons assessing quality of life after being given 300mg eleuthero root daily for 8 weeks noted to increase social functionining and some aspects of mental cognition in these elderly persons.[52]
 
+
 Eleuthero has once been noted to improve social functioning and some markers of cognitive decline in elderly persons
+
 
 5.
 
@@ -367,7 +401,9 @@ Absorption
 
 Although a few molecules found in eleuthero have been found to inhibit the pancreatic lipase enzyme,[13][11] other have noted stimulatory properties.[11]
 
+
 Unclear influences on lipid absorption, no studies conducting a fecal analysis
+
 
 5.2
 
@@ -391,7 +427,9 @@ Pancreatic
 
 Isolated eleutheroside B (syringin) appears to be able to acutely reduce blood glucose levels in diabetic rats[54] and has been noted to do so in normal mice additionally[55][56] which appears to be secondary to stimulating beta-endorphin release from the adrenal medulla; bilateral adrenalectomy and the presence of opioid receptor antagonists abolished this effect.[57] Blocking the M3 muscarinic acetylcholine receptor has additionally blocked this effect (no effect of nicotinic acetylcholine blockade), and acetylcholinesterase inhibitors can increase the glucose lowering efects of syringin;[56] alpha2-adrenergic blockade is ineffective in modifying the release of insulin, and decreased sympathetic tone increases the actions of syringin on insulin release.[58]
 
+
 Eleuthero may stimulate insulin release from the pancreas secondary to acetylcholine stimulation, which would then reduce blood glucose. No studies currently conducted in humans
+
 
 7.
 
@@ -419,7 +457,9 @@ Fatigue and Performance
 
 When rats were subject to prolonged swimming, a water extract of the stem (500mg/kg for 25 days) appears to have anti-fatigue effects which was thought to be due to the (+)-syringaresinol-di-O-beta-D-glucoside component (similarly effective at 50mg/kg).[9] This has been noted elsewhere, where five different extracts of eleuthero were tested with the one lowest in eleutherosides B and E failing to have any effect and the one with the highest Eleutheroside E content (3.32% of the 1g/kg dose) outperfoming red panax ginseng; a time-dependent effect was noted, with days 5 and 7 outperforming day 1[61] and elsewhere in mice swimming performance has been enhanced with extracts containing high levels of Eleutheroside E and E2 but to a slightly lesser potency than red ginseng.[62]
 
+
 Anti-fatigue effects seem to be related to Eleutheroside E and (+)-syringaresinol-di-O-beta-D-glucoside components. When comparing eleuthero to panax ginseng they seem somewhat comparable in efficacy
+
 
 When tested in humans (n=9) subject to a 75% VO2 max cycle to exhaustion, 800mg of eleuthero root (0.11% eleutheroside B and 0.12% eleutheroside E) in two divided doses with meals for 8 weeks was associated with improvements in time to exhaustion (placebo improved 6%, eleuthero improved 25.5%) paired with an increase in VO2, heart rate (4.3%), free fatty acids (19.5%) and respiratory exchange ratio (2.7%) with a decrease in glucose during exercise (6.7%) with no influence on the rate of perceived exertion.[63] This increase in lipid oxidation has been noted elsewhere with the herb, although with a reduced heart rate.[64]
 
@@ -427,9 +467,12 @@ Performance enhancement has been noted elsewhere with a 35% ethanolic extract of
 
 Despite the above three trials, one review[67] conluded no significant effects associated with eleuthero due to the aforementioned studies being low in methodological quality and other trials of higher quality showing no effects. Two trials using ENDUROX (brand name)[68][69] failed to find any influence on heart rate or fat oxidation during submaximal exercise (800mg eleuthero leaf) and no influence on fat oxidation or oxygen consumption with 1200mg eleuthero leaf extract, respectively. One study (not located online; McNaughton et al.) failed to find an effect with 1000mg of the root extract failed to find an effect on VO2 max or grip strength (instead noting an increase in pectoral and leg strength by 15% and 13%) while the other studies noted that 3.4mL of eleuthero root extract tincture failed to find a significant influence on fat oxidation and oxygen consumption[70] and 1,200mg of the leaf extract has also failed again during submaximal exercise.[71]
 
+
 Evidence is mixed currently, and conclusions are hard to draw as although the studies suggesting promise with eleuthero supplementation are less statistically robust (poor metholody and sample sizes) other more well controlled studies seem to evaluate submaximal exercise more, whereas the promising studies were in regards to anti-fatigue effects during maximal exercise
 
+
 At this moment in time, a clear performance enhancing effect of eleuthero is not present but performance enhancement cannot be ruled out yet
+
 
 8.3
 
@@ -439,7 +482,9 @@ Eleuthero (cortex at 1g/kg bodyweight in mice for nine days) has been noted to s
 
 One study noted that consumption of eleuthero in humans (Taiga Wurzel at 25 drops daily, amount of bioactives unknown but the tincture being a 1:1 35% ethanolic extract or the root) increasing spontaneous and LF-7 induced blastic transformation of lymphocytes (no influence on esterase positive lymphocytes)[65] and this T-cell stimulatory effect has been noted elsewhere when exercise was not a factor.[72]
 
+
 Unclear effects on exercise-induced immunosuppression. There appears to be a beneficial influence on circulating immune cells but no study has been conducted assessing the frequency of sickness in athletes
+
 
 9.
 
@@ -453,7 +498,9 @@ Several components in eleuthero have been noted to exert anti-inflammatory effec
 
 Other studies have noted reduction of inflammation as assessed by attenuating iNOS induction in microglia (via Nrf2 activation from CREB)[38] and macrophages (via NF-kB inhibition[75] secondary to inhibiting Akt/JNK pathways[76]) in concentration dependent manners.
 
+
 General anti-inflammatory properties, but currently insufficient evidence to suggest that they are of remarkable potency or unique in any way. The anti-inflammatory properties of eleuthero are not yet proven to me remarkable relative to other herbs
+
 
 9.2
 
@@ -461,7 +508,9 @@ Allergies
 
 Ciwujianoside D1 has been noted to prevent mast cell degranulation and subsequent histamine release in a concentration-dependent manner with a potency reported to be 6800-fold more effective than the active control of disodium cromoglycate.[12] A basic extract of eleuthero was able to inhibit allergic responses and mast cell degranulation in mice injected with compound 48/80 by 25% at the dose of 1g/kg and this dose inhibited passive cutaneous allergic reaction by 51%.[77] Similar effects have been replicated with the stem extract.[78]
 
+
 May have some anti-allergic effects, but although they seen to be biologically relevant this topic is not well explored
+
 
 9.3
 
@@ -485,7 +534,9 @@ Testosterone
 
 Ingestion of 8mL of a 33% ethanolic extract of eleuthero root (equivalent to 4g root) in trained athletes prior to a training session was associated with an decrease in the testosterone:cortisol ratio (28.7%) due to nonsignificant trends to reduce testosterone (7%) and increase cortisol (31%).[81]
 
+
 One study suggested an augmentation, rather than reduction, in stress associated with 4g root equivalent of eleuthero taken in athletes prior to training
+
 
 10.2
 
@@ -493,7 +544,9 @@ Prolactin
 
 Eleutherococcus senticosus has failed to significantly modify prolactin levels in male rats over 15 days when treated with up to 100mg/kg in rats.[82]
 
+
 No significant influences on prolactin observed with eleuthero supplementation
+
 
 10.3
 
@@ -503,7 +556,9 @@ A combination therapy of astragalus membranaceus, eleuthero, and Phlomis umbrosa
 
 A subsequent study in female rats given either 100mg/kg of phytotherapy twice daily (200mg/kg total; ratios of 26.5:31.2:42.3 for Phlomis umbrosa, astragalus, and eleuthero) appeared to increase bone growth to a comparable degree as the active control of 20mcg/kg HGH injections daily;[85] this was associated with a serum increase of IGF-1 increase of 11.7% relative to control with no changes in IGFBP-3 (its binding protein) detected at week 3.[85]
 
+
 No evidence for eleuthero in isolation on IGF-1, but combination therapy with two other herbs has once been shown to slightly increase IGF-1 levels in serum of adolescent rats
+
 
 11.
 
@@ -541,7 +596,9 @@ Chronic Fatigue Syndrome
 
 One study has been conducted assessing the efficacy of eleuthero failed to find any overall significant differences between eleuthero and placebo in reducing fatigue over 2 months of treatment with 2g of eleutherococcus with 0.112% eleutherosides B plus E.[6] As the treatment group differed slightly at baseline (a greater percentage of persons reporting more severe fatigue) a subgroup analysis was conducted and this dose of siberian ginseng was found effective for the people with less drastic fatigue, and still ineffective for the more exacerbated fatigue.[6]
 
+
 Minimal evidence to support the usage of eleuthero in chronic fatigue syndrome, may be able to help those with minor symptoms but more research would be needed to confirm
+
 
 13.
 
@@ -561,7 +618,9 @@ Scutellaria baicalensis
 
 In nasal fluid incubated with either Scutellaria baicalensis alone or in combination with eleuthero root extract was able to exert anti-allergic effects in nasal cells as assessed by anti-IgE induced mast cell degranulation; despite eleuthero having no inherent effect, it potentiated the effects of scutellaria reducing the required concentration for maximal suppression from 20μg/mL to 0.2μg/mL of each herb.[90] An anti-allergic effect was seen when assessing cytokine levels (IFN-γ, IL-5, IL-1β, and TNF-α) where 2μg/mL of both agents which outperformed the active control of fluticasone propionate.[90]
 
+
 Eleuthero may be synergistic with scutellaria in regards to reducing inflammation and mast cell degranulation (preventing allergic reactions)
+
 
 14.
 

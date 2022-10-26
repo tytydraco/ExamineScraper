@@ -150,7 +150,9 @@ Composition
 
 The tree bark, the main medicinal component, contains:
 
-The triterpenoids Arjunic acid and Arjunolic Acid,[11][7] up to 3% and 1.5% (respectively) of an Ethyl acetate extract or 2% and 0.9% of a diethyl ester extraction. Minimal quantities (0.2-0.3% of each) in acetone, methanol, and ethanol extracts with a 60:40 ethanol:water extract reaching up to 0.72% and 0.48%, respectively.[7] Arjunic acid has bioactive metabolites as well[12]Arjugenin and Arjunetin,[12] the former being an aglycone similar to Arjunic and Arjunolic Acids[13]Arjunasides A-E (Triterpenoid monoglycosides)[14] and Arjunetoside[15]Ajunglycosides IV and V in the butanolic/methanolic fractions,[16] also in the fruits of Terminalia chebulaArjunaphthanoloside, a napthanol glycoside[17]Termiarjunoside I and II (Oleanane Glycosides),[18] Terminoside A,[19] and Terminolitin[20]Pelargonidin, an anthocyanin[21]The cardenolide 16,17-dihydroneridienone 3-O-beta-D-glucopyranosyl-(1->6)-O-beta-D-galactopyranoside[22] and the structurally related xylopyranosyl(1->3)[23]Ursane triterpenoids (2α,3β-dihydroxyurs-12,18-dien-28-oic acid 28-O-β-D-glucopyranosyl ester )[24]Tannin structures (Gallic and Ellagic acids),[25] 3-O-methylellagic acid 4′-O-α-L-rhamnopyranoside,[24] Casuarinin,[26] and Arjunin[27](-)-epicatechin[24]Luteolin,[25] Quercetin, Kaempferol and Baicalein[21]Vitamin C at 1.47mg/100g (hydroalcoholic extract)[1]Vitamin E at 0.58mg/100g (hydroalcoholic extract)[1]The three above triterpenoids are commonly seen as the main active ingredients, with other compounds with names related to this plant (Terminoside or Arjunoside as examples) tend to be glycosides of the three above aglycones. That being said, there is no evidence to support that these are the compounds that underlie the cardiovascular health properties although they appear to be causative of anti-cancer and anti-oxidative properties
+The triterpenoids Arjunic acid and Arjunolic Acid,[11][7] up to 3% and 1.5% (respectively) of an Ethyl acetate extract or 2% and 0.9% of a diethyl ester extraction. Minimal quantities (0.2-0.3% of each) in acetone, methanol, and ethanol extracts with a 60:40 ethanol:water extract reaching up to 0.72% and 0.48%, respectively.[7] Arjunic acid has bioactive metabolites as well[12]Arjugenin and Arjunetin,[12] the former being an aglycone similar to Arjunic and Arjunolic Acids[13]Arjunasides A-E (Triterpenoid monoglycosides)[14] and Arjunetoside[15]Ajunglycosides IV and V in the butanolic/methanolic fractions,[16] also in the fruits of Terminalia chebulaArjunaphthanoloside, a napthanol glycoside[17]Termiarjunoside I and II (Oleanane Glycosides),[18] Terminoside A,[19] and Terminolitin[20]Pelargonidin, an anthocyanin[21]The cardenolide 16,17-dihydroneridienone 3-O-beta-D-glucopyranosyl-(1->6)-O-beta-D-galactopyranoside[22] and the structurally related xylopyranosyl(1->3)[23]Ursane triterpenoids (2α,3β-dihydroxyurs-12,18-dien-28-oic acid 28-O-β-D-glucopyranosyl ester )[24]Tannin structures (Gallic and Ellagic acids),[25] 3-O-methylellagic acid 4′-O-α-L-rhamnopyranoside,[24] Casuarinin,[26] and Arjunin[27](-)-epicatechin[24]Luteolin,[25] Quercetin, Kaempferol and Baicalein[21]Vitamin C at 1.47mg/100g (hydroalcoholic extract)[1]Vitamin E at 0.58mg/100g (hydroalcoholic extract)[1]
+The three above triterpenoids are commonly seen as the main active ingredients, with other compounds with names related to this plant (Terminoside or Arjunoside as examples) tend to be glycosides of the three above aglycones. That being said, there is no evidence to support that these are the compounds that underlie the cardiovascular health properties although they appear to be causative of anti-cancer and anti-oxidative properties
+
 
 And the fruits that the tree bears may contain:
 
@@ -166,17 +168,23 @@ Cardiac Tissue
 
 In vitro, the water extract of Arjuna bark appears to have cardiotonic effects with 50ug/mL having similar potency (assessed via amplitude of CS (cell shortening), indicative of contractility) to 100nM Isoproteronol and 1mM Ouabain.[25] The mechanism appears to be different, as a decrease in the decay time during relaxation was noted with both Isoproterenol and Arjuna (not with Ouabain) and both Arjuna and Ouabain (not Isoproterenol) caused an increase in the rise time during contraction.[25] This was only observed with the water extract, with various organic extractions (ethanolic, ethyl acetate) causing varying effects and isolated Arjulinolic acid being arrhythmogenic (causing arrythmia).
 
+
 Appears to have cardiotonic effects in vitro with isolated heart cells, seems to be associated with the water extract mostly
+
 
 One month of treatment of 500mg/kg Arjuna bark extract (50% ethanolic) to normal and diabetic rats, reflex bradycardia (a reduction in heart rate in response to high blood pressure, which attempts to normalize blood pressure) was improved in the diabetic rats;[29] the state of diabetes being known to reduce this reflex.[30] The alterations in reflex tachycardia (an increase in heart rate in response to low blood pressure) were not improved by Arjuna over 30 days.[29] The beneficial effects on baroreflexivity has also been noted in isoproterenol (beta-2-adrenergic agonist; like ephedrine) induced cardiac failure,[31] where Arjuna was able to exert rehabilitative and prophylaxtic protection and reduce both cardiac hypertrophy and fibrosis.
 
+
 Reflex Bradycardia (Baroreflex) is a mechanism where the heart slows its pulsatile power when blood pressure gets too high, which acts to normalize blood pressure. Arjuna, although the mechanisms are unknown, appears to preserve this reflex in situations where the reflex would be hindered (cardiotoxicity, diabetes). The opposite (reflex tachycardia) may not be influenced
+
 
 In regards to cardiotoxicity, Arjuna appears to be protective against beta-2-adrenergic agonist induced cardiotoxicity (usually using isoproteronol as a means to induce toxicity) in the range of 100-200mg/kg water or water:ethanolic extracts in rodents;[31][32] this appears to extend to catecholamine-induced cardiotoxicity as well.[33]
 
 Other studies in animal models have noted cardioprotection against sodium fluoride-induced oxidative stress,[34] the chemotherapeutic Doxorubicin,[35] ischemia-reperfusion,[36][37] and Carbon tetrafluoride.[38]
 
+
 Appears to be protective against catecholamine and stimulant-induced cardiotoxicity after oral ingestion to rodents, and protective against other general stressors such as oxidative stress
+
 
 Specifically looking at human interventions, in persons with myocardial infarction or ischaemic cardiomyopathy given 500mg of the bark extract after operation and for a subsequent 8 weeks in addition to standard therapy (relative to control, recieving only standard therapy of nitrates and aspirin/beta-blockers) noted an increase in left ventricular ejection fraction (12.32% versus 2.52%) and a reduction in left ventrical mass (20% versus no change) only in the Arjuna group without any observable toxicity.[39] Higher doses tend to be used, with thrice daily dosing of Arjuna bark water extracts showing benefit in persons with acute myocardial infarction (AMI) by reducing mitral regurgitations (independent risk factor for mortality in persons with AMI[40]) at 1 month (49%) and 3 months (72%) relative to baseline as assessed by echocardiography,[41] with improvements in diastolic function (E/A ratio) at 1 month (29%) and 3 months (48%).[42] 2 weeks of thrice daily dosing of 500mg Arjuna bark water extract alongside standard therapy noted improvements in left ventricle function including ejection fraction, and end diastolic and systolic volume (11 persons with AMI, 1 person with peripartum cardiomyopathy) and benefit to cardiovascular health remained when an open-label follow-up was conducted for 20-28 months.[43] The study recording mitral regurgitations[42] made note that a placebo group was given, but the placebo and its relations to active control were not elaborated on.
 
@@ -184,7 +192,9 @@ A trial with a larger sample (58 persons with chronic stable angina and provocab
 
 The thrice daily dosing of 500mg Arjuna water bark extract has also been used in one case study on Beta-Thalassemia where a reduction of Lp(a) from 51.8 to 39mg/dL was recorded;[45] the paper made note of a conference presentation (does not appear to be a publication) where a similar observation was noted.
 
+
 In regards to human trials on cardiovascular health, a once (but more commonly thrice) daily dosing with even intervals between doses shows benefit to cardiovascular and left ventricle function in persons who have suffered myocardial infarctions, with the benefits appearing to extend to other cardiac conditions (Angina in one trial, Beta-Thalassemia according to a case study). Numerous studies, although many are used alongside standard cardiovascular drug treatment rather than monotherapy and most have small sample sizes and statistical power
+
 
 2.2
 
@@ -226,7 +236,9 @@ Interventions
 
 A study assessing the effects of Arjuna (500mg water extract of the bark) with or without Ashwagandha (500mg water extract of the roots) in normal weight young adults over 8 weeks noted that, relative to placebo, maximal oxygen consumption capacity was increased 4.8% and average maximal power output (assessed by Sprinting and measured by a Kinematic Measuring System) increased 3.6% with a decrease of blood pressure from 123.00+/-2.87mmHg to 117.80+/-1.48mmHg (4.3%).[53] Pairing with Ashwagandha increased the power output to 11.6% with a 10% increase in relative power, and also induced significant improvements in VO2 max and oxygen carrying capacity (both seen with Ashawgandha in isolation).[53]
 
+
 At least one study has noted improvements in anaerobic cardiovascular exercise performance (high intensity cardio), and the benefits appear to be somewhat additive with Ashwagandha
+
 
 5.
 
@@ -238,7 +250,9 @@ Thyroid Hormones
 
 An ethanolic extract of Arjuna at 21.42mg/kg and 42.84mg/kg in rats (human equivalents of 3.4 and 6.8mg/kg) who were administered thyroxine (T4, a thyroid hormone at 0.5mg/kg for two weeks) noted that the serum increase in T3 and T4 was attenuated by 42% and 79% by administration of Arjuna; the increase in lipid peroxidation of cardiac and liver tissue by T4 was simulatenously abolished.[54] Similar effects were noted in euthyroidic rats, but an increase in hepatic lipid peroxidation occurred.[54] The authors noted that similar effects with the antithyroid drug Propyl thiouracil and hypothesized that Arjuna ethanolic extract has anti-thyroid effects, and due to hyperthyroidism causing cardiac tissue enlargment[55][56] it is thought this may contribute to the cardioprotective effects observed with Arjuna.
 
+
 Possible thyroid reducing properties, which need to be replicated with a water soluble extract (and mechanisms explored more). May possibly contribute to cardioprotective effects, although not likely to be the only mechanism (as cardioprotection has been noted in persons with normal thyroid status)
+
 
 6.
 
@@ -302,7 +316,9 @@ Mechanisms
 
 Arjuna, particular Arjunic and Arjunolic acids, possesses anti-oxidative properties directly and in a DPPH assay (in vitro assay of antioxidative potential) has more potency than Vitamin C[69] or at least comparable at the same concentrations.[62] This is thought to underlie various protective effects of Arjuna in response to compounds with toxic effects mediated by oxidation such as Adriamycin[70] cadmium,[71] and arsenic.[72] Despite the aforementioned study showing more potency from Arjunolic relative to Vitamin C, studies that compare the two in living systems either note similar protectiv effects[72] or more from Vitamin C (although this latter study used a much higher dose of Vitamin C relative to Arjunic Acid).[67]
 
+
 Arjunic and Arjunolic acid appear to have direct anti-oxidative potential and sequester free radicals; the potency of it appears to be similar to Vitamin C (a few studies suggest more or less, but for the most part is similar)
+
 
 9.
 
@@ -314,7 +330,9 @@ Genotoxicity/Mutagenicity
 
 Arjuna bark extracts have been found to exert antigenotoxic (protective) properties in response to 4-nitroquinoline-N-oxide,[6] 2-aminofluorene, 4-nitro-o-phenylenediamine,[73] and Adriamycin,[70] with the bioactives appearing to be concentrated in the acetone and methanolic extracts.[6][73]
 
+
 Compounds in the ethanolic/acetone extracts appear to protect the DNA from damage induced by mutagens; the bioactives are currently unknown, and this does not appear to occur with the water extract (which is used for cardiovascular health)
+
 
 9.2
 
@@ -322,7 +340,9 @@ Tumors (Overview)
 
 Oddly, a bacteria that has been noted to produce Taxol (Paclitaxel; chemotherapeutic) has been noted to occur on Arjuna bark;[74][75] this is differnt from the bacteria has been previously found on Taxus brevifolia that herb which has a bacterial strain synthesizing Taxol.
 
+
 Possesses a novel bacteria on the tree which produces the chemotherapeutic Taxol; practical significance unknown, and Arjuna extracts may not have a Taxol content regardless
+
 
 In response to incubation with an Ehrlich ascites carcinoma (an undifferentiated carcinoma tumor used in research with high differentiation rates and easy transplantation following injections [76]) noted that 9 days of Arjuna leaf methanolic extract was able to reduce tumor size (43-67%; nonsignificantly less effective than 20mg/kg 5-fluorouracil) and survival time was extended 43.9% and 87.9% at 100mg/kg and 200mg/kg, with the higher dose not being significantly different than the active control of 5-fluorouracil at 20mg/kg.[9] Arjuna leaf extract appeared to have similar effects on white and red blood cell counts as did 5-fluorouracil.
 

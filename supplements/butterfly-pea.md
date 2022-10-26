@@ -86,7 +86,9 @@ It should be noted that Shankapushpi is associated with traditional benefits, bu
 
 Taxonomically speaking, the above four plants all share the same class (Magnoliopsida) and Clitoria Ternatea separates itself at the level of sub-class (belonging to Rosidae, while the other three belong to Asteridae); Canscora decussata then separates into the Gentianales order while the remaining two plants keep identical orders (Solanales) and families (Convolvulaceae).[3][5]
 
+
 'Historically used' as a brain booster, but its historical reports are inherently going to be confounded with three other herbs since they have been used interchangeably when the 'true' Shankapushpi is not available
+
 
 1.2
 
@@ -96,7 +98,9 @@ Benefits have been seen with both the water and ethanolic components, so there a
 
 Taraxerol[6][7]Anthocyanin compounds based on Delphinidin called Ternatins[8][9]Steroids, undisclosed[10] but possible related to stigmast-4-ene-3,6-dione[11]Flavonoids, undisclosed[10]Glycosides, undisclosed in one study[10] and those based on kaempferol and quercetin in another study[12]Saponins, undisclosed[10]Carbohydrates in the seeds and leaves, mostly water-soluble mucilage, flutulene, and oligosacchardes[4][13]A fatty acid composition consisting mostly of Palmitic, Stearic, Oleic, and Linoleic acids[4]A biopesticide called Finotin[4]Trypsin inhibitors (unidentified) in the seeds[4]Total phenolic content of Clitoria Ternatea is approximately 1.9mg/g (0.2%) gallic acid equivalents (GAE); relatively low compared to other herbs.[14]
 
+
 Composition of Clitoria Ternatea is still not too well known
+
 
 2.
 
@@ -112,7 +116,9 @@ One in vivo study noted higher cholinergic function after oral administration of
 
 When rats are subject to electroshock stress (to induce cholinergic amnesia) a higher degree of memory retention is seen with Clitoria roots relative to aerial parts, and insignificant differences exist between the potency of 300mg/kg or 500mg/kg Clitoria Ternatea and 54mg/kg Pyritinol when looking at acetylcholine content of the brain; Pyritinol led to an increaese in acetylcholinesterase activity in the Midbrain while higher doses of the root extract led to increases in the cortex and decreases in the Medulla; 300mg/kg had no effect on acetylcholinesterase.[16]
 
+
 Preliminary animal evidence suggests that it has the memory enhancing effects that have been attributed to it historically, and comparative analysis' put it at a similar potency in animals to some common nootropic compounds
+
 
 2.2
 
@@ -122,7 +128,9 @@ Clitoria Ternatea appears to possess both anxiolytic and anti-depressive actions
 
 Clitoria was also able to reduce the biological effects of stress on rats when taken at 400mg/kg, as assessed by stress-induced ulcers. High doses of Clitoria may be adaptogenic.[1]
 
+
 Appears to possess stress reducing effects, but may not be overly potent in doing so; lack of evidence anyways
+
 
 3.
 

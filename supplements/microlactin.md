@@ -40,13 +40,17 @@ Sources and Summary
 
 The term Microlactin appears to refer to an extract derived from Milk protein from hyperimmunized cows, particularly the bioactive peptides.[1][2][3] Microlactin is also sometimes referred to as Hyperimmune milk, and appears to be obtained via delivering an immune stimulant (Polyvalent immunization of bacteria derived from the human gut) to pregant cows 4 weeks before parturition and continuing every 2 weeks through lactation,[4] and was discovered in 1955 when application of a human pathogenic bacteria produced a high degree of antigen-specific antibodies milk secretions.[5]
 
+
 Microlactin (Hyperimmune milk) is milk derived from cows that, prior to lactation, are delivered an immunostimulant and subsequently produce more bioactive peptides in the milk they produce
+
 
 Microlactin contains both high weight and low weight bioactive peptides, with the high weight peptides being antigen-specific peptides while the lower weight peptides confer general anti-inflammatory properties. For the high weight bioactive peptides, the immunoglobulin IgG appears to be predominant in most milk whereas the IgG type I antibody appears to be 20-40% higher in Hyperimmune milk relative to normal skim milk[6] although another study quantified the dose at 5.45mg/g (5.11-5.79mg/g) in Hyperimmune milk while failing to detect any in control (skim) milk (did not disclose limit of quantification).[7]
 
 It should be noted that the high molecular weight antibodies are detectable in normal cow milk as well as hyperimmune milk, although at lower quantities (with this study noting that the greatest difference was in the antibody for Pseudomonas aeruginosa with Hyperimmune having 282% more antibody activity in vitro).[6]
 
+
 Microlactin appears to be standard milk protein concentration but with a higher concentrations of Immunoglobulin G (IgG) relative to standard milk protein concentrates; for all intents and purposes, bioactivity that differs between Microlactin and regular milk is probably due to the IgG content
+
 
 2.
 

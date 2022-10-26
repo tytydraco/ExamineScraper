@@ -152,7 +152,9 @@ Overall, Sophora Flavescens appears to contain 3.3% Alkaloids and 1.5% Flavanoid
 
 Matrine at 0.21-1.12mg/g (seen as the main compound) and Oxymatrine at 1.94-8.77mg/g,[2] as well as the structurally related Sophoridine (0.13-0.62mg/g)[2] and Oxysophorodine[3]Isokurarinone and Norkurarinone,[4] both modifications of Kurarinone[5]Kurarinol (as well as neokurarinol and norkurarinol[4])Kuraidin, Kuraridine, and Kushenol H,K (prenylated flavanoids)[6] and X[4]Kushecarpins A-C[4] and Kushinol A-O[7][8]Leachianone G[4]L-Maackiain[4]Trifolirhizin[9]Sophoflavescenol (prenylated flavanoid; 5-methoxy-7,4‘-dihydroxy-8-(3,3-dimethylallyl)flavonol)[6] with one study deriving 27mg from an ethanolic extract of 9kg fresh plant[9] but another deriving 600mg from 10kg via methylene chloride fractions;[10] exact quantification has not been doneSinapic acid[8]With the polysaccharide fragment consisting of:
 
-SFPW1 at 0.32% dry weight[11]A variety of bioactives, but Matrine and the related two structures are the most commonly referred to molecules for being 'active' in Sophora Flavescens although some others (the prenylated flavanoids) may be bioactive
+SFPW1 at 0.32% dry weight[11]
+A variety of bioactives, but Matrine and the related two structures are the most commonly referred to molecules for being 'active' in Sophora Flavescens although some others (the prenylated flavanoids) may be bioactive
+
 
 Matrine is also found in other species of Sophora including subprostrata (Shandougen),[12] tonkinensis [13] and alopecuroides (Kudouzi).[14] Matrine is sometimes used as a reference biomarker for quality of the Sophora plant family due to being in all species of this family.[15]
 
@@ -178,7 +180,9 @@ Metabolism
 
 The hepatic extraction of Matrine appears to be low, with 0.27% of an oral dose being detected in bile acids after oral administration.[17][13] Matrine (and structurally related compounds) do not appear to undergo any significant metabolism after oral administration[18][3] except for the possible conversion of Oxymatrine to Matrine in the gastrointestinal tract prior to absorption.[18] When administered intravenously, Oxymatine is metabolized slightly into Matrine (approximately 19.1+/-5.4%, if judging by the AUC of Matrine relative to Oxymatrine).[19]
 
+
 For the most part, Matrine does not get metabolized
+
 
 3.
 
@@ -204,7 +208,9 @@ In models of focal ischemia, NF-kB inhibition appears to be the root of protecti
 
 Similar protective benefits are seen with Oxymatrine, with connections to anti-inflammatory mechanisms[22] that are linked back to NF-kB,[23] and may also extend to a downregulation of TLR4, which was increased following ischemic injury and suppressed with 120mg/kg injections of Oxymatrine.[24]
 
+
 Protective effects against brain injury (preventing some inflammation), but small in magnitude and studies in animals used injections of isolated Matrine in high doses; probably isn't too applicable to oral Sophora Flavescens ingestion
+
 
 3.4
 
@@ -222,7 +228,9 @@ Telomerase
 
 Sophora Flavescens appears to inhibit the mRNA expression of human telomerase reverse transcriptase (hTERT) and subsequent activation of the Telomerase enzyme. This has been noted in cancerous colon cells (HT-29[26] and SW1116[27]) and two liver carcinoma cells lines (HepG2, QGY).[28]
 
+
 Appears to inhibit telomerase, but currently all evidence is in cancer cell lines (where telomerase is sometimes disregulated); no evidence currently to suggest telomerase in inhibited in healthy cells and the notion that Sophora has life extension properties can currently not be supported
+
 
 5.
 
@@ -248,7 +256,9 @@ Other compounds have been found to inhibit TNF-α induced NF-kB activation (in H
 
 Prenylated flavonoids from Sophora (Kurarinone) have been implicated in ERK/RSK2 inhibition, which disrupts inflammatory signalling from cytokines such as IL-6.[5]
 
+
 Various noncaloric bioactives appears to possess general anti-inflammatory effects
+
 
 6.2
 
@@ -268,9 +278,12 @@ One study in vitro with estrogen non-responsive Breast Cancer cells noted that d
 
 One study showed synergism with Trichostatin A (Histone Deacetylase inhibitor) which has also been noted in lung cancer cells related to VEGF[33] and was also further synergistic with the COX-2 selective inhibitor Celecoxib.[31]
 
+
 Appears to have anti-proliferative properties, and is synergistic with Trichostatin A and Celecoxib; histone deacetylase inhibitor and COX-2 inhibitor, respectively. No human or animal interventions
 
+
 Nutraceutical options for HDAC inhibition (Sulforaphane) and COX-2 inhibition (Spirulina) may be synergistic, but this has not yet been demonstrated
+
 
 7.2
 
@@ -290,7 +303,9 @@ Prostate
 
 Matrine appears to have inhibitory potential on androgen insensitive prostate cancer cells (PC-3)[39] as well as androgen-sensitive prostate cells (LNCaP).[40] In the latter study, concentrations of 0.5-2.0g/L isolated Matrine for 36 hours showed a dose and time dependent inhibition of proliferation up to 56.8% at the highest dose and time combination (2g/L for 36 hours), althougha more significant decrease was seen in androgen receptor content which was reduced by more than 50% at the lowest dose after 24 hours.[40] This downregulation of the Androgen receptor has been noted elsewhere.[41]
 
+
 Matrine may be therapeutic against prostate cancer, but no research in animals currently; may work by normalizing excessive androgen receptor proliferation, but also appears to have some other mechanisms
+
 
 7.5
 
@@ -300,7 +315,9 @@ Matrine from Sophora Flavescens appears to induce apoptosis in experimental Acut
 
 When mice are injected with 50 or 100mg/kg Matrine 5 days after being injected with cancerous cells for a period of 17 days resulted in 87.0-89.6% reduction in leukemic tumor size; this was slightly less effective than 20mg/kg Cyclophosphamide.[37]
 
+
 Injections of Matrine appear to be quite effective in inducing Leukemic cancer cell death, not significantly different than Cyclophosphamide (standard treatment). There is at least one rodent intervention for Leukemia
+
 
 7.6
 
@@ -310,7 +327,9 @@ In A375 lung cells incubated with 0.25, 0.5, 1, or 2mg/mL Matrine, the higher co
 
 Apoptosis has been noted elsewhere induced in A549 cells, where 50-500mcg/mL reduced cell viability in a dose and time dependent manner (up to about 60% cell viability, a 40% reduction, with 500mcg/mL after 72 hours).[33] This study noted that Matrine reduced the Bcl-2/Bax ratio (via induction of Bax and downregulation of Bcl-2) and was synergistic with the Histone Deacetylase Inhibitor Trichostatin A at modifying Bcl-2/Bax and inducing apoptosis.[33]
 
+
 Appears to induce apoptosis (regulated cell death) in lung cancer cells, but weaker than other cancer cells; Matrine does appear to have anti-proliferative potential. No interventions in living creatures for lung cancer
+
 
 8.
 
@@ -318,7 +337,9 @@ Interactions with Hormones
 
 In rat prostate cells, type II 5-alpha-reductase enzyme activity was wholly abolished with incubation of 0.1% Sophora ﬂavescens and was inhibited by 50% with 0.001%.[46] When looking at molecules that appeared to inhibit the 5-AR receptor inherently, the most potent appeared to be norkurarinone and isokurarinone with an inhibitory rate of 51.4-94.2% at 50-200ug/mL and 54.4-97.1% at 50-200mg/mL, although many flavonoid compounds appeared to be inhibitory, especially at 200ug/mL.[4]
 
+
 Appears to have inhibitory effects on the 5-Alpha Reductase enzyme potently; interactions with Androgen receptor and serum testosterone not known
+
 
 9.
 
@@ -332,7 +353,9 @@ Sophoflavescenol appears to be a selective PDE5 inhibitor similar to Icariin fro
 
 Sophoflavescenol is currently only known to originate from Sophora Flavescens and Albizzia julibrissin (He Huan Hua in Traditional Chinese Medicine).[47]
 
+
 It appears to be potently erectogenic, though the evidence is only mechanistic; there are currently no interventions using oral supplementation of Sophora Flavescens to assess the practical worth of Sophoflavescenol
+
 
 10.
 
@@ -345,7 +368,9 @@ Hair
 In dermal papilla cells, a 50% ethanolic extract of Sophora Flavescens was able to induce IGF-1 and KGF (keratinocyte
 growth factor) when applied to the back of mice at 0.2mL of 1% Sophora Flavescens for 30 days, and was associated with earlier telogen to anagen phases.[46] In this study, HGF and VEGF were unaffected.[46]
 
+
 Appears to have hair promoting properties when topically applied
+
 
 10.2
 
@@ -355,7 +380,9 @@ Sophoraflavescenol (prenylated flavanol) from Sophora Flavescens appears to be a
 
 When tested against mushroom tyrosinase, the inhibitory potential of Sophora Flavescens appears to be greater than that of both Arbutin and Vitamin C (used as positive controls), but although Sophora outperformed 96/99 other herbs tested in this study it itself was outperformed significantly by both Morus bombycis and Rhus javanica gallnuts when comparing IC50 values.[53]
 
+
 Several molecules, usually those in ethanolic extracts, appear to be moderately potent inhibitors of tyrosinase in vitro; this mechanisms is sought in cosmetics due to potential skin lightening effects. Currently, no interventions are published to assess practically relevant potency
+
 
 11.
 

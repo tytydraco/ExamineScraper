@@ -178,7 +178,9 @@ TUDCA has been shown to improve liver healing rates in both steatotic and non-st
 
 After administration in men with chronic liver disease, 10-13mg TUDCA daily for 3 months appears to enhance the rate of hepatocyte proliferation as well.[19]
 
+
 Beyond TUDCA's primary treatment purpose (Cholestasis, next section) TUDCA also appears to have beneficial modulation of cells in the liver, promoting regeneration and reducing cell death. May not be relevant in an already health liver (due to high regeneration rates already), but nice for unhealthy livers
+
 
 4.2
 
@@ -190,7 +192,9 @@ Accumulation of bile acids in the liver during periods of impeded intestinal sec
 
 The mechanism of protection may be through competitive antagonism of harmful bile salts actions on hepatocytes.[25] This, in conjunction with TUDCA supplementation increasing the relative amount of hydrophilic bile salts (UDCA, TUDCA) relative to the harmful salts exerts an overall protective effect. The increase in UDCA seen with supplementation is a diminishing response dose-dependent relationship with 500mg, 1000mg, and 1500mg increasing the bile content of TUDCA from 2.9% (in persons with Primary Biliary Cirrhosis) to 34.4+/-4.5%, 32.8+/-2.8%, and 41.6+/-3%, respectively.[4] The most effective dose for this beneficial partitioning of bile salts, based on plotted curves from serum and bile analysis, may be 15-20mg/kg bodyweight TUDCA.[4]
 
+
 For short term treatment of bile acid complications and cholestasis, TUDCA appears to be very potent and reliable. Used in clinical settings for treatment of cholestasis as well.
+
 
 4.3
 
@@ -200,13 +204,17 @@ Gallstones (made of cholesterol) may be treated in a litholytic manner with bile
 
 Gallstones may become opaque, which is thought to indicate their inability to dissolve (and thus, a failure of litholysis treatment);[31] the opacity appears to be related to calcium deposition in the cholesterol gallstone, and appears to make gallstones resistant to bile acid induced cholelitholysis.[32][30] The opaque gallstones are either black (around 20% in total and consisting of calcium phosphate and/or carbonate with insoluble bilirubin pigment and cholesterol) or brown (around 5% overall containing calcium bilirubinate, calcium palmitate, stearate and cholesterol).[33][30]
 
+
 Gallstones can form in the liver from cholesterol, and administration of bile acids is thought to dissolve the gallstones to a level where they may be passed; this dissolution appears to not influence all gallstones, with gallstones having a calcium content being resistant to bile acids.
+
 
 Therapy tends to consist of a nightly dose of bile acids (UDCA or TUDCA) paired with a low cholesterol diet to encourage cholesterol efflux.[34][35] It should be noted that therapy with oral bile acids is not first-line, and that usually a minimal amount of persons with gallstones respond to UDCA or TUDCA (10% or less[36]); standard practise suggests that it be limited to persons unfit for surgery with small (5mm or less diameter) uncalcified and cholesterol rich gallstones.[30]
 
 In looking at the rate of failure (formation of opacity during treatment of bile acids), there do not appear to be any significant differences between TUDCA, UDCA, or another bile acid known as CDCA.[37]
 
+
 Treatment of gallstones with TUDCA is used in clinical settings, but is not the first-line treatment and requires certain conditions to be met (small uncalcified gallstone of mostly cholesterol) to be effective. When comparing TUDCA against other bile acids, there do not appear to be significant differences in efficacy
+
 
 5.
 
@@ -234,7 +242,9 @@ Stroke
 
 TUDCA has shown neuroprotective actions against stroke and acute neurological injury[47][13]
 
+
 In general, TUDCA appears to be quite protective of cells and this applies to the brain as well. Orally ingested TUDCA is able to reach neuronal tissue, but relevance to humans with TUDCA ingestion has not yet been shown
+
 
 6.
 
@@ -260,7 +270,9 @@ Interventions
 
 TUDCA, at 1,750mg daily in obese persons without NAFLD nor type II diabetes over 4 weeks, was able to reduce insulin resistance in skeletal muscle as assessed by increased phosphorylation of Akt and IRS-1 in response to a standardized test meal.[55] No influence on insulin induced JNK activation was seen in myocytes.
 
+
 Preliminary, but TUDCA appears to be able to protect cells from dysfunction associated with hyperglycemia and may reduce the effects of insulin resistance before they happen (beta-cells) and even therapeutically with the potency of some diabetic pharmaceuticals (in regards to the liver and skeletal muscle)
+
 
 7.
 
@@ -290,7 +302,9 @@ Interventions
 
 After ingestion of 1,750mg TUDCA for 4 weeks in obese but otherwise healthy persons, no significant effects were observed on body fat or weight.[55] Insulin sensitivity was improved in skeletal muscle and the liver, but not in the adipose (body fat) tissue of these persons.[55] This differs from previous rat studies[8] and may be due to the dose in the rat studies being higher.
 
+
 Appears to have mechanisms to augment Thryoid Hormone actions and induce fat loss, but the dose may be too high to be practically relevant
+
 
 8.
 
@@ -302,13 +316,17 @@ Cell proliferation
 
 In a lot of ways cancer cells are analogous to weeds in an otherwise well-groomed lawn. The weeds tend to grow bigger, spread faster, and can displace the slower growing, more regulated grass to the detriment of the lawn. Likewise, cancer cells are dangerous because they have mutated away from the normal/ healthy cell phenotype, allowing them to avoid all of the molecular checks and balances that keep normal cells healthy and well-behaved. In the absence of well-controlled cell cycle regulation, cancer cells tend to proliferate at a pathological rate, compromising the function of healthy cells, tissues and organs and eventually leading to organ failure and death. 
 
+
 Cancer cells are often associated with uncontrolled proliferation which can displace normal, healthy cells and compromise organ function. 
+
 
 A study on the colon cancer cell lines HT29 and HCT116 revealed that UDCA can suppress cell proliferation in vitro, which was associated with inhibition of both the G1/S and G2/M transition phases of the cell cycle.[61] The anti-proliferative mechanism occurred in-part through UDCA-induced expression of the cell cycle inhibitor proteins p27 and p21. UDCA also suppressed levels of the cyclin-dependent kinase (CDK) proteins CDK2, CDK4, and CDK6. Since CDKs play an important role in cell cycle progression, these results revealed that UDCA inhibits cell cycle progression through multiple mechanisms.
 
 UDCA treatment was also associated with reduced intracellular ROS levels.[61] In turn, diminished ROS levels contributed to increased Erk1/2 activation which was previously shown to induce cell cycle arrest in colonic epithelial cells.[62] [63] [64] Thus, UDCA inhibits the tendency of colonic cancer cells to rapidly progress through the cell cycle, raising the possibility that it may be useful adjunct to chemotherapy in certain cancers. More research is neeeded to determine whether the anti-proliferative properties of UDCA or TUDCA are also observed in animals or humans. 
 
+
 UDCA suppresses cell proliferation in colon cancer cells through multiple mechanisms.
+
 
 9.
 
@@ -324,7 +342,9 @@ TUDCA, and its taurine-free conjugate UDCA, have been shown to attenuate the red
 
 Most critically, these benefits were seen with co-incubation or adminstration of them both at the same time.[66][65] When pre-loaded before ethanolic insult, they have been shown to exacerbate damage to liver cells.[65] These effects may be secondary to alterations in the lipid membrane of cells with TUDCA/UDCA exposure.[67]
 
+
 Might alleviate alcohol's adverse effects on the liver, but appears to be needed to be taken after drinking and may be damaging if taken before
+
 
 10.
 
@@ -342,13 +362,17 @@ Although TUDCA/UDCA have shown beneficial effects in a number of different exper
 
 PSC is a rare, chronic liver disease characterized by inflammatory fibrosis of the bile ducts and is typically associated with biliary cirrhosis and portal hypertension, which eventually progress to liver failure.[70] In some cases cholangiocarcinoma, (bile duct cancer) can also develop. 
 
+
 UDCA has been tested as a possible treatment for primary sclerosing cholangitis (PSC), a rare liver disease.
+
 
 Given the poor prognosis of PSC, there have been a number of trials testing the efficacy of UDCA for treating this disease. A few pilot trials testing UDCA in a dose range of 10-15 mg/kg bodyweight/day did show improvements in liver enzymes (an indicator of liver stress), and in certain cases liver histology (i.e. the appearance of liver biopsy sections under a microscope), although patient symptoms were not improved.[71][72][73] 
 
 Given the promising improvements of clinical markers but lack of effect on symptoms in these pilot studies, researchers reasoned that the dose and/or duration of UDCA treatment was insufficient to alleviate symptoms. This was addressed in the Lindor trial, where patients with PSC were administered 28-30 mg/kg bodyweight/day UDCA or a placebo.[69] Treatments were assigned in a randomized, double-blinded fashion and liver biopsies were taken before the trial and after 5 years. The investigators were specifically examining the ability of UDCA to reduce or delay the following primary outcomes: development of cirrhosis, bile duct cancer, liver transplantation, or death. Ultimately the study was terminated after 6 years, because patients receiving the UDCA treatment were substantially worse-off than those who took the placebo. Although liver enzyme levels decreased more in the UDCA group, 39% of these patients reached one of the primary outcomes by the end of the study. In contrast, only 19% of patients that received the placebo reached a primary endpoint. Overall, patients receiving UDCA were 2.3x more likely to reach a primary endpoint and 2.1x more likely to die or require liver transplantation.[69]
 
+
 Patients in the Lindor trial were 2.3x more likely to reach an adverse primary endpoint and 2.1x more likely to die or require a liver transplant after several years of high-dose UDCA treatment.
+
 
 Why was high-dose UDCA so toxic in PSC patients?
 

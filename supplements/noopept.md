@@ -76,7 +76,9 @@ It is commonly said to be 1000-fold as potent as piracetam (derived from the abs
 
 Noopept is a water-soluble proline containing dipeptide structure, and while it per se is not detectable in serum even after high injected concentrations[6] it increases concentrations of Cycloprolylglycine and, as such, is a Cycloprolylglycine pro-drug.
 
+
 Noopept is a synthetic racetam structure that is a Cycloprolylglycine pro-drug, with bioactivities of Noopept being related to increased Cycloprolylglycine concentrations
+
 
 2.
 
@@ -92,9 +94,12 @@ When looking at brain concentrations, the Cmax of 50mg/kg in rats after oral ing
 
 The half-life of Noopept is around 16 minutes in rats[7] although this study is limted as it did not assess serum levels of the currently thought bioactive cycloprolylglycine;[7] the metabolites are thought to be vital as Noopept is not being detectable in serum 25 minutes following oral ingestion, effects have been noted on brain wave function for over 70 minutes (following injections, which have similar excretion kinetics).[8] Furthermore, there appear to be interspecies differences with rats having more rapid metabolism of Noopept in serum relative to humans.[9]
 
+
 Oral ingestion of Noopept results in a very rapid absorption and metabolism of Noopept, although the kinetics of metabolites (which are thought to be bioactive) is not yet known
 
+
 A true bioavailability study has not been conducted, although it appears that an oral dose is about the equivalent of one tenth an injected dose (10% bioavailability)
+
 
 2.2
 
@@ -104,11 +109,15 @@ The major metabolite of administered Noopept appears to be structurally similar 
 
 In vitro, the conversion of Noopept to cycloprolylglycine (which increased 2.4-fold in neural tissue following 5mg/kg injections, from 2.8nmol/g to 6.7nmol/g wet brain weight) appeared to also occur in neural slices which the authors hypothesized was due to deacetylation to phenylacetic acid and spontaneous reconfiguation into cycloprolylglycine; this was not outright demonstrated in this study, and no serum phenylacetic acid was detected.[6]
 
+
 Currently thought that Noopept acts as a pro-drug for cycloprolylglycine and that the latter molecule exerts a deal of the benefits observed with supplementation
+
 
 However, one study has noted that while injections and oral ingestion of Noopept (0.5mg/kg and 10mg/kg respectively) were able to confer an anti-amnesiac effect that appears to build up over subchronic loading for 9 days, that injections of cycloprolylglycine did not have a buildup effect.[10] This study noted that the 50% of rats experiencing an increase in memory from the latter drug was decreased to 33% after nine days of loading, which may be associated with impairment of memory retrieval with the latter.[10][11]
 
+
 May not have 100% similarity to cycloprolylglycine administration, as Noopept has been associated with a subchronic buildup effect whereas cycloprolylglycine has not
+
 
 3.
 
@@ -124,7 +133,9 @@ Noopept (0.2mg/kg) has been noted to increase spindle-like activity and alpha wa
 
 Comparatively, following injections Piracetam produced quicker but shorter lived effects (active within 10 minutes and lasting for 40) relative to Noopept (active in 30, still active at 70).[8]
 
+
 Appears to be similar in mechanisms as to Piracetam at much lower concentrations when looking at whole brain function (EEG), and may be more long lasting in its effects; NMDA receptors appear to be related to the effects of Noopept
+
 
 3.2
 
@@ -136,13 +147,17 @@ Additionally, it has been noted that Noopept (in vitro) appears to have a 'choli
 
 One study has noted species-dependent effects in mice, where BALB/c mice (C57BL/6J and DBA/2J unaffected) experienced improvements in long-term memory and in a test on the ability to extrapolate the direction of a stimuli there were benefits associated with Noopept in both C57BL/6J and BALB/c strains, but again no effect in DBA/2J mice.[15] DBA mice are known to have a cholinergic deficit[16] as well as alterations in hippocampal formation and function.[17][18]
 
+
 Two possible mechanisms of action for enhancing cognition are a sensitizing effect on acetylcholine processes or induction of neurotrophin production, both of which theoretically enhance memory formation
+
 
 In mice, it has been noted (from unpublished results, cited in this study[6]) that maximal learning influence on otherwise healthy rats occurs 1 hour prior to the learning activity. This timing scheme has been noted elsewhere with efficacy, although in application to injections.[19] At least one study, however, has noted that acute administration of Noopept 24 hours after a learning process is still associated with a degree of memory enhancement in rats.[4]
 
 In studies looking at dose-response and oral ingestion, in rats where amnesia was induced via electroshock therapy it was noted that oral ingestion of 0.5mg/kg was associated with memory retention as was 10mg/kg, but an oral intake of 1.2mg/kg and 30mg/kg were both without effect; the pattern appeared to be bimodal, and the two effective rat oral doses correlated to an estimated human dose of 0.08mg/kg and 1.6mg/kg respectively (with 1.2mg/kg correlating to 0.192mg/kg).[10]
 
+
 Injections (in rats) appear to be used acutely one hour prior to learning tasks with efficacy, although it does not appear that this is an outright prerequisite for cognitive enhancement. In regards to dosing, there appears to be a biphasic pattern of efficacy
+
 
 0.01mg/kg injections of Noopept for 21 days in rats has failed to increase memory in otherwise healthy rats, but appeared to restore memory in rats subject to a bulbectomy (removal of olfactory bulb).[19] This restorative effect on memory has been noted in rats subject to compression damage (research model of concussion),[20][21] in stroke[11] and cerebral hypoxia,[22][23] oxidative stress,[24][22] scopolamine (cholinergic toxin) injections[25] and with usage of anticholinergics,[13] excitotoxicity via glutamate,[22] prefrontal cortex photothrombosis,[26][27] and in a bilateral frontal lobectomy.[28] Protective effects, at least on oxidative damage, have been noted at concentrations in the nanomolar range (10nM) although the IC50 appears higher (1.27mM).[24]
 
@@ -150,7 +165,9 @@ One rat study has noted that, similar to Piracetam, administration of Noopept to
 
 Over the course of 56 days of treatment in persons with cerebrovascular insufficiency, Noopept at 20mg is more effective than 1200mg Piracetam in improving global MMSE scores and was effective in persons with post-traumatic cerebral insufficiency (Piracetam was only effective in those with vascular disease and not trauma patients).[3]
 
+
 Very general neuroprotective effects in research animals (usually rodents) given Noopept injections, and this has been replicated in one human study with 20mg oral Noopept; these studies mostly report a unanimous improvement in memory (secondary to reducing the decline seen with brain damage) although no studies currently exist on otherwise healthy humans or animals using Noopept for cognitive enhancement (ie. Noopept taken in a model not characterized by brain damage)
+
 
 3.3
 
@@ -158,13 +175,17 @@ Anxiety
 
 Mechanistically, One study assessing hippocampal cells in vitro measurings inhibitory postsynaptic currents (IPSCs) noted that while Noopept (1μM) increased spontaneous IPSC amplitude and frequency (269+/-39%) which was thought to be due to direct depolarization of inhibitory synaptic transmission (as Noopept did not affect currents evoked by rapid application of GABA or glutamate).[30] This was thought to be related to anxiety by the authors due to a high concentration of benzodiazepine receptors in the hippocampus[31] and anxiety being related to the hippocampus.[32]
 
+
 At least one study suspects that an increase of tonic inhibition in the hippocampus may be related to the observed anxiolytic effects of Noopept
+
 
 Noopept's major metabolite appears to induce an anxiolytic effect in rodents as assessed by an elevated maze plus test at the injected dose of 0.05mg/kg (0.1mg/kg appeared less effective and 0.2mg/kg was ineffective)[2] where only the L-isomer is active and the D-isomer is wholly inactive.[2]
 
 In humans, one study[3] investigated 53 persons with cognitive ailment (37 with vascular cerebral damage and 17 with post-traumatic damage; 41 finishing the trial) at two daily doses of 10mg compared to the active control of Piracetam (1200mg daily) over 56 days noted universal improvement on parameters of vascular cerebral damage and improvement on half of measured parameters of trauma. Fatigue, anxiety, irritability, apathy, and affective lability were improved in both groups while further benefits were noted on mood, sleep, and wakefullness in those with cognitive ailment stemming from vascular damage.[3] Noopept was more effective over 56 days in improving the MMSE score relative to Piracetam, while it was effective in post-trauma patients (Piracetam was not) although when comparing all scores on MMSE, BPRS, and CCSE there was no significant difference.[3]
 
+
 Appears to have anxiolytic properties, which have been demonstrated in otherwise normal rats but not yet in otherwise healthy humans (has been confirmed in humans who may have increased anxiety secondary to cognitive degeneration)
+
 
 3.4
 
@@ -172,7 +193,9 @@ Depression
 
 Two animal studies have noted that Noopept is associated with abolishing the effects of learned helplessness in rats at 0.05-0.10mg/kg injections,[33][34] which is thought to be a model of depression as it is related to extraneous factors. Currently, the only study in humans assessing depression noted that in persons with cognitive injury there was less depressive symptoms associated with 20mg Noopept for 56 days as assessed by MMSE, BPRS, and CCSE.[3]
 
+
 Two animal studies suggest that an anti-depressive effect may occur, but this has not been thoroughly evaluated
+
 
 3.5
 
@@ -184,11 +207,15 @@ When assessing the cytotoxicity of α-synuclein upon SH-SY5Y neuroblastoma cells
 
 Production of β-sheet formation is generally seen as protective as alternate formations such as the oligomeric and protofibrillar species are more cytotoxic to neurons.[35][36][37] Shorter species may also induce necrotic cell death[38] while Noopept appears to influence longer fibril formation.[5]
 
+
 In vitro, Noopept appears to influence fibrillization of α-synuclein towards β-sheets and away from oligomeric formation while promoting fibril length; the cumulative effect of which is less cytotoxic formations of these protein structures and more relative cell viability
+
 
 Noopept has been found to increase immunoreactivity to Aβ amyloid in an Alzheimer's disease mice model following olfactory bulbectomy operation[19] and in an animal model of Alzheimer's Disease (beta-amyloid25-35 injection) injections of 0.5mg/kg Noopept for 7 days prior to treatment fully prevented amnesiac properties of the amyloid injections; some rehabilitative effects were noted when Noopept was administered after amyloid.[39]
 
+
 Some bioactivity and protective effects have been noted in rats given Noopept, although there is currently no study assessing the potency relative to a reference drug
+
 
 3.6
 
@@ -198,7 +225,9 @@ Noopept has been claimed to have a subtle psychostimulatory effect.
 
 In isolated synaptoneurosomes, Noopept (as well as the endogenous peptide cycloprolylglycine) appear to modulate neuronal membrane potential, causing depolarization but and being able induce hyperpolarization in a calcium-dependent manner (hyperpolarization abolished in calcium-free medium); Noopept was more effective than cycloprolylglycine in this regard but the two were competitive rather than additive.[40] The researchers noted this effect could be due to blocking calcium channels (noted previously in snail neurons[41] where 10nM Noopept as well as both Piracetam at 100mM and Vinpocetine at 30mM at inhibiting slow inactivating potassium channels without influencing calcium or fast acting potassium channels[42]) and would result in increased excitatory potential of neurons. However, as Noopept is also associated with protection against stroke (a mechanism related to opening potassium channels) a modulatory effect was proposed.[40]
 
+
 Has been noted to cause neuronal excitation, which may be related to the reported psychostimulatory effect; beyond this limited evidence there is not too much assessment of the stimulatory effect of Noopept
+
 
 4.
 
@@ -212,7 +241,9 @@ One study has noted that Noopept injections (0.5-10mg/kg) is able to augment the
 
 Noopept was noted to reduce immunosuppression induce by cyclophosphamide,[43] which was thought by the authors to possibly be related to protective effects against stroke due to a stroke inducing apoptosis of some immune cells.[44]
 
+
 Some interactions with the immune system, fairly unexplored, and may interact with protective effects on cognition
+
 
 5.
 

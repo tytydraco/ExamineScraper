@@ -186,7 +186,9 @@ Grape Seed Extract (GSE) is a supplement derived from grape seeds which is a ves
 
 Procyanidins are found in a wide variety of foods, and the main human dietary sources appear to be fruits (apples, grapes, berries, plums), beverages (tea, cocoa, wine), cereals grains (sorghum, barley), nuts, and chocolate via the Cocoa extract[1][2] and the estimated daily intake is approximately 53.7mg.[2] Procyanidins in general are also the active ingredients of the Maritime French Pine Bark Extract supplement known as Pycnogenol.[3] Different sources of procyanidins may have different effects on the body, depending on how the catechin chains are formed and bound to each other.
 
+
 'Procyanidin' holds no relation to anthocyanins per se, and are chains of catechin molecules. Their structures denote their effects in the body, and the general category of 'procyanidin molecules' exist widely in nature. GSE is a concentrated vessel of the procyanidins from Grapes
+
 
 1.2
 
@@ -194,7 +196,9 @@ Composition
 
 Grape Seed Extract contains:
 
-Proanthocyanidins (also known as procyanidins), polymers of catechin (subset of flavonoids) molecules at around 74-78% by weight[4] and sometimes up to 81%[5] of Grape Seed ExtractSpecific procyanidin molecules such as Procyanidin B1 (5.3%), B2 (3.1%), and C1 (1.7%) (different formations of catechin couplets)[5]Free flavonol esters such as epicatechin and catechin (two of the green tea catechins) at less than 6%[4]Some products may contain other bioactives found in grapes (usually lesser quality controlled supplements), as this study found resveratrol at 0.53%, rutin at 1.2%, gallic acid at 1.4% and quercetin as quercetin-3-glucoside at 8%[6]Mostly procyanidin polymers by weight, but also composed of the smaller units that make up the polymers
+Proanthocyanidins (also known as procyanidins), polymers of catechin (subset of flavonoids) molecules at around 74-78% by weight[4] and sometimes up to 81%[5] of Grape Seed ExtractSpecific procyanidin molecules such as Procyanidin B1 (5.3%), B2 (3.1%), and C1 (1.7%) (different formations of catechin couplets)[5]Free flavonol esters such as epicatechin and catechin (two of the green tea catechins) at less than 6%[4]Some products may contain other bioactives found in grapes (usually lesser quality controlled supplements), as this study found resveratrol at 0.53%, rutin at 1.2%, gallic acid at 1.4% and quercetin as quercetin-3-glucoside at 8%[6]
+Mostly procyanidin polymers by weight, but also composed of the smaller units that make up the polymers
+
 
 1.3
 
@@ -218,11 +222,15 @@ After ingestion of Grape Seed Extract (GSE) in humans, Procyanidin B1 appears to
 
 Absorption of Procyanidin B2 has been noted in rats,[11] yet studies assessing Procyanidin B3 have failed to note circulating levels in humans.[12] B3 excretion has been noted in pigs at 4mcg after oral consumption of 2g,[13] suggesting the aforementioned human study did not have enough power to detect such a minute quantity. As a general rule, it appears that all procyanidins are absorbed but in minute quanitites; at least one study using an oral GSE extract containing 20% and 30% dimers and trimers noted that the circulating levels of dimers and trimers after ingestion equated 0.35% and 0.01%; respectively.[14] This was due to excessive breakdown of dimers and trimers into monomeric catechins, which elevated from 36% of the GSE by weight to comprise 99% of circulating flavanols.[14]
 
+
 The dimers and trimers (two catechin; three catechin) procyanidins do appear to be absorbed in animals, but to relatively small levels. The apparent bioavailability is either similar to green tea catechins (up to 13%) or it is less. Even after absorption, a very large amount of procyanidins are metabolized into their monomers catechin and epicatechin
+
 
 Simulated digestion suggests that procyanidins are stable in an acid-based environment (stomach) but may degrade into monomers during a duodenal simulation (alkaline) with no significant influence of co-ingested carbohydrates.[14] This study later compared ingestion of 1g GSE against 1g GSE paired with 2g carbohydrates in rats (to assess if a greater bioavailability existed when taken with a meal) and noted that the serum level of procyanidin dimers was 0.57nM when taken in a fasted state yet 0.12nM when taken with carbohydrates.[14]
 
+
 May be slightly better to consume GSE on an empty stomach
+
 
 2.2
 
@@ -230,9 +238,12 @@ Metabolism
 
 A study in pigs measuring urinary metabolites noted that although dimeric and trimeric procyanidins were noted in the urine, their total amounts after 2g oral GSE (15-20mcg) that none of these procyanidins appeared to be conjugated by P450 (as treatment with glucuronidase did not increase amounts) and that their methylated derivates catechin and epicatechin are excreted to much higher amounts (1000mcg and 470mcg, respectively) with detectable levels of 3'O-methylcatechin (3'OMCT) 4'OMCT, 3'OMEC and 4'OMEC.[13] The total amount of unmetabolized procyanidins that reached the urine was 0.008-0.019% for dimeric procyanidins and 0.004% for the trimeric procyanidin C1.[13] Other studies on Grape Seed Extract (GSE) procyanidins note that it appears to be metabolized into 3-hydroxyphenylpropinoic acid as the latter is detected in urine after ingestion of 1g GSE for 6 weeks in humans; an increase in urinary 4-O-methylgallic acid was also observed.[15] In regards to the amount of unmetabolized procyanidins in the urine, this trend also appears to exist in rates where the overall excretion was 0.5% after administration of 1g/kg to rats.[8]
 
+
 Grape Seed Procyanidins appear to be metabolized into green tea catechins after oral administration, the rate of metabolism and overall Area-Under-Curve (AUC) for the actions of the procyanidins per se are unknown
 
+
 Some benefits associated with Green Tea may extend to Grape Seed Extract, since consuming GSE increases circulating levels of two of the six green tea catechins (those without gallic acid moieties)
+
 
 2.3
 
@@ -244,7 +255,9 @@ The Procyanidin B dimers of GSE appear to be able to inhibit aromatase activity 
 
 When given in vivo, a methanol-water fragment of GSE (contains Procyanidin B dimers) was able to suppress estrogen-responsive tumor growth when rats were implanted with androstenedione capsules; suggestive of aromatase inhibition.[19] This was replicated later by the same research group using 500 and 750mcg of GSE (total) in mice for 42 days, and suppression of tumor size via aromatase inhibition was again noted to 86.3% and 51.7% that of control.[4] This study did not indicate the weight of the mice, but assuming a standard weight of 24-28g for 8-week old female athymic mice used in this study[20] the 500mcg correlates to 178.5-208.3mg/kg bodyweight and based on rough estimates of 100mg/kg bodyweight equating 1g intake in humans, aromatase inhibiting potential may be seen at 2g GSE.
 
+
 At least in rats, Grape Seed Extract (GSE) appears to have efficacy in inhibiting aromatase activity and aromatase transcription, and at least the former is quite potent. The dose used, when gone through rough conversions, appears to be quite high; direct human studies would be appreciated
+
 
 3.
 
@@ -270,7 +283,9 @@ Nitric Oxide (NO) is a small signalling molecule which can cause vasodilation (a
 
 The mechanism of increasing NO levels in serum may be through enhancing endothelial Nitric Oxide Synthase (eNOS) expression via its anti-oxidative effects, and these appear to be vicariously through Akt phosphorylation in the endothelium.[28] Akt signalling via GSE has been noted elsewhere, where the subsequent increase in NO was cardioprotective in vitro, and addition of Akt inhibitors[29] and PI3K inhibitors[30] abolish the effects of GSE on eNOS.
 
+
 Appears to be able to increase Nitric Oxide levels in the body via stimulating the enzyme that creates Nitric Oxide, no studies in humans currently
+
 
 4.2
 
@@ -280,7 +295,9 @@ A letter in which a trial was described[31] that 400mg of Grape Seed Extract (GS
 
 Related to blood flow, Grape Seed Extract has been shown in at least one study to reduce leg swelling sometimes seen with sitting for prolonged periods of time.[33] The placebo condition had an increase of leg volume (via swelling) of 46cm3 whereas GSE at 400mg reduced this by 70% to 14cm3, and a similar effect (although 40%) was seen with a lower dose of GSE (133mg) taken for 2 weeks.[33]
 
+
 May promote blood flow, but a lack of studies to indicate its reliability or potency, may need either a large dose or a disease state pre-requisite for it to be effective
+
 
 4.3
 
@@ -292,13 +309,17 @@ These studies are in accordance with a meta-analysis has been conducted on Grape
 
 One small study has noted a decreaes in triglycerides, but this was when GSE (400mg) was paired with a meal and blood subsquently drawn and was more due to placebo experiencing an increase in triglcyerdes.[31] The other studies had measurements drawn in a fasted state, and this study could be a false positive from GSE suppressing triglyceride spikes from a meal[31] and another study pairing GSE with food noted reduced total cholesterol relative to placebo.[38] Additionally, one study using 200mg and 400mg GSE proanthocyanidins noted that, over 12 weeks in otherwise healthy persons with elevated LDL-C, that LDL-C and triglycerides were not reduced but HDL-C increased from baseline in all groups but more-so in GSE.[36]
 
+
 In regards to circulating lipoproteins and cholesterol, as well as triglycerides, there does not appear to be any convincing evidence that Grape Seed Extract can lower these markers. Some discrepancies when GSE is paired with a meal
+
 
 One intervention assessing blood pressure in persons with metabolic syndrome with either 150mg or 300mg GSE noted decreases in blood pressure associated with 150mg (134/83 down to 123/77) and 300mg (127/78 down to 116/71) over a period of 4 weeks.[35] These decreases in blood pressure may be secondary to anti-platelet effects, which have been observed in otherwise healthy postmenopausal women with 400mg GSE after 4 weeks.[31] This reduction in blood pressure was not seen in otherwise healthy persons with elevated LDL-C given 200 or 400mg GSE for up to 12 weeks alongside no change in pulse rate[36] and another study in youthful adults using 2547mg GSE (800mg procyanidins) with no health problems failed to note a significant influence on blood pressure acutely.[38] One study investigating the combination of GSE at 1,000mg and Vitamin C at 500mg in hypertensive persons noted that while both of them decreased blood pressure in isolation (GSE nonsignificantly) that the combination increased blood pressure relative to control; unknown mechanism.[39]
 
 When studies are assessed via meta-analysis, the reduction of systolic blood pressure appears to be significant (with a pooled average of 1.54mmHg) whereas the diastolic blood pressure drop fails to reach significance.[37] Interestingly, a reduction of heart rate was also deemed significant in this meta-analysis.[37]
 
+
 Mixed results on resting blood pressure, the evidence is leaning a bit towards Grape Seed Extract benefitting blood pressure and flow
+
 
 5.
 
@@ -310,7 +331,9 @@ Absorption
 
 Grape Seed Extract (GSE) appears to inhibit alpha-amylase and may prevent carbohydrate absorption, with its IC50 and IC90 values slightly but nonsignificantly higher (less potent) than arcabose.[5] These values (IC50 and IC90 in ug/mL) were 6.9+/-0.8 and 42.8+/-4.7 for arcabose and 8.7+/-0.8 and 28.1+/-2.0 for GSE; both arcabose and GSE were significantly more effective than green tea catechins and isolated EGCG, with IC50 values 4-7 times higher than GSE.[5] When looking at the maximum extent of enzyme inhibition, all extracts were equally effective but isolated EGCG less so.[5] This relatively potent inhibition by GSE was less than that observed with procyanidin compounds derived from Pycogenol, with an IC50 of 5ug/mL.[40]
 
+
 Appears to inhibit alpha-amylase (a carbohydrate digestive enzyme) with a potency greater than green tea and similar to the research standard arcabose
+
 
 5.2
 
@@ -322,11 +345,15 @@ An oral intake of 35mg/kg GSE to rats for a period of two months noted that in a
 
 Decreased levels of ER chaperones have been seen in pancreatic cells, including HSPd1, HSPa5, and HSP90b1.[44] Due to these proteins being secreted during times of ER stress,[46][47] this suggests GSE may reduce endoplasmic reticulum stress.[44]
 
+
 Possibly protective of pancreatic cells that secrete insulin
+
 
 When fat cells (3T3-L1) are incubated with GSE, it is noted that they augment the effects of insulin in regards to glucose uptake, and allowed the maximal stimulation from insulin to be raised from 23.6% to 47.2% (under non-resistant conditions).[42] This augmentation was not observed when oxidative stress, dexamethasone, nor TNF-a were used, and it was suspected this involved IRS1.[42] It has been noted previously that these procyanidins may act on the insulin receptor with different post-translational signalling,[48] and that the ability of GSE is dependent on p38 activation[49] but it has been noted that the ability to induce p38 exceeds that of procyanidins acting on the insulin receptor[42] and imply either direct actions on GLUT4 or actions via p38, rather than indirect signalling via the insulin receptor.
 
+
 Somewhat complex interactions with glucose uptake, may augment or otherwise mimick insulin but not perfectly
+
 
 5.3
 
@@ -350,7 +377,9 @@ Food Intake and Absorption
 
 It has been noted before that Grape Seed Extract could reduce food intake in rats,[51] and this was conducted in a human study which showed a reduction of energy intake by approximately 4% when no dietary controls are put in place, which is about 84 calories in said study.[52] This reduction in food intake was seen without observable influence on mood or satiety, and occurred after 3 days of intake of 300mg GSE (90% proanthocyanidins).[52]
 
+
 May reduce food intake, and either does not influence subjective appetite or is too underpowered for said reduction to be significant
+
 
 Grape Seed Extract (GSE) appears to inhibit alpha-amylase and may prevent carbohydrate absorption, with its IC50 and IC90 values slightly but nonsignificantly higher (less potent) than arcabose.[5] These values (IC50 and IC90 in ug/mL) were 6.9+/-0.8 and 42.8+/-4.7 for arcabose and 8.7+/-0.8 and 28.1+/-2.0 for GSE; both arcabose and GSE were significantly more effective than green tea catechins and isolated EGCG, with IC50 values 4-7 times higher than GSE.[5] When looking at the maximum extent of enzyme inhibition, all extracts were equally effective but isolated EGCG less so.[5] This relatively potent inhibition by GSE was less than that observed with procyanidin compounds derived from Pycogenol, with an IC50 of 5ug/mL.[40]
 
@@ -374,7 +403,9 @@ One study conducted in 3-month old Hamsters with 25mg/kg GSE (said to be equival
 
 In a study on obese Zucker rats (a model for metabolic syndrome) administration of a dose of Grape Seed extract that was able to exert anti-oxidative effects was ineffective in reducing body weight over 30 days.[61] Human studies that measure weight changes or BMI as a secondary outcome also tend to fail to notice any influence on overall weight.[36]
 
+
 GSE appears to have mechanisms by which it can be anti-obesogenic yet there are no studies to assess how potent this is (said study did not measure fecal carbohydrate, which may be a significant confound). Not all studies note this reduction in bodyweight
+
 
 7.
 
@@ -388,13 +419,17 @@ Grape Seed Extract (GSE) is able to reduce Nitric Oxide (NO) overproduction in s
 
 These mechanisms appear to be via modulation of iNOS (inducible Nitric Oxide Synthase) expression and reducing IkBα mRNA expression (which reduces NF-kB activation and subsequent inflammation)[62] and a subsequent study on Colitis confirmed less activity of IkBα and less phosphorylation (activation) of the IKKα/β complex, with less subsequent nuclear translocation of NF-kB (that was not dose dependent, and occurred to similar degrees at 100, 200 and 400mg/kg intake in rats).[64] This lesser activity of NF-kB has also been noted in human adipocytes, where it reduced the inflammation-mediated suppression of insulin signalling.[6]
 
+
 Appears to suppress the inflammatory response in macrophages (mediators of inflammation) with a potency greater than Aspirin, but suppresses subsequent inflammation less than Aspirin
+
 
 This apparent suppression of macrophages activity and inflammation has been noted in rat intestinal tissue after oral ingestion of GSE, which has helped with treatment of Ulcerative Colitis[65][66] and colonic polyps.[67]
 
 In a study on intestinal cells and immunology, Grape Seed Extract was less effective than oak and pomegranate extracts on suppressing ERK1/2 activation from IL-1b, trended to be more suppressive of JNK (being only cocoa) and was again less suppressive than oak and pomegranate extracts, as well as sugar cane, on nitric oxide release and IL-8 secretion from activated immune cells.[68] Despite this, GSE had the highest anti-oxidative capacity and pomegranate the lowest, and concentrations were done relative to anti-oxidant capacity (possibly skewing results towards pomegranate)[68]
 
+
 Has shown efficacy in the intestines, where more of the bioactive procyanidin polymers reach
+
 
 7.2
 
@@ -404,7 +439,9 @@ An in vitro study of Grape Seed Extract (GSE) on T cell proliferation noted that
 
 Oral intake of 30, 100, and 300mg/kg GSE over 8 days was able to suppress inflammation (ear thickness) in response to topical antigens.[69] When draining the inflammation, an increase of total lymphocytes was observed in the test group and this increase was suppressed with oral intake of GSE in a relatively dose-dependent manner.[69]
 
+
 Appears to be an anti-pyretic of sorts, able to suppress inflammatory and immune related reactions
+
 
 8.
 
@@ -426,7 +463,9 @@ A human study of persons with Type II diabetes using 300mg GSE for 4 weeks have 
 
 Yet other studies in healthy humans noted that 5 days of consumption of Grape Seed Extract increased total body anti-oxidant capacity 1 hour post-dose but did so without altering circulating levels of vitamin C or Vitamin E.[71] This anti-oxidant effect (when it is measured as an anti-oxidative effect) has been shown to be more potent than equimolar doses of resveratrol in vivo when 0.66mmol were used; 150mg resveratrol and 400mg GSE.[72]
 
+
 Interventions assessing oxidative effects of GSE are mixed
+
 
 9.
 
@@ -438,7 +477,9 @@ Estrogen
 
 In healthy women with a high risk of breast cancer (where reducing estrogen is at times beneficial), supplementation of GSE at varying doses between 200-800mg over 12 weeks failed to influence circulating estrogen levels.[73]
 
+
 The aromatase inhibiting property of GSE seen in vitro does not appear to apply to oral supplementation based on preliminary human studies
+
 
 9.2
 
@@ -448,11 +489,15 @@ One study investigating testosterone levels after damage to the testicles induce
 
 In other instances not related to testicular damage administration of GSE at doses between 200-800mg over 12 weeks in women at risk for breast cancer failed to influence androgen precursors,[73] the logical result of aromatase inhibition which was thought to be a property of GSE based on in vitro studies.[4]
 
+
 May protect the testicles from damage and reduce toxin-mediated reductions of testosterone, but no evidence currently exists to suggest it influences testosterone levels per se
+
 
 One in vitro study on androgen signalling suggested that procyanidins from Grape Seed Extract (GSE) in DU-145 and LNCaP cells (prostate cancer cells, hormone resistant and sensitive respectively), in particular B2 and B3 dimers, were agonists of membrane androgen receptors that are expressed in high amounts in prostate cancer cells.[75] The activity on these receptors had a variable IC50 range of 0.5-30.4nM with B3 being the most potent, and acted to suppress prostate cell proliferation both in vitro and in vivo BALB/c(-/-) mice with implanted tumors.[75] This activation of membrane androgen receptors has been noted before with B2 and B5,[76] and trigger phosphorylation of PI3K and FAK, and the monomers of catechin and epicatechin (two green tea catechins) have IC50 values of 21.4nM and 19.2nM, respectively, and can displace up to 30% of bound testosterone while B2 can fully displace testosterone in vitro.[76]
 
+
 Agonists (activators) of membrane androgen receptors, which may have importance for prostate cancer prevention. No demonstrated interaction with traditional androgen signalling (nuclear receptors) or muscle protein synthesis
+
 
 10.
 
@@ -464,11 +509,15 @@ Stomach
 
 One study assessing the efficacy of Grape Seed Extract (GSE) on stomach ulcers found that when 25 or 250mg/kg GSE was preloaded and either an ethanolic (alcohol) or Aspirin-induced ulcer was attempted an hour later that GSE was as effective as Vitamin E at suppressing ulcer formation but less effective than Vitamin C at the same doses.[77] The ulceration index was reduced to 42.07% and 43.06% with 25mg and 250mg/kg respectively, with a decrease in MDA levels (indicative of less lipid peroxidation).[77] This anti-ulcer action has been replicated elsewhere with 200mg/kg GSE, and appears to be due to the procyanidin content.[78]
 
+
 Appears to have some evidence that it may protect the stomach lining from ulceration, but limits trials and no unique remarkable effects
+
 
 A study assessing stomach cancer cell line CRL-1739 of gastric adenocarcinoma (amongst other tested cells) and normal gastric cells (from patient biopsies) noted that cancer cells lost adhesion to in vitro plates and became round in shape; additionally, growth of normal gastric cells nonsignificantly increased while viability of the cancer cells was reduced in a concentration-dependent manner.[79] A low dose (25mg/L) GSE was able to inhibit cancer cell growth by 2, 18, and 24% when measured at 24, 48, and 72 hours of incubation and double this concentration exhibited inhibition at 5, 22, and 41% while control continued to proliferate.[79] These anti-proliferative effects have been seen in vivo with rats fed Grape Seed Extracts, and this may also extent to the basic (+)-catechin molecule.[80]
 
+
 May be protective for stomach cancer, needs more studies
+
 
 10.2
 
@@ -476,7 +525,9 @@ Kidneys
 
 High dose GSE (2.5g/kg) for a week in rats subject to ischemia/reperfusion of the kidneys (an oxidative insult) noted that GSE was able to significantly attenuate the increase in Urea, Creatinine, and Cystatin C seen with I/R injury by 35.9%, 36%, and 34.3% respectively; suggesting less damage to glomerular function.[81] Although I/R injury was also associated with a decrease in anti-oxidant enzymes and an increase in lipid peroxidation this was not seen in the GSE group, and finally histological examination of they kidneys noted less renal necrosis and better tubule construction.[81] Protective effects have also been noted against Cyclosporin-A induced nephrotoxicity at 100mg/kg bodyweight where GSE normalized the increase in BUN and creatinine as well as the increased apoptosis (cell death) seen with CsA[82] and against Amikacin-induced nephrotoxicity at an oral dose of 100mg/kg GSE.[83] At least in rats, these doses of 100mg/kg appear to be the point on the dose-response curve where anti-oxidant is most potent.[84] This protective effect extends to other renal toxins such as ethylene glycol,[85] Cisplatin,[86] and Gentamicin[87] as well as exerting protective effects against hypercholesterolemia[87] and from oxidation induced from a state of type II diabetes.[88]
 
+
 Very general protective effects against all currently tested drugs and disease states, suggestive of GSE being able to protect the kidneys from metabolic stressors
+
 
 Most studies above note normalization of anti-oxidant enzymes (such as catalase, glutathione, SOD) in renal tissue of animals fed both GSE and the toxin, suggesting that GSE works to prevent changes in oxidative status of the kidneys. GSE treatment is also associated with less NF-kB activation (indicative of inflammation), but still significantly more than control.[81]
 
@@ -502,7 +553,9 @@ Grape Seed Extract (GSE) has been shown to be chemoprotective against breast can
 
 The only human intervention currently looked at the effects of GSE on induration, a hardness of the breast tissue induced by radiation (used in chemotherapy), it found that 100mg of GSE taken thrice a day for a total of 300mg was able reduce the size of induration by 50% or more in 27.3% of persons tested (6/22) by six months, and one more took the full 12 months to reach 50% reduction of induration.[95]
 
+
 Shows some promise, but limited evidence already suggests a large variability (unreliability)
+
 
 11.2
 
@@ -528,7 +581,9 @@ Varicose Veins
 
 One study that noted a decrease of leg swelling seen during prolonged sitting (70% acutely after 400mg of 90% procyanidin GSE, 40% after daily intake of 133mg of 90% procyanidin GSE) noted that leg swelling during sitting periods is a risk factor for varicose veins, and hypothesized that GSE may be preventative.[33]
 
+
 No real evidence at this moment in time, but it is theoretically plausible
+
 
 13.
 

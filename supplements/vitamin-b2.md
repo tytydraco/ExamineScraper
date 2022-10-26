@@ -136,13 +136,17 @@ Properties
 
 Riboflavin is relatively heat-stable, with a melting point of 278-282°C and able to withstand heating processes like hot air convection, infrared, high-pressure steam, and microwave during cooking, as well as milk pasteurization.[2] When dissolved in water, heating the riboflavin solution for 40 minutes at 100, 120 and 150 °C destroys 4, 7, and 28% of the riboflavin, respectively.[3]
 
+
 While eventually being degraded in response to heat, riboflavin is relatively heat resistant and should not significantly degrade under most practical situations (cooking foods with riboflavin in them).
+
 
 Although riboflavin is somewhat heat-resistant, it is highly sensitive to light. Aqueous riboflavin is strongly absorbs and is photodegraded by various ultraviolet and blue wavelengths (223, 267, 373, and 444 nm).[2] Photodegradation also occurs when riboflavin is in powdered form or tablets,[4][5] with the powder turning greenish depending on humidity and moisture.[5] 
 
 There may be slightly more photostability when riboflavin is in a liposome,[6] especially when in the liposome alongside something else that can absorb light and degrade in its place,[7] but the degradation still occurs in a linear fashion when light is present.[6] 
 
+
 Riboflavin is unstable in light both as a solid and even more so when in aqueous solution. Riboflavin should be stored in a dry, dark place.
+
 
 1.4
 
@@ -158,7 +162,9 @@ Four riboflavin-dependent enzymes are involved in folate metabolism, vitamin B12
 
 Other biosynthetic roles of riboflavin include:
 
-The biosynthesis of heme requires the FAD-dependent protoporphyrinogen IX oxidase (PPOX).The activation of pyridoxal 5-phosphate (PLP), a form of vitamin B6, requires the FMN-dependent pyridoxine 5-phosphate oxidase (PNPO).[9]Synthesis of niacin from tryptophan requires FAD for kynurenine 3-monooxygenase (The biosynthesis of coenzyme A from pantothenic acid requires the FMN-dependent 4-phosphopantothenoylcysteine decarboxylase (PPCDC).The biosynthesis of cholesterol depends on two FAD-dependent enzymes: squalene monooxygenase (SQLE) and 3β-hydroxysterol 24-reductase (DHCR24).Protein folding in the endoplasmic reticulum is FAD-dependent.[10]Riboflavin is used to create the coenzymes FAD and FMN, which are used by many enzymes in redox reactions to facilitate energy metabolism, the antioxidant system, and biosynthesis.
+The biosynthesis of heme requires the FAD-dependent protoporphyrinogen IX oxidase (PPOX).The activation of pyridoxal 5-phosphate (PLP), a form of vitamin B6, requires the FMN-dependent pyridoxine 5-phosphate oxidase (PNPO).[9]Synthesis of niacin from tryptophan requires FAD for kynurenine 3-monooxygenase (The biosynthesis of coenzyme A from pantothenic acid requires the FMN-dependent 4-phosphopantothenoylcysteine decarboxylase (PPCDC).The biosynthesis of cholesterol depends on two FAD-dependent enzymes: squalene monooxygenase (SQLE) and 3β-hydroxysterol 24-reductase (DHCR24).Protein folding in the endoplasmic reticulum is FAD-dependent.[10]
+Riboflavin is used to create the coenzymes FAD and FMN, which are used by many enzymes in redox reactions to facilitate energy metabolism, the antioxidant system, and biosynthesis.
+
 
 1.5
 
@@ -172,7 +178,9 @@ Importantly, the value for lactating women assumed that women provide 0.35 mg/L 
 
 In the US, average riboflavin intake from food alone is 1.9–2.3 mg/d and only 2.9% consume less than the estimated average requirement (EAR) of 1.1 mg/d for men and 0.9 mg/d for women.[14] When dietary supplements are considered, average intake levels are 2.0–5.7 mg/d and just 2.4% of Americans consume less than the EAR.[14]
 
+
 Adults require 1–2 mg of riboflavin per day. In the US, average intakes are above this and deficiency is rare.
+
 
 Fourteen biomarkers of riboflavin status have been identified, but most have been investigated in only 1-2 studies.[15] The gold-standard is the erythrocyte glutathione reductase activation coefficient (EGRAC), which represents the ratio of FAD-stimulated to unstimulated enzyme activity. 
 
@@ -184,7 +192,9 @@ Although full-blown deficiency of riboflavin is rare in developed worlds, subopt
 
 These studies, and others,[19][20][21] raise questions about the adequacy of the RDA for riboflavin.
 
+
 Riboflavin status is measured by the EGRAC ratio, where less 1.0 to 1.2 is considered optimal (suggesting saturation of riboflavin in tissues) and higher values suggest increasing riboflavin deficiency. A significant portion of the developed world appear to have suboptimal riboflavin status despite consuming the RDA for riboflavin.
+
 
 1.6
 
@@ -192,7 +202,9 @@ Variants and Formulations
 
 More than 90% of dietary riboflavin is in the form of FAD or FMN; the remaining 10% is comprised of the free form and glycosides or esters.[11] The most common forms of riboflavin available in supplements are riboflavin and riboflavin 5'-monophosphate.
 
+
 Dietary riboflavin is mostly FAD or FMN, and supplements supply either free riboflavin or riboflavin 5'-monophosphate.
+
 
 2.
 
@@ -204,7 +216,9 @@ Absorption
 
 Dietary sources of riboflavin tend to be in the form of its cofactors, flavin adenine dinucleotide (FAD) and flavin mononucleotide (FMN), which are bound to proteins in the food.[22] These cofactors are liberated from food by the acidic environment in the stomach releasing free FMN and FAD.[23][22] FMN and FAD are hydrolyzed into free riboflavin by phosphatases in the intestines, a requirement for absorption.[24][25]
 
+
 Riboflavin in food exists in a protein-bound state. The acidic environment of the stomach dissociates these riboflavin-protein complexes, releasing free riboflavin for absorption in the intestines.
+
 
 In the small intestine, riboflavin is taken up by its transporters designated RFVTs,[26] including RFVT1 (SLC52A1),[27] RFVT2 (SLC52A2)[28] and RFVT3 (SLC52A3),[29][30] which are all expressed in the apical membranes of both the jejunum and ileum.[26][30]
 
@@ -212,11 +226,15 @@ Bioavailability of riboflavin (as orally administred FMN) is better when taken w
 
 Higher doses of riboflavin have been shown to have lower bioavailabilities of 14.5% (150mg) and 8.3% (300mg) as assessed by urinary recovery of riboflavin.[31] This is consistent with the threshold for intestinal riboflavin saturation, which seems to occur around the 27-50mg range.[33][31] It should be noted that riboflavin can be absorbed passively through intestinal epithelial cells, suggesting that doses in excess of the threshold for transporter saturation can still be absorbed.[34]
 
+
 The small intestines mediate most of the absorption of riboflavin, where it appears to be a simple absorption process. Low supplemental doses (5mg) can be taken with or without food, while higher doses are better absorbed with food.
+
 
 Some riboflavin uptake can occur in the colon (large intestine) also via a saturable transporter.[35] Although colonic transporters seem to have less maximal capacity than those in the small intestine,[36] they seem to be equally potent with low (0.1µM) concentrations of riboflavin.[35] These transporters may have a role in taking up the riboflavin produced by intestinal bacteria,[37][38] with Lactobacillus and potentially bifidobacteria being able to produce riboflavin (ex vivo in food products[39]).
 
+
 The colon is capable of absorbing some riboflavin at a lesser capacity than the small intestines, which may faciliate the absorption of riboflavin produced by intestinal bacteria. The overall contribution of intestinal bacteria to riboflavin status is not currently known.
+
 
 2.2
 
@@ -236,13 +254,17 @@ Headaches and Blood Flow
 
 Although the cause of migraine headaches is unknown, a large number of studies have noted impaired mitochondrial function in patients with migraines.[43] Defects in both brain and mitochondrial energy metabolism have been associated with complicated migraine,[44][45] migraine with aura,[46][47] and migraine without aura.[48] As a precursor to FMN and FAD, riboflavin is an essential component of mitochondrial ATP production. Thus, riboflavin has been investigated as a treatment for migraines, in hopes that it may augment the impaired mitochondrial function that is thought to be the cause of headaches.[43] Riboflavin treatment has shown some efficacy in this regard, reducing the frequency of migraines and encephalopathy in patients with MELAS (mitochondrial encephalomyopathy and stroke-like episodes).[43][49][49]
 
+
 Migraine headaches are associated with impaired mitochondrial metabolism. Because riboflavin is a source of FAD and FMN cofactors important for mitochondrial ATP production, it has been investigated for the treatment of migraine headaches.
+
 
 In subjects diagnosed with migraine (with or without aura) with a headache frequency of 2-8 headaches a month who were given a high dose of riboflavin (400mg) over three months, there was a reduction in headache frequency and duration without any influence on headache intensity. The therapeutic effect persisted for three months after supplement cessation.[50] Similar benefits of 400mg riboflavin over placebo have been noted elsewhere, with 59-68.4% of patients reporting a greater than 50% reduction in migraine frequency.[51][52][53] One study using 25mg riboflavin as the 'placebo' treatment also noted that 44% of participants reported more than a 50% reduction in migraine frequency.[54] It is uncertain, despite the aforementioned study, if lower doses are equally effective as other studies using 200mg[55] and 50mg[56] have failed to find benefits with riboflavin treatment. Due to the fact that some studies have failed to note benefits with riboflavin treatment, it has been suggested that there may be a mitochondrial genetic component to riboflavin therapeutic response.[53]
 
 The ability of riboflavin to reduce migraine intensity is either not present, as noted in one study,[50] or relatively modest, with a 21% reduction in intensity noted in another study.[52] Moreover, other work comparing 25mg riboflavin to 400mg riboflavin alongside other migraine treatments (300mg magnesium and 100mg feverfew) failed to note any differences in migraine intensity between treatments.[54]
 
+
 A few studies have found that riboflavin is effective for reducing migraine frequency and duration. The effect of riboflavin on migraine intensity has been inconsistent, with at least one study noting a reduction in headache intensity while others have failed to show any effect. Most studies showing efficacy used 400mg riboflavin daily. The idea that lower (25mg) doses are equally effective is plausible, but requires further testing.
+
 
 4.
 
@@ -258,7 +280,9 @@ One study has noted that removal of supplementation caused the beneficial change
 
 In elderly subjects who appeared to have suboptimal riboflavin status, supplementation of riboflavin (10mg) for four weeks did not appear to significantly alter ferritin concentrations.[62] Also, neither iron absorption rates nor ferritin levels changed in younger women whose hemoglobin levels increased due to replenishing riboflavin stores via supplementation.[42]
 
+
 It seems that proper hemoglobin levels require adequate riboflavin intake (amongst other red blood cell nutrients such as iron). There is no evidence to suggest that supplementing higher than normal riboflavin can enhance red blood cell function, but fixing a riboflavin deficiency can increase hemoglobin levels.
+
 
 4.2
 
@@ -268,20 +292,26 @@ An enzyme known as methylenetetrahydrofolate reductase (MTHFR) which reduces 5,1
 
 One specific gene mutation which reduces activity of the enzyme is MTHFR 677C->T, which causes alanine 222 in the MTHFR protein to be substituted with valine, resulting in reduced biding of the MTHFR enzyme to its riboflavin cofactor (flavin adenine dinucleotide or FAD).[68] This genetic polymorphism has been identified as a risk factor for coronary heart disease.[69][66][70] Rates of being homozygous for this polymorphism (known as having the MTHFR 677TT genotype, since each of the two copies of the gene are T's instead of C's) tend to vary between 3-32% across the world.[71] This polymorphism does not raise the risk of all populations equally, however; the risk for coronary heart disease which this mutation confers is higher in European countries relative to North America.[70] This difference has been hypothesized to be due to the fact that riboflavin has been fortified in foods in North America for several decades.[72]
 
+
 The action of the enzyme MTHFR plays a role in reducing homocysteine levels, an intermediate in metabolism that is a risk factor for coronary heart disease. Mutations that decrease the activity of MTHFR thus increase the risk for heart disease. FAD (which is made in part from riboflavin) is a cofactor for this enzyme.
+
 
 Supplementation of riboflavin (1.6mg) for 12 weeks in subjects positive for the MTHFR 677C->T polymorphism reduced homocysteine levels in only in subjects who were MTHFR 677TT homozygous, where homocysteine levels decreased by 22% in those with normal riboflavin status. Larger decreases (in upwards of 40%) were noted in homozygous individuals with lower riboflavin status, suggesting that riboflavin intake affects homocysteine levels in these individuals.[72]
 
 In a large assessment of MTHFR mutations, it was found that overall subjects who had the MTHFR 677T allele had higher homocysteine concentrations, but this increase was not found in individuals whose riboflavin status was considered optimal (only in those with lower riboflavin status).[73] Riboflavin status does not appear to influence homocysteine in the context of another mutation known as MTRR 524T, a flavoprotein that helps refresh methionine synthase, the enzyme that catalyzes the formation of methionine from homocysteine.[73]
 
+
 Subjects who are homozygous for the MTHFR 677C->7 polymorphism (aka. MTHFR 677TT) appear to experience greater reductions in homocysteine in response to a relatively low supplemental doses of riboflavin, which is thought to then reduce the risk of coronary heart disease.
+
 
 Administration of riboflavin at a dose of 1.6mg over 12 weeks failed to significantly reduce total homocysteine concentrations in healthy elderly subjects with suboptimal riboflavin status (11.1% of whom had the MTHFR 677TT genotype).[74] Although the next phase of the study introducing 400µg folic acid alongside the riboflavin effectively reduced homocysteine levels, riboflavin did not appear to confer additional benefits over folic acid alone.[74] This was investigated since it was previously noted that after folic acid-induced reductions in homocysteine, Vitamin B12 has a more prominent homocysteine-reducing role[75]
 and Vitamin B6 is also effective after folic acid[76] (although working via a different pathway, reducing homocysteine concentrations by converting it into L-cysteine via cystathionine β-synthase[77]). 
 
 One other study using 10mg riboflavin for a month in elderly subjects with low riboflavin status did find a minor reduction in homocysteine concentrations in serum, although this was not correlated to MTHFR genotype.[62]
 
+
 Studies on the effect of riboflavin supplementation on homocysteine levels in elderly populations have yielded mixed results. One study assessing the ability of riboflavin to decrease homocysteine in an elderly population who are predominantly not MTHFR 677TT did not find any benefits of supplementation, even though they had a suboptimal riboflavin status. Another study found the riboflavin caused mild decreases in homocysteine levels, although the MTHFR genotype in the study population was not assessed.
+
 
 4.3
 
@@ -317,7 +347,9 @@ Riboflavin is a component of the retina[86] where it plays roles in aiding funct
 
 While riboflavin concentrations in the retina are responsive to the diet, this only occurs up until 3mg/kg in the rat (riboflavin per kilogram of feed)[90] and rabbit[91] as higher feed concentrations do not further increase retinal riboflavin concentration despite increases in serum levels. This may be related to the transporter that mediates riboflavin uptake in the retina, a sodium-independent transporter that appears to be saturated at a concentration of riboflavin between 8nM and 1µM (apparent KM of 80+/-14nM).[92]
 
+
 Riboflavin has a role in the eyes where it aids in photoreceptors (receptors that respond to color) and structurally protects the eyes.
+
 
 In patients with glaucoma, supplementation of riboflavin (0.8mg) alongside other nutraceutucals including forskolin (from coleus forskohlii) at 15mg, rutin at 200mg, and thiamin at 0.7mg over the course of one month appeared to reduce ocular surface damage as assessed by ocular discomfort (ocular surface disease index) as well as leading to improvments as assessed by three ocular tests (OPI, FBUT, and Schirmer test 1).[93]
 
@@ -367,5 +399,7 @@ The absorption of riboflavin from the intestines is influenced by chronic alcoho
 
 Patients with alcoholism tend to have a high prevalence of riboflavin deficiency of between 15-50%,[105][106][107] at times associated with deficiency symptoms such as neuropathies.[108]
 
+
 Alcohol exposure seems to reduce the capacity of the intestines to take up riboflavin into the body, resulting in chronic alcoholics being riboflavin-deficient.
+
 

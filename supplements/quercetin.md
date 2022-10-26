@@ -206,13 +206,17 @@ After oral ingestion of quercetin, it is taken up from the gut into the liver. T
 
 One pharmacokinetic study in humans following consumption of 500mg Quercetin (as aglycone) noted that the delivery of Quercetin chews had a Cmax of 1051.9+/-393.1ug/mL at Tmax of 3.66 hours, with the Cmax and Tmax of Food bar format and juice suspension reaching 698.1+/-189.5μg/L (in 2.3h) and 354.4+/-87.6μg/L (4.7h), respectively.[14] This study had all forms using QU995, and was unable to conclude any significant differences between groups due to higher variability (just different average).[14]
 
+
 Appears to per se have a moderate to low bioavailability, depending on the source
+
 
 Due to enhanced lymphatic release of Quercetin following administration of Long-Chain Fatty acids (LCFAs), it is thought that the formation of micelles from LCFAs can enhance the apparent bioavailability of Quercetin.[15]
 
 Quercetin is a potent inhibitor of intestinal sulfurotransferases, and has some activity on hepatic sulfurotransferases as well.[16] This mechanism may increase bioavailability of compounds that undergo extensive intestinal metabolism via this method, like Resveratrol.[17]
 
+
 Interacts with intestinal conjugation enzymes, which may predispose Quercetin to nutrient-nutrient interactions
+
 
 3.2
 
@@ -250,7 +254,9 @@ Adenosinergic Neurotransmission
 
 Quercetin is an adenosine receptor antagonst (similar to caffeine), with a Ki value of approximately 2.5μM.[28] Although this is approximately 10-fold more potent than caffeine (25μM[29]) quercetin has failed to confer caffeine like effects when orally dosed at 200mg (despite caffeine being active).[30] This is thought to be related to the poor neural bioavailability of quercetin, where 50-500mg/kg in animals increases neural quercetin to 0.02-0.22μM.[24][23]
 
+
 Although technically a potent adenosine receptor antagonist, it does not appear to be very effective in living models due to its poor absorption into the brain
+
 
 4.2
 
@@ -280,7 +286,9 @@ One animal model noted that Quercetin, dosed at 10,20, or 40mg/kg bodyweight tak
 
 In these rats, lowered levels of phosphorylated CREB were noted.[43] This protein (CREB) is activated when short-term memories are translated to long term memories via creating proteins[46] and these proteins appear to be crucial to long-term memory storage.[47][48] These may be downstream to a reduction in Akt phorphorylation also noted[43] which appears to be a regulator of CREB.[49] CREB phorphorylation was decreased by 28%, 37%, and 35% at 10,20,40mg/kg bodyweight and Akt by 29% (20mg/kg) and 53% (40mg/kg).[43] The decreased phosphorylation of CREB paralleled that of CaMKII much more than it did Akt, and all results were recorded 1 hour after consumption.[43] The authors hypothesized that Quercetin affects acquisitional memory.[43]
 
+
 Possible that Quercetin could adversely affect memory in healthy humans, but insufficient studies have been conducted
+
 
 5.
 
@@ -302,15 +310,21 @@ Exercise Endurance
 
 In mice, mitochondrial biogenesis associated with exercise is increased with oral supplementation of 12.5-25mg/kg quercetin.[50]
 
+
 In mice, exercise induced mitochondrial biogenesis appears to be increased
+
 
 500mg quercetin (as 3-O-glucoside) twice daily via gatorade to athletes subject to twelve 30m sprints after a week of supplementation failed to influence sprint performance, fatigue, or the rate of percieved exertion (RPE)[9] and a single acute dose of 2,000mg quercetin (aglycone via energy bars) prior to a cycling test (15m time trial on an erg bike) failed to influence performance.[18]
 
+
 Studies that use quercetin in isolation for power output tend to note failures with supplementation
+
 
 One study using quercetin (300mg) alongside green tea catechins (300mg) and caffeine (45mg) has noted improvements in exercise performance in trained cyclists[51] and the addition of quercetin (300mg twice daily) to an antioxidant cocktail that was given to the placebo group is associated with improved performance on a 30km time trial (improved power output in the final stretch with no changes in RPE) after six weeks of supplementation.[52] This latter study has been somewhat replicated, with the addition of quercetin (500mg twice daily) to a vitamin drink also given to placebo being associated with an improved VO2 max and time to fatigue on a cycling test after seven days.[53]
 
+
 Studies that note benefit tend to use prolonged supplementation of quercetin (over a week at minimum) and are usually confounded with the inclusion of other antioxidants. That being said, the inclusion of quercetin to the antioxidants tends to outperform the antioxidants by themselves
+
 
 6.2
 
@@ -318,7 +332,9 @@ Hydration
 
 Supplementation of 2,000mg quercetin (aglycone delivered via energy bars) has failed to outperform placebo in regards to preserving hydration during an exercise session in the heat.[18]
 
+
 Does not appear to support hydration during exercise
+
 
 6.3
 
@@ -340,7 +356,9 @@ Quercetin can increase aromatase activity 4x at a concentration of 100uM,[66] bu
 
 Using onion juice, a good source of Quercetin, testosterone levels can increase in rats after 4g/kg bodyweight daily for 20 days.[70]
 
+
 The biochemistry seems to be in line with an estrogen modulator; having the ability to regulate estrogen and androgen levels depending on its concentration.
+
 
 8.
 
@@ -400,7 +418,9 @@ Quercetin Rhamnohexoside
 
 Quercetin Rhamnohexoside is a glycoside found in high levels in the leaves of Gynostemma pentaphyllum, alongside Quercetin Dirhamnohexoside (an additional Rhamnose sugar).
 
+
 The following molecules are variants on Quercetin, where the structure is slightly modified but not due to the addition of a sugar molecule to the structure
+
 
 8.10
 

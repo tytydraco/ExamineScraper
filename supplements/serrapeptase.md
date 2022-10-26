@@ -96,7 +96,9 @@ The serrapeptase enzyme has a molecular weight of 45,000-60,000Da (50.6kDa repor
 
 It's substrate specificity appears to be somewhat similar to that of thermolysin (produced from bacillus thermoproteolyticus),[9] and the amino acid sequence is free of sulfur containing amino acids (cysteine and methionine).[7]
 
+
 Appears to be a rather large metalloprotease enzyme, which can be inactivated (rendered useless) by excess heat
+
 
 2.
 
@@ -108,7 +110,9 @@ Absorption
 
 Due to the supplement in question being an enzyme and destroyed in the acidic environment of the stomach,[7] enteric coated capsules (resistant to acidity, and thus degrade in the intestines rather than the stomach[10]) are used. Aquasomes (a carrier comprised of a nanocrystalline core coated with polyhydroxy oligomers[11]) follow a similar idea, where it is stable for 2-6 hours in acidic medium (pH 1.2) and has a linear release rate in alkaline medium (pH 7.4).[12]
 
+
 Serrapeptase is destroyed in the acidic environment of the stomach, and as such would require enteric encapsulation in order to retain the bioactivity
+
 
 Despite being a large protein structure, serrapeptase has been found to be absorbed in the rat intestine following oral administration,[13] although the large structure and possible degradation in the intestines has been cited to possible reduce the bioavailability of serrapeptase (enzymes are readily degraded by drastic changes in pH and large protein structures may not be absorbed well[14]).
 
@@ -116,13 +120,17 @@ Serrapeptase alone appears to have low permeability in a Caco-2 model of intesti
 
 The enhanced absorption of serrapeptase with liposomes is thought to due to liposomes increasing paracellular (between cells) transport of molecules[16][17] and serrapeptase being too large for transport-mediated absorption (and thus likely mediated by paracellular transport).
 
+
 Serrapeptase, surprisingly, is absorbed through the intestinal wall similar to bromelain and appears to retain its enzymatic activity. It appears to be absorbed paracellularly (between cells), but does not appear to be well absorbed although it is enhanced by liposomes
+
 
 Serrapeptase has been thought to be used topically, although isopropyl myristate (IPM) or dimethyl sulfoxide (DMSO) are required to enhance skin absorption (due to serrapeptase being a large enzyme structure) and were required at higher than acceptable concentrations according to the authors.[18] In a rat anti-edema test, a topical gel (Monegyl 0100 at 10%, PEG 400 at 40%, Propylene glycol at 10%, 1% serrapeptase, and PEG 4000 added until mixture congeals) was comparable in efficacy to a diclofenac gel suggesting some bioactivity.[18]
 
 Other delivery methods that have been reported are a glyceryl monooleate based system.[19]
 
+
 There is limited evidence that serrapeptase can be bioactive topically, which needs to be re-evaluated and mechanisms investigated more (as it is quite illogical for a large protein structure to be absorbed via the skin)
+
 
 2.2
 
@@ -168,11 +176,15 @@ Small Joint Inflammation
 
 In patients undergoing removal of third molars given paracetamol (1000mg) paired with serrapeptase (15mg daily, 5mg taken every 8 hours for 7 days) or placebo, there was a significantly reduction in cheek swelling on all measured days except immediately after surgery while pain followed the opposite trend (significantly more effective than placebo days 1-5 after surgery, but not day 7); interincisal difference was not affected.[21] Other studies on third molar surgeries noted that either serrapeptase is ineffective in reducing inflammation[26] or the standard 30mg dose is effective, but to a lesser degree than 3mg dexamethasone (1mg thrice daily).[27]
 
+
 The research looking at jaw inflammation appears to support the usage of serrapeptase, but aside from the studies being limited it appears to be less effective than the reference drug (dexamethasone)
+
 
 One study in carpal tunnel syndrome given an initial course of nimesulide and then followed up with 10mg serrapeptase twice daily (20mg daily) for 6 weeks noted a 65% response rate for 'significant improvement' but did not have a placebo group for comparison.[28]
 
+
 The evidence to support a role in carpal tunnel syndrome is, methodologically speaking, quite weak
+
 
 4.3
 
@@ -180,11 +192,15 @@ Other Interventions
 
 In rats, the anti-inflammatory effects of serrapeptase at 10-20mg/kg was compaed against 0.5mg/kg diclofenac (for both an acute inflammation study over 8 hours and a chronic inflammation study over 9 days) noted that all groups were comparable in reducing paw edema acutely (43.18-54.55% suppression of paw edema) but there appeared to be dose-dependence for chronic inflammation where 10mg/kg serrapeptase underperformed diclofenac (40% inhibition of paw edema relative to 72%) while 20mg/kg was comparable (68% relative to 72%).[24]
 
+
 Anti-inflammatory effects appear to exist in rats following oral ingestion
+
 
 A meta-analysis[1] of 14 trials noted that the six positive trials included (five can be found online[29][22][28][30][25]) were fairly low quality, with three trials not disclosed the given dose and one not compared to any control or placebo group; the final two studies that were positive were in treating jaw swelling after maxillary sinus antrotomy surgery[25] and for reducing breast engorgement ('marked improvement' was 22.9% with serrapeptase, 2.9% with placebo);[22] both studies used 30mg daily in three doses of 10mg for 7-14 days.
 
+
 The studies that support the efficacy of serrapeptase appear to be low in quality
+
 
 4.4
 
@@ -194,17 +210,23 @@ In staphylococci bacteria (epidermidis and aureus populating human skin and mucu
 
 In a comparative analysis, serrapeptase was more potent than other tested proteases (Clostridiopeptidase A, fibrinolysin, and streptokinase).[8]
 
+
 For bacteria that create protein-dependent biofilms, it appears that serrapeptase may have an inhibitory effect on biofilm production
+
 
 Biofilms are used by bacteria to, aside from adherence to cells, to prevent infiltration of the bacteria cell from antibacterial agents[37][38] and in vitro serrapeptase (100U/mL; 5mcg/mL) has been found to augment the anti-bacterial properties of ofloxacin by approximately halving the minimum inhibitory concentration.[8]
 
+
 In vitro, serrapeptase has been found to augment antibacterials which is thought to be from reducing biofilm production (which then enhances the ability of the antibacterial agent to target the bacteria since it is removing the bacterial defenses). These have not yet been noted in a living model
+
 
 Serrapeptase is known as a mucus liquifying agent[39] and 30mg of serrapeptase daily for 4 weeks in persons with chronic airway diseases has been noted to significantly decrease sputum weight and neutrophil count as well as its viscosity and elasticity;[40] a significant decrease in the frequency of coughing and expectoration was also noted.[40]
 
 Elsewhere, serrapeptase has been noted to reduce dynamic viscosity of nasal secretion with affecting the elastic modulus[41] and this effect (a reduction in viscosity but not elasticity) has been noted elsewhere following oral ingestion of 30mg serrapeptase daily for 4 weeks.[42] Other studies, however, either note a decrease in both viscosity and elasticity (lung sputum)[40] or a decrease in viscoelasticity.[43] While the decrease in viscosity appears to be reliable, the elasticity is not as much.
 
+
 Appears to alter mucus secretions of the body. Although there is not an ample amount of evidence for this, it may be of use to persons with chronically stuffed noses (sinusitis) and for lung symptoms of cystic fibrosis (currently untested)
+
 
 The biofilm reducing properties of serrapeptase have also been noted to be of use in rats given a surgery with risk for infection afterwards (by biofilm producing bacteria), where the occurrence rates of bacterial growth on the surgical site of 63.2% (control) was reduced with antibiotic treatment (37.5%) and synergistically reduced with the addition of serrapeptase to antibiotics (5.6%).[44]
 
@@ -222,7 +244,9 @@ In vitro, serrapeptase (100U/mL; 5mcg/mL) has been found to augment the anti-bac
 
 Elsewhere in rabbits, the plasma concentrations of Cefotiam appear to be increased following coingestion of serrapeptase, while only increasing tissue concentrations in the rabbit model of pneumonitis (no effect in pleuritis)[45] and has been noted to increae gingival concentrations of four antibiotic drugs (Ciclacillin, ampicillin, cephalexin, and minocycline) in rats given 20mg/kg serrapeptase.[46]
 
+
 Appears to augment antibiotic efficacy by reducing the inhibitory effects of bacterial biofilms
+
 
 5.2
 
@@ -240,5 +264,7 @@ General
 
 A systemic review on serrapeptase[1] has noted that there are limited adverse drug reactions reported, but they tend to be related to skin conditions (such as erythema or dermatosis[48]) and both muscle and joint pain; there appear to be some reported coagulation problems.[1]
 
+
 Commonly said to be safe (although there really isn't any robust toxicological data on this claim) and has been linked to sporadic side-effects related to joints and the skin. Occurrence rates are not known, but they seem rare
+
 

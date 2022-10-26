@@ -152,7 +152,9 @@ Gamma-oryzanol is a term used to refer to a collection of molecules build on a f
 
 Cycloartenol and Cycloartenyl Ferulate, the latter of which is seen as the primary ingredient[8]Beta-sitosterol (common in many plants)[8]24-methylenecycloartanol[8]Campesterol[8]The content of Gamma-Oryzanol varies depending on strain of rice, but tends to be around 244.1-342.6mg/kg with most content being attributed to cycloartenyl ferulate (27-30%) and 24-methylene cycloartenyl ferulate (53-57%).[2]
 
+
 Gamma-Oryzanol is a term used to refer to the above four molecules; fairly common structures but all bound to a Ferulic Acid molecule (and thus, Ferulated). The constituent molecules per se are not unique and are found in many vegetables, but are not too common when ferulated.
+
 
 2.
 
@@ -172,7 +174,9 @@ As Gamma Oryzanol is a collection of ferulated sterols, these molecules can be m
 
 Ferulic acid is excreted in the urine at 2.4-2.8% of the oral dose, with no detectable urinary Gamma-Oryzanol.[11]
 
+
 Repeated dosing may be more effective than single dosing, but pharmacokinetic data is limited
+
 
 2.3
 
@@ -180,7 +184,9 @@ Enzymatic Interactions
 
 Gamma-Oryzanol, at 1-30ug/mL, failed to significantly inhibit CYP1A1/2, CYP2A6, CYP2B6, CYP2C8/9, CYP2C19, CYP2D6, CYP2E1, and CYP3A4; with the most inhibitory potential being a mere 16% at 30ug/mL on CYP1A1/2.[11]
 
+
 Not yet found to inhibit any enzymes that would precede drug-drug interactions
+
 
 3.
 
@@ -194,7 +200,9 @@ One study in rats noted that there appeared to be preference for a diet containi
 
 Studies using Gamma-Oryzanol in animals given a high fat diet fail to find reductions of overall food intake associated with 0.5% Gamma-Oryzanol of the diet. [13][14]
 
+
 Some evidence that it may alter preference for food, with unknown potency or practical relevance; does not appear to really reduce food intake in animals
+
 
 3.2
 
@@ -204,7 +212,9 @@ Gamma-Oryzanol is sometimes referred to as a supplement against symptoms of meno
 
 The first studies to assess this claim noted that 1,500mg of gamma-oryzanol particulate (300mg total gamma-oryzanol) over 8 weeks was associated with improvements in menopausal symptoms in 90% of the study population (40% reporting the improvements as excellent)[15] which has elsewhere been attributed to the ferulic acid content.[16] More recently, thrice daily dosing of 20mg Gamma-Oryzanol has failed to outperform acupuncture (no control used in this study, and cited vicariously through two reviews[17][18] as the full text cannot be located online).
 
+
 The evidence to support gamma-oryzanol for usage in menopause is somewhat lacklustre, with one quite old study showing promising but the more recent study showing no benefit being underdosed. More research on this topic is needed
+
 
 4.
 
@@ -216,7 +226,9 @@ Mechanisms
 
 Gamma-Oryzanol appears to negatively influence the intestinal absorption of cholesterol directly, with high concentrations also impairing micelle formation.[19] At 0.5% of the diet in rats, Gamma-Oryzanol can increase the amount of sterols and bile acids in the feces by 107% and 246%, respectively.[14]
 
+
 May reduce choleterol absorption, practical significance and potency relative to other cholesterol-inhibiting compounds is uncertain
+
 
 4.2
 
@@ -224,7 +236,9 @@ Atherosclerosis
 
 Secondary to NF-kB inhibition (of which Gamma-Oryzanol components are moderately potent) one in vitro study noted that less inflammatory response from NF-kB resulted in less expression of adhesion molecules. Less VCAM-1 and E-selectin were expressed at 3uM while increasing the concentration to 30uM reduced both of those as well as ICAM-1; this led to less monocyte adhesion, reducing a 7-fold increase under inflammatory conditions to 1.7-fold under the influence of 30uM Gamma-Oryzanol, and was twice as effect as the control drug Pyrrolidine dithiocarbamate (PDTC)[20]
 
+
 Possesses anti-atherogenic properties secondary to it being anti-inflammatory
+
 
 4.3
 
@@ -242,7 +256,9 @@ A diet consisting of 0.5% Gamma-Oryzanol in rats over 4 weeks was able to attenu
 
 One rat study noted a lesser AUC of insulin in a rat group fed 0.525% Gamma-Oryzanol, but no influence on glucose AUC or either glucose or insulin response to an intraperitoneal glucose tolerance test.[14]
 
+
 May benefit glucose metabolism secondary to its Ferulic Acid components, unknown practical relevance
+
 
 6.
 
@@ -254,7 +270,9 @@ Interventions
 
 A 9 week resistance training program in 22 recreationally active males was sufficient to reduce skinfold measurements while increasing body mass, with the addition of daily 500mg Gamma-Oryzanol failing to be significantly different than placebo.[22] This study did not measure power output.[22]
 
+
 No notable benefits with Gamma-Oryzanol and physical performance
+
 
 7.
 
@@ -266,7 +284,9 @@ Mechanisms
 
 Gamma-Oryzanol (specifically Cycloartenyl Ferulate, 24-methyene Cyloartenylferulate, and B-Sitosteryl Ferulate) can inhibit NF-kB translocation in LPS-stimulated Macrophages at a concentration of 10ng/mL, with Cycloartenyl Ferulate reducing translocation of NF-kB to below 20% at 10ng/mL with other components between 20-40%.[23] This inhibition has subsequently been noted in endothelial cells, reducing the LPS-induced NF-kB translocation down to 12.5% at 30uM Gamma-Oryzanol, which was more potent than the active control drug Pyrrolidine dithiocarbamate (PDTC).[20]
 
+
 The ferulated saponins are actually quite potent in vitro on one of the prototypical mechanisms of inflammation; NF-kB translocation. At nanogram concentrations is more effective than Feverfew and becomes slightly less effective at higher (10-30ug/mL) concentrations; both are quite effective at this mechanism
+
 
 7.2
 
@@ -274,7 +294,9 @@ Natural Killer (NK) Cells
 
 One study in rats with implanted colonic tumors who were fed either 0.2, 0.5, or 1% Gamma-Oryzanol orally for 2 weeks noted an increase in NK cell activity by 130%, 170%, and 220% above control when measuring splenic NK cell activity.[24]
 
+
 Appears to increase NK cell activity, unknown mechanisms; not remarkable potent when compared to other nutraceuticals
+
 
 7.3
 
@@ -324,7 +346,9 @@ Testosterone
 
 It has been noted that a supercritical carbon extraction of rice bran itself (Oryza sativa) appears to be able to inhibit the 5α reductase type I enzyme,[26] suggesting it may increase testosterone and reduce DHT concentrations in the body. Subsequently, 500mg of gamma-oryzanol has been tested in healthy male athletes alongside a weight training program and failed to influence testosterone concentrations.[22]
 
+
 Does not appear to cause an increase in testosterone concentrations
+
 
 10.2
 
@@ -354,5 +378,7 @@ An animal study that reduced circulating adiponectin levels with palmitate (a fa
 
 It was later confirmed that Gamma-Oryzanol (290mcg/kg) was able to increase adiponectin levels, and alongside GABA (also found in rice bran, 600mcg/kg) there appeared to be slightly better effects, but did not appear to be significantly synergistic.[34]
 
+
 Appears to increase Adiponectin in animals, which may be secondary to preventing a decline of adiponectin and thus causing a relative increase; which is greater than control animals
+
 

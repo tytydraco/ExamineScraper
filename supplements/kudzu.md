@@ -148,7 +148,9 @@ Puerarin appears to have its absorption increased linearly with increasing conce
 
 When Puerarin is incubated with either Angelica dahurica basic extract (450μg/mL) or its volatile oils (0.72μl/mL) the absorption of Puerarin is increased 1.7-fold and 3.6-fold respectively; suggesting that Angelica dahurica contains both MRP1 and Pgp inhibitors, and is in accordance with traditional combination therapy of these two herbs.[8]
 
+
 Puerarin appears to be fairly well absorbed from the intestines at low concentrations, and is effluxed by both MRP and Pgp; combination therapy with Angelica dahurica can enhance absorption of Puerarin
+
 
 2.2
 
@@ -160,11 +162,15 @@ The kinetics of Puerarin (after 7.5g/kg water extract of the decoction) were a h
 
 It was noted that diglycoside metabolites (two Daidzin diglycosides and one Formononetin) were not detected as Phase II Metabolites.[5]
 
+
 Supplemental dosages of Pueraria Lobata appear to increase circulating levels of isoflavones
+
 
 When mice are fed a consistent diet containing 0.2% Kudzu root (25.3% Puerarin, 7.07% Daidzin, 0.8% Daidzein), serum levels can be detected of Daidzein (208-883nM) and its glycoside Puerarin (4.57-10.44nM), Dihydrodaidzein (65.36-751nM) and the endogenous metabolite Equol (8,286-29,300nM) are also detected as well as Formononetin (143+/-68nM); the range noted in this study was due to serum levels of both obese and lean mice being measured with obese mice eating more overall.[11]
 
+
 It is possible most bioactivity of Pueraria Lobata is vicariously through Daidzein and Equol, which would make its bioactivities markedly similar to dietary soy isoflavones (good source of Daidzein, with benefits somewhat linked to endogenous production of Equol)
+
 
 3.
 
@@ -178,7 +184,9 @@ A study in menopausal women given 100mg of Kudzu isoflavones daily noted that bo
 
 Delayed recall was improved in HRT and not in control, and Kudzu was intermediate to these two conditions yet not significantly different from either.[1] Attention span, Motor speed, and flexible thinking were noted to be increased with Kudzu.[1]
 
+
 May have some cognitive enhancing properties in menopausal women
+
 
 3.2
 
@@ -186,9 +194,12 @@ Menopause
 
 Kudzu has been tested for its interactions with menopausal symptoms using a supplement standardized for 100mg Isoflavones for a period of 3 months, but has failed to demonstrate a reduction of symptoms (although in this study hormone replacement therapy with 0.625mg CEE/5mg MPA also failed, the authors suspected that the low baseline symptoms were to blame).[1]
 
+
 Has once failed to reduce menopausal symptoms
 
+
 It should be noted that the related herb, Pueraria Mirifica, is more commonly touted to be catered to menopause rather than Kudzu
+
 
 4.
 
@@ -230,7 +241,9 @@ In ovariectomized mice given 5-20% of the diet as Pueraria Lobata root for 4 wee
 
 At multiple times, interventions which note improvements in bone mass and serum biomarkers of bone metabolism have failed to find increases of uterine weight (indicative of estrogenicity) either with the Kudzu plant[3] or isolated Puerarin.[13]
 
+
 Appears to increase bone mineral density, although at least one study suggests that this is distinct from estrogenic effects
+
 
 7.
 
@@ -272,7 +285,9 @@ In a study on ovariectomized mice, Pueraria Lobata can induce a dose-dependent a
 
 Puerarin (daidzein-8-C glucoside) up to 100uM does not bind to either subset of the estrogen receptor.[13] As daidzein itself has affinity, it appear the 8C glucoside prevents binding via steric hindrance.[13]
 
+
 In vitro, Pueraria Lobata is estrogenic with affinity for the alpha subset (ERα)
+
 
 In a study assessing the estrogenicity of Pueraria Lobata against three strains of Pueraria Mirifica, 10-1000mg/kg oral ingestion for these herbs resulted in a failure of Kudzu to induce vaginal cornification (indicative of biologically relevant estrogenicity); Pueraria Mirifica as well as injections of estrogen were both successful in inducing vaginal cornification while 1mg/kg Genistein (one of the two soy isoflavones) also failed.[16] In mice given up to 20% the diet as Kuduz for 4 weeks, there was no noticeable increase in uterine weight when compared to control[3] and a lack of uterine/vaginal effects were replicated with 80mg of the herb extract daily in ovarectomized mice.[15]
 
@@ -280,7 +295,9 @@ When investigating breast tissue, oral ingestion of 40-320mg of Pueraria Lobata 
 
 One study has hypothesized that estrogenic effects are localized to adipose (or at least, not female sex organs) as some genetic biomarkers downstream of estrogen activation (downregulation of CD8B and CD79B, upregulation of GPX3 and MUP; estrogen but not Pueraria Lobata influenced Leptin and LCN2) were noted to be upregulated by Pueraria Lobata in the same mice where no uterine effects were noted.[15]
 
+
 A lack of estrogenic effect has been noted on female sex organs including mammary tissue, which is thought to be either due to a lack of estrogenicity overall (and some bioactives merely mimicking it by chance) or localized estrogenicity that does not occur in sex organs
+
 
 10.
 
@@ -316,7 +333,9 @@ The root extract, which is not traditionally used, appears to inhibit the Aldehy
 
 It has been noted in a review[21] that the ALDH inhibitor Disulfiram has been linked to both alcohol aversion (as intended) and euphora from alcohol[29] and cocaine;[30] studies investigating the interactions of Pueraria flos and euphoria from alcohol are lacking.
 
+
 The leaf extract of Kudzu appears to enhance acetaldehyde clearance from the body and possibly aid in the reduction of hangovers (in accordance with traditional claims) while the root extract may confer the opposite effects and increase insensitivity to alcohol by inhibiting the enzyme that degrades acetaldehyde
+
 
 11.2
 
@@ -328,7 +347,9 @@ In activated macrophages, concentration-dependent antiinflammatory effects were 
 
 The combination formula appears to have vasorelaxant properties mediated via potassium channel activation at a concentration of 1-7mg/mL (IC50 value of 895+/-121μg/mL), and coincubation with potassium channel inhibitors reduced the maximal relaxation by 20-37%.[32]
 
+
 Appears to be synergistic in regards to reducing inflammation, and additive in regards to reducing artherogenic formation; both conclusions based on in vitro research currently
+
 
 When these two herbs are combined with the rhizomes of Ligusticum chuanxiong, the resulting product is known as 'TongMai Keli' (not to be confused with Tongkat Ali).[5]
 
@@ -340,5 +361,7 @@ Pueraria labota and Angelicae Dahurica have traditionally been used as a herb-pa
 
 When Puerarin is incubated with either Angelica dahurica basic extract (450μg/mL) or its volatile oils (0.72μl/mL) in vitro with intestinal cells, the absorption of Puerarin is increased 1.7-fold and 3.6-fold respectively; this suggests that Angelica dahurica can enhance the absorption of Puerarin from Pueraria Lobata.[8]
 
+
 Angelica Dahurica may increase the absorption of Puerarin from Pueraria Lobata, and thus enhance bioactivities of any action in the body related to Puerarin
+
 

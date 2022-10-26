@@ -92,7 +92,9 @@ Obesity appears to be associated with increase lipopolysaccharide (LPS) appearan
 
 Lipopolysaccharide binding protein (LBP) is a 60kDa protein that facilitates signalling by transporting LPS to the CD14 receptor, a coreceptor that responds to LPS as well as TLR4 (and MD2); concentrations of LBP correlate with LPS and it is sometimes used as a biomarker[8][9] and LBP has been further shown in humans to positively correlate with both obesity and insulin resistance.[8][9][10]
 
+
 Lipopolysaccharide (LPS) and its binding protein (LPS binding protein or LBP) are increased in the blood of obese persons relative to lean controls, and as they are produced by gram negative bacteria in the gut it is thought that this increase is due to increased gut permeability. LPS has proinflammatory mechanisms to promote obesity and insulin resistance
+
 
 3.
 
@@ -148,7 +150,9 @@ Endurance athletes supplemented with L. casei Shirota (6.5x109 CFU delivered via
 
 Another study using L. casei strain DN-114 001 (dose not specified) for close to 4 weeks in military cadets undergoing extreme training found no significant effects on rate or severity of respiratory infections overall. A statistically insignificant higher incidence of nasal symptoms occurred in the supplemented group and lower incidence of symptoms occurred throughout the rest of respiratory tract (again statistically insignificant). The authors argue that this may indicate that the probiotics helped confine respiratory infections to the nasal area.[12]
 
+
 One study has found that L. casei supplementation may lessen the chance of upper respiratory tract infection symptoms while training during the winter months. Length and severity of symptoms was not affected, however. Another study in military cadets found no overall effect, though.
+
 
 4.
 
@@ -184,5 +188,7 @@ Vagina
 
 The lactobacillus species of bacteria appears to frequently colonize vaginal mucosa (mostly the species gasseri, jensenii, iners, and crispatus[22][23]), of which casei is present in some samples.[24] A vaginal state characterized by a deficiency of lactobacillus bacteri (in general rather than a specific strain) appears to be associated with increased risk for bacterial vaginosis[25] and may promote the transmission of sexually transmitted infections (STIs) relative to a sufficient state.[26][27][24]
 
+
 Lactobacillus casei is one of the many species present in vaginal mucosa, but the relevance of this information to oral supplementation of the bacteria is not known
+
 

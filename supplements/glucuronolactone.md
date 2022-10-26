@@ -60,11 +60,15 @@ In vitro, D-glucuronolactone can be metabolized by a dehydrogenase into D-Glucar
 
 D-Glucaric acid is the main urinary metabolite of the glucuronic acid pathway,[4][5] which synthesizes Glucuronic Acid for the purposes of conjugation by drug metabolizing enzymes (UGT transferases). Daily urine output of D-Glucaric Acid is approximately 30-100umol.[6][7]
 
+
 Glucuronolactone is a prodrug for the compound D-Glucaro-1,4-Lactone
+
 
 In animals (non-primapes) that are capable of synthesizing ascorbic acid (Vitamin C) endogenously, glucuronolactone is used as a pre-requisite for ascorbic acid.[8]
 
+
 Can be used to synthesize Vitamin C in creatures capable of this conversion, which are not humans
+
 
 1.3
 

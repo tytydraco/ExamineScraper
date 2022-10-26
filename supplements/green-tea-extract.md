@@ -346,7 +346,9 @@ A combination of green tea catechins and L-theanine called LGNC-07 has been inve
 
 The mechanism of action of this combination, as seen in animal models, may be through acetylcholinesterase inhibition.[3] The combination was more potent at alleviating toxin-induced memory loss than either compound in isolation.
 
+
 LGNC-07 is a 6:1 standardized ratio of green tea catechins with L-theanine investigated for cognitive effects
+
 
 2.
 
@@ -358,7 +360,9 @@ Catechol-O-Methyltransferase (COMT)
 
 COMT is an enzyme that is able to methylate and (usually) inactivate a few compounds, including green tea catechins and adrenaline/dopamine (monoamines) and L-DOPA.[4] It exists in a cytosolic soluble form as well as a membrane-bound form, with the former being fairly distributed in the body; as assessed by erythrocyte COMT levels, rats may have more active COMT than humans,[5] as assessed by species differences in COMT inhibiting drugs.[6][7]
 
+
 COMT is an enzyme that aims to inactivate several molecules in the body, in order to prevent their excessive elevation
+
 
 All four green tea catechins appear to be a substrate for this enzyme, being methylated in the presence of incubated COMT.[8][9][10] At 1uM EGCG, it rapidly undergoes methylation and may be methylated once again to 4′,4"-dimethylEGCG, which is a slower methylation and its production can be greatly reduced with higher concentrations (3uM or more) of EGCG, the preferred substrate.[5]
 
@@ -366,7 +370,9 @@ Interestingly, catechins also appear to inhibit COMT as well as act as substrate
 
 The inhibition is mixed-type in regards to EGCG and noncompetitive in regards to methylated derivatives.[5] In particular, EGCG that is twice methylated appears to compete with S-adenosyl methionine (SAMe) for binding to COMT,[12] which is a product required for methylation of COMT subtrates (as SAMe donates the methyl group).[14]
 
+
 Green tea catechins, particularly EGCG, appear to be both subject to being inactivated by COMT, but the catechins and their supposed inactivated forms can inhibit the enzyme from acting further
+
 
 It has been hypothesized that inhibition of COMT by EGCG, which theoretically would lead to an increase of adrenaline, may underly fat burning effects of green tea. This is due to persons with a low-active genotype of COMT being highly associated with higher serum adrenaline levels at rest and exercise.[15]
 
@@ -380,7 +386,9 @@ NAPDH Oxidase
 
 One study that noted suppression of oxygen radical release from HUVEC cells in vitro in response to oxidation (overall, an ant-oxidative effect) noted that this may have been due to NADPH Oxidase inhibition similar to Spirulina.[13] Essentially non-existent inhibition was seen with the base catechin and epicatechin molecules, but methylated metabolites (via COMT) had inhibitory values (IC50) of 15.1+/-4.1uM.[13] Other molecules tested that had inhibitory capacities on NAPDH oxidase were EGCG at 3.5+/-1.1uM, Procyanidin B2 (from Grape Seed Extract) at 3.8+/-0.8uM, various Quercetin derivatives (ranging from 4.6-12uM) and Resveratrol at 16.0+/-4.7uM.[13] Vitamin C, Trolox, and Aspirin were inactive.
 
+
 NADPH oxidase inhibition can result in both antiinflammatory and antioxidative effects in a manner not related to the catechins directly scavenging free radicals
+
 
 2.3
 
@@ -400,7 +408,9 @@ Intestinal uptake (bioavailability) of green tea catechins is low, ranging from 
 
 There is also a relatively large degree of immediate efflux due to rapid metabolism by glucuronidation enzymes (UGTs) contributing to this low bioavailability (mice),[29] and inhibiting these enzymes with piperine (from black pepper) appears to increase absorption of EGCG;[23] while an increase in bioavailability was not calculated in this study, both AUC (20-30%) and Cmax (10%)are increased while fecal EGCG indicative of malabsorption decreased to half or less.[23]
 
+
 Green tea catechins, notably EGCG, seem to be poorly absorbed in the intestines mostly due to there not being a transporter that takes them up from the gut into the body. They are better absorbed on an empty stomach. Absorption might be able to be increased with piperine, but studies need to be conducted in rats or humans (since the animals used, mice, show interspecies differences when compared to humans)
+
 
 Green Tea Catechins, primarily EGCG, are inhibitors of intestinal sulfurotransferase enzymes which may metabolize other supplements or drugs.[30] This property is shared with flavonoids found in green tea like Quercetin.[30] The inhibitory potential on this enzyme can also extend to the colon, and exert anti-carcinogenic effects on colonic tumor cells via inhibiting the metabolism of some procarcinogens.[31]
 
@@ -418,7 +428,9 @@ Free EGC and EC are not detectable, as they exist as conjugated metabolites,[33]
 
 These amounts are the same whether green tea is administered as a pill or via decaffeinated tea. [33] The EC, EGC, and ECG do not affect (beneficially or adversely) the serum pharmacokinetics of EGCG, as assessed by EGCG versus mixed green tea catechins.[39][40]
 
+
 Results show high variability, but suggest that there is a dose-dependent increase in circulating levels of EGCG. There seems to be a tipping point at around 800mg, where the amount in the blood then increases more dramatically. Very high doses of EGCG in the blood are associated with nausea.
+
 
 3.3
 
@@ -464,7 +476,9 @@ EGCG, when administed I.V to rats 60 minutes prior to a learning event (passive 
 
 Mechanistically, 5-40uM of EGCG has been shown to augment proliferation of adult neural progenitor cells (NPCs) in vitro, although these concentrations were unable to induce differentiation with higher (80uM) concentrations still augmenting proliferation but actively inhibiting differentiation.[50] This was seen in vivo with 10-20mg/kg injections of EGCG in old rats.[50] An additional mechanism may be acetylcholinesterase inhibition, as less activity was noted in the brains of aged rats fed green tea catechins.[49] 
 
+
 Green tea might be beneficial for cognition
+
 
 4.2
 
@@ -494,7 +508,9 @@ Supplementation of Green Tea Catechins has been found to reliably increase the p
 
 When comparing the potency of green tea against other forms of tea it was noted to outperform barley, Eucommia ulmoides, and Gymnema sylvestre.[55]
 
+
 Ingestion of high levels of green tea catechins seem to be able to reduce LDL oxidation, a factor in atherosclerosis, by nestling on the LDL particles and directly sequestering the radicals nearby
+
 
 5.2
 
@@ -522,11 +538,15 @@ When taken alongside sucrose, black tea (containing Green Tea Catechins) at 110-
 
 When assessing how the catechins affect insulin after a meal in regards to COMT, whether the subject had a higher active or lower active COMT did not appear to matter when it came to elevations in insulin after a test meal.[71]
 
+
 When investigating how green tea catechins affect insulin and glucose acutely (one dose taken alongside carbohydrates) it does not look like they have much benefit after a single dose.
+
 
 When assessing studies using Green Tea Catechins in overweight and obese individuals who do not have type II diabetes, it was found that there was overall no effect of 843mg EGCG on fasting insulin levels after one year[72] although this may be due to differences in efficacy based on insulin level going into the study as, it was found, benefits may exist in subjects with a fasting insulin level exceeding 10 μIU/mL with no efficacy in subjects with lower insulin concentrations.[73] When assessing type II diabetics, green tea extract (500mg; 57% EGCG) appeared to show some benefit to insulin concentrations (although the decrease was not significantly different than placebo) with benefit to insulin resistance.[74]
 
+
 While it is possible that some subjects with high fasting insulin concentrations may see benefit to green tea supplementation, overall it seems like there is not a major appreciable benefit in reducing insulin levels.
+
 
 6.2
 
@@ -534,13 +554,17 @@ Insulin Sensitivity
 
 Studies assessing Green Tea Catechins and insulin sensitivity have found in non-diabetic individuals no significant differences from placebo with both 300mg EGCG,[75] a nonsignificant trend towards improved insulin sensitivity in overweight women (960mL brewed; estimated 32.21mg EGCG),[76] and no effect with 500mg green tea extract (57% EGCG).[74] This seems to carry on with type II diabetics where no noticeable difference is seen across the entire group despite some responders[77] and in borderline diabetics/diabetics where 456mg catechins for two months showed a trend towards improving insulin sensitivity.[78]
 
+
 When assessing human studies where green tea (in various forms) is given to either non-diabetic or diabetic subjects, supplementation does not appear to be associated with significant improvements in insulin sensitivity when compared to placebo.
+
 
 COMT is an enzyme that, despite being considered the 'main' mechanism of how green tea catechins exert their effects, is present in the pancreas[79] and implicated in regulation of blood glucose. It has been noted to be suppressed in instances of diabetes in rodents due to high blood glucose[80] and high active COMT (G/G homozygous) seems to be more associated with insulin resistance and type II diabetes when compared to the lower active COMT enzymes (G/A heterozygous and A/A homozygous).[81] 
 
 When looking at how the genotype interacts with Green Tea Catechins, it has been noted that postmenopausal women with COMT (G/G) see an increase in fasting insulin concentrations and reductions in adiponectin (a hormone from body fat that sensitizes the body to insulin[82]) although these changes did not result in a statistically significant increase in insulin resistance despite trending.[73] 
 
+
 Inhibition of COMT in people with the high active variation of this enzyme shows trends to actually worsen insulin sensitivity, and may be a reason why there are differing levels of response to green tea and insulin/insulin sensitivity
+
 
 6.3
 
@@ -562,7 +586,9 @@ Green tea affects thermogenesis via synergistically acting in concert with its c
 
 In studies with beta-adrenergic antagonists (beta-blockers) fat burning effects of green tea are reduced partially, suggesting that green tea exerts fat-burning effects via beta-adrenergic agonism and other means as well.[87]
 
+
 Green tea can augment other fat burning compounds, usually through COMT inhibition. This does apply to endogenously produced adrenaline, so green tea taken in isolation could augment adrenaline's ability to increase the metabolic rate
+
 
 7.2
 
@@ -594,7 +620,9 @@ When taken with a meal, there seems to be no changes in overall metabolic rate f
 
 Higher dosages of green tea (945mg) are able to increase fat oxidation and oxygen consumption during exercise however,[109] and may be through forcing systemic reactions.
 
+
 Overall, green tea seems to be a very good fat loss agent, either in low doses through consumption of green tea (as a tea) or in high supplemental dosages. Low doses via tea have a large safety threshold, and superloading in supplemental form seems to be safe in isolation, although nausea is reported with combining high doses of green tea with other stimulants
+
 
 8.
 
@@ -608,11 +636,15 @@ As the primary green tea catechin, EGCG, is known to inhibit COMT and may lead t
 
 When assessing Green Tea Catechins and their interactions with exercise over the short term, two days supplementation of a high dose extract (1,000 mg in three divided doses; 45% EGCG) failed to influence overall energy expenditure or substrate utilization at rest or during exercise when taken an hour before exercise[112] with another study that the increase in fat oxidation observed (during rest) with four weeks supplementation of 1,136 mg catechins (45% EGCG) disappeared during moderate exercise.[113] This is not to say the catechins are without any effect as one study, despite not finding any increase in fat oxidation, did note an increase in plasma glycerol and fatty acids during both exercise and rest[114] suggesting an increase in the rate of lipolysis.
 
+
 Generally speaking, studies using green tea in order to increase the rate of fat oxidation (percentage of energy derived from fatty acids rather than other sources such as carbohydrate) fail to find a significant effect of supplementation
+
 
 When assessing studies using green tea paired with fasted training (no food prior to exercise), in both men supplementing green tea for 12 weeks prior to testing (250mg thrice daily; 125mg EGCG and 20mg caffeine)[115] and women using this dose for one day[116] before taking a final dose in the morning before training have found increases in fat oxidation relative to placebo both during exercise and up to 75 minutes after exercise. 
 
+
 Some studies have found an increase in fat oxidation rates associated with green tea and exercise, both studies utilizing the fasted (unfed) state with exercise
+
 
 8.2
 
@@ -622,7 +654,9 @@ Green tea has been shown in mice to be able to enhance time to exhaustion during
 
 When tested in non-athletic but otherwise healthy adult men, 570mg of green tea catechins (stated 6-7 cups of tea equivalence, providing 218.4mg EGCG and 15mg caffeine; caffeine at a similar level in placebo) was able to increase the subjects aerobic endurance.[111] Specifically increasing their ventrical threshold (VT) when paired with 8 weeks of cycling when placebo saw no change; neither group saw a change in VO2 max nor body composition.[111]
 
+
 Green tea may have some mild benefits to aerobic capacity when given to sedentary or light active individuals. It is not yet tested whether this effect persists in heavily trained individuals.
+
 
 9.
 
@@ -636,7 +670,9 @@ When tested in vitro, a combination of green tea catechins with another herb kno
 
 Studies assessing the effects of green tea alone in mouthwash[122] and in dentrifices[123] have found beneficial effects in instances of periodontitis attributed to the antioxidative effects, with the dentrifices outperforming fluoride-triclosan and the mouthwash reporting an 8-fold increase of antioxidative capacity of the gingival crevicular fluid (to assess local antioxidant effects) when compared to control.
 
+
 Green tea, when incorporated into mouthwash or anything else providing exposure to the gums, seems to have anti-microbial effects that may be beneficial to dental diseases. While not too much information is available to assess overall potency this does appear to be a relevant benefit
+
 
 9.2
 
@@ -646,7 +682,9 @@ Bone mineral density in postmenopausal women seems to be related to overall body
 
 In a 12 month study involving postmenopausal women taking either Green Tea Extract (843mg EGCG) or placebo, supplementation failed to significantly influence bone mineral density.[72]
 
+
 Green tea consumption, when taken by postmenopausal women for a year, may not have a rehabilitative effect on bone mass. It is uncertain if lifelong green tea consumption is a protective factor.
+
 
 10.
 
@@ -660,7 +698,9 @@ Natural Killer (NK) cells are an immune cell which, beyond preventing sickness, 
 
 A metabolite of EGCG, 5-(3',5'-dihydroxyphenyl)-γ-valerolactone (EGC-M5, most predominant metabolite in urine[130][37]) appears to enhance the activity of CD4+ T cells, increased the cytotoxicity of Natural Killer (NK) cells, and increased IFN-γ production from splenocytes (10-50 μM; stimulated by PHA) without affecting IL-2 secretion;[131] these effects were seen in rats given EGC-M5 where NK activity, but not overall amount of NK cells, seemed to be enhanced.[131]
 
+
 EGCG, potentially through a metabolite, seems to be able to enhance the activity of NK cells when given to rodents.
+
 
 10.2
 
@@ -668,7 +708,9 @@ Mast Cells
 
 EGCG has been found to inhibit the enzyme known as NADPH oxidase in mast cells in vitro, and hindered mast cell degranulation (induced by compound 48/80) between 10-100 μg/mL.[132] This function seems to occur with most catechins but is stronger with the gallated forms[133] (even more-so when methylated[134]) and, while it reduces granulation of mast cells when intracellular oxidation is low it seems to exacerbate it in vitro when oxidation is already high prior to the introduction of EGCG.[133]
 
+
 Due to its interactions with NADPH oxidase, EGCG seems to interact with mast cells. It is uncertain if there is a practical interaction when it comes to allergic reactions with supplementation.
+
 
 11.
 
@@ -684,7 +726,9 @@ One study in rats suggest dosages of 1.25-5% green tea catechins in the diet (eq
 
 Green tea's EGCG can also inhibit 5-alpha reductase in cell free cultures, but fails to do so in whole-cell cultures; its biological significance is questionable.[140][141] The 5-AR enzyme is responsible for the conversion of testosterone to DHT, a more potent androgen.
 
+
 There is no consensus on what green tea does when paired with testosterone. It seems to have the ability to increase and decrease testosterone depending on mechanism and concentration, but only one rat study exists for in vivo evidence.
+
 
 12.
 
@@ -716,13 +760,17 @@ Green tea consumption (via tea, over a lifespan) is associated with a decreased 
 
 Other large-scale epidemiological research proves somewhat inconsistent, with some results showing benefit[149][150] and others null.[151][152] In regards to association, green tea appears to either exert a relatively small effect or the results are confounded by lifestyle.
 
+
 It is possible green tea has some benefits to liver functioning but, overall, there isn't convincing evidence that this effect is strong enough to be called a 'liver health' supplement
+
 
 800mg EGCG daily, for four weeks, does not result in modifications to CYP2D6, CYP2C9, CYP1A2 but may result in a decrease in CYP3A4 activity.[153] A lower dose of EGCG (504mg, divided into two doses) is not associated with this decrease in CYP3A4 activity and still does not influence CYP2D6,[154] although this study did not have sufficient statistical power to assess small changes.
 
 CYP1A induction is sometimes seen in animal models with green tea[155][156], but may be due to the confounder of caffeine which may induce CYP1A activity in the liver[157][158], as mentioned in discussion[153] this is not seen when studies use decaffeinated PolyPhenon-E (95% EGCG).
 
+
 It is possible that green tea can influence the activity of some CYP enzymes (predominately expressed in the liver)
+
 
 14.
 
@@ -764,7 +812,9 @@ Green tea catechins have been associated with up to 6% increases in lifespan in 
 
 One animal intervention, which administered green tea beginning at 4 months of age and continuing until death at a dose of 2g/kg food, did not significantly influence time of death; although it seemed to suppress midlife death rates in females.[110]
 
+
 Longevity is always an iffy topic to approach from a research angle. Green tea looks to be one of the more promising agents, but further study is needed
+
 
 16.
 
@@ -780,13 +830,17 @@ When placed in SEB-1 sebum cells, EGCG is able to reduce lipid accumulation by 5
 
 The inhibition of p. acnes by EGCG appears to increase in a concentration-dependent[176] and appears to reduce p. acnes-induced inflammation as assessed by IL-8 production and TLR2 expression in monocytes.[178]
 
+
 EGCG seems to have strong beneficial effects on the major factors that promote acne in vitro through multiple mechanisms
+
 
 An 8-week split face study investigating adult men and women using either a 1% or 5% EGCG against control (3% ethanol) showed rather powerful effects, reducing the Leeds score from a baseline value of 5.1+/-0.4 down to 1.2+/-0.4 (1% EGCG) or 1.7+/-0.6; the lesion counts also decreased by 79% and 89% (noninflammatory and inflammatory lesions respectively) with both groups of EGCG performing equally to each other and greater than control.[176] These benefits have been replicated, although to less potent degrees with a 2% green tea solution reducing lesions by 58.33% over six weeks,[179] 2% reducing open-comedos (blackheads) 61% and pustules 28% (with no effect on whiteheads) over 8 weeks,[178] and a 3% green tea solution reducing sebum-production in men in a time dependent manner over eight weeks (eventually exceeding more than a 50% reduction).[177] One single blinded study performed a comparative analysis and suggested that 2% green tea extract, when applied topically, outperformed 5% zinc sulphate over eight weeks.[180]
 
 When 1,500mg of Green Tea Catechins (856mg EGCG providing no caffeine) is taken orally by adult women with acne for four weeks supplementation appears to be associated with reduced acne overall when the subjects were compared to themselves four weeks prior. However, when they were compared against placebo there were only benefits along the nose and below (chin and perioral region) without any significant differences in total facial acne.[181]
 
+
 Application of green tea solutions or EGCG alone appear to have repeated benefits shown to acne, with concentrations between 1-5% EGCG not behaving too differently (suggesting a 'cap' to its benefits) and 2-3% green tea solutions working well and in a time-dependent manner. When looking at oral ingestion of green tea products and supplements the benefits become more mild and, at times, not statistically significant.
+
 
 Some studies assess the effects of green tea products and supplements on skin in subjects who do not have instances of acne. One such study assessed the effects of green tea infused with milk (exact catechin dose not disclosed) found minor improvements in facial erythema with no significant changes in skin elasticity, moisture, wrinkles, or melanin index.[182]
 
@@ -816,7 +870,9 @@ Green tea catechins, via inhibition of the COMT enzyme[186], can increase the ha
 
 However, caffeine may also be indirectly inhibitory of green tea catechins. Habitual caffeine users (defined as over 300mg daily) tend to show less overall fat loss over time relative to non-habitual (>300mg daily) users.[44][191][187] This difference, in some studies, has been the line between weight management and weight regain[102] or prevented weight loss otherwise.[192]
 
+
 Caffeine and ephedrine are the fat burners, while green tea catechins enable them to work more effectively. Most fat burning is through those two compounds, and becoming adapted to them may reduce overall effectiveness.
+
 
 17.4
 
@@ -840,7 +896,9 @@ Whether inhibition of these enzymes translates to clinical effects in humans has
 
 Green tea has also been implicated in reducing the activities of gastric and pancreatic lipase, suggesting it may play a role as a fat blocker as well.[204][205][206][207] These mechanisms are statistically significant, but not overly potent in vivo as it seems to hit a certain max inhibition, whereas its effects on reducing cholesterol uptake are dose dependent.[208][209] Green tea at a dose of 0.5-1% of the diet increased the total percent of dietary fat lost in the feces (rats) from 3.5 (control) to 4.6-5.8%.[209]
 
+
 Green tea has mechanisms to cause malabsorption of all macronutrients, but this only seems to be a relevant concern for dietary carbohydrates. Protein inhibition is hindered by saliva enzymes, and fat inhibition just doesn't seem to be relevant in humans.
+
 
 17.6
 
@@ -918,7 +976,9 @@ Quercetin can also inhibit Multidrug Resistance Proteins[234], which can efflux 
 
 In regards to general anti-oxidative potential, green tea shows synergism with various herbs (Vitus Vinnifera, Ginkgo Biloba, etc.) that have Quercetin as a main polyphenol.[237]
 
+
 Supplemental Quercetin, or foods that are very high in quercetin content (onions and leeks), are synergistic if consumed at meals with green tea.
+
 
 17.16
 
@@ -942,7 +1002,9 @@ Whey Protein
 
 A study using Whey Protein concentrate at 3ug/mL alongside green tea catechins (brand name Healthya  used) lowered green tea's ace inhibitory potential from 56.9+/-3.2% to 34.9+/-9.8%.[221] These effects were replicated in a rat model of spontaneous hypertension, where systolic blood pressure was decreased to approximately 80% of baseline with the introduction of green tea polyphenols while not being significantly lowered when both Whey and polyphenols are coingested.[221] The peptide in question that appears to adversely interact with green tea polyphenols is the Val-Pro-Pro tripeptide.[221]
 
+
 The amounts used in this study are beyond food level, but higher concentrations of green tea catechins were demonstrated to interact poorly with whey proteins
+
 
 17.19
 
@@ -976,7 +1038,9 @@ In investigating toxicity of green tea in animals, administration of either Teav
 
 In the beagle dogs, toxicity to the liver was confirmed with elevated ALT and with female dogs suffering liver necrosis;[246] other studies injecting green tea extract (150mg/kg) also note increases in ALT and liver toxicity with excessive dosages.[247] Proximal tubule necrosis (kidneys) was noted at the oral doses in dogs.
 
+
 Excessive levels of green tea catechins (mostly EGCG) have been confirmed for toxicity, mostly in the intestines, stomach, and liver with excessive levels in the blood possibly damaging the kidneys as well. Nausea from green tea supplements is not inherently linked to stomach damage
+
 
 18.3
 

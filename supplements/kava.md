@@ -150,7 +150,9 @@ It is an anxiety reducing agent (anxiolytic) with potency rivaling some pharmace
 
 It is infrequently called Herbal Ecstasy, which given its properties is quite an inaccurate comparison.
 
+
 Traditionally used herb, typically drunk, that originated in the tropics. Has been used as a hypnotic, sedative, and anxiety reducing agent in manners (and effects) similar to modern usage of alcohol
+
 
 1.2
 
@@ -162,7 +164,9 @@ A collection of 6 bioactives known as kavalactones or kavapyrones (kavain, dihyd
 
 Higher levels of the aforementioned alkalones such as pipermethylstine[10] which appear to be more hepatotoxic than kavalactones[11]Despite the rough ratio of the 6 primary kavalactones to total lactones, the actual lactone content of the root can vary from 3-20% by weight[1] and their effects in vitro, if not standardized prior, can vary dramatically due to varying contents of the above molecules.[8] Standarization of the sources and lactone content would be prudent to increase reliability.
 
+
 When assessing Kava supplements, the rhizome (vertical root) may be safer than having a supplement made of aerial parts or stems
+
 
 1.3
 
@@ -186,7 +190,9 @@ Brain
 
 After injection of Kava, the four compounds kawain and dihydrokawain as well as yangonin and desmethoxyyangonin (four of the kavalactones) readily and easily cross the blood brain barrier, as assessed by anxiolytic effects seen less than 10 minutes after injection in rats;[12] oral ingestion of Kava at 120mg/kg demonstrates accumulation in brain tissue and seemingly at higher levels relative to injections.[13] Accumulation in the brain occurs approximately 45 minutes after ingestion,[13] After oral ingestion in humans significant psychoactive effects are seen within one hour.[14]
 
+
 Kavalactones readily cross the blood brain barrier and after oral ingestion can exert effects in under an hour
+
 
 2.2
 
@@ -224,7 +230,9 @@ Isolated Kawain, however, has been implicated in decreasing levels of dopamine t
 
 When looking at the receptors, methanolic extracts of the leaf and the root (the latter of which is seen as the desirable supplement source) both show inhibition of dopamine D2 receptors, but with IC50 values ranging from 1-100mcg/mL.[22] Along these lines, some case studies have been reported where the clinical signs of dopamine antagonism exist after Kava ingestion.[4]
 
+
 The variable content of active kavalactones based on source paired with seemingly opposing effects of some kavalactones make the effects of Kava on dopamine quite unpredictable, although a case can be made for both sides
+
 
 3.4
 
@@ -244,7 +252,9 @@ Cognition
 
 In a sample of 20 healthy persons (split gender), 300mg Kava that was standardized to 90mg Kavapyrones was able to improve reaction time as assessed by Sternberg item recognition task, reducing reaction time from 2090.5+/-141.81 milliseconds to 1265.29+/-72.05 milliseconds (60% of baseline) with a slight increase in the amount of correct recognitions.[14] Correct recognitions as assessed by Sperling partial report test were also significantly increased while incorrect asssessments were decreased, with no effect on omissions.[14] Improved reaction time was seen in another acute study following 120mg LI 150 extract (30% kavapyrones) but was not significantly different than the improvement in placebo from stress and not different from Valerian at 600mg.[24]
 
+
 Some small studies suggest it improves reaction speed and improves quality of processing during the speed enhancement, but the possibility of this being secondary to a reduction in stress cannot be ruled out
+
 
 In a test of word recollection, the WS 1490 extract of Kava has shown efficacy in improving performance and acute recollection more than placebo.[25]
 
@@ -266,7 +276,9 @@ In regards to potency, at least one study has noted that Kava (specifically, the
 
 Studies that come back negative report that 150mg kavalactones in an aqueous extract (paired with St.Johns Wort) was effective at reducing depression but with no significant influence on anxiety[30] and one study that found no differences between Kava and placebo in DSM-IV diagnosed Generalized Anxiety disorder, and no significant differences between Kava and Venlafaxine (active control).[31] One study using an internet-based approach (mailing supplements, report results online) with a rather large sample of 1551 found Kava and placebo to be equally effective in reducing anxiety.[32]
 
+
 For the most part, it appears to be quite potent and reliable in reducing anxiety when used at around the dose of 250-300mg WS 1490 (an extract with a high percentage kavalactones) and able to reduce other adverse effects of anxiety (depression, impaired sleep) through the anxiety reduction
+
 
 4.
 
@@ -306,7 +318,9 @@ Kava is sometimes paired with alcohol in traditional usage (Australian Aborigine
 
 When paired with alcohol, Kava WS 1490 extract at 300mg (70% kavalactones) demonstrated no negative (acute) multiplicative effects of the combination, yet increase concentration.[37] Another study found that Kava (lipid soluble fragment) was able to amplify the negative effects of alcohol, and increase the state of drunk[38] and hypnosedative effects of both compounds appear to be synergistic.[39] However, the risk of liver damage from Kava may be increased when combining.[39]
 
+
 It appears the water-soluble fragment may take the edge off alcohol and improve concentration, while the lipid-soluble fragment can exacerbate drunkedness; minimal studies on both sides though, and the risk for liver toxicity needs to be taken into account
+
 
 6.3
 
@@ -348,21 +362,28 @@ Kava has been implicated in being a hepatotoxin (toxic to the liver) and has bee
 
 These case studies appear to be idiosyncratic (immune system mediated)[9][43] and out of 78 case studies assessed in this review[43] 23 were potentially linked to Kava intake with coingested compounds while another 4 are probably linked to the isolated kavalactones.
 
+
 Many reported adverse events, but a few of them do appear to be related to either Kava itself (and some unforeseen prior condition to the person's liver) or the combination of Kava with something else; causation has not been placed, but it would be prudent to assume a link for now
+
 
 When looking at animal studies, the ethanolic extract at doses of up to 73mg/kg bodyweight for 6 months has failed to exert any toxic effects[47] and 500mg/kg of isolated lactones (aqueous extract) in rats for 4 weeks caused no abnormalities in liver enzymes.[48] Hepatocellular hypertrophy (enlarged liver cells) has been see with 2g/kg bodyweight, elevated γ-glutamyltransferase after 1g/kg bodyweight, and no adverse effects with 0.25g/kg bodyweight of kava lactones for 14 weeks.[7] Combining the results of these animal trials, it appears the longer periods combined with the higher doses may be needed for liver damage, although due to the idiosyncratic nature of the case studies the above may only be 'general' toxicological information and not predictive of the case studies.
 
 When establishing an LD50 for Kavalactones, it was found to be approximately 300-400mg/kg daily.[1]
 
+
 Animal studies suggest Kava usage is quite safe, and liver growth (but not failure) can only be induced by very high doses of Kava. However, the mechanisms seen in human case studies differ from animal models and the two may be unrelated
+
 
 All current human trials using Kava (the majority using the WS 1490 extract, and most under 4 weeks in length) have no reported significant adverse effects from Kava supplements, suggesting a range of safe usage of Kava (with dosages around 200-300mg of kavalactones via concentrated extracts). It should be noted that these studies tend to control for co-ingested drugs via inclusion criteria.
 
 Studies in humans consuming Kava the traditional way note that Kava intoxication (a state of drunkedness like alcohol but reportedly without aggression and higher levels of happiness[35] associated with consuming 205g kava powder, approximately 140 to 150-fold higher than a clinical dose[1][34]) note increased liver enzymes (gamma glutamyl transferase, alkaline phosphatase) alongside saccadic dysmetria, saccadic slowing, and reduced accuracy performing a visual search task.[33][34][49] Prolonged usage of Kava was associated with lower body weight and depressed immune markers, similar to those seen in alcoholics.[33][34]
 
+
 No controlled human trial has noted liver toxicity with Kava in isolation when used at moderate dosages, although not too many assess liver enzymes while most assess clinical signs of liver toxicity. Overdosing on Kava gives clinical effects similar to alcohol intoxication, and seems to give some liver damage as well
 
+
 It appears to be safe if taken within the demonstrated limits of human interventions (ie. 200-300mg WS 1490 or LI 150 extracts taken for periods not to exceed 2 months). Conclusions about safety beyond those limits cannot conclusively be made
+
 
 8.2
 
@@ -372,7 +393,9 @@ Skin
 
 Modern usage of Kava, resulting in Kava dermopathy, has been seen with usage of 400mg isolated kavapyrones daily[53] and has been reported in some case studies.[50] All cases appear reversible upon cessation of Kava.
 
+
 Appears to be a concern with high doses of Kava taken for prolonged periods of time, but is reversible upon cessation
+
 
 8.3
 

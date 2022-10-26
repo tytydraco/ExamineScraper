@@ -150,7 +150,9 @@ Carnosine, the active metabolite of beta-alanine, is most abundant in skeletal m
 
 Carnosine and beta-alanine being most abundant in skeletal muscle, they are most abundant in meat products, such as:
 
-Beef: 1,500 μg[6] or 1,745-1,961 μg[7] per gram of meatPork: 2,439±13 μg[7] per gram of meatPoultry: 666±9 μg per gram of meat (with thrice as much anserine as carnosine)[7]Chicken broth[6]Fish[8]Meat is the main dietary source of carnosine and beta-alanine. Levels of both are correlated with the amount of metabolic activity the animal underwent during its life, and are higher in landbound animals than in poultry.
+Beef: 1,500 μg[6] or 1,745-1,961 μg[7] per gram of meatPork: 2,439±13 μg[7] per gram of meatPoultry: 666±9 μg per gram of meat (with thrice as much anserine as carnosine)[7]Chicken broth[6]Fish[8]
+Meat is the main dietary source of carnosine and beta-alanine. Levels of both are correlated with the amount of metabolic activity the animal underwent during its life, and are higher in landbound animals than in poultry.
+
 
 1.2
 
@@ -158,17 +160,23 @@ Synthesis De Novo
 
 Beta-alanine is converted into the dipeptide carnosine (beta-alanyl-L-histidine) via the addition of a histidine (L-histidine) amino acid group. Carnosine synthase, the enzyme responsible for this transformation, was later identified as ATP-Grasp Domain-containing protein 1.[9] ATPGD1 is expressed highly in skeletal muscle and to a lesser extent in the brain.[10] Carnosine is abundant in skeletal muscle, but can also be found in the brain and the cardiac muscle. Its foremost role is to maintain the acid base equilibrium (buffering H+ ions), but it can also sensitize contractile muscles to calcium[11] and is neuroprotective (a potential treatment for autism[12]), anti-aging,[13] antioxidant,[14] and protective against glycation.[15]
 
+
 Carnosine is synthesized from beta-alanine via the ATPGD1 enzyme, which is locally expressed in skeletal muscle and the brain.
+
 
 Carnosine cannot enter muscle cells to a significant extent,[16] but its two substrates can. The synthesis or intake of beta-alanine, not histidine, is the rate-limiting step in carnosine synthesis in vivo.[17] Beta-alanine is synthesized in the liver[18] then transported to muscle cells, where carnosine is in turn synthesized (and stored, in type II more than in type I muscle fibers). 
 
 Since ATPGD1 is expressed highly in skeletal muscle, and since the availability of beta-alanine is the limiting factor in carnosine synthesis, beta-alanine supplementation is highly effective at increasing muscle carnosine stores.[19][20] Beta-alanine increases muscle carnosine stores to a greater degree than the same oral dose of carnosine (with the difference becoming nonsignificant with increasing carnosine dose). This may be due to a higher percentage of ingested beta-alanine being devoted to skeletal muscle,[21] as compared to ingested carnosine. Ingested carnosine cannot enter muscles cells to a significant extent,[16] but it can be hydrolyzed in vivo into its two substrates, beta-alanine and histidine, which can enter muscles cells and there serve to synthesize carnosine.
 
+
 Beta-alanine is created in the liver and excreted into the serum, where it can be taken up by tissues expressing the ATPGD1 enzyme to create carnosine. Since beta-alanine availability is the limiting factor in carnosine synthesis, beta-alanine supplementation increases carnosine synthesis in these tissues.
+
 
 Ingested carnosine is hydrolyzed into its two substrates, beta-alanine and histidine, via two different carnosinase enzymes, CN1 and CN2.[22] The CN1 protein is specific to carnosine and found mostly in the serum, while CN1 mRNA is expressed mostly in the brain and liver. It should be noted that interspecies differences exist: While CN1 can be found in the aforementioned areas in humans (with a lack of circulating carnosine as the result), it concentrates in the kidneys of rodents.[23] CN2, a non-specific dipeptidase present in the cytosol of cells, is fairly prominent but only hydrolyzes carnosine at a pH of 9.5 (which suggests that it regulates excess carnosine).[22]
 
+
 Carnosine is hydrolyzed into its two substrates by carnosinase enzymes, one specific (expressed in the liver and brain) and one non-specific (which may regulate excess levels of carnosine).
+
 
 1.3
 
@@ -176,7 +184,9 @@ Carnosine Status (Deficiency, Surplus)
 
 Deficiency states, redeemable through supplementation, are possible with some pseudo-vitamin compounds, such as creatine or carnitine (L-carnitine). Beta-alanine does not appear to be similar in this regard. Dietary histidine deficiency, on the other hand, depresses serum and muscle levels of both beta-alanine and carnosine.[24] Levels are restored when histidine is supplemented.[25]
 
+
 Beta-alanine and carnosine do not have pseudo-vitamin status. Any state of deficiency related to either could also be called a general “protein deficiency” associated with the essential amino acid histidine. It can be avoided by consuming more protein.
+
 
 Carnosine levels are lower in vegetarians (as compared to omnivores) and decrease with age, but the physiological consequences are uncertain. 
 
@@ -184,13 +194,17 @@ One study divided omnivorous subjects between an omnivorous diet group (control)
 
 A decrease in carnosine storage of up to 35% has been observed in aging mice,[27] but the physiological consequences are again uncertain. Still, it has been hypothesized that a diet rich in carnosine might help fight aging and its associated pathologies.[28][29] 
 
+
 Beta-alanine or carnosine supplementation would probably be a good idea for vegetarians and vegans.
+
 
 One study noted that baseline carnosine in elite rowers and baseline carnosine in a previously studied untrained control were similar.[30] Other studies, however, found that trained individuals could store more carnosine in their muscles than sedentary individuals[31] — twice the amount, for experienced bodybuilders.[32] 
 
 These effects, however, may not be due to the act of training. Although an increase in muscle carnosine during short term resistance training has been reported,[33] most studies do not show acute changes in carnosine levels with training alone.[34][35] The variations in muscle carnosine content between non-supplemented populations may be due to differences in food intake, to long-term adaptations (possibly in hepatic beta-alanine synthesis), or, in the case of some bodybuilders, to the confounding effects of testosterone injections.[36]
 
+
 Higher carnosine levels have been observed in people with a history of athleticism. This is not systematic, however, and may reflect a difference in dietary carnosine (quantity of meat consumed) rather than in training load.
+
 
 1.4
 
@@ -212,13 +226,17 @@ Supplementation
 
 Carnosine (beta-alanyl-L-histidine) is a dipeptide composed of beta-alanine and histidine (L-histidine). Intracellular carnosine levels are determined primarily by the availability of extracellular beta-alanine;[17] this primary determinant is overruled only by an outright histidine deficiency.[42] For that reason, histidine has seldom been used to enhance intracellular carnosine stores.[25]
 
+
 As a rule, the availability of beta-alanine is the limiting factor in carnosine production. Only in the case of an actual histidine deficiency does supplementing histidine increase carnosine stores.
+
 
 In the liver, carnosinase enzymes can metabolize ingested carnosine into histidine and beta-alanine. In such a way, carnosine supplementation can provide beta-alanine to overcome the rate limit of carnosine synthesis in muscle tissues. Moreover, it appears that carnosine itself can be absorbed: A human study found between 1.2% and 14% of ingested carnosine (1, 2, or 4 g) excreted intact in the urine. In the same study, the ingestion of 2 g of beta-alanine and 2 g of histidine did not influence carnosine levels in the urine.[43]
 
 It is thought that carnosine can be absorbed from the intestinal tract[44] via proton-coupled peptide transporters PEPT1 and PEPT2,[45][46] despite not being found in the blood (probably because CN1, the plasma carnosinase enzyme, metabolizes free carnosine rapidly).[43] A later study analyzing carnosine kinetics also noted that both supplemental and dietary carnosine failed to elicit a detectable serum spike, although anserine and urinary carnosine increased.[6]
 
+
 While elevated carnosine levels can be found in the serum of animals, humans seem to rapidly hydrolyze ingested carnosine. Consequently, supplementing with beta-alanine seems preferable to supplementing with carnosine.
+
 
 2.2
 
@@ -234,15 +252,21 @@ The differences between the two muscles might be due to the lower baseline level
 
 The same study found that beta-alanine had no influence on muscle creatine.[47]
 
+
 Beta-alanine supplementation can increase muscle carnosine in as little as two weeks, with no effect on muscle creatine.
+
 
 One 4-week study had two groups of seven subjects undergo a unilateral training program. The first group received 6.4 g of beta-alanine daily; the second group, serving as control, received a placebo. In the beta-alanine group, muscle carnosine increased equally in both the trained and untrained leg of each subject. In the control group, no increase of muscle carnosine was noted. This suggests that muscle contractions do not increase muscle carnosine.[48]
 
+
 Muscular contractions do not seem to increase muscle carnosine.
+
 
 In a 5-week study of healthy subjects supplementing with 4.8 g of beta-alanine daily, muscle carnosine increased more when beta-alanine was taken with meals (+64%) than when it was taken between meals (+41%).[49]
 
+
 Supplemental beta-alanine increases muscle carnosine to a greater extent when taken with food.
+
 
 2.3
 
@@ -250,7 +274,9 @@ Elimination
 
 One 4-week study compared two groups of healthy young athletes, both supplementing daily with beta-alanine: One group took 1.6 g for 8 weeks; the other took 3.2 g for 4 weeks, then 1.6 g for 4 more weeks. The increase in muscle carnosine was greater in the 3.2-g group than in the 1.6-g group. This difference persisted after the 4 weeks with the same 1.6-g dose, and still slightly after the subsequent 8-week washout.[47]
 
+
 The increase in muscle carnosine due to beta-alanine supplementation appears to last longer than 8 weeks after said supplementation has ceased. This tells us little on the washout period of beta-alanine itself.
+
 
 3.
 
@@ -269,11 +295,15 @@ Carnosine’s ability to reduce protein alteration may derive from its being an 
 
 Additionally, carnosine has been shown to induce vimentin,[70] a readily glycated protein that acts in a sacrificial manner to reduce the reactivity of protein carbonyls and aldehydes.[71] Carnosine might also suppress mRNA translation initiation.[72] 
 
+
 Carnosine appears to have general protective (antioxidant) effects on a variety of proteins in cells. This may prevent the accumulation of toxic (oxidized) proteins in the body. Carnosine may also act in a sacrificial manner to excrete some modified protein carbonyls from the body.
+
 
 Not only may carnosine protect cells from toxic proteins, it may also reduce the formation of these proteins by stimulating proteolysis (the breakdown of proteins).[73][74][75] This action may be secondary to the upregulation of Heat-Shock Proteins (HSPs are proteins produced by cells placed under stressful conditions) via carnosine-Zinc complexes known as polaprezinc.[76][77][78]
 
+
 Carnosine might also act as a central point for different metabolic pathways that reduce the formation of protein carbonyls and aldehydes.
+
 
 3.2
 
@@ -283,7 +313,9 @@ Currently, carnosine has shown anti-aging effects in Drosophila flies[79][80] an
 
 Carnosine appears to be more effective as an anti-aging agent than an equimolar combination of beta-alanine and histidine.[82] Interestingly, since Creatine supplementation can also increase muscle carnosine (though to a lesser extent than beta-alanine), it may indirectly increase lifespan.[27]
 
+
 Carnosine may be more effective than beta-alanine as an anti-aging agent. In flies, it has been shown to extend lifespan; in mice, it appears to extend median lifespan without significantly influencing maximal lifespan.
+
 
 4.
 
@@ -297,13 +329,17 @@ Beta-alanine moderates many neurological actions through competitive inhibition 
 
 Beta-alanine appears to act via glycine and GABAA receptors (like taurine[87]) with comparable efficacy to glycine and GABA themselves.[88] On the other hand, beta-alanine has been noted to act as an antagonist of the system A transporter, used by cells in the brain to take up glycine.[89]
 
+
 Beta-alanine may have effects similar to the inhibitory neurotransmitters glycine and GABA, while at the same time competing with these molecules. The overall consequences are unclear at this time.
+
 
 Via carnosine, beta-alanine may also exert antioxidant effects. Carnosine can support the structure of the antioxidant enzyme Cu/Zn SuperOxide Dismutase (SOD).[39] This mechanism has been noted in vivo in rats[90] and may explain increased SOD activity in humans.[91] The basic antioxidant properties of carnosine would support SOD’s own antioxidant activity, similarly to how carnitine (L-carnitine) can stabilize SOD to enhance its actions.[92]
 
 Carnosine has also been implicated in reducing oxidative damage to lipids[81][93] and proteins.[94] Carnosine could therefore reduce the aggregation of oxydized proteins in neural tissues.[95][96] Possibly via these actions, carnosine has shown benefit to motor functions in people with Parkinson’s disease[91] and might aid in Alzheimer’s disease.[94]
 
+
 Beta-alanine, via carnosine, may be a neurological antioxidant.
+
 
 4.2
 
@@ -321,7 +357,9 @@ In a mice study comparing the effects of taurine and beta-alanine (22.5 mmol/kg)
 
 An 8-week human study associated beta-alanine to a non-significant trend for better mood relative to placebo, with no difference between the 1.6-g and 3.2-g groups.[47]
 
+
 There is a lack of evidence on mood effects, but beta-alanine may possess anxiolytic (anxiety-reducing) properties.
+
 
 One pilot study of 36 patients with Parkinson’s disease paired basic therapy (personalized L-DOPA or dopaminergic medication) with 1.5 g of preformed carnosine (beta-alanyl-L-histidine) for 30 days. The carnosine group improved by 32–53% on the motor parameters of the Unified Parkinson’s Disease Rating Scale — including hand tremors, muscle stiffness, and mobility issues. MAO-B activity was unaffected. The activity of Cu/Zn SOD increased by 26%, which may have caused the decrease in serum protein carbonyls noted.[91]
 
@@ -333,7 +371,9 @@ As a predictor of Chronic Fatigue Syndrome (CFS), an excess of beta-alanine in t
 
 More than forty years earlier, CFS symptoms (notably persistent lethargy, somnolence, and altered pain response) had already been noted in the rare disorder of hyper-beta-alanemia — an inborn error of metabolism that results in elevated beta-alanine levels in the serum.[101] 
 
+
 Some correlative evidence suggests that beta-alanine might play a role in chronic fatigue, but no conclusion can be drawn at this point in time.
+
 
 5.
 
@@ -355,7 +395,9 @@ Beta-alanine appears to reduce the perception of fatigue and delay volitional ex
 
 Beta-alanine and creatine appear to have additive effects in regard to reducing fatigue.[109] 
 
+
 Beta-alanine may reduce the perception of fatigue during exercise to near-exhaustion, and at least one study on elderly people suggests an improvement in neural function, as well as a lower risk of falling.
+
 
 5.3
 
@@ -367,7 +409,9 @@ When power-related studies are subjected to meta-analysis,[111] the effect size 
 
 Creatine’s efficacy at improving peak power output may be slightly enhanced by beta-alanine.[112] 
 
+
 Improvements in acute power output have been noted but are much less reliable than the effects on longer-duration exercise. While beta-alanine does not appear to significantly increase acute power output, it may enhance the accrual of power over time, secondary to enhanced exercise volume.
+
 
 5.4
 
@@ -377,7 +421,9 @@ In a 7-week study on elite rowers (training 9.5 times a week on average) coverin
 
 Most studies show less positive results, however. In a more recent 28-day study on elite rowers also covering 2,000 m, the benefits of a daily dose of beta-alanine (80 mg/kg/day) failed to reach statistical significance, though barely.[113] In a 6-week study on athletic women, four 1.5-g doses of beta-alanine (6 g/day) failed to increase VO2 max more than placebo (dextrose), though it trended to enhance performance (and an increase in lean mass was noted).[114] In an 8-week study on collegiate wrestlers and American-football players, a daily dose of beta-alanine (4 g) led to improvements in all tests (especially the 300-yd shuttle run and the 90° flexed-arm hang), but these improvements also failed to reach statistical significance. [115] Finally, in a 4-week study, beta-alanine (4 g/day for 1 week, followed by 6 g/day for 3 weeks) failed to improve sprint performance, though the testing protocol (maximal sprints on non-motorized treadmill) might have skewed the results.[116]
 
+
 Beta-alanine seems to benefit all athletes (male or female, novice or advanced), though seldom to the point of reaching statistical significance.
+
 
 Beta-alanine shows the most promise in two kinds of exercises: exercises that stress intracellular acidosis (exercises lasting more than 30 s, as a rule, since failure from H+ ions is minimal under that time[117]) and short high-intensity exercises (such as sprinting, rowing, and weight-lifting — not necessarily at one-rep max).[19][118] [119][120] In studies using resistance training as a means of measuring performance, an increase in workload volume is sometimes observed.[108]
 
@@ -385,7 +431,9 @@ According to a meta-analysis, the benefits associated with beta-alanine tend to 
 
 This meta-analysis also noted that a third of the studies (5 out of 15) acknowledged an element of financial support from a supplement company.[20][122][109][123][124]
 
+
 Beta-alanine appears to reliably improve a variety of exercise parameters, but mostly for efforts lasting 60–240 s. Above that range, benefits decrease. Under that range, benefits are not significant.
+
 
 6.
 
@@ -403,7 +451,9 @@ In a 6-week study on athletic women, the beta-alanine group (6 g of beta-alanine
 
 Similarly, in a 3-week study on 46 healthy men, four 1.5-g doses of beta-alanine (6 g/day) coupled with four 15-g doses of dextrose (60 g/day) led to a significant increase in lean mass, from 67.6±8.9 kg at the beginning of the study to 68.6±8.6 kg at the end of the study. Fat mass remained unchanged. This study used cycle ergometers and an HIIT protocol.[122]
 
+
 Beta-alanine appears to contribute to lean mass gains, through mechanisms currently unknown. The notion that these benefits are dependent on exercise cannot be refuted, since all three relevant studies paired beta-alanine supplementation with an exercise regimen.
+
 
 7.
 
@@ -437,7 +487,9 @@ Taurine
 
 Both Taurine and beta-alanine are acidic with an amine in the beta position. In that respect, they share a similar structure with the neurotransmitter GABA. Taurine and beta-alanine share the same transporter (SLC6a6), so competition may occur. In experimental conditions, beta-alanine can induce a transient taurine deficiency.[126][127][128][129] However, none of the human studies using supplemental beta-alanine (up to 6.4 g/day) mentioned side-effects suggestive of a taurine deficiency (such as an increase in muscle cramps).
 
+
 Theoretically, taurine and beta-alanine are antagonistic, but the practical relevance of their interactions is not known at this time.
+
 
 8.2
 
@@ -451,7 +503,9 @@ Published the same year, a 4-week study supplemented untrained men with creatine
 
 In a subsequent 4-week study on women doing aerobic exercise and using the same supplementation protocol, beta-alanine in isolation also improved performance at the neuromuscular fatigue threshold, while the combination of beta-alaine and creatine showed additive benefits on parameters of cardiopulmonary fitness (VO2 max, lactate and ventilatory thresholds, time to exhaustion). On average, creatine improved the ventilatory threshold more, beta-alanine improved the lactate threshold more, and the combination slightly benefited both (while still failing to influence VO2 max significantly).[106]
 
+
 There seems to be little synergism between beta-alanine and creatine with regard to performance.
+
 
 8.3
 
@@ -461,7 +515,9 @@ Sodium bicarbonate (baking soda) has been investigated for its ability to improv
 
 One 4-week study on men doing HIIT found that both beta-alanine (6.4 g/day) and sodium bicarbonate (0.3 g/kg/day: two thirds with breakfast; one third 2 hours before testing) significantly improved performance in isolation. Their combination appears to have additive effects, but those failed to reach statistical significance.[130] This additive effect has failed to be noted elsewhere (3.1+/-1.8% with sodium bicarbonate, 3.3+/-3.0% with the combination).[131] 
 
+
 Both beta-alanine and sodium bicarbonate are somewhat effective at the same thing, but it's unclear if they're additive when used together.
+
 
 9.
 
@@ -483,9 +539,13 @@ Due to taurine and beta-alanine sharing the same transporter, a taurine deficien
 
 In animals, this 3% intake of beta-alanine in water may reduce circulating levels of taurine by 50%[127] to 77%[128] and cardiac levels of taurine by 16.6% to 22.7%.[129]
 
+
 Prolonged cellular exposure to beta-alanine appears to reliably induce taurine deficiency. In animal studies, cellular taurine can be reduced by up to 77% with continual administration of beta-alanine via the drinking water.
+
 
 None of the human studies indexed on Examine.com (with beta-alanine doses ranging from 2.6 to 6.4 g/day) suggests a resulting taurine deficiency, but this parameter has not been assesed directly.
 
+
 Taurine deficiency is probably not a practical concern with conservative beta-alanine supplementation (with breaks, to let cells accumulate taurine). Excessive usage of beta-alanine over a long period of time has not been studied in humans, however, so the possibility that it could lead to taurine deficiency cannot be ruled out. Severe muscle cramps can be a symptom of taurine deficiency and could serve as an indicator.
+
 

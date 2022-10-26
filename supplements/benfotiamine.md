@@ -134,7 +134,9 @@ The absorption rates (bioavailability) of Benfotiamine are approximately 5-fold 
 
 This enhanced bioavailability is thought to be related to the structure, where the novel open thiazole-ring enables passive membrane transport secondary to being phosphorylated (in the brush border of the intestines) to S-benzoylthiamine by ecto-alkaline phosphatase.[1][7]
 
+
 Benfotiamine appears to have better absorption than other Thiamin-related structures that get metabolized into free Thiamin
+
 
 2.2
 
@@ -142,7 +144,9 @@ Serum
 
 Serum increases in Thiamin and phosphorylated metabolites can be detected in serum within one hour of ingesting Benfotiamine.[5]
 
+
 Relatively quick serum spikes in Thiamin resulting from Benfotiamine ingestion
+
 
 2.3
 
@@ -152,7 +156,9 @@ One hour after oral gavage of Benfotiamine, elevated tissue concentrations of Th
 
 These metabolites can also be detected in dorsal root ganglia and the dorsal spinal cord of rats, but to a much lesser degree in neural tissue (2.3-fold increase at 300mg/kg);[5] this has been noted elsewhere.[8]
 
+
 Benfotiamine can increase tissue concentrations of Thiamin and Thiamin-related compounds after oral administration to rats
+
 
 2.4
 
@@ -180,7 +186,9 @@ Studies measuring the antinociorecptive effects against heat-pain in mice note a
 
 One study in Diabetic Polyneuropathy has noted that while the Global rating scores slightly failed to reach statistical significance, 300-600mg of Benfotiamine daily was associated with significant reductions on the pain subset of the Diabetic Polyneuropathy rating scale in particular.[13]
 
+
 Able to reduce pain perception following intravenous and oral dosing, with varying potency depending on the manner of stressor (chemical or environmental)
+
 
 The enzyme Prostatic Acid phosphatase is required for pain relief from Benfotiamine, although it appears to be required for Thiamin-induced pain relief and may be indepedent of metabolism from Benfotiamine into Thiamin.[5] Metabolism of Benfotiamine to Thiamin was not actually attenuated in this study, suggesting that PAP is not mandatory for conversion yet has novel pain interactions.[5]
 
@@ -196,7 +204,9 @@ In periods of hyperglycemia, accumulation of Advanced Glycemic End products (AGE
 
 High dose intravenous Benfotiamine therapy (100mg/kg) for 14 days appears to benefit cardiac function in streptozotocin-induced diabetic mice independent of AGE formation.[15] Benfotiamine (70mg/kg oral ingestion for four weeks) was later shown to preserve signalling via an Akt/Pim-1 pathway (PI3K dependent) secondary to its transketolase inducing ability.[16] This pathway is protective of cardiomyocyte cells, but is hindered during periods of high blood glucose since STAT3 is downregulation (normally preserves Pim-1) and then PP2A is induced (suppresses Pim-1); Benfotiamine prevented STAT3 downregulation (without affecting PP2A) and preserved Pim-1, which then preserved the cardioprotective signalling via Akt/Pim-1.[16]
 
+
 Appears to protect cardiomyocytes (cardiac muscle cells) in response to stressors, either prolonged during reducing AGE formation (which ties into diabetic cardiomyopathy) or acutely via anti-oxidative effects. Has not yet been demonstrated to benefit cardiac tissue when a stressor is not otherwise incubated, suggesting preventative but not enhancing properties
+
 
 4.2
 
@@ -224,7 +234,9 @@ In states of hyperglycemia (acute, but clinical problems manifest during chronic
 
 Benfotiamine is seen as helpful in this scenario due to being a transketolase enzyme inducer at concentrations exceeding 50uM, where activity of the enzyme can increase fourfold.[22] Transketolase is a thiamine diphosphate dependent enzyme with a normally low activity in glycolysis,[24] and its activity is further reduced in diabetic patients (as measured in the erythrocytes).[25] Transketolase can reversibly interchange the two products seen as problematic in states of hyperglycemia (F6P and G3P) to D-xylulose-5-phosphate and Erythrose-4-phosphate, and secondary to that reduce the complications that occur with excess cellular accumulation of F6P and G3P.[22] This is sometimes referred to as redirecting glucose substrates towards the pentose phosphate shunt.
 
+
 Benfotiamine can increase activity of a normally low-active enzyme (transketolase), and in the state of hyperglycemia reduce the buildup of two metabolites which (when in excessive concentrations) contribute to the pathology of diabetic microvasculature damage (damage to small arteries; which is tied to retinopathy, nephropathy, and neuropathy)
+
 
 Additionally, Benfotiamine appears to have direct anti-oxidant properties,[26][27] which attenuates hyperglycemia induced oxidative damage to the endothelium.[28]
 
@@ -236,7 +248,9 @@ Interventions
 
 Redirection of G3P and F6P via the pentose phosphate shunt and activation of transketolase appears to prevent the decrease in cardiac progenitor cells and may be cardioprotective in states of diabetes.[29]
 
+
 Various benefits to rats at the above doses
+
 
 A small study (n=9) in Type 1 Diabetics given 300mg Benfotiamine (twice a day to total 600mg) with Alpha Lipoic Acid (600mg twice a day to total 1200mg) over 28 days was able to enhance transketolase activity (measured in monocytes) 2-3 fold and by 15 days completely normalized serum angiopoietin-2 (a biomarker of methylgloxal adducts in endothelial cells), and effectively normalized (as such that it was not statistically different than non-diabetic control) N-acetylglucosamine modified proteins (indicative of AGE status) and 6-keto-PGF.[30]
 
@@ -256,7 +270,9 @@ In cultured myotubes derived from healthy participants, normal (5.5uM) and high 
 
 This former study noted that around 100 and 200 genes were upregulated or downregulated (respectively) after 200uM Benfotiamine, with notable downregulations being NOX4 (2.5-3.1fold), Thymidine phosphorylase (2.2-2.8fold), and MDK (3.3-fold) and notable upregulations of SERPINB7 (2.3-3.4fold increase; more efficacy in normoglycemia) and Carboxypeptidase A4 (1.57-3.16fold; also more efficacy in normoglycemia).[34] Differentiation factors MyoD and Myogenin were not significantly affected.[34]
 
+
 Possible increase in glucose utilization in skeletal muscle, which may not be related to the two most common pathways (insulin receptor signalling and AMPK activation) and is potentially novel
+
 
 Type 1 diabetes was associated with an increase in adipocyte content, Reactive Oxygen Species (ROS), and microangiopathy in bone marrow with reduced density and volume;[35] these effects are prevented in vitro with antioxidants such as N-AcetylCysteine, and oral administration of 70mg/kg Benfotiamine for 24 weeks lessens the degree of oxidative damage in diabetic rats as well as these adverse pathological changes, with the degrees of improvement either trending towards normalization (Bone marrow blood flow), were normalized (LSK cells and density) were were more beneficial than non-diabetic control (TK, Mitochondrial ROS, and G6PDH activity in BMMNCs,).[35]
 
@@ -272,7 +288,9 @@ Benfotiamine appears to weakly attenuate Advanced Glycemic End product (AGE) bou
 
 Benfotiamine incubation in macrophages has been noted to attenuate LPS induced mitochondrial membrane potential loss in the macrophages, which was thought to be downstream of preventing NF-kB translocation secondary to anti-oxidant effects.[39]
 
+
 Appears to be an anti-oxidant in immune cells, but is fairly weak at this role
+
 
 Benfotiamine has been demonstrated to inhibit arachidonic acid (AA) release form RAW264.7 cells, with 100uM Benfotiamine inhibiting approximately 90% of AA release, a similar magnitude of cPLA2 suppression (medites AA release) which was thought to be through a reduction in oxidative stress causing less activation of the pro-inflammatory signalling proteins NF-kB and Er-1;[40] similar mechanisms have been noted elsewhere.[39]
 
@@ -292,7 +310,9 @@ Genomic Damage
 
 When measuring the lymphocytes of hemodialysis patients (pilot study followed by single blind study), Benfotiamine at 600mg was able to decrease the micronucleus frequency (16+/-1.2 to 11.1+/-1.1 micronuclei per 1,000 binucleated cells; 30% reduction) in the pilot study and by 15% in the single blind study, which occurred alongside a reduction in AGEs (both intervention and placebo) and an increase in Thiamin levels in serum but did not exist alongside an increase in transketolase activity. This reduction in MNF is thought to be indicative of less oxidative damage to the genome.[41] It was thought that the observed effects were due to direct anti-oxidant properties, as antioxidants in general reduce genomic damage in lymphocytes[42] and Benfotiamine has shown direct anti-oxidant properties that protect the genome in vitro.[27] A significant correlation was noted between transketolase activity and micronucleus frequency though.[41]
 
+
 Direct anti-oxidant properties that protect DNA have once been shown to be relevant after oral ingestion of Benfotiamine (600mg) by persons at higher risk of genomic damage
+
 
 9.
 

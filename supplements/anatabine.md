@@ -62,7 +62,9 @@ Anatabine is an alkaloid found in tobacco and the solanaceae family of plants. T
 
 It is found in:
 
-Tobacco in the range of 927-1390μg/g[2] or on average 554μg per cigarette (range of 130-1120μg; American cigarettes containing 500-550μg)[1]Anatabine is a tobacco alkaloid similar to nicotine, and is found in the same plants
+Tobacco in the range of 927-1390μg/g[2] or on average 554μg per cigarette (range of 130-1120μg; American cigarettes containing 500-550μg)[1]
+Anatabine is a tobacco alkaloid similar to nicotine, and is found in the same plants
+
 
 1.2
 
@@ -80,7 +82,9 @@ Cholinergic Neurotransmission
 
 In vitro, anatabine has been noted to have bind to the α3β4 receptor with similar affinity as nicotine.[3]
 
+
 May interact with nicotinic cholinergic receptors, although this is not well researched
+
 
 2.2
 
@@ -92,7 +96,9 @@ Nicotine has been found to inhibit Aβ production by regulating BACE-1 transcrip
 
 When injected into mice at 0.5-2mg/kg, only the higher dose was able to reduce brain and plasma Aβ concentrations to near control levels (in plasma) and by about 25% (brain)[4] and this dose has been noted to exert anti-inflammatory effects by reducing C-reactive protein[4] as well as IL-1β, IL-6, and TNF-α.[7]
 
+
 Anatabine is a STAT3 inhibitor, which then inhibits NF-kB and exerts an anti-inflammatory effect. This appears to be active following injections of anatabine and may be of therapeutic benefit to Alzheimer's Disease
+
 
 3.
 
@@ -104,7 +110,9 @@ Blood Pressure
 
 Anatabine has structural similarity to nicotine, and since nicotine is able to acutely increase heart rate and blood pressure[12] anatabine has been investigated for its ability to do the same; it has since failed to significantly influence blood pressure or heart rate.[13]
 
+
 Currently no significant interactions between anatabine and cardiovascular function are known
+
 
 4.
 
@@ -116,7 +124,9 @@ Mechanisms
 
 Incubation of macrophages with 250-350μM was able to inhibit an IFN-γ and LPS induced increases in iNOS and COX-2 mRNA levels, suggesting antiinflammatory effects.[14]
 
+
 May have general antiinflammatory properties at moderately high concentrations
+
 
 4.2
 
@@ -126,7 +136,9 @@ Despite the large amount of adverse health effects associated with tobacco smoki
 
 In mice inflicted with experimental autoimmune thyroiditis and concurrently supplemented orally with approximately 12.5mg/kg anatabine, occurrence of thyroiditis and the antibody response were significantly reduced.[14] Autoimmune encephalomyelitis (research model for Multiple sclerosis) also sees clinical benefit in response to 20mg/kg anatabine in mice, although antibodies were not affected in this study.[20]
 
+
 Appears to be beneficial for rodents with autoimmune diseases in high oral doses
+
 
 5.
 
@@ -138,5 +150,7 @@ Muscle Soreness and Damage
 
 Supplementation of 6-12mg anatabine (via lozenges that also conferred 834-1668IU vitamin A and 66-132IU Vitamin D) for ten days prior to physical exercise testing in otherwise healthy young men failed to outperform placebo (which contained the vitamins) in reducing muscle soreness or power output when measured over the next three days.[13]
 
+
 The lone study in humans assessing the antiinflammatory properties of anatabine failed to find any significant influence of supplementation
+
 

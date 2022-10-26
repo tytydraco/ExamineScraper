@@ -86,7 +86,9 @@ Oxaloacetate is known to be a glutamate scavenger[4] alongside some other small 
 
 Oxaloacetate's effects on glutamate appear to be concentration dependent, with maximal effects at 1M (1,000mM) and no effects at 0.01M (10mM).[4] This property has been shown to be active following peripheral injections of oxaloacetate in rat models of tramautic brain injury.[7][5][7]
 
+
 As an endogenous molecule, oxaloacetate can sequester glutamate and reduce its activities. This has been shown with injections of oxaloacetate in rats, but due to the high concentrations required it may not be a relevant mechanism for oral supplementation of oxaloacetate (studies using oral oxaloacetate currently do not exist on this topic)
+
 
 3.2
 
@@ -108,9 +110,13 @@ In C. elegans, administration of oxaloacetate promoted average (13%) and median 
 
 Similar functions on the lifespan of C. elegans have been noted with similarly structured Kreb's cycle intermediates fumarate and malate although succinate was ineffective.[14] This effect was also not present in c. elegans lacking the ability to convert malate to fumarate (lacking the fumarase enzyme) or fumarate to succinate (succinate dehydrogenase flavoprotein), suggesting that the byproducts produced in these reactions including FAD and NAD+ rather than the metabolites.[14] A higher NAD+/NADH ratio is known to activate AMPK.[15]
 
+
 Providing intermediates to the Kreb's cycle (TCA cycle) seems to increase NAD+ concentrations in the cell, and possibly due to increased Kreb's cycle activity overall an increase in longevity follows in nonmammalian subjects
+
 
 In mice, administration of varying concentrations of oxaloacetate in food (0.5-3.5g/kg dry weight) did not influence longevity although the authors noted that oxaloacetate may have degraded to a degree (thought to be no more than 25% the intended amount) when mixed in chow for a few weeks.[1]
 
+
 One study using oral oxaloacetate failed to find an increase in longevity in mice, but also had stability issues with oxaloacetate in the feed; more research is required
+
 

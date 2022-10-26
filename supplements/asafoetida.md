@@ -98,7 +98,9 @@ Ferula foetida (of the family Apiaceae) is a plant whose oleoresin (referred to 
 
 Traditional medicinal usages of the plant include the treatment of lung conditions such as whooping cough, asthma, and bronchitis as well as some intestinal conditions (mostly against worms).[1] In some other instances, it is used as an antiepileptic, antispasmodic, and aphrodisiac compound.
 
+
 Ferula asafoetida is a plant of which its medicinal component, the oleoresin, is used for the treatment of epilepsy and intestinal spasms and may also confer protection to the lungs while acting as an aphrodisiac
+
 
 1.2
 
@@ -106,17 +108,23 @@ Composition
 
 As a food product, ferula asafoetida usually contains:
 
-A 16% moisture content and 297kcal per 100g[1]Carbohydrates (67.8% of weight)[1]Proteins (4% of weight)[1]Dietary fats (1.1% of weight)[1]Dietary minerals (7.0% of weight)[1]Dietary fiber (4.1% of weight)[1]The overall food component (of which contains the supplemental component as well as a source of calories) is a high percentage of carbohydrates and dietary minerals by weight
+A 16% moisture content and 297kcal per 100g[1]Carbohydrates (67.8% of weight)[1]Proteins (4% of weight)[1]Dietary fats (1.1% of weight)[1]Dietary minerals (7.0% of weight)[1]Dietary fiber (4.1% of weight)[1]
+The overall food component (of which contains the supplemental component as well as a source of calories) is a high percentage of carbohydrates and dietary minerals by weight
+
 
 With bioactive components of the oleoresin and gum (40-60% and 25% of the plant weight) including:
 
-Ferulsinaic acid (rearranged sequesterpene coumarin[2])[3]Ferulic acid[1] at 1.3% of resin[4]2-butyl propenyl disulfide (E and Z isomers) and Diallyl disulfide as odorous compoundsUmbelliferone[1]Asaresinotannols[1]Farnesiferols A-C[1][5]Foetidin[4]Kamolonol[4]Luteolin[1](2E)-3,4-dimethoxycinnamyl-3-(3,4 diacetoxyphenyl) acrylate[6]The oleoresin/gum tends to contain phenolic compounds based off of ferulic acid and sequesterpenes
+Ferulsinaic acid (rearranged sequesterpene coumarin[2])[3]Ferulic acid[1] at 1.3% of resin[4]2-butyl propenyl disulfide (E and Z isomers) and Diallyl disulfide as odorous compoundsUmbelliferone[1]Asaresinotannols[1]Farnesiferols A-C[1][5]Foetidin[4]Kamolonol[4]Luteolin[1](2E)-3,4-dimethoxycinnamyl-3-(3,4 diacetoxyphenyl) acrylate[6]
+The oleoresin/gum tends to contain phenolic compounds based off of ferulic acid and sequesterpenes
+
 
 And components of the essential oil (4-20% of plant weight including):
 
 (E)-1-propenyl sec-butyl disulfide (20.6-40%)[7][8](Z)-1-propenyl sec-butyl disulfide (8-27%)[7]10-epi-γ-eudesmol (5.3-15.1%)[7](Z)-β-ocimene (2.4-7.8%)[7]α-pinene (4.4-21.36%)[7]β-pinene (4.2-47.1%)[7]β-dihydroagarofuran (1.8-4.1%)[7]γ-eudesmol (undetectable to 3.5%)[7]guaiol (undetectable to 3.0%)[7]agarospiral (undetectable to 3.0%)[7]limonene (undetectable to 2.9%)[7]α-phellandrene (undetectable to 2.9%)[7]1,2-Dithiolane (undetectable to 18.64%)[7](E)-β-ocimene (1.4-2.9%)[7]5-epi-7-epi-α-eudesmol (undetectable to 2.1%)[7]α-eudesmol (undetectable to 4.5%)[7]β-eudesmol (undetectable to 1.1%)[7]Camphene (0.03-0.1%)[7]And it appears that as the plant grows older the above essential oils convert more into α-pinene and β-pinene while others are reduced to nearly undetectable levels.[7]
 
+
 The essential oil component of ferula asafoetida appears to contain a variety of odorous compounds with a high percentage of these odorous compounds containing sulfur
+
 
 2.
 
@@ -128,7 +136,9 @@ TRPs
 
 There are some vinyl disulfides present in ferula asafoetida appeared to activate TRPA1 channels.[9]
 
+
 Activation of TRPA1 may be a mechanism of action underlying ferula asafoetida, which due to the active components bearing sulfur it may have mechanistic similarity to garlic in this regard
+
 
 3.
 
@@ -176,7 +186,9 @@ Mechanisms
 
 Ferulsinaic acid has been noted to reduce rate of protein glycosylation in C. Elegans[3] and 500-1000ng/kg ferulsinaic acid oral therapy for 21 weeks in diabetic rats has been noted to potently reduce the changes in blood glucose, HbA1c, and antioxidant enzymes to near control levels[12] while urinary advanced glycemic end products (AGEs; formed from protein glycosylation) were dose dependently reduced with the 1000ng/kg group being lower than control.[12]
 
+
 Ferulsinaic acid, based on preliminary evidence, appears to be remarkably potent at preventing protein glycosylation
+
 
 7.
 
@@ -190,7 +202,9 @@ Oral ingestion of isolated ferulsinaic acid at 5-500ng/kg daily for 12 weeks in 
 
 Ferulsinaic acid has also been noted to effectively normalize antioxidant enzymes (SOD, catalase, glutathione peroxidase) in diabetic kidney tissue at 250-500ng/kg[13] and against at 500-1000ng/kg.[12]
 
+
 Secondary to its antioxidant effects, ferulsinaic acid (at remarkably low oral doses; a 11mcg human equivalent for a 150lb person) appears to be highly protective of the diabetic kidney
+
 
 8.
 
@@ -204,7 +218,9 @@ Asafoetida has failed to significantly alter protein absorption or bioavailabili
 
 Pancreatic lipase and amylase activity also appear to be stimulated with eight weeks of supplement ingestion in rats,[15] yet phosphatase and sucrase enzymes have been noted to be reduced at the same dose.[16]
 
+
 It appears possible for asafoetida to increase the breakdown rates of protein, fats, and starches while it may attenuate sucrose absorption. Despite this, it has been noted to not increase protein bioavailability
+
 
 8.2
 
@@ -214,7 +230,9 @@ Asafoetida (hot water extract of the dried gum) has been traditionally said to '
 
 When looking at other studies, a concentration of 3mg/mL of the gum resin in the ileum of guinea pigs has been noted to reduce spontanous contractions to 54+/-7% of control and is able to concentration-dependently inhibit contractions induced by acetylcholine, histamine, and potassium chloride.[17]
 
+
 Asafoetida is known as a carminative agent, and may reduce flatulence with daily oral ingestion
+
 
 9.
 
@@ -236,5 +254,7 @@ The LD50 of isolated ferulsinaic acid appears to be fairly low at 2mcg/kg, which
 
 The LD50 of the gum extract is greater than 2,000mg/kg bodyweight (10-fold higher than the active dose).[4]
 
+
 While ferulsinaic acid seems to have a pretty low toxicity level, it may be in such miniscule quantities that it doesn't practically matter. The basic gum extract doesn't seem toxic at tested dosages
+
 

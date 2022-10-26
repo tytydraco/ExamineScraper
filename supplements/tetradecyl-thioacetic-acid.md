@@ -156,7 +156,9 @@ In isolated human liver cells 10-30µM TTA is able activate PPARα and PPARδ wi
 
 Due to oral supplementation of TTA in humans either significantly[1][3] or nonsignificantly[4] reducing total lipid levels in the blood (thought to reflect baseline lipid concentrations), it is thought that the above mechanisms are relevant to supplementation of TTA.
 
+
 Tetradecylthioacetic acid (TTA) appears to be a ligand and activator for PPARs, specifically the alpha and delta subsets. When activated, these receptors are thought to positively mediate the oxidation of fatty acids in both liver and muscle cells
+
 
 3.
 
@@ -176,13 +178,17 @@ Serum
 
 Following oral ingestion, Tetradecyl thioacetic acid (TTA) appears to have a lag time of approximately 90 minutes where minimal to no TTA is detected in the blood followed by rapid detection in the blood.[4] Following this TTA appears to be detectable in the blood at median peak values (estimated Cmax values) of 2.9mg/L (200mg), 11.5mg/L (600mg), and 11mg/L (1,000mg) at variable mean Tmax values of 2.5-4.5 hours following oral administration; all values had a high range of individual variability.[4]
 
+
 TTA can be detected in the blood following a single dose, but appears to have a lag time before absorption and a fairly variable peak concentration and time to reach peak concentration between subjects.
+
 
 Chronic loading for seven days at three doses (200mg, 600mg, and 1,000mg) all demonstrate increases in serum TTA with subsequent doses, suggesting a loading effect due to incomplete drug elimination within 24 hours.[4] A dose-dependent relationship is more apparent after a week, where the doses reach circulating plasma concentrations of 4mg/L, 9mg/L, and 14mg/L in the 200mg, 600mg, and 1,000mg groups respectively.[4]
 
 When looking at total blood lipids, TTA appears to increase from nonexistent up to 0.44+/-0.03% of blood lipids following a month of 1,000mg supplementation[3] whereas the major metabolite of TTA 1n-8 comprises 0.14+/-0.03% of total blood lipids.[3]
 
+
 Chronic loading is similar to acute loading, although a dose-dependent effect is more apparent. The maximum concentration seem with acute usage at 1,000mg does not appear to be increased further with chronic usage.
+
 
 3.3
 
@@ -206,7 +212,9 @@ After one week of supplementing tetradecyl thioacetic acid (TTA) in the range of
 
 Rate of clearance was estimated to be 4.1-5.6L per hour based on oral doses of 200,600, and 1000mg.[4] The estimated half-life of TTA following oral administration in humans is between 8.9 and 14 hours.[4]
 
+
 TTA appears to be slowly metabolized and has a half-life reaching about half a day, indicating that a single oral dose would influence the body for over a 24 hour period. TTA may still be detectable in the blood following a week cessation from the supplement, but is no longer detectable after three weeks.
+
 
 4.
 
@@ -218,7 +226,9 @@ Absorption
 
 Tetradecyl thioacetic acid (TTA) is known to attenuate the stimulation of triglyceride-rich lipoprotein secretion from other fatty acids such as oleic acid when coincubated in vitro in intestinal cells[5] and in liver cells,[6] suggesting that there may be an inhibitory effect on the release of circulating fatty acids from these two organs that may contribute to the hypolipidemic effects observed with TTA ingestion.
 
+
 There is a possible inhibitory effect on complete fatty acid absorption associated with TTA supplementation, although this is not related to an inhibition of the absorption of fatty acids but reducing their release into the blood via typical routes. Practical significance of this mechanism to oral supplementation is not yet known
+
 
 4.2
 
@@ -226,7 +236,9 @@ Cardiac Tissue
 
 In rats subject to a controlled diet containing 0.375% TTA over the course of 50 weeks, there appears to be a modification in the fatty acids of cardiac tissue with a decrease in saturated fat and arachidonic acid content with an increase in fish oil fatty acids, and this effect was additive with fish oil supplementation (10.4% of diet).[10]
 
+
 May increase fish oil fatty acid content of the heart independent of fish oil supplementation
+
 
 4.3
 
@@ -282,7 +294,9 @@ Virology
 
 One study investigating the influence of TTA on persons with HIV currently undergoing anti-viral therapy found a decrease of the circulating inflammatory cytokine TNF-α yet no influence on viral loads in immune cells.[13]
 
+
 The lone study of TTA in persons with HIV noted that it was safe to use, but failed to find any modification (beneficial or negative) to the viral loads in these subjects
+
 
 8.
 
@@ -304,11 +318,15 @@ Liver
 
 TTA appears to induce mitochondrial β-oxidation in liver cells (mice) via activation of PPARα[21] and in cultured cells treated with TTA a decrease in triglycerides is noted;[6] this is thought to underlie both antiobese and lipid lowering properties of TTA.[22] Beyond activation of PPARα, PPARδ[1] may also be a target as are the stress factors mTOR and ERK1/2.[23]
 
+
 Increasing fatty acid oxidation in the liver may underlie some antiobese and lipid lowering properties of supplemental TTA
+
 
 Oral supplementation of TTA in both rats[24] and humans (at 1,000mg daily for four weeks[3]) has been noted to increase the amount of oleic acid (an omega-9 fatty acid found in many foods such as olive oil) in the body relative to other fatty acids despite a downward trend of overall fatty acid content in the blood. This is thought to be due to the delta 9 desaturase (Δ9D) enzyme which produces oleic acid from saturated fatty acids in the body[25] being increased (independent of possible PPARα activation from TTA[25]) as TTA itself is thought to be primarily metabolized by this enzyme.
 
+
 Possibly related to how TTA is metabolized by the delta-9-desaturase enzyme, this enzyme's activity may be increased which is thought to result in a higher rate of production of oleic acid from other fatty acids in the body. The end result being a higher relative content of oleic acid.
+
 
 9.2
 
@@ -330,7 +348,9 @@ Psoriasis is an inflammatory skin disease which is characterized by an increase 
 
 A topical cream containing 0.5% tetradecyl thioacetic acid (TTA) given to psoriatic patients failed to exert any anti-psoriatic effects in a small pilot study[29] whereas elsewhere in a larger trial oral supplementation of 1,000mg TTA over the course of four weeks showed a reduction in inflammatory biomarkers in persons with psoriasis (ICAM-1, IL-8, TNF-α) but psoriasis symptoms were not directly assessed.[3]
 
+
 While TTA may possess an anti-inflammatory effect, there is currently no evidence to demonstrate an ability of TTA to actively treat psoriasis. The body of evidence for this, however, is limited
+
 
 11.
 
@@ -342,7 +362,9 @@ Vitamin E
 
 28 days supplementation of TTA was able to significantly reduce circulating Vitamin E levels by about 2nM, which was said to be due to the tight relationship with serum Vitamin E and serum lipids.[1] TTA is able to slightly reduce total circulating lipids in both healthy persons[4] and moreso in those with metabolic ailment (diabetes) due to higher baseline lipids,[1] supporting this hypothesis. The reduction in serum Vitamin E, while statistically significant, does not appear to be large enough to be clinically worrisome.[1]
 
+
 Due to reducing overall lipids in the blood, it is possible that TTA can reduce things that bind to lipids to transport themselves around the body. This has been demonstrated with Vitamin E and should apply to other fat soluble nutrients (CoQ10 and carotenoids) although it does not seem to be enough of a reduction to be clinically worrisome.
+
 
 11.2
 
@@ -362,5 +384,7 @@ Tetradecyl thioacetic acid (TTA) has been subject to toxicity testing based on t
 
 Unpublished preclinical toxicity studies in dogs and rats (unpublished, but mentioned in citation) have apparently concluded little to no risk of toxicity.[1]
 
+
 No apparent toxicity at this moment in time with oral doses up to 1,000mg daily for a period of up to one month, with no data of either higher doses or longer periods of time in humans
+
 

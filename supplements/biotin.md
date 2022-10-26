@@ -133,7 +133,9 @@ Biotin is stored in the body via biotinylation, an ATP-dependent process where b
 Biotinylation underlies the role of biotin as a vitamin, where particular proteins require biotin binding for proper function. Examples of biotin-dependent proteins are members of the biotin carboxylase and decarboxylase family[4][5] which includes the enzymes acetyl-CoA carboxylase (ACC),[6] propionyl-CoA carboxylase (PCC),[7] and pyruvate carboxylase (PC)[8]. As a general statement, biotin-dependent enzymes tend to be important in pathways related to gluconeogenesis, fatty acid synthesis, and branched chain amino acids catabolism.[9]
 Carboxylase enzyme reactions occur via a two-step mechanism, where bicarbonate is initially used for the ATP-dependent conversion of biotin to carboxybiotin. The newly formed CO2 group from carboxybiotin is then transfered to the target protein (comprehensive review here[4]).
 
+
 Biotin can be covalently attached to other proteins in a process known as biotinylation, a requirement for the function of certain enzymes. This underlies the role of biotin as a vitamin, where it supports biotinylation of biotin-dependent enzymes, many of which are essential for metabolic function.
+
 
 Biotinylated proteins can also function as a resevoir for extra biotin, which is liberated from proteins it is stored on via biotinidase, which exists in the cell's microsomes and mitochondria.[10][11] A major storage protein for biotin is the protein known as acetyl CoA carboxylase.[12] Biotinidase also has the function of transferring biotin to histones[13] which is thought to explain the presence of biotin in nuclei (presence of the biotinidase in the nucleus is controversial.[10]) 
 
@@ -147,15 +149,21 @@ Currently, the biotinylated proteins biotinylated 3-methylcrotonyl-CoA carboxyla
 
 Both a decrease in biotin in the urine[18] and an increase in urinary 3-hydroxyisovaleric acid (3HIA)[19][20] have been suggested to indicate biotin deficiency, but while the former may not have good predictive power the latter may also cause some false positives.[17]
 
+
 Although low-cost and reliable ways to assess biotin deficiency are currently lacking, biotinylated proteins are being examined as possible biomarkers for deficiency. 3-hydroxyisovaleric acid concentrations in urine seem to be the most well-studied biomarker, however its predictive power has been called into question.
+
 
 Biotin deficiencies are relatively rare, being observed in some youth (as seborrheic dermatitis) when maternal breast milk is low in biotin[21] or in subjects with a genetic biotinidase deficiency who cannot recycle biotin.[22] Both of these conditions can be treated with supplemental biotin, although genetic biotinidase deficiencies require timely intervention and lifetime supplementation to avoid severe neurological disorders.[23] The disorder also requires lifetime biotin supplementation at 5-20mg daily due to drastically reduced biotin retention.[24] Biotinidase deficiency has been reported to have a prevalence of 1 in 112,271 (profound deficiency of less than 10% biotinidase activity) and 1 in 129,282 for partial deficiency (10-30% biotinidase deficiency).[24] If left untreated severe neurological symptoms develop, including seizures, ataxia, and mental retardation.[24]
 
+
 Biotin deficiencies are relatively rare, thought to be limited to a genetic lack of the biotinidase enzyme or due to a lack of biotin in breast milk fed to infants. Both of these instances can be treated with the addition of supplemental biotin to the diet, although biotinidase deficiency requires quick intervention in infanthood.
+
 
 Biotin deficiency has also been induced in rodents by adding raw egg whites to the diet[2] which contain the protein avidin that binds and sequesters biotin with high affinity, preventing its utilization.[25] Avidin does appear to affect humans after oral ingestion, where subsequent biotin deficiencies can be treated with supplemental biotin.[26][27] This can be avoided by cooking egg whites before consumption, which denatures avidin preventing it from binding to biotin.[28] Cooking egg yolks is also advisable; while they do not contain signficant amounts of avidin, they do contain other biotin-binding proteins.[29][30]
 
+
 Consumption of large amounts of raw egg whites can cause biotin deficiencies due to the presence of the antinutrient avidin, which binds and sequesters biotin, preventing its utilization as a nutrient. While this can be overcome by superloading biotin, it is best to limit consumption of raw egg whites, or cook them before consumption to eliminate avidin binding.
+
 
 2.
 
@@ -169,7 +177,9 @@ Biotin has been noted to have a plasma membrane-associated receptor in liver cel
 
 Since the biotinidase enzyme exists in the blood where it can bind biotin at an affinity (KD values of 3nM and 59nM[37]) similar to the receptor EC50 values and possesses transferase properties,[10] it is plausible that biotin has a role in helping bigger molecules enter the cell.
 
+
 Biotin appears to have a receptor that responds to it on the plasma membrane (so far detected in liver cells). While its practical function is unknown, it seems to be able to facilitate endocytosis (a transportation process for bringing in larger molecules like glucose or some drugs) and thus may be involved in trafficking larger molecules across the cell membrane.
+
 
 3.
 
@@ -185,11 +195,15 @@ The regulation of this transporter seems responsive to the environment as while 
 
 While the SMVT mediates most biotin uptake at concentrations of biotin found in the human diet (nanomolar concentrations)[49][44] at higher concentrations biotin is absorbed from the intestines via a mechanism independent of the SMVT. This latter process is not dependent on sodium or inhibited by chronic alcohol consumption[44] and may involve passive diffusion. There is a high affinity receptor for biotin on mononuclear cells[50] and keratinocytes[51] which likely does not exist in intestinal cells.[41]
 
+
 Biotin can be absorbed in various parts of the intestines by the transporter known as the sodium-dependent multivitamin transporter (SMVT) at levels seen with dietary intake. At high biotin concentrations SMVT becomes saturated, and biotin is taken up via passive diffusion. 
+
 
 When tested in humans, topical application of an ointment containing biotin (7g of ointment with 0.3% biotin) was able to increase the amount of serum biotin in both healthy subjects (21%) and subjects with atopic dermatitis (81.7%). The difference in increases between healthy and dermatitis subjects can explained by lower baseline biotin levels in subjects with dermatitis, as both groups ended up with approximately 50nM biotin in serum after treatment.[52]
 
+
 Biotin applied to the skin appears to increase the amount of biotin detectable in the blood.
+
 
 3.2
 
@@ -201,7 +215,9 @@ Protein-bound biotin is thought to account for 7% (reversibly bound) and 11% (co
 
 Biotinidase is thought to be a possible biotin carrier protein[10] and has affinity for biotin in the nanomolar concentration found in the blood.[37]
 
+
 Biotin is known to exist in the blood in both a free form as well as being bound to proteins. The protein biotinidase is a possible biotin carrier-protein in the blood.
+
 
 Supplementation of 900mcg biotin appears to be sufficient to increase circulating biotin concentrations in otherwise healthy adults without a deficiency.[58]
 
@@ -237,7 +253,9 @@ In rats, biotin supplementation in water (approximately 2mg biotin per rat) has 
 
 In regard to acetyl-CoA carboxylase 1, there has either been a reduction reported[70] or no changes in expression with increased phosphorylation[71] (resulting in less activity[72]), both of which would lead to less malonyl-CoA available for fatty acid synthesis.
 
+
 Biotin may be able to increase the activity of AMPK in the liver secondary to cGMP, which seems to result in a reduction of serum triglycerides and vLDL.
+
 
 Biotin supplementation at 900mcg in otherwise healthy men and women has been noted to reduce circulating triglycerides[58] while improvements in lipids have also been noted in subjects with medical conditions given 5mg (atherosclerotic subjects[73]) or 15mg (type II diabetic subjects[74]) of biotin daily. 15mg biotin daily also has been shown to reduce triglycerides and vLDL in both diabetic and nondiabetic subjects without any changes in total cholesterol or insulin sensitivity.[74]
 
@@ -255,7 +273,9 @@ GK can be restored to normal levels with insulin treatment (even without fixing 
 
 Biotin at a concentration of 1µM in the culture medium of hepatocytes has been noted to induce cGMP production and increase GK activity.[78] Increased GK activity was thought to be mediated by cGMP, as N-acetylglucosamine (an inhibitor of GK[79][80] only in the absence of cGMP[81]) failed to prevent the increase in hexose utilization from biotin.[78] This increase in GK activity was dependent on insulin and was not additive with both glucose and 8-bromo-cGMP (a hydrolysis-resistant cGMP analog).[78] It is thought that biotin induces GK enzyme expression[82][83][84] in a similar manner to biotin-mediated insulin receptor expression in vitro, which is also driven by cGMP.[85] (It should be noted that biotin-mediated increases in insulin receptor expression have have not been observed in vivo, however.[86])
 
+
 Glucokinase, a pivotal enzyme in utilizing glucose, appears to be depressed in instances of biotin deficiency, diabetes, and during fasting. In all instances biotin can restore glucokinase activity via a cGMP-mediated mechanism.
+
 
 6.2
 
@@ -285,7 +305,9 @@ Biotin seems to be an inhibitor of SIRT1 activity by blocking the deacetylase fu
 
 One study in mice with lifetime biotin supplementation (estimated 2.5mg/kg) found a decrease in lipolysis rate of adipose when compared to genetically similar mice (high SIRT1 activity) without biotin, with similar effects also noted in skeletal muscle.[93]
 
+
 A study in mice demonstrated that chronic, high-level biotin supplementation decreases insulin sensitivity and lipolysis by reducing the activity of the deacetylase enzyme, SIRT1. Although the reciprocal relationship between SIRT1 and biotin levels is an important factor for energy homeostasis, relevance of this work to humans is not yet clear, where biotin requirements and equivalent typical daily intakes are much lower.
+
 
 8.
 
@@ -309,7 +331,9 @@ Biotin was first known to have a role in skin health since biotin deficiency lea
 
 A high-affinity biotin transporter appears to exist in keratinocytes which can uptake biotin at low nanomolar concentrations[51] while at high concentrations of biotin (10mM) approximately 8% appears to be taken up by nonsaturatable means (possibly diffusion).[51] This transporter which has affinity for biotin (Ki of 10.7+/-0.9µM) also seems to also have affinity for Vitamin B5 (pantothenate at 1.2+/-0.3µM), desthiobiotin (15.2+/-2.5µM), and both oxidized (4.6+/-0.6µM) and reduced (11.4+/-0.9µM) forms of Alpha-lipoic acid, although low concentrations of these other molecules (20nM) do not interfere with the absorption of low concentrations of biotin (1nM).[51]
 
+
 There is a transporter in keratinocytes (outer layer skin cells) which is highly specific for biotin at low concentrations which also might have affinity for Vitamin B5 and ALA at higher concentrations.
+
 
 One preliminary study has noted that, in four subjects being given chemotherapy (gefitinib or erlotinib) known to induce skin rashes, administration of biotin reduced the severity of the rash.[99]
 
@@ -321,7 +345,9 @@ The induction of biotin deficiency (via avidin), amongst other side effects, is 
 
 The antiepileptic drug valproic acid has been noted to induce hair loss in some rats (6.6-26.6%) in a dose-dependent manner,[101] which is thought to be related to reductions in biotinidase activity.[101][102] Notably, hair loss was reduced in valproic acid-treated rats that also received biotin supplementation (0.6mg and 6mg/kg performing equally). [102] Such a reduction of biotinidase does not seem to reliably occur in humans given these antiepileptic drugs (some positive[103] and null[66] results, with one showing variance between subjects[104]) but hair loss seems to be an infrequent side effect with valproic acid that is responsive to 10mg biotin supplementation.[66][103] Although valproic acid does not appear to be a direct inhibitor of biotinidase,[103] it is known to influence other enzymes that use biotin as a cofactor (3-methylcrotonyl-CoA carboxylase[104]).
 
+
 In instances that biotin deficiency occurs, of which there are numerous possible causes (genetic deficiency of biotinidase, avidin consumption, and as a possible side-effect of pharmaceuticals), administration of biotin appears to be able to restore hair loss that occurs with biotin deficiency.
+
 
 9.3
 
@@ -331,7 +357,9 @@ Biotin was initially investigated for nail health due to studies conducted in ho
 
 One study in women who had brittle nails or splitting of the nails (onychoschizia) noted that oral supplementation of biotin at 2.5mg over the course of at least six months increased nail thickness by 25% (reaching normal/healthy control values).[107] About half the group with brittle nails (4 of 8 subjects) also experienced reductions in nail splitting.[108] All nails from biotin-treated individuals showed some improvement when assessed by electron microscopy.[108]
 
+
 One study has found biotin supplementation to be effective when taken by women with brittle and splitting nails.
+
 
 10.
 
@@ -345,7 +373,9 @@ Due to similarities in structure between Alpha-lipoic acid (ALA) and biotin, ALA
 
 Lipoic acid and biotin (along with Vitamin B5) are also known to share the same intestinal transporter, the sodium-dependent multivitamin transporter.[42]
 
+
 Alpha-lipoic acid (ALA) appears to reduce the activity of some biotin-dependent enzymes in the liver according to one study. This occured in a manner that was reversible with biotin supplementation. ALA-induced suppression of biotin-dependent enzyme function did not appear to cause overt physiological dysfunction, however, so the practical implications of this work as they relate to ALA and biotin supplementation are not clear.
+
 
 10.2
 
@@ -355,7 +385,9 @@ Alcohol is able to inhibit transportation of biotin across the intestinal wall w
 
 The transporter that mediates biotin uptake, the sodium-dependent multivitamin transporter (SMVT) from the SLC5A6 gene[41][42] is known to be expressed in the small intestines and colon and its concentration is reduced in response to alcohol feeding to rats.[44]
 
+
 Alcohol reduces biotin absorption rates, with more potency the higher the alcohol concentration and the lower the biotin concentration, due to reducing the amount of transporters available to take biotin up into the body. This process may not affect superloading biotin, since at that dose biotin has another way of entering the body: passive diffusion.
+
 
 In alcoholics, circulating biotin concentrations are known to be diminished[90] particularly in people experiencing neuropathies.[113]
 

@@ -240,7 +240,9 @@ ALA can be found in food, mostly meat like organ tissue, and in some fruits and 
 
 Spinach at 3.14+/-1.11mcg/g dry weight as lipoyllysine[4][5]Kidney at 2.64+/-1.23mcg/g dry weight as lipoyllysine[4][5]Liver at 1.51+/-0.75mcg/g dry weight as lipoyllysine[4][5]Broccoli at 0.94+/-0.25mcg/g dry weight as lipoyllysine[4][5]Heart Tissue at 0.86+/-0.33mcg/g dry weight as lipoyllysine[4][5]Tomatoes at 0.56+/-0.23mcg/g dry weight as lipoyllysine[4][5]Lipoyllysine is a lipoic acid molecule bound to a lysine amino acid, and is a food storage form of alpha-lipoic acid that is bound to the proteins.[6] It is separated into lipoic acid and lysine via the glycoprotein enzyme lipoamidase (sometimes referred to as lipoyllysine hydrolase), which circulates in human serum.[7]
 
+
 Lipoic acid is found in a variety of food sources, but the levels found in food tend to be significantly lower than standard supplemental dosages.
+
 
 1.2
 
@@ -274,7 +276,9 @@ Absorption
 
 Orally ingested Alpha-Lipoic Acid (ALA) is rapidly taken up in the gut in a pH dependent manner by monocarboxylic acid transporters (MCTs). Coingestion with monocarboxylic acids such as medium-chain triglycerides or benzoic acid inhibits ALA uptake.[19] There is also the potential for ALA to be taken up by the sodium-dependent multivitamin transporter (SMVT).[20][21] In the gut, some ALA converts into dihydrolipoic acid. The overall bioavailability of ALA supplementation is approximately 30%[22][9] due to high liver extraction.[23] The Na-R-ALA form of ALA is completely soluble in water.[24] Although the R-enantiomer has higher intestinal uptake rates in vivo,[25] the S-enantiomer may stabilize uptake by preventing polymerization.[9]
 
+
 ALA is taken up moderately well, uses the MCT transporter, and may not be absorbed as well if taken alongside medium-chained triglycerides.
+
 
 2.2
 
@@ -296,7 +300,9 @@ Elimination
 
 ALA is also rapidly excreted by filtration in the kidneys, with 98% of digested ALA excreted within 24 hours[23]. However, most orally ingested ALA is lost in fecal excretion prior to intestinal uptake.[30] For these reasons, ALA is not stored long-term. According to Shay et al.[9] the average AUC is approximately 160+/-35ug/ml/min and the average Cmax is 2.8+/-1.5 for a 600mg oral dose of both enantiomers. These results rival Na-R-ALA for AUC (despite R-ALA showing higher peak values and faster excretion) but are well ahead of S-ALA in isolation.[25]
 
+
 The majority of supplemental ALA does not appear to be stored for longer than a day.
+
 
 2.5
 
@@ -320,7 +326,9 @@ In liver cells, alpha-lipoic acid has been found to increase oxygen consumption 
 
 This increased oxygen consumption is associated with fewer parameters of oxidation when ALA at 0.5% of feed is supplemented or a combination of ALA and L-Carnitine (as ALCAR) is supplemented. ALCAR at 1.5% of feed in isolation can increase oxidation.[39] The 30.8% increase in oxidation seen with aging (relative to control) in this study was abolished with combination therapy and normalized to the level of youthful rats. Aging was measured by MDA, Ascorbate, and 2',7'-dichlorofluoresin appearance.[39] This decrease in oxidation is also associated with a lesser decline of mitochondrial enzymes, which appears as an increase from pre-supplementation levels.[40][41]
 
+
 Supplementation of Alpha-Lipoic Acid (ALA) alone increases oxidative consumption (indicative of metabolic activity) in a similar manner to L-Carnitine in aged animals, which improves functional performance. ALA can also curb the pro-oxidative effects of L-Carnitine, demonstrating practical synergism.
+
 
 3.2
 
@@ -348,9 +356,12 @@ This suppression of appetite seems to influence both low-fat and high-fat diets,
 
 The only human study to be conducted on ALA at 600mg and appetite was conducted in schizophrenic patients and confirmed appetite suppression with increased energy (subjective rating), but had a very low sample size.[57]
 
+
 ALA appears to be a potent appetite suppressant in research animals, and is consistent in the appetite suppressing effects. It is surprisingly underresearched in humans, but may have the same effects.
 
+
 Some studies do note an attenuation of appetite suppression (less significance) about two weeks after consumption, so these effects may be short term and they do not seem to be fully abolished.
+
 
 4.2
 
@@ -368,27 +379,37 @@ Glutaminergic Neurotransmission
 
 Alpha-lipoic acid (0.05-1µM) appears to facilitate the calcium-dependent release of glutamate from the synapse via a PKA/PKC dependent mechanism, the magnitude of which reached around 27.3+/-3.1%.[64]
 
+
 ALA may facilitate the release of glutamate at the presynatic level, which would theoretically enhance signaling through glutaminergic receptors.
+
 
 It has been noted that incubation of glial cells with alpha-lipoic acid (10-50μM) increases glutamine synthetase activity in astrocytes and increases glutamate uptake by around 20% (and subsequent glutathione production by 40%),[65] a mechanism similar to resveratrol. This appears to be mediated via PKC but not PI3K.[65]
 
+
 ALA appears to stimulate glutamate uptake into glial cells for conversion into glutamine, which theoretically suppresses signaling.
+
 
 ALA does not appear to alter the synaptic membrane potential of glutamate signaling[64] and when investigating the NDMA receptors, researchers found alpha-lipoic acid to both suppress signaling (as ALA) or enhance signaling (as the reduced form DHLA).[66] 
 
 Interestingly, the age-related deficits in NMDA receptor Bmax appear to be normalized with alpha-lipoic acid in aged mice.[67]
 
+
 Alpha-lipoic acid is able to modulate the REDOX site of the NMDA receptor, but since it works in both directions its overall actions on receptor signaling are unclear. However, at least one study suggest a possible increase in NMDA receptor density in older subjects.
+
 
 The excitotoxicity seen with excess glutamate appears to be reduced with alpha-lipoic acid (100µM or above), which seems to be secondary to preserving glutathione concentrations in the neuron.[68][69][70] A reduction in NMDA-induced lesions has also been confirmed in rats injected with 10mg/kg ALA for 10 days, reaching about a halving in lesion size.[71]
 
+
 Alpha-lipoic acid appears to be neuroprotective against glutamate-induced toxicity secondary to supporting the glutathione pool (its depletion precedes cellular death), a mechanism similar to N-acetylcysteine.
+
 
 In pilocarpine-induced seizures, an intraperitoneal injection of 10mg/kg alpha-lipoic acid is able to normalize the increase in glutamate seen with pilocarpine.[72] This was associated with a preservation of taurine[72] and aspartate[73] concentrations as well.
 
 The increase in glutamate seen with cyanide toxicity (which releases glutamate[74], while neurotoxicity is thought to be mediated via the NMDA receptor[75]) appears to be attenuated with 25-100mg/kg ALA.[76]
 
+
 The elevation in glutamate concentrations seen in pathological conditions or toxin administration appears to be able to be attenuated with preadministration of alpha-lipoic acid.
+
 
 4.4
 
@@ -468,7 +489,9 @@ To examine the effect of short- vs. long-term ALA supplementation on the liver, 
 
 Notably, the above study was unique in that it investigated the effects of long term ALA treatment in otherwise healthy mice. In contrast, other studies that have shown a beneficial effect of longer term ALA treatment were conducted in rodent disease models, including high fat diet fed rats[88] and Zucker Diabetic Fatty (ZDF) rats.[89] Thus, long-term ALA treatment in healthy animal models may be liver toxic, causing a phenotype that closely resembles that of non-alcoholic fatty liver disease.[90][91] It should be noted that the dose of ALA in the healthy mouse study[87] of 20mg/kg is equivalent to approximately 146 mg/day in a 200 lb human. Although this is a relatively high dose of ALA, it is close enough to standard doses that caution may be warranted for long-term supplementation. 
 
+
 Although ALA has been shown to decrease oxidative stress and improve lipid metabolism in animal disease models, one study in healthy mice suggests that long term treatment may be liver toxic, causing damage that resembles non-alcoholic fatty liver disease. Since the effects of long term ALA supplementation in humans have not been studied, it is not currently known whether long-term high dose ALA may have similar detrimental effects in humans.
+
 
 7.
 
@@ -480,7 +503,9 @@ Mechanisms
 
 The following mechanisms are those that are independent of appetite suppression. As evidence by the appetite summary (Neurology Header, subsection 1) ALA has potent effects on reducing appetite. However, even when a third group has their energy intake restricted to match the intake of a group with appetite suppression (known as pair-fed feeding) ALA appears to induce some manner of weight loss beyond mere appetite suppression (although appetite suppression appears to be the most potent influencing factor).[49] At least one pair-fed study (control group, group fed ALA, third group fed only the amount of calories the ALA group wanted to consume) found that the statistically significant weight loss became insignificantly different between pair fed and ALA supplemented.[53]
 
+
 The most significant factor influencing alpha-lipoic acid's weight reducing effects is the reduction of appetite, and pair-fed studies suggest this may account for 80-90% (rough estimate derived from charts) of the overall weight-reducing effects secondary to ALA.
+
 
 In vitro, lipoic acid was able to induce apelin secretion from fat cells (an adipokine that may regluate glucose metabolism) but was deemed to be unrelated to changes seen in vivo.[47]
 
@@ -488,7 +513,9 @@ In regard to AMPK, at least one study has seen results that suggest AMPK inhibit
 
 When investigating the interactions of ALA and nutrient absorption, supplemental ALA for 56 days was able to reduce carbohydate uptake secondary to inhibiting the SGLT1 transport (sodium dependent glucose transporter) by approximately a third, when the jujenum was excised and tested in vitro with alpha-methylglucose.[49] When tested in vivo at 0.5% ALA though, there are no significant differences in the caloric content of the feces with ALA (assessed by bomb calorimetry).[46]
 
+
 ALA has the potential to inhibit nutrient uptake, but does not appear to be potent enough to be meaningful.
+
 
 7.2
 
@@ -650,7 +677,9 @@ Avidin
 
 Avidin is a protein found predominately in raw (but not cooked) egg whites, which is known to potently bind to and sequester biotin, leading to biotin deficiency if more biotin is not ingested.[132][133] Biotin has a similar structure to ALA, and avidin binds to biotin via the part of the molecule that is structurally similar,[134] meaning that avidin can also sequester ALA.[134]
 
+
 While it is not prudent to consume raw egg whites due to the avidin content, they should not be consumed alongside ALA as the avidin in the egg whites has the potential to sequester and inactivate the ingested ALA before it can be absorbed.
+
 
 15.
 

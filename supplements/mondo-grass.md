@@ -60,7 +60,9 @@ Ophiopogon japonicus (of the family lilaceae) is an evergreen perennial and Trad
 
 Composition
 
-Ruscogenin (named after its original source Butchers Broom)[3] and glycosides thereof such as Ophiopogonin D (0.000006% dry weight or higher[3]) and Spicatoside A[3]Ruscogenin glycosides (at two separate locations on the ruscogenin molecule) Ophiopogonin F (glycoside[1]) and Ophiopogonin G (glycoside[1])Ophiogenin[4]Ophiopogonol[4] (sequesterpene) and its glycoside ophioside A[4]Nolinospiroside F,[5][6] structurally different than the aforementioned but still a ruscogenin diglycosideHomoisoflavone ophiopogonone E[7] and ophiopogonanone A, E, and H[8][9][10][7]Methylophiopogonanone A and B[11][7]Methylophiopogonone A[8][7]The bioactives in this plant seem to either be the steriodal saponin known as Ruscogenin or glycosides based off of ruscogenin, although their concentrations appear to be much lower than the other known plant to contain them (ruscus aculeatus). The homoflavones also present in this plant may also play roles
+Ruscogenin (named after its original source Butchers Broom)[3] and glycosides thereof such as Ophiopogonin D (0.000006% dry weight or higher[3]) and Spicatoside A[3]Ruscogenin glycosides (at two separate locations on the ruscogenin molecule) Ophiopogonin F (glycoside[1]) and Ophiopogonin G (glycoside[1])Ophiogenin[4]Ophiopogonol[4] (sequesterpene) and its glycoside ophioside A[4]Nolinospiroside F,[5][6] structurally different than the aforementioned but still a ruscogenin diglycosideHomoisoflavone ophiopogonone E[7] and ophiopogonanone A, E, and H[8][9][10][7]Methylophiopogonanone A and B[11][7]Methylophiopogonone A[8][7]
+The bioactives in this plant seem to either be the steriodal saponin known as Ruscogenin or glycosides based off of ruscogenin, although their concentrations appear to be much lower than the other known plant to contain them (ruscus aculeatus). The homoflavones also present in this plant may also play roles
+
 
 There also appears to be a polysaccharide fragment associated with antidiabetic properties in plant roots[12][13] referred to as OJP1 (Ophiopogon japonicus polysaccharide 1[14]) which weights approximately 35.2kDa and is 98.5% carbohydrate; the carbohydrates being arabinose, glucose and galactose in a 1:16:8 ratio.[13][14] 
 
@@ -68,7 +70,9 @@ Other polysaccharides include one known as MDG1 which is a water soluble β-d-fr
 
 Carbohydrates consist of 71% of the roots dry weight.[2][18]
 
+
 The polysaccharides in this plant also appear to be bioactive in regards to diabetes and possible the immune system, and due to their large quantities they may be the major consitutents of consuming the her
+
 
 2.
 

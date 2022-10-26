@@ -110,7 +110,9 @@ Arctostaphylos uva-ursi (of the family Ericaceae) is a plant by the common name 
 
 It has been reported that consumption of the plant at traditionally-used doses may color the urine green[1][3] which intensifies upon exposure to the air due to oxidation of hydroquinone.[4] Its contemporary use is primarily due to its long-standing usage in traditional medicine for the treatment of issues related to painful urination and urinary tract infections (UTIs).[3] It seems to be traditionally used primarily for female usage and not for men, youth, or pregnant women.[3]
 
+
 Uva ursi, or 'bear's grape' in English, is a fruit-bearing plant which appears to have traditional usage in both North America and Europe for the treatment of urinary conditions in women. It seems to also have the odd side-effect of turning urine a greenish hue, and its medicinal usage in traditional medicine is limited to this one specific use.
+
 
 The plant Arctostaphylos uva-ursi (leaves unless otherwise specified) contains:
 
@@ -118,7 +120,9 @@ Arbutin (hydroquinone-1-O-β-D-glucoside; synonymous with arbutoside), one sourc
 
 Other compounds in the leaves include the essential oil component which is predominately linalool (7.3% of the total essential oil) and α-terpineol (7.8%) and predominately composed of terpenoid structures (46.8% total essential oil) and fatty acid-derived compounds (10.7%);[14] there is, overall, 243 unique molecules detectable in the essential oil.[14]
 
+
 Uva ursi contains a variety of phenolic compounds like most plants, but due to the high arbutin content and relatively low content of most other compounds tested for (with exception to the tannins) it could be seen as essentially a herbal vessel for arbutin.
+
 
 1.2
 
@@ -126,7 +130,9 @@ Physicochemical Properties
 
 It is recommended to store uva ursi preparations in a well-closed container in a dark location for stability.[4] The tea should be used immediately after preparation.[3]
 
+
 Uva ursi may require darkness and being stored in a container that is air tight for long term storage, particularly if it is already brewed as a tea (as liquid solutions that were once heat treated, such as tea, tend to have reduced stability when compared to the raw leaf).
+
 
 2.
 
@@ -142,7 +148,9 @@ In the small intestine, both the rat and the human appear capable of absorbing a
 
 Tablets of uva ursi (472.5mg dry leaf extract containing 105mg arbutin) and loose leaves (945mg containing 210mg arbutin) both appear to be absorbed after oral ingestion as assessed by urinary elimination (which requires absorption from the gastrointestinal tract at some point) with an approximate bioavailability of between 67.3-70.3% for the main bioactive arbutin.[16]
 
+
 Arbutin appears to travel to the intestines where it is absorbed intact via glucose transporters, and when assessing urinary concentrations of arbutin's metabolites it appears to be well-absorbed.
+
 
 2.2
 
@@ -150,7 +158,9 @@ Cellular Kinetics
 
 At a concentration of 5mg/mL (dry leaf equivalents), uva ursi appeared to inhibit the P-glycoprotein (P-gp) transporter, a protein that imports and exports xenobiotics from cells, after 15-60 minutes of measurement in monocytes (with little effect being seen in colorectal Caco-2 cells) while increasing its activity in both monocytes and Caco-2 cells following 18 continuous hours of incubation; potency of tested extracts varied,[11] and due to relatively rapid absorption and elimination of uva ursi in humans[16][17] it could be speculated that the acute measurement is more relevant rather than the latter.
 
+
 Uva ursi may have a short-term inhibitory effect on the order of minutes on P-glycoprotein in vitro, and a stimulatory effect on the order of hours, but the short-term effect are not seen in intestinal cells. This is of uncertain significance at this time.
+
 
 2.3
 
@@ -158,7 +168,9 @@ Metabolism
 
 Arbutin, following absorption, seems to be deglycosylated rapidly and then acted upon by phase II enzymes to either sulfonate the free hydroquinone into hydroquinone sulfate (via SULT enzymes) or glucuronidate them into hydroquinone glucuronide (via glucuronidase enzymes); there seems to be twice as much glucuronidation as there is sulfation, as assessed by urinary metabolites of arbutin.[16]
 
+
 Arbutin is readily metabolized into hydroquinone in the liver, and subsequently conjugated in the liver as well. The liver is thought to release mostly hydroquinone glucuronide or hydroquinone sulfate into circulation where it proceeds to be eliminated in the urine.
+
 
 2.4
 
@@ -166,7 +178,9 @@ Phase I Enzyme Interactions
 
 When uva ursi extract has been tested in vitro for P450 enzyme inhibition, the water extract showed inhibitory activity against CYP19-aromatase, CYP2C19, CYP3A7, CYP3A5, CYP3A4 (upwards of 70% inhibition at 1.25mg/mL dry mass equivalents).[11] The methanolic extract also had inhibitory properties to a more variable degree with exception of CYP19 where it was inactive.[11]
 
+
 One study has shown a potentially large inhibition of many enzymes in Phase I metabolism that mediate drug metabolism, including CYP3A4 (the enzyme that St. John's Wort inhibits). This could theoretically lead to several drug interactions, although the effect has not been observed directly.
+
 
 2.5
 
@@ -178,7 +192,9 @@ Hydroquinone glucuronide can be detected in the urine following oral ingestion o
 
 Bacteria in the urinary tract may bioactive hydroquinone (from hydroquinone glucuronide) by metabolizing the bond between the two molecules, leading to a high bacterial intracellular concentration of hydroquinone in vitro.[19]
 
+
 Arbutin metabolites (the hydroquinones) appear to be primarily eliminated in the urine, which would in theory be useful in the treatment of urinary tract infections.
+
 
 3.
 
@@ -190,7 +206,9 @@ Absorption
 
 Uva ursi leaves appear to have inhibitory actions on pancreatic lipase, an enzyme which aids in the absorption of dietary triglycerides, and is thought to be unrelated to its polyphenolic content; inhibition exceeding 70% at the tested concentration (16μL in vitro), and performed comparably well to Tilia platyphyllos and garden pea extract.[20]
 
+
 Uva ursi may have inhibitory actions on pancreatic lipase in vitro. Whether this applies to oral ingestion, and whether it can subsequently prevent triglyceride absorption from the intestines, remains unknown.
+
 
 4.
 
@@ -202,7 +220,9 @@ Neuroinflammation
 
 Arbutin, when tested in vitro in microglial cells, has been shown to have antiinflammatory properties in the concentration range of 100-200μM when incubated with the inflammatory agent lipopolysaccharide (LPS) with a full suppression of inducible NO synthase at 500μM.[21]
 
+
 One study noted antiinflammatory properties of arbutin in microglial cells. It is uncertain if this applies to supplementation due to arbutin (rather than its metabolites) being tested, and the high concentration used.
+
 
 5.
 
@@ -216,7 +236,9 @@ One compound found in the leaf extract of uva ursi known as coralagin appears to
 
 An aqueous extraction of uva ursi (leaf and berry) in vitro appeared to have inhibitory properties against the growth of Staphylococcus aureus with an MIC value of 90ug/mL,[22] performing less potently than the references of vancomycin (MIC 2.5ug/mL) and tetracycline (MIC 0.035ug/mL) but stronger than most other tested herbals in both MIC[22] and inhibiting quorum sensing (a cell-to-cell method of communication among bacteria that can activate virulence factors).[23] It has been reported (indirectly via review[24]) that uva ursi showed efficacy in over 70 strains of bacteria known to exist in the urinary tract, and the antibacterial effect of the extract seems to be partially related to reducing the ability of the bacteria to adhere to tissue walls;[25] a required mechanism for many infectious bacteria and the molecular target of cranberry procyanidins as well.[26][27]
 
+
 Uva ursi appears to have general antibacterial properties that affect a large amount of bacterial strains, and this antibacterial effect appears to be due to several possible mechanisms, including preventing bacteria from attaching themselves to target tissue (a similar function to cranberry procyanidins in the urinary tract, and similar to how pelargonium sidioides works in the upper respiratory tract).
+
 
 6.
 
@@ -228,7 +250,9 @@ General
 
 The leaves of uva ursi appear to be relatively potent antioxidants ex vivo, being able to almost fully inhibit oxidative spoilage of meat in refrigerated conditions up to a week.[6][28] This is likely due to a high presence of gallic acid and tannins,[6] which tend high antioxidative capacities ex vivo (with in vivo potency being uncertain).
 
+
 Uva ursi has antioxidant properties prior to ingestion could be useful in preservation (similar to oregano usage) but it is not yet known if this applies to the human body following oral ingestion.
+
 
 7.
 
@@ -240,7 +264,9 @@ Lungs
 
 One study conducted in cats (who may have different physiological responses to arbutin, as suggested by a dramatically lower LD50 of 42-86mg/kg relative to rodents and dogs at 300-1,300mg/kg[4]) noted that intragastric or intraperitoneal administration of 50-100mg/kg arbutin was as effective as a lower dose of codeine (10mg/kg) in suppressing coughs.[29]
 
+
 One study has suggested antitussive properties at high doses in cats. Practical significance of this study towards supplementation of uva ursi in humans is not certain at this point in time.
+
 
 7.2
 
@@ -252,17 +278,23 @@ Arbutin can be detected in the urine following oral administration of uva ursi l
 
 Uva ursi also contains corilagin, which significantly reduces the MICs of some antibiotics, [9] suggesting that leaf extracts may have additional antibacterial properties over isolated arbutin. 
 
+
 Upon absorption, arbutin is metabolized to hydroquinone glucuronide, which then is broken down to hydroquinone by bacteria in the urinary tract, which then accumulate the free hydroquinone, which is thought to underlie the therapeutic effects of uva ursi on urinary tract infections.
+
 
 When tested in rats, administration of a liquid suspension of uva ursi in one study failed to influence the rate of urination when compared to control water[31] whereas elsewhere intraperitoneal injections of 50mg/kg bodyweight uva ursi water extract caused an increase in urination over the next 24 hours (24% increase) relative to saline.[32]
 
 Uva ursi in drinking water of rats did not appear to influence calcituria (urinary calcium) or citraturia (urinary citrate) suggesting a possible lack of efficacy in stone formation or dissolution.[31]
 
+
 Beyond the antibacterial effects, there is mixed evidence as to whether uva ursi has a weak diuretic effect or none at all while preliminary evidence suggests that it does not increase urinary calcium (which suggests it may not be able to dissolve calcium-based kidney stones).
+
 
 In women who have experienced at least three episodes of cystitis during one year, supplementation of uva ursi tablets (three tablets of UVA-E, which also contained an unspecified amount of dandelion) over the course of one month and then monitoring over the remaining year saw a low recurrence of cystitis in the placebo group (23%) and no recurrence in the treatment group.[33]
 
+
 One study has been conducted showing benefits towards cystitis, but it was conducted using a product also containing dandelion and has not yet been replicated.
+
 
 8.
 
@@ -278,7 +310,9 @@ Arbutin has been used in cosmetic products for its claimed skin-whitening proper
 
 These properties seem to apply to uva ursi as well; a 50% ethanolic extract of the leaves appears to be inhibit melanin synthesis in vitro, although to a lesser degree than other plants in the same genus (Arctostaphylos).[40]
 
+
 Uva ursi, primarily through arbutin, appears to have a melanin-inhibiting properties and may confer whitening effects on the skin when topically applied. Human studies assessing the potency of arbutin against other drugs (ie. kojic acid) have not yet been conducted and it is very unlikely this applies to oral ingestion due to the high concentrations required in the skin to produce this effect.
+
 
 9.
 
@@ -294,7 +328,9 @@ A risk assessment for hydroquinone specifically from uva ursi preparations sugge
 
 Hydroquinone can also be found in other food products that are known to be relatively safe such as coffee and tea (20-90µg per 200-300mL) and red wine (562µg per 250mL)[43] and even unfiltered cigarettes which boast 110-300µg hydroquinone each would miss the NOAEL of hydroquinone (hitting 33-90µg/kg) assuming the European average (for smokers) of 18 a day.[43]
 
+
 While hydroquinone, one of the metabolites of the bioactive arbutin, is technically a carcinogenic compound, the overall exposure a human gets from consumption of uva ursi is likely well below the carcinogenic level when proper doses are adhered to. The limitation of supplementation for two weeks at a time is not scientifically supported, but precautionary.
+
 
 9.2
 
@@ -302,5 +338,7 @@ Case Studies
 
 One case study reports a patient (otherwise healthy 56 year old woman) who continuously used uva ursi tea for three years who reported bilateral Bull's-eye maculopathy;[44] while causation was not placed on the herb, the plant possesses melanin-inhibitory properties[40] which were hypothesized to play a role.
 
+
 One case study associated eye damage with uva ursi ingestion, but a direct connection was not confirmed. Supporting evidence for this hypothesis lacks at the time, although a plausible mechanism for this adverse effect exists.
+
 

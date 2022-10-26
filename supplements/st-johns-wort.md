@@ -102,13 +102,17 @@ The NSCC that appears to be specifically implicated is TRPC6[6][7] and it appear
 
 It was noted that hyperforin also elevated calcium ion concentrations in neurons (PC12) with an EC50 of 1.16μM, only slightly less potent than its influence on sodium ions.[4]
 
+
 Hyperforin appears to be capable of causing an influx of ions (primarily sodium) into various cells such as neurons due to acting on channels which mediate their uptake
+
 
 This is potentially related to the antidepressant effects of St.John's Wort since it is known to inhibit serotonin reuptake despite not influencing the serotonin transporter[8] like SSRIs would; the reuptake has been tied into an increase in intracellular sodium ion concentrations.[9] Reuptake inhibition has occurred with many other neurotransmitters as well including dopamine, noradrenaline, glutamate, and GABA[10] although dopamine may be most sensitive (serotonin less sensitive and noradrenaline potentially unresponsive from standard doses[11]).
 
 This has been noted in the prefrontal cortex with oral supplementation in rats[11] and in vitro in corticol neurons[8] and hippocampal cells.[7] Oral supplementation failed to influence neurotransmitters in the striatum.[11]
 
+
 The influx of ions seems to be related to the inhibition of neurotransmitter reuptake that is seen with hyperforin, and thus this mechanism may underlie the antidepressant effects of St.John's Wort (as it appears dopamine and serotonin are primarily affected, their reuptake inhibition leading to antidepressant effects)
+
 
 3.
 
@@ -152,7 +156,9 @@ Hypericum perforatum induces many CYP450 isozymes such as CYP3A4, CYP2C19, and C
 
 Studies have also been done in humans examining St. John’s wort's effect on phase I metabolism. A study with 12 healthy individuals showed that CYP2C9, CYP1A2, and CYP2D6 were not influenced after 900 mg daily (as 300 mg thrice daily) of St. John’s Wort for 14 days, although CYP3A4 was induced.[21] In another study where CYP3A4 was induced, another cytochrome, CYP2C19, was induced in 12 healthy adult males where St. John’s Wort was given 300 mg three times a day for two weeks.[22] Patients with low CYP3A4 baseline activity are more likely to undergo 3A4 induction with St. John’s wort.[23] Also, a human study showed that, in addition to St. John’s wort being a CYP2B6 inducer, it significantly induces intestinal and hepatic CYP3A4 when administered over 2 weeks.[24] A study with 12 healthy subjects with 900 mg St. John’s wort determined that long term use did not alter the CYP2C9, CYP1A2, or CYP2D6 activities.[25] Although, in females treated with 300 mg three times a day for 14 days, a study showed CYP1A2 induction by St. John’s wort.[26] CYP3A activity returns to baseline approximately 1 week after cessation of St. John's wort.[27]
 
+
 St. John’s Wort has been shown to induce several enzymes in phase I metabolism both in vitro and in humans. This could lead to several significant drug-drug and drug-supplement interactions.
+
 
 3.6
 
@@ -210,13 +216,17 @@ Serotonergic Neurotransmission
 
 Subchronic administration of St.John's Wort has been noted to increase 5-HT2 serotonin receptors in the frontal cortex of the rat brain.[48]
 
+
 Potential influence on serotonin receptors
+
 
 Hypericum perfotatum is known to inhibit serotonin reuptake in a manner not associated with the serotonin transporter (SERT),[8] which is the common mechanism of SRI/SSRI antidepressants. The active component is known to be hyperforin (amongst other possible components)[49] and appears to work by increasing intracellular sodium concentrations.[9] Unlike monensin, a chemical that can increase intracellular sodium concentrations unilaterally leading to toxicity,[52] hyperforin appears to only do so to a certain degree before losing efficacy in vitro.[9]
 
 Mild elevations of serotonin have been noted in the prefrontal cortex of rats given 300mg/kg St.John's Wort (4.1% hyperforin).[11]
 
+
 Hyperforin is likely the component of St.John's Wort that increases serotonin activity overall, and this appears to be due to inhibiting serotonin reuptake in an atypical manner
+
 
 4.4
 
@@ -226,7 +236,9 @@ Hypericin[53] and the flavanol fraction of hypericum perforatum[54] are known to
 
 Catechol-O-methyltransferase (COMT) can also be inhibited by hypericum perforatum at 100µM while hypericin is inactive on this enzyme.[55]
 
+
 While the plant has been noted to have inhibitory actions on both MAO and COMT, which would normally confer some antidepressant properties, it is uncertain if these mechanisms are relevant to supplementation due to high concentrations needed at the level of the enzymes
+
 
 4.5
 
@@ -240,5 +252,7 @@ The studies included in this meta-analysis that were against placebo are cited h
 
 Non-response to St. John's Wort has been noted in some persons.[58]
 
+
 St. John's Wort, overall, appears to reduce depressive symptoms with a potency not significantly different than SSRIs and TCAs (Pharmaceutical anti-depressants); some non-responders to St. John's Wort have been noted, who then respond to regular therapy
+
 

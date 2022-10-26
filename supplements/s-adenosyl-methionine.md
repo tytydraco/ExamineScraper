@@ -148,11 +148,15 @@ Endogenous Regulation
 
 SAMe is involved in the latter stages of the regulatory pathway involving folic acid (Dietary Folate) and cobalamin (Dietary B12). Folate converts to 5-methyltetrahydrofolate (5-MTHF; bioactive folate) which converts circulating homocysteine back into the amino acid methionine (a process that uses Vitamin B12 as a cofactor to proceed in); L-Methionine then binds to an Adenosine group from ATP to create S-Adenosylmethionine (SAMe), which is used to donate methyl groups to a variety of reactions that degrade SAMe into S-Adenosylhomocysteine to be fed back into the aforementioned cycle (after dissociating from Adenosine to become Homocysteine once again).[1][2] This cycle is sometimes referred to as the one-carbon cycle.
 
+
 SAMe is involved in a methylation cycle with Folate and B12, and serves to travel around the body to donate methyl groups to allow other bodily reactions to proceed
+
 
 In regards to other compounds of the one-carbon cycle after supplementation of SAMe, it appears that when 400mg of SAMe is supplemented and raises plasma SAMe by 9.6-fold (Cmax values, as AUCs were weighted and may be misleading) that increases also occur in 5-MTHF (1.95-fold) and S-adenosylhomocysteine (2.9-fold) yet both Homocysteine and Methionine are unaltered.[3] No increase is seen either with 800mg over 4 weeks.[4]
 
+
 May influence other compounds in the one-carbon cycle, but not homocysteine
+
 
 1.2
 
@@ -164,17 +168,23 @@ Relative deficiency states (when circulating levels are found to be less than th
 
 One study in controlled diabetics undergoing various stages of nephropathy (pathology of kidney failure associated with diabetes) noted that the normal relationship between SAMe and 5-MTHF were dysregulated (mostly in advanced cases of nephropathy) and that serum SAMe decreased inversely to a rise in S-adenosylhomocysteine.[10]
 
+
 SAMe levels in serum appear to be lower during depression, and may be lower in HIV infected individuals
+
 
 Schizophrenic patients tend to show higher than normal SAMe levels in serum[11][12] with one intervention quantifying serum levels of 16 Schizophrenic patients (using antipsychotic medication) at 255.4-273.8ng/mL (+/-52.1 to 71.8 variance), with subsequent supplementation causing further increases.[13]
 
 One study on elderly persons with a cobalamin deficiency has noted elevated SAMe as a clinical sign, which is accompanied by elevated S-adenosylhomocysteine, Methylmalonic acid, and Homocysteine; these abberations were normalized after cobalamin treatment.[14]
 
+
 Some situations are associated with higher than normal serum SAMe levels, such as Schizorphenia and cobalamin deficiency
+
 
 Men appear to have a significantly higher erythrocytic SAMe level than do women without supplementation.[15] Women may experience a quicker plasma peak of SAMe after oral administration when compared to men, currently unknown as to why this occurs;[16] it is possibly related to lower serum levels of SAMe at baseline observed in women relative to men.[17]
 
+
 Some gender differences as it pertains to SAMe in the body and in response to supplementation
+
 
 1.3
 
@@ -184,7 +194,9 @@ SAMe is produced biological in the S/S form, and can convert into an R/S form pa
 
 At least one study exists where a reduced potency of SAMe was noted during the study, and a new shipment needed to be achieved; the authors thought conversion to R/S may play a role, but did not perform analysis to confirm.[24]
 
+
 It is possible that, over time, SAMe may lose its potency secondary to degradation of the active component into a less active form
+
 
 2.
 
@@ -198,7 +210,9 @@ Conventional forms of SAMe appear to have a bioavailability of 0.5-1.0% after or
 
 SAMe at 100mg given as a tosylate disulfate salt (enteric capsules) appears to have enhanced bioavailability of 2-3%.[26]
 
+
 Appears to be poorly absorbed in the intestines
+
 
 2.2
 
@@ -208,7 +222,9 @@ Serum
 
 In healthy persons give an acute dose of 1000mg of SAMe (16.8+/-1.3mg/kg) in a fasted state (tosylate disulfate salt) notes a Cmax of 2.37-2.50umol/L (+/-1.58-1.83) at a Tmax of 5.2-5.4 hours.[26] AUC24h was 8.56+/-5.16 and 10.3+/-8umol/L/h in men and women respectively, which is thought to be due to differences in body weight; a half-life of 6.06-6.2 (+/-1.8-2.6) hours was noted.[26]
 
+
 There appears to be a dose-response in SAMe elevation of plasma concentrations, with oral supplementation able to increase serum SAMe above normal concentrations in healthy persons
+
 
 After repeated dosing of 1000mg SAMe, the Tmax of SAMe in serum appears to decrease nonsignificantly from 5.3+/-1.25 hours after the first dose to 4.20+/-1.87 hours after 5 days.[26]
 
@@ -220,11 +236,15 @@ SAMe has been noted to effectively cross the blood-brain barrier after intraveno
 
 It has been noted that binding of SAMe to serum proteins is negligible.[27]
 
+
 Does not appear to bind to serum proteins
+
 
 On the level of the cell, transport of SAMe across the cellular and mitochondrial membrane does not occur passively but occurs via a high-specifity transporter[28] of the Folate Biopterin Transporter (FBT) family.[29] This transporter (SAMC, encoded by the SLC25A26 gene) is saturable, inhibited by S-adenosylhomocysteine,[30] and although mRNA for this transporter is expressed at relatively equal amounts in the liver, brain, heart, lungs, kidney, and skeletal muscle it has 7-fold higher expression in testes and slightly lower levels in the spleen (relative to liver); these may not necessarily reflect transporter activity.[28]
 
+
 SAMe has its own cellular transporter known as SAMC
+
 
 2.4
 
@@ -252,21 +272,29 @@ SAMe is thought to be related to depression due to being an intermediate of the 
 
 Some abnormalities have been noted in the enzyme methionine adenosyltransferase which manufacters SAMe in the body in depressed schizophrenic patients while not being noted in manic counterparts at certain times, suggesting a link to depressive disorders.[38][39][40]
 
+
 Due to positive correlations with well-being and SAMe (with lower levels associated with depression and higher levels not associated with depression) SAMe has been investigated for usage in Depression; the above results only note correlation however, and not causative roles
+
 
 A review of trials assessing oral doses of SAMe between 200mg and 1600mg notes that they appear to have similar efficacy to Tricyclic Antidepressants (a currently outdated pharmaceutical option for depression) and more effective than placebo,[1] these conclusions were again reached in a later meta-analysis of trials.[41] When assessing brain-wave function of infusions of SAMe in otherwise healthy indivdiuals, the result of SAMe infusion is similar to that observed with imipramine and with TCAs.[42]
 
 In regards to speed of onset, a review of trials[43] notes that SAMe has been associated with some improved depressive symptoms in a few days when standard Tricyclic Antidepressants took up to two weeks (although this study used parental),[44] and that the addition of SAMe to TCA therapy improved the rate of which persons reported a bettering of symptoms.[45]
 
+
 By itself, SAMe appears to have some degree of efficacy in treating depression that rivals the efficacy of Tricyclic Antidepressants
+
 
 One study has been conducting investigating SAMe at 1600mg daily (two divided doses) as adjunct therapy alongside SSRIs for 6 weeks and found that improvements in depressive symptoms as rated by HAM-D (rating scale) improved from 17.6% to (a reported) 36.1% and remission rates were improved from 11.7% to (a reported) 25.8%;[46] these numbers were noted elsewhere to be miscalculations[47] and were actually 46.1% and 35.8%, respectively. This study suggested efficacy for SAMe in SSRI-resistant populations (although it was not a mandatory inclusion criteria), and side-effects were not different between groups which were mixed gender.[46] This study was built off of a previous pilot study where augmentation of SSRI therapy in non-responders or partial-responders was noted with 800-1600mg SAMe.[48]
 
+
 One of the few nutritional supplements to be found to augment SSRI therapy, alongside creatine supplementation
+
 
 A 12-week double-blind subsample of another study of people with major depressive disorder found a significant effect for 1600-3200mg SAMe daily compared to placebo and also superior to 10-20mg escitalopram at weeks 2,4, and 6, but not weeks 8-12 as the escitalopram arm experienced a slow but steady improvement over time which eventually caught up with the SAMe arm.[49] Response rates (defined as a 50% or greater reduction in HAMD-17 score) were 45% of the SAMe group, 31% in the escitalopram group, and 26% in the placebo group.[49]
 
+
 SAMe may be similar to an SSRI (escitalopram) in efficacy for up to 12 weeks.
+
 
 In studies on non-depressed individuals where depressive symptoms are measured, 800mg of SAMe for 8 weeks in Schizophrenics was unable to influence depressive symptoms any more than placebo (baseline serum SAMe within normal range).[13]
 
@@ -288,15 +316,21 @@ Cognition
 
 1600mg oral SAMe daily in two divided doses of 800mg in otherwise healthy adults (25.2+/-0.8yrs) noted that both phosphocreatine (bioactive form of creatine) were increased by 9.2+/-3.3% while beta-nucleoside levels (of which includes ATP) were decreased by 7.9+/-3.6%; no changes were noted with inorganic phosphate or pH.[17] These effects as similar to those seen with 31P MRS studies on creatine supplementation, and may be due to SAMe donating a methyl group to Guanidinoacetate (GAA, precursor of Creatine) to accelerate its synthesis.[17]
 
+
 In otherwise healthy young adults, SAMe may have benefits similar to those seen with creatine supplementation in the brain
+
 
 One trial in persons with depression who failed to respond to SSRI therapy taking 400mg SAMe twice a day (800mg total) for two weeks with a doubling of dose (1600mg) for the next 4 weeks noted significant improvements in memory recall and a trend towards enhanced word finding as assesssed by a cognitive and physical symptoms questionnaire (CPFQ).[53] This study failed to note significant benefits to focus, mental acuity, wakefullness, or ability to focus.[53]
 
+
 May have weak cognitive enhancing effects in depressed persons, which tend to be more prone to cognitive deficit
+
 
 In a study (double-blind crossover) testing either 400mg or 1600mg SAMe for 15 days in otherwise healthy elderly persons (57-73yrs) noted that the higher dose was associated with drowsiness 6 hours after consumption which may have preceded the reduced performance in numerical memory; 15 days of consumption of 400mg was associated with elevated mood but reduced numerical memory.[54]
 
+
 Mixed results in otherwise healthy and non-depressed older persons
+
 
 4.
 
@@ -318,7 +352,9 @@ A study conducted in otherwise healthy individuals administering 800mg SAMe dail
 
 One study investigating, retroactively, whether SAMe was associated with increases in serum Homocysteine (known to be a risk factor for cardiovascular incidents) noted that SAMe treatment was not associated with an increase in Homocysteine from baseline to the end of the trial; this study did note significant differences between groups (SAMe and placebo) at baseline, which limits conclusions.[57] Administration of 1600mg daily for 4 weeks also failed to increase homocysteine, although a small (and deemed insignificant) increase in formaldehyde was noted in a few subjects tested.[58]
 
+
 Supplemental S-Adenosylmethionine does not appear to influence serum Homocystine levels significantly
+
 
 5.
 
@@ -332,7 +368,9 @@ Fibromyalgia is a non-specific pain disorder of the musculoskeletal system (musc
 
 Overall, one review on the subject matter noted that there is weak evidence for the reduction of Fibromyalgia symptoms with SAMe treatment,[62] ranking higher than NSAIDs while lower than SSRIs.
 
+
 Appears to be some efficacy for Fibromyalgia, but no comparative studies nor replicated oral studies for assessment of 'how' effective it is
+
 
 6.
 
@@ -362,7 +400,9 @@ One study using 1000mg of intravenous SAMe noted that, in comparison to standard
 
 A more practical intervention (less than 36 weeks of gestation) using oral SAMe at 1000mg (divided into two doses) compared against 600mg UDCA (two divided doses) noted no significant differences in clinical signs of pruritis but UDCA again outperformed SAMe in reducing serum bile acids, bilirubin, and liver enzymes.[70] Oral administration of both agents also shows additive effects, similar to the aforementioned intravenous SAMe study,[71] and at least two studies note no significant improvements in cholestasis in pregnant women following oral consumption of SAMe.[72][73]
 
+
 Appears to be somewhat effect at attenuating the effects of cholestasis in pregnant women, but routinely underperforms relative to Ursodeoxycholic Acid (UDCA). Improvements in pruritis seem similar though, and therapies are additive
+
 
 6.4
 
@@ -370,7 +410,9 @@ Viral Responses
 
 Pegylated IFNa is a medication sometimes used in treatment of Hepatitis C infections during the early stages of infection, due to the importance of IFNa in the virological response; methyl donors such as SAMe and betaine (derivative of choline) appear to enhance signalling of IFNa to the nucleus via JAK-STAT[74] since the virus itself overexpresses Protein Phosphatase A2 (PP2Ac)[75] which suppresses PRMT1 (a molecule that preserves the action of STAT1 in the JAK-STAT pathway via methylation[76]); adding other methyl donors is thought to circumvent this inhibition[74] and in a pilot study on persons with Hepatitis C where there was initially only 14% of persons achieving an early virological response SAMe at 1200mg (and betaine at 6g) was able to enhance this number to 59% when paied with IFNa/ribavirin standard therapy, but did not significantly benefit the sustained virological response (10%).[77] Another study on this topic notes that 53% of persons were able to sustain an early virological response following 1200mg SAMe in isolation with 48% of previous nonresponders experienced no detectable HCV mRNA after 48 weeks when SAMe was combined with standard therapy.[78]
 
+
 Due to its methyl donor properties, SAMe may have a role as adjunct therapy for Hepatitis C
+
 
 6.5
 
@@ -394,9 +436,12 @@ Two meta-analysis' have been conducted on SAMe on Osteoarthritis that have found
 
 A Phase IV trial in persons over 18 with Osteoarthritis comparing the effects of SAMe (1200mg in three doses) against the established drug nabumetone (1000mg) for 8 weeks noted that there were no significant differences in pain relief, rescue medication usage, side-effects, or withdrawal from the study.[84] Pain at baseline was rated 56.6+/-15.2 (on a possible rating scale of 100 on a Visual Analogue Scale) with reductions to 49.4+/-19.1 (13% reduction) at week 4 and 44.2+/-22.5 (22% reduction) at week 8.[84] There were some differences in pain at week 4 in favor of Nabumetone in regards to pain and this apparent delay has been noted in studies comparing SAMe to Naproxen[80] and the COX-2 inhibitor Celecoxib;[24] this suggests benefits with SAMe to rival pharmaceutical options may take up to 8 weeks to be of effectiveness.
 
+
 In studies assessing SAMe against placebo, SAMe treatment at doses between 400-1200mg appear to be significantly better than placebo at improving limb functionality and reducing pain in persons with diagnosed Osteoarthritis; with more relative efficacy towards functionality
 
+
 In comparative studies, SAMe is of similar potency to a variety of pharmaceutical options of Osteoarthritis (Nabumetone, NSAIDs, Naproxen, Celecoxib) although it appears to take a longer period of time to 'kick in', from 30-60 days after the start of taking SAMe
+
 
 8.
 
@@ -410,7 +455,9 @@ Methylation in the testes appears to be important for testosterone product per s
 
 Testosterone itself appears to beneficially influence SAMe production and utilization in the body (assessed by mouse studies), where in the kidneys (not observed in liver tissue) testosterone can increase SAMe content via inducing the S-Adenosylmethionine synthase enzyme;[86] the rate-limiting enzyme for SAMe production.[87] This enzyme is regulated in prostate and seminal tissues as well,[88][89] where orchidectomy (removal of testicles) can reduce levels of SAMe synthase by 34% after 3 days and further decreases after a week but is preserved with low-dose testosterone injections.[90]
 
+
 Testosterone itself appears to regulate SAMe levels in the testes secondary to manipulating the rate limiting enzyme, where proper SAMe levels preserve testicular function; it is not known how supplemental SAMe affects the testes or testosterone
+
 
 9.
 

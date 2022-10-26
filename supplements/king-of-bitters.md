@@ -196,7 +196,9 @@ It also goes by the names Chiretta (or Chirayetah in Urdu), King of Bitters (as 
 
 Although all parts of the plant have traditionally been reported at times, the leaves are the most common medicinal part of this plant.[4]
 
+
 Has usage in traditional medicine for both being a liver tonic and anti-cancer agent (Ayurvedic medicine) and is most popular for its usage in Traditional Chinese Medicine for reducing the severity and length of cold/flu symptoms
+
 
 1.2
 
@@ -206,7 +208,9 @@ Andrographis Paniculata tends to contain in the leaves:
 
 Andrographolide at (commonly seen as the main bioactive[7][3] at 24.72-43.16mg/g in the flowers[8] but 0.81-1.86% (81-186mg/g) overall[9]) with up to 4% being reported.[7]Isoandrographolide, Bisandrographolide A[10] and Neoandrographolide (16.65+/-4.48 mg/g in the cotyledons[8])14-deoxy-11,12-didehydroandrographolide14-deoxyandrographolide at 10.67-24.54mg/g (1-2.5%)[8] with highest content in young leaves[8]Andrograpanin[7]Skullcapflavone I7-O-Methylwogonin[7]Various methoxyflavones[11][12][13][14]3,4-Dicaffeoylquinic acid[7]Onysilin[7]β-sitosterol, stigmasterol, and ergosterol peroxide[13]Despite the above quantification of Diterpenoids (Andrographolide and related names), products derived from the herbs tend to have variable quantities (market assessment of products);[15] and one review[7] noting that the Andrographolide content in the leaves can vary from between 0.5% and 6% dry weight.[15][16][17]
 
+
 The Andrographolide class of nutrients are the active ingredients, and in the plants themselves they have large variability
+
 
 2.
 
@@ -220,7 +224,9 @@ TRPV4 is a calcium channel that, upon activation, increases intracellular calciu
 
 Bisandrographolide A has been noted to be an agonist of the TRPV4 receptor with an EC50 of 790-950nM without having any affinity for TRPV1-3; Andrographolide per se was inactive on any receptor.[10] 
 
+
 One of the secondary bioactives is a potent and highly selective TRPV4 receptor activator
+
 
 3.
 
@@ -234,7 +240,9 @@ In an oral bioavailability in rats using 20mg/kg of Andrographolide Paniculata (
 
 The decreasing bioavailability with higher doses appears to be related to excessive P-Glycoprotein efflux, and incubation with Vermapril can increase its absorption and accumulation into cells.[21]
 
+
 Appears to have great absorption at low doses (1mg/kg in rats, equivalent of 0.16mg/kg in humans or about 11mg for a 150lb human) with progressively reduced absorption at higher doses; this may underlie its apparently high toxicity threshold (large safety buffer)
+
 
 3.2
 
@@ -324,11 +332,15 @@ In LPS-activated macrophages, 14-deoxy-14,15-dehydroandrographolide was able to 
 
 This has been noted elsewhere with the ethyl acetate fraction of Andrographis Paniculata following oral ingestion of 0.78-3.13mg/kg in mice injected with LPS after Andrographis feeding for a week; this study noted that 6.25mg/kg failed to reduce lethality from LPS like lower doses.[28]
 
+
 Some compounds may have anti-inflammatory effects, with fairly potent effects in vitro
+
 
 At 1µM, lymphocyte proliferation and IL-2 secretion is enhanced by Andrographolide (14%), 14-deoxyandrographolide (5%), and 14-deoxy-11,12-didehydroandrographolide (7%) although the dichloromethane and methanolic extracts (which contain these molecules) are more potent, suggesting synergism from other bioactives.[34]
 
+
 On immune cells, Andrographolide may possess weak to moderate immunostimulatory properties
+
 
 6.2
 
@@ -346,7 +358,9 @@ In persons (n=152) with pharyngotonsillitis, daily ingestion of 3-6g of Androgra
 
 In persons with uncomplicated Upper Respiratory Tract Infection (URTI) taking 200mg of an extract from the leaves of Andrographis Paniculata (31.3% Andrographolide) in two divided doses of 100mg daily for 5 days noted that while there were no differences between groups at baseline or at three days that on day 5 the Andrographis group experienced reduced symptoms (such as Expectoration, Headache, Cough, Fever, and Fatigue; Earache was the only unaffected parameter).[3] These seemingly general benefits are also noted with 1200mg of the basic plant extract, where 4 days of supplementation was able to reduce all measured symptoms of the common cold relative to placebo while sore throat, nasal secretion, and earache were significantly reduced after 2 days.[38]
 
+
 In regards to Andrographis alone, it appears to be effective in a general manner against respiratory infections
+
 
 For the purposes of general immunity, Andrographis Paniculata appears to be used in combination with Siberian Ginseng (Eleutherococcus senticoccus), which is either known as SHA-10 (standardization) or 'Kan Jang' tablets; the latter due to the combination also being used in Traditional Chinese Medicine.[39] There appears to be a large amount of human studies originating from Russia in support of this combination (cited from this study,[39] cannot be located online and conducted between 1967-1995).
 
@@ -356,7 +370,9 @@ One comparative study pitting Kan Jang capsules against Echinacea purpurea using
 
 One study using Kan Jang capsules with additional Schisandra Chinensis and Licorice (48mg Andrographolide daily) for one month has noted significantly less symptoms (relative to placebo) in persons with Familial Mediterranean Fever.[42]
 
+
 Kan Jang tablets (combination therapy of Andrographis paniculata and Eleutherococcus senticoccus) appears to be effective in reducing the signs and symptoms of upper respiratory tract infections when taken at the onset of sickness. At least one study suggests it is more potent than Echinacea purpuera
+
 
 6.4
 
@@ -370,7 +386,9 @@ Arthritis
 
 Supplementation of Andrographis extract (30% Andrographolide) at three daily doses of 100mg (300mg daily) for 14 weeks in persons with Rheumatoid arthritis failed to significantly reduce joint pain although both the count and degree of tender and swollen joints was significantly reduced with Andrographis intervention.[43] This study also noted reduced serum IgA and complement component C4.[43]
 
+
 At least one study noted that Andrographis may reduce swelling (but not significantly reduce pain) associated with Rheumatoid Arthritis
+
 
 7.
 
@@ -394,7 +412,9 @@ Mechanistically, in HepG2 cells treated with CCL4 both Andrographolide and Andro
 
 Andrographolide has also shown protective effects in H4IIEC3/G(-) liver cells induced with acetominophen toxicity, where 10µM of Andrographolide preserved 55% of cell viability and outperformed 10µM of Kutkin from Picrorhiza kurroa (46%) and Silymarin (24%).[47]
 
+
 Appears to have general hepatoprotective properties against pro-oxidative toxins, with one study suggesting it is dose-for-dose as effective as Silymarins from Milk Thistle (although Andrographus paniculata supplements tend to be dosed much lower inherently)
+
 
 One pilot study in persons with HIV (small group of persons without HIV) noted that treatment of 15-30mg Andrographolide in three divided doses was associated with an increase in serum liver enzymes (AST and ALT) in both groups, with the HIV group normalizing liver enzymes 3 weeks after supplement cessation.[35]
 
@@ -418,7 +438,9 @@ In animals with colitis given a water extract of Andrographis Paniculata, inhibi
 
 An extract known as HMPL-004 at 1200mg (thrice daily dosing of 400mg) in persons with Ulcerative Colitis daily for 54 days (on average) noted that the rate of clinical remission was 21% (clinical signs) or 28% (colonoscopy) with the rate of response being 76% and 82% (clinical and colonoscopy, respectively); the active control of 4500mg Slow-Release Mesalazine achieved similar rates of remission (16% and 24%, respectively) and response (74% and 71%).[53] Another trial using 1200mg and 1800mg in adults with mild-to-moderate colitis noted a dose-dependent increase in 'response to treatment' (reduction of symptoms associated with colitis) which trended towards significance at 1200mg but was significant at 1800mg; no significant differences were noted in side-effects relative to placebo.[54]
 
+
 Appears to show promise in Ulcerative Colitis, with one double-blind and one comparative study coming back positive currently
+
 
 8.5
 
@@ -430,7 +452,9 @@ In opposition to the above, doses of 1000mg/kg Andrographis Paniculata (6.1% And
 
 Additionally, a Phase I trial in healthy humans using Kan Jang capsules (the anti-cold Chinese Medicine where Andrographis is paired with Siberian Ginseng) at thrice the recommended dose for 10 days failed to find any toxic effects on sperm cells.[58]
 
+
 Has been implicated in inducing testicular toxicity, although this is a contested issue and the one human study using feasible oral doses has failed to find any signs of testicular toxicity
+
 
 9.
 
@@ -442,15 +466,21 @@ Immunological Interactions
 
 In lymphocytes (obtained from volunteer) treated with 1μM Andrographolide, an increase in CD3 (61–91% relative to control lymphocytes), CD4+ (40–61%), CD8+ (23–31%), and CD56 (2–3%) marker expression was noted and associated with enhanced lymphocyte-mediated toxicity on K562 cancer cells; this was also noted to occur at 0.1μM.[59]
 
+
 May enhance lymphocyte-mediated toxicity towards some cancer cells
+
 
 Treatment of cancer cells with Andrographolide was associated with upregulation of Death-Receptor 4 (DR4) which enhanced TRAIL-mediated apoptosis; this was downstream of p53 induction and abolished with coincubation of N-Acetylcysteine (and thus was mediated by pro-oxidative mechanisms).[60] TRAIL is a selectively tumor cytotoxic agent from the immune system[61] which is a therapeutic target in cancer research.[1][62]
 
+
 Appears to enhance TRAIL-mediated cytotoxicity in cancer cells via pro-oxidative (possibly hormetic) means
+
 
 Andrographolide is able to enhance cytotoxicity of reference cytotoxic drugs (5-fluorouracil, adriamycin, and cisplatin) when coincubated in multi-drug resistant colorectal cells[63] where it synergistically enhances the cytotoxicity of other agents.[64]
 
+
 May confer aid in multi-drug resistant cells
+
 
 9.2
 
@@ -458,13 +488,17 @@ Colon Cancer
 
 In human colorectal carcinoma cells (Lovo) noted that Andrographolide was accumulated up to 0.61+/-0.07μM/mg (12 hours) in cells and displayed a IC50 on cell growth of 8.6μM at 24 hours, with 48 hours incubation of 10-30μM causing near inhibition of proliferation.[65] One study assessing a wide variety of tumor cell lines noted that while the IC50 ranged from 5-15μM that one colon cell line (COLO205) was more sensitive with an IC50 of less than 1μM, although inhibitory effects were noted on all five tested colon cancer cell lines (SW620, HCT116, HT29, KM12, and COLO205)[59] and elsewhere noted to be 11μM on SW620.[34] Andrographolide is not the only molecule in Andrographis Paniculata to have cytotoxic effects on colon cancer cells, but the methylated flavones appear to have higher IC50 values (less potency) and most other diterpenes related to Andrographolide are about 3-fold less effective, although this study noted that 14-deoxy-14,15-didehydroandrographolide was similarly effective on COLO205 cells;[66] this potency of Andrographolide relative to other diterpenes has been noted in Leukeia cells as well.[67]
 
+
 Andrographolide appears to have potent anti-proliferative effects on a wide variety of colon cancer cells; the cytotoxic effects (ability to kill cells, in this context we mean tumor cells) of Andrographolide are currently not as well researched and some sources hint at it being quite less potent or unremarkable
+
 
 Andrographolide has been noted to accumulate cells in the G1 phase of the cell cycle (43.28% to 56.05% at 10μM) with a decrease in S fraction in a concentration and time dependent manner; this was associated with a downregulation of Cyclin D1 (no significant influence on Cyclin D3 or E although both Cdk2 and Cdk4 were reduced in protein content) all thought to be downstream of p53 induction of protein content and phosphorylation.[65]
 
 An increase in the Rb/E2F complex has been noted with Andrographolide,[65] and secondary to more of this complex less free E2F is released; E2F being a factor in cell proliferation and its complexation reducing proliferation.[68] One other study has noted anti-invasive effects of Androgapholide on colon cancer cells (CT26 and HT29) although attributed this observation to inhibition of MMP2 (and inhibition of Akt),[69] a protein that promotes invasiveness of tumor cells. Studies in lung cancer cells suggest that MMP2 inhibition may also be downstream of HLJ1 upregulation.[70]
 
+
 The anti-proliferative effects appear to be mediated by modulation of Cyclin proteins, which appear to be downstream of p53; other evidence (not on colorectal cells) hints that p53 is downstream of prooxidative and hormetic effects
+
 
 9.3
 
@@ -476,11 +510,15 @@ The related structure 14-deoxy-11,12-didehydroandrographolide has been shown to 
 
 An increase in G1 phase cells with concomitant decrease in S phase (as well as G2/M) has been noted in MCF-7 cells (treated with 5μM Andrographolide) at 24 hours with an increase in sub-G1 cell content at 48 hours.[59] Andrographolide was noted to induce p27 content and subsequent downregulation of Cdk4 (at 25μM).[59] 
 
+
 There is apparent cytotoxicity associated with Andrographolide in brast cancer cells, but at a very high concentration that may not be practically relevant
+
 
 Growth inhibitory effects have been noted on four breast cancer cell lines (MDA-MB-453, MCF7, MCF7/ADR and T47D) with an IC50 value ranging from 5-15μM[59] and another study using NCI/ADR-RES noting an IC50 of 15μM with Andrographolide and 30μM with 14-Deoxy-11,12-didehydroandrographolide.[34]
 
+
 There appears to be standard anti-proliferative effects at fairly low concentrations of Andrographolide
+
 
 Anti-tumor activities of Andrographolide have been confirmed in vivo in mice transplanted with tumors, and was associated with PI3K/Akt and suppression of angiogenetic factors such as VEGF and Osteopontin.[72]
 
@@ -494,7 +532,9 @@ Subsequently, Andrographolide has shown anti-proliferative properties in two Leu
 
 One study noting the IC50 of proliferation on Jurkat Lymphoma cells relative to healthy PMBCs noted that two dehydroandrgrapholides and Isoandrographolide had IC50 values of 50-100μM while the IC50 in healthy cells was either 150μM or 'greater than 200μM'.[66]
 
+
 Andrographolide has shown to have anti-proliferative effects in Leukemic cells at regular concentrations, with apoptosis being induced at higher concentrations
+
 
 At least one study has noted that Andrographolide was able to influence differnetiaiton of myeloid leukemia (M1) cells of mice into phagocytes,[76] which is not a common mechanism among plant-derived nutraceuticals.[1]
 
@@ -526,7 +566,9 @@ Isolated Andrographolide has been noted with inhibiting proliferation of three C
 
 In glioblastoma cells (U251 and U87) Andrographolide has been noted to inhibit proliferation in a concentration and time dependent manner between 10-100μM (no cytotoxicity noted) associated with G2/M arrest, increasing the percentage of cells in G2/M phase from 15.73% to 35.15% (123% increase in U251) and 16.99% to 33.61% (98% increase in U87) at 70μM.[77] This was associated with downregulation of Cdc25C and Cdk1 as well as slight inhibition of PI3K/Akt, although coincubation with a more potent PI3K/Akt inhibitor enhanced the anti-proliferative effects greatly.[77]
 
+
 Anti-proliferative effects on glioblastoma cells appear to be synergistic with the mechanism of PI3K/Akt inhibition
+
 
 9.9
 
@@ -552,7 +594,9 @@ In interventions with Andrographis Paniculata, side-effects do not appear to be 
 
 One study in HIV positive persons has noted that, with isolated Andrographolide, some symptoms similar to an allergic reaction were reported (from two subjects, no placebo group in this study)[35] while according to manufacturers (data retrived here[2]) there have been 5 reported cases of allergic reactions associated with Andrographis Paniculata supplementation.
 
+
 In general, human intervention data appears to show that commonly used doses of Andrographis Paniculata are safe; very few instances of allergic reactions or something sharing the symptoms has been reported
+
 
 In rats, the LD50 appears to be greater than 17g/kg.[78]
 

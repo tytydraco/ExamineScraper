@@ -158,7 +158,9 @@ When investigating the fecal metabolites, 4-deoxyecdysone was noted as well as c
 
 In humans, urinary excretion of ecdysterone tends to be one of three compounds; either the ecdysterone in an unchanged form, 2-deoxyecdysterone or as deoxyecdysone. The primary urinary metabolite, at 99.34%, is deoxyecdysone at 21hours after ingestion of 20mg ecdysterone.[31] A biphasic urinary excretion of the parent compound was noted with urinary analysis at 68 hours as well.[31] These metabolites are also found in rat urine.[32]
 
+
 There really isn't too much info on this topic that can be seen as 'conclusive'. There appear to be a wide variety of metabolites that have not been studied, and 20-HE either persists for longer in humans than mice (4.1h v. 8.15m) or its a dose-dependent response. Unsure at this time.
+
 
 3.
 
@@ -208,7 +210,9 @@ This calcium influx increases Akt phosphorylation more than 3-fold at a 0.1uM co
 
 It has also been noted in one study's discussion[17] that the 'tail' of ecdysteroids (γ-hydroxy-γ-methylpentanoate), when separated from the steroid backbone, resembles the anabolic leucine metabolite HMB (beta-hydroxy methyl-butyrate).
 
+
 If ecdysteroids get to the cell, they will increase protein synthesis; quickly, potently, and for a fairly long time. 
+
 
 6.2
 
@@ -246,7 +250,9 @@ Estrogens
 
 When tested in vitro in C2C12, 1µM 20-hydroxyecdysone (20-HE) increased myotube diameter in a manner independent of the androgen receptor; both corticosteroids and estrogen receptor blockers prevented 20-HE from promoting muscle growth.[46] When tested further 20-HE appeared to activate both the alpha variants of the estrogen receptor (ERα; EC50 of 25.7nM) and the beta variants (ERβ; EC50 13nM), and 10nM 20-HE was found to promote muscle growth through ERβ.[46]
 
+
 When tested in vitro, 20-hydroxyecdysone appears to promote muscle cell hypertrophy due to acting on the beta estrogen receptor. This molecule also appears to act on the alpha receptor, and when both receptors are being acted upon simultaneously the muscle cell still experiences hypertrophy
+
 
 9.
 

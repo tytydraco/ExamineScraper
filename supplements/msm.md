@@ -146,7 +146,9 @@ Methylsulfonylmethane (MSM; also known as dimethyl sulfone or DMSO2[1]) is the o
 
 Sources of MSM include (when available, quantity of the oxidized form of DMSO also included):
 
-Bovine dairy at 6.1−8.2ppm (0.0006-0.0008%)[7] with lower estimates at 3.3ppm[8]Chicken (liver and contractile tissue)[9]Alfalfa (0.07ppm of MSM; 0.10ppm of DMSO)[8]Beets (0.12ppm DMSO)[8]Cabbage (0.10-0.40ppm DMSO)[8]Corn (0.12-0.36ppm DMSO; up to 0.11ppm MSM)[8]Swiss chard (0.05-0.18ppm MSM; 0.12-0.15ppm DMSO)[8]Tomatoes; both the fruits (0.2-0.32ppm MSM; 0.16-0.69ppm DMSO) and tomato paste (0.64-0.86ppm MSM; 2.9-3.7ppm DMSO)[8]Tea from Camellia sinensis (0.3ppm MSM, 16ppm DMSO)[8]Beer (0.14ppm MSM; 1.4ppm DMSO)[8]Coffee (1.6ppm MSM; 2.6ppm DMSO)[8]Methylsulfonylmethane (MSM) appears to be a naturally occurring small sulfur containing molecule in a variety of food products, although the quantity in these food products is much less than that in supplementation and MSM from the diet is not likely to be a significant contributor
+Bovine dairy at 6.1−8.2ppm (0.0006-0.0008%)[7] with lower estimates at 3.3ppm[8]Chicken (liver and contractile tissue)[9]Alfalfa (0.07ppm of MSM; 0.10ppm of DMSO)[8]Beets (0.12ppm DMSO)[8]Cabbage (0.10-0.40ppm DMSO)[8]Corn (0.12-0.36ppm DMSO; up to 0.11ppm MSM)[8]Swiss chard (0.05-0.18ppm MSM; 0.12-0.15ppm DMSO)[8]Tomatoes; both the fruits (0.2-0.32ppm MSM; 0.16-0.69ppm DMSO) and tomato paste (0.64-0.86ppm MSM; 2.9-3.7ppm DMSO)[8]Tea from Camellia sinensis (0.3ppm MSM, 16ppm DMSO)[8]Beer (0.14ppm MSM; 1.4ppm DMSO)[8]Coffee (1.6ppm MSM; 2.6ppm DMSO)[8]
+Methylsulfonylmethane (MSM) appears to be a naturally occurring small sulfur containing molecule in a variety of food products, although the quantity in these food products is much less than that in supplementation and MSM from the diet is not likely to be a significant contributor
+
 
 1.2
 
@@ -174,7 +176,9 @@ Serum
 
 Following a single oral dose of 500mg/kg MSM to rats, serum MSM peaked at a Cmax of 622+/-37μg/mL recorded at a Tmax of 2.1+/-1.2 hours with a prolonged half-life of 12.2+/-1.4 hours; the overall AUC was 15,124+/-1082μg/h/mL.[3] When measured 48 hours after ingestion, MSM was still detectable in serum at 63.7+/-12.3μg/mL but was not detectable at 120 hours after ingestion (limit of quantification of 0.816μg/mL ).[3]
 
+
 Is detectable in serum following oral ingestion and appears to have a very long half life, can be detected in serum for up to two days following an acute dosage
+
 
 2.2
 
@@ -184,7 +188,9 @@ MSM has been noted to be incorporated into serum proteins[16] which may explain 
 
 MSM has been detected in the tissue of rats following oral ingestion of 500mg/kg MSM and when measured at 48 hours after the dose, with concentrations recorded in the liver (54.7+/-11.4), heart (59.4+/-11.7μg/mL), kidney (71.1+/-15.7μg/mL), spleen (58.2+/-14.4μg/mL), testes (69.4+/-16.2μg/mL), brain (58.7+/-11.8μg/mL), eyes (66.7+/-12.9μg/mL), skin (51.8+/-13.7μg/mL), and bone (35.2+/-0.9μg/mL); no detectable MSM was present 120 hours after oral ingestion, and the ratios of tissue:blood MSM was recorded at 0.856 (liver), 0.932 (heart), 1.11 (kidney), 0.909 (spleen), 1.08 (testes), 0.921 (brain), 1.05 (eyes), 0.807 (skin), and 0.563 (bone).[3]
 
+
 Can bioaccumulate in all measured tissues following oral intake
+
 
 2.3
 
@@ -206,7 +212,9 @@ MSM has been detected in neural tissue of persons consuming MSM supplements[18][
 
 For rat studies, MSM following an acute oral intake of 500mg/kg bodyweight (estimated human dose of 80mg/kg) resulted in a brain concentration of 58.7+/-11.8μg/mL wet weight with a 0.921 tissue:serum ratio; this suggests MSM easily passes the blood brain barrier.[3] The human case study with an unspecified oral intake of MSM initially reported a concentration of 2.36mM with lower levels on day 2 (1.95mM), day 5 (1.11mM), and day 10 (0.75mM) following supplement cessation,[20] and a subsequent small trial of seven persons ingesting 1-3g MSM noted a variable concentration range of 0.42-3.40mM and appeared to evenly accumulate in grey and white brain matter[19] (the response to this article[22] is a clarification on the supplement brand used).
 
+
 MSM appears to be able to bioaccumulate in the brain according to a variety of case studies and small trials, a full pharmacokinetic study on brain accumulation of MSM does not appear to have been conducted yet
+
 
 3.2
 
@@ -254,7 +262,9 @@ In vitro, DSMO shows general antiinflammatory properties by inhibiting the secre
 
 MSM has been noted in rats fed 0.06 or 0.6g/kg MSM daily for 13 weeks to dose-dependent reduce total arthritic symptoms and markers of damage without altering osteophytes (and synovial hypertrophy decreased equally in both groups).[35]
 
+
 Appears to have general anti-inflammatory properties in standard macrophage testing
+
 
 6.2
 
@@ -264,7 +274,9 @@ Sulfur is a component of cartilage[36] and its provision to persons with poor di
 
 Additionally, if sulfur is the main bioactive of concern then the benefits observed with MSM supplementation can be mimicked with other sulfur containing compounds such as the sulfur containing amino acids Cysteine and Methionine (in high levels in whey protein) or supplemental N-Acetylcysteine.
 
+
 A possible theory for the joint health effects of MSM is through provision of dietary sulfur, as a deficiency of sulfur has been linked to joint complications and attenuating a deficiency can explain the wide range of variability seen with sulfur containing joint supplements (as well as explain how glucosamine sulfate works, but hydrochloride does not)
+
 
 6.3
 
@@ -272,7 +284,9 @@ Allergies
 
 In 55 persons with allergic rhinitus (stuffed nose from allergies) given 2600mg MSM supplementation in an open-label trial for one month, allergic symptoms and respiratory complications were reduced by day 7 with symptoms reduction increasing at day 14 (not much more benefit between day 14 and 30) with no alterations in plasma IgE and histamine when subgroups were sampled; the potency was approximately 20-40% symptoms reduction (SASQ) but was not quantified.[39] This study was initially criticized for not providing enough information (pollen related counts)[40] which was later provided.[41]
 
+
 Potential usage as an anti-allergic compound, but this currently does not have blinded tested (lone trial was open-label without control group) and is not compared to a reference drug; it is currently impossible to assess the potency of MSM supplementation in allergy symptom reduction against other compounds
+
 
 6.4
 
@@ -280,11 +294,15 @@ Injury and Exercise
 
 3,000mg of MSM daily for 30 days in moderately active men is able to reduce muscle soreness (DOMS) by 1.5 points on a 5-point Likert scale when measured 48 hours after exercise, with 1,500mg being less effective (0.5 points) and not statistically significant; this study failed to note any changes in work volume or fatigue[42] and may be related to the demonstrated antioxidant capacity of MSM supplementation (50mg/kg in this study) which reduces markers of muscle damage[43] as well as both lipid peroxidation and protein carbonylation.[44]
 
+
 May be able to attenuate delayed onset muscle soreness (DOMS) slightly
+
 
 One trial has been conducted pairing hydrolyzed collagen, Arginine (as L-alpha-ketoglutarate), bromelain, and MSM in a model of rotator cuff injury for daily supplementation over 6 months; combination therapy was more effective than control in improving repair integrity and pain after the trial ended, although did not assess healing rates.[45]
 
+
 Insufficient evidence to suggest the role MSM may play in joint recovery
+
 
 6.5
 
@@ -298,7 +316,9 @@ The review[2] noted that the magnitude of benefit seen with high dose MSM (VAS r
 
 Other trials using MSM for arthritis-related pathology noted that 5g MSM paired with 7.2mg boswellic acids (bioactives of boswellia serrata) failed to outperform placebo for symptoms reduction yet reduced the need for pain killer usage (suggestive of limited efficacy)[50]
 
+
 Currently, although there is promise associated with MSM treatment in osteoarthritis there does not appear to be any indication that it is better than other options (Celecoxib, glucosamine, acetominophen). MSM supplementation shows the same variability and effect size as glucosamine sulfate, but with less overall evidence
+
 
 7.
 
@@ -330,7 +350,9 @@ MSM has been shown to have anti-cancer effects in breast cancer cells in a conce
 
 It was later noted in animals implanted with tumors (MDA-MB 231 cells) that MSM (given 2 weeks after tumor inoculation for 30 days) at 3-5% of a 100μL drink experienced slightly dose-dependent reductions in tumor size with the diameter of the tumor being reduced to 43% of baseline and overall growth reduced 70%;[53] inhibition of IGF-1 signalling in these cancer cells was confirmed in vivo,[53] and this mechanism is the direct opposite of that observed in healthy bone cells where STAT5 signalling downstream of GH is enhanced.[51]
 
+
 In breast cancer cells, appears to downregulate IGF-1 signalling via STAT proteins which confers anti-tumor effects; these have been confirmed in mice following oral ingestion of MSM
+
 
 8.3
 
@@ -338,7 +360,9 @@ Melanoma
 
 A study conducted in Cloudman S-91 (M3) murine melanoma cells with 200-400mM MSM incubation over 96 hours noted that exerted general anti-cancer effects (potent inhibition of DNA synthesis and reduction of cell contact, migration, and proliferation) and appeared to fully reverse the anchorage-independence of melanoma cells.[54] These effects were transient rather than curative (normalizing upon removal of MSM, reoccurring with reintroduction) and after two weeks of incubation induced senesence in all melanoma cells (senesence is normally reduced in cancer cells[57] and is sometimes a chemotherapeutic target goal[58][59]) which then took on a melanocyte phenotype.[54]
 
+
 Limited evidence with MSM in Melanoma, but the lone in vitro study is actually remarkable in its effect size (200mM fully inducing sensence in cancer cells in 2 weeks) and very novel among supplements. This topic requires further research to see if the promise holds in vivo
+
 
 9.
 
@@ -350,7 +374,9 @@ Intestines
 
 Oral intake of MSM in rats with colitis (400mg/kg) for four days was able to increase antioxidative parameters (enzymes and lipid peroxidation biomarker of MDA) and benefit histological examination (about halfway to control) of the tissue, and was noted to reduce levels of both TNF-α and IL-1β (inflammatory cytokines) relative to disease control with the former being fully normalized and the latter trending to such.[60]
 
+
 Possible protective effects on acetic-acid induced ulcerative colitis in the rat, but although a high oral dose was used the protective effects were rather impressive. Requires replication in humans, and MSM may have a role in treating inflammatory bowel diseases
+
 
 10.
 
@@ -366,7 +392,9 @@ MSM is thought to be a better alternative due to it being more polar and less re
 
 When measuring EDTA in plasma, the serum concentration reached with EDTA in isolation (19.9nM) was noted to be enhanced to 60μM; a 3000-fold enhancement with only 5-fold more EDTA concentration.[72] In vitro testing suggests that MSM shows similar concentration-dependent absorption enhancement as DSMO (in the range of 27-54mg/mL with 2.7mg/mL not being highly effective[72]). Currently, no comparative studies between DSMO and MSM can be located to assess potency.
 
+
 MSM may have a role in protecting the skin (currently unexplored, but theoretical due to the antioxidant properties and bioaccumulation) but currently preliminary evidence suggests that it may play a role in enhancing absorption of other topically applied agents.
+
 
 11.
 

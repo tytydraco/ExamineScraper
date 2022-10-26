@@ -144,7 +144,9 @@ Structurally, L-theanine is quite similar to the neurotransmitters glutamate and
 
 It has been noted that theanine may be able to alter the taste perception by reducing bitter nodes (chocolate, zinc, caffeine, grapefruit)[16] due to being a substrate of the umami perception on the tongue;[17] it is actually synergistic with the umami research drug inosine 5'-monophosphate[18] and it is reported to be the sole agent in green tea that promotes the sensation of umami.
 
+
 Theanine may be able to slightly negate the taste of bitter stimuli, and appears to be the molecules that mediates the umami taste of green tea
+
 
 The fermentation process of tea leaves appears to reduce the overall content of L-theanine somewhat (not absolutely) whereas the drying process (40-55°C for 7.1-8.5 hours) appears to increase the overall percentage of the tea that is theanine by weight; younger plants have higher theanine contents than older plants.[11] 
 
@@ -154,7 +156,9 @@ Types of Theanine
 
 Suntheanine® is a brand of theanine said to be over 99% L-Theanine isomer and is said to be produced from a mixture of glutamine with an ethylamine derivative.[19] It is patented by Taiyo Kagaku co. (company information[20] and patent link[21]) and appears to be used in a variety of studies that want standardization of L-theanine.[19][22][23][24][13][12][25]
 
+
 Suntheanine is a patented brand of theanine that appears to be quality assurred for over 99% L-Theanine by weight
+
 
 2.
 
@@ -182,7 +186,9 @@ C. Elegans
 
 In C. Elegans exposed to L-theanine at concentrations of 100-10,000nM, it appears that supplementation can extend lifespan by an average value of 3.6% and maximal lifespan (assessed by the 80th percentile) by 4.4%.[27] There was no apparent dose-dependnece, with the 100nM concentration actually being the most effective tested.[27]
 
+
 In C.Elegans there is a very mild increase in lifespan associated with L-Theanine
+
 
 4.
 
@@ -198,7 +204,9 @@ Following oral intake L-theanine reaches the brain within an hour and is elevate
 
 Specific brain organs that have been shown to have increases in theanine concentration following oral intake include the hippocampus.[32]
 
+
 Orally administered L-Theanine supplementation is able to cross the blood brain barier
+
 
 L-Theanine supplementation in the standard dosages (50-250mg) has been repeatedly noted to increase α-waves in otherwise healthy persons. This may only occur in persons with somewhat higher baseline anxiety[33][34] or under periods of stress (positive[22] and negative[35] results), but has been noted to occur during closed eye rest[13] as well as during visuospatial tasks[24] around 30-45 minutes after ingestion.[13][12] It appears that only the α-1 wave (8-10Hz) is affected, with no influence on α-2 wave (11-13Hz).[12]
 
@@ -206,7 +214,9 @@ L-Theanine supplementation in the standard dosages (50-250mg) has been repeatedl
 
 One study has reported increased theta wave function, but with a combination supplement of both theanine (60mg) and green tea extract (360mg) taken thrice daily over 16 weeks.[25]
 
+
 Theanine supplementation appears to cause an increase in alpha-1 wave production within 30-45 minutes following oral ingestion of standard supplemental doses. This increase in alpha-1 production is highly associated with the most common benefits of Theanine supplementation (relaxation and attention)
+
 
 4.2
 
@@ -228,7 +238,9 @@ Oral intake of theanine which increases plasma theanine to 7763.3+/-3875.4nmol/g
 
 L-Theanine at an oral dose of 2,000-8,000mg/kg in rats (human estimated dose of 320-1280mg/kg) cause a dose dependent increase in brain tryptophan and reduction of serotonin, reaching 20.5% and 15.5% at the highest dose.[42]
 
+
 Technically has anti-serotonergic mechanisms, but this occurs at a very high dose and likely isn't relevant for standard oral supplementation
+
 
 4.4
 
@@ -246,11 +258,15 @@ L-Theanine has been found to have affinity for all three glutamate receptor subs
 
 Theanine has been found to accumulate in glutaminergic neurons (via two mechanisms with KM values of 42.3μM and 1.88mM) with at least one being the glutamine transporter, as the two amino acids compete for uptake (glutamine inhibits with an IC50 of 329.2+/-59.5μM while the opposite inhibition is weaker, at greater than 1,000μM).[44] It has been noted that incubation with 1-10mM theanine was able to also suppress extracellular glutamate concentrations.[44]
 
+
 Theanine is an antagonist of the NMDA receptors (albeit with fairly weak efficacy) and can inhibit synaptic release of glutamate via blocking the transporter competitively. Theanine may also reduce glutamate levels, but this is also a fairly weak mechanism requiring a high concentration of theanine
+
 
 As an increase in calcium release[43] and dopamine stimulation[30] with high concentrations of Theanine (800µM) seem to be blocked with the NMDA antagonist D-2-amino-5-phosphonopentanoate, it appears that theanine may signal through NMDA receptors at high concentrations.
 
+
 Oddly, some mechanisms of theanine are blocked by NMDA antagonists. This suggests that higher concentrations of theanine may have their properties dependent on NMDA signalling
+
 
 4.6
 
@@ -288,7 +304,9 @@ Seizures
 
 Theanine has been noted to have anticonvulsive properties at 2.5-10mM/kg injections against caffeine, although it was not effective against other agents such as picrotoxin or strychnine.[28] Elsewhere, oral intake of 4% theanine in the water of rats was noted to be protective against pilocarpine but augmented seizures from pentylenetetrazol; the authors suggested usage in treating limbic seizures but not generalized seizures[49] and hypothesized that the mechanism was related to reducing GABA concentrations in the frontal cortex.[49] A potentiation of seizures induced by pentylenetetrazol, a GABAA antagonist,[50] have been noted elsewhere with both green and black tea containing theanine.[51]
 
+
 May have anti-seizure properties, but due to also being implicated in augmenting seizures (depending on the research drug used) and no current human studies its usage for controlling seizures is limited
+
 
 4.11
 
@@ -314,11 +332,15 @@ Rats fed 0.3% of their drinking water as L-theanine appear to have less circulat
 
 It is known that increases in corticosterone[54][55] and stress itself[56] are able to suppress LTP and memory processing in the hippocampus and the reduction of corticosterone is thought to underlie the memory preserving effects of theanine.[32][53]
 
+
 Oral intake of L-theanine in rats at feasible dosages is able to reduce circulating biomarkers of stress with or without an actual stressor being present, and can reduce the adverse effects of stress such as memory impairment
+
 
 Supplementation of 200mg Theanine prior to an arithmatic stress test has been noted to reduce perceived stress following the task and to attenuate the risk in salivary IgA concentrations (biomarker of stress) by approximately half at the conclusion of the task.[22]
 
+
 Reductions of percieved stress have been reported in human subjects given oral theanine at the standard dosages
+
 
 5.
 
@@ -332,7 +354,9 @@ Both green and black tea are known to be associated with enhanced vascular respo
 
 Theanine appears to promote nitric oxide formation via phosphoryating the endothelial variant of the nitric oxide enzyme (eNOS) on Ser 1177 with concentration dependent effects between 0.01-1µM (10µM being as effective as 0.01µM).[60] This phosphorylation and subsequent endothelial relaxation is PI3K/ERK dependent (not dependent on Akt).[60]
 
+
 Theanine appears to promote nitric oxide formation at relatively low concentrations, and is likely practically relevant following oral ingestion
+
 
 6.
 
@@ -372,9 +396,13 @@ General
 
 It has been reported that (via a publication from Taiyo co; producers of Suntheanine®) that oral ingestion of 99% L-theanine has failed to produce toxicity in rats at either 6,500mg/kg for 2 weeks or 2,000mg/kg over 28 days. 5% of the diet as L-theanine for 78 weeks has also failed to produce toxic effects.[20] A 13 week toxicity test in rats has established a No Observable Adverse Effect Limit (NOAEL) of 4,000mg/kg bodyweight, which was the highest dose tested.[72]
 
+
 In animal research, L-theanine appears to be remarkably safe as very high doses have failed to cause toxicity
+
 
 In an Ames test for carcinogenicity, theanine has reportedly failed to produce a response (suggesting noncarcinogenic).[73]
 
+
 L-Theanine does not appear to be carcinogenic
+
 

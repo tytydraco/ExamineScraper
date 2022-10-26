@@ -356,7 +356,9 @@ Sources
 
 Curcumin (chemically known as Diferuloylmethane) is the main active ingredient of the spice Turmeric (Curcuma Longa or JiangHuang) and is the main 'curcuminoid' compound (80% of curcuminoid weight is curcumin[1]) alongside the other three curcuminoids known as demethoxycurcumin, bisdemethoxycurcumin, and cyclocurcumin.[2][3] Curcuminoids in general are known to exist in the curcuma genus[4] (just in highest amounts in curcuma longa) although they are not exclusive to this plant. 
 
+
 Curcumin is the main molecule in the curcuminoid class of molecules (similar to how resveratrol is the main molecule in the stilbene class of molecules), and is most commonly associated with turmeric as that is its largest naturally occurring source
+
 
 Curcuminoids are known to exist in:
 
@@ -386,7 +388,9 @@ Complexing curcumin with phospholipids (a phosphatidylcholine-curcumin complex k
 
 THERACURMIN emulsions (nanoparticles) possesses a 40-fold higher AUC (Area-under-Curve) when compared to basic curcumin power in rats, and a 27-fold higher AUC in humans.[21] although another study found merely a 10-fold increase in AUC and a 40-fold increase in Cmax in rodents.[22] This increased bioavailability is, in part, due to increased water-solubility.[23] Usage of nanoparticles can be used up to 210mg without any apparent saturation in absorption, and increase to Cmax to 275+/-67ng/mL, an AUC of 3,649+/-430 ng/ml/h, and a half-life of 13+/-3.3 hours.[23]
 
+
 Several patented curcumin complexes exist to increase its bioavailability, with the most efficious being (compared to unenhanced curcumin) NovaSol (185-fold), CurcuWin (136-fold), LongVida (100-fold), Cavacurmin (85-fold).
+
 
 2.
 
@@ -436,11 +440,15 @@ A phospholipid complex has been noted to increase absorption 3.4-fold relative t
 
 Alternatively, the absorption can be increased by pairing curcumin ingestion with other lipophilic agents such as the volatile oils naturally occurring in the turmeric plant (6.9-fold[52]) or traditional preparation with gum ghatti (27.6-fold after processing[21]) or by enhancing the initially poor water solubility of curcumin by pairing with water soluble carriers (polyvinyl pyrrolidone) and antioxidants[53] where absorption can be further increased by adding in yet another lipophilic carrier.[46]
 
+
 Curcumin is inherently a very lipophilic (fat soluble) supplement, and ingesting curcumin by itself will result in very poor absorption. This absorption can be increased by numerous ways, either by introducing fat soluble components (may stimulate the intestines to produce micelles which carry fat soluble components via lymph) or formulating micelles within a dietary supplement. The water solubility of curcumin may also be enhanced with coingestion of water soluble carriers like polyvinyl pyrrolidone
+
 
 Due to the poor intestinal absorption curcumin (without augmenting absorption) is effective in reaching colonic tissue. An oral dose of 3.6g curcumin (which has been shown to increase plasma levels to 11.1+/-0.6nmol/L[54]) is able to increase the levels of curcumin in colorectal tissue to 7.7+/-1.8nmol/g (normal) and 12.7+/-5.7umol/g (malignant).[54]
 
+
 If curcumin is left unaugmented and thus poorly absorbed, then it is able to be retained in the colon where it may exert localized effects
+
 
 3.2
 
@@ -478,7 +486,9 @@ In rats, the protein expression of intestinal CYP3A4 and P-glycoprotein (P-gp) w
 
 In vitro studies using human enzymes or cells have shown that curcumin inhibits CYP1A2, CYP3A4, CYP2D6, CYP2C9 and CYP2B6.[65][66] Curcuminoid extract inhibited CYP2C19 > CYP2B6 > CYP2C9 > CYP3A activities with IC50 values ranging from 0.99 to 25.3 μM, while CYP2D6, CYP1A2, and CYP2E1 activities were less affected (IC50 values > 60 μM).[67] Inhibition of CYP3A4, CYP1A2, and CYP2B6 were due to competitive inhibition, while inhibition of CYP2C9, CYP2C19, and CYP2D6 were due to mixed competitive-noncompetitive inhibition.[67][65] 
 
+
 Curcumin interacts with many cytochromes p450, including the important CYP3A4, which metabolizes many drugs.
+
 
 3.6
 
@@ -490,7 +500,9 @@ There is also an interaction between vinblastine and curcumin. Vinblastine-induc
 
 In addition, when treating Salmonella typhimurium with ciprofloxacin or cotrimoxazole in animal models, curcumin lowers the antimicrobial efficacy of both drugs.[74][75]
 
+
 Curcumin may increase bleeding risk with antiplatelet and anticoagulant agents and decrease the efficacy of vinblastine, ciprofloxacin, and cotrimoxazole.
+
 
 4.
 
@@ -504,7 +516,9 @@ DHA is a long chain omega-3 fatty acid that is vital for brain development and p
 
 One animal study found that curcumin preserves DHA content in the brain and elevates enzymes that are involved in the synthesis of DHA from its precursors thus, resulting in increased DHA concentrations in both the liver and the brain. [81]
 
+
 Curcumin seems to enhance the synthesis of DHA and increase concentrations in the liver and the brain. This may prove especially useful for those who do not consume fish or supplement fish oil
+
 
 4.2
 
@@ -516,7 +530,9 @@ The protective effect of curcumin against glutamate-induced toxicity extends to 
 
 Phosphorylation of the NR1 subunit has been noted to be decreased with 15µM curcumin pretreatment[85] and the NR2A subunit appears to be upregulated[83] both of which have been attributed to the reduction in calcium signalling following stimulation with glutamate.[83][85] AMPA and kainate receptors are unaffected by curcumin treatment,[83] and the upregulation of NR2A is thought to play a role since protein synthesis is required for neuroprotection.[83]
 
+
 Curcumin, at least in vitro appears to be remarkably neuroprotective against glutamate induced cell death, which is either due to a modification of the NMDA receptors or due to preserving BDNF concentrations
+
 
 4.3
 
@@ -546,7 +562,9 @@ Inclusion criteria were those with a BMI > 30, subjects who had 2 > risk factors
 
 At baseline, the BDI score for the overall study population was 9.89 ± 6.50, which qualifies as mild depression. The BAI score for the overall study population was 28.66 ± 5.80, which qualifies as severe anxiety. The trial found that curcumin had no significant effect on the mean BDI score for the overall study population when compared to placebo (P=0.7), however, it was associated with a significant reduction on the mean BAI score when compared to the placebo group (P=0.03).[90]
 
+
 Curcumin seems to be effective in treating severe anxiety in females who are obese 
+
 
 4.6
 
@@ -558,7 +576,9 @@ Some trials have found curcumin to be somewhat effective in reducing symptoms of
 
 A recent randomized, double-blinded, placebo-controlled trial investigated whether curcumin was more effective than placebo at reducing symptoms of depression and whether different doses of curcumin would result in different effect sizes. The study found that curcumin was more effective than placebo in reducing symptoms of depression and this difference was statistically significant. Unlike previous trials, this study utilized a much larger sample size (123 participants) and was 12 weeks in duration. However, the study was not statistically powered to detect differences between the different doses of curcumin, which may explain why the study was not able to conclude whether high doses of curcumin were superior to low doses of curcumin in reducing symptoms of depression.[96] 
 
+
 Curcumin's anti-inflammatory, HPA-modulating and anti-oxidant effects may be able to regulate some of the systems involved in depression. The evidence in humans currently suggests that curcumin seems to be more effective than placebo in reducing symptoms of depression. However, longer studies, with larger sample sizes and more rigorous designs are necessary. 
+
 
 4.7
 
@@ -572,13 +592,17 @@ Alzheimer's Disease
 
 Curcumin is able to inhibit aggregation of beta-amyloid proteins in the brain, and thus prevent neural inflammation which would normally be downstream from said aggregation. The former has been noted in vivo[99] and has been hypothesized to be the reason as to why higher circulating levels of Beta-Amyloid have been noted (statistically insignificant) with curcumin supplementation[100] as beta-amyloid is prevented from aggregating in the brain,[101] and thus must circulate somewhere.
 
+
 Mechanistically, curcumin may be able to reduce Beta-amyloid build-up in neural tissue
+
 
 In a rodent model with advanced Alzheimer's Disease characterized by beta-amyloid accrual, curcumin was able to attenuate the decline in neural performance and was synergistic with DHA; a component fatty acids from fish oil.[102] This synergism may be related to how both agents can reduce beta-amyloid aggregation, but by differing mechanisms;[103][104] some authors hypothesize that this synergism may be further enhanced by exercise[105] due to an interaction with exercise and fish oil on neuronal plasticity.[106]
 
 A 6-month trial has been conducted on Curcumin and Alzheimer's, using basic curcumin at either 1 or 4g daily for 6 months in a population of 50+ year old chinese persons suffering from cognitive decline for at least 6 months prior to trial onset. Scores on the MMSE, a rating scale for Alzheimer's, increased progressively in the placebo (indicating cognitive decline) but were mostly static in both curcumin groups.[100] This trial is limited in statistical power due to its sample size of 27 completions and multiple confounds, however.[100]
 
+
 Some therapeutic promise, but evidence is limited
+
 
 4.9
 
@@ -590,7 +614,9 @@ Curcumin at 400mg (2,000mg of Meriva) in persons with acute algesic episodes app
 
 In patients of laparoscopic cholecystectomy (associated with pain and fatigue following the operation) given 500mg curcumin once every six hours noted that supplementation was associated with a reduction in pain as reported by a 100 point VAS (rating scale), where although no difference was noted on day three followup at weeks 1-3 was associated with significantly less (approximately half) the pain.[110]
 
+
 High dose curcumin supplementation appears to be effective in treating post-operative pain, arthritic pain, and in persons who suffer from pain routinely. High doses of curcumin seem comparable in potency to some reference drugs
+
 
 5.
 
@@ -624,7 +650,9 @@ This protective effect has also been demonstrated with LPS insult, a pro-inflamm
 
 The concentration of curcumin that induces HO-1 minimally (2μM) also appears to perturb endothelial cell replication, and 100nM curcumin has been noted to cause disproportionate DNA segregation and increase micronucleation.[119]
 
+
 Appears to hold protective effects on blood vessels, but its clinical significance is not known; seems promising, and most likely mediated through Heme Oxygenase-1
+
 
 5.5
 
@@ -636,7 +664,9 @@ Oral ingestion of curcumin at 0.2% of the rat diet is able to restore the age-re
 
 Oral supplementation of 80mg bioavailability enhanced curcumin daily for four weeks in otherwise healthy persons has resulted in a significant (about 40%) increase in circulating nitric oxide[114] which coincided with a similarly large spike in catalase activity.[114]
 
+
 In regards to nitric oxide, orally ingested curcumin appears to increase nitric oxide concentrations in serum. This has been noted in humans, and the degree of increase appears to be quite large
+
 
 Protection from L-NAME induced hypertension[122] and cyclosporin-A induced endothelial dysfunction[123] has been noted with curcumin at 200mg/kg or 50-100mg/kg of its metabolite (tetrahydrocurcumin).
 
@@ -670,7 +700,9 @@ Mechanisms
 
 In liver cells, Curcumin at 20uM appears to activate Adenosine Monophosphate Kinase (AMPK) to the same degree as Metformin (2mM), which is 400-fold more potent on a concentration basis.[126] Although glucose uptake into cells tends to be secondary to AMPK activation[127] and has been noted with both Metformin and another potent AMPK activator berberine, this study noted that Curcumin failed to induce glucose uptake, instead noting a trend to reduce glucose uptake.[126] This inhibition of glucose uptake has been noted elsewhere, where 100uM Curcumin was shown to inhibit insulin-stimulated GLUT4 translocation[128] despite curcumin twice being shown to not significantly interact with the insulin receptor itself (not cell type specific).[129][126]
 
+
 Remarkably potent AMPK activator, yet seems to fail at inducing glucose uptake into cells (and thus undermines many of the inherent benefits of AMPK as it pertains to diabetes)
+
 
 6.2
 
@@ -700,7 +732,9 @@ Curcumin has been noted to attenuate lipolysis induced by TNF-α and isoproteren
 
 Fatty Acid Synthase (FAS) is inhibited by Curcumin with an IC50 of 26.8μM (59.1μM in regards to β-ketoacyl reduction); the inhibition was noncompetitive when NADPH was the substrate, but mixed competitive with either acetyl or malonyl Coenzyme A[140] and had both slow and fast acting components in a concentration and time dependent manner.[140] 20uM of Curcumin abolished lipid accumulation in isolated 3T3-L1 cells undergoing differentiation, which may have been due to downregulation of PPARγ and CD36;[140] another study notes that PPARy activation by Curcumin is dependent on AMPK activation.[139]
 
+
 Curcumin appears to be a potency activator of AMPK
+
 
 7.2
 
@@ -708,7 +742,9 @@ Inflammation (Adipose Tissue)
 
 Inflammation appears to play a role in obesity, particularly one cytokine known as TNF-α; adipose of genetically obese mice overexpress TNF-α which is also seen in adipocytes of overweight individuals[141] and TNF-α expression appears to negatively correlate with LPL activity.[142] TNF-α itself does exert lipolytic activity,[143] so its elevation in obesity may be as a biomarker of underlying dysregulation rather than a per se contributor; the possibility of TNF-α resistance (a phenomena similar to insulin resistance, as TNF-α has its own receptor class on adipocytes[144]) also being possible.[145] TNF-α is a potent activator of NF-kB (nuclear receptor) which mediates many of its effects,[146] and overactivity of NF-kB and TNF-α in adipocytes are both highly correlated with metabolic syndrome and obesity.[145]
 
+
 In general, excessive inflammation in adipocytes (assessed by looking at biomarkers thought to be representative of inflammation such as TNF-α) is highly correlated with obesity and metabolic syndrome; interventions which reduce inflammation in adipocytes tend to also be those that can reduce fat mass in persons suffering from excessive inflammation
+
 
 A reduction in immune cell infiltration in adipose tissue has been noted in vivo when mice are given 3% curcumin in the diet for up to 4 weeks, as assessed by histological examination.[134]
 
@@ -792,11 +828,15 @@ One of curcumin's most well-researched effects on inflammation is inhibiting TNF
 
 Curcumin has also been noted to have a potent suppressive effect on macrophage migration. One recent study using an emulsified form of curcumin (nano-emulsified curcumin, (NEC)) administered to mice by oral gavage at 1g/kg reduced levels of the macrophage recruiting factor monocyte chemoattractant protein 1 (MCP-1) and reduced levels of blood monocytes (a precursor to macrophages). NEC also suppressed macrophage recruitment in a murine model for peritonitis and inhibited the migration of macrophage cell lines in vitro.[178] The suppressive effects of curcumin on macrophage migration were further demonstrated in another mouse model, where adipose tissue was isolated from mice fed a high fat diet and cultured to obtain adipose-tissue conditioned medium. When RAW 264.7 cells (a macrophage cell line) were treated with the conditioned medium, cell migration increased, which was suppressed by the addition of curcumin to the culture medium.[179]
 
+
 Curcumin has a potent suppressive effect on macrophage activation and recruitment to sites of inflammation. 
+
 
 Curcumin appears to be able to suppress most adhesion molecules investigated, including E-selectin and P-selectin, ICAM-1, VCAM-1, and ELAM-1, the latter three are due to NF-kB inhibition downstream of Akt.[180][181]
 
+
 Curcumin can reduce inflammation through a variety of means; preventing pro-inflammatory signals from acting on the nucleus (NF-kB related), reducing the ability of immune cells to get to sites of inflammation (adhesion related), and reducing the exacerbation of already present inflammation by reducing the activity of inflammatory enzymes (COX2, LOX related).
+
 
 10.2
 
@@ -808,7 +848,9 @@ When dosed equally (200mg/kg in rats), curcuminoids from turmeric are 4.6-8.3% m
 
 A pilot study over three months has noted that Meriva is able to improve symptoms of osteoarthritis as assessed by WOMAC by 58%[108] and a later study with 1,000mg turmeric as Meriva tablets (200mg curcuminoids of 75% curcumin) over eight months noted that the total symptoms of knee osteoarthritis were reduced to 41% of baseline values with improvements in pain, stiffness, and physical functioning (as assessed by treadmill testing).[109]
 
+
 Orally administrated curcumin appears to be highly effective in reducing symptoms of knee osteoarthritis, with the potency being comparable to other highly efficacious supplements like Boswellia serrata or S-Adenosyl Methionine
+
 
 10.3
 
@@ -836,7 +878,9 @@ Given the above two mechanisms (17beta-HSD3 and 5AR inhibition) are anti-androge
 
 In regards to aromatase, the enzyme that converts testosterone to estrogen (and thus higher activity would mean a more anti-androgenic profile), curcumin does not directly inhibit aromatase in vitro[191] but appears to reduce the catalytic activity of aromatase (also known as CYP1A) in mice.[192] Clinical relevance of these effects is not known.
 
+
 Curcumin appears to have protective effects on testicular functions, but possesses anti-androgenic activity. The concentration required for inhibition is high, but it appears to occur in vivo when it is met; it is uncertain what oral dose is needed for these effects, but it might occur with superloading and increasing bioavailability. Low doses of curcumin may have no adverse effect whatsoever
+
 
 11.2
 
@@ -846,11 +890,15 @@ In regards to possible anti-estrogen effects, the lack of inhibition on aromatas
 
 100nM of Curcumin is able to act as an agonist at estrogen receptors in MCF7 breast cancer cells, but has low activation of target genes relative to estradiol, although more potent than quercetin and Enterolactone (from Sesamin).[194] It is possible that Curcumin may act as a Selective Estrogen Receptor Modulator (SERM) and compete for the more potent estradiol, as it has been noted to reduce estrogen-induced cell proliferation elsewhere (was not tied directly to the estrogen receptor in this study).[195]
 
+
 In regards to anti-estrogenic activity, limited but theoretical potential of Curcumin to be antiestrogenic via either reducing the effects of aromatase or via acting as a SERM (not yet wholly established)
+
 
 A pegylated curcumin derivative (similar bioactivity, designed for injections) at 500mg in rats is able to exert estrogenic effects as assessed by sex organs (uterine changes indicative of estrogenicity in females).[190]
 
+
 High doses appear to be estrogenic
+
 
 12.
 
@@ -904,7 +952,9 @@ Curcumin (and the metabolite tetrahydrocurcumin [212]) appear to induce autophag
 
 Beyond the possible roles in longevity, autophagy promotion from curcumin is thought to be protective against gliomas[217][218] as glioma cells are resistant to apoptosis but readily destroyed by autophagy.[219][220] Parkinson's pathology may be attenuated with curcumin via preservation of autophagy[221]
 
+
 Curcumin appears to induce autophagy secondary to beneficial modulation of mTOR and ERK1/2 signalling (inhibition and activation, respectively) which may underlie both longevity promoting and select anti-cancer effects
+
 
 13.2
 
@@ -912,15 +962,20 @@ Interventions
 
 In drosophilia, curcumin can induce longevity via antioxidative properties[216] independent of caloric restriction yet is not complementary with caloric restriction (suggesting acting upon the same pathway)[222][223][224] with most efficacy at 100mM of the feed.[222] Interesting, administration of curcumin for an entire lifespan has been shown to have a possible suppressive effect on longevity but administration for youth (drosophilia health span, which is about the first 30% of life) prolonged median and maximum lifespan by 49% while administration during middle age (up to 45% of lifespan) had less promotion and administration in older age (senesence) reduced median lifespan by 4% (although maximum still increased 11%).[222]
 
+
 Curcumin has been shown to promote longevity independent of caloric restriction in fruit flies, and appears to have more potency in youth than in older individuals (where some suppressive effects on lifespan are noted)
+
 
 The metabolite of curcumin, tetrahydrocurcumin, appears to promote longevity in male mice by 11.7% at a dietary intake of 0.2% tetrahydrocurcumin, but is dependent on administration as youth.[225] This study failed to note an effect when mice started curcumin feeding at 19 months (the above results noted with earlier feeding at the 13th month), suggesting the youth requirement extends to mammals.[225] Longevity enhancement in mice has been noted elsewhere.[226]
 
 Conversely, one mouse study has noted a failure of curcumin to enhance lifespan when given at similar doses and times in F1 hybrid mice, despite caloric restriction being effective[227] and lifetime administration of curcumin (0.2%) starting at 4 months has also failed to promote lifespan in UM-HET3 mice.[228] Assuming a food intake of around 8.55g/45g bodyweight[229] and body weights around 45g for the majority of the life[227][228][225] an estimated intake of curcumin daily would be 17.1mg (converting to 380mg/kg bodyweight and an estimated human dose[230] of 22.8mg/kg or 1.5g for a 150lb person)
 
+
 There is some promising, but currently mixed, evidence to support the role of curcumin in anti-aging. This may follow the same motifs of requiring ingestion of curcumin in youth or at least prior to midlife,
 
+
 It is an unproven but attractive theory that curcumin works via Chaperone-mediated autophagy (covered on the Longevity page) due to both being prolongevity yet less effective in aged subjects (due to decreasing LAMP-2A expression)
+
 
 14.
 
@@ -948,7 +1003,9 @@ Curcumin exerts this apparent kidney protection via suppressing inflammation and
 
 Some protective changes are also present, as curcumin can upregulate Heme-Oxygenase 1 in kidney cells partially via NF-kB suppression[237] and this mechanism is linked to kidney protection effects.[238]
 
+
 Demonstrated to have protective effects on the kidneys in clinical settings, and animal studies suggest this may extend to preventative measures as well
+
 
 15.
 
@@ -1022,7 +1079,9 @@ Hydroxylated phenolic compounds are known to interfere with iron absorption via 
 
 500mg of turmeric, a dose commonly used to spice foods, does not appear to appreciably affect iron absorption.[252]
 
+
 Curcumin supplements may be able to bind to iron in the intestines and reduce its absorption, an effect that may not apply to low doses of turmeric applied as a food seasoning and may not be relevant when iron content of the diet is reasonable (only when iron is low do high doses of curcumin seem to interfere with its effects)
+
 
 15.10
 
@@ -1040,13 +1099,17 @@ General
 
 Although it has been suggested that curcumin exhibits selective toxicity toward cancer cells without affecting healthy cells, an in vitro study demonstrated that curcumin can induce apoptosis in healthy human T cells at a rate comparable to cancerous leukemia cells.[255] This effect occurred without any direct DNA damage to the T cells, but instead through activation of the extrinsic p53-independent apoptotic pathway.[255] This effect was seen to some degree at a curcumin concentration of 15 μM, but was most pronounced at a curcumin concentration of 50 μM.[255] For comparison, a 3.6 gram oral dose of curcumin raised plasma cucrumin levels to 11.1 nM in one study.[256] Another multiple dosing study of 10 g of a curcumin found that peak blood levels (not average) reached around 5 μM, although much of it was conjugated after passing through the liver.[257]
 
+
 An in vitro study has indicated that curcumin may have effects at high doses that could cause immunosuppression in theory.
+
 
 In 1993, the National Toxicology Program (USA) reported the toxic and carcinogenic properties of turmeric oleoresin, the organic form of turmeric, which contains a percentage of curcumin (79–85%) similar to that of commercial grade curcumin. Rats and mice were fed diets containing 1,000 to 50,000 ppm of turmeric oleoresin for 3 months and 2 years, and investigators found increased incidences of ulcers, hyperplasia, and inflammation of the forestomach, cecum and colon in male rats and of the cecum in female rats in the 2-year feeding studies. There was an increased incidence of thyroid gland follicular cell hyperplasia in female mice and equivocal evidence of carcinogenic activity in female rats, female mice, and male mice. These conclusions were based on increased incidences of clitoral gland adenomas in female rats, hepatocellular adenomas in female mice, and carcinomas of the small intestine and hepatocellular adenomas in male mice. The increased incidence of carcinomas of the small intestine was observed in mice taking average daily doses of curcumin of ∼0.2 mg/kg.[258] Additionally, 0.2% curcumin was given to rats over six months resulting in a reduction of iron. However, according to the author, this could be due to long-term supplementation and Western-type diet.[259]
 
 Two human studies have found that does of up to 12 g of curcumin are safe and well tolerated.[13][260] When using enhanced formulations to increase circulating levels of curcumin, 1g of MERIVA (Curcumin bound to lecithin) over 8 months is not associated with any side-effects.[109]
 
+
 Human studies of curcumin doses up to 12g daily have not found any side-effects.
+
 
 16.2
 
@@ -1056,7 +1119,9 @@ While the study discussed above did not see DNA damage in T cells, earlier in vi
 
 Another in vitro study in a human fibrosarcoma line has also found evidence of DNA damage starting at curcumin concentrations of 3-8 μM and apoptosis induced at concentrations around 10 μM.[263]
 
+
 In vitro experiments have found that curcumin may damage the DNA of human cells.
+
 
 Curcumin also caused damage and inhibited DNA repair genes including ATM, TR, BCRA1, 14-3-3sigma, DNA-PK, and MGMT mRNA after 48 hours of treatment in mouse-rat hybrid retina ganglion cells.[264]
 
@@ -1070,7 +1135,9 @@ An in vitro study examined the effects of curcumin on stages of mouse embryo dev
 
 In mice, IV curcumin-PEG reduced live births in mature females and reduced testicular testosterone concentrations and spermatogenesis in mature male mice.[268][269] Alternatively, a two-generation reproduction study in mice found no effects on reproduction other than a small body weight reduction in pups fed 10,000 ppm (847-959 mg/kg body weight) of curcumin orally.[270]
 
+
 The use of IV curcumin may lead to a decrease in fetal weight. 
+
 
 16.4
 
@@ -1078,7 +1145,9 @@ Human Toxicity
 
 There have been no clinical trials conducted in humans showing toxicity of curcumin. However, examining a 90-day supplementation in rats demonstrated that overdose or long term intake of curcumin could initiate oxidative stress, inflammation, and metabolic disorders possibly causing liver injury.[271] Additionally, data collected between 2004 and 2013 among 8 US centers in the Drug-Induced Injury Network revealed that 15.5% of hepatotoxicity cases were caused by herbal and dietary supplements. Out of the 130 related cases of liver injury due to supplements, 65% were from non-bodybuilding supplements that occurred most often in Hispanic/Latinos compared to non-Hispanic whites and non-Hispanic blacks. Of the 217 supplement products implicated in liver injury, turmeric was among the 22% of the single- ingredient products.[272]
 
+
 Curcumin may cause hepatotoxicity. 
+
 
 16.5
 
@@ -1088,7 +1157,9 @@ In healthy human subjects, dosages of 6g daily have been associated with minor f
 
 There have also been many cases reported of contact dermatitis with curcumin. However, these are usually in occupational setting where other airborne exposures could have contributed or there are other exposures in general that could have contributed to the dermatitis.[277][278][279][280][281][282]
 
+
 Curcumin may cause minor GI effects or dermatitis. 
+
 
 16.6
 

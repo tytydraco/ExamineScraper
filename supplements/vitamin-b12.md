@@ -94,7 +94,9 @@ Cobalamin (more commonly referred to as Vitamin B12) is an essential vitamin and
 
 The cobalamin molecule can be found in several forms depending on what it binds to including cyanide (cyanocobalamin), a methyl group (methylcobalamin), deoxyadenosine (deoxyadenosylcobalamin), and a hydroxyl group (hydroxycobalamin); the cyanocobalamin form is found in trace amounts in food and is the commonly supplemented form of B12.[8] While methylcobalamin or 5-deoxyadenosylcobalamin are the only forms that can be enzymatic cofactors, the other forms can convert into them.[7]
 
+
 Vitamin B12 is a water soluble essential vitamin (coming in a few different forms) that is used as an enzymatic cofactor
+
 
 1.2
 
@@ -110,11 +112,15 @@ Biological Significance
 
 Vitamin B12 is used as an enzymatic cofactor for a few enzymes, including:
 
-Methionine synthase required in purine and pyrimidine synthesis (and subsequent DNA synthesis), where methylcobalamin supports the enzyme that converts methyltetrahydrofolate into tetrahydrofolate (forms of folate) and subsequently homocysteine into methionine. This enzyme also reduces plasma homocysteine levels by using it as substrate to form methionine from[7]L-methyl-malonyl-CoA mutase, which uses 5-deoxyadenosylcobalamin as a cofactor to convert methylmalonyl CoA to succinyl CoA that acts to support energy metabolism[7]Vitamin B12 is required by a few enzymes in the body, and due to the importance of these enzymes in metabolism their disruption leads to disease states (hence why cobalamin is a vitamin)
+Methionine synthase required in purine and pyrimidine synthesis (and subsequent DNA synthesis), where methylcobalamin supports the enzyme that converts methyltetrahydrofolate into tetrahydrofolate (forms of folate) and subsequently homocysteine into methionine. This enzyme also reduces plasma homocysteine levels by using it as substrate to form methionine from[7]L-methyl-malonyl-CoA mutase, which uses 5-deoxyadenosylcobalamin as a cofactor to convert methylmalonyl CoA to succinyl CoA that acts to support energy metabolism[7]
+Vitamin B12 is required by a few enzymes in the body, and due to the importance of these enzymes in metabolism their disruption leads to disease states (hence why cobalamin is a vitamin)
+
 
 Vitamin B12 is also important in the process of methylation or methyl donation, a process where a small chemical group known as a methyl group is donated from one molecule to another to support metabolic function. A few supplements are known to interact with methyl donation including B12, folate, S-adenosyl methionine, and betaine (a metabolite of choline).[10][11]
 
+
 Beyond supporting enzymes in DNA synthesis and energy metabolism, vitamin B12 is also used in methylation processes with wide-reaching implications. This is not unique to vitamin B12, however, and is shared with a collection of molecules that can act as or support methyl donation
+
 
 1.4
 
@@ -126,7 +132,9 @@ A deficiency of vitamin B12 will ultimately lead to anemia (macrocytic), periphe
 
 Beyond complications in absorption, B12 deficiencies are also more prevalent in vegetarian populations than in omnivorous populations due to B12 being localized to animal products.[7] It can be found in very few plant products of the algae class (Chlorella is a source of bioavailable B12, but spirulina is not).
 
+
 Vitamin B12 deficiency is known to predispose persons to neural complications (impairment of cognition and neuronal damage) and a form of anemia known as macrocytic which is unique to B12 deficiency. The actual rate of deficiency is quite variable and it isn't fully known what it is, but elderly persons (above 65), vegetarians, or those with digestion or intestinal complications are almost always at a higher risk than otherwise healthy and omnivorous youth
+
 
 Vitamin B12 can be measured in the blood by serum B12 concentrations, which is reproducible and reliable but may not accurately reflect bodily vitamin B12 stores (as low B12 concentrations in plasma or vitamin B12 deficiencies do not always coexist in a reliable manner[19][26][27]) with a predictive value being reported to be as low as 22%.[28] According to serum readings, a concentration less than 200pmol/L when paired with a homocysteine reading above 20mM is a clinically significant deficiency.[29]
 
@@ -134,11 +142,15 @@ Other measurements include serum holotranscobalamin (holoTC) which reflects tiss
 
 Urinary or plasma methylmalonic acid (MMA, not to be confused with malondialdehyde or MDA which is a biomarker of lipid peroxidation) is also a biomarker for vitamin B12 deficiency, as reduced levels of B12 reduce the activity of the methylmalonyl CoA mutase enzyme which then causes an increase in MMA concentrations.[37][38] Similar to holotranscobalamin, MMA concentrations are elevated in thyroid conditions and impaired renal function[39][40] which may limit specificity (how reliably a reading indicates B12 deficiency and not something else) of this test.
 
+
 Vitamin B12 can be measured in the body as either blood measurements (reproducable but not fully accurate), serum holotranscobalamin (more accurate in all cases except kidney conditions) and either serum or urinary methylmalonic acid (MMA; more accurate but also altered in kidney conditions)
+
 
 One study using 10-500mcg of B12 (cyanocobalamin) for 8 weeks noted that while all dosages were able to increase plasma biomarkers of B12 status that there were still some persons who were deficiency, measuring at 8% (plasma B12), 12% (holoTC), or 15-25% (MMA).[41]
 
+
 Although 500mcg can normalize B12 deficiencies in most persons, there may be elderly persons who require a higher dose
+
 
 1.5
 
@@ -158,11 +170,15 @@ Vitamin B12 in the blood is bound to carrier proteins known as transcobalamins, 
 
 One of the reasons serum B12 is seen as unreliable as a biomarker[28] is due to a partial haptocorrin deficiency causing a reduction in total serum B12,[43] but since it does not actively transport B12 into tissue this does not affect bodily function as much as a deficiency in holoTC would (hence why holoTC itself is another biomarker of B12 status).[30]
 
+
 Vitamin B12 is carried in the blood by inactive transporters (haptocorrin) and active transporters (transcobalamin II). Fluctuations in the former may alter serum B12 readings without affecting vitamin status (since they don't give B12 to cells) while fluctuations in the latter do affect vitamin status
+
 
 A third carrier protein exists known as intrinsic factor (IF) which serves to transport cobalamin across the intesinal wall. Specifically cobalamin binds to haptocorrin in the stomach and upon degradation of haptocorrin by pancreatic proteases it is released and binds to IF, which then transports cobalamin via its transporters and is then itself degraded (freeing cobalamin to be grabbed by transcobalamin II).[44][45]
 
+
 Intrinsic factor serves as a mediator of intestinal absorption of B12
+
 
 As B12 is a relatively large molecule, it requires transporters to be taken up into cells rather than relying on passive diffusion.[46]
 
@@ -180,7 +196,9 @@ At least one study has noted that depressed serum concentrations of B12 (17% pre
 
 One study using antidepressant therapy noted that baseline B12 in serum was predictive of a successful outcome.[55]
 
+
 Although not unanimously affecting all depressed persons, the rates of B12 and folate deficiencies appear to be greater in depressed persons when compared to nondepressed controls. While homocysteine and folate are both implicated (and methylation in general), B12 itself appears to be implicated independently
+
 
 3.2
 
@@ -212,11 +230,15 @@ It has been noted that the liver is a large reservoir of vitamin B12 and that ma
 
 In patients with hepatitis C given either standard therapy (pegylated interferon-α with ribavirin) or standard therapy with additional B12 (5000mcg intramuscular injection every fourth week) over a period of 48 weeks, supplementation of B12 was associated with a significantly higher rate of early (21%) and sustained (34%) virologic response.[65]
 
+
 High doses of B12 may be somewhat protective against hepatitis C in persons who are already infected, as it is able to inhibit hepatitis C viral replication in a dose-dependent manner (seems specific to hepatitis C)
+
 
 In the same study that hepatitis C was inhibited in a concentration dependent manner, the classical swine fever virus and the encephalomyocarditis virus were unaffected by B12.[64]
 
+
 May not affect other viral infections beyond hepatitis C
+
 
 6.
 
@@ -238,7 +260,9 @@ Folate
 
 Folate (folic acid) is a B-vitamin commonly supplemented alongside B12 as high folate intakes can cause both a masking of anemia-related symptoms from B12 deficiencies[67] while possibly exacerbating macrocytic anemia[68] and not alleviating the risk for cognitive impairment from B12 deficiency.[67] Due to this, B12 is supplemented in instances where folate is required to reduce the risk of an undiagonsed B12 deficeincy.
 
+
 Ingestion of folic acid can mask a proper diagnosis of vitamin B12 deficiency, so they are commonly supplemented together not because they work well together but since adding B12 to folate reduces the risk of an undiagnosed deficiency of B12 occurring
+
 
 Supplementation B12 up to 500mcg does not influence plasma folate concentrations in isolation.[41]
 
@@ -252,5 +276,7 @@ General
 
 High serum levels of B12 (Hypercobalaminemia; defined as 950pg/mL or 709pmol/L[69]) are associated with some clinical conditions such as chronic myelogeneous leukemia, promyelocytic leukemia, polycythemia vera and also the hypereosinophilic syndrome which is primarly due to excessive production of haptocorrin (the inactive carrier).[69] These diseases are known to be those that are more potentially harmful and requiring of an immediate diagnosis,[70][69]
 
+
 A side-effect of a few serious conditions is elevated serum concentrations of B12, although B12 itself does not appear to cause these conditions (it is not causative of damage, but a biomarker thereof)
+
 

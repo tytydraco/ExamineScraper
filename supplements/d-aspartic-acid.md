@@ -116,13 +116,17 @@ Sources
 
 D-Aspartic Acid is one of the enantiomers of the amino acid known as Aspartate, where the common dietary enantiomer is L-Aspartate. 'Aspartic Acid' and 'Aspartate' are similar stuctures with aspartate being the conjugate base of Aspartic Acid, and interconversion occurring depending on the pH of the solution. The D and L refer to the direction the molecule bends light (with D-isomers bending light to the right, and L-isomers bending light to the left) and for all intents and metabolic purposes these two can be considered as different bioactive molecules. Molecules that differ only in their ability to bend light (those denoted with a D or a L, like L-Carnitine) are known as enantiomers, and a mixture of both enantiomers is called a 'racemic' mixture.
 
+
 D-AA is a naturally occurring alternate form of one of the main 20 structural amino acids
+
 
 D-Aspartic Acid can be found naturally occurring in the diet, with rich sources being (and the percentages referring to how much Aspartate is racemized in the D-enantiomer):
 
 Soy Protein (9%)[1]Soy Based Infant Formula (10.8%)[[1]Simulated Bacon (13%)[1]Nondairy Creamer (17%)[1]Casein (31%)[1]Zein (corn protein) (40%)[1]D-Aspartate can also be created (racemized) from L-Aspartate during the process of cooking or heating, and it has been reported that a doubling of D-Aspartate may occur in raw milk during the pasteurization process (from 1.5% to 3%).[2]
 
+
 D-aspartate co-exists alongside L-aspartate, and may be racemized based on the stimulus presented to the amino acids, with heat being most implicated in turing L-aspartate into D-aspartate
+
 
 1.2
 
@@ -130,7 +134,9 @@ Biological Significance
 
 L-Aspartate is non-essential amino acid and can be incorporated into protein structures, although D-Aspartate is not commonly associated with protein structures.[3] D-Aspartate has been found to be a constituent of human cartilage,[4] enamel,[5] and can be accumulated in the brain[6] as well as being a constituent of red blood cell membranes.[7]
 
+
 Aspartate is a non-essential amino acid, and the D-isomer is not commonly used for structural proteins. It serves as a signalling molecule
+
 
 The distribution of D-Aspartate in the mammalian brain is, for humans, around 20-40nmol/g wet tissue[3] with a higher content of around 320-380nmol/g in the brain of an embryo.[8] One study comparing normal brains against persons with Alzheimer's and found no differences in grey matter, with twice the accumulation in white matter.[9] Interestingly, concentrations of D-Aspartate in the hippocampus (dentate gyrus and CA1) are lower in older humans than they are in younger humans which may have roles in memory formation.[10]
 
@@ -140,7 +146,9 @@ D-Aspartic Acid can be produced endogenously from the amino acid L-Aspartic Acid
 
 In bacteria, D-Aspartic Acid can get methylated via the enzyme D-Aspartic acid methyl-transferase to become the excitotoxin NMDA (N-methyl-D-Aspartate), and uses S-Adenosyl Methionine (SAMe) as the primary source of the methyl group;[21] while NMDA was the first selective agonist for the NMDA receptor (donating its name), it is not a predominent transmitter endogenously formed in humans.[3] NMDA and D-Aspartate are both metabolized by the enzyme D-amino acid oxidase.[22]
 
+
 D-aspartate is an excitatory neurotransmitter. This seems to be present all across the brain, but to a higher extent in the pituitary and pineal gland
+
 
 1.3
 
@@ -168,7 +176,9 @@ Upon depolarization of a neuron, D-Aspartate is released into the synapse in a C
 
 D-Aspartate can also be substrate to produce the more well known neurotranmistter NMDA (N-methyl-D-Aspartate) via accepting a methyl group from a donor, and both NMDA as well as D-Aspartate itself can act with similar potency on NMDA receptors.[30]
 
+
 D-aspartate is both a storage form for an excitatory neurotransmitter, as well as a neurotransmitter itself
+
 
 3.2
 
@@ -178,7 +188,9 @@ Administration of 40mM Sodium-D-Aspartate daily for 12-16 days was able to enhan
 
 This study calculated oral dose being 60mg daily per rat, and 0.19mg/g daily, and caused no noticeable side-effects after one month of treatment. This dose also increased total D-Aspartate concentrations of the brain from 30.6+/-5.4nmol/g wet weight to 82.5+/-10nmol/g after 18 days of treatment, it specifically increased hippocampus levels of D-Aspartate by 2.7fold on average, and hippocampal concentrations of D-Aspartate correlated with improved performance.[31]
 
+
 Preliminary evidence suggests that D-aspartic acid, when orally ingested, is a cognitive enhancer
+
 
 3.3
 
@@ -222,7 +234,9 @@ Male Sex Organs
 
 D-Aspartate can influence the testicles via the NMDA receptors, present in both Leydig and Sertoli cells of the testes.[34] After being taking up into a cell, D-Aspartate appears to have the ability to induce testosterone release, although it tends to work synergistically with hCG by increasing the efficacy of hCG on a testicular cell.[35] This increase in testoterone synthesis is not seen after 1 hour of incubation (yet is after 16 hours), and can both increase cholesterol transport into the inner mitochondrial membrane by increasing expression of the StAR protein, which is a transporter that brings cholesterol into the mitochondria and is also influenced by Cordyceps.[35] hCG treatment is able to increase expression of StAR itself via a cAMP dependent pathway,[36][37] and incubation of a cell with D-Aspartate can increase hCG-induced StAR mRNA upregulation 3.5-fold and protein content by 1.9-fold and can increase in cAMP levels by 3.1-fold at 0.1mM and 5.25-fold at 5.25mM.[35]
 
+
 Increasing the activity of the rate-limiting step in steroidogenesis (steroid synthesis) in the testes may underlie the ability of D-aspartic acid to increase testosterone in otherwise healthy men, which has been noted once
+
 
 Oral intake of 500mg/kg and 1g/kg are associated with increases of 12 and 20% of 3β-HSD, respectively, in rats.[38]
 
@@ -232,7 +246,9 @@ D-Aspartic Acid may have the ability to induce oxidative stress in the testes, w
 
 In vitro, these pro-oxidative effects are concentration-dependent and start to occur at 250uM in the cytosol yet occurred at much lower concentrations in the mitochondria (5-50uM causing a two-fold increase).[38]
 
+
 Higher doses of 500-1,000mg/gk in rats are associated with preliminary toxicological signs, and this dose correlates to 80-160mg/kg in humans; an oral dose of 7.2-14.4g for a 200lb human
+
 
 Beyond the testes and testosterone synthesis, D-Aspartate appears to be involved with spermatogenesis (production of sperm) and may have a role in reproduction due to its correlations.[39] One human study using 2.66g D-Aspartate daily for 90 days in men with abnormal seminal profiles (asthenozoospermia and oligoasthenozoospermia) noted improvements in seminal motility and concentration (ranging from 50-100% improvements from baseline) and was associated with higher fertility rates in men.[40] This study also noted a significantly higher D-Aspartate concentration in the semen of men given D-Aspartate (96-100% higher concentrations).[40]
 
@@ -258,7 +274,9 @@ There is approximately seven-fold higher in the anterior pituitary than the post
 
 In the pituitary, D-Aspartate is involved in inducing Prolactin secretion.[3] Injections of D-Aspartate at 0.5-4M/kg induce a release or Prolactin in rats in a dose-dependent manner from 1.9-fold (0.5M) to 3.7-fold (4M) measured 30 minutes after injection,[46] this was thought to be mediated via NMDA-mediated activation following uptake into the anterior pituitary.[46]
 
+
 D-aspartate is highly localized in the pituitary, and may be synthesized locally as well. It is involved in a neurohormone release pattern. Injections are associated with increased prolactin. This has not been explored in humans
+
 
 7.
 
@@ -280,7 +298,9 @@ D-Aspartate appears to be synthesized in the pineal glands (which does express A
 
 It is currently unknown whether supplemental D-Aspartic Acid can influence these processes.
 
+
 D-AA is involved with the circadian rhythm of melatonin, stored in the pineal glands and secreted when melatonin synthesis needs to be suppressed. Practical significance is unknown at this time
+
 
 7.3
 
@@ -288,7 +308,9 @@ Testosterone
 
 D-Aspartic Acid causes increases in testosterone synthesis via upregulation of the mRNA that produces a compound called StAR (Stimulating steroidogonic Acute Regulatory Protein) which regulates androgen synthesis in the Leydig cells.[52] The secretion of hypothalamic LH (from the neurally active excess of NMDA) also induces testosterone synthesis in the leydig cells and may be mechanism by which D-Aspartic Acid influences testosterone synthesis.[17][11]
 
+
 D-aspartic acid may be able to directly increased testosterone synthesis, secondary to increasing the activity of the StAR enzyme, and indirectly via stimulating hypothalamic release of luteinizing hormone
+
 
 One study has been conducted lasting 12 days, where supplementation with D-aspartic acid (brand DADAVIT) was able to increase testosterone by 15% after six days and 42% after twelve days relative to baseline, which declined to 22% after three days of cessation.[19] This study has been replicated by another study where 2.66g of D-aspartic acid (DADAVIT) was able to increase serum testosterone in infertile men by a variable 30-60% after 90 days.[40]
 
@@ -296,7 +318,9 @@ One study has been conducted in athletes given D-aspartic acid supplementation a
 
 A 12-week double-blind randomized controlled trial in resistance-trained men reported no change in total or free testosterone with 6 g/d supplementation.[33]
 
+
 Short term usage of D-aspartic acid seems to increase testosterone, but prolonged usage is associated with both an increase and no significant change. There has been an induction (increase) in the enzyme that degrades D-aspartic acid, which suggests negative feedback, and it is plausible this negative regulation occurs in athletes (normal to high testosterone) and not in infertile men (low testosterone) as the second group experiences prolonged increases in testosterone
+
 
 7.4
 
@@ -304,7 +328,9 @@ Estrogen
 
 Supplementation of 3g D-aspartic acid in trained athletes alongside resistance training for 28 days does not significantly modify circulating estrogen levels.[32] A 12-week double-blind randomized controlled trial in resistance-trained men reported a significant decrease (-16%) in estradiol with 6 g/d supplementation, although this was likely a false positive finding due to the shear number of outcomes being examined and failure to correct for multiple comparisons.[33]
 
+
 No significant changes in circulating estrogen levels in otherwise healthy men have been found
+
 
 8.
 

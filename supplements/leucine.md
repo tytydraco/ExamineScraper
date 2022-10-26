@@ -100,7 +100,9 @@ Sources
 
 Leucine (also known as 2-Amino-4-methylpentanoic acid) is an essential amino acid of the branched chain amino acid class (alongside isoleucine and valine). Of the three amino acids, leucine stands out for being the most potent activator of a protein known as mTOR (its activation is able to positively influence muscle protein synthesis) and also being an exclusively ketogenic amino acid[8][9] (producing ketone bodies after catabolism) whereas valine is glucogenic (produced glucose) and isoleucine is both.
 
+
 Leucine is one of the branched chain amino acids, sometimes referred to as the main BCAA. It is the most potent inducer of muscle protein synthesis on a molecular level, and is ketogenic (produced ketones when metabolized)
+
 
 1.2
 
@@ -110,7 +112,9 @@ Leucine is reversibly metabolized in the body first by the branched-chain aminot
 
 The first route that converts α-Ketoisocaproic acid (KIC) into β-hydroxyisovalerate can also convert KIC into the metabolite known as α-hydroxycaproic acid (Leucic acid or HICA).
 
+
 Leucine is metabolized into one of several metabolites which may contribute to the effects of leucine. Of these, two of them are standalone supplements (HMB and HICA)
+
 
 2.
 
@@ -124,7 +128,9 @@ The primary mechanism of action from leucine is activation of Target of Rapamyci
 
 The first complex (mTORc1) is a complexation of a few proteins; TOR itself alongside the regulatory associated protein of TOR (Raptor), G-protien β-subunit like protein (GβL), and proline-rich PKB/Akt substrate of 40kDa (PRAS40).[14][15] This complex is activated by leucine supplementation, whereas the other complex (containing another regulatory protein of TOR known as Rictor and its own regulatory protein known as Proctor, GβL again, and a protein known as mSin1) is not activated by leucine.
 
+
 TOR, or mammalian TOR (mTOR) is a protein complex that serves a pivotal role in regulating cellular signalling. Leucine is able to activate one of the two complexes it makes up, known as mTORc1 (c1 standing for 'complex one'). When mTOR is mentioned in this article, it is shorthand for mTORc1 unless otherwise specified
+
 
 Although signalling via the insulin receptor is able to stimulate mTOR (via class 1 PI3K and Akt/PKB, which activate Rheb and mTOR[15]) mTOR from leucine appears to due to a protein officially known as human vacuolar protein sorting 34 (hVPS34)[16] but sometimes colloquiolly referred to as PI3K class 3[17]
 
@@ -132,9 +138,12 @@ hVPS34 depletion is known to blunt leucine-induced mTOR activation[16] while not
 
 There is a protein known as SHP-2 (a tyrosine phosphatase) which is critical to muscle protein synthesis[24] and is known to limit muscle growth under periods of nutrient deprivation,[25] and it appears to signal to S6K1 via mobilizing intracellular calcium at a point upstream of upstream of phospholipase C β4 and seems to work via Rheb protein stimulation of mTOR,[23] Rheb proteins are known to be positive modulators of mTOR function inherently.[26]
 
+
 Leucine and/or its metabolites appear to increase intracellular calcium, similar to muscle contractions, and the increase in calcium will activate proteins such as mTOR which then induce muscle protein synthesis. Unlike muscle contraction, however, leucine likely does this in all cells rather than localized to skeletal muscle
 
+
 In other words: SHP-2 (currently the furthest far back in the chain) -> calcium mobilization -> hVPS34 binding to calmodulin -> mTORc1 activation (possibly via Rheb) -> S6K1 activation -> muscle protein synthesis
+
 
 2.2
 
@@ -158,7 +167,9 @@ Leucine is thought to underlie the health benefits of dairy proteins on lifespan
 
 Both leucine metabolites (α-Ketoisocaproic acid and HMB) are activators of SIRT1 in the range of 30-100%, which is a comparable potency to resveratrol (2-10μM) but requires a higher concentration (0.5mM).[32] Mitochondrial biogenesis has been noted with leucine incubation in both fat and muscle cells, and abolishing SIRT1 attenuates (but does not eliminate) leucine-induced mitochondrial biogenesis.[35]
 
+
 Leucine metabolites are able to stimulate SIRT1 activity, which is a mechanism thought to underlie mitochondrial biogenesis. It is actually moderately potent at doing so
+
 
 4.
 
@@ -174,7 +185,9 @@ Otherwise, in conditions where insulin is not present 2mM leucine and (to a less
 
 However, leucine is also able to hinder cellular glucose uptake[39][40][41] which is thought to either be related to activation of mTOR signalling which naturally suppresses AMPK signalling[42] (AMPK signalling being one that mediates glucose uptake during periods of low cellular energy and exercise[43][44]) in combination with mTOR signalling acting on S6K; signalling via mTOR/S6K will cause degradation of IRS-1[45] (the first protein that carries the 'signal' of insulin-induced effects) via activating proteasomal degradation of IRS-1 or simply directly binding to IRS-1,[46] this forms a negative feedback control loop of insulin signalling.[47] Inhibiting the negative effects on IRS-1 promotes leucine-induced glucose uptake[48] and this negative feedback explains why glucose is taken up for 45-60 minutes and then suddenly inhibited.[38] Since isoleucine is less potent at activating mTOR and thus this negative feedback pathway, isoleucine but not leucine leads to appreciable glucose uptake in muscle cells.
 
+
 Leucine appears to initially promote glucose uptake into muscle cells for about 45 minutes, and then cuts itself off which reduces overall effects somewhat. The 'cut off' is a negative feedback that normally occurs after mTOR activation. Isoleucine is better than leucine at promoting glucose uptake due to less activation of mTOR
+
 
 4.2
 
@@ -184,13 +197,17 @@ Leucine, via its metabolite KIC, is able to induce insulin secretion from the pa
 
 In general, leucine is either additive or synergistic with glucose in inducing insulin secretion (for example, a 170% and 240% increase seen with leucine and glucose respectively is increased to 450% with the combination[50]). Despite leucine and yohimbine being of comparable potencies, they are not additive due to having overlapping mechanisms.[50]
 
+
 Leucine is known to stimulate insulin secretion from the pancreas, and appears to be the most potent BCAA at doing this. On a equimolar basis (same concentration of the molecule within a cell), leucine is approximately as potent as yohimbine but about two-thirds as potent as glucose itself
+
 
 Leucine is a positive allosteric regulator of glutamate dehydrogenase (GDH),[51][52] an enzyme that can convert some amino acids into α-ketoglutarate. This conversion increases cellular ATP concentrations (relative to ADP), and the increase in ATP levels causes an increase in insulin secretion by mechanisms that are independent of mTOR activation.[53][54]
 
 The metabolite KIC is able to both inhibit KATP channels[55] and trigger calcium oscillations[56][57] in pancreatic β-cells. The calcium release can further act upon mTOR (standard target of leucine)[22] and activation of mTOR can suppress the expression of α2A receptors.[50] Since α2A receptors are suppressors of insulin release when activated[58] and overexpression induced diabetes,[59] less expression of these receptors causes a relative increase in insulin secretion. This pathway is likely the more important one from a practical standpoint, since the mTOR antagonist rapamycin is able to abolish leucine-induced insulin secretion[50] and suppress insulin secretion by itself.[60][61]
 
+
 Leucine works via two pathways to stimulate insulin secretion from pancreatic beta-cells, but the major pathway appears to be due to reducing the influence of a negative regulator (α2A receptors). Reducing a negative regulator's influence causes a refractory increase in activity
+
 
 5.
 
@@ -216,13 +233,17 @@ Lack of leucine had the most potent effect, decreasing protein synthesis by 90%,
 
 The study also revealed that neither leucine nor arginine alone were able to stimulate maximal protein synthesis, with arginine or leucine alone stimulating protein synthesis by only 7.1% or 10.8%, respectively, compared to the full complement of amino acids. Leucine and arginine in combination fared a little better, but not my much. Leucine and arginine in combination only stimulated protein synthesis to 28% of maximal levels obtained all 20 amino acids. 
 
+
 Both leucine and arginine alone are capable of activating protein synthesis in cultured cells, but leucine is more potent than arginine. Neither leucine alone, arginine alone, nor leucine and arginine in combination were sufficient for full-activation of protein synthesis in the absence of other amino acids.
+
 
 Later research examining the effects of individual essential amino acids found that although each of the essential amino acids (EAAs; valine, leucine, isoleucine, phenylalanine, tryptophan, lysine, histidine, methionine, and threonine) is capable of stimulating protein synthesis in cultured cells to a certain extent, leucine was the most potent.[63][64]
 
 Further studies in cultured cells revealed that the ability of different amino acids to turn on protein synthesis is somewhat dependent on the type of cell used, however, as leucine is the only amino acid capable turning on the protein synthesis machinery in amino acid-depleted adipocytes (fat cells).[65] Similar results were found in experiments of cultured muscle cells, with leucine alone, but not the EAA histidine alone capable of restoring protein synthesis to basal levels in amino acid-depleted cells.[66]
 
+
 Although studies in cultured cells have consistently identified leucine as the most protein-synthesis stimulating amino acid, the extent to which this occurs is dependent on the cell type.
+
 
 Effects of leucine on protein synthesis in animal models
 
@@ -234,7 +255,9 @@ The differences can be explained by the nature of protein synthesis, and differe
 
 In contrast, food or protein deprivation causes body proteins to be broken down in living animals, increasing amino acid levels in the blood. With more amino acids available, protein synthesis is activated to a greater extent in response to leucine in vivo. 
 
+
 Leucine, but not isoleucine or valine was capable of restoring protein synthesis to fed levels in food-deprived rats
+
 
 5.2
 
@@ -246,7 +269,9 @@ Similar to the other branched chain amino acids and different than insulin, leuc
 
 mTOR activation from leucine has been confirmed in the tissue of humans following oral supplementation[81][82] as well as p70S6K activation.[18] Akt activation has been investigated, and there has been a failure to find any alteration in activity in human muscle[18] which suggests that the release of insulin from the pancreas induced by leucine (noted to occur in humans[83] and insulin activates Akt) may not be relevant.
 
+
 Leucine is able to stimulate mTOR activity and its subsequent protein synthesis signaling. Although Akt/PKB positively influences mTOR activity (so when Akt is activated, it activates mTOR) leucine appears to work via a different pathway and activate mTOR without affecting Akt. Regardless, anything that activates mTOR will then activate p70S6K and then promote muscle protein synthesis
+
 
 This anabolic effect of leucine appears to favor skeletal muscle more than hepatic (liver) tissue[84] and appears to be augmented by physical exercise (muscle contractions)[85] with some studies suggesting preloading leucine to a workout is more effective than other times (in acutely increasing protein synthesis).[86][87]
 
@@ -288,7 +313,9 @@ When the insulin receptor is activated, it can activate mTOR vicariously through
 
 Leucine has been found to work synergistically with ingested glucose in reducing blood glucose secondary to releasing more pancreatic insulin secretion.[98][50] Interestingly, leucine is not additive with yohimbine in inducing insulin secretion due to overlapping mechanisms.[50]
 
+
 Leucine appears to be synergistic with dietary carbohydrate in promoting insulin secretion from the pancreas, and appears to be synergistic with insulin in promoting muscle protein synthesis
+
 
 6.2
 
@@ -300,7 +327,9 @@ When rats are fed the combination of leucine (24g/kg, up to 200% of the control 
 
 It has been noted that incubation of resveratrol with leucine or HMB actually increases AMPK activity (42-55%, respectively) and promoted a modest (18%) increase in fat oxidation despite incubation with 5mM glucose.[99]
 
+
 Resveratrol and leucine both appear to positively influence mitochondrial biogenesis via SIRT1 activation, and they both appear synergistic in doing so when incubated or ingested together
+
 
 6.3
 
@@ -312,7 +341,9 @@ For human studies, supplementation of 0.18g/kg citrulline for a week has failed 
 
 There is not too much evidence looking at the direct activation of citrulline on mTOR, but it appears to weakly induce proteins after mTOR (including 4E-BP1) to a degree lesser than leucine.[100] It is plausible that citrulline augments mTOR signalling since its benefits are mTOR dependent, in which case it should be synergistic with leucine; this has not been directly investigated.
 
+
 Citrulline may positively mediate leucine's signalling through mTOR, which theoretically suggests that they are synergistic. The application of the combination towards weight lifters has not yet been investigated, so the synergism is currently just a hypothesis rather than a demonstrated fact
+
 
 7.
 

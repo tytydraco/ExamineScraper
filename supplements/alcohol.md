@@ -166,7 +166,9 @@ Ethanol reliably induces dopamine release in the nuclear accumbens (nAc) of anim
 
 This release of dopamine in the nAc appears to be dependent on an increase in extracellular taurine levels[16] (which ethanol does itself[17] and reducing taurine levels 40% in vivo using beta-alanine fails to abolish the dopamine spike[16]) with both taurine and ethanol acting vicariously through glycine receptors.[16][18][19] Actions of alcohol in increasing nAc dopamine is actually not localized either, and mediated in the Ventral Striatum (VTA) where ethanol acts as a co-agonist of nicotinic acetylcholine receptors (nAChRs) where it fails to act on these receptors in isolation but enhances other agonists,[20] which plays a role in ethanol augmenting nicotine addiction (prototypical nAChR agonist). This is further evidenced by the nAc increase in dopamine being blocked by the nAChR antagonist mecamylamine.[9] Futher studies noted that this effect is more localized to the anterior VTA rather than posterior[21] and that ethanol in this area may cause an increase in acetylcholine which then induces activation of nAChR alongside ethanol acting as co-agonist, as depletion of acetylcholine also abolishes the nAc increase in dopamine and the increase in acetylcholine has been observed in vivo.[22][23]
 
+
 Ethanol can increase dopamine release in the Nuclear Accumbens (nAc) which is most likely due to acetylcholine acting on nAChR (its receptors) in the Ventral Striatum, where ethanol enhances signalling here and said signalling enhances dopamine release in the nAc
+
 
 In humans, an increase in dopamine has also been observed in the Ventral Striatal (VTA) which correlates with subjective estimates of euphoria and stimulation.[11]
 
@@ -202,7 +204,8 @@ Alcohol and Longevity
 
 Epidemiological Research
 
-There is substantial evidence that light to moderate alcohol consumption is associated increased longevity in large-scale surveys.[42][43][44]
+There is substantial evidence that light to moderate alcohol consumption is associated increased longevity in large-scale surveys.[42][43]
+[44]
 
 7.2
 
@@ -228,7 +231,9 @@ Interventions
 
 In studies measuring liver protein kinetics, one study in humans pairing a meal of 632kcal with alcohol (71g) alcohol reduced the protein synthesis rate (assessed by fibrinogen and albumin) by about 30% over the 4 hours measured afterwards; this study also noted that leucine oxidation (a marker of muscle protein breakdown) was reduced by 24%;[52] and later it was found that lower doses of alcohol (28g) found smaller hindering of protein synthesis (albumin) but not fibrinogen and also noted a blunting of leucine oxidation.[53] A later study confirmed that alcohol, relative to saline, was able to suppress leucine oxidation at two varying doses and was more effective this apparent anti-catabolic action when no circulating nutrients were present.[54]
 
+
 Although these studies measuring liver protein synthesis may not be too valid for talking about muscle protein synthesis, the apparent reduction in leucine oxidation suggests that alcohol may have an anti-catabolic effect
+
 
 In rats, injections of ethanol suppress muscle protein synthesis rates and this is mediated by both ethanol itself as well as acetylaldehyde.[55]
 
@@ -246,11 +251,15 @@ Conversely, a slightly lesser intake (0.5g/kg) has been shown to actually increa
 
 That being said, another study using 0.675g/kg noted that testosterone increased and was more sensitive to being increased by gonadotropin releasing hormone, suggesting multiple pathways may be at play.[63] Red Wine may also confer additional benefits through its phenolic content, as Quercetin appears to be glucuronidated by the enzyme UGT2B17 in place of testosterone (sacrificial substrate) and may indirectly increase testosterone.[64] This study was in vitro, however, and Quercetin has low bioavailability.
 
+
 Low to moderate doses timed around exercise have twice failed to demonstrate an increase or decrease in testosterone levels, with the increase being from a favorable change in the testosterone:androstenedione ratio in the liver (mimicking the NADH:NAD+ ratio, which is increased during alcohol consumption). Not all studies not this increase though, and some just note no significant changes at all
+
 
 One study lasting 3 weeks with daily consumption of 30-40g alcohol in non-smoking and social drinkers noted a 6.8% decrease in circulating testosterone levels in men (n=10), with no significant effect in women.[65] At the end of the study, control had circulating testosterone measured at 16.4nmol/L while the alcohol group was measured at 15.3nmol/L.[65]
 
+
 These low doses, when taken over a prolonged period of time, might decrease testosterone; the degree of suppression is not likely to be practically relevant, however
+
 
 Higher doses of alcohol, 1.5g/kg (average dose of 120g), have been demonstrated to suppress testosterone by 23% when measured between 10-16 hours after acute ingestion with no statistically significant difference between 3 and 9 hours of measurement.[66] It appeared, in this study, that alcohol suppressed a rise of testosterone that occurred in the control group which may have been based on the circadian rhythm.[66] Anothers study using an even higher dose (1.75g/kg over 3 hours) noted that over the next 48 hours that a small short-lived dip occurred at 4 hours, but a more statistically significant drop was seen at 12 hours which was mostly corrected by 24 hours (still significantly less than control) and completely normalized at 36 hours.[62] By 12 hours, the overall reduction in testosterone was measured at 27% while the overall decrease in testosterone at 24 hours was 16%.[62] Finally, a third study using 100-proof vodka at a dose of 2.4ml/kg bodyweight in 15 minutes (to spike blood alcohol concentration (BAC) up to 109+/-4.5mg/100mL, similar to the aforementioned 1.75g/kg study) noted suppressed testosterone levels correlating with the peak BAC, observed 84 minutes after ingestion.[67] This time delay seen in some studies, when put in social context, correlate with the observed lower serum testosterone levels seen with hangovers.[68] This study also noted that the changes in hormones were further from baseline in persons self-reporting a hangover, and less significant in persons without hangovers.[68]
 
@@ -258,11 +267,15 @@ Finally, an intervention in which alcohol was supplied intravenously (via cathet
 
 The mechanism of alcohol suppressing testosterone levels sub-chronically is via its actions as a testicular toxin, where it can reduce testosterone synthesis rates with no negative influence on the hypothalamus signals to the testes (if anything, a stimulatory effect occurs on the hypothalamus).[70][71]
 
+
 Around the 1.5g/kg or higher ethanol intake, it appears that a subsequent dose-dependent decreasing of testosterone occurs and appears to occur with some degree of time delay up to 10 hours after consumption. One study using shots of vodka did note this suppression of testosterone occurring within 90 minutes though
+
 
 In alcohol abusers, the chronic high intake of alcohol appears to be negatively correlated with circulating testosterone at rest; with longer duration and higher intakes of alcohol leading to less testosterone.[72]
 
+
 Overall, alcohol can increase testosterone acutely through increasing a REDOX ratio in the liver (NADH:NAD+) but this spike is short lived; a reverse trend is seen at a later point when alcohol probably reaches the testicles to suppress testosterone synthesis, this is also short-lived for the most part. Chronic alcohol consumption at low doses is associated with a decrease in testosterone, but to a degree where it may not be practically relevant; alcoholism is associated with a larger and significant reduction in testosterone levels
+
 
 9.2
 
@@ -316,13 +329,18 @@ Alcohol can adversely interact with acetaminophen (paracetamol) and potentially 
 
 The mechanism of action if via the enzyme CYP2E1, one of the two enzymes responsible for degradation of ethanol. After consumption of ethanol, CYP2E1 levels rise in order to accommodate more ethanol metabolism. When this occurs, acetaminophen can diverge from normal routes of metabolism and be metabolized through CYP2E1 to a greater extent. Only via CYP2E1 will acetaminophen form the metabolite NAPQI, which is highly hepatotoxic.[76][77] Although acetominophen will always metabolize into some amount of NAPQI, the overall percentage of orally ingested acetominophen devoted to this pathway increases after CYP2E1 induction.[78]
 
+
 Taking Acetominophen (Tylenol) after heavy drinking is an absolutely horrible decision for your liver
+
 
 Another inducer of CYP2E1 include the ketone body acetone[79][80] whereas the other two ketone bodies (Acetoacetate and Beta-hydroxybutyrate) induce translation of CYP2E1 mRNA.[81] This potentially means that alcohol in the state of ketosis or otherwise during starvation may be more hepatotoxic than during a fed state.[82][81]
 
+
 Taking Acetominophen after a night of drinking while on a ketosis diet (little to no dietary carbohydrates) or after spurious vomiting (can increase ketone bodies) is even worse than just taking acetominophen after drinking. Ketosis, ethanol, and acetominophen may be the trifecta of cirrhosis
 
+
 Note that the enhanced liver damage from alcohol under ketosis may be related to 'getting smashed faster' than is commonly reported with ketosis, and the combination of keto and alcohol may not be as problematic if alcohol consumption is limited
+
 
 10.2
 
@@ -346,7 +364,9 @@ There are a class of herbs that can accelerate regeneration of liver cells and r
 
 These herbs and molecules include Milk Thistle and its active silybins (most notably), and can also extend to molecules like Tauroursodeoxycholic acid; known as TUDCA.[91][92]
 
+
 It is critical to consume these herbs after drinking, as consuming them before drinking confers the opposite effect and can be damaging
+
 
 10.5
 
@@ -368,5 +388,7 @@ Additionally, the analgesic (pain killing) effects of alcohol appear to be augme
 
 On a negative side, agmatine is known to be a gastroprotective agent (aids in protecting parietal cells from stomach acid[98]) but has counterintuitively enhanced ulcer formation from alcohol consumption in rats.[99]
 
+
 At this moment in time, agmatine appears to be useful for alcohol withdrawal. The usage of agmatine alongside alcohol might not be prudent as one study noted an enhancement of stomach ulceration, so timing of agmatine and alcohol consumption would be prudent
+
 

@@ -138,7 +138,9 @@ Composition
 
 Nelumbo Nucifera tends to contain:
 
-Bisbenzylisoquinoline Alkaloids (Nelumboferine, Nelumborine A, Nelumborine B)[3][4] and the 'main' bioactive of Nelumbo Nucifera, Neferine[3][5] as well as the structurally related Linesinine and Isolinesinine compounds[3][5]Aporphine alkaloids such as nuciferine and nornuciferine (not to be confused with neferine) and N-methylasimilobine,[6] as well as 2-Hydroxy-1-methoxyaporphin[7]Alkyl 4-hydroxybenzoates (methyl-, ethyl-, propryl- and butyl-)[8]Anisic Acid[3]The polphenolic catechin[9] and a content of EGCG, sometimes seen as the most potent of the four green tea catechins;[10] these can be found in the seed pod as Procyanidin C1[11][12] and the roots contain Procyanidins of the B class[13]Quercetin[14] and its 3-O-β-D-glucuronide glycoside[15] at 25-30% in flowers but 67.25-90.66% of leaf and seed total flavanoidsIsorhamnetin at 0.35-8.86% (outlier at 11.69%) total flavanoids[16]Myrictein and its 3-O-galactoside, 3-O-glucuronide, and 3-O-glucoside at 2.5-15.87% of total flavanoids (highest in flower stalk )[16]Kaempferol and its glycoside at 5.44-19.26% (except in flowers where it reaches 63% total flavanoids)[16]Diosmetin[17] at 0.21-6.36% total flavanoids (outlier at 11.31% in leaf stalks)[16]Syringetin at 0.97-2.64% total flavanoids, absent in leaves[16]Triterpenoids such as Betulinic Acid[18]2α,24-diacetoxy-3β-hydroxyolean-12-en-28-oic acid[19]Hyptatic acid-A (2α,3β,24-trihydroxyolean-12-en-28-oic acid)[19]Higenamine[20]Hyperoside, a minor component of Hypericum Perforatum[21][15] as well as Astragalin, from Astragalus Membranaceus[21]L-trptophan[22]The triterpenoic ester urs-12-en-3beta-O-9E,12E-octadecadienoate[23]In regards to the non-caloric bioactives, there is a large amount of flavanoids that are common to several plants with only Neferine appearing to be unique to Nelumbo Nucifera. Interestingly, some other compounds that are thought to be unique to their plants show up in Sacred Lotus (Astragalin and Hyperoside)
+Bisbenzylisoquinoline Alkaloids (Nelumboferine, Nelumborine A, Nelumborine B)[3][4] and the 'main' bioactive of Nelumbo Nucifera, Neferine[3][5] as well as the structurally related Linesinine and Isolinesinine compounds[3][5]Aporphine alkaloids such as nuciferine and nornuciferine (not to be confused with neferine) and N-methylasimilobine,[6] as well as 2-Hydroxy-1-methoxyaporphin[7]Alkyl 4-hydroxybenzoates (methyl-, ethyl-, propryl- and butyl-)[8]Anisic Acid[3]The polphenolic catechin[9] and a content of EGCG, sometimes seen as the most potent of the four green tea catechins;[10] these can be found in the seed pod as Procyanidin C1[11][12] and the roots contain Procyanidins of the B class[13]Quercetin[14] and its 3-O-β-D-glucuronide glycoside[15] at 25-30% in flowers but 67.25-90.66% of leaf and seed total flavanoidsIsorhamnetin at 0.35-8.86% (outlier at 11.69%) total flavanoids[16]Myrictein and its 3-O-galactoside, 3-O-glucuronide, and 3-O-glucoside at 2.5-15.87% of total flavanoids (highest in flower stalk )[16]Kaempferol and its glycoside at 5.44-19.26% (except in flowers where it reaches 63% total flavanoids)[16]Diosmetin[17] at 0.21-6.36% total flavanoids (outlier at 11.31% in leaf stalks)[16]Syringetin at 0.97-2.64% total flavanoids, absent in leaves[16]Triterpenoids such as Betulinic Acid[18]2α,24-diacetoxy-3β-hydroxyolean-12-en-28-oic acid[19]Hyptatic acid-A (2α,3β,24-trihydroxyolean-12-en-28-oic acid)[19]Higenamine[20]Hyperoside, a minor component of Hypericum Perforatum[21][15] as well as Astragalin, from Astragalus Membranaceus[21]L-trptophan[22]The triterpenoic ester urs-12-en-3beta-O-9E,12E-octadecadienoate[23]
+In regards to the non-caloric bioactives, there is a large amount of flavanoids that are common to several plants with only Neferine appearing to be unique to Nelumbo Nucifera. Interestingly, some other compounds that are thought to be unique to their plants show up in Sacred Lotus (Astragalin and Hyperoside)
+
 
 With some bioactive polysaccharides:
 
@@ -160,7 +162,9 @@ Serum
 
 When measruing three bisbenzylisoquinoline alkaloids in serum following oral administration it was found that the total alkaloid content (sum of liensinine, isoliensinine, neferine) after a 20mg/kg bolus gave the pharmacokinetic parameters of 0.083 hours (Tmax) reaching a Cmax of 0.457ug/mL with a half-life of 7.5 hours and an AUC0-∞ of 12.202ug/h/mL.[27]
 
+
 Appears to be rapidly absorbed, but the max concentration it reaches does not seem to differ that greatly from the serum levels measured over the next 12 hours in rats; appears to have a slow half-life as well, and preliminary evidence suggests the alkaloids remain at a fairly steady concentration for up to 12 hours after single dose administration
+
 
 2.3
 
@@ -180,13 +184,17 @@ One study that used 1g/kg Nelumbo Nucifera alongside the amnesiac toxin scopolam
 
 It is possible Neferine mediates these effects, as it itself attenuated learning deficits from scopolamine at 1-10mg/kg oral administration in a dose-dependent manner.[31] This was more potent than 10mg/kg THA in a passive avoidance test (active control), which may be mediated through mixed acetylcholinesterase inhibition and anti-inflammatory properties (inhibiting LPS-induced SEAP expression with an IC50 of 8.2uM).[31] Other constituents, such as nuciferoside, possess slightly weaker anticholinesterase properties.[32]
 
+
 Neuroprotection of the hippocampus and preservation of learning under the presecene of toxins is apparent with high dose Nelumbo Nucifera, but does not seem to be more effective than the reference drugs used
+
 
 Acetylcholinesterase may also be inhibited directly with an IC50 of 1.5+/-0.2μg/mL by the apomorphine alkaloid N-methylasimilobine, which is reversible and noncompetitive that can reduce the Vmax of the enzyme 45% without affecting Km.[6] The sum of all alkoids was a bit weaker with an IC50 of 6.1+/-0.5μg/mL, and the structurally related alkaloids of nuciferine and nornuciferine showed no inhibitory effect,[6] but Neferine itself appears to inhibit Acetycholinesterase with an IC50 of 14.19+/-1.46μM (BChE inhibited with IC50 of 37.18+/-0.59μM).[31]
 
 Neferine may also inhibit the BACE1 enzyme with an IC50 of 15.48+/-0.20μM.[31]
 
+
 May inhibit acetylcholinesterase and other enzymes of interest to Alzheimer's therapy
+
 
 3.2
 
@@ -196,7 +204,9 @@ Some compounds in Nelumbo appear to regulate the 5-HT3A serotonin receptors, wit
 
 Neferine itself at 10-100mg/kg was able to acutely (within 30 minutes) reduce immobility time in a forced swim test indicative of anti-depressive effects;[33] when compared to Imipramine HCl as active control, it slightly (but nonsignificantly) outperformed at equimolar doses. These anti-depressant effects were greatly attenuated with the 5-HT1A antagonist WAY 100635, with inhibition of 5-HT1B, 5-HT2, 5-HT3 and 5-HT4 not affecting Neferine.[33]
 
+
 Some bioactives appear to potently interact with a serotonin receptor and may influence serotonergic function, but due to a lack of in vivo evidence the pracical relevance of this information is unknown
+
 
 3.3
 
@@ -234,7 +244,9 @@ Pancreas
 
 An ethanolic extract of Lotus Leaf at 25-150mcg/mL was able to stimulate pancreatic β-cells under the influence of glucose to release glucose, with maximal efficacy at 50-100mcg/mL.[9] The mechanism appears to be related to calcium influx and phoshorylation of ERK1/2 (and secondary to that, PKC) without influencing Akt; these were thought to be due to the catechin component of Nelumbo Nucifera.[9] Nuciferine is an alkaloid that also appears to stimulate insulin secretion in the presence of glucose, and on a molar level appears to be more potent than glibenclamide at 10-20uM (although not competitive with glibenclamide).[40]
 
+
 Interestingly and possible potent insulin-secreting effects at the level of the pancreas for some bioactive in Nelumbo Nucifera
+
 
 5.3
 
@@ -318,7 +330,9 @@ Liver
 
 Mechanistically, isolated Neferine at 2-10μmol/L is able to induce apoptosis and attenuate cytokine (TGF-β1 and collagen I; up to 11% and 20% respectively) release in hepatic stellate cells in a concentration dependent manner in vitro.[2] The IC50 in inhibiting proliferation of stellate cells was 22.53μmol/l, and although the EC50 for apoptosis was not calculated in this study it appeared to be mediated via caspase-3 release.[2]
 
+
 May have anti-fibrotic mechanisms, but do not appear remarkably potent nor have they been tested in vivo
+
 
 In obese diabetic mice given 0.5% of their diet as Lotus root polyphenolics noted that, without affecting food intake, the polyphenolic group noted a reduction in liver weight (15% less than control) and triglyceride content (62%) without affecting hepatic cholesterol content.[13] This study also noted less serum levels of ALP (17%) and GLP (24%) after 3 weeks, and these changes were thought to be due to a reduction in FAS and malic enzymes; two enzymes associated with lipogenesis (CPT unchanged).[13] Hepatoprotection has been tested wth coingested Taurine (3% of water) and appear to be of larger magnitude (possible additive effects), where serum GOP and GPT were reduced more than Nelumbo Nucifera itself.[48]
 

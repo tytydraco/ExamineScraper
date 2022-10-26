@@ -122,7 +122,9 @@ Tripterygium wilfordii (of the family Celastraceae) is a chinese herb that is re
 
 Other names that are attributed to this herb beyond 'Thunder God Vine' are yellow vine wood, Gelsemium elegans, vegetable insecticide and red medicine.
 
+
 Tripterygium wilfordii is a Traditional Chinese Medicine for inflammatory disorders where the root is used, and the vine appears to have toxic properties (despite this medicine sometimes being referred to as Thunder God Vine)
+
 
 1.2
 
@@ -136,7 +138,9 @@ Structure
 
 Celastrol itself is a pentacylic triterpenoid but is further classified as a quinone methide triterpene.[1] Two carbons on the structure (C2 and C6, labelled below) demonstrate high susceptibility toward a nucleophilic attack[7] and can form covalent Michael adducts with nucleophilic thiol groups of cysteine residues and underlies many mechanisms of Celastrol with enzymes.[8][9] Reactions with the 'quinine methide' of Celastrol refer to these nucleophilic attacks and subsequent adducts.
 
+
 Celastrol can work via forming adducts with Cystine groups (involved in the structure of proteins) due to positions on its backbone that are prone to accepting an electron
+
 
 Triptolide has been synthesized into a prodrug known as PG490-88 which has been patented[10] and is under investigation for anti-cancer effects.[11]
 
@@ -146,7 +150,9 @@ Extractions and Formulations
 
 Solid Lipid Nanoparticles (SLNs) are made from solid lipids and approximately 50–1000nm in width that serve as drug carriers,[12] and this delivery system has been used in numerous studies as an attempt to mitigate hepatotoxic side effects of Triptolide.[13][14][15][16]
 
+
 SLNs appears to be a drug delivery formulation which may mitigate some toxicity associated with Thunder God Vine
+
 
 Sodium Bicarbonate extractions, which appear to concentrate Celastrol at the expense of Triptolide and Wilforine, are associated with a reduced LD50 (median lethal dose) to 1,210mg/kg (95% CI of 1,098–1,322mg/kg) which appears to be slightly safer than Tripterygium Glycosides with an LD50 of 257mg/kg (95% CI of 227-287 mg/kg).[6]
 
@@ -178,7 +184,9 @@ IKKα and IKKβ are both inhibited in a dose-dependent manner in vivo following 
 
 At least one study in prostatic cancer cells noted that inhibition of chymotrypsin-like proteosomal activity caused an increase in IκBα,[7] the accumulation of which could also suppress NF-kB activity.[1] Induction of HSP70, noted due to possibly lowering the activation requirements of its promoter, has been noted with Celastrol;[20] HSP70 can reduce the association of NEMO to IKK, NEMO being a protein that associates with IKKs (IKKα-IKKβ-NEMO complex) and works with HSP-Cdc37 to induce IKK activation.[21]
 
+
 Indirect inhibitor of NF-kB secondary to IKKβ inhibition, and may inhibit the IKK complex via (a lot of) indirect means beyond direct inhibition of IKKβ. Appears to be effective at very low concentrations
+
 
 No influence on AP-1 binding is noted.[8]
 
@@ -204,7 +212,9 @@ Interleukin-6 (IL6) is able to activate STAT3[26] which further acts on the reti
 
 Inhibition of Th17 cell activation may underlie therapeutic efficacy in T-cell dependent inflammatory conditions, such as colonic inflammation[29] and experimental rheumatoid arthritis.[23]
 
+
 Can inhibit differentiation of Treg cells into Th17 (CD4+ lymphocytes that secrete IL17) and be selectively immunosuppressive on activated T-cells, which may be a therapeutic mechanism of action; this is possibly mediated via STAT3 inhibition
+
 
 3.5
 
@@ -234,7 +244,9 @@ Liver
 
 Cytochrome P450 reductase is involved in protective effects against Triptolide, and its knockout in animals augments hepatoxicity secondary to increasing its bioavailability (by reducing metabolism).[31] Dexamethasone, a corticosterone, can reduce toxicity secondary to inducing the activity of CYP3A[32] and drug delivery systems that bypass the liver reduce toxicity somewhat.[33]
 
+
 CYP3A appears to metabolize triptolide to less toxic metabolites; with more activity of CYP3A being protective and less activity (inhibition; which is common to many supplements) can augment toxicity
+
 
 6.
 
@@ -248,7 +260,9 @@ Mechanistically, Celastrol appears to be able to prevent association between HSP
 
 Association with p23 has also been noted with Celastrol but also noted with Dihydrocelastrol (and possibly not mediated by the quinine methide), and this association induces a amyloid-like fibril formation which prevents association of HSP90 to p23.[34]
 
+
 May directly inhibit HSP90-Cdc37 complexation, and may alter p23 function in regards to HSP90
+
 
 One study has noted both hyperphosphorylation of heat shock transcription factor-1 (HSF1) with lower concentrations augmenting the response of this promoter to heat shock stress, suggesting that Celastrol may reduce the heat threshold required to activate HSF1.[20] This results in induction of HSP70 (Heat-Shock Protein 70).[20]
 

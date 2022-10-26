@@ -130,7 +130,9 @@ Ziziphus Jujuba (Chinese Date) is a fruit-bearing plant belonging to the Rhamnac
 
 In Traditional Chinese Medicine (where it is called Da Zao), Jujuba is used for anodyne (pain-killing), antitumor, pectoral, refrigerant, sedative, stomachic, styptic and tonic medication; in Japan, Jujuba is used to treat chronic hepatitis or fullness in the chest and ribs.[2] It also appears to have antifungal and insecticidal properties,[3] and in some areas it is also reported to be antidiarrhoeal.[4]
 
+
 Traditional Chinese Medicine for effects related to sedation, pain-killing, and relaxation
+
 
 1.2
 
@@ -145,13 +147,17 @@ sinapoylspinosin[18](-)-epiafzelechin[19]Rutin (Quercetin-3-O-Rutinoside)[13] at
 
 Nucleosides and Nucleobases, at 420-550mcg/g and mostly cAMP[22] and Uridine[23]Dietary minerals such as selenium (0.242mcg/g), zinc (13.8mcg/g), and Iron (38.2mcg/g)[24]With some bioactive polysaccharides (totalling 5.1-6.76% total weight in these two studies,[25][26] reporting a third (not available online) citing 4.42 to 7.91%;[26] these are 77.1% of dry weight, since the fruits have a high water content[27]) consisting of:
 
-Neutral polysaccharide (arabinose, xylose, mannose, glucose and galactose at 0.3:0.2:0.2:1:0.7 ratios)[26] which appears to have anti-oxidant propertiesAcidic polysaccharides containing rhamnose, arabinose, xylose, mannose, glucose and galactose in a ratio of either 0.3:9.6:0.1:0.4:1:12.1 or 3:16.8:1.2:0.2:1:12.2[26] that are also anti-oxidant in natureAcidic polysaccharide with rhamnose, arabinose, xylose, glucose and galactose at 21:24:2:1:20[26]General fruit bioactives including flavanoids, polysaccharides (carbohydrates), and some saponins and alkaloids; a fair bit of the ones in Ziziphus are fairly unique to the fruits
+Neutral polysaccharide (arabinose, xylose, mannose, glucose and galactose at 0.3:0.2:0.2:1:0.7 ratios)[26] which appears to have anti-oxidant propertiesAcidic polysaccharides containing rhamnose, arabinose, xylose, mannose, glucose and galactose in a ratio of either 0.3:9.6:0.1:0.4:1:12.1 or 3:16.8:1.2:0.2:1:12.2[26] that are also anti-oxidant in natureAcidic polysaccharide with rhamnose, arabinose, xylose, glucose and galactose at 21:24:2:1:20[26]
+General fruit bioactives including flavanoids, polysaccharides (carbohydrates), and some saponins and alkaloids; a fair bit of the ones in Ziziphus are fairly unique to the fruits
+
 
 Many compounds are structurally similar to Apigenin, as Swertish is an Apigenin molecule with a methoxy (-OCH3) group at the 7-carbon instead of a hydroxy (-OH) group and a single glucose bound to it; Puerarin is an isomer of Swertish with the glucose bound to the 8 carbon rather than the 6 carbon.[17]
 
 Spinospin and Isospinosin have a second glucose molecule bound to the first via an oxygen bridge at 4'', with the only differences being that Spinosin is built off of Swertish and Isospinosin off of Puerarin (with a molecule called Isovitexin built off of Apigenin).[17] Adding 6'''-feruloyl- to these structures is due to adding a ferulic acid molecule to the 6''' carbon on the second glucose.[17]
 
+
 Tends to have a unique saponin profile, although some are common among a variety of plants (oleanolic acid, betulinic acid) while the flavonoid profile is also somewhat unique
+
 
 Although bioactives tend to vary in concentration depending on cultivar, growing conditions, and soil conditions; the pulps tend to have more amino acids on a per gram basis when compared to the seeds and vice versa when it comes to flavonoid content, with the seeds posessing more than the pulp.[28]
 
@@ -171,7 +177,9 @@ Anxiety
 
 The seeds of Ziziphus jujube have been implicated in reducing anxiety, in accordance with their traditional usage.[30] Oral administration of 0.5, 1, and 2g/kg of the ethanolic seed extract in mice was able to exert anxiolytic effects, and although it was equally effective as Buspirone and Diazepam (2mg/kg and 1mg/kg, respectively) at a black and white test (anxiety model[31]) at 500mg/kg, it appeared to become less potent at anxiolysis at 1 and 2g/kg while becoming more sedative in nature.[30]
 
+
 Possible anxiolytic effects that rival Buspirone and Diazepam according to one study, lack of evidence otherwise; subsequently higher doses reduce anxiolysis in favor of sedation
+
 
 2.3
 
@@ -183,7 +191,9 @@ The ethanolic extract of the seeds has been found to prolong hexobarbital-induce
 
 In a test on what constituents mediated these effects, the saponins and flavanoids (but not polysaccharides) appeared to have anti-locomotion properties but only the saponin component appeared to augment phenobarbitol-induced sleep.[35] At a dose of phenobarbitol that was seen as suboptimal (able to induce sleep in a minority of animals), the amount of animals who managed to sleep increased from 20% to 90% with the saponins (70% with flavonoids).[35]
 
+
 Highly regarded as a sedative in Traditional Chinese Medicine with minimal Western trials on its efficacy, it appears to induce sedation in a relatively dose dependent manner and is synergistic with 5-HTP in this regard
+
 
 2.4
 
@@ -191,7 +201,9 @@ Anti-Convulsant
 
 At least one study conducted in rats where a seizure was induced noted that Ziziphus Jujube was able to attenuate the adverse effects of the seizure, including oxidative biomarkers and reducing the subsequent impairment in cognition.[36] A reduction in physical contractions was also noted, with absolute (100% protection) against pentylenetetrazole-induced seizures and 66.7% in electricity-induced convulsions at 1g/kg (the dose required for sedation), with lower doses being effective but to a lesser degree. Absolute protection was also noted with 300mg/kg Sodium Valproate.[36]
 
+
 One study noted anti-convulsant effects, fairly potent according to it
+
 
 2.5
 
@@ -199,7 +211,9 @@ Cognition
 
 One animal study noted that, using middle-aged mice, 40-100mg/kg of the methanol extract for 30 days resulted in neuronal proliferation.[37] According to Ki67 and doublecortin immunostaining, neurons in the dendate gyrus were significantly enhanced at 40mg/kg and increased further at 100mg/kg (although not significantly different than 40mg/kg) with the percentage increase being 475% and 672%, respectively and relative to control.[37] Most of this enhancement was due to increased amounts of tertiary dendrites at both concentrations (354% and 579%, respectively), suggesting dendritic proliferation or an attenuation of dendritic loss associated with aging.[37] Actual cognition and learning was not assessed in this study despite the results suggesting improvements.[37]
 
+
 One study noting cognitive enhancement in older rats, potentially related to dendritic proliferation (although causation not established); unknown potency relative to a reference drug
+
 
 2.6
 
@@ -211,7 +225,9 @@ Other possible mechanisms associated with neuroprotection could be antagonism of
 
 Jujuboside A has been demonstrated to reduce excitatory postsynaptic potential in hippocampal neurons,[42] and has been shown to reduce EEG readings in rats given intracerebral injections of Jujuboside A.[43][40]
 
+
 Appears to have protective effects in the brain in response to damage, but there is a lack of evidence connecting the in vitro studies (which appear quite promising) to practical interventions with oral Jujube
+
 
 3.
 
@@ -225,7 +241,9 @@ The traditional method of preparation of Jujubes for the purpose of constipation
 
 Currently one clinical trial has been conducted with Ziziphus Jujuba and constipation, where in persons with prolonged transit time (indicative of constipation) symptoms normalized in 84% of the Jujube group and 12% of the placebo group with better improvement in quality of life associated with Jujube.[45]
 
+
 Jujube appears to be quite beneficial to intestinal motility, increasing fecal moisture and increasing transit time (anti-constipative). These effects are seen with the polysaccharide component, and may not be achieved with concentrated flavonoid capsules
+
 
 4.
 
@@ -247,11 +265,15 @@ Mechanisms
 
 The hydroalcoholic (alkaloid free) extract of Jujube at 100, 200, or 400mg/kg bodyweight was tested against two inflammatory models in rats (careegnan induced paw edema and cotton-pellet-induced granuloma) and found to dose-dependently reduce inflammation; when compared to 10mg/kg Indomethacin as active control, Ziziphus Jujube extract underperformed.[46] Serum Nitrate showed similar results, with a dose-dependent reduction with Jujube but more efficacy with Indomethacin.[46]
 
+
 Appears to have general anti-inflammatory properties, less potent than the reference drug of Indomethacin (NSAID)
+
 
 In mice, the essential oil of Jujube seeds at 1-10% is as effective (when applied topically) in suppressing skin inflammation as 1% Hydrocortisone as assessed by thickness and more effective in reducing water content of the ear.[47] There was not much dose-dependence observed when comparing 1% and 10% Jujube essential oil.[47]
 
+
 May be able to exert anti-inflammatory properties topically when the oil is applied
+
 
 5.2
 
@@ -265,7 +287,9 @@ Interactions with Fat Mass
 
 Concentrations of 1-50mcg/mL Zizyphus Jujuba was able to suppress adipogenesis, with the chloroform fraction and ethyl acetate fractions showing efficacy while the water and butanol fractions were ineffective; with the ethyl acetate fraction, GPDH activity was reduced to 50% in vitro in response to 25ug/mL while 50ug/mL of the chloroform fraction reduced GPDH to 20%.[2] Subsequently, Zizyphus Jujuba was able to suppress lipid accumulation in these adipocytes and appeared to reduce the protein content of PPARγ, C/EBPα and C/EBPβ; three adipogenic proteins.[2]
 
+
 Possible anti-obese effects, unexplored in animal models
+
 
 7.
 
@@ -301,7 +325,9 @@ Mechanistically, an increased level of ROS (oxidation) occurred in the Jujube co
 
 Synergistic protection has also been noted when measuring the actions of APRIL, a protein that induces differentiation of HepG2 cells.[52]
 
+
 Jujube and Green Tea Catechins appear to have synergistic anti-cancer properties, but the evidence is currently limited in size and only in one cell line
+
 
 9.2
 
@@ -309,7 +335,9 @@ Jujube and Green Tea Catechins appear to have synergistic anti-cancer properties
 
 5-HTP is an animo acid derivative that is made from tryptophan, and proceeds to be metabolized into the neurotransmitter serotonin and subsequently melatonin; secondary to melatonin, it may help sleep. Jujube flavonoids have once been found to act synergistically with 2mg/kg 5-HTP in inducing sleep in rats.[34]
 
+
 May be synergistic with Jujube in regards to sedation
+
 
 9.3
 
@@ -341,5 +369,7 @@ Pregnancy
 
 Jujube has apparently been used to prevent pregnancy, as was mentioned in the introduction of one study.[47] The only current study on the subject matter is one in female mice given an ethyl acetate fraction of Jujube (consisting of polyphenolics and flavanoids) at 60-240mg/kg bodyweight appeared to reduce the weight of the ovaries and inhibit the estrus cycle, with a greater potency than the other herb tested (Croton roxburghii).[56] This co-existed with an inhibition of delta-5-3β-HSD in a dose dependent manner, and all parameters were normalized 32 days after supplementation cessation.[56]
 
+
 May be acutely anti-fertility, but there is limited evidence to support this notion
+
 

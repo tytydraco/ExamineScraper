@@ -118,7 +118,9 @@ In addition to hemoproteins, iron can also exist in iron-sulfur clusters (ISCs),
 
 Because of the conversion of iron between its reduced form (ferrous) and oxidized form (ferric), iron can induce oxidative stress in the body. Beneficial effects can result from this process, but because iron is insoluble, an excess of free iron can also damage proteins and cells.[10][11]
 
+
 In humans, in addition to serving as an enzyme cofactor, iron helps to ferry oxygen between tissues and causes oxidative damage (for the purpose of initiating various cellular processes). As a result of this latter function, iron also exists in forms that can cause unnecessary damage to cells when its regulation is thrown into disarray.
+
 
 1.3
 
@@ -126,11 +128,15 @@ Recommended Intake
 
 The Institute of Medicine provides the following recommendations:[12]
 
-For infants up to 6 months of age, the adequate intake (AI) is 0.27 mg. Both the Canadian Paediatric Society[13] and the American Academy of Pediatrics[14] have suggested that infants fed little to no breast milk may need to drink a specialized infant formulation fortified with iron.For infants between 7 and 12 months of age, the estimated average intake (EAR) is 6.9 mg, whereas the recommended daily allowance (RDA) is 11 mg. The large difference in iron requirements between younger and older infants is probably due to both an increase in body mass and an increased capacity to safely store iron.For children between 1 and 3, the EAR is 3 mg and the RDA is 7 mg.For children between 4 and 8, the EAR is 4.1 mg and the RDA is 10 mg.For children and adolescents between 9 and 18, the EAR and RDA differ between the sexes due to menstruation. For males under 14, the RDA is 8 mg, and it increases to 11 mg for ages 14 to 18. For females under 14, the RDA is also 8 mg, but it increases to 15 mg between 14 and 18, with an added recommendation that menstruating females under 14 should increase their intake by approximately 2.5 mg (resulting in an intake of 13.5 mg).For men older than 18, the RDA is 8 mg.For women between 19 and 50, the RDA is 18 mg. For women older than 50, the RDA is 8 mg, the same as for men. The “50 years of age” boundary is arbitrary and represents menopause.For pregnant women, the EAR and the RDA increase to 22–23 mg and 27 mg, respectively.For lactating women, the EAR and the RDA decrease to 6.5–7 mg and 9–10 mg, respectively, due to a temporary cessation of menstruation.For men, iron recommendations are based on age. For women, they are based on age (the estimated ages of first and last menstruation) and the states of pregnancy and lactation.
+For infants up to 6 months of age, the adequate intake (AI) is 0.27 mg. Both the Canadian Paediatric Society[13] and the American Academy of Pediatrics[14] have suggested that infants fed little to no breast milk may need to drink a specialized infant formulation fortified with iron.For infants between 7 and 12 months of age, the estimated average intake (EAR) is 6.9 mg, whereas the recommended daily allowance (RDA) is 11 mg. The large difference in iron requirements between younger and older infants is probably due to both an increase in body mass and an increased capacity to safely store iron.For children between 1 and 3, the EAR is 3 mg and the RDA is 7 mg.For children between 4 and 8, the EAR is 4.1 mg and the RDA is 10 mg.For children and adolescents between 9 and 18, the EAR and RDA differ between the sexes due to menstruation. For males under 14, the RDA is 8 mg, and it increases to 11 mg for ages 14 to 18. For females under 14, the RDA is also 8 mg, but it increases to 15 mg between 14 and 18, with an added recommendation that menstruating females under 14 should increase their intake by approximately 2.5 mg (resulting in an intake of 13.5 mg).For men older than 18, the RDA is 8 mg.For women between 19 and 50, the RDA is 18 mg. For women older than 50, the RDA is 8 mg, the same as for men. The “50 years of age” boundary is arbitrary and represents menopause.For pregnant women, the EAR and the RDA increase to 22–23 mg and 27 mg, respectively.For lactating women, the EAR and the RDA decrease to 6.5–7 mg and 9–10 mg, respectively, due to a temporary cessation of menstruation.
+For men, iron recommendations are based on age. For women, they are based on age (the estimated ages of first and last menstruation) and the states of pregnancy and lactation.
+
 
 Someone who gives half a liter (0.5 L) of blood over the course of a year needs an additional 0.6–0.7 mg iron per day.[15] Someone who frequently partakes in strenuous training needs an additional 30–70% over the EAR.[12] Although vegetarians and vegans have the same recommended iron intakes as omnivores, they are more likely to be iron deficient because the iron in plants is less bioavailable than the heme iron in animals.
 
+
 An increase in iron intake may be necessary due to menstruation, pregnancy, and lactation but also due to blood donations, strenuous exercise, and a vegetarian or vegan diet.
+
 
 1.4
 
@@ -156,7 +162,9 @@ A follow-up study reported on the 36 participants (20 men, 16 women) who donated
 
 Additionally, observational data collected on blood donors suggests reduced iron levels and a high risk of deficiency.[24][25][26]
 
+
 Frequent blood donation can reduce iron levels and result in anemia. Supplementation may be necessary for people at a high risk for deficiency, particularly women.
+
 
 Surgery Resulting in Blood Loss
 
@@ -200,7 +208,9 @@ Excessive iron can catalyze the production of free radicals, which can increase 
 
 The body’s endogenous antioxidants act to prevent iron-induced oxidative stress in cells from the body’s labile iron; these antioxidants include superoxide dismutase, catalase, glutathione, glutathione peroxidases, and thioredoxins, as well as ferritin, which safely stores cellular iron.[60] Antioxidant vitamins and a variety of nonessential exogenous compounds — such as EGCG, curcumin, quercetin, and silymarin — can be used to chelate and/or reduce iron.[61][62][63][64][65][66]
 
+
 When not safely bound by ferritin and transferrin, iron is liable to produce free radicals, which can damage a wide variety of tissues. Antioxidants and chelators offer some protection.
+
 
 3.
 
@@ -238,7 +248,9 @@ Intermittent doses
 
 A meta-analysis looked at intermittent (once, twice, or three times per week) iron supplementation compared with daily supplementation for improving iron status and preventing anemia in adolescent and adult menstruating women.[78] Overall, there was no notable difference in anemia between groups. However, daily supplementation may be more effective in the long term if iron is taken alone (as opposed to in combination with folic acid). Limited evidence also suggests that daily supplementation may be better for increasing ferritin levels, although more research is needed, and the quality of evidence across studies tended to be low. The meta-analysis also found that side effects were less likely when taking iron weekly rather than daily, suggesting that for people with side effects from iron supplementation, weekly doses may be preferable to and similarly effective as daily doses.[78]
 
+
 It's unclear whether the frequency of dosing matters to iron absorption, though less frequent dosing is associated with fewer adverse events in many studies.
+
 
 3.2
 
@@ -256,7 +268,9 @@ One study found that pork also had a mild dose-dependent absorption-enhancing ef
 
 Another study found modestly increased iron absorption from a meal of high-phytate beans when oily fish was added.[83]
 
+
 Animal protein increases nonheme iron absorption from the same meal, though the effects in studies using wheat suggest smaller effects than other foods. High-phytate beans saw only a modest absorption-enhancing effect, suggesting that phytate may prevent the positive effects of animal protein on nonheme iron absorption.
+
 
 Probiotics
 
@@ -269,7 +283,9 @@ A study found that multiple phases of multiple strains of probiotic bacteria coi
 Interestingly, 1.9x107 CFU of Bifidobacterium Lactis HN019 and 2.4 g of prebiotic oligosaccharides taken daily for one year by children coincided with a reduction in iron deficiency and anemia, as compared with a placebo, but there was no effect on mean hemoglobin level or
 serum ferritin.[89] Another probiotic, Lactobacillus acidophilus, has been shown to increase vitamin B12 and folate levels and consequently hemoglobin, so an increase in hemoglobin or a reduction in the rate of anemia doesn’t necessarily suggest an increase in iron levels.[90]
 
+
 A number of bacterial strains seem to be able to increase iron absorption. A reduction of inflammation in enterocytes and the subsequent reduction in hepcidin levels is a plausible mechanism, but this topic requires more research.
+
 
 Vitamin C
 
@@ -307,13 +323,17 @@ In another study, 500 mg of elemental calcium from calcium carbonate or hydroxya
 
 A different study found that absorption of 5 mg of nonheme iron with a simultaneous 800-gram dose of various forms of calcium was suppressed by (in order from greatest to least) calcium citrate, gluconate, sulfate, phosphate, carbonate, chloride, and lactate, though the only form that was found to have a statistically significant reduction was calcium citrate.[108] In another study, doses of 200 to 1500 mg of calcium chloride had only a small inhibitory effect on nonheme iron absorption, and up to 800 mg had a small effect on heme iron absorption, which, although dose dependent, seemed well below that of most other calcium salts.[109] On the other hand, another study found that doses of as little as 40 mg of calcium chloride notably reduced iron absorption; the possible difference was that this dose was given during a meal, whereas in the the other study, it wasn’t.[110]
 
+
 Calcium is a strong inhibitor of iron absorption, and avoiding the simultaneous use of calcium and iron supplements will prevent the reduced absorption of iron. 
+
 
 Coffee and Tea
 
 Coffee may reduce iron absorption,[111] potentially due to the presence of chlorogenic acid, a known iron chelator.[112] This mechanism would extend this inhibition to green coffee extract, an even richer source of chlorogenic acid.
 
-Tea, whether green[113] or black,[111] might inhibit iron absorption, possibly due to the presence of catechins[113] and theaflavins.[114]Infusions of chamomile, lime flower, pennyroyal, peppermint, and vervain may also reduce iron absorption.[111]A wide variety of beverages with a high antioxidant content, including coffee and tea, have some acute inhibitory effect on iron.
+Tea, whether green[113] or black,[111] might inhibit iron absorption, possibly due to the presence of catechins[113] and theaflavins.[114]Infusions of chamomile, lime flower, pennyroyal, peppermint, and vervain may also reduce iron absorption.[111]
+A wide variety of beverages with a high antioxidant content, including coffee and tea, have some acute inhibitory effect on iron.
+
 
 Curcumin
 
@@ -327,13 +347,17 @@ Psyllium is a dietary fiber (roughly half soluble, half insoluble) that has the 
 
 In humans, one study noted a reduction in iron accumulation when nonheme iron was coingested with psyllium,[119] but other studies saw no effect on iron metabolism from prolonged supplementation of approximately 10 g of psyllium.[120][121][122]
 
+
 Dietary fiber may have an acute inhibitory effect on iron absorption, but fermentable dietary fibers may increase mineral resorption in the colon.
+
 
 Rosemary
 
 Rosemary (a source of rosmarinic acid) has also been shown to reduce nonheme iron absorption.[113]
 
+
 Ingesting iron at the same time as spices rich in phytic acid or phenolic acid may reduce its absorption.
+
 
 Quercetin
 
@@ -345,7 +369,9 @@ Minerals can compete with each other for absorption pathways, and zinc and iron 
 
 While not entirely consistent, there is evidence that simultaneous dosing of iron and zinc leads to reduced iron absorption when the doses are given in water, though absorption doesn’t seem to be affected when the minerals are provided within a food matrix.[127] Another study didn’t find a difference in absorption or any measure of iron status (besides the unreliable serum iron measure) when 15 mg of zinc was added per day.[128] Comparisons among groups taking 120 mg of iron with 30 mg of zinc weekly, 120 mg of iron alone weekly, 60 mg iron with 15 mg zinc daily, or 60 mg of iron alone daily showed no notable differences between zinc with iron and iron alone in terms of hemoglobin or ferritin levels.[129] In another study, 6 weeks of daily supplementation with 22 mg of zinc without iron by participants with low iron reserves reduced plasma iron, ferritin, and transferrin saturation but not hemoglobin.[130] A daily dose of 10 mg from a zinc supplement given for 3 months in children aged 8–9 years resulted in somewhat reduced serum iron levels, but there were no notable differences as compared with placebo for hemoglobin, ferritin, transferrin, or transferrin saturation.[131] Interestingly, one study found that daily supplementation with 20 mg of zinc between meals didn’t affect iron absorption from meals containing radioisotope-labeled iron.[132] However, there was a strong trend towards reduced serum iron and serum ferritin, but not hemoglobin, after 2 months.
 
+
 Although zinc seems to be able to reduce the absorption of iron, the effect is inconsistent, and the strength of this effect is unclear. Taking zinc between meals is likely a good way to prevent any absorption interference. There does seem to be a notable reduction in serum iron when taking zinc supplements, though this is likely to be independent of any effects on iron absorption and may be potentially linked to competition for transporters in the liver and other unknown consequences.
+
 
 4.
 
@@ -361,7 +387,9 @@ In a randomized, single-blind, placebo-controlled trial, type 2 diabetes patient
 
 Another study didn’t find an effect of iron supplementation on HbA1c but wasn’t in type 2 diabetics.[137] While three uncontrolled studies in people with iron deficiency anemia but without diabetes found a reduction with iron supplementation.[138][139][140]
 
+
 Resolving iron-deficiency anemia tends to reduce the amount of glycated hemoglobin in circulation. However, due to the role of iron in hemoglobin, it’s likely an effect of increased hemoglobin turnover rather than reductions in glycation. More research is needed.
+
 
 5.
 
@@ -377,7 +405,9 @@ When it comes to supplementation, one study on women with anemia and depression 
 
 In the case of postpartum depression, a majority of studies have found a positive association with anemia and iron deficiency, though it’s unclear how potent the relationship is or if there are confounding factors at play.[143] Controlled trials that give iron as a prophylactic in the postpartum period have found reductions in depression ratings as compared with placebo in both anemic,[144], and nonanemic participants[145]. One study found less depression in participants who took intravenous iron than oral iron, the former having led to a greater increase in hemoglobin.[146] and one case-control study found that women who supplemented with iron during pregnancy were less likely to have postpartum depression than women who didn’t, though it’s possible that this may have been influenced by supplementation of other nutrients.[147]
 
+
 Depression is a symptom of iron-deficiency anemia, and increasing iron levels can likely improve the condition. 
+
 
 5.2
 
@@ -399,7 +429,9 @@ A body without enough red blood cells, or whose red blood cells are unhealthy, s
 
 Iron-deficiency anemia, the most common form of anemia worldwide, can be caused by a lack of iron in the diet or by the body having difficulties processing the ingested iron. It primarily affects premenopausal women with low meat intake, due to a combination of iron loss from menstruation and lack of dietary heme iron.[154] It can be treated by increasing dietary iron, by taking an iron supplement (under medical supervision), or by enhancing the body’s ability to absorb and use iron[155][156][157] — by increasing the bioavailability of plant forms of iron, for instance. 
 
+
 Red blood cells ferry oxygen to body tissues thanks to the iron in hemoglobin and myoglobin. Optimal iron stores in the body support this function; an excess of iron does not necessarily enhance it, but an iron deficiency does hinder it, leading to iron-deficiency anemia.
+
 
 7.
 
@@ -413,7 +445,9 @@ Macrophages are immune cells. In addition to eliminating foreign bodies determin
 
 Red blood cells, like all cells, eventually degrade with age — a process known as senescence. As they do, they release their heme, which can then damage tissues and DNA.[161] To prevent this, the erythrophagocytic macrophage detects senescent red blood cells and eliminates them.[162]
 
+
 Some macrophages detect and eliminate damaged or senescent red blood cells, which prevents the iron in those cells from floating free around the body, damaging tissues.
+
 
 8.
 
@@ -425,7 +459,9 @@ Female Sex Organs
 
 Taking an iron supplement around the time of menstruation appears to increase both ferritin and hemoglobin and to reduce the risk of anemia (RR 0.73; 95% CI of 0.56–0.95). However, despite similar improvements in hemoglobin, daily supplemention appears to better reduce the risk of anemia.[154] 
 
+
 Taking an iron supplement around the time of menstruation appears to reduce anemia, but not as much as taking an iron supplement every day.
+
 
 9.
 

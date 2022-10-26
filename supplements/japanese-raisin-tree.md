@@ -54,7 +54,9 @@ When paired in rats, Hovenia did not appear to significantly influence measured 
 
 Ethanol is metabolized to its first metabolite (acetaldehyde) via the ADH enzyme, which is further converted to acetic acid by the ALDH enzyme. Both of these enzymes are decreased after oral ingestion of alcohol, and Hovenia was also able to attenuate the decrease in both ADH and ALDH activity seen with alcohol only when Hovenia was taken 30 minutes prior to alcohol, but not with concurrent intake or 30 minutes after ethanol.[9] In this study the fruits of Mori Albae as well as Alpiniae Katsumadai and Dolichorus seeds were able to attenuate the reductions of ADH and ALDH at all three time points.[9]
 
+
 Hovenia dulcis appears to reduce circulating levels of alcohol in the blood when taken before drinking. This works somewhat when taken during or after alchohol consumption, but is most effective when taken 30 minutes prior to drinking. 
+
 
 2.2
 
