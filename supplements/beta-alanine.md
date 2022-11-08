@@ -182,7 +182,7 @@ Carnosine is hydrolyzed into its two substrates by carnosinase enzymes, one spec
 
 Carnosine Status (Deficiency, Surplus)
 
-Deficiency states, redeemable through supplementation, are possible with some pseudo-vitamin compounds, such as creatine or carnitine (L-carnitine). Beta-alanine does not appear to be similar in this regard. Dietary histidine deficiency, on the other hand, depresses serum and muscle levels of both beta-alanine and carnosine.[24] Levels are restored when histidine is supplemented.[25]
+Deficiency states, redeemable through supplementation, are possible with some pseudo-vitamin compounds, such as creatine or carnitine (L-carnitine). Beta-alanine does not appear to be similar in this regard. Dietary histidine deficiency, on the other hand, depresses serum and muscle levels of both beta-alanine and carnosine.reference Levels are restored when histidine is supplemented.[25]
 
 
 Beta-alanine and carnosine do not have pseudo-vitamin status. Any state of deficiency related to either could also be called a general “protein deficiency” associated with the essential amino acid histidine. It can be avoided by consuming more protein.
