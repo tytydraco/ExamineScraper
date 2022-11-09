@@ -1013,9 +1013,9 @@ One study in a model of premenopausal syndrome (PMS) noted a slight but synergis
 
 Cyclosporin A
 
-A pharmaceutical immunosuppressant called cyclosporin A is known to induce nephrotoxicity, and seems to also be able to deplete magnesium levels.[224][225][226]<a href="#ref-227" id="ref-link-227" class="ref-link" class="popover" data-tooltip="<div><p class="mb-3">Ikari A, et al. <a href="https://www.ncbi.nlm.nih.gov/pubmed/18026717" target="\_blank" rel="noopener noreferrer">Do
+A pharmaceutical immunosuppressant called cyclosporin A is known to induce nephrotoxicity, and seems to also be able to deplete magnesium levels.[224][225][226]<a href="#ref-227" id="ref-link-227" class="ref-link popover" data-tooltip="<div><p class="mb-3">Ikari A, et al. <a href="https://www.ncbi.nlm.nih.gov/pubmed/18026717" target="\_blank" rel="noopener noreferrer">Do
 
-wn-regulation of TRPM6-mediated magnesium influx by cyclosporin A</a>.</p>Naunyn Schmiedebergs Arch Pharmacol (2008)</div>">[227] It may act via inhibiting reuptake in the tubules[228]<a href="#ref-227" id="ref-link-227" class="ref-link" class="popover" data-tooltip="<div><p class="mb-3">Ikari A, et al. <a href="https://www.ncbi.nlm.nih.gov/pubmed/18026717" target="\_blank" rel="noopener noreferrer">Do
+wn-regulation of TRPM6-mediated magnesium influx by cyclosporin A</a>.</p>Naunyn Schmiedebergs Arch Pharmacol (2008)</div>">[227] It may act via inhibiting reuptake in the tubules[228]<a href="#ref-227" id="ref-link-227" class="ref-link popover" data-tooltip="<div><p class="mb-3">Ikari A, et al. <a href="https://www.ncbi.nlm.nih.gov/pubmed/18026717" target="\_blank" rel="noopener noreferrer">Do
 
 wn-regulation of TRPM6-mediated magnesium influx by cyclosporin A</a>.</p>Naunyn Schmiedebergs Arch Pharmacol (2008)</div>">[227] and is usually recommended (by a physician) for magnesium supplementation alongside cyclosporin usage.
 
