@@ -32,7 +32,7 @@ Neurology
 
 3.1
 
-Alzheimer& #039;s
+Alzheimer's Disease
 
 3.2
 
@@ -172,9 +172,9 @@ Neurology
 
 3.1
 
-Alzheimer& #039;s
+Alzheimer's Disease
 
-In isolated HEK293 cells, Benfotiamine at 20-40ug/mL is able to attenuate the glucose-induced increase in β-amyloid protein synthesis and theoretically aid the pathology of Alzheimer's Disease.[9]
+In isolated HEK293 cells, Benfotiamine at 20-40ug/mL is able to attenuate the glucose-induced increase in β-amyloid protein synthesis and theoretically aid the pathology of Alzheimer's disease.[9]
 
 In mice (either diabetic by streptozotocin or normal mice) given Benfotiamine at 100mg/kg for 14 days was able to normalize the glutathione:glutathione disulfide (GSSG) ratio in the cerebral cortex (by decreasing GSSG to control levels), although it did not affect normal mice.[10] These benefits occurred prior to any changes in AGEs or TNF-α (and thus were independent).[10]
 

@@ -94,7 +94,7 @@ Cardiovascular Health
 
 Blood Pressure
 
-Thiamine is investigated for interactions with blood pressure due to evidence in the spontaneously-hypertensive rat (SHR) line where thiamine administration reduced blood pressure associated with down-regulating (normalizing) abnormalities of a few genes in the renin-angiotensin system such as PAI-1, TGFβ-1, the AT-1 receptor and angiotensinogen.[9] There is also thought to be an additional link to hyperglycemia (high blood sugar) since high blood glucose an increase thiamine elimination in the urine[1] and one human study in subjects with liver cirrhosis found that repleting low levels of thiamine greatly helped both blood glucose and blood pressure levels.[10]
+Thiamine is investigated for interactions with blood pressure due to evidence in the spontaneously-hypertensive rat (SHR) line where thiamine administration reduced blood pressure associated with downregulating (normalizing) abnormalities of a few genes in the renin-angiotensin system such as PAI-1, TGFβ-1, the AT-1 receptor and angiotensinogen.[9] There is also thought to be an additional link to hyperglycemia (high blood sugar) because high blood glucose can increase thiamine elimination in the urine[1] and one human study in subjects with liver cirrhosis found that repleting low levels of thiamine greatly helped both blood glucose and blood pressure levels.[10]
 
 When tested in subjects with hyperglycemia, supplementation of 300mg thiamine (HCl) for six weeks appeared to reduce mean arterial pressure and diastolic blood pressure to a minor degree (2.3% and 4.3% respectively) when compared to placebo with no effect on systolic blood pressure or pulse.[11]
 

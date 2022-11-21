@@ -90,7 +90,7 @@ Sources and Structure
 
 Sources
 
-Eurycoma Longifolia Jack is also commonly referred to as Tongkat Ali, Longjack, or Malaysian Ginseng (although not belonging to the same plant family as Panax Ginseng). Eurycoma Longifolia belongs to the plant family of Simaroubaceae with Eurycoma being the family. Four plants belong in this family; Apiculata, Harmandiana, latifolia, and Longifolia where only the last species is used medicinally.[1]
+Eurycoma longifolia Jack is also commonly referred to as Tongkat Ali, Longjack, or Malaysian Ginseng (although not belonging to the same plant family as Panax Ginseng). Eurycoma Longifolia belongs to the plant family of Simaroubaceae with Eurycoma being the family. Four plants belong in this family; Apiculata, Harmandiana, latifolia, and Longifolia where only the last species is used medicinally.[1]
 
 Other names given to the Eurycoma Longifolia plant are Tung Sawa(Thailand), Pasak Bumi(Indonesian), Cay Ba Binh(Vietnamese), and Langir Siam(Bahrain).[2] Bioactives may vary depending on the location the herb is grown,[3] indicating that standardization would be prudent.
 

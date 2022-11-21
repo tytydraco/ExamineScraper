@@ -102,14 +102,6 @@ Caffeine
 
 Rhizoma Coptidis
 
-7.3
-
-Paeoniflorin
-
-8
-
-Safety and Toxicity
-
 1.
 
 Sources and Composition
@@ -340,25 +332,5 @@ Coptis and Evodia form a dichotomy of cold and hot (Yin and Yang), respectively,
 Coptis Chinensis and Evodia Fructus appear to be mostly antagonist to each other in how they are seen to affect temperature; yet they are used together in decoctions and mixtures (for acute conditions and short-term usage; a 'harmonizing of hot and cold' treatment strategy). The historical reports of Evodia's 'heat' and Coptis's 'cold' properties actually do seem to have some merit, as evidenced by the rat preference tests trying to bioregulate their temperature
 
 
-When looking at the pharmacokinetics of the combination, Rhizoma Coptidis appears to benefit the pharmacokinetics and circulating levels of some bioactives in Evodia such as dehydroevodiamine[20] by about 274% of the value of Evodia alone despite the same oral dosage (AUC value).[73] Evodia seems to either not significantly affect the pharmacokinetics of some Coptidis molecules such as coptisine (acutely)[20] yet increase general absorption[74] but can reduce the AUC of various alkaloids (coptisine, palmatine, jateorrhizine) after prolonged ingestion and reduce the AUC and Cmax values of the berberine content of Coptidis Rhizoma either chronically[74] or acutely.[73] This was hypothesized to be secondary to Evodia Fructus pretreatment enhancing the expression of hepatic UGT1A1, a sulfation enzyme, which conjugated compounds in Coptidis Rhizoma.[74]
-
-
-Coptidis chinensis rhizome enhances the bioavailability and circulating amount of co-ingested Evodia fruit, but Evodia fruit hinders the absorption and circulating amount of the active ingredients of Coptidis Chinensis; almost as if the former is sacrificing itself for the latter
-
-
-7.3
-
-Paeoniflorin
-
-Paeoniflorin is the main bioactive found in the herb Paeonia Lactiflora, and its bioavailability and circulating amounts are enhanced by various herbs. Although not to the same degree of Fennel fruit (which increases bioavailability to 226.02% of the level of Paeoniflorin in isolation), consumption of Paeoniflorin alongside Evodia fruit elevates relative absorption to 123.62%.[75]
-
-
-Paeonia Lactiflora doesn't do much for Evodia, but Evodia enhances the absorption of Paeonia Lactiflora bioactives
-
-
-8.
-
-Safety and Toxicity
-
-When tested in isolation, the LD50 of evodiamine and rutaecarpeine in mice were 77.79mg/kg and 65mg/kg bodyweight after injection.[76]
+When looking at the pharmacokinetics of the combination, Rhizoma Coptidis appears to benefit the pharmacokinetics and circulating levels of some bioactives in Evodia such as dehydroevodiamine[20] by about 274% of the value of Evodia alone despite the same oral dosage (AUC value).[73] Evodia seems to either not significantly affect the pharmacokinetics of some Coptidis molecules such as coptisine (acutely)[20] yet increase general absorption[74] but can reduce the AUC of various alkaloids (coptisine, palmatine, jateorrhizine) after prolonged ingestion and reduce the AUC and Cmax values of the berberine content of Coptidis Rhizoma either chronically[74] or acutely.[refe
 
