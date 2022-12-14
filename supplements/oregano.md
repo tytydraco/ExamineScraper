@@ -76,10 +76,12 @@ Rosmarinic acid[4][3] at 123.22mg/g in the water extract (tea)[5]Ursolic acid[4]
 The composition of the dried leaves of oregano (excluding the essential oil component) includes a large amount of phenolics, which is fairly standard amongst plants, with the only unique components being phenolic structures known as oreganols (which are structured somewhat similar to rosmarinic acid). Triterpenoids such as ursolic acid may also be active in this plant.
 
 
-The fresh essential oil component of origanum vulgare contains:
+In one sample, the fresh essential oil component of origanum vulgare contained:
 
-Carvacrol as the major component (characteristic odor of oregano) at 14.5%[9]Thymol (12.6%[9])β-fenchyl alcohol (12.8%[9])δ-terpineol (7.5%[9])γ-terpinene (11.6%[9])α-terpinene (3.7%[9])1-methyl-3-(1-methylethyl)benzene (6.8%[9])
-The essential oil of oregano is high in both carvacrol as well as thymol, despite the former being claimed to be the major component of oregano (since it carries the aroma of oregano). Some other components, such as β-fenchyl alcohol or γ-terpinene, may be in high enough levels to be active.
+Carvacrol as the major component (characteristic odor of oregano) at 14.5%[9]Thymol (12.6%[9])β-fenchyl alcohol (12.8%[9])δ-terpineol (7.5%[9])γ-terpinene (11.6%[9])α-terpinene (3.7%[9])1-methyl-3-(1-methylethyl)benzene (6.8%[9])These amounts may differ substantially, however.
+
+
+The essential oil of oregano is high in both carvacrol as well as thymol. Some other components, such as β-fenchyl alcohol or γ-terpinene, may be in high enough levels to be active. Some products claim to contain largely carvacrol though without laboratory confirmation it is difficult to know.
 
 
 There is a pink flowered variant of oregano (origanum vulgare subspecies vulgare) which has a different essential oil composition which is high in β-Caryophylline (15.6-17.2%), Sabinene (2.5-9.1%), Spathulenol (5.3-6.1%), γ-Eudesmol (5.0-6.7%), p-cymeme (3.3-3.9%), α-humulene (2.1-2.8%), Germacrene D (4.5-9.8%), as well as β-ocimene structures such as (Z)-β-ocimene (0.8-4.0%), (E)-β-ocimene (0.9-3.9%), and allo-ocimene (1.1-4.0%) with various lesser components.[10] This variant does not appear to have a high carvacrol nor thymol content.
