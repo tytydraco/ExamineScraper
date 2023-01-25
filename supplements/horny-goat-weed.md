@@ -140,7 +140,7 @@ Icariin, if not absorbed, can be sent to the colon and transformed via bacteria 
 
 Systemic
 
-After intravenous administration in rats, Icariin at 10mg/kg bodyweight had a half-/-life of 0.562+/-0.2 hours and an elimination rate constant (Ke) of 1.361+;0.556 per 1/h.[10] Another study using Icariin at the same dose via injection, however, noted a half-life of 170+/-75.1 hours suggesting quite a bit of variability (Ye et al. 1999).[11]
+After intravenous administration in rats, Icariin at 10mg/kg bodyweight had a half-/-life of 0.562+/-0.2 hours and an elimination rate constant (Ke) of 1.361+;0.556 per 1/h.[10] Another study using Icariin at the same dose via injection, however, noted a half-life of 170+/-75.1 minutes suggesting quite a bit of variability (Ye et al. 1999).[11]
 
 After oral ingestion of 4.5mg/kg Icariin in rats, a Cmax of 3.37+/-1.42mg/L, an AUC of 40.6+/-5.73mg/h/L with a half-life of 10.9+/-1.35 hours is seen. Elimination rate constant is 0.064+/-0.1 per 1/h.[12]
 
