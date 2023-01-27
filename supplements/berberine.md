@@ -446,8 +446,6 @@ Structure
 
 Berberine is known as an isoquinoline alkaloid with the prolonged name of 2,3-methylenedioxy-9,10-dimethoxy-protoberberine.[11] It has a molecular weight of 336.36122g/mol, and is bright yellow in color when isolated.[12]
 
-{OLD-IMG-ID:137}
-
 1.3
 
 Berberine Complexes
@@ -541,8 +539,6 @@ One other metabolite has been found, columbamine-2-O-β-D-glucuronide;[43] both 
 
 Most urinary excretion of Berberine appears to be Jatrorrhizine, with all metabolites having at least once been detected in sulfated or glucuronidated form
 
-
-{OLD-IMG-ID:173}
 
 2.5
 

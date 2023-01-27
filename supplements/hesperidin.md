@@ -376,15 +376,11 @@ Structure
 
 As a glycoside (with sugars), it has an aglycone (without sugars) flavanone known as hesperitin (5,7,3'-trihydroxy-4'-methoxyflavanone) and can also be referred to chemically as hesperitin-7-O-rutinoside (as the sugar it is bound to is rutinose) or hesperitin-7-O-rhamnosyl(1-6)glucoside (since a 'rutinose' sugar is 6-O-α-L-rhamnosyl-D-glucose, or simply a rhamnose sugar bound to a glucose).
 
-{OLD-IMG-ID:421}
-
 
 The main molecule here is hesperitin, but it is found in foods as hesperidin which pretty much acts like a hesperitin prodrug (gives the body hesperitin, but is better than hesperitin itself at doing so due to various reasons). G-Hesperidin is another synthetic prodrug for hesperitin
 
 
 Hesperitin is known as a flavanone (a subset of flavonoid or bioflavonoid) due to there not being a double bond between the 2 and 3 carbon on the A ring, which is the rightmost vertical line one the middle hexagon (a double bond would mean that two vertial lines were there). This lack of a double bond means that the B ring (hexagon not immediately bonded to another, furthest right on the pictures below) is more perpendicular to the other two rather than adjacent like shown in the 'standard depiction'.
-
-{OLD-IMG-ID:419}
 
 
 Flavanones tends to be more linear than flavones since the double bond (which normally electrically pushes the B ring away from it) doesn't exist, so the B ring can float to a more linear position

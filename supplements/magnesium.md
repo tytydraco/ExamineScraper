@@ -342,9 +342,7 @@ The most common and abundant non-supplemental sources of magnesium are leafy gre
 
 A few dietary supplements, usually those that are herbs or food products, may also contain Magnesium. These include:
 
-Basella Alba (Indian Spinach) at 114+/-1mg/100g[19]King Oyster (Mushroom) at 740+/-230mcg/g[20]Seeds of Mucuna Pruriens[21]Seeds of Irvingia Gabonensis (African Mango) at 429+/-0.3ppm dry weight[22]Royal Jelly at 217.493mg/kg[23]Schisandra Chinensis at trace levels[24]{OLD-IMG-ID:557}
-
-1.2
+Basella Alba (Indian Spinach) at 114+/-1mg/100g[19]King Oyster (Mushroom) at 740+/-230mcg/g[20]Seeds of Mucuna Pruriens[21]Seeds of Irvingia Gabonensis (African Mango) at 429+/-0.3ppm dry weight[22]Royal Jelly at 217.493mg/kg[23]Schisandra Chinensis at trace levels[24]1.2
 
 Recommendations and Dietary Availability
 

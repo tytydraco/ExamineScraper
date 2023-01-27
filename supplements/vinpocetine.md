@@ -158,8 +158,6 @@ Vinpocetine is a synthetic alkaloid that is derived from vincamine, a component 
 
 Structure
 
-{OLD-IMG-ID:88}
-
 Vinpocetine ((3α,16α)-eburnamenine-14-carboxylic acid ethyl ester or ethyl apovincaminate) is an alkaloid with a molecular weight of 350.5g/mol[5] which is fully soluble in methanol, dimethyl sulfoxide, and acetone.[2] The structure of vinpocetine is based off of the cis(3S,16S)-eburnamenine skeleton structure, which is the following 5-ringed structure.[6][7]
 
 2.

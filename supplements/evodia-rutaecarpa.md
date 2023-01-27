@@ -132,8 +132,6 @@ Structure
 
 Pictured below are the two main bioactives typically attributed to Evodia Rutaecarpa.[15]
 
-{OLD-IMG-ID:82}
-
 Despite the similarities in action to capsaicin, which is hot pepper extract; isolated evodiamine possesses no significant taste nor spiciness. A large amount of crystal data for evodiamine can be found here.[4]
 
 2.

@@ -174,8 +174,6 @@ Sulforaphane is an active isothiocyanate, found in food via its storage form of 
 
 Structure
 
-{OLD-IMG-ID:122}
-
 1.3
 
 Digestion and Catabolism

@@ -178,8 +178,6 @@ Bacogenins (A1, A2 and A3)[14]Jujubogenins (Bacopasaponin F and E, Bacopa A3, Ba
 
 All bacosides and bacopasides share a similar base structure, but vary due to different functional groups attached to the 'R' denotations on the diagrams below. Functional changes on the sugar moieties can change the effects of the glycosides as well.
 
-{OLD-IMG-ID:40}
-
 Of these, the most bioactive components appear to be Bacoside A3, Bacopaside II, and both (jujubogenin and pseudojujubogenin) Bacosasaponin Cs.[5][17]
 
 

@@ -414,8 +414,6 @@ The active components of fish oil are generally considered to be the two omega-3
 
 Any fatty acid that has a double bond is unsaturated (if only once, monounsaturated; if many times like both fish oils, polyunsaturated or PUFA) and thus has an omega designation; saturated fatty acids lack double bonds and thus have no omega designation. The diagram below indicates double bonds via parallel lines
 
-{OLD-IMG-ID:38}
-
 The shortened nomenclature for EPA is 20:5n3 while 22:6n3 is for DHA; the first number refers to the carbons in the sidechain, while the second refers to the overall count of double bonds (and the final number referring to the omega designation).
 
 
@@ -508,8 +506,6 @@ RvE1 has been identified to be a ligand of the ChemR23 GPRC receptor,[111][112][
 
 Resolvins of the D series have antiinflammatory properties by inhibiting TNF-α induced cytokine expression in microglia in the picomolar range (IC50 of 50pM).[106] They are deactivated by oxidation, where they are converted to oxidized resolvins (at either the 8 or 17 position).[99]
 
-{OLD-IMG-ID:237}
-
 2.3
 
 Protectins
@@ -522,13 +518,9 @@ Protectins are molecules derived from docosahexaenoic acid (DHA), but they do no
 
 Marisen 1 is named after macrophage mediators in resolving inflammation and is present in macrophages and platelets and formed via the actions of 12-lipoxygenase,[99] but beyond that is not fairly well researched.
 
-{OLD-IMG-ID:238}
-
 Neuroprotectin D1 (NPD1) is more well understood. Produced by a 15-lipoxygenase like action[115] after cleavage from phospholipase A2[114] where the metabolite 17\_S\_H(p)DHA (same as the D series of resolvins) is converted into a 16(17)-epoxide and then reconfigured to NPD1.[116]
 
 NPD1 appears to have potency antiinflammatory properties (by dysregulating IL-1β induced COX2 induction[116]) in the brain in response to stroke and ischemia[117] and anti-Alzheimer's actions by preventing the inflammatory response to the protein agggregates seen in the disease state with an IC50 of 50nM (β-amyloid,[118] may also reduce levels of the pigmentation[119]). This protection is via a PPARγ dependent mechanism[118] and as DHA has been noted to reduce amyloid buildup in animals and in vitro[120][121][122] it is thought that NPD1 mediates these effects.
-
-{OLD-IMG-ID:236}
 
 
 The first metabolite of DHA can be converted into either D series resolvins or protectins. Neuroprotectin D1 (NPD1) is a notable protectin with potent anti-Alzheimer's actions and neuroprotective properties.

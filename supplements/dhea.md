@@ -214,8 +214,6 @@ Structure
 
 DHEA has the official name of 3β-Hydroxy-5-Androstene-17-one and has a similar skeletal backbone to cholesterol, except without the side-chain (dissociated in the first step of metabolism, from cholesterol into pregnenolone), the remnants of the side-chain are replaced with a ketone group (double-bonded oxygen at the top right of the below structures).
 
-{OLD-IMG-ID:70}
-
 1.3
 
 Properties
@@ -591,8 +589,6 @@ This conjugate appears to possess competitive aromatase inhibiting activities, w
 
 Not yet scientifically tested in humans, but appears to be a potent aromatase inhibitor
 
-
-{OLD-IMG-ID:71}
 
 15.
 

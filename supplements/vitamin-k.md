@@ -457,8 +457,6 @@ Vitamin K is a quinone structure similar to Coenzyme Q10, and in particular have
 
 While phylloquinone only refers to a single structure, the term menaquinone refers to many structures that vary in side-chain length. The shortest menaquinone that is supplemented is MK-4 (four isoprene groups) and while menaquinones can be found up to MK-13,[28][29] the most common long chain menaquinone is MK-7 (since it is found in natto and a popular supplement).
 
-{OLD-IMG-ID:250}
-
 All of the above quinones are known to be fat soluble (lipophilic), and as the chain length increases into the MK-7 to MK-10 range the lipophilicity further increases relative to shorter quinones (such as MK-4).[30]
 
 
@@ -470,8 +468,6 @@ Phylloquinones (K1) and Menaquinones (K2) form the basic structural classes of V
 Mechanisms and the Vitamin K Cycle
 
 The synthesis of γ-carboxyglutamate (from glutamate) is considered the central mechanism of action for Vitamin K in the human body, and this occurs from something called the Vitamin K cycle.[31][32] Specifically, it appears that vitamin K1 (phylloquinone) is reduced into hydroquinone (KH2) via either the quinone reductase enzyme (an NADPH dependent conversion) or via Vitamin K oxidoreductase (the target of warfarin), with subsequent oxidation of hydroquinone into a Vitamin K1 2,3-epoxide being the cofactor in the enzymatic transformation of glutamate into γ-carboxyglutamate (alongside carbon dioxide and oxygen).[33] The epoxide is then converted back into phylloquinone again via Vitamin K oxidoreductase for reentry into what is known as the Vitamin K cycle.[34]
-
-{OLD-IMG-ID:251}
 
 γ-carboxyglutamate is important since, relative to glutamate, it can bind to calcium ions, which alters biological activity of the protein that has become carboxylated.[35] This reaction is delocalized in the body and while the liver appears to be the prime location for carboxylation[36][37], it has also been detected in the lungs,[38] spleen,[37] testes,[37] bone,[39] and kidneys.[40]
 

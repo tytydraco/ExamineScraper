@@ -214,8 +214,6 @@ Carnosine (beta-alanyl-L-histidine) is a dipeptide of beta-alanine and histidine
 
 A fourth and less studied histidine-containing dipeptide exists. Called balenine, its only difference with anserine is that its methyl group is attached to the 1-carbon on the nitrogen-containing ring, rather than the 3-carbon.[40][41] Like anserine, balenine can be found where carnosine is also present (the skeletal muscles, notably).
 
-{OLD-IMG-ID:111}
-
 2.
 
 Pharmacology

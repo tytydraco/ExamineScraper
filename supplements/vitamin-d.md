@@ -386,8 +386,6 @@ Structure
 
 The standard supplement is vitamin D3, otherwise known as cholecalciferol; vitamin D3 tends to be better absorbed than other forms of vitamin D. In the liver, cholecalciferol is turned into 25-hydroxycholecalciferol via the enzyme cholecalciferol 25-hydroxylase and then sent out to the kidneys to get hydroxylated into 1,25-dihydroxycalciferol. 1,25-dihydrocalciferol is also known as Calcitriol, and is the active hormone that is the result of vitamin D3 ingestion.
 
-{OLD-IMG-ID:93}
-
 1.4
 
 Bioactivation

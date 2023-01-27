@@ -296,8 +296,6 @@ Sources and Structure
 
 L-Carnitine, being a trimethylated amino acid structure, contains a nitrogen molecule in its structure. The related compounds of Acetylcarnitine and Propionylcarnitine are depicted below, and differ slightly:
 
-{OLD-IMG-ID:49}
-
 1.3
 
 Biological Significance

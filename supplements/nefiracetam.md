@@ -100,8 +100,6 @@ Structure
 
 The structure of nefiracetam is basically the structure of Piracetam, although a phenyl group with two methyl groups has been added to the amine of Piracetam. This structure is somewhat similar to Aniracetam (pictured below) although the amine group of piracetam is preserved in nefiracetam's structure.
 
-{OLD-IMG-ID:263}
-
 2.
 
 Neurology

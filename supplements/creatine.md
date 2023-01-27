@@ -524,9 +524,7 @@ Properties and Structure
 
 Creatine is a small peptide — a structure composed of amino acids. Specifically, creatine is composed of L-arginine, glycine, and methionine. Its molecular structure is depicted below.
 
-{OLD-IMG-ID:91} 
-
-{OLD-IMG-ID:92}
+ 
 
 1.3
 

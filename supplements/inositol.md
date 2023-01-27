@@ -142,8 +142,6 @@ Structure
 
 Inositol is a polyol by the name of cyclohexanehexol, and is a cyclohexane group (hexagon) with six hydroxyl groups surrounding the structure. Myo-inositol is particularly defined by having a lone axial hydroxyl group (on C2) whereas the other eight possible isomers of inositol are equatorial.[2]
 
-{OLD-IMG-ID:366}
-
 If D-chiro-inositol is methylated at the 3-carbon, then the molecule that results is known as D-pinitol.[8]
 
 1.3
@@ -153,8 +151,6 @@ Biological Significance
 Myo-inositol is the precursor to various phosphorylated derivatives such as inositol-1,4,5-triphosphate (IP3).[9][10] The phosphorylated derivatives are numerous, and the 63 possible variants are divided into groups as to how many phosphate groups they possess (six variants of IP1, fifteen of IP2, twenty for IP3, fifteen for IP4, six for IP5, and a single IP6 molecule known as inositol hexaphosphate or phytic acid).[10] Based on the structures of IP5 and IP6, enzymes may create pyrophosphorylated derivatives by adding pyrophosphate groups in the D1, D3, or D5 carbons; these derivatives are referred to as IP7-IP9.[11][12][13]
 
 It appears that a mnemonic for these phosphorylated inositol derivatives is a turtle, which has the axial group of the carbon as the turtle's head (carbon 2) and the first carbon being the right frontal flipper which is usually anchored to the cell membrane.[10][14] Visualizing inositol in this manner prevents confusion between the numerous enantiomers.[15]
-
-{OLD-IMG-ID:364}
 
 
 Myo-inositol initially does not possess any phosphate groups, and the addition of varying phosphate groups to different positions can result in over 70 different signalling molecules within cells. They are categorized into groups based on how many phosphates they possess which are referred to as IP1-IP9

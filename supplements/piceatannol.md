@@ -198,8 +198,6 @@ Structure
 
 The structure of piceatannol is highly similar to resveratrol, as piceatannol (3,5,4',3'-tetrahydroxystilbene) has a single hydroxyl group at the 3'-carbon differing from resveratrol (3,5,4'-trihydroxystilbene).[21] The glycoside of piceatannol is astringin, or piceatannol-3'-O-β-d-glucopyranoside.
 
-{OLD-IMG-ID:525}
-
 1.3
 
 Physicochemial Properties

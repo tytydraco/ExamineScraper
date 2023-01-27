@@ -370,8 +370,6 @@ Structure and Properties
 
 The structure of curcumin, officially known as diferuloylmethane, is two ferulic acid moeities bound together with an additional carbon (methane) to abridge the carboxyl groups. It can exist in a enol form (pictured below) or a keto form, which is molecularily symmetrical with two ketone groups on the backbone.
 
-{OLD-IMG-ID:60}
-
 The curcumin molecule is bright yellow (as it is used as an industrial food colorant known as E100)[10][9] and highly lipophilic.[11] Curcumin is acid stable in the pH of the stomach.[11]
 
 1.3

@@ -216,8 +216,6 @@ Alternatively, M2 (δ-(3-methoxy-4-hydroxyphenyl)-γ-valerolactone) is another b
 The main ingredient of Pycnogenol does not inherently exist in the supplement, but is formed in vivo in the gut after ingestion of Pycnogenol containing foods or supplements
 
 
-{OLD-IMG-ID:128}
-
 2.
 
 Pharmacology

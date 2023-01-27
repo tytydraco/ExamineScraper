@@ -206,8 +206,6 @@ Structure
 
 Grape Seed Extract (GSE) is a mixture of procyanidin polymers, or chains of procyanidins. It appears that some other polymers exist, as (+)-catechin (one of the four green tea catechins) appears to combine in chains to form the main Procyanidin B2.
 
-{OLD-IMG-ID:107}
-
 Grape Seed Extract can contain monomers (one molecule), dimers (two molecules), trimers (three molecules), etc. Most of the bioactivities that are unique to GSE are due to the dimers or larger chains.
 
 2.

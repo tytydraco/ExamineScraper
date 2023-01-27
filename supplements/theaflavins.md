@@ -292,8 +292,6 @@ Structure(s)
 
 Theaflavins are divided into several similarly structured molecules; Theaflavin, Theaflavin-3-gallate, Theaflavin-3'-gallate, and Theaflavin-3,3'-digallate (essentially, the Theaflavin molecule with or without additional gallic acid molecules added to it). These four molecules are collectively referred to as 'Theaflavins'.[13] For the purpose of this article, Theaflavin-3,3'-Digallate is simply referred to as 'Theaflavin Digallate'.
 
-{OLD-IMG-ID:183}
-
 
 Theaflavin per se is the basic structure and is formed from two catechins (in these pictures, the top catechin opened up its hexane ring and reattached; now appearing to be a heptane) and gallic acid molecules attach to either of or both of the 3-carbon positions on the catechins
 

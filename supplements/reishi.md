@@ -298,8 +298,6 @@ Structure and Properties
 
 The main bioactives of Ganoderma Lucidum tend to be seen as the triterpenoid component (broken down into Ganodermic acids, Ganodermic Alcohols, and Lucidenic Acids) and the polysaccharide content.
 
-{OLD-IMG-ID:76}
-
 In regards to the differentiation between Ganoderma Acids and Alcohols (the triterpenoid compounds), acidic fractions appear to favor acid accrual and neutral fractions the alcohol fragment.[43] Triterpenoids appear to be hydrophobic, and are present in ethanolic or chrorophyll extractions; the polysaccharides are water-soluble and are the main bioactive in any Ganoderma water-soluble extract.
 
 2.

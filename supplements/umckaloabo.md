@@ -152,8 +152,6 @@ Coumarins (synonymous with benzopyranones) including 5,6,7-trimethoxycoumarin, 6
 
 Unlike other plants in the pelargonium genera, sidoides does not appear to have a detectable content of small phenolic acids (caffeic, ferulic, protocatechuic, coumaric) and its shikamic acid is fully gallated;[3] it also appears to be somewhat devoid of the typical flavonoids kaempferol, quercetin, and myricetin.[3] Pelargonium sidoides is sometimes adultered with the related plant pelargonium reniforme which has widely different bioactives[3] but can be distinguished easily by its lack of umckalin.[19]
 
-{OLD-IMG-ID:410}
-
 
 The roots appear to contain a variety of gallated catechins (gatechin structures with a gallic acid group attached to them, sort of like the green tea catechins) in such a structure that they are called Prodelphinidins. There is also a coumarin and tannin content which are seen as benficial but secondary to the prodelphinidins
 

@@ -244,8 +244,6 @@ In general, the leaves of Morus Alba tend to have fairly potent anti-oxidant eff
 Phenolics (and the subset of phenolics known as 'flavonoids') are high in all parts of Morus Alba, with higher content in the stems and leaves; although they can be leeched into teas (hot water extractions) their levels are concentrated to higher levels in ethanolic and acetone extractions
 
 
-{OLD-IMG-ID:167}
-
 2.
 
 Pharmacology
