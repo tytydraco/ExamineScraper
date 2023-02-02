@@ -62,6 +62,34 @@ Skeletal Muscle and Physical Performance
 
 Mechanisms (Skeletal Muscle)
 
+5.2
+
+Mechanisms (Fatigue)
+
+5.3
+
+Interventions (Aesthetics)
+
+5.4
+
+Interventions (Fatigue)
+
+6
+
+Interactions with Medical Conditions
+
+6.1
+
+Amyotrophic Lateral Sclerosis (ALS)
+
+7
+
+Safety and Toxicity
+
+7.1
+
+General
+
 1.
 
 Sources and Composition
@@ -262,5 +290,87 @@ The anabolic effects of leucine are mediated via the mTOR pathway, which respond
 
 MAFbx (muscle atrophy F-box) and MuRF-1 (muscle RING-finger 1) are two muscle-specific proteins associated with catabolism and atrophy,[114][115] which are positively regulated by FOXO signaling[116] (FOXO signaling is negatively regulated by PI3K/Akt[117]).
 
-mRNA for MAFbx appears to be reduced by BCAA supplementation (85mg/kg with 45% leucine and 30% valine) following rest (30%) and exerci
+mRNA for MAFbx appears to be reduced by BCAA supplementation (85mg/kg with 45% leucine and 30% valine) following rest (30%) and exercise (50%). MuRF-1 levels, which are induced by exercise, are augmented (50% greater than placebo) with BCAA supplementation, despite the protein content of MuRF-1 being suppressed (20% increase in placebo).[118]
+
+
+Proteins involved in muscle protein atrophy (breakdown) appear to be suppressed following ingestion of BCAA supplementation and exercise, which could be an indirect mechanism of muscle protein synthesis.
+
+
+Leucine may also increase insulin secretion,[119][120] and insulin can induce phosphorylation of mTOR via its receptor.[102] So, although branched chain amino acids and leucine regulate protein synthesis via an Akt/mTOR axis, so does insulin.[97] The usage of norleucine, which shares properties of leucine in regard to mTOR, but not in the secretion of insulin, demonstrates that insulin per se is not required to achieve relatively similar levels of protein synthesis.[121][122][123]
+
+
+Leucine can act on mTOR directly, but may additively work via this pathway, secondary to insulin release from the pancreatic beta cells.
+
+
+5.2
+
+Mechanisms (Fatigue)
+
+Ammonia (a possible promoter of fatigue associated with muscle breakdown[124][31]) appears to have bilateral influences with BCAA supplementation. Increasing the dietary intake of BCAAs to 3.57% in rats (a 50% dietary intake for 6 weeks) is able to improve exercise by 37%, associated with a reduction in ammonia production, while a 100% increase (4.76% overall) reverses this trend and impairs exercise by 43% and is associated with an increase in ammonia production.[42] In humans, 100mg/kg of a 2:1:1 BCAA solution (favoring leucine) prior to a squat exercise in untrained females appears to increase ammonia concentrations relative to placebo 0-2 hours after exercise, yet decrease it 2 days after, with no difference at 3 days.[125]
+
+Lactate has been noted to decrease in untrained females given 100mg/kg of BCAAs[125] but does not appear to be a requirement in rats (fatigue has been noted to be reduced despite no changes in lactate).[42]
+
+
+BCAA supplementation prior to exercise (beyond the serotonergic mechanisms) may also reduce glycogen depletion rates and is known to interact with ammonia in serum.
+
+
+5.3
+
+Interventions (Aesthetics)
+
+A study shows that 4g of isolated leucine supplementation in untrained men (dietary protein intake of 0.90g/kg) given a new workout program for 12 weeks is able to promote power output (from 31.0% in placebo to 40.8%) without significantly affecting lean mass or fat mass.[126]
+
+In trained men given 14g BCAAs daily for 8 weeks alongside a routine weightlifting plan, consumption of BCAAs promoted fat loss (2.2% body fat) and promoted lean mass accrual (4.2kg) to a greater extent than 28g of whey protein (2.1kg lean mass and 1.2% body fat) and 28g carbohydrate (1.4kg lean mass and 0.6% body fat).[127] Although this study is promising, it has a few complications (diet was not recorded nor controlled, BCAAs were confounded with the inclusion of glutamine (5g) and citrulline malate (2g), funded by a supplement company called Scivation).[127]
+
+
+The evidence regarding muscle protein synthesis and BCAAs is promising, but there are a few problems with interpreting this research: aside from being externally funded by the producers of the supplement, it was further confounded with glutamine and citrulline and possibly also B6, as this study likely used the Scivation product known as Xtend, despite not disclosing that outright.
+
+
+5.4
+
+Interventions (Fatigue)
+
+A study that recruited twelve elite male offshore racers divided into two groups prior to a prolonged test (33 hours and 155 miles), ingesting a supplement containing high levels of BCAAs (36.25g valine, 25.4g leucine, 10.9g isoleucine) every six hours noted that the supplementation group took until the second day of sailing to report themselves as less tired. The increase in memory errors noted in control did not occur in the BCAA group.[128] Elsewhere, participants engaging in 6-8 hours of ski mountaineering failed to experience a benefit (assessed by power output on a erg) with BCAA supplementation[129] while one study comparing a 91g glucose beverage as placebo against a 40g glucose/51g amino acid (BCAA and Arginine) in fatigue on a mountain trial walking test (14km, 2857m mountain) in older individuals noted that the substitution of amino acids preserved jump squat performance by 10% (but only due to a trend to reduce perceived soreness).[130]
+
+
+For trials that are prolonged and involve outdoor activities (skiing, hiking, sailing), supplementation of BCAAs in high doses (usually above 50g taken over multiple hours) appears to reduce physical and mental fatigue by a small amount.
+
+
+In trained cyclists given supplemental BCAAs (90mg/kg of 40% valine and 35% leucine) during cycling and told to rate their perceived fatigue every 10 minutes, BCAA supplementation was associated with a 7% reduction in percieved exertion and 15% reduction in mental fatigue, and an antifatigue effect was noted after the workout as assessed by Stroop test.[76] There was no significant performance enhancement associated with BCAA supplementation, since 3 subjects experienced improvements while the other 4 did not.[76] This lack of performance enhancement has been noted elsewhere in trained cyclists given 6-18g BCAA.[131] Researchers examining BCAA supplementation during a marathon noted benefits to performance only in the slower runners and not in the faster runners (although antifatigue effects were noted in both groups given BCAAs as assessed via Stroop test)[132] while a test in 'active healthy males' (no indication of having a training status) noted a 17.2% increased time to exhaustion in cycling with 300mg/kg BCAA supplementation.[75]
+
+Six females given a drink containing 7.5g BCAAs per liter (40% valine and 35% leucine) with 6% carbohydrates (relative to carbohydrate only placebo) during a soccer game noted that the Stroop color and word test after the game (biomarker of fatigue) improved with BCAAs. Physical performance was not measured and overall liquid consumption was not recorded.[133] Another study using a simulated soccer test (via treadmill) with 7g of BCAAs one hour prior to exercise noted that BCAA supplementation was able to preserve reaction time after exercise.[134]
+
+
+In aerobic exercise, such as cycling or team sports (soccer), supplementation of BCAAs appears to preserve cognition in the later stages of exercise and appears to reduce neural fatigue. There does not appear to be a reliable enhancement of physical performance, although it may occur in untrained people.
+
+
+Researchers observing 12 untrained females given BCAA supplementation (approximately a 2:1:1 ratio favoring leucine) at 100mg/kg prior to high volume squat exercises noted that the BCAA group (relative to carbohydrate placebo) experienced less soreness when measured 2 days later (peak soreness from this protocol[4]) and the reduction of power output seen in placebo at this time (80% of baseline) was abolished[125] (study replicated in Medline[135]).
+
+
+BCAAs ingested prior to resistance training protocols may be able to reduce soreness relative to carbohydrates. It is unclear (but plausible) if this can be mimicked through dietary protein intake.
+
+
+6.
+
+Interactions with Medical Conditions
+
+6.1
+
+Amyotrophic Lateral Sclerosis (ALS)
+
+Branched chain amino acid (BCAA) metabolism is implicated in the pathology of amyotrophic lateral sclerosis (ALS) arising from initial hypotheses that since β-methylamino-L-alanine (BMAA) may be a toxic component of some indigenous diets[136][137] amino acid metabolism is implicated, and the high rates of ALS in athletes (both contact[138] and noncontact[46] sports) have been hypothesized to be related to BCAA supplementation as activation of mTOR in genetically susceptible mouse motorneurons seems to promote excitotoxicity,[139] which has been demonstrated in vitro with high concentrations of valine.[48]
+
+
+In neurons susceptible to excitotoxic death, it appears that mTOR activation may promote death via other insults, leading to a hypothesis that BCAAs may play a role in the higher rates of ALS seen in athletes. This hypothesis is currently untested with oral supplementation of BCAA supplements.
+
+
+7.
+
+Safety and Toxicity
+
+7.1
+
+General
+
+Testing the Tolerable Upper Intake (TUL) in young healthy men given graded intakes of Leucine (50-1250mg/kg bodyweight, correlating to Estimated Average Requirement[3] and up to 25-fold the EAR) resulted in the estimated TUL to be set at 500mg/kg bodyweight (about 35g daily for average weight males) due to levels higher than that causing an increase in serum ammonia.[140]
 

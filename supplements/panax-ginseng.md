@@ -102,6 +102,146 @@ Cerebrovascular Function
 
 Mood and Quality of Life
 
+5.9
+
+Drug Withdrawal
+
+6
+
+Interactions with Glucose Metabolism
+
+6.1
+
+Absorption
+
+6.2
+
+Serum
+
+6.3
+
+Diabetes (Type I)
+
+6.4
+
+Diabetes (Type II)
+
+7
+
+Interactions with Hormones
+
+7.1
+
+Testosterone
+
+7.2
+
+Estrogen
+
+7.3
+
+Thyroid Hormones
+
+8
+
+Interactions with Sexuality
+
+8.1
+
+Male Reproductive Organs
+
+9
+
+Inflammation and Immunology
+
+9.1
+
+Immunity
+
+9.2
+
+Macrophages
+
+9.3
+
+Cytokines
+
+9.4
+
+Exercise Immunology
+
+10
+
+Interactions with Cancer
+
+10.1
+
+General
+
+10.2
+
+Red Ginseng and Rg(3)
+
+11
+
+Interactions with Aesthetics
+
+11.1
+
+Skin Quality
+
+11.2
+
+Hair Quality and Regrowth
+
+12
+
+Interactions with other Organ Systems
+
+12.1
+
+Hearing and the Ears
+
+12.2
+
+Stomach and Ulcers
+
+13
+
+Nutrient-Nutrient Interactions
+
+13.1
+
+Kai-Xin-San
+
+13.2
+
+Ginkgo Biloba
+
+13.3
+
+Carbohydrate
+
+13.4
+
+N-095
+
+14
+
+Safety and Toxicology
+
+14.1
+
+General
+
+14.2
+
+Pregnancy
+
+14.3
+
+Gynecomastia
+
 1.
 
 Sources and Composition
@@ -163,13 +303,17 @@ The Protopanaxadiol class, which has a dammarane backbone and includes Ginsenosi
 All 'Ginsenosides' are just one of four molecules that have varying sugar attachments to the molecule, slightly altering their shape. Despite there being over 100 Ginsenosides in Panax Ginseng, they can be narrowed down to one of four classes based on the molecule the sugars are modifying
 
 
+{OLD-IMG-ID:99}
+
 1.4
 
 Composition
 
 Panax Ginseng contains a variety of active components called 'Ginsenosides', which are steroid-like saponins that are unique to the Ginseng species (in regards to the chemical structure; not anabolic properties); well over 100 Ginsenosides exist,[5] and the following list contains the major ones:
 
-Ginsenoside Ro at 20.1+/-0.4 (rhizome) and 2.2+/-0.4 (root) in mg/g ethanolic extractGinsenoside Rb(1) 14.6+/-0.2 (rhizome) and 4.8+/-0.1 (root) in mg/g ethanolic extractGinsenoside Rb(2) 5.5+/-0.1 (rhizome) and 2.0+/-0.4 (root) in mg/g ethanolic extractGinsenoside Rc 7.1+/-0.5 (rhizome) and 2.6+/-0.2 (root) in mg/g ethanolic extractGinsenoside Rd 2.5+/-0.2 (rhizome) and 0.2+/-0.2 (root) in mg/g ethanolic extractGinsenoside Re 10.8+/-0.2 (rhizome) and 2.6+/-0.3 (root) in mg/g ethanolic extractGinsenoside Rf 1.9+/-0.1 (rhizome) and 1.3+/-0.1 (root) in mg/g ethanolic extractGinsenoside Rg(1) 7.1+/-0.5 (rhizome) and 2.6+/-0.2 (root) in mg/g ethanolic extractOther compounds that are found in Ginseng that are non-caloric (phytochemicals) and not under the umbrella term of Ginsenoside include:
+Ginsenoside Ro at 20.1+/-0.4 (rhizome) and 2.2+/-0.4 (root) in mg/g ethanolic extractGinsenoside Rb(1) 14.6+/-0.2 (rhizome) and 4.8+/-0.1 (root) in mg/g ethanolic extractGinsenoside Rb(2) 5.5+/-0.1 (rhizome) and 2.0+/-0.4 (root) in mg/g ethanolic extractGinsenoside Rc 7.1+/-0.5 (rhizome) and 2.6+/-0.2 (root) in mg/g ethanolic extractGinsenoside Rd 2.5+/-0.2 (rhizome) and 0.2+/-0.2 (root) in mg/g ethanolic extractGinsenoside Re 10.8+/-0.2 (rhizome) and 2.6+/-0.3 (root) in mg/g ethanolic extractGinsenoside Rf 1.9+/-0.1 (rhizome) and 1.3+/-0.1 (root) in mg/g ethanolic extractGinsenoside Rg(1) 7.1+/-0.5 (rhizome) and 2.6+/-0.2 (root) in mg/g ethanolic extract{OLD-IMG-ID:97}
+
+Other compounds that are found in Ginseng that are non-caloric (phytochemicals) and not under the umbrella term of Ginsenoside include:
 
 Polyynes (compounds with alternating single and triple bonds) including falcarinol, falcarintriol, acetic acid and linolenic acid[4]Some MicroRNAs[13]With caloric components (included in the root itself, and may be processed out of a capsule constaining Panax Ginseng as they contain calories) such as proteins and carbohydrates include:
 
@@ -386,6 +530,414 @@ Mood and Quality of Life
 One study using 200 and 400mg Panax Ginseng found increased calmness in a relatively dose-dependent manner after acute ingestion in healthy adults.[59] These same doses and product were used in another trial on young adults over a period of 60 days in another trial, which failed to note any significant changes in any mood parameter measured.[78] Interesting, a study conducted over a period of 8 weeks with a measurement at the 4 week marker found significant improvements in mental health and function as well as social function (assessed by the Short Form-36 Health Survey v.2) at 4 weeks, but the benefits associated with 200mg Ginseng became not significantly different than placebo at 8 weeks.[79] One of the studies on mood and cognition that measured reactions to the initial dose and reactions to the 8th dose (when a once daily dose was taken) found that some parameters were less potent than baseline, but none of these trends of attenuation reached statistical significance.[59]
 
 
-It is possible that the mo
+It is possible that the mood improving effects of Panax are short-lived, either somewhere between 1-4 weeks before it starts to lose efficacy or perhaps slightly longer. That being said, acute usage of Panax does appear to improve subjective well being and mood in otherwise healthy persons according to some evidence
 
+
+Another study using a lower dose of 100mg or 200mg found that, over the course of 8 weeks, mood was improved in type II diabetics; this may be secondary to a bettering of the glycemic profile.[80] A study using Ginseng in menopause failed to note global relief of menopausal symptoms but did note significant improvements in depression, well-being, and subjective ratings of 'health' over a period of 16 weeks.[81]
+
+One study that used a Ginseng multi-nutrient formulation that noted statistically significant improvements across the board on alertness and relaxation (placebo and ginseng both improved, significantly better effects in ginseng though) noted that when the results were controlled for only the persons in the lowest quintile of scores on the Visual Analogue Scale at baseline (a psychometric test) that there were also significant improvements in depressive scores and vitality, giving some evidence that the effects of Panax may be more pronounced in those more deviant from 'normal' baseline values.[63]
+
+
+The above may be overridden when it comes to persons who are not 'healthy young adults', where improvements in healthy may vicariously increase mood over a longer period of time
+
+
+Interestingly, an increase in quality of life is seen with multivitamins containing 40mg Panax Ginseng (as G115 extract) more-so than using standard multivitamins without the Ginseng, suggesting low dose Panax Ginseng may be valuable to add into a multivitamin formulation.[82] Ginseng also appeared to abrogate an increase in diastolic blood pressure seen in the multivitamin group (for unknown reasons) and attenuated weight gain. This study was comparative with no placebo control, and thus the improvements seen in both groups could be attributed to placebo.[82] Panax Ginseng has been investigated as part of a multivitamin formulation at 100mg as well, and a reduced occurrence of the flu as well as increased libido were both statistically significant between groups (overall sample size of 114) alongside the increase in subjective well being, although the control group used pure placebo rather than a multivitamin without ginseng.[83]
+
+Benefits with Ginseng-containing multinutrient formulations are not always present, with trends towards improvement that are not statistically significant being seen[84] and sometimes benefits only seen with the subject's dietary habits are deemed as 'poor'.[85]
+
+
+Ginseng might be a useful addition to multivitamin formulations when it comes to improving mood due to having some bioactivity at low doses (40-100mg), but its inclusion in multivitamin formulations is not completely reliable and valid with studies showing benefits as well as no significant benefits. It is plausible it may improve mood more than placebo in persons with worse baseline parameters of health than persons with better baseline parameters
+
+
+5.9
+
+Drug Withdrawal
+
+A study in rats undergoing morphine withdrawal found that when wild ginseng (50, 100, 200mg/kg bodyweight) or cultivated Panax Ginseng (500mg/kg bodyweight) was injected alongside the morphine, that subsequent withdrawal (over 72 hours) showed significantly less pro-anxiety and depressive effects in the 200mg/kg group (with the other three groups trending towards less anxiety and depression, but not reaching significance).[86] These effects correlated with CFY and NPY immunoreactivity in the brain, suggesting that Wild Ginseng can act to normalize corticotrophin-releasing factor (CFY) and neuropeptide Y (NPY).[86] Due to increased immunoreactivity of these molecules also being seen in nicotine dependence,[87] it is plausible that Ginseng may interact with nicotine withdrawal.
+
+6.
+
+Interactions with Glucose Metabolism
+
+6.1
+
+Absorption
+
+Compounds formed during amadori rearrangements in Red Ginseng fermentation (arginyl-fructose and arginyl-fructosyl-glucose) appear to have minor inhibitory potential on carbohydrate digestive enzymes, intestinal glucosidases and pancreatic alpha-amylase in vitro.[35] When measuring the potency on intestinal sucrase, IC50 values of 6.40 and 6.20 mM were seen; these were slightly more effective than effects on pancreatic amylase, measuring IC50 values at 36.30 and 37.60 mM (values for arginyl-fructose and arginyl-fructosyl-glucose; respectively). When tested in vivo, 100mg/kg given alongside 1.5g/kg starch or 2g/kg sucrose was able to decrease the circulating levels of carbohydrates by 10-14% (arginyl-fructose) and 6-20% (arginyl-fructosyl-glucose) with the latter being highly effective at reducing circulating levels induced by sucrose.[35]
+
+A reduction in the AUC of glucose has also been observed in humans in response to 6g of Korean Red Ginseng root extract, which was able to reduce glucose AUC by 29% at the most effective dose and 17% when all (highly variable) doses were averaged out; however, it was correlated to the Rb1 content rather than Amadori products.[88]
+
+
+Absorption may be hindered by high doses of Korean Red Ginseng, surprisingly not by either the active Ginsenosides or polysaccharides but instead by products unique to Korean Red Ginseng
+
+
+6.2
+
+Serum
+
+When 200mg and 400mg of Panax Ginseng G115 (4% Ginsenosides) is given to healthy humans, a decrease in blood glucose of 0.646-0.664mmol (11%) within an hour which was attenuated slightly (0.580-0.594mmol, 9.7-10.4%) 30 minutes later; the higher dose group then appeared to deepen the drop in blood glucose (0.933+/-0.213mmol drop from baseline, 15.7%) while 200mg further attenuated to a reduction of 0.432+/-0.182mmol, or 7.6%.[61] Another study by the same research group measuring blood glucose after G115 only measured 60 minutes after ingestion, but found that 200mg reduced blood glucose by 11.5% and that this decrease in blood glucose was effectively negated when consuming 25g glucose.[89]
+
+The unique Korean Red Ginsenoside, 20(S)Rg(3), was found to decrease glucose exposure in mice by 6-9% after administration of 12.5-25mg/kg isolated Rg3 orally, but of lesser potency than the active control, 20mg/kg glipizide.[90] This decrease in exposure seemed to be secondary to augmenting insulin release (and increasing circulating insulin levels) as well as activating AMPK in skeletal muscle cells and pancreatic cells to induce glucose uptake.[90] When comparing isomers, 20(S) appeared to be increase insulin while 20(R)Rg3 did not.
+
+These mechanisms in muscle cells appear to extend to other Ginsenosides such as Rb1[91] and Rb2,[92] the former of which is the precursor ginsenoside from which Rg(3) is formed from.[93] Rb1 was not significantly different in potency at 20 and 40uM concentration in muscle cells for inducing glucose uptake when compared to the control drug Metformin, but Metformin (500uM) trended to outperform Rb1.[91] Similar trends were seen for GLUT4 translocation.
+
+AMPK activation also occurs in liver cells and by Ginsenoside Re, and may contribute to lesser glucose levels circulating.[94] Re actually appears to be fairly potent at this, and the berries of Panax Ginseng (higher source of Re) appear to be more effective than root extracts at inducing hypoglycemia in animals.[95][96]
+
+
+In healthy persons, can acutely reduce blood glucose up to and around 10% within an hour after ingestion, but only if consumed alone. Does not reduce glucose in this short time frame if consumed alongside carbohdyrates. Korean Red Ginseng might be more potent, but there is a lack of evidence
+
+
+6.3
+
+Diabetes (Type I)
+
+Type I Diabetes is insulin-dependent, usually caused by genetics and tied in to immunology; this is not the more common diet-induced form of diabetes (Type II) although there are interactions with the diet in disease pathology. Korean Red Ginseng for 2 weeks in mice later injected with streptozotocin (to induce Type I diabetes) was associated with better glucose levels in the mice at rest, possibly secondary to protective effects on the pancreas and a trend to normalize insulin levels.[97]
+
+6.4
+
+Diabetes (Type II)
+
+In animal models of diet-induced Type II Diabetes, Korean Red Ginseng appears to be effective at increasing insulin sensitivity in muscle tissue when fed at 200mg/kg bodyweight.[98] This same dose in a mouse model appears to work vicariously through AMPK activation in muscle tissue.[99] Although the ginsenosides Rb1 and Rg3 were mentioned in a previous section for AMPK activation, the polysaccharide Ginsan appears to also be active on this metabolic pathway at oral doses of 300-500mg/kg bodyweight.[100]
+
+Hepatic gluconeogenesis (production of glucose in the liver), a major source of circulating glucose, appears to also be suppressing in animal models in response to Ginsenosides,[101] particularily Rg2.[102]
+
+
+Animal and in vitro studies demonstrate the desirable mechanisms of action for Ginseng to be an effective anti-diabetic medication
+
+
+One systemic review on human studies, however,[103] using Cochrane evaluation criteria and searching 14 databases found four randomized trials in humans of good quality with three comparing Red Ginseng against placebo, only one of which is indexed in Medline.[104] It was noted that after a meta-analysis of these three studies in diabetic persons, Korean Red Ginseng failed to significantly differ from placebo in regards to HbA1c, insulin sensitivity, or fasting blood glucose or insulin.[103] This study also concluded that due to the lack of information it is difficult to draw conclusions at this point in time.[103]
+
+
+Evidence for rehabilitative effects of Korean Red Ginseng on Diabetes Mellitus is not currently convincing, the aforementioned studies done in vitro and over the short term may not influence disease pathology over a longer period of time, but instead demonstrate only acute benefit
+
+
+7.
+
+Interactions with Hormones
+
+7.1
+
+Testosterone
+
+Studies in healthy subjects with normal testicular function (both human and rodent) are uncommon for Panax Ginseng. A study in rats using Panax Ginseng at 1% or 5% of their feed intake found that testosterone was non-significantly increased at 1% (to 108% of baseline) while the 5% group experienced an increase to 162% of baseline; from 3.63ng/mL to 5.91ng/mL.[105] These doses of Ginseng increased food intake, but without concomitant increases in body weight, but rather a decrease. Interestingly, a decrease in prostate weight was also seen, with a 23% reduction in hypertrophy at the 5% dosage.[105] Conversely, A study in athletes where Ginseng dosed at 20g of the root extract and given orally immediately after physical training failed to notice any influences on testosterone levels during a two-hour recovery period.[106] It is possible that the increase in testosterone in the aforementioned study was secondary to increased food intake, due to its low magnitude.
+
+For those with impaired testicular function, one study conducted in men with infertility (oligoasthenospermia) found that supplementation with Panax Ginseng raised testosterone relative to baseline, suggesting that Panax has the ability to normalize testosterone levels.[107] Another study on men with erectile dysfunction failed to note statistically significant improvements from baseline after 8 weeks of supplementation at 2,700mg daily (4.88 +/-2.16ng/mL to 4.48+/-2.02ng/mL when averaged out), but noted that out of 7 persons with a baseline level less than 3ng/mL (hypogonadism) that 4 of them normalized after 8 weeks. There variability in this sample made the results not statistically significant.[108] Finally, a third study on men with erectile dysfunction failed to note any significant improvement of testosterone from 3g of Korean Red Ginseng daily for 12 weeks.[109]
+
+
+Has the mechanisms to increase testosterone, preliminary evidence suggests that this does not work in healthy athletes (although the study is of questionable quality and is only one), it appears that it might increase testosterone when testosterone is suppressed in periods of infertility and hypogonadism, which might be related to erectile dysfunction (although erectile dysfunction per se does not seem to be enough to conclude that it will boost testosterone)
+
+
+Other studies note that Ginseng has 5a-reductase inhibitory potential, being able to reduce the conversion of testosterone to dihydrotestosterone (DHT), which is attributed to Ginsenoside Ro (IC50 of 259.4uM, 18.2% inhibition) and also seen with Ginsenoside Rg(3) (IC50 86.1uM, 53% inhibition) which is unique to Red Panax Ginseng.[32] The Rhizome extracts tend to be more suppressive than root extracts, and in comparing red ginseng to normal ginseng the former appears to be slightly more effective in vitro, and the percent inhibition of Ginsensoside Rg(3) at 100-200uM (53-77%) rivalled that of finasteride at 0.25uM (66.2%).[32] The authors of this study hypothesized that Ginsenoside Ro occupies the ligand binding spot of the 5-AR enzyme, due to ginsenosides in general being ligands to steroid receptors.[110]
+
+Ginsenoside Rg(3) was later investigated for its potent 5-AR inhibitory potential, and found that injections of a water extract of Red Ginseng Extract were highly effective in suppressing prostate growth induced by testosterone.[111] Whereas control had their prostates weighing in at 1.43+/-0.081 (prostate to body weight ratio, higher values signifying larger prostates) testosterone therapy increased prostate size to 160% of control whereas 100mg/kg injections and 200mg/kg injections suppressed this growth to 116% and 104%, respectively.[111] In vitro results also showed inhibition of testosterone-induced cellular proliferation and reduction of the kallikrein-3 promotor activity and levels due to Ginsenoside Rg(3).[111]
+
+
+Appears to have 5-alpha reductase inhibitory potential, and may cause a backlog of testosterone via inhibition of its conversion to DHT (a similar phenomena that is seen with fenugreek); this may mean possible increases in testosterone seen could also be attributed to less DHT conversion
+
+
+When investigating direct androgen receptor effects, Rh1 failed to exert any effect on the androgen receptor at concentrations of 50uM, a dose sufficient to cause estrogen-like effects.[112] Elsewhere, 20μg/mL of the herb has failed to cause antiandrogenic effects at the level of the receptor in vitro.[113]
+
+
+Does not appear to significantly influence the androgen receptor
+
+
+7.2
+
+Estrogen
+
+Several ginsenosides have been found to be agonists (activators) of the estrogen receptor in vitro, such as Rg1,[114] Rb1,[115] Rh1,[112] and Ginsenoside Re vicariously through its metabolite Rh1.[39]
+
+When looking at Rg1, the aglycone (ginsenoside without carbohydrates) was found to not significantly influence estrogenic signalling as assessed by thymidine uptake into breast cancer cells.[114] The Rg1 glycone and estrogen both did, with the EC50 value of Rg1 being 0.5pM and more potent than estrogen at very small (3x10−13 M) concentrations, losing efficacy at higher concentrations; the EC50 value as assessed by luciferase tests was 10pM, and all effects of Rg1 through the estrogen receptor were blocked by an estrogen receptor antagonist, and Rg1 failed to displace already bound 17β-estradiol (suggesting it cannot act as a selective estrogen modulator).[114] Estrogenic effects via Rg1 have also been implicated as being neuroprotective, particularily in post-menopausal females (theory due to low estrogen)[116][117][118] and has shown benefit in animal models of menopause (ovariectomized animals).[119]
+
+When looking at Rb1, it can activate both estrogen receptors (alpha and beta) with maximal efficacy at 100uM (highest tested dose) with 91% the potency of 17β-estradiol on alpha but 60% on beta; Rb1 does not appear to act as a direct ligand as it does not compete with estradiol and does not bind sufficiently with either receptor when alone in medium, yet it exerts actions through the receptor.[115]
+
+Rh1 is unlike the other two ginsenosides as it can displace up to 44% of estradiol from receptors in MCF7 cells when at a concentration of 50uM,[115] at this concentration of 50uM it does appear to activate estrogen receptors to a slightly less potent extent as 1-10nM estradiol, however, a dose that is 5000-10,000 higher than the equipotent dose of estradiol.[112] Incubation with anti-estrogen receptors abolishes the estrogen-like effects of Rh1.[112] The ginsenoside Re can potentially influence estrogen signalling, but its metabolism into Rh1 via colonic bacteria makes it more potent.[39]
+
+
+When looking at the receptors, ginsenosides appear to be phytoestrogens but whether they influence pro-estrogenic responses or anti-estrogenic responses in vivo (competing against estrogens) is not clear; interaction with the receptors in general is well established, however
+
+
+Studies using the entire Ginseng extract without isolating ginsenosides note that 25mcg/mL (30% Ginsenosides) failed to exert estrogenic effects via the receptor[120] with another study failing to find an IC50 value due to inability to active the receptor.[121] This latter study also noted a failure of Black Cohosh and Dong Quai.[121]
+
+7.3
+
+Thyroid Hormones
+
+A study in persons with congestive heart failure (CHF) given one course of ginseng (injections of 2g red ginseng diluted to 10mL) in addition to standard therapy of cardiotonics and diuretics noted that, relative to standard therapy alone, there was a statistically insignificant increase in benefits on standard symptoms and signs yet the benefits on thyroid hormones (increase in T3 and T4 with a decrease in rT3) seen with standard therapy were increased further with the addition of red ginseng.[122] Levels of thyroid hormones in the ginseng and standard therapy treated group, despite being larger than standard therapy alone, did not reach normalization relative to healthy controls.[122]
+
+8.
+
+Interactions with Sexuality
+
+8.1
+
+Male Reproductive Organs
+
+In male rats given Panax Ginseng, increases in nucleic acid levels[105] and increases in protein synthesis[123] in the testes have been noted, and increased gonadal weight in young rat pups given the ethanolic extract of Panax Ginseng (two Korean texts mentioned in following citation);[105] increased protein synthesis has been noted in the testes in more recent research as well, wherein 1g/kg Panax Ginseng orally to rats for 56 days increased spermatogensis and GDNF mRNA, which is important to spermatogenic stem cell maintenance.[124]
+
+General testicular protective effects also appear to exist, and may help normalize testicular function in the state of type II diabetes when taken over the course of 90 days.[125] Coingestion of Red Ginseng Extract alongside alcohol can minimize the negative effects of alcohol on testicular function, according to one rat study,[126] and reduce the damage done by physical trauma to the testicles according to another rat study.[127]
+
+When tested in human interventions, Panax Ginseng appears to increase spermatogenesis and sperm motility in men who suffer from infertiltiy.[107]
+
+
+In regards to the testicles, Panax Ginseng appears to be healthy. A general increase in testicular protein synthesis appears to be present and concomitant protection from some disease states or toxins (alcohol) might exist
+
+
+In the treatment of erectile dysfunction (ED), one pilot study using 60 patients with mild to moderate ED were given 3g of Korean Red Ginseng in three daily doses of 1g with meals for 12 weeks. Korean Red Ginseng appeared to be effective, with 66.6% of the patients in the KRG group reported improved erections while the placebo group was not significantly different from baseline.[109] Another blinded study with a larger sample (86) noted that regular Panax Ginseng over a period of 8 weeks, dosed at 1,000mg twice daily (daily dose totaling 2g) found significant improvements in erectile function as assessed by the same rating scale.[128] This study suffered from a large dropout rate.
+
+A systemic review conducted on Korean Red Ginseng[129] assessing seven randomized controlled trials found consistent benefits associated with Red Ginseng Extract, with doses ranging from 600mg taken thrice a day (totaling 1,800mg) in four studies (two cited here)[130][131] or 900mg taken thrice daily (totaling 2,700mg) in two studies (one cited here).[108] The seven trials assessed were of variable quality, with three trials claiming double-blind randomization[109][132] and only one disclosing methods of blinding.[108] It was concluded that Korean Red Ginseng holds promise but requires more rigorous testing.[129] This study was conducted prior to (and thus excludes ) another intervention noted in the section above.[128] Another systemic review[77] evaluating 7 clinical trials of male sexual function that assessed the studies on the Jadad scale (to rate study quality) noted that the 6 trials with most promising results were consistently of a lower research quality (less than a rating of 3 on the Jadad scale), whereas the one with the best Jadad rating showed benefits that did not reach statistical significance.[132] The conclusion was that there is a moderate level of evidence currently.
+
+
+Appears to have potential in helping erectile function (with implications on psychogenic erectile dysfunction as well as vascular) and appears to be more well researched than other herbs catered to promote erectile function; still needs some stronger research though
+
+
+9.
+
+Inflammation and Immunology
+
+9.1
+
+Immunity
+
+Ginseng has been reported before as being a 'vaccine adjuvant', being able to amplify the efficacy of vaccines when Ginseng is in circulation when the vaccine is administered.[133] It appears to be further synergistical with aluminum hydroxide.[134][135] Coadministration of ginseng extracts alongside the antigen appears to improve the immune antibody response.[135] When administered as the G115 extract (4% Ginsenosides) in a 100mg dose to humans, it appears that G115 has the ability to reduce the occurrence of the flu when G115 is taken for 12 weeks and the vaccination is applied at week 4.[136] This human study noted that the addition of Ginseng brought the rate of flu occurrence down to 35.7% of the control group with no clinically relevant side effects recorded over 12 weeks.[136]
+
+In a study using the polysaccharide of Panax Ginseng (Ginsan) in isolation, 100mg/kg injection once a day for two days prior to infection with an antigen resulted in significantly (3-4 fold) higher levels of IgG1 and IgG2, as well as secretory IgA (up to 2-fold) when compared to mice who did not receive Ginsan before infection.[137] The observed effects are thought to be through enhanced CCL3 expression in Peyer's patches, which influences dendritic cell migration[138] and may positively influence antigen presentation to immune cells; this theory came from coadministration of COX inhibitors both reducing the increased CCL3 expression as well as reducing the beneficial observed effects of Panax Ginseng, although the tested COX inhibitor (aspirin) did not negatively influence immunity per se.[137] 
+
+
+Coingestion of Panax Ginseng alongside an antigen (vaccinations) appears to augment the immune response to the antigen, and may work synergistically with vaccinations by being an immunostimulant during this time
+
+
+Additionally, Red ginseng polysaccharides have been demonstrated to increase Natural Killer (NK) Cell activity[139] which seems to also apply to the polysaccharide Ginsan (not exclusive to Red Ginseng).[140] When fed orally to rats, an increase in Natural Killer Cell activity is seen with Panax Ginseng.[141] When 100mg G115 (4% Ginsenosides) is administered to humans for 12 weeks, measurements at 8-12 weeks note a doubling of Natural Killer Cell activity relative to control.[136] This increase in Natural Killer Cells has been failed to be noted with 2g of a 60% ethanolic extract over 6 weeks in athletes, however.[46]
+
+9.2
+
+Macrophages
+
+Acidic polysaccharides from Korean Red Ginseng appear to activate Nitric Oxide (NO) signalling in macrophages when administered via injection or incubated.[142][139] This apparent activation of macrophages is pro-inflammatory in nature[143] and mediated by Nitric Oxide;[142] due to it being of lesser potency than lipopolysaccharide (LPS, research standard) and coincubation of the two showing that the acidic polysaccharides could actually attenuate increases in NO induced by LPS, it appears that Acidic polysaccharides possess immunomodulatory potential via TLR2, a receptor similar to TLR4.[143]
+
+Other polysaccharides isolated from Korean Red Ginseng known as acidic polysaccharides also appear to influence the immune system and more-so when paired with pidotimod, a compound structurally similar to Piracetam.[139][144] Fermentation of Korean Red Ginseng further augments the anti-inflammatory potential of Red Ginseng as assessed by in vitro macrophage activation.[31]
+
+
+The macrophages (Pacman immune cells) appear to be the target for immunomodulation by Ginseng polysaccharides. They act in inflammatory manners when there is no inflammatory stimuli present, and outcompete inflammatory stimuli to cause a net reduction when both of them co-exist; a 'smoothing of the hills and valleys' effect also seen with Ganoderma Lucidum
+
+
+While the polysaccharide fragment appears to have TLR2 as a surface receptor,[143] Ginsenosides from Panax Ginseng appear to interact with TLR4. The aforementioned augmentation of vaccines was demonstrated with isolated Ginsenosides Rg1 and Re that were able to enhance immune cell proliferation and cytokine secretion from macrophages, but not in mice with a defective TLR4 receptor;[145] Rg1 appears to act by another mechanism as well though, since abolishing the receptor did not fully prevent Rg1's activity like it did Re.[145]
+
+When tested in isolation at 20mg/kg in mice, Re appears to inhibt binding of LPS to the TLR4 receptor somewhat and prevent pro-inflammatory events via this pathway.[146] When tested against active controls, Ginsenoside Re (2.5mg/kg) appears to be less effective than indomethacin (5mg/kg) in paw edema tests of inflammation.[147] The effects of Ginsenoside Re appear to be dose dependent, with 1mg/kg in mice showing little to no anti-inflammatory effects while 5mg/kg[147] and 20mg/kg[146] show promise when ingested orally.
+
+
+Ginsenoside components are also active in the immune system, with Re being fairly potent
+
+
+9.3
+
+Cytokines
+
+When comparing mice at rest against mice at rest with 25mg/kg G115 extract, it appears that the addition of G115 is able to increase production of IL-1b and TNF-a significantly more than control, although less than control subject to swimming exercise; significant differences appeared to be minimized 3-4 weeks after the start of the extract.[148] Increased interleukin response was also seen in another study, where IL-2, IL-10, and Interferon-gamma were increased in response to Panax Ginseng, while IL-4 had no response.[141] This lack of response of IL-4 has been seen elsewhere alongside a lack of effecton IL-12,[45] and the increaes of Interferon-gamma quantified at a 2-fold increase in response to 10ug/mL Panax Ginseng (10% Mixed ginsensoides).[45]
+
+9.4
+
+Exercise Immunology
+
+A study using Panax Ginseng G115 (4% ginsenosides, 0.5-1% Rg1, 0.9-1.4% Rb1, 04-0.6% Rb2) at 25mg/kg bodyweight in mice found that, in response to 4 weeks of swimming stress, that the control exercise group had a spike of TLR4 activity followed by reduced expression leading up to 4 weeks while exercise alongside G115 suppressed the first spike in TLR4 expression and subsequently increased it up to 3 weeks; suggesting G115 suppressed the initial increase in macrophage TLR4 expression and reversed the exercise-induced immunosuppresion somewhat.[148]
+
+When looking at macrophage cytokine release (IL-1b and TNF-a), it appears that G115 acts to normalize them, reducing the spikes seen after one week of exercise while elevating their release later on in the testing period.[148]
+
+10.
+
+Interactions with Cancer
+
+10.1
+
+General
+
+Panax Ginseng is being investigated for its interactions with cancer due to observational (uncontrolled) evidence that usage of Panax Ginseng is associated with over 2-fold reduced risk of several types of cancer, with Odds Ratio (0.5 being half the risk, 0.25 a quarter the risk) being 0.47 for oropharyngeal cancers; 0.20 for esophageal cancer; 0.36 for stomach cancer; 0.42 for colorectal cancer; 0.48 for liver cancer; 0.22 for pancreatic cancer; 0.18 for laryngeal cancer; 0.55 for lung cancer; and 0.15 for ovarian cancer.[149] Red Ginseng was associated with a greater risk reduction (0.2) than was fresh (0.37) or white (0.30-0.57).[149]
+
+A polysaccharide from Panax Ginseng (not a ginsenoside) has been demonstrated to exert anti-cancer like effects in vitro on bladder cancer cells through minimizing expression of muscarinic receptors.[17]
+
+10.2
+
+Red Ginseng and Rg(3)
+
+20(S)-Rg(3), the unique Ginsenoside from Korean Red Ginseng fermentation, is currently being investigated for its anti-cancer effects. 
+
+When incubated with human glioma cells, it appears that 20(S)-Rg(3) can induce cellular senescence (aging) in cancer cells by inducing pro-oxidative reactions and then inducing Akt phosphorylation and p21 and p16 upregulation; coincubation with anti-oxidants and inhibiting the p53/p21 pathway abolished these effects.[150] These pro-oxidative effects have also been seen in Hep3B liver carcinoma cells, where cytotoxicity was noted with 10uM 20(S)-Rg(3) and nuclear fragmentation (apoptotic cell death), and these effects were also abolished by the addition of N-AcetylCysteine as anti-oxidant.[151] This study also noted the Ginsenoside Rh2 as having the same properties as 20(S)-Rg(3).[151]
+
+11.
+
+Interactions with Aesthetics
+
+11.1
+
+Skin Quality
+
+Oral ingestion of Red Ginseng has been shown to reduce wrinkles when consumed over 24 weeks by older women (average age of 51.9), although confounded with other supplements.[152] 10 daily capsules of Ginsenoside Rb1 from Red ginseng (10.85mg) Torilin from Torilus fructus 0.12mg) and Ioganin from Corni fructus (3.33mg) totalling 3g Korean Red Ginseng Extract daily, and procollagen I mRNA levels were elevated 94% above baseline. Effects were seen at the first measurement of 12 weeks and held stable at 24 weeks,[152] and this study failed to notice any significant differences when looking at skin pigmentation, water content of the skin, and the skin's elasticity and thickness.
+
+When looking at animal interventions with UV(B) induced wrinkling, the prevention of wrinkles associated with Korean Red Ginseng is said to be attributed more to inhibiting collagen degradation rather than inducing collagen synthesis.[153]
+
+Mechanistically, Ginsenosides have been found to increase mRNA transcription of Hyaluron Synthase (via compound K[154]) and induce collagen synthase I through either PPARd activation[155] or Smad signalling.[156] The former activation was seen with Ginsenoside Rb1 while the latter was seen with whole Panax extract. Human interventions have noted an increase of procollagen I mRNA by up to 94%, suggesting that these mechanisms apply after oral ingestion of 3g Korean Red Ginseng.[152] 
+
+
+Has the potential and the mechanisms to increase skin quality and perhaps reduce wrinkles when consumed orally, but the one human study is confounded with two other herbs. More evidence is needed
+
+
+Four animal studies have been conducted investigating Panax Ginseng and UV(B) radiation damage, although all have been conducted with Korean Red Ginseng.[157][153][158][159] These studies tend to suggest that Panax Ginseng, via the ginsenoside Rb1, prevent UV(B) induced disruption of collagen fibers and help to normalize some biomarkers that are changed by UV(B) radiation (MMP-1, collagen I mRNA and protein content, TGF-b1), with topical application being slightly more effective in general protection than oral administration.[159]
+
+The aforementioned lack of increasing hydration observed in humans may be secondary to preventing UV(B) induced drying of the skin, as 0.5-1% Korean Red Ginseng in irradiated mice acts to restore hydration.[160]
+
+
+General protective effects from UV(B) radiation may underlie the anti-wrinkle effect mentioned before, attributed to helping protect cells from damage and thus reduce the rates of collagen dysfunction and cellular damage
+
+
+11.2
+
+Hair Quality and Regrowth
+
+Possibly through having 5a-reductase inhibiting properties, Panax Ginseng (and more-so Red Ginseng or isolated Ginsenoside Ro or Rg(3) in particular) can induce hair regrowth in androgen-treated mice and may offer therapeutic potential for hair loss in men suffering from androgenic alpoceria.[32] In this study, Panax Ginseng outperformed American Ginseng in vivo (due to having higher Ginsenoside Ro content) and was outperformed by Red Ginseng (in vitro analysis of 5-AR inhibition), a unique source of Ginsenoside Rg(3); dose-dependent negation of testosterone-induced hair growth suppression was seen at a topically applied dose of 1mg/mL and was more effective the higher the Ginsenoside Ro content. Red Ginseng was not tested topically.[32] It should be noted that although Ginsensoside Ro is a 5-AR inhibitor, it does not outright promote hair regrowth; Rg1 was also ineffective while Rb1 and especially Rg(3) were more effective at promoting hair regrowth independent of androgens.[161] These lead to the conclusions that Korean Red Ginseng extract seems to be more effective than regular Panax Ginseng at inducing hair regrowth.[161]
+
+The aforementioned effects extend to the fruits as well, where Fructae Panax Ginseng at 1 and 10mg/mL concentrations (0.1mL daily, delivering 0.1-1mg Panax) applied topically could promote hair regrowth by promoting hair shaft proliferation (after physically removing the hairs) and was theorized to promote early teolgen to anagen conversion of hair follicles, with 10mg/mL having greater potency than a solution of 5% minoxidil used as active control.[22] When tested in vitro, the ratio of Bcl-2 to Bax was greatly in favor of Bcl-2 at 10mg/mL but negated itself at 100ug/mL; suggesting 10mg/mL conferred a promotion of cell viability.[22] This promotion of cell viability has been demonstrated elsewhere in hair follicles.[162]
+
+General anti-oxidative and anti-inflammatory propeties in human hair cells have also been noted[163] as well as anti-inflammatory effects when applied topically to research animals.[164]
+
+Human studies have been conducted, with oral administration of 3g of Korean Red Ginseng daily being able to promote hair density in young atopic patients (non-androgenic, mixed gender) over a period of 16 weeks as assessed by the SCORAD index.[165] The effects seen here were correlated with immunoglobulin E (IgE) levels, where average levels were 1049.3 (although ranging from 82 to over 5,000) and after 16 weeks decreased to 56% of their initial value; an increased water content of scalp skin was also observed.[165]
+
+
+Appears to be effective at inducing hair regrowth when added to a topical solution at a concentration of 1-10mg/mL (tablespoon of shampoo usage per shampooing as a rough approximation of volume) and 3g oral ingestion of Korean Red Ginseng daily appears to promote some effects that are independent of androgen status. Fruits are also somewhat effective, but both the fruits and Red Ginseng outperform regular Ginseng
+
+
+12.
+
+Interactions with other Organ Systems
+
+12.1
+
+Hearing and the Ears
+
+Various tests with Korean Red Ginseng suggest that bioactives (most likely ginsenosides) in Ginseng can protect ear cells from toxicity induced by cisplatin[166] and gentamicin,[167] two compounds that have been shown to damage audition. Damage induced by excessive noise has also been demonstrated to be rehabilitated somewhat due to an uncommon ginsenoside metabolite called compound K.[168] The benefits in this last study were not full recovery, and were seen with both 5 and 10mg/kg bodyweight compound K as well as 100mg/kg bodyweight Korean Red Ginseng.[168]
+
+One study has been conducted in rats using Korean Red Ginseng (KRG) at the dose of 500mg/kg intragastrically (into the stomach) to assess the damage to the auditory canals induced by gentamicin injections. It was found that the hearing threshold of KRG alongside gentamicin was approximately that of control (suggesting protection) and there was an apparent lack of hair cell damage when KRG was ingested; administration of KRG alone reduced the hearing threshold to 79% of control, indicating better hearing induced by KRG.[167] The effects seen were attributed mostly to Rb1 and Rb2, two specific ginsenosides (more than Rg1 and Re, the other two tested Ginsenosides).[167]
+
+
+No human interventions currently, but Red Ginseng Extract appears to have mechanisms to promote auditory health and maintenance
+
+
+12.2
+
+Stomach and Ulcers
+
+Korean Red ginseng was able to protect against stomach ulcers induced by Indomethacin (an NSAID) and alcohol when ingested an hour prior to the insult at doses of 100 and 300mg/kg in mice, but failed to exert protective effects against HCl (stomach acid).[169] Ingestion of 30mg/kg also confered protective effects, but failed to reach statistical signifiance, and no dose completely abolished the damage by ethanol (although came close to abolishing damage by indomethacin).[169] The mechanisms of protection in these studies appears to be through induction of Heat Shock Protein 27 (Hsp27) and 70 (Hsp70)[170] and appears to be secondary to Ginsenoside Rb1 [171][172] and polysaccharides.[173][174]
+
+The anti-stress properties of Panax Ginseng (anti-fatigue and anxiolytic) may also contribute to stomach ulcer protection secondary to preventing the stress-induced exacerbation of stomach ulcers.
+
+Different combination formulas using Panax Ginseng have been associated with reduced stomach ulcers secondary to less stress (a contributor to stomach ulcer formation) such as chai-hu-gui-zhi-tang[175] and N-095.[176] However, causation cannot be placed on Panax Ginseng in these studies.
+
+
+Appears to have multiple mechanisms by which Panax Ginseng can confer protection against ulcers, either directly or indirectly, and has shown acute benefit in animal models in response to anti-inflammatory NSAIDs and alcohol consumption; no human studies currently
+
+
+13.
+
+Nutrient-Nutrient Interactions
+
+13.1
+
+Kai-Xin-San
+
+Kai-Xin-San (KXS) is a Traditional Chinese Medicine mixture of four herbs; Panax Ginseng alongside Hoelen, polygala, and Acorus gramineus. It is traditionally used for "the treatment of emotion-thought disease" (settling fright, quieting the spirit, etc.) and apparently is heart healthy. Extending these claims into the Western realm, KXS is being investigated for its anti-depressant effects. Kai Xin San is used in a 3:3:2:2 ratio where the dry weights of the plants and mushroom (Hoelen) are measured before extraction, with the former two higher numbers belonging to Panax Ginseng and Acorus Gramineus.
+
+It is known that the role of acorus gramineus in this decoction is to increase bioavailability of ginsenosides from the gut (unable to promote uptake into the brain).[177]
+
+Doses of 0.3, 0.9, and 2.7g/kg of a water-extract daily have shown efficacy in preventing depressive symptoms from chronic and mild stress in rats, and when compared to an active control of fluoxetine (10mg/kg) KXS at the highest dose was significantly more effective in normalizing test parameters (Two-Way Active Avoidance task, Latency of Feeding).[178] Fluoxetine and all doses of KXS were equally effective in the sucrose-preference test (used as a measure of anhedonia, or a reduction in pleasure seeking induced by stress) and was equally effective at reducing ACTH and corticosterone levels in serum, but fluoxetine was less effective at suppressing an increase in acetylcholinesterase in the hippocampus seen with stress.[178] KXS was slightly more effective at elevating dopamine levels, with no significant influences on serotonin or noradrenaline.[178] These increases in monoamines (one highly significant, the other two not statistically significant) appears to be a mechanism of KXS's anti-depressive effects, with a later study noting significant increases in all three neurotransmitters.[179]
+
+
+Some animal research suggests that the Kai Xin San formulation is effective in treating depression, with similar potency to fluoxetine when the depression is induced by chronic mild stress
+
+
+A study using KXS in mice with chronic fatigue syndrome (induced by forced wheel running) given 175, 350, and 700mg/kg bodyweight once a day 40 minutes before running exercise over 4 weeks (7.14:1 concentrated extract, 60% ethanol for Panax and rest water extracts; 3:3:2:2 ratios for Panax, Acorus, Hoelen, and Polygala; respectively) found the combination was effective in combating chronic fatigue syndrome (assessed by electric shock time).[180] When compared to a positive control of Modafinil at 13mg/kg bodyweight, 175 and 350mg/kg bodyweight were significantly less effective (although more than control) while 700mg/kg was not significantly different, although still trended to be less potent.[180] KXS (350, 700mg/kg) could normalize the reductions in testosterone and glycogen associated with exhaustive exercises while Modafinil was not effective.[180]
+
+
+Appears to have some efficacy in preventing chronic fatigue syndrome effects; limited research though, even for animals
+
+
+Acorus gramineus is one of the four herbs in Kai Xin San (KXS) and is known as delivering servant to Panax Ginseng according to Traditional Chinese Medicine. These claims tend to reflect bioavailability and absorption, and when 3g/kg of Panax Ginseng (17.9mg Rg1, 19.8mgRe,30.6mg Rb1) along with Hoelen and Polygala was tested with or without the addition of Acorus significantly elevated the AUC of all three tested Ginsenosides, the Cmax of Rg1 and Re, and did not affect the Tmax values; the increase in AUC was in part due to increase absorption rates (indicative by Cmax) and reduced clearance rates.[177] Specifically, the Cmax was increased to 194%, 157%, and 144% (nonsignificant) relative to the mixture without Acorus for Rg1, Re, and Rb1; respectively. AUC0–∞ increased to 128%, 138%, and 141% and clearance rates dropped to 58% of baseline values for Re (with the other two Ginsenosides having their clearance rates reduced by either Hoelen or Polygala, but not Acorus).[177]
+
+It should be noted that circulating levels of these three Ginsenosides was higher when taken alongside Hoelen and Polygala, without the Acorus, when compared to Panax in isolation; it appears the other two compounds may confer benefits.[177] Also, the ratios of circulating cerebral levels and circulating serum levels did not differ significantly in any tested group (Panax, KXS without Acorus, true KXS) suggesting that the three coingested medicines do not influence partitioning to the brain, just general absorption and circulating levels.[177]
+
+
+The combination appears to favor the circulating levels of Panax Ginseng and its active ingredients, and the combination of Acorus seems to be significantly better at improving circulating levels than does the addition of either Hoelen or Polygala
+
+
+Oral toxicity tests on KXS suggest it is relatively safe, with the first sign of sub-chronic (91 days) toxicity (increased white blood cell and lympocyte count and an increase in alkaline phosphatase) occurring at 9g/kg oral ingestion daily, with recovery occurring 30 days after cessation and no mortality at this dosage; sub-chronic usage of 3g/kg was not associated with any side-effects.[181] With acute toxicity testing, no mortality was seen at 19.67g/kg and 100% mortality achieved at 60.04g/kg in rats, and thus the No Observable Adverse Effects Limit (NOAEL) was deemde 19.67g/kg while the lowest observable adverse effect limit (LOAEL) was 24.59g/kg and the LD50 greater than 32.59g/kg.[181]
+
+
+A dosage about 3-5 fold higher than the highest recommended dose appears to still be safe, although then doubling that appears to be associated with toxicity symptoms
+
+
+13.2
+
+Ginkgo Biloba
+
+Ginkgo Biloba is another herb that has traditionally been used as a cognitive booster, and has been studied in conjunction with and alongside Panax Ginseng due to both of them being used traditionally for similar goals. 
+
+One study assessing 360mg Ginkgo against 400mg Panax ginseng as well as their combination against placebo found that the combination of the two was significantly more effective than either in isolation regarding simple reaction time (4 hours after ingestion), improving delayed word recall 1-4 hours after ingestion, and improving spatial memory.[60] The combination was also antagonistic on some aspects, reducing the benefits seen with parameters of accuracy (numeric working memory, digital vigilance false alarms, and accuraccy of immediate word recall) although the combination still outperformed placebo in regards to tests on memory.[60]
+
+
+The combination of the two may be additive or synergistic in short-term memory and stimulation (reaction time) but possibly at the cost of accuracy
+
+
+13.3
+
+Carbohydrate
+
+Panax Ginseng administration causes a drop in blood glucose in healthy persons while increasing cognition, although no significant correlations appear to exist between the two.[61] When Panax Ginseng is consumed alongside 25g glucose, there do not appear to be any additive or synergistic effects of the combination while both, in isolation, can improve cognitive function in healthy adults.[89]
+
+
+No significant beneficial interactions between carbohydrates and Panax ginseng
+
+
+13.4
+
+N-095
+
+A combination supplement deemed N-095 consisting of Korean Red Ginseng, polygala root, saffron, antelope horn and aloe wood has been investigated into. One study investigating their combination used 330mg Red Ginseng to 100mg antelope horn, 90mg saffron, 30mg polygola root, and 10mg aloe wood; although also included 100mg pearl and 1.16mg borneol as perfume for the mixture.[176] Recommended human dose is apparently 1160mg total.[176]
+
+It appears to have similar properties to Panax, and when administered via drinking water in a fasted state not significantly able to influence resting behaviour but decreasing experimental inflammation, reducing stress and histamine induced ulcers, and augmenting hexobarbital-induced sedation.[176] N-095 has been implicated in increasing NGF in the hippocampus and cerebral cortex[182] while increasing blood flow to the hippocampus of rats.[183]
+
+When compared against Red Ginseng in isolation, 100mg/kg of the combination supplement appears more potent than 284mg/kg at preventing formation of gastric ulcers induced by stress, and 300mg/kg was equally effective in reducing ulcer formation by histamine.[176] There were no significant differences between combination supplement and Red Ginseng at 100mg/kg and 28.4mg/kg, respectively, on forced swim test time and fatigue.[176]
+
+No studies comparing the isolated ingredients together, in an aim to determine synergism, have been found. They may merely be additive, although the effects on reducing stress appear to be synergistic and better than Red Ginseng alone.
+
+
+Appears to be a cocktail used in research, synergism has not been fully elucidated but this concoction appears to be more stress-reducing than Red Ginseng alone with no significant effect on anti-fatigue
+
+
+14.
+
+Safety and Toxicology
+
+14.1
+
+General
+
+A systemic review of 13 databases assessing the safety of ginseng supplementation in humans[77] found that, among 57 randomized clinical trials predating March 2009, found low incidence of harm. 16 trials reported side effects of any magnitude while 14 did not (and 27 did not specify), side-effects were mostly related to the gastrointestinal tract (nausea, vomiting, diarrhea, and cramps) with Korean Red Ginseng thrice being associated with gastric upset;[77] one study noted hypoglycemia in a type II diabetic.[104]
+
+Doses in healthy humans to higher ranges such as 2g for 4 weeks[184][185] 4.5g for 12 weeks,[186] and up to 3-6g of Korean Red Ginseng for 8 weeks[187] tend to show similar lack of apparent toxicity.
+
+14.2
+
+Pregnancy
+
+In vitro tests conducted have suggested Panax Ginseng, particularily Ginsenoside Rg1 but others as well, can be damaging to the fetus and embryo.[188][189][190] In response to this, an in vivo model using mice was undergone and given 20, 200, or 2,000mg/kg Korean Red Ginseng daily did not influence maternal weight, feed intake, abortions or embryonic implantations.[191] Continuous consumption throughout gestation did not alter any primary parameter in the pups, nor was placental or fetal weights affected; mortality of the pups non-significantly declined in the highest dose group.[191] When measured in the blood, there was no significant detection of Rg1, Re, or Rc in the blood (possibly due to metabolism into other entities) suggesting a distinction between the in vitro and in vivo studies.[191]
+
+Correlational studies in human assessing Panax Ginseng and pregnancy find no significant correlations between Panax Ginseng consumption and altered birth/pregnancy events.[192][193]
+
+
+The harm associated with Ginseng in vitro (lab tests outside of living bodies) may not apply to orally ingested Ginseng, as no association with Ginseng products and pregnancy abnormalities has been noted
+
+
+14.3
+
+Gynecomastia
+
+Gynecomastia is a condition affecting males while involves estrogenic fat deposites on the pectoral muscles under the areolae, at least one case study has demonstrated a temporal relationship between Panax Ginseng and Gynecomastia.[194] In this study, a 12 year old boy taking Korean Red Ginseng for a month saw doctors about estrogenic developments of breast tissue, and the growth appeared to stop after cessation of Red Ginseng for a month.
 

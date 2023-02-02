@@ -254,6 +254,7 @@ Tyrosol,[15] sometimes seen as one of the main bioactives, and its glucoside kno
 On a molecular basis, the main active ingredients appear to be Tyrosol and its glucoside known as Salidroside. When consuming the root, there are other structurally related bioactive (the rosavins) that may play a role. Rhodiola is a surprisingly high source of procyanidins (same molecules as those in Pycnogenol) built of EGCG, the catechin thought to be somewhat unique to green tea
 
 
+
 The clear and colorless essential oil (0.05% of the root by dry weight,[12] it has been reported to be lower) contains mostly:
 
 n-Decanol (30.38%[12])Gerianol (12.49%[12])1,4-p-menthadien-7-ol (5.10%[12])Limonene (4.91%[12])α-Pinene (4.69%[12])β-pinene (1.47%[12])sabinene (1.45%[12])β-Myrcene (2.25%[12])3-Carene (2.04%[12])β-Phellandrene (2.31%[12])p-Cymene (2.97%[12])n-Octanol (2.77%[12])Linalool (2.31%[12])Dodecanol (3.67%[12])Cumin alcohol (2.66%[12])

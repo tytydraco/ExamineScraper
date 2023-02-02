@@ -78,6 +78,154 @@ Cognition
 
 Parkinson's Disease
 
+4.4
+
+Huntington's Disease
+
+4.5
+
+Depression
+
+4.6
+
+Migraine
+
+5
+
+Cardiovascular Health
+
+5.1
+
+Cardiac Tissue (Myocardium)
+
+5.2
+
+Blood Pressure
+
+5.3
+
+Lipoproteins
+
+6
+
+Interactions with Glucose Metabolism
+
+6.1
+
+Insulin
+
+6.2
+
+Diabetes
+
+7
+
+Exercise Performance and Skeletal Muscle
+
+7.1
+
+Pharmacology and Tissue deposition
+
+7.2
+
+Mechanisms
+
+7.3
+
+Muscle Fiber Composition
+
+7.4
+
+Power Output
+
+7.5
+
+Cardiovascular Exercise
+
+7.6
+
+Exercise related Fatigue
+
+8
+
+Interactions with Oxidation
+
+8.1
+
+Mechanisms
+
+9
+
+Longevity and Life Extension
+
+9.1
+
+Rationale
+
+10
+
+Interactions with Aesthetics
+
+10.1
+
+Skin
+
+11
+
+Other Medical Conditions
+
+11.1
+
+Fibromyalgia
+
+11.2
+
+Prader-Willis
+
+11.3
+
+Chronic Fatigue Syndrome
+
+11.4
+
+Conditions of Male Sexuality
+
+12
+
+Nutrient-Nutrient Interactions
+
+12.1
+
+Carnitine
+
+12.2
+
+Creatine
+
+12.3
+
+Alpha-Lipoic Acid
+
+12.4
+
+Statins
+
+12.5
+
+Grapefruit
+
+12.6
+
+Pycnogenol
+
+13
+
+Safety and Toxicity
+
+13.1
+
+General
+
 1.
 
 Sources and Structure
@@ -133,6 +281,8 @@ CoQ10 can be extracted from living tissue (expensive) although more commonly the
 Structure and Properties
 
 Coenzyme Q10 belongs to a class of molecules characterized by their benzoquinone ring structure at the end of an isoprenoid side chain, similar to a medieval flail. The length of the sidechain determines the designation of the coenzyme, with CoQ10 possessing ten isoprenoid units in its tail.[23]
+
+{OLD-IMG-ID:223}
 
 In its reduced form (ubiquinol) it can sequester some free radicals directly (an antioxidant effect) via conversion to its oxidized form (ubiquinone); a mechanism that is used to donate electrons through the electron transport chain to make ATP. Despite being in an oxidized form, ubiquinone still appears to be an antioxidant.[24]
 
@@ -292,5 +442,462 @@ Limited animal evidence to assess lifetime usage of CoQ10, but there does not ap
 
 Parkinson's Disease
 
-A study feeding rats 1% of the feed as CoQ10 before MPTP injections (toxin that mimics Parkinson's disease[93]) noted that 2 weeks of feeding was able to preserve some dopaminergic function, reducing the loss in dopamine to 26% (control toxin reduced dopamine 56%) which was slightly more protective than creatine although their benefits were additive.[reference|url=http://www.ncbi.nlm.nih.gov/pubmed/19476553|title=Combination therapy
+A study feeding rats 1% of the feed as CoQ10 before MPTP injections (toxin that mimics Parkinson's disease[93]) noted that 2 weeks of feeding was able to preserve some dopaminergic function, reducing the loss in dopamine to 26% (control toxin reduced dopamine 56%) which was slightly more protective than creatine although their benefits were additive.[94]
+
+4.4
+
+Huntington's Disease
+
+200mg/kg CoQ10 to rats for 2 months prior to an injection of 3-nitropropionic acid (neurotoxin which creates toxicity similar to that seen in Huntington's Disease) was able to almost absolutely reduce lesion size relative to control (from 19mm3 to 1mm3)[64] although another study noted the protective effect of 1% of the rat feed as CoQ10 reduced lesion size to 62% of control (insignificantly underperforming 2% creatine, which reduced lesion size to 53%[94]). 3-NP is a mitochondrial toxin[95][96] and CoQ10 is thought to exert protective effects at the level of mitochondrial modification; which may extend to L-Carnitine[97] and Creatine supplementation[98] where CoQ10 and creatine appear to be additively neuroprotective.[98][94]
+
+
+CoQ10 has neuroprotective effects against the 3-nitropropionic acid toxin, an animal model of Huntington's disease. This protective effect is somewhat comparable to creatine supplementation
+
+
+4.5
+
+Depression
+
+Depression appears to be a state that is highly correlated with increased oxidative and nitrosylative stress[99] and CoQ10 concentrations in serum appear to be reduced in people with treatment resistant depression.[100]
+
+One study using injections of CoQ10 in rats (25-150mg/kg) for 3 weeks in rats with chronic stress induced depression was able to exert anti-depressive effects with a plateau at 100mg/kg, the potency being about 50% normalization (relative to nondepressed control) on immobility and swim time in a forced swim test;[101] this was related to reductions in serum corticosterone and reduced hippocampal oxidative stress.[101]
+
+Other evidence suggest that in geriatric bipolar disorder there is less depressive symptoms associated with CoQ10 supplementation (400mg daily for 2 weeks, then up to 800mg and 1200mg daily).[102]
+
+
+It is possible that CoQ10 supplementation could alleviate depression, and there are reduced CoQ10 levels in depressed persons and some preliminary evidence suggests therapeutic effects. That being said, the evidence is not robust at this moment in time and uses quite high doses of CoQ10
+
+
+4.6
+
+Migraine
+
+CoQ10 at 150mg daily has shown some efficacy in an open-label trial in persons with episodic headaches[103] which has been replicated elsewhere against placebo.[104] The open label trial experienced a rather large reduction in symptoms (61.3% of subjects reporting over a halving of symptoms, and the average of 7.34 migraine days being reduced to 2.95 days)[103] with the rate of persons experiencing a halving of symptoms with 300mg under blinded conditions being 47.6% (placebo at 14.4%) with time-dependent reductions over 4 months.[104]
+
+In a study assessing the effects of 100mg CoQ10 in youth (6-17 years of age) for 224 days in children with a high frequency (14.3 per month) and severity (6.3-6.4 on a 1-10 scale) of headaches, the CoQ10 group experienced less overall headaches than did placebo for the first 4 weeks of the trial with the difference no longer existing near the end of the trial.[105] There was no influence on migraine frequency.[105] 
+
+
+May have some migraine and headache reducing effects, which has been noted twice under blinded conditions to be more effective than placebo (one for migraine frequency, the other for headache frequency)
+
+
+5.
+
+Cardiovascular Health
+
+5.1
+
+Cardiac Tissue (Myocardium)
+
+Human cardiac tissue has a CoQ10 concentration of approximately 132nmol/g (with 61% of CoQ10 being in the reduced form of ubiquinone)[60] which is similar to other animals with cardiac tissue being the highest body store of CoQ10 (hence cardiac tissue being the richest dietary source). Perhaps most interestingly, supplemental CoQ10 has been confirmed to increase cardiac tissue levels and cardiac mitochondrial levels of CoQ10 (surgical biopsy of cardiac tissue in humans)[106] and in pathological changes of cardiac tissue the levels of CoQ10 in the heart appear to be progressively reduced (with class III and IV having lower levels than class I and II[107]) which again is somewhat normalized with CoQ10 supplementation.[107][108]
+
+
+CoQ10 is present in cardiac tissue, and similar to other animals this is the organ in the human body with the highest CoQ10 concentration. Supplemental CoQ10 has been confirmed to reach cardiac tissue following oral intake
+
+
+CoQ10 supplementation can reduce damage to the heart from the anti-cancer pharmaceutical class of compounds called anthracyclines (doxorubicin and daunorubicin).[109] CoQ10 does not appear to interfere with the cytotoxicity of doxorubicin in breast cancer cells[110] nor its pharmacokinetic profile.[111] Interesting, this protective effect may extend to other organs such as the kidneys[112] and in general enhance survival times.[113]
+
+It should be noted that this may not be a CoQ10 relative deficiency state (higher circulating[114] and cellular[115] levels of CoQ10 may actually occur).
+
+
+CoQ10 may help with doxorubicin-induced cardiomyopathy, which would be of interest to chemotherapy as CoQ10 may not interfere with the efficacy of doxorubicin in destroying cancer cells. Requires some human intervention data though
+
+
+CoQ10 is known to be an independent risk factor for the disease progression of coronary heart disease,[116] lower in ethnic groups that have higher cardiovascular disease rates,[117] and due to its interactions at the level of the cardiac tissue (and ability to reduce myocardial remodelling following injury in rats[118]) supplementation is thought to be protective.[119][120]
+
+Over the short term, 28 days of CoQ10 supplementation in persons with acute myocardial infarction is associated with better left ventricle function and reduced angina pectoris and arrythmia than placebo[121] and prolonged usage of CoQ10 by persons who suffered myocardial infarction (120mg) was associated with lower amounts of cardiac incidents with CoQ10 (25.3% of persons experiencing a cardiac incident) outperforming placebo (45%; B-vitamin complex).[122]
+
+A study in congestive heart failure was unable to find benefit to left ventricle function[123] which has also been failed to occur in diabetics[124] and 4 months of CoQ10 treatment at 100mg in persons with idiopathic dilated cardiomyopathy failed to show any significant difference relative to placebo on blood or cardiac measurements.[125] One study that noted some cardiac benefit during exercise similarly failed to find a benefit to left ventricle ejection fraction at rest in persons with congestive heart failure.[126]
+
+
+May have benefit after myocardial infarction, but myocardial infarction may be the only heart condition in which CoQ10 is beneficial. CoQ10 supplementation has failed in other instances of cardiac ailment (congestive heart failure, diabetic cardiomyopathy) to exert any benefit
+
+
+One study has investigated the role of CoQ10 in isolated diastolic heart failure secondary to cardiohypertrophy,[127] and 200mg CoQ10 daily appeared to reduce left ventricle thickness and improve function as well as quality of life.
+
+
+May be of use in cardiomegaly, but limited evidence
+
+
+One of the longest randomized controlled trial to date found that daily supplementation with 200 mg of CoQ10 plus 200 mcg of selenium significantly reduced cardiovascular mortality compared to placebo (5.9% vs 12.6%) in 443 Swedish citizens aged 70-88 years after a 5-year follow-up.[128] The supplement group had a 55% reduced risk of dying from cardiovascular disease compared to placebo.
+
+5.2
+
+Blood Pressure
+
+Mechanistically, it is though that CoQ10 might reduce blood pressure secondary to antioxidative effects. An increase in extracellular superoxide dismutase (SOD) activity has been noted with CoQ10 supplementation for one month at 300mg,[129] and extracellular superoxide dismutase (highly localized to the endothelium[130] and reduced in persons with coronary artery disease[131]) is known to preserve the activity of nitric oxide,[132][133] a vasodilating and blood pressure reducing agent.
+
+The above mechanisms are currently thought to underlie the improvement in endothelial function and blood flow observed in type II diabetics with[134] or without[135] statin therapy, ischemic heart disease patients,[136] and in otherwise healthy obese individuals.[137] This protective effect on blood flow appears to have also been found in a meta-analysis on the topic,[138] where flow-mediated vasodilation just reached statistical significance (no significant effect on nitrate-mediated arterial dilation).
+
+
+CoQ10 may increase blood flow in persons with otherwise hindered blood flow secondary to acting as an anti-oxidant, which is thought to preserve the actions of nitric oxide on the endothelium
+
+
+A meta-analysis of trials investigating CoQ10 and blood pressure (assessing double blind trials of more than 3 weeks in length)[139] was able to assess three trials noted a slight decrease in blood pressure in hypertensives (11mmHg and 7mmHg systolic and diastolic) but made note that the observed results were unreliable.[139] Other trials published after this meta-analysis (Oct '09) are one study in persons with high blood pressure and metabolic syndrome given 100mg CoQ10 daily for 12 weeks (failed to influence 24 hour blood pressure, but trended to reduce diastolic overall and reduced daytime diastolic[140])
+
+CoQ10 has been implicated in being in a formulation known as 'Orthospiron' (alongside policosanol, red yeast rice, berberine, and folic acid) which has shown efficacy in reducing 24 hour ambulatory blood pressure in hypertensives.[141]
+
+5.3
+
+Lipoproteins
+
+A 12% increase in HDL-C has been noted in persons who suffered myocardial infarction given 120mg CoQ10 for a year relative to control (B-vitamin complex)[122]
+
+Studies assessing the interaction of CoQ10 and HDL-C note that when pairing statin usage (atorvastatin) against stain plus CoQ10 (100mg) combination therapy, that CoQ10 is associated with an 11.1% improvement in HDL-C relative to statin usage in isolation over 12 weeks.[142]
+
+CoQ10 ingestion does not interfere with the LDL-C and total cholesterol reducing effects of statin drug usage.[142][122]
+
+
+CoQ10 may have a small effect on increasing HDL cholesterol, but the body of evidence to support this is fairly minimal
+
+
+CoQ10 is also known to exist on the lipoproteins themselves as a constituent and protects the lipoprotein form oxidation to a greater level than that of Vitamin E at their biological concentrations.[143] Due to this, CoQ10 is thought to be a biomarker of sorts for endothelial oxidative stress[144][145] and possible artherosclerosis.[146] 
+
+
+Can reduce the rate of which low density lipoproteins are oxidized (in which case LDL turns into the artherogenic oLDL) secondary to direct free radical scavenging
+
+
+CoQ10 has been noted to suppress the inflammatory effects of oxidized LDL cholesterol (oLDL)[147] and reduces subsequent endothelial injuries from oLDL with an ED50 of 4.2μM (130μg/mL for 24 hours).[148] The mechanism appears to be related to inhibiting the increase in NF-kB activation (a proinflammatory effect) secondary to the increase in reactive oxygen species that occurs when oLDL acts upon endothelial cells[147][148] which is thought to be from either preserving nitric oxide function (NO can suppress NF-kB activity when at higher concentrations[149]). Incubation with nitric oxide inhibitors was able to partially block the protective effects of CoQ10.[148]
+
+CoQ10 may have direct inhibitory effects on NF-kB independent of NO (alterations in JAK/STAT signalling),[150] which may explain the portion of protective effects not abolished by nitric oxide inhibitors.[148]
+
+
+If LDL cholesterol is already oxidized, it is possible that CoQ10 can protect the endothelium from being damaged by oxidized LDL
+
+
+Supplementation of CoQ10 in persons with coronary artery disease at either 60mg or 150mg daily for 12 weeks was able to significantly increase circulating CoQ10 concentrations in serum and expression of some antioxidant enzymes (catalase and SOD) while decreasing MDA levels (a biomarker of lipid peroxidaiton).[151] An increase in SOD has been noted elsewhere with 300mg CoQ10 in persosn with ischemic heart disease[129] and plasma antioxidant capacity has been noted to be increased in general with 120mg daily.[121][152]
+
+6.
+
+Interactions with Glucose Metabolism
+
+6.1
+
+Insulin
+
+In a small sample of otherwise healthy persons, 12 weeks supplementation of 200mg CoQ10 (as ubiquinol) was noted to increase the insulin:proinsulin ratio and to augment meal-induced insulin release[153] which was hypothesized to be secodnary to aiding pancreatic b-cell function (it has elsewhere[154] been hypothesized CoQ10 can aid in ATP supply of pancreatic b-cells)
+
+6.2
+
+Diabetes
+
+CoQ10 supplementation at 200mg for 12 weeks has been twice noted to reduce circulating HbA1c concentrations,[153][155] while these two studies and two more[156][157] seem to indicate that supplemental CoQ10 has no significant influence on circulating glucose or insulin (two main biomarkers of diabetes). In general, this lack of support for reducing blood glucose with CoQ10 supplementation results in it not being recommended for diabetes prevention.[158]
+
+HbA1c is a biomarker for oxidative stress in diabetics, and is linked to pathological worsening of diabetes related to artherosclerosis (via oxidation of LDL and inflammation) and to AGE production (summary can be read on our benfotiamine page).[159]
+
+At least in animal studies, CoQ10 supplementation has been shown to reduce the pathological progression or occurrence of diabetic kidney disease,[160][161][162] cardiac and blood vessel complications,[134][163] and neuropathy.[164][165]
+
+
+CoQ10 has shown some protective effects on diabetes via HbA1c (although the reduction is quite small and likely not clinically significant) and has no apparent effect on blood glucose or insulin. Although it is technically protective, the degree or protection is fairly minor and CoQ10 may not be an effective diabetic intervention
+
+
+7.
+
+Exercise Performance and Skeletal Muscle
+
+7.1
+
+Pharmacology and Tissue deposition
+
+CoQ10 is known to reach skeletal muscle tissue following chronic (but not acute[40]) dietary intake, which applies to all species and underlies why the meat of animals (contractile tissue) is the second best source of dietary CoQ10 and second only to cardiac tissue.[35][23] The average concentration of CoQ10 in skeletal muscle appears to be in the wide range of 140–580pmol/mg (140-580nmol/g) with an average value of 241nmol/g[166] which has been reported elsewhere with similar results[167] although at one time being lower (46nmol/g).[60]
+
+The skeletal muscle levels appear to correlate quite well with levels in immune cells (mononuclear cells) and not with serum,[166] and the state of CoQ10 in skeletal muscle cells is approximately 65% being ubiquinone.[60] Muscle concentrations of CoQ10 are positively correlated with muscle oxidative capacity during a simulated marathon (not correlated with lacate dehydrogenase)[168] and appears to be correalted with aerobic exercise performance.[168]
+
+
+CoQ10 is present in skeletal muscle tissue of all animals, including humans, where it exerts its standard mechanisms of facilitating mitochondrial function and participating in REDOX reactions (antioxidant and oxidant exchanges)
+
+
+7.2
+
+Mechanisms
+
+Being being a component of the mitochondrial membrane, incubation of skeletal muscle cells with 100μmol/L of CoQ10 (and 250μmol/L Alpha-Lipoic Acid) is able to induce PGC1α levels by 70% (relative to control) and was subsequently found to induce PPARγ activity (50%) to a lesser degree than the active control of rosiglitazone (1μmol/L) and an increase in antioxidant enzyme levels (γGCS, GSR, GST, Nrf2).[169]
+
+PGC1α is a mitochondrial biogenesis factor that is associated with type I (oxidative) muscle fibers thought to be due to producing more mitochondria, and overexpression of PGC1α in mammals reduces muscular fatigue rates.[170][171] PGC1α is known to decline during aging[172] and be activated by exercise,[173] and as such is a current focus point for attenuating age-related muscular function.
+
+7.3
+
+Muscle Fiber Composition
+
+In a few species, it has been noted that muscle fibers with a higher oxidative capacity (rather than glycolytic) have a relatively higher concentration of CoQ10.[174]
+
+When comparing CoQ10 deficient children against those with normal CoQ10 status, it appears that deficiency is associated with greatly (5.5-fold) increased type 2C muscle fiber content (which may be a useful biomarker for CoQ10 related mitochondrial disorders).[175]
+
+7.4
+
+Power Output
+
+200mg CoQ10 supplementation for 6 weeks in older athletes concurrently taking statin drugs has noted an increase in leg strength as assessed by leg extensions.[176] When youth are given either a single dose of CoQ10 (200mg) prior to exercise or 2 weeks supplementation thereof (50 reps of isokinetic knee extensions), there is no apparent effect on muscular force production of muscular fatigue.[177]
+
+
+Has been noted to increase power output in older adults on statin therapy, but has failed to produce any effect in youth given CoQ10
+
+
+7.5
+
+Cardiovascular Exercise
+
+CoQ10 supplementation has failed to increase cardiovascular exercise performance (usually intermittent sprint cycling or VO2 max tests) when ingested at 90mg for 8 weeks in trained men,[178] 300mg for 4 weeks in trained persons,[179] 150mg with or without Vitamin E for 4 weeks in otherwise healthy sedentary men,[180]
+
+Some trials report positive results with 100mg supplementation for 8 weeks in otherwise healthy trained men subject to a Wingate test, where the improvement in performance appeared to be independent of the fatigue reduction (fatigue reduced in both CoQ10 and placebo, although CoQ10 only increased power output).[181] Another trial has used a Wingate test and failed to find benefit with 200mg CoQ10 over placebo.[177]
+
+This failure to increase cardiovascular exercise performance is associated with an increase in antioxidative capacity of the blood and reduced lipid peroxidation, however.[178][182]
+
+Despite evidence in mice suggesting CoQ10 supplementation can reverse statin-induced exercise capacity losses,[183] 200mg CoQ10 supplementation for 6 weeks in older athletes concurrently taking statin drugs has failed to find a significant improvement in anaerobic cardiovascular exercise performance (although this study noted an increase in power output).[176]
+
+In prolonged exercise (210 minutes) where fatigue is noted to be reduced, 300mg CoQ10 was associated with a preservation of power in the last few minutes of the test relative to placebo without influencing overall work conducted.[184]
+
+
+Despite reducing exercise-induced oxidation, there is no convincing evidence of a benefit of CoQ10 supplementation to cardiovascular exercise performance where fatigue is not a factor. There may be a small benefit when it comes to prolonged exercise where fatigue starts to degrade performance
+
+
+7.6
+
+Exercise related Fatigue
+
+The mechanisms of fatigue reduction from CoQ10 are not precisely known, although it is suspected that CoQ10 is able to reduce damage to the membrane of skeletal muscle cells by preventing increases in serum creatine kinase and GOT (biomarkers of muscle damage); this study failed to note any antioxidative effects despite the protective effects, thought to be related to stabilizing the membrane[185] which is a phenomena that has been reported before.[186][187] Reduced creatine kinase and muscle damage has been reported in humans following ingestion of 300mg CoQ10 daily.[188]
+
+Another possible explanation is the increase in fat oxidation seen during submaximal exercise with CoQ10 supplementation in otherwise healthy subjects secondary to autonomic nervous system activation.[189]
+
+
+Thought that CoQ10 can provide structural support to skeletal muscle cells via stabilizing the membrane, and thus reducing the release of muscle metabolism byproducts that contribute to fatigue. May also increase exercise-induced fat oxidation
+
+
+Animal studies support the idea of CoQ10 supplementation prolonging time to exhaustion when given prior to physical exercise[190] and is thought to exert chronic effects secondary to mitochondrial biogenesis (noted in rats with 5mg/kg CoQ10 but this study is confounded with other mitochondrial supplements like L-carnitine, Alpha-Lipoic acid, and creatine.[191])
+
+8 days supplementation of CoQ10 (100mg or 300mg) for one week in untrained subjects prior to a 210 minute cycling test (nonmaximal, but 10s of all-out peddling at the 30m and 210m timepoints) reported less fatigue with 300mg relative to placebo (100mg not significantly different) and appeared to preserve performance without altering average power output.[184] 100mg has elsewhere been noted to be more effective than placebo in sedentary men subject to training[181] yet one study using a higher intensity protocol (repeated intervals on a Wingate test) failed to find a significant fatigue reducing effect.[181]
+
+In disease states, 1200mg CoQ10 daily in humans with mitochondrial cytopathy noted improvements in cycling to exhaustion but with relatively minimal potency; other measured parameters such as grip strength were not affected.[192]
+
+
+May be able to reduce fatigue in prolonged exercise in a dose-dependent manner, and may not be effective for fatigue in more acute and intense exercises
+
+
+8.
+
+Interactions with Oxidation
+
+8.1
+
+Mechanisms
+
+The reduced form of CoQ10 (Ubiquinone) is called Ubiquinol, this is the form of CoQ10 supplementation that posesses most anti-oxidative properties.[193] Ubiquinone and ubiquinol form a pair of molecules known as a REDOX couplet (reduction-oxidation)[194] which is a property that is crucial for the functioning of CoQ10 within the electron transport chain, where it transports electrons from complex I and II to complex III.[195][196]
+
+CoQ10 also has the ability to prevent lipid peroxidation from either inhibiting lipid peroxyl radicals[197][196][198] and has been noted to restore Vitamin E (α-tocopherol) from its radical state back to its antioxidative state.[198] Protein carbonylation has also been noted to be reduced with CoQ10 (direct inhibition of protein oxidation)[199] but has been noted to not influence the conversion of nitric oxide into peroxynitrate.[200]
+
+Via its anti-oxidant potential, ubiquinone can protect DNA from excess oxidation from H2O2 and potentially act as an anti-carcinogen (as noted in human lymphocytes at least).[201]
+
+
+CoQ10, via acting as a REDOX couplet, can act as a sacrificial antioxidant molecules and directly sequester free radicals. It shows efficacy against hydrogen peroxide, protein carbonylation, and lipid peroxidation but does not appear effective against peroxynitrate formation
+
+
+CoQ10 has been once noted to induce activity of Nrf2 (a nuclear protein that regulates the antioxidant response element[202] and induces the activity of antioxidant enzymes[203][204]) at 10-30mg/kg oral intake,[205] where a single oral dose induced expression of Nrf2 in the liver of mice in a dose-dependent manner (40% and 60% increase, respectively) and increased expression of glutamate-cysteine ligase, glutathione S-transferase, and quinone oxidoreductase.[205] This increase in Nrf2 has been noted in skeletal muscle cells in a study using both CoQ10 and Alpha-lipoic acid (somewhat confounded as ALA may activate Nrf2).
+
+
+It is possible that CoQ10 supplementation may also induce the activity of anti-oxidant enzymes, providing an indirect antioxidative effect; this is not as well researched as the REDOX actions
+
+
+9.
+
+Longevity and Life Extension
+
+9.1
+
+Rationale
+
+CoQ10 may be altered during the aging process, as the REDOX ratio of ubiquinone (oxidized form) to ubiquinol (reduced form) has been noted to be increased during aging.[206] This conclusion was reached due to an increase in plasma CoQ10 increased from youth (20-39; 17.9+/-6.3nM) towards middle age (40-59; 21.5+/-7.3nM) and again towards an elderly age (60+; 31.8+/-15.5nM) despite no change in ubiquinol concentrations.[206]
+
+10.
+
+Interactions with Aesthetics
+
+10.1
+
+Skin
+
+In aging skin, oxidation may be secondary to impairments in mitochondrial respiration[207][208] (with the other possible source of oxidation beign UV radiation[209]) which is known to influence other factors in a cell such as proteins (transporters and enzymes), DNA and RNA, and possible alterations in the function of the aforementioned.[210][211][212][213] The epidermis appears to have 10-fold the concentration of CoQ10 relative to the dermis (outer layer and inner layer of the skin, respectively)[214] suggesting relevance to protection from external factors as well as internal (as UV radiation influences the epidermis to a larger degree).[215]
+
+CoQ10 is thought to be protective of the skin secondary to being a mitochondrial factor and combination antioxidant, and is thought to be relevant to aging as skin concentrations of CoQ10 decline throughout the aging process (and with excessive exposure to UV radiation)[216] and persons with select disease states (Parkinson's[217] and Huntington's[218]) have lower activity of complex IV of the mitochondria despite similar CoQ10 levels, although those with fibromyalgia may have lower.[219]
+
+Aging skin (biopsy taken from older subjects) also tends to show signs of higher glycolytic levels (trend to increased glucose uptake and significantly more lactate production independent of changes in GLUT1) without a significant alteration in mitochondrial distribution or content and may be more susceptible to UV-induced oxidative damage.[220] This conversion of energy metabolism to glycolytic (away from lipolytic) is correlated with aging, and the normalization associated with CoQ10 is thought to underlie protective effects of CoQ10.[221]
+
+
+Aged skin is highly correlated with abnormal mitochondrial function and higher oxidant levels, and CoQ10 levels are known to decline with aging (independent of UV radiation) and with excessive UV radiation that induces oxidative stress. This decline of CoQ10 is correlated with less mitochondrial membrane potential and a shift from lipolysis towards glycolysis to sustain energy metabolism
+
+
+In vitro, CoQ10 has exhibited increased elasticity potential (increased elastin expression[222] and preservation of collagen[221]), anti-wrinkle effects via protection from UV,[223] and depigmentation potential (inhibition of tyrosinase)[222] with more profound effects in cells purposely depleted of CoQ10.[224]
+
+Application of a cream containing 0.01% CoQ10 twice daily for a week in both older and younger subjects is able to increase mitochondrial membrane potential and preserve this potential in lieu of UV radiation to higher levels than unradiated young control skin.[220]
+
+A few studies have used combination therapy, usually with Vitamin E, retinyl palmitate (highly bioactive form of Vitamin A), grape seed extract (as oil) and linseed oil which has noted UV protection and reduced wrinkling in aged subjects.[225]
+
+
+Appears to have protective effects on skin cells (tested ex vivo) following topical administration in humans
+
+
+3 weeks of supplementation with CoQ10 in mice (100mg/kg) following a skin lesion noted a suppression of myeloperoxidase and higher levels of Collagen-like polymer (CLP) relative to control which was associated with accelerated wound healing rates.[226]
+
+11.
+
+Other Medical Conditions
+
+11.1
+
+Fibromyalgia
+
+There appear to be lower circulating levels of CoQ10 in immune (blood mononuclear cells)[227][219][228] and skin cells[219] of persons with fibromyalgia although serum levels are more than doubled.[229] The reduced concentration of immune cell CoQ10 correlates with salivary cell CoQ10[230] and is associated with higher oxidation levels in the cells with lower CoQ10 status, thought to play a role in firbomyalgia pathology[231][227] as concentration of CoQ10 correlate very well with levels in skeletal muscle (with serum not being too well correlated with either) in healthy persons.[166]
+
+
+An altered distribution of CoQ10 is observed in fibromyalgia, with lower cellular levels and higher serum levels (possibly indicative of issues with transportation)
+
+
+A series of case studies has noted improvement with 300mg CoQ10 in symptoms of fibromyalgia[232][233] and was followed up with a pilot study using 100mg of CoQ10 (ubiquinone) supplementation thrice daily (daily dose of 300mg) for 3 months in persons with fibromyalgia that was found to increase concentrations of CoQ10 in blood mononuclear cells to levels similar to control patients alongside an improvement in headache status in persons with fibromyalgia.[228] This has been followed up with a proper blinded trial, where 40 days of supplementation of 300mg CoQ10 was associated with less fatigue, pain, and joint soreness/stiffness associated with improved mitochondrial biogenesis and AMPK activity[234] and has elsewhere been noted to improve fatigue alongside improvements on cholesterol status.[235]
+
+
+Supplemental CoQ10 (300mg) appears somewhat effective in reducing symptoms associated with fibromyalgia; all the evidence currently is promising and with feasible doses but it is still fairly preliminary
+
+
+11.2
+
+Prader-Willis
+
+Those with Prader-Willi Syndrome (a syndrome that begins as hypotonia and failure to thrive as an infant, and manifests itself as increased appetite, obesity, cognitive impairment and multiple endocrinopathies[236]) do not appear to have reduced CoQ10 levels in serum per se (reduced CoQ10 in serum associated with obesity, which affects many people with Prader-Willi Syndrome)[237] and this lack of deficiency state has been noted elsewhere although the correlation between body weight and CoQ10 in serum was not detected.[237]
+
+Despite this, at least one study using CoQ10 at 2.5mg/kg daily in infants with failure to thrice due to Prader-Willi Syndrome noted that supplemental CoQ10 was as effective as the active control of growth hormone (6mg/kg once a week) in helping children develop psychocognitive capacities, although it did not appear to be as effective for promoting growth.[238]
+
+
+CoQ10 supplementation in children with Prader-Willi Syndrome (PWS) has once been noted to aid in cognitive development over time, which is hindered by the disease state. Despite this, PWS does not appear to be a CoQ10 deficiency state
+
+
+It is uncertain whether there would be benefit to an adult with PWS
+
+
+11.3
+
+Chronic Fatigue Syndrome
+
+CoQ10 appears to be a commonly recommended supplement for chronic fatigue syndrome or nonspecific fatigue[239] with one study surveying those with unexplained chronic fatigue noting that 69% of persons who tried CoQ10 reported benefit with it.[240] This may be related to the observations that CoQ10 levels are lower in chronic fatigue originating from depression[100] or myalgic encephalomyelitis[241] relative to nonfatigued controls. Serum CoQ10, in these persons, is correlated with serum NAD(P)H.[242]
+
+It should be noted that some studies in fibromyalgia report less fatigue as an effect of CoQ10 supplementation,[234][235] but these results may not apply to persons without fibromyalgia. Furthermore, one human trial using 200mg of CoQ10 for 12 weeks in obese persons (chronic fatigue syndrome not an inclusion requirement) failed to note any influence on fatigue ratings.[137]
+
+
+There is insufficient evidence to evaluate the interaction of supplemental CoQ10 and chronic or nonspecific fatigue symptoms
+
+
+11.4
+
+Conditions of Male Sexuality
+
+CoQ10 is a naturally occurring antioxidant found in seminal fluid[243] and alterations in seminal CoQ10 content are found in asthenozoospermia and varicocele.[244][245] The role of CoQ10 is thought to be in part due to exerting an anti-oxidative effect[246] (and preventing DNA fragmentation from occurring to seminal cells, which is thought to be the link between infertility and oxidative stress[247][248][249]) and in part bioenergetic (to support the large amount of mitochondria in sperm cells and the energy cost of motility[250][245]) and the higher than normal levels of CoQ10 biosynthetic enzymes in rat testes (relative to many other organs) is thought to reflect this.[251] Oxidative damage to sperm cells tends to come from both the sperm itself and invading leukocytes[252] (of which oligospermic have more overall exposure and reactive oxygen species (ROS) damage from relative to healthy controls[253][254][255]). CoQ10 in semen is correlated with sperm count (R=0.504) and motility (R=0.261)[256] and has twice been correlated to total antioxidative capacity of semen.[257][258]
+
+Supplemental CoQ10 to infertile men has been found to increase seminal CoQ10 levels by 202% (42.0+/-5.1 at baseline to 127.1+/-1.9 ng/mL after 6 months of 200mg daily)[259] and has been replicated elsewhere under double-blind conditions.[260]
+
+
+CoQ10 is highly involved with sperm and likely maintains oxidative stability in the semen. Oral intake of CoQ10 in infertile men can increase seminal CoQ10 concentrations
+
+
+Seminal CoQ10 actually appears to be elevated in persons with varicocele relative to normal fertile men and infertile controls without varicocele,[261][256] which was proposed to be realted to insufficient utilization of CoQ10.[262] Variococeles appear to occur in 19–41% of infertile men.[263]
+
+In oligoasthenozoospermia, sperm from these men incubated with CoQ10 experience increases in motility[264] and oral intake of 200mg CoQ10 for 6 months has been confirmed to increase sperm motility in infertile men (no influence on morphology or concentration).[259] This increase in motility was eliminated after 6 months of supplement cessation[259] and has been replicated elsewhere[260][265] although only one study has noted increases in sperm density.[265]
+
+Studies that measure fertility rates note an improvement with 60mg CoQ10 daily for approximately 103 days in oligoasthenozoospermic men (in vitro fertilization)[264] and in one pilot study increased fertility (3 out of 22 couples) noted pregnancy.[259]
+
+
+CoQ10 supplementation in men with poor seminal motility (rather than sperm count or sperm morphology) appears to be somewhat effective at improving seminal motility; preliminary evidence suggests an increase in fertility secondary to this, but larger trials are needed to confirm
+
+
+One study assessing the interaction of CoQ10 and Peyronie's disease (localized fibrosis of the penis involving the tunica albuginea of the corpus cavernosum resulting in penile curvature and sexual dysfunction[266] which appears to have a 3-9% prevalance rate in men[267]) noted that after 300mg of CoQ10 daily for 24 weeks that the disease progression seen in placebo (56.1%) was greatly attenuated to 13.6%.[268] This study assessed treatment efficacy based on erectile properties and the rating scale of IIEF-5, with a 20% worsening in pain or 5° change in penile curvature as a worsening of disease state.[268]
+
+
+CoQ10 has preliminary evidence to help with Peyronie's disease and pathological curvature of the penis. This study was an intervention for early stage Peyronie's disease (less calcification) and currently there is no evidence for efficacy in late stage Peyronie's disease
+
+
+12.
+
+Nutrient-Nutrient Interactions
+
+12.1
+
+Carnitine
+
+There is some rationale behind treating mitochondrial pathology with combination therapy rather than isolated molecules[269] targeting mitochondrial structure (CoQ10), enzymatic function (carnitine) antioxidative properties (CoQ10, alpha lipoic acid, vitamin e), and alternate energy pathways (creatine).
+
+Carnitine is an amino acid compound present in the mitochondria at a rate-limiting step of fatty acid oxidation, and mechanistically (in regards to the function in the mitochondria, not oral supplementation) they are synergistic intermediates in mitochondrial function in general.[270]
+
+One study in people on dialysis and statin therapy given either CoQ10 (100mg daily), carnitine (1000mg IV thrice a week), or their combination failed to find a beneficial effect of combination therapy over either monotherapy in regards to a standard lipid panel.[271]
+
+12.2
+
+Creatine
+
+Creatine is a performance enhancing supplement that works via increasing an intracellular pool of creatine and phosphocreatine, exchanging phosphate groups with ADP to replenish the cellular concentration of ATP (main energy currency within a cell); creatine itself appears to positively influence mitochondrial function (similar to CoQ10[97]) and exert neuroprotective effects (being tested in models of Parkinson's and Huntington's disease[98])
+
+Combination therapy with CoQ10 (1% of feed) and creatine (2% of feed) exert additive protective effects in an animal model of Parkinson's (MPTP toxicity) and Huntington's disease (3-nitropropionic acid toxicity) with combination therapy reducing the lesion sizes to 17% (3-NP) and attenuating the dopamine loss from MPTP from 56% to 13%.[94]
+
+12.3
+
+Alpha-Lipoic Acid
+
+Alpha-Lipoic Acid (ALA) is a mitochondrial factor and fatty acid that appears to be synergistic with CoQ10 in vitro in inducing the mitochondrial transcription factor A (TFAM)[169] secondary to activating both PGC1 and NRF1, two factors that coactive TFAM to then induce mitochondrial biogenesis.[272][273]
+
+The combination was also found synergistic in inducing ornithine decarboxylase 1,[169] which is a rate-limiting enzyme of polyamine synthesis induced by exercise[274] and are genoprotective.[275]
+
+12.4
+
+Statins
+
+'Statin' is a term used to refer to the mechanisms of inhibiting the HMG-CoA enzyme, a rate limiting enzyme in the mevalonate pathway that converts 3-hydroxy-3-methylglutaryl Coenzyme A (HMG-CoA) into mevalonic acid. Inhibiting this enzyme produced less mevalonic acid, and eventually produces less cholesterol (which is eventually produced in the chain of events following mevalonic acid production).[276] Statins tend to refer to pharmaceutical drugs, but are present in some supplements such as Pu-Erh tea[277] and Red Yeast Rice (which contains the pharmaceutical known as lovastatin).
+
+Statin usage (long-term, not short-term[278]) is known to cause lower serum CoQ10 levels (as CoQ10 synthesis also occurs after the HMG-CoA enzyme),[279] and this lower CoQ10 level is an independent predictor of statin-related cardiovascular disease risk[116] while being associated with depression[100] and possible causative of statin-related myopathy (via an intermediate known as GGPP).[280][281]
+
+
+Prolonged statin usage is causative of reduced circulating CoQ10 levels, and this reduction of CoQ10 below normal levels is thought to mediate a large amount of adverse effects associated with statin treatment
+
+
+Supplementation of CoQ10 during statin usage may reverse some cardiovascular complications[282] and is able to reverse the deficiency, with one study noting a 42% reduction was reversed to a 127% increase (relative to baseline) following supplementation of 100mg CoQ10.[142] CoQ10 usage alongside statin usage is commonly seen as a way to prevent statin-related myopathy.[283][284][285]
+
+
+Ingestion of at least 90-100mg CoQ10 daily alongside statin usage is associated with greatly reduced risk from statin-related pathologies
+
+
+The combination of CoQ10 and statins seem to work additively in increasing HDL-C.[286]
+
+
+May have other beneficial effects with combination therapy
+
+
+12.5
+
+Grapefruit
+
+As CoQ10 efflux (in intestinal cells) is mediated by P-glycoprotein[70] and grapefruit juice is known to inhibit this transporter,[287][288] the combination has been tested in vitro and grapefruit juice has been found to enhance the absorption of CoQ10 to about 150% of control secondary to preventing less efflux (1% of the medium as grapefruit juice and 10μM CoQ10) to a greater degree than the reference drug (rhodamine 123).[289]
+
+
+Grapefruit juice, or other potent P-glycoprotein inhibitors, may increase CoQ10 bioavailability
+
+
+12.6
+
+Pycnogenol
+
+Pycnogenol is a supplement brand name derived from Pine Bark extract, with the main bioactive of procyanidins (same structures also found in Grape seed extract). Combination therapy with pycnogenol and CoQ10 has been noted to increase left ventricular ejection fraction (22.4%) and reduce blood pressure in persons with heart failure.[290]
+
+
+Both agents are cardioprotective in persons with poor cardiovascular health, no apparent or known synergy yet demonstrated between the two molecules
+
+
+13.
+
+Safety and Toxicity
+
+13.1
+
+General
+
+CoQ10 is generally very well tolerated at doses not exceeding 500mg (the standard upper limit for treatment of ailments that tends to be recommended).[291][292][293][294] Despite this limit, no acute side effects aside from gastrointestinal (digestive) distress are reported with doses up to 3,000mg daily[295][296][297] and usage of 900mg daily for prolonged periods (4 weeks) was not associated with any clinically relevant adverse effects.[298]
+
+Animal models have suggested that superloading dosages of CoQ10 (estimated to be around 350mg/kg bodyweight) results in an exacerbation of the effects of aging but not overall mortality, whereas doses around 100mg/kg bodyweight do not have this threat.[90] Using the human:mouse body surface area ratio of 12.3, these dosages would be 1700mg and 500mg (total) per day.[90][299] The mechanism seen here is not fully elucidated, but believed to be related to mitochondrial bioenergetics, and are in contrast to an earlier study by the same group.[87]
+
+
+There are no established toxic effects of CoQ10 supplementation in humans and CoQ10 has a remarkable safety profile. There may be some non-lethal and long term adverse effects with very high doses of CoQ10, but these are not yet demonstrated to be relevant in humans
+
 

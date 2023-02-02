@@ -26,7 +26,7 @@ Sources and Structure
 
 Sources
 
-Mitoquinone mesylate ( with {10-(4,5-dimethoxy-2-methyl-3,6-dioxo-1,4-cycloheexadienlyl) decyl triphenylphosphonium methanesulfonate}) as the prolonged chemical name), which is a derivative of CoQ10 where said molecule is covalently bonded to a triphenylphosphonium cation.
+MitoQ is a term used to refer to mitoquinone mesylate ( with {10-(4,5-dimethoxy-2-methyl-3,6-dioxo-1,4-cycloheexadienlyl) decyl triphenylphosphonium methanesulfonate}) as the prolonged chemical name), which is a derivative of CoQ10 where said molecule is covalently bonded to a triphenylphosphonium cation.
 
 The CoQ10 moiety is delivered to the matrix side of the inner mitochondrial matrix,[1] which is the site of most mitochondrial oxidative stress.[2] Despite accumulation in the mitrochondria, however, MitoQ is a poor substrate for the electron transport chain (at complex I) and is not thought to contribute much to bioenergetics.[3][4]
 
