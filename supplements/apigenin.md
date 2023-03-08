@@ -205,7 +205,7 @@ Apigenin at 20μM in DU-125 and MDA-MB-231 breast cancer cells appears to inhibi
 
 Cortisol
 
-In isolated human H295R adrenal cells, 12.5μM of Apigenin decreased cortisol to 47.5% of control (being outperformed by both soy isoflavones) with significant efficacy at 6μg/mL and greater.[29]
+In isolated human H295R adrenal cells, 12.5μM of Apigenin decreased cortisol to 47.5% of control with significant efficacy at 6μg/mL and greater.[29]
 
 7.
 
