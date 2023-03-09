@@ -665,7 +665,7 @@ An increase in arginine decarboxylase activity has been noted during hypoxia.[18
 
 Mechanistically, an intrathecal infusion of agmatine (10-40mcg) can cause concentration dependent increases in the firing of neurons in the locus coeruleus (via nitric oxide signalling[208]). This brain region appears to be involved in the bodily response to stress, particularly anxiety and depression,[209] and thus this is thought to be related to agmatine's actions.
 
-There are a few interactions with alcohol as well, as anxiety caused from alcohol withdrawal is abolished[175] and the anxiety induced by alcohol is actually agmatine dependent (depleting agmatine prevents it from occurring).[175]
+There are a few interactions with alcohol as well, as anxiety caused from alcohol withdrawal is abolished[175] and the anxiety reduction by alcohol is actually agmatine dependent (depleting agmatine prevents it from occurring).[175]
 
 
 Agmatine is involved in anxiety processing in the brain, and alcohol appears to reduce anxiety via influencing agmatine concentrations
