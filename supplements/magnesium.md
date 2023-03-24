@@ -732,7 +732,7 @@ One study in otherwise healthy women using 212mg Magnesium (as Oxide) daily for 
 However, one study in Triathletes given 17mmol Magnesium (as Orotate) daily for a period of 4 weeks prior to testing (simulated Triathalon testing) noted that there was a significant increase in blood glucose, where the exercise-induced spike in glucose was 135.6% the level of placebo, a decrease in blood proton level (90% higher than baseline with Magnesium, rather than 98% with placebo), and improved blood oxygenation as indicated by less venous CO2 (66% in Magnesium relative to baseline, while it was 74% in placebo) and higher venous O2 levels with Magnesium (208% of baseline with Magnesium, rather than 126% with placebo).[141] These biomarkers were paired with improved times on swimming 500m (88% of placebo's time), biking 20km (98% of placebo), and running 5km (92.6% of placebo), although only swimming time was statistically significant.[141]
 
 
-A single study suggests remarkable effects from high dose Magnesium supplement and appears to be structured well, but it has not been replicated; studies in sedentary or lightly active persons have failed to replicated the effects seen in these Marathon runners
+A single study suggests remarkable effects from high dose Magnesium supplement and appears to be structured well, but it has not been replicated; studies in sedentary or lightly active persons have failed to replicate the effects seen in these Marathon runners
 
 
 7.3
