@@ -100,7 +100,7 @@ Other Medical Conditions
 
 7.1
 
-Parkinson& #039;s Disease
+Parkinson's Disease
 
 8
 
@@ -326,14 +326,14 @@ Other Medical Conditions
 
 7.1
 
-Parkinson& #039;s Disease
+Parkinson's Disease
 
 Parkinson's Disease (PD) is pathologically characterized by dopaminergic insufficiency and degeneration in the brain region known as the substantia nigra, resulting in a loss of function in the nigrostriatal pathway and dopamine content of the caudate-putamen.[72] The nigrostriatal pathway locally synthesizes[73][74] and is modulated[49] by trace amines such as β-phenylethylamine.
 
 One study noted a negative correlation between cerebrospinal fluid content of β-phenylethylamine and the severity of Parkinson's disease as assessed by Hoehn and Yahr stage[75] although a later study assessing serum β-phenylethylamine failed to replicate this correlation with disease severity although PD per se had a significantly lower serum level of this trace amine (48%).[76]
 
 
-β-phenylethylamine is synthesized in and acts on the brain region which is known to dysfunction during Parkinson's disease, and accordingly concentrations of β-phenylethylamine in the blood and cerebrospinal fluid appear to be reduced during Parkinson's Disease
+β-phenylethylamine is synthesized in and acts on the brain region which is known to dysfunction during Parkinson's disease, and accordingly concentrations of β-phenylethylamine in the blood and cerebrospinal fluid appear to be reduced during Parkinson's disease
 
 
 8.
