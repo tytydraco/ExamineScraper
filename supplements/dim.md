@@ -100,7 +100,7 @@ Diindolylmethane (DIM) is the primary pharmaceutically active acid-derived metab
 
 Sources
 
-Sources of Glucosinolates (in general) are listed below, with any source mentioning diindolylmethane or its precursor (Indole-3-Carbinol) specifically being mentioned in bold:
+Sources of Glucosinolates (in general) are listed below:
 
 Brussel Sprouts, at 104mg per 44g (half cup)[6]Garden Cress, 98mg at 25g (half cup)[6]Mustard Greens, 79mg at 28g (half cup, chopped)[6]Turnip, 60mg at 65g (half cup, cubes)[6]Savoy Cabbage, 35mg at 45g (half cup, chopped)[6]Kale, 67mg per 67g (1 cup, chopped)[6]Watercress, 32mg per 34g (1 cup, chopped)[6]Kohlrabi, 31mg per 67g (half cup, chopped)[6]Red Cabbage, 29mg per 45g (half-cup, chopped)[6]Broccoli, 27mg per 44g (half cup, chopped)[6]Horseradish, 24mg per 15g (tablespoon)[6]Cauliflower, 22mg per 50g (half-cup chopped)[6]Bok Choy, 19mg per 35g (half cup, chopped)[6]1.3
 
