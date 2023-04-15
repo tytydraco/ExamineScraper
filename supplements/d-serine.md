@@ -60,7 +60,7 @@ Depression
 
 3.7
 
-Alzheimer& #039;s and Dementia
+Alzheimer's and Dementia
 
 3.8
 
@@ -68,7 +68,7 @@ Schizophrenia
 
 3.9
 
-Parkinson& #039;s Disease
+Parkinson's Disease
 
 3.10
 
@@ -328,7 +328,7 @@ There may be some minor anti-depressive effects of D-serine supplementation whic
 
 3.7
 
-Alzheimer& #039;s and Dementia
+Alzheimer's and Dementia
 
 NMDA-mediated neurotransmission appears to be perturbed in Alzheimer's disease and is thought to be related to the decline in memory[112][113] and synaptic formation[114] resulting in behavioural deficits.[115] Unlike schizophrenic patients, the signalling in Alzheimer's may be hyperfunctional as Beta-amyloid peptides (β-amyloid) can accumulate both glutamate and D-serine in the synapse[114] and both encourage their release[116][117] while promoting serine racemase expression,[117][118] all of which may contribute to excitotoxicity (excessive glutaminergic signalling resulting in cellular damage).
 
@@ -362,7 +362,7 @@ D-Serine appears to be effective at reducing all symptoms of schizophrenia (most
 
 3.9
 
-Parkinson& #039;s Disease
+Parkinson's Disease
 
 Parkinson's disease seems to have some symptoms (impairments in motivation, drive, and initiation/emotional reactivity[140][141]) that are similar to the negative symptoms in schizophrenia (apathy, flat affect and isolation), and due to the similarities it is thought that D-serine could be useful.[34] Furthermore, dopaminergic neurons in the striatum are involved in NMDA signalling[142] while NMDA receptors in persons with Parkinson's are known to be altered.[143]
 
