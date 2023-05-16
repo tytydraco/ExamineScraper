@@ -1013,9 +1013,9 @@ Cyclosporin A
 
 A pharmaceutical immunosuppressant called cyclosporin A is known to induce nephrotoxicity, and seems to also be able to deplete magnesium levels.[207][208][209]<a href="#ref-210" id="ref-link-210" class="ref-link popover" data-tooltip="<div><p class="mb-3">Ikari A, et al. <a href="https://www.ncbi.nlm.nih.gov/pubmed/18026717" target="\_blank" rel="noopener noreferrer">Do
 
-wn-regulation of TRPM6-mediated magnesium influx by cyclosporin A</a>.</p>Naunyn Schmiedebergs Arch Pharmacol (2008 Jun)</div>">[210] It may act via inhibiting reuptake in the tubules[211]<a href="#ref-210" id="ref-link-210" class="ref-link popover" data-tooltip="<div><p class="mb-3">Ikari A, et al. <a href="https://www.ncbi.nlm.nih.gov/pubmed/18026717" target="\_blank" rel="noopener noreferrer">Do
+wn-regulation of TRPM6-mediated magnesium influx by cyclosporin A</a></p>Naunyn Schmiedebergs Arch Pharmacol (2008 Jun)</div>">[210] It may act via inhibiting reuptake in the tubules[211]<a href="#ref-210" id="ref-link-210" class="ref-link popover" data-tooltip="<div><p class="mb-3">Ikari A, et al. <a href="https://www.ncbi.nlm.nih.gov/pubmed/18026717" target="\_blank" rel="noopener noreferrer">Do
 
-wn-regulation of TRPM6-mediated magnesium influx by cyclosporin A</a>.</p>Naunyn Schmiedebergs Arch Pharmacol (2008 Jun)</div>">[210] and is usually recommended (by a physician) for magnesium supplementation alongside cyclosporin usage.
+wn-regulation of TRPM6-mediated magnesium influx by cyclosporin A</a></p>Naunyn Schmiedebergs Arch Pharmacol (2008 Jun)</div>">[210] and is usually recommended (by a physician) for magnesium supplementation alongside cyclosporin usage.
 
 17.6
 

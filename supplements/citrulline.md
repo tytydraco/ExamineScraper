@@ -180,8 +180,6 @@ Citrulline can be produced by arginine by one of two mechanism, either directly 
 
 Metabolism
 
-{OLD-IMG-ID:245}
-
 
 Citrulline per se is more of a byproduct of arginine metabolism (nitric oxide cycle) and of ornithine metabolism (urea cycle), and merely gets converted back to arginine via arginosuccinate. That being said, supplemental citrulline also beneficially affects arginine and ornithine concentrations so their bioactivity is also relevant
 

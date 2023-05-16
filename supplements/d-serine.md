@@ -294,13 +294,13 @@ There is another phenomena known as long term depression (LTD; not the opposite 
 D-Serine may play a role in promoting memory formation, and does so secondary to augmenting glutaminergic neurotransmission via the NMDA receptors (as D-serine can activate the glycine binding site)
 
 
-The aging related process, at least as it pertains to the hippocampus, is related to a reduced ability to drive calcium-dependent neuronal plasticity[97][98] which seems to be related to subactive glutaminergic receptor signalling (specifically NMDA[99][100]). Due to the reduced D-serine concentrations in the brain during the aging process[101] (possibly related to reduced expression of serine racemase)[102] and the failure of the previous theory (the age-related decline in NMDA receptor expression[103][104] may not be relevant as reduced NMDA receptor expression does not per se cause cognitive decline,[105]) it is now thought that reduced activity at the glycinergic binding site of the NMDA receptor contributes to age-related decline (by reducing NMDA signalling and thus synaptic plasticity). This is further supported by studies noting that age-related cognitive impairment is preserved with D-serine[106][107] and that NMDA-dependent plasticity is D-serine dependent.[13]reference
+The aging related process, at least as it pertains to the hippocampus, is related to a reduced ability to drive calcium-dependent neuronal plasticity[97][98] which seems to be related to subactive glutaminergic receptor signalling (specifically NMDA[99][100]). Due to the reduced D-serine concentrations in the brain during the aging process[101] (possibly related to reduced expression of serine racemase)[102] and the failure of the previous theory (the age-related decline in NMDA receptor expression[103][104] may not be relevant as reduced NMDA receptor expression does not per se cause cognitive decline,[105]) it is now thought that reduced activity at the glycinergic binding site of the NMDA receptor contributes to age-related decline (by reducing NMDA signalling and thus synaptic plasticity). This is further supported by studies noting that age-related cognitive impairment is preserved with D-serine[106][107] and that NMDA-dependent plasticity is D-serine dependent.[13][54]
 
 
 The aging process causes a reduction in D-serine production (not exactly known why) and the lower levels of D-serine reducing NMDA signalling and thus may contribute to age-related cognitive decline
 
 
-In regards to interventions, a study in otherwise normal mice given 50mg/kg D-serine daily noted that D-serine was able to improve memory formation after a single dose and after multiple doses.[58] The potency of 50mg/kg D-Serine appears to be comparable to 20mg/kg D-Cycloserine[58] which is known to be a cognitive enhancer.[109][110]
+In regards to interventions, a study in otherwise normal mice given 50mg/kg D-serine daily noted that D-serine was able to improve memory formation after a single dose and after multiple doses.[58] The potency of 50mg/kg D-Serine appears to be comparable to 20mg/kg D-Cycloserine[58] which is known to be a cognitive enhancer.[108][109]
 
 D-serine is effective when given 30 minutes after training, suggesting it aids in memory consolidation. It was ineffective when given 6 hours later.[58]
 
@@ -310,7 +310,7 @@ The impairment of MK-801 induced amnesia appears to be attenuated with D-serine.
 It is possible that D-Serine supplementation can enhance memory formation in otherwise healthy rodents, but the studies are currently those using injections and some with quite large dosages (although the 50mg/kg has a human equivalent of 3mg/kg and is quite reasonable)
 
 
-One study using 2.1g D-serine in otherwise healthy adult subjects acutely (two hours prior to cognitive testing) found improved performance in the continous performance test (CPT-IP) for sustained attention and an improvement in immediate word recall; there was an improvement in the digits forward task, but not digits backwards.[111]
+One study using 2.1g D-serine in otherwise healthy adult subjects acutely (two hours prior to cognitive testing) found improved performance in the continous performance test (CPT-IP) for sustained attention and an improvement in immediate word recall; there was an improvement in the digits forward task, but not digits backwards.[110]
 
 
 There may be minor improvements in cognition when otherwise healthy adults subjects are given D-serine supplementation
@@ -330,7 +330,7 @@ There may be some minor anti-depressive effects of D-serine supplementation whic
 
 Alzheimer's and Dementia
 
-NMDA-mediated neurotransmission appears to be perturbed in Alzheimer's disease and is thought to be related to the decline in memory[112][113] and synaptic formation[114] resulting in behavioural deficits.[115] Unlike schizophrenic patients, the signalling in Alzheimer's may be hyperfunctional as Beta-amyloid peptides (β-amyloid) can accumulate both glutamate and D-serine in the synapse[114] and both encourage their release[116][117] while promoting serine racemase expression,[117][118] all of which may contribute to excitotoxicity (excessive glutaminergic signalling resulting in cellular damage).
+NMDA-mediated neurotransmission appears to be perturbed in Alzheimer's disease and is thought to be related to the decline in memory[111][112] and synaptic formation[113] resulting in behavioural deficits.[114] Unlike schizophrenic patients, the signalling in Alzheimer's may be hyperfunctional as Beta-amyloid peptides (β-amyloid) can accumulate both glutamate and D-serine in the synapse[113] and both encourage their release[115][116] while promoting serine racemase expression,[116][117] all of which may contribute to excitotoxicity (excessive glutaminergic signalling resulting in cellular damage).
 
 D-serine concentrations do not appear to be significantly perturbed in persons with Alzheimer's relative to control.[36]
 
@@ -342,19 +342,19 @@ D-serine may be involved in the pathology of Alzheimer's disease secondary to be
 
 Schizophrenia
 
-Symptoms of schizophrenia (particularly negative symptoms) are currently thought to be related to glutaminergic hypofunction (a reduced total signalling capacity via glutamate receptors), and recent pharmacological therapies that aim to restore glutaminergic firing include serine/glycine restoration[119][120] (as despite total elevated serine and glycine being higher in schizophrenics versus control,[121][122] D-serine itself is reduced[123] suggesting problems with serine racemase[124][125]) since impairing glycine binding to NMDA receptors causes negative symptoms of schizophrenia[126] and serine racemase knockout mice (or anything to reduce production of D-serine) have schizophrenic symptoms as well[127][128] yet knocking out D-amino acid oxidase (and preventing degradation of D-serine) is rehabilitative.[129] Finally, clinical remission of schizophrenia is accompanied by an increase in D-serine concentrations independent of supplementation.[130]
+Symptoms of schizophrenia (particularly negative symptoms) are currently thought to be related to glutaminergic hypofunction (a reduced total signalling capacity via glutamate receptors), and recent pharmacological therapies that aim to restore glutaminergic firing include serine/glycine restoration[118][119] (as despite total elevated serine and glycine being higher in schizophrenics versus control,[120][121] D-serine itself is reduced[122] suggesting problems with serine racemase[123][124]) since impairing glycine binding to NMDA receptors causes negative symptoms of schizophrenia[125] and serine racemase knockout mice (or anything to reduce production of D-serine) have schizophrenic symptoms as well[126][127] yet knocking out D-amino acid oxidase (and preventing degradation of D-serine) is rehabilitative.[128] Finally, clinical remission of schizophrenia is accompanied by an increase in D-serine concentrations independent of supplementation.[129]
 
-Other possible therapeutic options include AMPAkines that enhance signalling via AMPA receptors (this includes Piracetam and Aniracetam),[131] and indirectly supporting the aforementioned NMDA signalling via inhibiting glycine uptake into cells and promoting their synaptic effects (seen with sarcosine[132]). Enhancing AMPA signalling will inherently increase glutaminergic signalling and can remove the magnesium block from NMDA receptors[133][134]
+Other possible therapeutic options include AMPAkines that enhance signalling via AMPA receptors (this includes Piracetam and Aniracetam),[130] and indirectly supporting the aforementioned NMDA signalling via inhibiting glycine uptake into cells and promoting their synaptic effects (seen with sarcosine[131]). Enhancing AMPA signalling will inherently increase glutaminergic signalling and can remove the magnesium block from NMDA receptors[132][133]
 
-Negative symptoms of schizophrenia refer to affective flattening and social isolation whereas hallucinations, delusions, and thought disorder are referred to as 'positive' symptoms and the cognitive impairment that is associated with schizophrenia in neither category.[135][136]
+Negative symptoms of schizophrenia refer to affective flattening and social isolation whereas hallucinations, delusions, and thought disorder are referred to as 'positive' symptoms and the cognitive impairment that is associated with schizophrenia in neither category.[134][135]
 
 
 D-Serine administration, via affecting the NMDA glycine binding site and thus positively regulating signalling through NDMA receptors, is thought to be able to reduce symptoms of schizophrenia. This is somewhat supported by the fact that schizophrenia appears to be a D-serine deficiency state (role in cause or effect not established)
 
 
-Limited positive studies tend to note 17-30% improvements in negative symptoms of schizophrenia with 30mg/kg (2.12+/-0.6g overall) D-serine as assessed by the Positive and Negative Syndrome Scale (PNSS)[29] which is a potency similar to 800mg/kg Glycine under similar research conditions.[30] Studies that measure negative symptom progression over time note beneficial effects within 2 weeks of supplementation, which increases in potency over 6 weeks of observation[137][29] and is more apparent with higher doses in the 60-120mg/kg range.[33] When looking specifically at positive symptoms, 30mg/kg (2.12+/-0.6g overall) D-serine has noted significant improvement after 6 weeks although the trend noted at weeks 2 and 4 was not statistically significant.[29] Improvements have been noted with 60-120mg/kg to a higher degree than 30mg/kg, and benefits on both positive and negative symptoms are correlated with serum exposure to D-serine.[33]
+Limited positive studies tend to note 17-30% improvements in negative symptoms of schizophrenia with 30mg/kg (2.12+/-0.6g overall) D-serine as assessed by the Positive and Negative Syndrome Scale (PNSS)[29] which is a potency similar to 800mg/kg Glycine under similar research conditions.[30] Studies that measure negative symptom progression over time note beneficial effects within 2 weeks of supplementation, which increases in potency over 6 weeks of observation[136][29] and is more apparent with higher doses in the 60-120mg/kg range.[33] When looking specifically at positive symptoms, 30mg/kg (2.12+/-0.6g overall) D-serine has noted significant improvement after 6 weeks although the trend noted at weeks 2 and 4 was not statistically significant.[29] Improvements have been noted with 60-120mg/kg to a higher degree than 30mg/kg, and benefits on both positive and negative symptoms are correlated with serum exposure to D-serine.[33]
 
-2,000mg of D-serine daily for 16 weeks in schizophrenics in addition to standard anti-psychotic medication failed to find a significant benefit of supplementation over placebo, although the authors cautioned that the larger than normal placebo response could in part explain the results[138] although D-serine has elsewhere failed to be any significantly different than placebo at the 30mg/kg or 2,000mg dosage.[31][32][139] These studies do note that individuals get benefit albeit not consistenly enough to reach statistical significance, and this paired with the correlation between D-serine in the blood and the benefits to symptoms[33] suggest that the established variance in serum D-serine from oral therapy may underlie the null effects observed.
+2,000mg of D-serine daily for 16 weeks in schizophrenics in addition to standard anti-psychotic medication failed to find a significant benefit of supplementation over placebo, although the authors cautioned that the larger than normal placebo response could in part explain the results[137] although D-serine has elsewhere failed to be any significantly different than placebo at the 30mg/kg or 2,000mg dosage.[31][32][138] These studies do note that individuals get benefit albeit not consistenly enough to reach statistical significance, and this paired with the correlation between D-serine in the blood and the benefits to symptoms[33] suggest that the established variance in serum D-serine from oral therapy may underlie the null effects observed.
 
 
 D-Serine appears to be effective at reducing all symptoms of schizophrenia (mostly negative and cognitive, with less effects on positive) but the standard recommended dose of 30mg/kg seems unreliable. This may be due to a large variability in how much D-serine reaches the blood, and taking higher doses seems to be more reliable based on limited evidence
@@ -364,7 +364,7 @@ D-Serine appears to be effective at reducing all symptoms of schizophrenia (most
 
 Parkinson's Disease
 
-Parkinson's disease seems to have some symptoms (impairments in motivation, drive, and initiation/emotional reactivity[140][141]) that are similar to the negative symptoms in schizophrenia (apathy, flat affect and isolation), and due to the similarities it is thought that D-serine could be useful.[34] Furthermore, dopaminergic neurons in the striatum are involved in NMDA signalling[142] while NMDA receptors in persons with Parkinson's are known to be altered.[143]
+Parkinson's disease seems to have some symptoms (impairments in motivation, drive, and initiation/emotional reactivity[139][140]) that are similar to the negative symptoms in schizophrenia (apathy, flat affect and isolation), and due to the similarities it is thought that D-serine could be useful.[34] Furthermore, dopaminergic neurons in the striatum are involved in NMDA signalling[141] while NMDA receptors in persons with Parkinson's are known to be altered.[142]
 
 Supplementation of D-serine at 30mg/kg for six weeks in a small pilot study with 13 persons with Parkinson's disease (ended up being in the range of 1,600-2,600mg daily) was able to reduce symptoms as assessed by the Unified Parkinson’s Disease Rating Scale, Simpson-Angus scale, and Positive and Negative Syndrome Scale.[34] This study noted that when looking at subjects with a 20% improvement in symptoms, 50-70% of persons in the D-serine group met this criteria while 10-20% in placbo did.[34]
 
@@ -376,9 +376,9 @@ Preliminary evidence suggests that D-serine could be useful for treatment of Par
 
 Stress and Trauma
 
-NMDA receptors appear to be somewhat involved in some symptoms of PTSD including dissociation and perceptual alterations[144] and since ketamine (NMDA antagonist) can also cause these particular symptoms[145] it is thought they are caused by NMDA underfiring, particularly in the hippocampus or amygdala.[35]
+NMDA receptors appear to be somewhat involved in some symptoms of PTSD including dissociation and perceptual alterations[143] and since ketamine (NMDA antagonist) can also cause these particular symptoms[144] it is thought they are caused by NMDA underfiring, particularly in the hippocampus or amygdala.[35]
 
-D-Cycloserine (partial agonist at the glycine binding site of NMDA receptors, whereas D-serine is a full agonist) has previously shown benefit in a pilot study for reducing symptoms of post-traumatic stress disorder (PTSD; numbing, avoidance, and anxiety symptoms mostly)[146] and following that study one using D-serine at 30mg/kg for six weeks noted improvements on anxiety symptoms (HAMA; 95% CI of 13.4–46.7% symptom reduction), depressive (HAMD; 95% CI of 2.0–43.3% symptom reduction) and CAPS score (95% CI of 10.9-31% reduction).[35]
+D-Cycloserine (partial agonist at the glycine binding site of NMDA receptors, whereas D-serine is a full agonist) has previously shown benefit in a pilot study for reducing symptoms of post-traumatic stress disorder (PTSD; numbing, avoidance, and anxiety symptoms mostly)[145] and following that study one using D-serine at 30mg/kg for six weeks noted improvements on anxiety symptoms (HAMA; 95% CI of 13.4–46.7% symptom reduction), depressive (HAMD; 95% CI of 2.0–43.3% symptom reduction) and CAPS score (95% CI of 10.9-31% reduction).[35]
 
 
 Preliminary evidence suggests benefit in treating symptoms of Post Traumatic Stress Disorder (PTSD), although the observed benefits seem fairly unreliable
@@ -388,7 +388,7 @@ Preliminary evidence suggests benefit in treating symptoms of Post Traumatic Str
 
 Amyotrophic lateral sclerosis
 
-Amyotrophic lateral sclerosis (ALS) in mice (mSOD1 strain) is associated with 50-100% elevation in D-serine concentrations of spinal fluid[147][148] which can predict how susceptible neurons from ALS are to NMDA-mediated excitotoxic damage.[147] Although this suggests that elevated D-serine contributes to ALS pathology, it has also been noted that hindering the serine racemase enzyme accelerates disease onset (described as paradoxical) but slowed disease progression[148] which was mimicked by D-serine supplementation in the chow.[148][149]
+Amyotrophic lateral sclerosis (ALS) in mice (mSOD1 strain) is associated with 50-100% elevation in D-serine concentrations of spinal fluid[146][147] which can predict how susceptible neurons from ALS are to NMDA-mediated excitotoxic damage.[146] Although this suggests that elevated D-serine contributes to ALS pathology, it has also been noted that hindering the serine racemase enzyme accelerates disease onset (described as paradoxical) but slowed disease progression[147] which was mimicked by D-serine supplementation in the chow.[147][148]
 
 
 D-Serine has unclear influences on the pathology and onset of ALS
@@ -398,11 +398,11 @@ D-Serine has unclear influences on the pathology and onset of ALS
 
 Addiction
 
-Cocaine addiction is known to result in alterations to glutamatergic synaptic plasticity which precedes addictive behaviour[150][151] which are thought to be related to NMDA receptors (both long term potentiation (LTP) and long term depression (LTD) are implicated).[152][153][154]
+Cocaine addiction is known to result in alterations to glutamatergic synaptic plasticity which precedes addictive behaviour[149][150] which are thought to be related to NMDA receptors (both long term potentiation (LTP) and long term depression (LTD) are implicated).[151][152][153]
 
-D-Serine has been noted to be reduced in the nuclear accumbens core (where it is the coagonist of synaptic receptors) of rats undergoing cocaine withdrawal,[155] which is thought to contribute to NMDA hypoactivity and relapse as incubation with their neuronal slices with D-serine normalizes the cocaine-induced changes in LTP and LTD.[155] This was confirmed when 10-100mg/kg of D-serine oral ingestion (or 100mg/kg injections) to cocaine dependent rats reduced their drug-seeking behaviour.[156][157][158]
+D-Serine has been noted to be reduced in the nuclear accumbens core (where it is the coagonist of synaptic receptors) of rats undergoing cocaine withdrawal,[154] which is thought to contribute to NMDA hypoactivity and relapse as incubation with their neuronal slices with D-serine normalizes the cocaine-induced changes in LTP and LTD.[154] This was confirmed when 10-100mg/kg of D-serine oral ingestion (or 100mg/kg injections) to cocaine dependent rats reduced their drug-seeking behaviour.[155][156][157]
 
-The study to assess how D-serine affects sucrose preference failed to find a significant benefit of supplementation.[156]
+The study to assess how D-serine affects sucrose preference failed to find a significant benefit of supplementation.[155]
 
 
 Cocaine addiction is associated with alterations in synaptic plasticity from alterations in NMDA function, and D-serine has been noted to be reduced in rats undergoing cocaine withdrawal. Preliminary evidence suggests that D-serine has anti-addictive properties
@@ -416,7 +416,7 @@ Safety and Toxicity
 
 General
 
-Human studies that tend to use 30mg/kg of D-serine (around 2,000mg total) daily for periods of up to six weeks do not tend to notice any side-effects[138][29][33][35][34] with one preliminary study using 120mg/kg (around 8,000mg) also failing to find significant side-effects relative to control.[33]
+Human studies that tend to use 30mg/kg of D-serine (around 2,000mg total) daily for periods of up to six weeks do not tend to notice any side-effects[137][29][33][35][34] with one preliminary study using 120mg/kg (around 8,000mg) also failing to find significant side-effects relative to control.[33]
 
 
 The standard supplemental dosages of D-serine do not note any significant side-effects associated with treatment in the standard dosage range

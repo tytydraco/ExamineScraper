@@ -134,7 +134,7 @@ CBD popularity exploded in the 2000s, especially after parents started experimen
 
 The cannabinoids in cannabis have been studied since the 1940s,[28], with the structures of THC and CBD discovered in the 1960s. Research really heated up in the 1990s, as cannabinoid receptors in the body were found,[29], and were later found to also be activated by endogenous compounds (which we make in our own bodies) in 1992.[30]
 
-CBD products that maintain a low-to-zero percentage of THC (below 0.3%) are currently in legal gray area in the US, with legality bolstered after the Farm Act was passed in December of 2018, yet the FDA still technically requiring marketed supplements to be approved by the FDA first.reference The FDA sent warning letters in April of 2019 to three companies who they deemed to be making egregious health claims, including:reference
+CBD products that maintain a low-to-zero percentage of THC (below 0.3%) are currently in legal gray area in the US, with legality bolstered after the Farm Act was passed in December of 2018, yet the FDA still technically requiring marketed supplements to be approved by the FDA first.[31] The FDA sent warning letters in April of 2019 to three companies who they deemed to be making egregious health claims, including:[32]
 
 “CBD successfully stopped cancer cells in multiple different cervical cancer varieties.”“CBD also decreased human glioma cell growth and invasion, thus suggesting a possible role of CBD as an antitumor agent.”“For Alzheimer’s patients, CBD is one treatment option that is slowing the progression of that disease.”“Fibromyalgia is conceived as a central sensitization state with secondary hyperalgesia. CBD has demonstrated the ability to block spinal, peripheral and gastrointestinal mechanisms responsible for the pain associated with migraines, fibromyalgia, IBS and other related disorders.”“Cannabidiol May be Effective for Treating Substance Use Disorders.”“CBD reduced the rewarding effects of morphine and reduced drug seeking of heroin.”“CBD may be used to avoid or reduce withdrawal symptoms.”Presumably, this is because evidence is scant right now for most conditions outside of severe epilepsy, and since these statements don't include that disclaimer, patients could presume that the evidence level is stronger than it actually is. Thus the FDA states "we won’t tolerate this kind of deceptive marketing to vulnerable patients". The interaction between FDA regulation of food, drugs, and supplements (all of which may apply to cannabis), along with different regulations around cannabis in different states, makes legal issues regarding CBD and other cannabinoid products complex.[20]
 
@@ -190,7 +190,7 @@ Pharmacokinetics
 
 Delivery
 
-CBD taken by an oral route (specifically the liquid medication Epidiolex) takes between 2.5 and 5 hours to reach maximal concentration in the blood. The half life is between 56-61 hours.reference In both humans and rats, being in a fed state appears to increase plasma levels of CBD.[49][50]
+CBD taken by an oral route (specifically the liquid medication Epidiolex) takes between 2.5 and 5 hours to reach maximal concentration in the blood. The half life is between 56-61 hours.[48] In both humans and rats, being in a fed state appears to increase plasma levels of CBD.[49][50]
 
 CBD pharmacokinetics can vary fairly widely among different people,[51] which may be compounded by batch-to-batch variation and labeling inaccuracies in certain CBD products.
 
@@ -212,7 +212,7 @@ Neurology
 
 ALS
 
-A case study reported that a daily dose of 2x300 mg of CBD was associated with improvement of dysphagia from ALS. While eighteen months after onset, dysphagia progress and speech was almost competely lose, limb weakness, fasciculation, and atrophy worsened relatively less. The authors theorize that progression of some but not all symptoms of motor neuron disease may be able to be slowed using CBD.reference
+A case study reported that a daily dose of 2x300 mg of CBD was associated with improvement of dysphagia from ALS. While eighteen months after onset, dysphagia progress and speech was almost competely lose, limb weakness, fasciculation, and atrophy worsened relatively less. The authors theorize that progression of some but not all symptoms of motor neuron disease may be able to be slowed using CBD.[53]
 
 5.2
 
