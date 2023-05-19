@@ -303,17 +303,13 @@ The Protopanaxadiol class, which has a dammarane backbone and includes Ginsenosi
 All 'Ginsenosides' are just one of four molecules that have varying sugar attachments to the molecule, slightly altering their shape. Despite there being over 100 Ginsenosides in Panax Ginseng, they can be narrowed down to one of four classes based on the molecule the sugars are modifying
 
 
-{OLD-IMG-ID:99}
-
 1.4
 
 Composition
 
 Panax Ginseng contains a variety of active components called 'Ginsenosides', which are steroid-like saponins that are unique to the Ginseng species (in regards to the chemical structure; not anabolic properties); well over 100 Ginsenosides exist,[5] and the following list contains the major ones:
 
-Ginsenoside Ro at 20.1+/-0.4 (rhizome) and 2.2+/-0.4 (root) in mg/g ethanolic extractGinsenoside Rb(1) 14.6+/-0.2 (rhizome) and 4.8+/-0.1 (root) in mg/g ethanolic extractGinsenoside Rb(2) 5.5+/-0.1 (rhizome) and 2.0+/-0.4 (root) in mg/g ethanolic extractGinsenoside Rc 7.1+/-0.5 (rhizome) and 2.6+/-0.2 (root) in mg/g ethanolic extractGinsenoside Rd 2.5+/-0.2 (rhizome) and 0.2+/-0.2 (root) in mg/g ethanolic extractGinsenoside Re 10.8+/-0.2 (rhizome) and 2.6+/-0.3 (root) in mg/g ethanolic extractGinsenoside Rf 1.9+/-0.1 (rhizome) and 1.3+/-0.1 (root) in mg/g ethanolic extractGinsenoside Rg(1) 7.1+/-0.5 (rhizome) and 2.6+/-0.2 (root) in mg/g ethanolic extract{OLD-IMG-ID:97}
-
-Other compounds that are found in Ginseng that are non-caloric (phytochemicals) and not under the umbrella term of Ginsenoside include:
+Ginsenoside Ro at 20.1+/-0.4 (rhizome) and 2.2+/-0.4 (root) in mg/g ethanolic extractGinsenoside Rb(1) 14.6+/-0.2 (rhizome) and 4.8+/-0.1 (root) in mg/g ethanolic extractGinsenoside Rb(2) 5.5+/-0.1 (rhizome) and 2.0+/-0.4 (root) in mg/g ethanolic extractGinsenoside Rc 7.1+/-0.5 (rhizome) and 2.6+/-0.2 (root) in mg/g ethanolic extractGinsenoside Rd 2.5+/-0.2 (rhizome) and 0.2+/-0.2 (root) in mg/g ethanolic extractGinsenoside Re 10.8+/-0.2 (rhizome) and 2.6+/-0.3 (root) in mg/g ethanolic extractGinsenoside Rf 1.9+/-0.1 (rhizome) and 1.3+/-0.1 (root) in mg/g ethanolic extractGinsenoside Rg(1) 7.1+/-0.5 (rhizome) and 2.6+/-0.2 (root) in mg/g ethanolic extractOther compounds that are found in Ginseng that are non-caloric (phytochemicals) and not under the umbrella term of Ginsenoside include:
 
 Polyynes (compounds with alternating single and triple bonds) including falcarinol, falcarintriol, acetic acid and linolenic acid[4]Some MicroRNAs[13]With caloric components (included in the root itself, and may be processed out of a capsule constaining Panax Ginseng as they contain calories) such as proteins and carbohydrates include:
 

@@ -336,8 +336,6 @@ Structure
 
 There are five 'catechins' in Green Tea. The parent compound is found in two isomers (catechin is the trans isomer, and epicatechin the cis isomer), and epicatechin also exists with a hydroxylation as epigallocatechin. Both epicatechin and epigallocatechin can become acylated with Gallic Acid to form gallates. For the purpose of this article, all five will be referred to as 'Green Tea Catechins'.
 
-{OLD-IMG-ID:18}
-
 The two molecules that have gallic acid moeties hanging off the bottom right hand side of the above picture (EGCG and ECG) share properties that are not seen with the other two (EGC, EC, and C); this is because the gallic acid moiety itself may contribute to structure-function.
 
 1.3

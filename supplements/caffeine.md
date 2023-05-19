@@ -370,8 +370,6 @@ If it loses a methyl group, it can be converted into similar metabolites like pa
 
 Most of the metabolism of caffeine goes towards paraxanthine, via the CYP1A1/2 enzyme. Direct conversions to theobromine and theophylline are possible but less prevalent.
 
-{OLD-IMG-ID:51}
-
 Caffeine is a bitter compound, and is sometimes used in sensory research as a standard for bitter. Its perception of bitter may be in part genetically influenced, as assessed by on 0.3 heritability (1 being fully heritable) in some studies.[12]
 
 1.3

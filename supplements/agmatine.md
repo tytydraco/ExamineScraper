@@ -252,8 +252,6 @@ Agmatine is a biogenic amine with one or two positive charges, which prevents it
 
 Due to its lipophilicity and high level of hydrogen bonds, it is hypothesized to be poorly absorbed.[25]
 
-{OLD-IMG-ID:246}
-
 1.3
 
 Biosythesis

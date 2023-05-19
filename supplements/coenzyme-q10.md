@@ -282,8 +282,6 @@ Structure and Properties
 
 Coenzyme Q10 belongs to a class of molecules characterized by their benzoquinone ring structure at the end of an isoprenoid side chain, similar to a medieval flail. The length of the sidechain determines the designation of the coenzyme, with CoQ10 possessing ten isoprenoid units in its tail.[23]
 
-{OLD-IMG-ID:223}
-
 In its reduced form (ubiquinol) it can sequester some free radicals directly (an antioxidant effect) via conversion to its oxidized form (ubiquinone); a mechanism that is used to donate electrons through the electron transport chain to make ATP. Despite being in an oxidized form, ubiquinone still appears to be an antioxidant.[24]
 
 1.3

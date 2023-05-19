@@ -322,8 +322,6 @@ Structure and Properties
 
 The structures for the primary six Boswellic Acids are pictured below. The molecular weights are 456.71 (α and β-Boswellic Acids), 498.75 (Acetylated forms), 470.70 for 11-keto-β-boswellic acid (KBA) and 512.74 for 3-O-acetyl-11-keto-β-boswellic acid (AKBA).[7] Many of these Boswellic Acids, especially AKBA, are hydrophobic (fat-soluble) in nature, as is the other non-Boswellic acid compound known as Incensole Acetate.[21]
 
-{OLD-IMG-ID:150}
-
 1.4
 
 5-Loxin and Aflapin

@@ -300,8 +300,6 @@ Periostracum cicadae (Chantui) at 3.7mcg/g[14]Babreum coscluea (Shiya Tea-Leaf),
 Melatonin is produced naturally in the body, and is also a functional food component, similar to its amino acid precursor L-tryptophan, and some intermediate metabolites like serotonin, which is found in some foods.
 
 
-{OLD-IMG-ID:105}
-
 1.2
 
 Biological Significance

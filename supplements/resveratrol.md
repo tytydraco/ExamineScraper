@@ -314,8 +314,6 @@ Structure
 
 Resveratrol can exist in one of two isomers: trans-resveratrol and cis-resveratrol. The configuration greatly changes the structure:
 
-{OLD-IMG-ID:48}
-
 Trans-resveratrol is commonly seen as the active form of resveratrol. As the simple change results in a largely different molecule, many actions seen from trans-resveratrol are not seen with cis-resveratrol. These actions include modulation of the inflammation response,[29] and a more potent anti-proliferative effect on cancer cells.[30]
 
 It should be noted that the cis isomer is still bioactive, but most research is focused on trans-resveratrol. Cis-resveratrol is still an anti-oxidant[31] and can interact with genetic transcription.[32]
