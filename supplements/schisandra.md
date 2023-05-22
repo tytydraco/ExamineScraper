@@ -616,6 +616,8 @@ Shisandra was demonstrated, in vitro, to not influence the androgen receptor in 
 
 Peripheral Organ Systems
 
+The four organs that Schisandra Chinensis fruit is said to target specifically are the Heart, Kidneys, Lungs, and mostly the liver. It has been demonstrated, in rats, to bioaccumulate in all these tissues.[43]
+
 11.1
 
 Kidneys

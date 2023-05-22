@@ -232,6 +232,10 @@ Interventions in animals following oral administration of Sphaeranthus Indicus a
 
 Interactions with Cancer Metabolism
 
+
+Note on this section, currently the study establishing most apoptosis of cancer cells (seemingly potent) failed to establish what dose is required to kill healthy cells and did not use a control; take the info with a grain of salt
+
+
 7.1
 
 Lung

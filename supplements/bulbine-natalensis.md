@@ -74,6 +74,8 @@ General
 
 Sources and Composition
 
+Bulbine natalensis Baker is a plant from the family of Asphodelaceae that has been reported to possess aphrodisiac properties. The leaf sap is also used for topical purposes such as cracked lips and burns while the aqueous extract of the leaves is used for intestinal issues (diarhhea, vomiting, convulsions) and has been reported to be used for anti-diabetic and anti-rheumatoid purposes. It has been used by various cultures around where it grows (Northern and Eastern sections of Africa) and is called ingcelwane in Xhosa, rooiwortel in Afrikaans, and ibhucu in Zulu.[1][2]
+
 1.1
 
 Composition

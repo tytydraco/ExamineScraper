@@ -34,6 +34,10 @@ Safety and Toxicity
 
 Sources and Usage
 
+Bryonia Lacinosa (Diplocyclos Palmatus) is a herb used in Ayurvetic Medicine traditionally as a sexuality enhancer and is sometimes recommended to preserve youth during aging (perhaps as a testament to its aphrodisiac effects); the seeds of Bryonia Lacinosa are known as 'Shivlingi' due to their resemblence to Shivlings.[1] It is also used traditionally as an anti-inflammatory and tonic, and as an acrid due to its foul taste.
+
+The plant family it belongs to is Cucurbitaceae[1] and the Bryonia family has four plants in it, also including Bryonia Alba (reported anti-tumor properties) and Bryonia Diocia (Brony Root, a diuretic).[2]
+
 1.1
 
 Components

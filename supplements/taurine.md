@@ -336,6 +336,12 @@ One study on type I diabetic smokers with higher rates of endothelial dysfunctio
 
 Interactions with Glucose Metabolism
 
+Many of the in vivo studies to follow were conducted in experimental procedures of fructose-induced insulin resistance.
+
+Taurine may hold promise in treating insulin resistance by modifying the post-receptor (intracellular) effects of insulin signalling[95] as well as regenerating intrinsic antioxidants, reducing lipid peroxidation, and ameliorating insulin resistance in fructose-induced insulin resistance.[90] Taurine can also control glucose levels to a degree via improved acute insulin action.[96]
+
+This anti-diabetic effect may be (in part) specific to fructose-induced insulin resistance (both hepatic and peripheral) due to the interactions with post-receptor intermediates (and subsequent receptor transcription) rather than receptor desensitization; as has been shown in fructose feedings.[97]
+
 5.1
 
 Diabetes

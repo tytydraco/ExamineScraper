@@ -126,6 +126,8 @@ Rosmarinic acid contributes to endothelial (blood vessel) and blood cell health.
 
 Inflammation and Immunology
 
+Rosmarinic acid is being investigated for its interactions with inflammation and immunology due to it being an ingredient of Perilla Oil, and the plant the oil is derived from (Perilla frutescens Britton) being a component of the Kampo (Traditional Japanese) medicine known as Saiboku-To which is demonstrated effective against allergies.[22][23][24]
+
 4.1
 
 Mechanisms

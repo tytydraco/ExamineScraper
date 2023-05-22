@@ -244,6 +244,8 @@ Of these isomers two are more heavily researched and reported to have significan
 
 Isomers of CLA
 
+As CLA is a mixture of isomers, each isomer could have different effects; for the purpose of this section, it will be divided into the c9t11 (cis-9, trans-11) and t10c12 (trans-10, cis-12) isomers, and then consideration given to all others collectively. Each Isomer can be considered as having its own mechanisms but to a unique structure.
+
 2.1
 
 c,9-t,11

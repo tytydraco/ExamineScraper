@@ -54,6 +54,10 @@ Safety and Toxicity
 
 Sources and Composition
 
+Dendrobium species of plants are apparently highly prized medicinal medicines, in regards to being a 'stomach tonic' and the candidum species is known for aiding body fluid excretion (saliva, tears).[1] There are around 200 species of Dendrobium,[2] although only a few have been used medicinally.
+
+Dendrobium moniliforme is referred to as Shi-Hu in Traditional Chinese Medicine,[3] and Dendrobium Nobile is referred to as Seokgok in Korean Medicine.[4]
+
 1.1
 
 Composition

@@ -280,6 +280,14 @@ The increase in muscle carnosine due to beta-alanine supplementation appears to 
 
 Longevity and Aging
 
+Carnosine, the product that beta-alanine forms to buffer H+ ions, appears to exert rudimentary anti-aging properties. It has been hypothesized to act like resveratrol, due to their respective mechanisms being linked to exercise.[13] Currently, most known mechanisms of carnosine are related to protein metabolism.
+
+A decline in muscle carnosine of up to 45% has been noted during the aging process of senescence-accelerated mice (SAMP8).[27]
+
+
+Carnosine depletion appears to be associated with aging. Increasing carnosine stores may attenuate the aging process.
+
+
 3.1
 
 Mechanisms

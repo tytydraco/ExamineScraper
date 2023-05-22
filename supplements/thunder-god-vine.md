@@ -305,6 +305,10 @@ Apoptosis appears to be mediated in Melanoma cells in the concentration range of
 
 Safety and Toxicity
 
+
+An inherent problem with using Thunder God Vine for any supplemental purpose is that the bioactive components that exert benefit are the same compounds with potential toxicity, making 'safe' extractions of this supplement also ineffective.
+
+
 7.1
 
 Triptolide

@@ -278,6 +278,8 @@ P-Glycoprotein inhibitors may increase the bioavailability of Icariin
 
 Safety and Toxicity
 
+No designated toxicology studies have been conducted on Icariin, although the highest dosage used in rats currently is 200mg/kg bodyweight Icariin for 7 days which showed no signs of clinical toxicity.
+
 8.1
 
 Case studies

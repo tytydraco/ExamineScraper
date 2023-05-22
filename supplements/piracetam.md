@@ -493,6 +493,8 @@ May increase apparent bioavailability when measured in serum due to enzyme inhib
 
 Comparative Studies
 
+Due to Piracetam being the atypical memory enhancing standard, it is sometimes used as an active control for other compounds to assess memory enhancing effects of those other compounds; this section compiles those studies.
+
 9.1
 
 Asparagus Racemosus

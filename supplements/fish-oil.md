@@ -460,6 +460,10 @@ True omega-3 deficiencies (which are related to DHA deficiency) can only be indu
 
 Eicosanoids (How Fish Oil Works)
 
+
+The term 'eicosanoid' refers to any molecule derived from lipids, as long as it is over 20 carbons in length and serves as a signalling molecule. All of the following sections (resolvins, protectins, and prostaglandins) are subcategories of eicosanoids.
+
+
 2.1
 
 Bioactivation of Eicosanoids
@@ -896,6 +900,13 @@ The mechanistic basis for the improved endothelium-triggered relaxation with n -
 
 Interactions with Glucose Metabolism
 
+
+Note: For a complete overview on how fish oil supplementation interacts with glucose metabolism, see the pancreas and liver sections under "Interactions with Organ Systems."
+
+
+Diabetic nephropathy and retinopathy analysis can be found in the organ systems section as well, although diabetic neuropathy is under Neurology.
+
+
 7.1
 
 Blood Sugar and Glycemic Control
@@ -1288,6 +1299,10 @@ Preliminary evidence suggests that fish oil can augment the natural killer cell 
 
 Pregnancy and Lactation
 
+
+Note: Any intervention for increasing fish oil consumption during pregnancy must be met with an accompanying avoidance of mercury, as infants appear to be at high risk for cognitive impairment from excessive mercury consumption (relative to adults). Advice on avoiding mercury can be found in the first section of this article.
+
+
 13.1
 
 Fertility
@@ -1674,6 +1689,10 @@ Fish oil supplementation appears to be synergistic with statin drugs, in terms o
 19.
 
 Safety and Toxicology
+
+
+For the possible safety implications of lipid peroxidation from polyunsaturated fatty acids, please refer to the lipid peroxidation subsection of 'Interactions with Oxidation'.
+
 
 19.1
 

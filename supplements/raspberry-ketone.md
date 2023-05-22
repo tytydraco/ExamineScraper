@@ -186,6 +186,8 @@ Raspberry ketone has also been linked to increased skin elasticity when administ
 
 As Raspberry leaf tea
 
+Raspberry leaf tea is a herbal medicine traditionally recommended to pregnant women, and contains various compounds such as 'gallo- and ellagitannins, flavonoids, vitamin C, various alcohols, aldehydes, ketones, organic acids, terpenoids, carbohydrates, and glycosides'.[19] The ketones this list refers to are the raspberry ketones, most notably 4-(4-hydroxyphenyl)butan-2-one.
+
 7.1
 
 Interactions with pregnancy

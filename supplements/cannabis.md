@@ -656,6 +656,8 @@ All tested cannabinoids are acute inhibitors of the CYP3A isoforms of P450 when 
 
 Variants And Formulations
 
+Whole leaf cannabis smoking and oral consumption are the two most common ways to take cannabis and were discussed in the preceding section. The following are common or increasingly common variants.
+
 3.1
 
 Vaporizing

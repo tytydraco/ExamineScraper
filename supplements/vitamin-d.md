@@ -524,6 +524,10 @@ Vitamin D3 appears to be a more reliable form of supplemental vitamin D, relativ
 
 Lifespan and Extension
 
+
+Mortality in research tends to refer to death rates from all causes, and its association is established through survey and epidemiological research, since death is infrequent. Causation is almost never established in these instances. Vitality is a general, and mostly colloquial, term used to refer to physical capacity and well being, and is independent of the actual lifespan. Longevity is sometimes seen as a combination of avoiding mortality while promoting vitality.
+
+
 3.1
 
 Mortality

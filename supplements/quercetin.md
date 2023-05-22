@@ -364,6 +364,13 @@ The biochemistry seems to be in line with an estrogen modulator; having the abil
 
 Quercetin Glycosides and Derivatives
 
+
+A glycoside is a term used to refer to a molecule connected to sugar molecules. Glycosides tend to exist in plants as a storage form, and upon human consumption they can either be hydrolyzed into the molecule and sugars (two separate things to make note of) or remain bound together. For example, Cyanidin is a molecule while Cyanidin-3-O-Glucoside is a glycoside thereof that has some unique properties and can be detected in the blood after oral ingestion
+
+
+Glycoside is a term that does not discriminate the sugar in concern, whereas the term glucoside may be used to refer to the same thing if the sugar is glucose; looking at the following list, Isoquercetin is both a glycoside (bound to sugar) and a glucoside (the sugar is glucose) but Rutin is only a glycoside and not a glucoside. The molecule with no sugars attached can be referred to an aglycone (without sugar) or aglucone (without glucose)
+
+
 8.1
 
 Quercetin-3-O-Rutinoside (Rutin)

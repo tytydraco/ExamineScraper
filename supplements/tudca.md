@@ -160,6 +160,8 @@ Orally administered TUDCA is able to reach neuronal tissue in rats.[6]
 
 Interactions with the Endoplasmic Reticulum
 
+The endoplasmic reticulum (ER) is an organelle in cells that extends from the nucleus and forms an interconnected network of pathways in the cell. The ER has a role in folding protein structures, and oxidative stress can cause the ER to misfold or unfold proteins in a response called the 'Unfolding Protein Response' (UPR); which is an adaptive self-protective response in cells, either reversing the stressor or (if it fails to do so) signalling cell death.[7] TUDCA is seen as an ER stress response attenuator, and is able to block cell death induced by the adaptive UPR and preserve cell function.[2][8][9]
+
 3.1
 
 ER stress and Ischemia/Reperfusion
@@ -169,6 +171,8 @@ Via reducing the unfolding protein response, TUDCA has been shown to reduce dama
 4.
 
 Interactions with the Liver
+
+Endoplasmic Reticulum (ER) stress appears to be a significant regulator in liver cells (hepatocytes) of inflammation and injury[12] and in part insulin signalling.[15] Tauroursodeoxycholic Acid (TUDCA), as a suppressor of protein unfolding and ER stress, may confer a therapeutic and rehabilitative role.
 
 4.1
 

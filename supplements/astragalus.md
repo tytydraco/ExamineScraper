@@ -581,6 +581,8 @@ In myotubes that are not insulin resistant, Astragalus can prevent glucose toxic
 
 Inflammation and Immunology
 
+Astragalus is commonly known for its immunomodulatory interactions, and has demonstrated interactions with the in vivo immune system.[96]
+
 9.1
 
 Macrophages

@@ -142,6 +142,8 @@ Case Studies
 
 Sources and Structure
 
+S-Adenosyl Methione (SAMe) is a methyl-group donor in the biosynthesis of hormones, neurotransmitters, nucleic acids, proteins, and phospholipids.[1] SAMe is sometimes also referred to as Ademethionine.
+
 1.1
 
 Endogenous Regulation

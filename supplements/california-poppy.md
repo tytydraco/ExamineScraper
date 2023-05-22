@@ -62,6 +62,8 @@ Cannabinoids
 
 Sources and Composition
 
+California Poppy is a herb with the taxonomical designation of eschscholzia californica (genus and species, respectively) and is within the family of Papaveraceae.[1] The Californian Poppy is deemed an invasive species in Chile[2] similar to how Japanese Knotweed is also deemened an invasive species but in North America normally grows (and not deemed invasive) throughout California, usually below 5000 feet, and in parts of Oregon and Washington as well as the Mojave Desert where it has the densest population.[3]
+
 1.1
 
 Composition

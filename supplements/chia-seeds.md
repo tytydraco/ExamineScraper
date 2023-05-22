@@ -82,6 +82,8 @@ Mechanisms
 
 Sources and Summary
 
+Chia seed (Salvia hispanica L of the family Lamiaceae) is an oilseed native to southern Mexico and northern Guatemala,[1] and a dietary supplement that is used for its dietary fiber component, and has traditional usage as a food product (roasted seeds being referred to as chiapinolli in Columbia[2] where it was consumed for energy[3][4]). Chia appears to be classified as a grain product,[5] and due to its physical properties it is sometimes used as an egg/oil substitute in bakery products.[6]
+
 1.1
 
 Composition

@@ -294,6 +294,8 @@ Hippuric Acid at 22.4-23.1mg/kg in Rennet Whey (0.0023%)[27]Orotic Acid at 74-75
 
 Whey as a Vitamin-Like Vessel
 
+Similar to L-Carnitine and Creatine, L-Cysteine may be a molecule that is subject to a non-legitimate deficiency state that affects certain populations and impairs metabolic function; either secondary to a reduction in Glutathione or Hydrogen Sulfide. 
+
 2.1
 
 L-Cysteine and Glutathione
@@ -727,6 +729,10 @@ A 2-year study conducted in Post-menopausal women consuming Whey (30g whey prote
 15.
 
 Comparison to Other Protein Sources
+
+A fair amount of benefits associated with Whey Protein are more associated with the protein aspect of it rather than the Whey aspect. The most potent methods to stimulate muscle protein synthesis are either feeding or resistance exercise[209] of which the latter is defined by increases in circulating amino acids[210][211] and more specifically the amino acid leucine, of which can increase muscle protein synthesis independent of other amino acids.[212]
+
+Leucine and amino acids in general hold benefit to muscle protein synthesis, but there may be some aspects of Whey Protein that set it apart from other sources; this section serves to delineate protein sources.
 
 15.1
 

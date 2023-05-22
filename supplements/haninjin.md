@@ -70,6 +70,8 @@ Oral
 
 Sources and Composition
 
+Artemisia Iwayomogi (of the family Asteraceae) is a herb from the Korean region (where it is referred to as Haninjin[1]) that, although it does not appear to have a history of medicinal use beyond liver health, has got recent attention for anti-cancer properties. Other species of Artemisia appear to be used as well, with the species Capillaris being referred to as Injinho and the two species of princeps and argyi both being referred to as Aeyup.[2][1][3]
+
 1.1
 
 Composition

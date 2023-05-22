@@ -130,6 +130,8 @@ Boron Acute Toxicity
 
 Sources and Structure
 
+Boron is a dietary mineral that, although it has a daily intake, has not been accepted as an essential vitamin or mineral. It currently does not have a known minimum requirement.
+
 1.1
 
 Sources

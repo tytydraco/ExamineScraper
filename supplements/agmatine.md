@@ -382,6 +382,14 @@ Agmatine can increase brain agmatine concentrations at high doses, and can cross
 
 Neurology
 
+Agmatine is currently considered to be a relatively new neurotransmitter, since it has its metabolism (both creation[78] and destruction[79]) regulated in neurons and is stored presynaptically in these neurons;[39][80] following transport to nerve terminals,[81][82][80][83] agmatine is released upon depolarization of the neuron, which is mandatory for neurotransmitters.[80][83] Agmatine can also be taken up by and stored in astrocytes.[84]
+
+Agmatine is also sometimes referred to as a neuromodulator. This is likely related to the observations that agmatine can positively modulate signalling through the NMDA receptor (via putrescine[85]), α2 adrenergic receptors,[86] and serotonergic receptors (5-HT1A/1B)[87] at low concentrations, while inhibiting binding at the polyamine binding site[88] (that putrescine acts via binding to[89]), competitively inhibiting the α2 adrenergic receptors,[86] and being antagonistic with 5-HT1A/1B signalling[90] at higher concentrations.
+
+
+Agmatine is a novel neurotransmitter substance, and due to this has a large amount of mechanisms and interactions with other neurotransmitter systems. It is sometimes referred to as a neuromodulator as well, due to some of its mechanisms being bidirectional depending on contexxt
+
+
 3.1
 
 Imidazoline Neurotransmission
@@ -837,6 +845,10 @@ Agmatine may be useful in normalizing age-related behavioural deficits
 5.
 
 Cardiovascular Health
+
+
+Agmatine appears to also modulate cardiovascular health in both directions, which is mostly due to interactions with nitric oxide. For the following sections, the positive regulation refers to increasing nitric oxide activity (and vasodilation) while the negative regulation refers to inhibitory effects on nitric oxide activity or vasoconstriction
+
 
 5.1
 

@@ -273,6 +273,10 @@ As assessed by funnel plots in meta-analyses, there appears to be insufficient e
 
 Pharmacology
 
+
+Some absorption and pharmacokinetic data has been covered in the previous section in comparing different forms of Glucosamine supplementation, the absorption data covered here assumes the glucosamine molecule per se (after it is hydrolyzed from HCl or sulfate)
+
+
 3.1
 
 Absorption
@@ -572,6 +576,10 @@ There appears to be evidence to support the notion that Glucosamine supplementat
 8.
 
 Comparative Studies
+
+
+Due to the populatiry of Glucosamine and joint pain/health, it is sometimes used as a reference compound in some interventions (ie. a 'treatment' group, a placebo group, and a group with a reference drug to see if treatment is better than the current recommendation or not)
+
 
 8.1
 

@@ -911,6 +911,8 @@ Cisplatin-induced nephrotoxicity tends to deplete Magnesium levels in the kidney
 
 Forms of Magnesium Supplementation
 
+Magnesium in found in pills bound to other molecules, typically salts, known as chelations. This is to stabilize the magnesium when in the pill and prevent cross-reaction with other minerals.
+
 16.1
 
 Oxalate/Oxide

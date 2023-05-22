@@ -62,6 +62,8 @@ Interactions with Sexuality
 
 Sources and Composition
 
+Sulbutiamine is a molecule which is two Thiamine (B1) molecules bound together, similar to how Pyritinol is two Pyridoxine (B6) molecules bound together. Sulbutiamine is known as isobutyryl thiamine disulfide and sometimes referred to by its Brand Names of Ereon or Arcalion; it is most commonly used for Asthenia, or weakness (part neurological and part myopathic) as well as treatment of somatic and psychic inhibition.[1] It is said to not possess psychostimulant properties, although it is designed to act centrally (in the brain).[1]
+
 1.1
 
 Structure

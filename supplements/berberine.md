@@ -892,6 +892,10 @@ Not too much evidence in humans, but some studies confirm weight loss with one s
 
 Interactions with Glucose Metabolism
 
+
+Note: For a comprehensive review of how Berberine can interact with glucose metabolism, the sections on the Liver and the Pancreas (under 'Interactions with Organ Systems') should be reviewed, as should subsections in both the section on Fat Mass and Skeletal Muscle Metabolism that mention glucose. These four sections contribute to the potent anti-diabetic effect of Berberine
+
+
 8.1
 
 Absorption

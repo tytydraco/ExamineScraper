@@ -328,6 +328,10 @@ Astaxanthin may be able to promote cellular longevity secondary to boosting anti
 
 Cardiovascular Health
 
+In animal models, astaxanthin shows benefit in protecting against cardiovascular damage; these studies mostly used Disodium Disuccinate Astaxanthin.[42][43][44][45][46] Many of these studies tested dosages ranging from 25-200mg/kg bodyweight and, although confirmed safe in animal models, it is not known whether such a high dose is safe for human consumption.
+
+Astaxanthin has been shown to reduce blood pressure in spontaneously hypertensive rats but not normal rats[47] and may be due to 'fixing' the Nitric Oxide (NO) pathway.[48]
+
 4.1
 
 Blood Pressure

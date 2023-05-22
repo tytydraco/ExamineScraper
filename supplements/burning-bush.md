@@ -54,6 +54,8 @@ Oxidation
 
 Sources and Composition
 
+Euonymus alatus (Gui Jeon Wu) is a plant of which its stems have been used traditionally for cancer treatment.[1] And has also been used for blood circulation and eliminating blood clots, reducing pain, and treating dysmenorrhea in Asian medicine.[2]
+
 1.1
 
 Composition

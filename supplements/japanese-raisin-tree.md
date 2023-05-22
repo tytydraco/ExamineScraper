@@ -34,6 +34,13 @@ General
 
 Source and Composition
 
+Hovenia dulcis is a Traditional Chinese Medicine for hangovers that is distributed naturally in the areas surrounding China, Japan, Korea, and the Himilayas; it is also known as Japanese Raisin Tree. It belongs to the genus Hovenia of the family Rhamnaceae and is one of three species of Hovenia, the other two being acerba and trichocarpa. This particular species, dulcis, has two variants known as tomentella and koreana.[1][2] Both variants of dulcis and acerba have been used as medicinal plants.
+
+Medicially, the part of the Hovenia Dulcis plant that is used is either the fruit or the peduncles (stem of which holds the flowers), and the peduncles have been reported to have a taste similar to a combination of raisin, clove,
+cinnamon and sugar.[3]
+
+Hovenia peduncles can be pressed into fruit juice, or fermented into wine or vinegar and appears to retain similar properties.[4][5]
+
 1.1
 
 Composition

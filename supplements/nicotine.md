@@ -540,6 +540,8 @@ A known phenomenon with smoking cessation is a gain of weight, usually body fat;
 
 Obesity and Fat Mass
 
+Cigarettes are known to stimulate lipolysis (fat burning) after being smoked[129][130] and can be mimicked by intravenous administration of a similar level of nicotine;[131] when comparing monozygotic twins, smoking twins tend to be 2.5-5.0kg lighter than non-smoking counterparts.[132] Although many possible reasons exist for these observations, the stimulation of lipolysis and cholinergic neuron innervation of adipose tissue[133] implicates a direct fat burning effect of nicotinic acetylcholine receptors.
+
 7.1
 
 Mechanisms

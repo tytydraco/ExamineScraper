@@ -394,6 +394,8 @@ Several patented curcumin complexes exist to increase its bioavailability, with 
 
 Molecular Targets
 
+Curcumin is able to induce effects either directly (the first domino in a series) or downstream of the primary effect (subsequent dominoes). This section serves to differentiate the two and harmonize mechanisms.
+
 2.1
 
 Direct

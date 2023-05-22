@@ -538,6 +538,8 @@ In rat studies where the prostate is measured, low dose DHEA over a long period 
 
 Intervention Studies (Humans) at a Glance
 
+This section is mostly thanks to a thorough 2011 review that compiled many studies, although further studies have been added.[19]
+
 13.1
 
 In men
@@ -605,6 +607,8 @@ One study investiating DHEA inconjunction with an aromatase inhibitor (AI) found
 16.
 
 Safety and Toxicity
+
+50mg DHEA daily for 52 weeks in postmenopausal women is not associated with any significant toxic or adverse effects[92] and is generally seen as a therapeutically effective dose to avoid side-effects over the long-term.[173] Lower doses (25mg) for longer periods of time (2 years) are also seen as safe.[85]
 
 16.1
 

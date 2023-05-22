@@ -364,6 +364,10 @@ There is ultimately one shared result of activate SIRT1 and AMPK in a cell (incr
 
 Pharmacology
 
+
+Below is the interesting and detailed description; skip to the quoted blocks for the laymans terms.
+
+
 3.1
 
 Bioavailability and Absorption

@@ -545,6 +545,13 @@ Coingestion of multiple alkylamides also has the potential for increasing the bi
 
 Nutrient Comparisons
 
+
+Due to the popularity of echinacea, it is sometimes used as a reference drug when assessing the potency of other compounds. For example, a study might use a true control group (no drug) and a reference drug group (echinacea) in order to best test the 'new' compound (Drug X).
+
+
+If the test drug outperforms control or placebo, it is effective but might not be effective enough to displace the standard reference drug. If it outperforms the reference drug as well, it is more noteworthy
+
+
 11.1
 
 Panax Ginseng

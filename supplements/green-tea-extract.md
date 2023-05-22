@@ -628,6 +628,10 @@ Overall, green tea seems to be a very good fat loss agent, either in low doses t
 
 Skeletal Muscle and Physical Performance
 
+In several animal studies, rats experience either an increase in body weight or (if body fat is measured) lean mass.[115] That being said, the majority of studies note a decrease in overall body weight. In one study looking at both Black and Green tea, this was only seen with Green Tea and isolated EGCG, and was 4-5% higher than control after 27 weeks (with no differences in food intake, a bit less water consumption).[100] No changes in fat burning genes were seen in muscle cells in this study.[100]
+
+When assessing studies that use high doses of green tea catechins with light exercise in sedentary or light active individuals changes in muscle mass are not readily observed.[116]
+
 8.1
 
 Metabolic Flexibility

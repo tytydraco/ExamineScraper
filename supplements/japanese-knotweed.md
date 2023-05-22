@@ -132,6 +132,10 @@ Three main classes of compounds, and their content and individual anti-oxidant p
 
 Pharmacology
 
+
+Resveratrol has had its pharmacokinetics analyzed on its own page; a short summary is that oral ingestion of resveratrol has poor bioavailability but it can be enhanced with consumption of other nutrients alongside it.
+
+
 2.1
 
 Serum

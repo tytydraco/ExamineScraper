@@ -184,6 +184,8 @@ Implicated in increasing non-specific (innate) immunity
 
 Interactions with Sexuality
 
+Safed Musli has been used as an aphrodisiac and sexual tonic in Ayurveda where it is known as a Vajikaran.[16]
+
 5.1
 
 Erectile Properties

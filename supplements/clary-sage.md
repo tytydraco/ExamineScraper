@@ -50,6 +50,12 @@ Leukemia
 
 Sources and Summary
 
+Salvia sclarea (of the family Lamiaceae; the Mint family), more commonly referred to as Clary Sage, is an aromatic herb. It is used highly in the perfume industry as the main bioactive, (-)-Sclareol, can be synthesized into Ambrox (an aromatic found from naturally in Ambergris, but is rare from its natural source).[1]
+
+It is sometimes drunk as a tea in Turkey, where it is known as misk sage tea.[2]
+
+Clary sage also has usage as an insect repellant.[3]
+
 1.1
 
 Composition

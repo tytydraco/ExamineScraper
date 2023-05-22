@@ -116,6 +116,10 @@ Tryptamine compounds (hallucinogenic compounds) are at rather low dosages in the
 
 Pharmacology
 
+When measuring the L-Dopa (Levodopa) in the bloodstream after ingestion of 15g or 30g of Mucuna Pruriens, the AUC 16,306+/-4024 and 43,087+/-9735ng/h/mL respectively (whereas standard L-dopa/carbidopa 200mg/50mg was 16,243+/-2543), the Cmax was 8,607+/-1979ng/mL and 14,606ng/mL respectively (standard was 6596+/-1098), the Tmax was 61.8+/-12.9 minutes and 72.5+/-15.1 minutes respectively (standard was 95.5+/-10.5 minutes) and half-life was 58.6+/-5.1 minutes and 94+/-25.5 respectively (standard was 90.8+/-23.8).[31] Statistically different results were seen with 30g Mucuna having a larger AUC and Cmax and 15g Mucuna having significantly less of a half-life.[31]
+
+Measured AUC of 3-O-methyldopa was not significantly different between standard treatment (24,267+/-4559 ng/h/mL) and 30g Mucuna (22,698+/-2833 ng/h/mL) but was significantly less for 15g Mucuna (20,292+/-283.3 ng/h/mL).[31]
+
 2.1
 
 Comparisons against Levodopa
@@ -261,6 +265,10 @@ The above trypsin inhibitor is the same kind of 'evil' compound found in foods l
 7.
 
 Safety and Toxicity
+
+One large double blind study noted no significant adverse effects from 15-30g of Mucuna Pruriens powder over the course of 12-20 weeks aside from one patient suffering from vomiting, which was deemed unrelated to the bioactivity of Mucuna but rather its digestability and palatability.[31]
+
+In rats, doses of 32mg/kg or above are associated with 'some adverse side effects' (hyperventilation, reduced spontaneous motor activity, spontaneous erections) that appeared 1 hour after ingestion transiently, and doses up to 100mg/kg are free from more significant side effects for up to 12 weeks (study termination).[39]
 
 7.1
 

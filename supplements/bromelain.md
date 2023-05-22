@@ -192,6 +192,8 @@ Bromelain appears to be able to transverse a cell membrane and retain enzymatic 
 
 Digestion and the Intestinal Tract
 
+The general idea of Bromelain and digestion, as well as the entire protease class, is that they may contribute for an otherwise impaired digestive system.[13] Bromelain has some other effects extending beyond its activities as a protease, however.
+
 3.1
 
 Gastric

@@ -106,6 +106,8 @@ Micellar casein tends to be produced via microfiltration, which has the ability 
 
 List of Peptides in Casein
 
+Casein contains various Bioactive peptides, which can be defined as sequences of amino acids that are contained in dietary proteins and are partially denatured in the stomach to reveal short sequences. These sequences can exert biological effects in the intestines prior to being digested, or may be digested through a peptide transporter.[14]
+
 3.1
 
 AlphaS-1 Peptide

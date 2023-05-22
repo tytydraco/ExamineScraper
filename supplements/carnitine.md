@@ -822,6 +822,8 @@ L-Carnitine L-Tartrate, at 2g daily over 3 weeks, was able to increase levels of
 
 Interactions with Fatigue
 
+Carnitine, specifically Acetyl-L-Carnitine (ALCAR), is being investigated for chronic fatigue syndrome as a biomarker of fatigue. Chronic fatigue syndrome is often characterized by alterations in the levels and distribution of ALCAR in the brain at rest; specifically the pre-frontal cortex.[207] This tends to be accompanied by a reduced uptake of ALCAR into the brain, which may precede the reduced neural levels of ALCAR.[208]
+
 10.1
 
 Fatigue in Healthy Humans and Animals

@@ -54,6 +54,14 @@ Safety and Toxicity
 
 Sources and Composition
 
+Apium graveolens (of the family Apiaceae) is a vegetable commonly referred to as 'Celery', which has apparently been cultivated for over 3000 years mostly in Egypt.[1] The term 'celeriac' refers to a variant of this species known as apium graveolens var. rapaceum.[2] Despite the stem being the most commonly ingested portion of the plant as a common vegetable, the seeds of celery appears to have been used for medicinal purposes (Egypt and China) to treat; bronchitis, asthma, liver and spleen diseases and with hepatoprotective activity against many hepatotoxins.[3] It has also been reported to be diluted in beverages and drunk with wine to cool a hot temper.[4]
+
+The aroma and characteristic taste of celery is thought to be secondary to the sedanenolide component.[5][6]
+
+
+The difference between the 'vegetable' or 'stem' (edible portion of celery commonly seen in grocery stores) and the seeds or seed oil (common component of supplement) should be emphazied. The information below may not apply to vegetable consumption if using the seed oil
+
+
 1.1
 
 Composition
