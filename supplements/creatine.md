@@ -1017,7 +1017,7 @@ Creatine appears to positively regulate the polyamine binding site of NMDA recep
 
 In a prolonged study on mice,[235] it was found that there was a two-fold upregulation of the transporter protein SLC1A6, which mediates glutamate uptake into cells. This may underlie the reduction of brain glutamate levels by creatine seen in Huntington’s disease.[236]
 
-This is thought to be relevant since, in a study on subjects with amyotrophic lateral sclerosis (ALS), 15g of creatine daily was found to result in a significant reduction in combined glutamate and glutamine levels in the brain (not seen after 5-10g daily).[237]
+This is thought to be relevant since, in a study on subjects with amyotrophic lateral sclerosis (ALS), 30 g of creatine daily was found to result in a significant reduction in combined glutamate and glutamine levels in the brain (not seen after 10-20g daily).[237]
 
 
 Creatine may also promote uptake glutamate into cells. How this influences signaling and neuroprotection is not yet clear.
