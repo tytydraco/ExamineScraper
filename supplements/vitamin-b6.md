@@ -215,7 +215,7 @@ In rats, a deficiency of vitamin B6 results in an increase in plasma prolactin c
 Pyridoxal phosphate (PLP) is able to inhibit pituitary cell proliferation in vitro in various cell lines (MMQ, AtT-20, GH3) between 10-1,000μM not associated with toxicity and in a reversible manner after PLP removal,[35] this reduction in proliferation being associated with less hormone secretion and in primary rat pituitary cells 1μM is able to suppress prolactin secretion to 66% of control (48% at 10μM) without affecting growth hormone.[35]
 
 
-Vitamin B6 appears to have a generally suppressive effect on prolactin, with a deficiency in B6 causing higher than normal serum B6 concentrations and increasing concentrations causing further suppressions of prolactin
+Vitamin B6 appears to have a generally suppressive effect on prolactin, with a deficiency in B6 causing higher than normal serum prolactin concentrations and increasing concentrations causing further suppressions of prolactin
 
 
 A suppression of prolactin increases have been noted in various rodent studies with infusions of pyridoxine, including a hindering of a chlorpromazine[37] and opioid[38] induced prolactin spike.
