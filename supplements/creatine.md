@@ -1109,7 +1109,7 @@ Oral ingestion of 1-1000mg/kg bodyweight of creatine in mice was able to exert a
 Mechanically, creatine may exert anti-depressant effects via mixed dopaminergic and serotonergic mechanisms. The exact mechanisms are not clear at this time.
 
 
-Anti-depressive effects have been noted in woman with major depressive disorder when 5g of creatine monohydrate was supplemented daily for 8 weeks in combination with an SSRI. Benefits were seen at week two and were maintained until the end of the 8-week trial.[255] The improvement in depressive symptoms was associated with significantly increased prefrontal cortex levels of N-acetylaspartate, a marker of neuronal integrity,[256] and rich club connections, which refers to the ability of nerons to make connections to one another.[257]
+Anti-depressive effects have been noted in woman with major depressive disorder when 5g of creatine monohydrate was supplemented daily for 8 weeks in combination with an SSRI. Benefits were seen at week two and were maintained until the end of the 8-week trial.[255] The improvement in depressive symptoms was associated with significantly increased prefrontal cortex levels of N-acetylaspartate, a marker of neuronal integrity,[256] and rich club connections, which refers to the ability of neurons to make connections to one another.[257]
 
 These effects were noted before in a preliminary study of depressed adolescents (with no placebo group) showing a 55% reduction in depressive symptoms at 4g daily when brain phosphocreatine levels increased.[233] Other prelimnary human studies suggest creatine might lessen unipolar depression[258] and one study on Post-Traumatic Stress Disorder (PTSD) noted improved mood as assessed by the Hamilton Depression Rating Scale.[234]
 
