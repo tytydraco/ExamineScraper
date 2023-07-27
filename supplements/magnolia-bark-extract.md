@@ -279,7 +279,7 @@ Dopaminergic Neurotransmission
 Magnolia officinalis has been found to interact with the dopamine transporter (39% inhibition at 10μg/mL) and to associate with the D5 dopamine receptor (11-64% ligand displacement at 10-100μg/mL) and no influence on the other dopamine receptors (D1, D2S, D3, D4.4).[36] It is not clear if magnolia is an agonist or antagonist at the D5 receptor.[36]
 
 
-A potential inhibition of the dopamine transporter associated with magnolia officinalis, and although most dopamine receptors do not interact with the extrac tthe D5 receptor may slightly
+A potential inhibition of the dopamine transporter associated with magnolia officinalis, and although most dopamine receptors do not interact with the extract, the D5 receptor may slightly
 
 
 There appear to be neuroprotective effects of magnolol as 10-20mg/kg intraperitoneal injections for two weeks (alongside the 6-OHDA neurotoxin 30m after the first dose) is able to normalize behavioural alterations when measured on day 15; 1mg/kg appeared to be effective as well.[37]
@@ -315,7 +315,7 @@ The interactions with serotonin receptors appear somewhat weak and may not be pr
 When administered to rats subject to tests of depression, 15-30mg/kg of a mixture of the two main neolignans failed to modify serotonin concentrations at baseline but greatly prevented the decrease in serotonin following stress testing with a somewhat comparable potency to 7mg/kg fluoxetine (more potent in the striatum and NAc, less in the PFC, equal in other brain regions).[4] This potency was replicated elsewhere with 30mg/kg[40] and 15mg/kg may be as effective as 30mg/kg when paired with 39mg/kg ginger oil (pairing 30mg/kg magnolia with ginger oil does not exceed its own potency).[40]
 
 
-The alterations in serotonin seem with depression seem to be normalized with oral intake of neolignans with a potency comparable to SSRIs, although the mechanisms underlying this effect are not known. Ginger appears to make lower doses more efficient without increasing maximal potency
+The alterations in serotonin seen with depression seem to be normalized with oral intake of neolignans with a potency comparable to SSRIs, although the mechanisms underlying this effect are not known. Ginger appears to make lower doses more efficient without increasing maximal potency
 
 
 3.7
