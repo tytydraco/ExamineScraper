@@ -851,7 +851,7 @@ One intervention in otherwise healthy and magnesium sufficient young adult femal
 
 In 20 postmenopausal women without history of bone disease aside from osteoporosis given 1830mg Magnesium Citrate daily for one month noted that, in women without magnesium deficiency but with osteoporosis, that Magnesium supplementation failed to alter serum Magnesium or ions yet resulted in favorable changes in a few blood biomarkers indicative of reduced bone turnover (43.7% increase in osteocalcin, reduction in Parathyroid hormone).[164] This study did not note any correlations with Magnesium and the parameters, however, and merely noted that the Magnesium group experienced the changes.[164]
 
-One study in young girls (8-14) who were selected due to having a low dietary Magnesium intake (220mg or less daily) noted increased bone mineral content in the hip and a trend to increase lumbar spine density (although it was deemedn statistically insignificant) after one year of therapy in response to 300mg Magnesium as Oxide.[165]
+One study in young girls (8-14) who were selected due to having a low dietary Magnesium intake (220mg or less daily) noted increased bone mineral content in the hip and a trend to increase lumbar spine density (although it was deemed statistically insignificant) after one year of therapy in response to 300mg Magnesium as Oxide.[165]
 
 13.
 
