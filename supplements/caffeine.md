@@ -308,7 +308,7 @@ Green tea catechins
 
 13.7
 
-Propanolol
+Propranolol
 
 13.8
 
@@ -1165,13 +1165,13 @@ Green tea catechins and caffeine have complex interactions, but the general noti
 
 13.7
 
-Propanolol
+Propranolol
 
 Propranolol is a member of the beta-blocker class of pharmaceuticals that is used to control blood pressure and heart disease risk in the obese and metabolically ill. Its 'beta' refers to the beta-adrenergic receptors, and its blocking action makes it the opposite of ephedrine.
 
-Caffeine and propanolol appear to antagonize each other in various ways. Propanolol can reduce sperm motility which is countered by caffeine[357] at low to moderate dosages.[358]
+Caffeine and propranolol appear to antagonize each other in various ways. Propranolol can reduce sperm motility which is countered by caffeine[357] at low to moderate dosages.[358]
 
-Additionally, propanolol has been implicated in reducing the thermogenic response to a fat burning supplement which contains caffeine (alongside green tea catechins, L-tyrosine, and capsaicin).[359]
+Additionally, propranolol has been implicated in reducing the thermogenic response to a fat burning supplement which contains caffeine (alongside green tea catechins, L-tyrosine, and capsaicin).[359]
 
 13.8
 

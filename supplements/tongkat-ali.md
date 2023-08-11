@@ -76,7 +76,7 @@ Nutrient-Nutrient Interactions
 
 8.1
 
-Propanolol
+Propranolol
 
 9
 
@@ -284,12 +284,12 @@ Nutrient-Nutrient Interactions
 
 8.1
 
-Propanolol
+Propranolol
 
-Propanolol is a non-selective beta-blocker that is sometimes uesd to treat hypertension. After consumption of a water-extract of Eurycoma Longifolia at 200mg alongside propanolol, it was found that Eurycoma Longifolia significantly reduced the bioavailability and actions of propanolol.[51] This study noted a decreased AUC of 28.7%, a decreased Cmax of 42.02% and a delayed Tmax of 86% and used these results paired with a insignificantly different elimination half-life to conclude that it was inhibition at the level of absorption. The authors hypothesized P-glycoprotein induction but did not validate this with evidence.[51]
+Propranolol is a non-selective beta-blocker that is sometimes uesd to treat hypertension. After consumption of a water-extract of Eurycoma Longifolia at 200mg alongside propranolol, it was found that Eurycoma Longifolia significantly reduced the bioavailability and actions of propranolol.[51] This study noted a decreased AUC of 28.7%, a decreased Cmax of 42.02% and a delayed Tmax of 86% and used these results paired with a insignificantly different elimination half-life to conclude that it was inhibition at the level of absorption. The authors hypothesized P-glycoprotein induction but did not validate this with evidence.[51]
 
 
-Eurycoma Longifolia may hinder the absorption and efficacy of Propanolol
+Eurycoma Longifolia may hinder the absorption and efficacy of Propranolol
 
 
 9.
