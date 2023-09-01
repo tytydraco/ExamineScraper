@@ -162,7 +162,7 @@ Sources and Composition
 
 Sources
 
-Kaempferia parviflora (of the family Zingiberaceae) is a medicinal herb from Thailand that has purported usage as an aphrodisiac as well as general health promotion and stimulation.[1] Other usages touted towards this herb include anti-depressive, anti-peptic ulcer, anti-inflammatory, anti-mutagenic and anti-allergic; it is sometimes referred to as Kra chai Dum or just as a Thai Ginseng[2] (although taxonomically unrelated to Panax Ginseng).[3] It is also sometimes referred to as 'Black Turmeric' due to sharing similar morphology to Curcuma Longa (source of dietary Turmeric), but these two compounds do not have similar bioactives and Kaempferia Parviflora does not have a curcumin content.[4] It should be noted that sources of confusion here is Curcuma Parviflora, another herb with a similar name to both[5] and Kra chai (rather than Kra Chai Dum) being used to refer to Boesenbergia rotunda.[6]
+Kaempferia parviflora (of the family Zingiberaceae) is a medicinal herb from Thailand that has purported usage as an aphrodisiac as well as general health promotion and stimulation.[2] Other usages touted towards this herb include anti-depressive, anti-peptic ulcer, anti-inflammatory, anti-mutagenic and anti-allergic; it is sometimes referred to as Kra chai Dum or just as a Thai Ginseng[1] (although taxonomically unrelated to Panax Ginseng).[3] It is also sometimes referred to as 'Black Turmeric' due to sharing similar morphology to Curcuma Longa (source of dietary Turmeric), but these two compounds do not have similar bioactives and Kaempferia Parviflora does not have a curcumin content.[4] It should be noted that sources of confusion here is Curcuma Parviflora, another herb with a similar name to both[5] and Kra chai (rather than Kra Chai Dum) being used to refer to Boesenbergia rotunda.[6]
 
 
 Kaempferia parviflora is Thai Ginseng, and commonly called Black Turmeric (since the root is purplish-black underneath the outer layer) although not related to the common spice Turmeric
@@ -172,7 +172,7 @@ Kaempferia parviflora is Thai Ginseng, and commonly called Black Turmeric (since
 
 Composition
 
-The three 'main' methoxyflavonoids 5,7-dimethoxyflavone (DMF) at 0.289%, 5,7,4'-trimethoxyflavone (TMF) at 0.0101% and 3,5,7,3',4'-pentamethoxyflavone (PMF)[1][7] and a variety of other polymethoxyflavonoids[8]5-hydroxy-3,7-dimethoxyflavone at 0.0252%; a methoxyflavone that appears to be well reseached but is not one of the 'primary' three[7]Kaempferiaosides A and B with similar glycosides[9] as well as Kaempferiaosides C and D (flav-3-en-3-ol glycosides) as well as E and F (acetophenone glycosides)[3]Techtochrysin (Methoxy derivative of Chrysin) at 0.131% dry weight[7]7,4′-dimethylapigenin at 0.0453%, trimethylapigenin at 1.29% (methylated derivatives ofo Apigenin)[7]Tetramethylluteolin at 0.0312% (derivative of Luteolin)[7]3,7,4′-trimethylkaempferol at 0.0719% and tetramethylkaempferol at 0.0070% (derivatives of Kaempferol)[7]Tilianine (Methanolic fragment)[9]Ayanin at 0.0111%[7]Retusine at 0.0215%[7]Pentamethylquercetin at 0.391% (Methylated derivative of Quercetin)[7]Sesquiterpenoids 4αα-acetoxycadina-2,9-diene-1,8-dione and 1αα,3αα,4ββ-trihydroxy-9-cadinen-8-one[10](2R,3R)-(−)-aromadendrin trimethyl ether (ethanol acetate fragment)[9]Tamarixetin 3-O-rutinoside (Methanolic fragment)[9]Syringetin 3-O-rutinoside (Methanolic fragment)[9]2,4,6-trihydroxyacetophenone 2,4-di-O-β-D-glucopyranoside[9]Adenosine[9]L-phenylalanine[9]A thermostable lectin (sugar-binding protein) in the rhizome at 0.45%[11]Due to the high methoxyflavone content, this plant has a respectable anti-oxidant profile in vitro.[12] Some of the above methoxyflavones also exist in glycoside form.[13]
+The three 'main' methoxyflavonoids 5,7-dimethoxyflavone (DMF) at 0.289%, 5,7,4'-trimethoxyflavone (TMF) at 0.0101% and 3,5,7,3',4'-pentamethoxyflavone (PMF)[2][7] and a variety of other polymethoxyflavonoids[8]5-hydroxy-3,7-dimethoxyflavone at 0.0252%; a methoxyflavone that appears to be well reseached but is not one of the 'primary' three[7]Kaempferiaosides A and B with similar glycosides[9] as well as Kaempferiaosides C and D (flav-3-en-3-ol glycosides) as well as E and F (acetophenone glycosides)[3]Techtochrysin (Methoxy derivative of Chrysin) at 0.131% dry weight[7]7,4′-dimethylapigenin at 0.0453%, trimethylapigenin at 1.29% (methylated derivatives ofo Apigenin)[7]Tetramethylluteolin at 0.0312% (derivative of Luteolin)[7]3,7,4′-trimethylkaempferol at 0.0719% and tetramethylkaempferol at 0.0070% (derivatives of Kaempferol)[7]Tilianine (Methanolic fragment)[9]Ayanin at 0.0111%[7]Retusine at 0.0215%[7]Pentamethylquercetin at 0.391% (Methylated derivative of Quercetin)[7]Sesquiterpenoids 4αα-acetoxycadina-2,9-diene-1,8-dione and 1αα,3αα,4ββ-trihydroxy-9-cadinen-8-one[10](2R,3R)-(−)-aromadendrin trimethyl ether (ethanol acetate fragment)[9]Tamarixetin 3-O-rutinoside (Methanolic fragment)[9]Syringetin 3-O-rutinoside (Methanolic fragment)[9]2,4,6-trihydroxyacetophenone 2,4-di-O-β-D-glucopyranoside[9]Adenosine[9]L-phenylalanine[9]A thermostable lectin (sugar-binding protein) in the rhizome at 0.45%[11]Due to the high methoxyflavone content, this plant has a respectable anti-oxidant profile in vitro.[12] Some of the above methoxyflavones also exist in glycoside form.[13]
 
 
 In general, the 'Kaempferosides' appear to be unique to Kaempferia Parviflora but are not seen as the active ingredients. The methoxyflavones (flavones with methoxy groups attached to them) are seen as the main compounds, with the three known as DMF, TMF, and PMF being most commonly researched. This plant also appears to take standard bioflavonoid compounds and add either methoxy or methyl groups to their structures
@@ -186,9 +186,9 @@ Pharmacology
 
 Serum
 
-In testing oral pharmacokinetics of an ethanolic extract of Kaempferia parviflora given at 250mg/kg (9.44, 9.75, and 10.58 mg/kg of PMF, TMF, and DMF) with another group of rats given injections of the same dose (to assess bioavailability), the following parameters were achieved.[1]
+In testing oral pharmacokinetics of an ethanolic extract of Kaempferia parviflora given at 250mg/kg (9.44, 9.75, and 10.58 mg/kg of PMF, TMF, and DMF) with another group of rats given injections of the same dose (to assess bioavailability), the following parameters were achieved.[2]
 
-5,7-dimethoxyflavone (DMF) had a Cmax of 0.78+/-0.11ug/mL at a Tmax of 0.76+/-0.4 hours with an AUC of 7.01+/-1.37h/ug/mL and a half-life of 5.85+/-1.72 hours; the overall bioavailability was determined to be 2.1%.[1] 5,7,4'-trimethoxyflavone (TMF) had a Cmax of 0.88+/-0.11ug/mL at a Tmax of 0.85+/-0.40 hours with an AUC of 6.96+/-1.11h/ug/mL and a half-life of 5.04+/-1.10 hours; the bioavailability was 1.75%.[1] 3,5,7,3',4'-pentamethoxyflavone (PMF) had a Cmax of 0.55+/-0.05ug/mL at a Tmax of 1.71+/-0.36 hours with an AUC of 3.65+/-0.63h/ug/mL and a half-life of 3.12+/-1.34 hours; the bioavailability was 3.32%.[1]
+5,7-dimethoxyflavone (DMF) had a Cmax of 0.78+/-0.11ug/mL at a Tmax of 0.76+/-0.4 hours with an AUC of 7.01+/-1.37h/ug/mL and a half-life of 5.85+/-1.72 hours; the overall bioavailability was determined to be 2.1%.[2] 5,7,4'-trimethoxyflavone (TMF) had a Cmax of 0.88+/-0.11ug/mL at a Tmax of 0.85+/-0.40 hours with an AUC of 6.96+/-1.11h/ug/mL and a half-life of 5.04+/-1.10 hours; the bioavailability was 1.75%.[2] 3,5,7,3',4'-pentamethoxyflavone (PMF) had a Cmax of 0.55+/-0.05ug/mL at a Tmax of 1.71+/-0.36 hours with an AUC of 3.65+/-0.63h/ug/mL and a half-life of 3.12+/-1.34 hours; the bioavailability was 3.32%.[2]
 
 
 The methoxyflavanoids appear to be poorly yet quickly absorbed with a relatively long half-life
@@ -198,13 +198,13 @@ The methoxyflavanoids appear to be poorly yet quickly absorbed with a relatively
 
 Distribution
 
-The three main methoxyflavones were found in tissues of rats after an acute bolus of 750mg/kg reaching the brain, testes, liver, kidney, and lung.[1]
+The three main methoxyflavones were found in tissues of rats after an acute bolus of 750mg/kg reaching the brain, testes, liver, kidney, and lung.[2]
 
 2.3
 
 Excretion
 
-All three main methoxyflavones had a similar degree of fecal excretion, with PMF and TMF having a high urinary excretion relative to DMF.[1]
+All three main methoxyflavones had a similar degree of fecal excretion, with PMF and TMF having a high urinary excretion relative to DMF.[2]
 
 2.4
 
@@ -222,7 +222,7 @@ Neural
 
 Kinetics
 
-After an acute bolus of 750mg/kg Kaempferia parviflora (9.44, 9.75, and 10.58 mg/kg of PMF, TMF, and DMF), PMF reached the brain with a Cmax of 0.26+/-0.10ug/g and a Tmax of 3.14+/-1.07 hours giving an overall neural AUC of 0.76+/-0.13ug/g/h,[1] TMF reached the brain with a Cmax of 1.43+/-0.58ug/g and a Tmax of 3.43+/-0.98 hours giving an overall neural AUC of 2.50+/-0.37ug/g/h,[1] and DMF reached the brain with a Cmax of 0.96+/-0.37ug/g and a Tmax of 3.14+/-1.07 hours giving an overall neural AUC of 1.91+/-0.56ug/g/h.[1]
+After an acute bolus of 750mg/kg Kaempferia parviflora (9.44, 9.75, and 10.58 mg/kg of PMF, TMF, and DMF), PMF reached the brain with a Cmax of 0.26+/-0.10ug/g and a Tmax of 3.14+/-1.07 hours giving an overall neural AUC of 0.76+/-0.13ug/g/h,[2] TMF reached the brain with a Cmax of 1.43+/-0.58ug/g and a Tmax of 3.43+/-0.98 hours giving an overall neural AUC of 2.50+/-0.37ug/g/h,[2] and DMF reached the brain with a Cmax of 0.96+/-0.37ug/g and a Tmax of 3.14+/-1.07 hours giving an overall neural AUC of 1.91+/-0.56ug/g/h.[2]
 
 
 Oral administration of Thai Ginseng is able to increase methoxyflavone concentrations in the brain, but slightly due to poor bioavailability
@@ -244,7 +244,7 @@ Possesses cholinergic properties, but is unlikely to be practically significant 
 
 Pain
 
-One study in obese (TSOD) and lean (TSNO) mice given 1% or 3% of their feed as Kaempferia Parviflora for 8 weeks noted that supplementation at either dose was able to preserve reaction latency to a pain test but only in the obese group; the authors hypothesized that TSOD obese mice developed diabetic neuropathy and that Kaempferia Parviflora attenuated these changes.[16] The only human study to assess pain was a human study measuring the Rate of Perceived Exertion (RPE) on an exercise test, and found no effect with an acute bolus of 1.35g.[2]
+One study in obese (TSOD) and lean (TSNO) mice given 1% or 3% of their feed as Kaempferia Parviflora for 8 weeks noted that supplementation at either dose was able to preserve reaction latency to a pain test but only in the obese group; the authors hypothesized that TSOD obese mice developed diabetic neuropathy and that Kaempferia Parviflora attenuated these changes.[16] The only human study to assess pain was a human study measuring the Rate of Perceived Exertion (RPE) on an exercise test, and found no effect with an acute bolus of 1.35g.[1]
 
 3.4
 
@@ -330,7 +330,7 @@ Skeletal Muscle and Exercise
 
 Physical Performance
 
-In a study on untrained males given 1.35g of Kaempferia Parviflora 90 minutes before a Repeated Wingate test and time to exhaustion (65% VO2 max) failed to find any improvment on either test or in the rate of percieved exertion.[2]
+In a study on untrained males given 1.35g of Kaempferia Parviflora 90 minutes before a Repeated Wingate test and time to exhaustion (65% VO2 max) failed to find any improvment on either test or in the rate of percieved exertion.[1]
 
 7.2
 
@@ -406,7 +406,7 @@ Has a variety of mechanisms which indicate that Thai Ginseng is pro-erectile, bu
 
 Testes
 
-Following oral ingestion of 750mg/kg ethanolic extract of Kaempferia parviflora (9.44, 9.75, and 10.58 mg/kg of PMF, TMF, and DMF) PMF reached with a Cmax of 0.50+/-0.31ug/g at a Tmax of 2.36+/-1.25 hours giving an AUC of 1.01+/-0.24ug/g/h,[1] DMF reached with a Cmax of 0.91+/-0.44ug/g at a Tmax of 2.86+/-1.07 hours giving an AUC of 1.90+/-0.62ug/g/h,[1] and TMF reached with a Cmax of 1.10+/-0.43ug/g at a Tmax of 3.14+/-1.07 hours giving an AUC of 1.96+/-0.67ug/g/h.[1]
+Following oral ingestion of 750mg/kg ethanolic extract of Kaempferia parviflora (9.44, 9.75, and 10.58 mg/kg of PMF, TMF, and DMF) PMF reached with a Cmax of 0.50+/-0.31ug/g at a Tmax of 2.36+/-1.25 hours giving an AUC of 1.01+/-0.24ug/g/h,[2] DMF reached with a Cmax of 0.91+/-0.44ug/g at a Tmax of 2.86+/-1.07 hours giving an AUC of 1.90+/-0.62ug/g/h,[2] and TMF reached with a Cmax of 1.10+/-0.43ug/g at a Tmax of 3.14+/-1.07 hours giving an AUC of 1.96+/-0.67ug/g/h.[2]
 
 One study in rats given 70mg/kg bodyweight of the herb noted an increase in the weight of the seminal vesicles, epididymus, and levator ani muscles when paired with exercise; these results were more likely induced by exercise, as changes in the supplementation only group were minimal.[17] This same oral dose was found to not significantly increase testicular weight when ethanolic, hexane, and water extracts were all tested despite the ethanolic group conferring aphrodisiac properties.[6] An increase in blood flow through the spermatic artery was noted with this extract independent of changes in blood pressure or heart rate, which was deemed an acute effect.[6]
 
@@ -414,7 +414,7 @@ One study in rats given 70mg/kg bodyweight of the herb noted an increase in the 
 
 Liver
 
-Following oral ingestion of 750mg/kg ethanolic extract of Kaempferia parviflora (9.44, 9.75, and 10.58 mg/kg of PMF, TMF, and DMF) PMF reached with a Cmax of 3.10+/-1.78ug/g at a Tmax of 3.43+/-0.98 hours giving an AUC of 9.07+/-1.37ug/g/h,[1] DMF reached with a Cmax of 3.85+/-1.45ug/g at a Tmax of 2.57+/-1.10 hours giving an AUC of 8.60+/-1.97ug/g/h,[1] and TMF reached with a Cmax of 3.01+/-1.49ug/g at a Tmax of 2.64+/-1.38 hours giving an AUC of 7.83+/-0.33ug/g/h.[1]
+Following oral ingestion of 750mg/kg ethanolic extract of Kaempferia parviflora (9.44, 9.75, and 10.58 mg/kg of PMF, TMF, and DMF) PMF reached with a Cmax of 3.10+/-1.78ug/g at a Tmax of 3.43+/-0.98 hours giving an AUC of 9.07+/-1.37ug/g/h,[2] DMF reached with a Cmax of 3.85+/-1.45ug/g at a Tmax of 2.57+/-1.10 hours giving an AUC of 8.60+/-1.97ug/g/h,[2] and TMF reached with a Cmax of 3.01+/-1.49ug/g at a Tmax of 2.64+/-1.38 hours giving an AUC of 7.83+/-0.33ug/g/h.[2]
 
 
 The three main methoxyflavones have been detected in the rat liver following oral administration
@@ -426,11 +426,11 @@ In a preliminary test of protection of liver cells against D-GalN-induced toxici
 
 Kidneys
 
-Following oral ingestion of 750mg/kg ethanolic extract of Kaempferia parviflora (9.44, 9.75, and 10.58 mg/kg of PMF, TMF, and DMF) PMF reached with a Cmax of 1.00+/-0.39ug/g at a Tmax of 3.43+/-0.98 hours giving an AUC of 2.03+/-0.67ug/g/h,[1] DMF reached with a Cmax of 1.33+/-0.49ug/g at a Tmax of 3.43+/-0.98 hours giving an AUC of 2.51+/-0.68ug/g/h,[1] and TMF reached with a Cmax of 1.64+/-0.59ug/g at a Tmax of 3.43+/-0.98 hours giving an AUC of 3.01+/-0.85ug/g/h.[1]
+Following oral ingestion of 750mg/kg ethanolic extract of Kaempferia parviflora (9.44, 9.75, and 10.58 mg/kg of PMF, TMF, and DMF) PMF reached with a Cmax of 1.00+/-0.39ug/g at a Tmax of 3.43+/-0.98 hours giving an AUC of 2.03+/-0.67ug/g/h,[2] DMF reached with a Cmax of 1.33+/-0.49ug/g at a Tmax of 3.43+/-0.98 hours giving an AUC of 2.51+/-0.68ug/g/h,[2] and TMF reached with a Cmax of 1.64+/-0.59ug/g at a Tmax of 3.43+/-0.98 hours giving an AUC of 3.01+/-0.85ug/g/h.[2]
 
 11.5
 
 Lungs
 
-Following oral ingestion of 750mg/kg ethanolic extract of Kaempferia parviflora (9.44, 9.75, and 10.58 mg/kg of PMF, TMF, and DMF) PMF reached with a Cmax of 2.23+/-1.13ug/g at a Tmax of 0.08+/-0.17 hours giving an AUC of 1.60+/-0.37ug/g/h,[1] DMF reached with a Cmax of 2.00+/-1.20ug/g at a Tmax of 1.20+/-0.19 hours giving an AUC of 2.17+/-0.31ug/g/h,[1] and TMF reached with a Cmax of 1.41+/-0.58ug/g at a Tmax of 1.76+/-0.19 hours giving an AUC of 1.88+/-0.35ug/g/h.[1]
+Following oral ingestion of 750mg/kg ethanolic extract of Kaempferia parviflora (9.44, 9.75, and 10.58 mg/kg of PMF, TMF, and DMF) PMF reached with a Cmax of 2.23+/-1.13ug/g at a Tmax of 0.08+/-0.17 hours giving an AUC of 1.60+/-0.37ug/g/h,[2] DMF reached with a Cmax of 2.00+/-1.20ug/g at a Tmax of 1.20+/-0.19 hours giving an AUC of 2.17+/-0.31ug/g/h,[2] and TMF reached with a Cmax of 1.41+/-0.58ug/g at a Tmax of 1.76+/-0.19 hours giving an AUC of 1.88+/-0.35ug/g/h.[2]
 
