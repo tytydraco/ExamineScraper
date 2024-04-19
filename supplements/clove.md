@@ -38,7 +38,7 @@ Sources and Composition
 
 Sources
 
-Syzygium aromaticum (of the family \_\_) is a spice commonly referred to as Cloves, and appears to have some traditional usage as an aphrodisiac as well as for the medicinal purposes of dental disorders, respiratory disorders, headache and sore throat.[1][2]
+Syzygium aromaticum (in the family Myrtaceae) is a spice commonly referred to as Cloves, and appears to have some traditional usage as an aphrodisiac as well as for the medicinal purposes of dental disorders, respiratory disorders, headache and sore throat.[1][2]
 
 2.
 
@@ -66,7 +66,7 @@ Oral ingestion of 15mg/kg Syzygium aromaticum in male mice for 35 days is associ
 
 30-60mg/kg dietary Syzygium aromaticum in male mice appears to induce testicular toxicity as assessed by serum testosterone and histological examination of the semineferous tubules.[2]
 
-The essential oil of clove possesses spermicidal activity in vitro when incubated alongside the sperm[5] which may be rlated to the Eugenol content as this molecule has been known to possess anti-fertility actions.[6]
+The essential oil of clove possesses spermicidal activity in vitro when incubated alongside the sperm[5] which may be related to the Eugenol content as this molecule has been known to possess anti-fertility actions.[6]
 
 4.
 

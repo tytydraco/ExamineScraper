@@ -635,7 +635,7 @@ Creatine HCl is touted to require a lower dosage, but this has not been proven t
 Liquid creatine has been shown to be less effective than creatine monohydrate.[66] This reduced effect is due to the passive breakdown of creatine over a period of days into creatinine, which occurs when it is suspended in solution.[67] This breakdown is not an issue for at-home use when creatine is added to shakes, but it is a concern from a manufacturing perspective in regard to shelf-life before use.
 
 
-Liquid creatine is ineffective as a creatine supplement due to its limited stability in solution. This shouldn’t be an issue for people preparing a creatine solution at home, since it takes a few days to for creatine to degrade. This is a problem for the manufacturers, where creatine in solution has a limited shelf-life. 
+Liquid creatine is ineffective as a creatine supplement due to its limited stability in solution. This shouldn’t be an issue for people preparing a creatine solution at home, since it takes a few days for creatine to degrade. This is a problem for the manufacturers, where creatine in solution has a limited shelf-life. 
 
 
 Buffered creatine (Kre-Alkylyn is the brand name) is touted to enhance the effects of creatine monohydrate due to a higher pH level, which enables better translocation across the cytoplasmic membrane and more accumulation in muscle tissues.

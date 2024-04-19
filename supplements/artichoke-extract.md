@@ -284,7 +284,7 @@ Safety and Toxicity
 
 Genotoxicity
 
-One in vitro study investigating DNA damange induced by ethyl methanesulfonate (EMS; known genotoxic agent) and assessed by comet assay (to detect DNA damange[39][40]) noted that 0.62-5mg/mL was able to induce genetic damage in Chinese Hamster Ovarian (CHO) cells, with 5mg/mL not being significantly different than 350uM EMS.[41]
+One in vitro study investigating DNA damage induced by ethyl methanesulfonate (EMS; known genotoxic agent) and assessed by comet assay (to detect DNA damage[39][40]) noted that 0.62-5mg/mL was able to induce genetic damage in Chinese Hamster Ovarian (CHO) cells, with 5 mg/mL not being significantly different than 350uM EMS.[41]
 
 When incubated either before or after EMS, Artichoke extract appears to nonsignificantly enhance genotoxicity; when coincubated, 0.62mg/mL is associated with a 77% reduction of EMS-induced genotoxicity; suggesting competition at the genome (1.25 and 2.5mg/mL reducing genotoxicity by 17 and24.6%, respectively).[41]
 

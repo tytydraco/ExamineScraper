@@ -338,7 +338,7 @@ Compounds in the ethanolic/acetone extracts appear to protect the DNA from damag
 
 Tumors (Overview)
 
-Oddly, a bacteria that has been noted to produce Taxol (Paclitaxel; chemotherapeutic) has been noted to occur on Arjuna bark;[74][75] this is differnt from the bacteria has been previously found on Taxus brevifolia that herb which has a bacterial strain synthesizing Taxol.
+Oddly, a bacteria that has been noted to produce Taxol (Paclitaxel; chemotherapeutic) has been noted to occur on Arjuna bark;[74][75] this is different from the bacteria that has been previously found on Taxus brevifolia that herb which has a bacterial strain synthesizing Taxol.
 
 
 Possesses a novel bacteria on the tree which produces the chemotherapeutic Taxol; practical significance unknown, and Arjuna extracts may not have a Taxol content regardless

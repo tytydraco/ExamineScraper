@@ -117,7 +117,7 @@ Structure
 
 Biological Significance
 
-L-Serine (a dietary amino acid) is racemized into D-serine via the enzyme serine racemase, present in neurons[12] and glial cells[13] although relatively speaking the glial cells known as astrocytes express the highest levels of serine racemase.[14][15][16] most notably in the forebrain; serine racemase expression correlates well with D-serine location.[14][15] The rate of D-serine synthesis from serine racemase requires the cofactors of ATP and Magnesium[17][18] and is positively affecte by calcium[19] while it is inhibited by both glycine and L-aspartic acid.[20][21]
+L-Serine (a dietary amino acid) is racemized into D-serine via the enzyme serine racemase, present in neurons[12] and glial cells[13] although relatively speaking the glial cells known as astrocytes express the highest levels of serine racemase.[14][15][16] most notably in the forebrain; serine racemase expression correlates well with D-serine location.[14][15] The rate of D-serine synthesis from serine racemase requires the cofactors of ATP and Magnesium[17][18] and is positively affected by calcium[19] while it is inhibited by both glycine and L-aspartic acid.[20][21]
 
 Activation of AMPA receptors, possibly through encouraging glutamate-receptor-interacting protein (GRIP) to interact with serine racemase, causes a 5-fold increase in D-serine concentrations when activated.[22] Finally, this enzyme is not specific for this conversion as it also converts L-serine into pyruvate (3:1 ratio relative to D-serine production) and ammonia.[23]
 
@@ -199,7 +199,7 @@ It is thought that D-serine is stored alongside glutamate in neurons and astrocy
 D-Serine is possible released along with glutamate in neurons to activate NDMA receptors, as activation of two distinct sites (one of which requires either glycine or serine) is co-required. Neuronal release contibutes some, but not a majority, of D-serine to the synapse
 
 
-D-Serine is known as a gliotransmitter, a neuromodulatory agent that is release from glial cells.[45][14][46] It is thought that D-serine is release via some form of vesicular exocytosis[47] (as these vesicles have been detected in glia[48][43]). Synaptic vesicles have been found to coexpress glycine, glutamate, and GABA (but not D-serine)[49][50][51] whereas D-serine is thought to have its own vesicular storage;[52][49][47] vesicles may not be the only method of D-serine release, as the Asc-1[51] and TRPA1[53] transporters have been implicated (direct transport and supporting calcium influx, respectively) and inhibiting vesicular storage does not abolish D-serine release.[50]
+D-Serine is known as a gliotransmitter, a neuromodulatory agent that is released from glial cells.[45][14][46] It is thought that D-serine is released via some form of vesicular exocytosis[47] (as these vesicles have been detected in glia[48][43]). Synaptic vesicles have been found to coexpress glycine, glutamate, and GABA (but not D-serine)[49][50][51] whereas D-serine is thought to have its own vesicular storage;[52][49][47] vesicles may not be the only method of D-serine release, as the Asc-1[51] and TRPA1[53] transporters have been implicated (direct transport and supporting calcium influx, respectively) and inhibiting vesicular storage does not abolish D-serine release.[50]
 
 Astrocyte release of D-serine appears to be vital to NDMA-dependent processes (removing astrocytes from hippocampal cultures suppress long term potentiation, and this is restored with D-serine)[54]
 

@@ -223,7 +223,7 @@ Stress
 One letter to the editor[29] notes 5 case reports where severe trauma (stemming from childhood abuse) noted that in these treatment resistant women supplementation of 7-keto was associated with rapid improvements in vocational and interpersonal functioning and subjective improvements after 25-50mg for 4-6 weeks (in one case a dose of 75mg was used).[29]
 
 
-A few case studies reporting that 7-keto can improve stress in trauma patients, no trails conducted
+A few case studies reporting that 7-keto can improve stress in trauma patients, no trials conducted
 
 
 4.

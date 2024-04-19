@@ -54,7 +54,7 @@ Sources and Composition
 
 Sources
 
-Fennel (Foeniculum vulgare of the family Apiaceae) is an aromatic seed used as spice and flavorant. This species is divided into two common market sources of Fennel, 'sweet fennel' (Foeniculum vulgare Mill. subsp. vulgare var. vulgare) and 'bitter fennel' (Foeniculum vulgare Mill. subsp. vulgare var. dulce).[1] They are also sometimes used merely between meals to freshen the breath, and may also be used with meals for supposed carminative (flatulence reducing) purposes.[2]
+Fennel (Foeniculum vulgare of the family Apiaceae) is an aromatic seed used as spice and flavorant. This species is divided into two common market sources of Fennel, 'sweet fennel' (Foeniculum vulgare Mill. subsp. vulgare var. dulce) and 'bitter fennel' (Foeniculum vulgare Mill. subsp. vulgare var. vulgare).[1] They are also sometimes used merely between meals to freshen the breath, and may also be used with meals for supposed carminative (flatulence reducing) purposes.[2]
 
 
 Most usage of Fennel is for culinary purposes and as aromatic
