@@ -22,10 +22,10 @@ print(f'HREFs: {len(all_supplement_links)}')
 for supp_a in all_supplement_links:
     href = supp_a['href']
     href_match = re.match(r'/supplements/(.*)/', href)
-    
+
     if href_match is None:
         continue
-    
+
     name = href_match.group(1)
     url = f'{base_url}{href}/research'
 
@@ -33,7 +33,7 @@ for supp_a in all_supplement_links:
 
     supp_content_html = requests.get(url)
     supp_content_soup = BeautifulSoup(supp_content_html.content, 'html.parser')
-    research_breakdown = supp_content_soup.find(id='research-breakdown')
+    research_breakdown = supp_content_soup.find(class_='w-screen')
     research_breakdown.find('form').decompose()
     content = markdownify(str(research_breakdown), convert=['p'])
 
