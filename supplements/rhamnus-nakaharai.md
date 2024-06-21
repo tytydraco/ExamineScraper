@@ -72,3 +72,4 @@ Mechanisms
 
 3-O-Methylquercetin appears to be a selective PDE3 inhibitor with an IC50 of 1.6mM via competitive inhibition.[5]
 
+References^Ng LT, Lin CC, Lu CMAntioxidative effects of 6-methoxysorigenin and its derivatives from Rhamnus nakaharaiChem Pharm Bull (Tokyo).(2007 Mar)^Lin CN, Lu CM, Lin HC, Ko FN, Teng CMNovel antiplatelet naphthalene from Rhamnus nakaharaiJ Nat Prod.(1995 Dec)^Hsiao G, Ko FN, Lin CN, Teng CMAntioxidant properties of isotorachrysone isolated from Rhamnus nakaharaiBiochim Biophys Acta.(1996 Nov 14)^Jiang JS, Shih CM, Wang SH, Chen TT, Lin CN, Ko WCMechanisms of suppression of nitric oxide production by 3-O-methylquercetin in RAW 264.7 cellsJ Ethnopharmacol.(2006 Jan 16)^Ko WC, Chen MC, Wang SH, Lai YH, Chen JH, Lin CN3-O-methylquercetin more selectively inhibits phosphodiesterase subtype 3Planta Med.(2003 Apr)

@@ -62,3 +62,4 @@ Effect on Blood Pressure
 
 DMAA alone and in combination with Caffeine has been shown in a double blind trial to significantly increase blood pressure, but had not effect on heart rate.[6]
 
+References^Vorce SP, Holler JM, Cawrse BM, Magluilo J JrDimethylamylamine: a drug causing positive immunoassay results for amphetaminesJ Anal Toxicol.(2011 Apr)^[No authors listedNEW and nonofficial remedies: methylhexamine; forthaneJ Am Med Assoc.(1950 Jul 29)^Gee P, Jackson S, Easton JAnother bitter pill: a case of toxicity from DMAA party pillsN Z Med J.(2010 Dec 17)^The Merck Index: An Encyclopedia of Chemicals, Drugs, and Biologicals (Book)^Lisi A, Hasick N, Kazlauskas R, Goebel CStudies of methylhexaneamine in supplements and geranium oilDrug Test Anal.(2011 Nov-Dec)^Bloomer RJ, Harvey IC, Farney TM, Bell ZW, Canale REEffects of 1,3-dimethylamylamine and caffeine alone or in combination on heart rate and blood pressure in healthy men and womenPhys Sportsmed.(2011 Sep)

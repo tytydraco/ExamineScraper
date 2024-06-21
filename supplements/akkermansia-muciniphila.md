@@ -1,0 +1,1 @@
+References^Depommier C, Everard A, Druart C, Plovier H, Van Hul M, Vieira-Silva S, Falony G, Raes J, Maiter D, Delzenne NM, de Barsy M, Loumaye A, Hermans MP, Thissen JP, de Vos WM, Cani PDSupplementation with Akkermansia muciniphila in overweight and obese human volunteers: a proof-of-concept exploratory study.Nat Med.(2019 Jul)

@@ -1,0 +1,1 @@
+References^Smith KE, Rogers JM, Dunn KE, Grundmann O, McCurdy CR, Schriefer D, Epstein DHSearching for a Signal: Self-Reported Kratom Dose-Effect Relationships Among a Sample of US Adults With Regular Kratom Use Histories.Front Pharmacol.(2022)

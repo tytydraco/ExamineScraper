@@ -94,3 +94,4 @@ Safety and Toxicity
 
 Tested doses of a methanolic extract of Byronia Laciniosa at 125mg/kg and 250mg/kg over a period of 14 days in rats did not adversely affect measured liver enzymes.[6]
 
+References^Chauhan NS, Dixit VKEffects of Bryonia laciniosa seeds on sexual behaviour of male ratsInt J Impot Res.(2010 May-Jun)^In vitro studies on anti asthmatic, analgesic and anti convulsant activities of the medicinal plant Bryonia laciniosa.Linn^Diplocyclos palmatus L.: A new seed source of punicic acid^Mosaddik MA, Ekramul Haque M, Abdur Rashid MGoniothalamin from Bryonopsis laciniosa Linn (Cucurbiataceae)Biochem Syst Ecol.(2000 Dec 1)^A non-ionic glucomannan from the seeds of an indigenous medicinal plant: Bryonia lacinosa^Sivakumar T, Perumal P, Kumar RS, Vamsi ML, Gomathi P, Mazumder UK, Gupta MEvaluation of analgesic, antipyretic activity and toxicity study of Bryonia laciniosa in mice and ratsAm J Chin Med.(2004)

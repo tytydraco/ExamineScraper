@@ -98,3 +98,4 @@ In male rats, 100mg/kg of a defatted water extract of dactylorhiza hatagirea giv
 The ability of this herb to increase sperm count is comparable to other ayurvedic herbs, although it appears less effective at increasing nutritional parameters of the sperm (ie. fructose content)
 
 
+References^Thakur M, Dixit VKAphrodisiac Activity of Dactylorhiza hatagirea (D.Don) Soo in Male Albino RatsEvid Based Complement Alternat Med.(2007 Sep)^Thakur M, Thompson D, Connellan P, Deseo MA, Morris C, Dixit VKImprovement of penile erection, sperm count and seminal fructose levels in vivo and nitric oxide release in vitro by ayurvedic herbsAndrologia.(2011 Aug)^Kunwar RM, Nepal BK, Kshhetri HB, Rai SK, Bussmann RWEthnomedicine in Himalaya: a case study from Dolpa, Humla, Jumla and Mustang districts of NepalJ Ethnobiol Ethnomed.(2006 Jun 2)

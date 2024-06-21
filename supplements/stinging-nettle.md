@@ -1,0 +1,1 @@
+References^Mittman PRandomized, double-blind study of freeze-dried Urtica dioica in the treatment of allergic rhinitisPlanta Med.(1990 Feb)^Safarinejad MRUrtica dioica for treatment of benign prostatic hyperplasia: a prospective, randomized, double-blind, placebo-controlled, crossover studyJ Herb Pharmacother.(2005)^WHO monographs on selected medicinal plants, volume 2(2002)

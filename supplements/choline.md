@@ -1,0 +1,1 @@
+References^Choline: Fact Sheet for Health Professionals; USA: National Institutes of Health Office of Dietary Supplements; last updated 2 June 2022; cited April 2024(2018)

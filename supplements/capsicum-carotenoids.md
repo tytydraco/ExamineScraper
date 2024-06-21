@@ -22,3 +22,4 @@ Multidrug Resistance proteins (MDRs) are protein transports on tumor cells and o
 
 Both Capsorubin and Capsanthin are able to potently inhibit P-Glycoprotein and MDR-1, two well-characterized efflux proteins.[4][5] Via this action they may increase the bioavailability of some compounds, such as Berberine.
 
+References^COLOR EVALUATION OF SELECTED CAPSICUMS^A qualitative study of the carotenoid pigments of Sri Lanka chillies (Capsicum annum)^Quantitative changes in carotenoids during the storage of dried red pepper and red pepper powder^Molnár J, Gyémánt N, Tanaka M, Hohmann J, Bergmann-Leitner E, Molnár P, Deli J, Didiziapetris R, Ferreira MJInhibition of multidrug resistance of cancer cells by natural diterpenes, triterpenes and carotenoidsCurr Pharm Des.(2006)^Molnár J, Engi H, Hohmann J, Molnár P, Deli J, Wesolowska O, Michalak K, Wang QReversal of multidrug resitance by natural substances from plantsCurr Top Med Chem.(2010)

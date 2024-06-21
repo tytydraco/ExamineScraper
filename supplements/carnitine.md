@@ -1,0 +1,1 @@
+References^Hathcock JN, Shao ARisk assessment for carnitine.Regul Toxicol Pharmacol.(2006-Oct)

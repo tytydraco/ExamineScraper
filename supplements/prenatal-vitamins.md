@@ -1,0 +1,1 @@
+References^Gernand ADThe upper level: examining the risk of excess micronutrient intake in pregnancy from antenatal supplements.Ann N Y Acad Sci.(2019-May)^Olson JM, Ameer MA, Goyal AVitamin A ToxicityStatPearls.(2023-01)

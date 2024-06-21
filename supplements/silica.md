@@ -74,3 +74,4 @@ Skin
 
 When tested in vitro (not skin cells, but rather CHO and NS-1), silica hydride appeared to protect the cells from light-induced damage claimed to be due to antioxidant properties.[3]
 
+References^Purdy Lloyd KL, Wasmund W, Smith L, Raven PBClinical Effects of a Dietary Antioxidant Silicate Supplement, Microhydrin((R)), on Cardiovascular Responses to ExerciseJ Med Food.(2004)^Jacqmin-Gadda H, Commenges D, Letenneur L, Dartigues JFSilica and aluminum in drinking water and cognitive impairment in the elderlyEpidemiology.(1996)^Stephanson CJ, Stephanson AM, Flanagan GPAntioxidant capability and efficacy of Mega-H silica hydride, an antioxidant dietary supplement, by in vitro cellular analysis using photosensitization and fluorescence detectionJ Med Food.(2002)

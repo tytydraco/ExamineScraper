@@ -1,0 +1,1 @@
+References^Deng G, Lin H, Seidman A, Fornier M, D'Andrea G, Wesa K, Yeung S, Cunningham-Rundles S, Vickers AJ, Cassileth BA phase I/II trial of a polysaccharide extract from Grifola frondosa (Maitake mushroom) in breast cancer patients: immunological effects.J Cancer Res Clin Oncol.(2009-Sep)

@@ -154,3 +154,4 @@ General
 
 Supplementation of the water extract up to 2,000mg/kg was not acutely toxic in rats.[1]
 
+References^Zamblé A, Martin-Nizard F, Sahpaz S, Hennebelle T, Staels B, Bordet R, Duriez P, Brunet C, Bailleul FVasoactivity, antioxidant and aphrodisiac properties of Caesalpinia benthamiana rootsJ Ethnopharmacol.(2008 Feb 28)^Dickson RA, Houghton PJ, Hylands PJAntibacterial and antioxidant cassane diterpenoids from Caesalpinia benthamianaPhytochemistry.(2007 May)^Pharmacognostic Standardization of the Leaves and Root Bark of Caesalpinia benthamiana

@@ -1,0 +1,1 @@
+References^Widrig R, Suter A, Saller R, Melzer JChoosing between NSAID and arnica for topical treatment of hand osteoarthritis in a randomised, double-blind study.Rheumatol Int.(2007-Apr)

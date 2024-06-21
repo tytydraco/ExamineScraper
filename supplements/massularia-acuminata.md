@@ -44,3 +44,4 @@ The effects on day 21, relative to day 1, were trending to worsen but not statis
 Evidence suggests that it may have hepatotoxic effects
 
 
+References^Yakubu MT, Awotunde OS, Ajiboye TO, Oladiji AT, Akanji MAPro-sexual effects of aqueous extracts of Massularia acuminata root in male Wistar ratsAndrologia.(2011 Oct)^Yakubu MT, Akanji MA, Oladiji AT, Adesokan AAAndrogenic potentials of aqueous extract of Massularia acuminata (G. Don) Bullock ex Hoyl. stem in male Wistar ratsJ Ethnopharmacol.(2008 Aug 13)^Yakubu MT, Akanji MAEffect of Aqueous Extract of Massularia acuminata Stem on Sexual Behaviour of Male Wistar RatsEvid Based Complement Alternat Med.(2011)^Guidance for Industry: Estimating the Maximum Safe Starting Dose in Initial Clinical Trials for Therapeutics in Adult Healthy Volunteers^Effects of Aqueous Stem Extract of Massularia Acuminata on Some Liver Function Indices of Male Rats

@@ -84,3 +84,4 @@ Liver Cancer
 
 In isolated HepG2 cells, extracts from pumpkin have cytotoxic potential with IC50 values in the range of 0.60-5.03µg.[1]
 
+References^Badr SE, Shaaban M, Elkholy YM, Helal MH, Hamza AS, Masoud MS, El Safty MMChemical composition and biological activity of ripe pumpkin fruits (Cucurbita pepo L.) cultivated in Egyptian habitatsNat Prod Res.(2011 Sep)^Nawirska-Olszańska A, Kita A, Biesiada A, Sokół-Łętowska A, Kucharska AZCharacteristics of antioxidant activity and composition of pumpkin seed oils in 12 cultivarsFood Chem.(2013 Aug 15)^Coulson S, Rao A, Beck SL, Steels E, Gramotnev H, Vitetta LA phase II randomised double-blind placebo-controlled clinical trial investigating the efficacy and safety of ProstateEZE Max: a herbal medicine preparation for the management of symptoms of benign prostatic hypertrophyComplement Ther Med.(2013 Jun)^Jia W, Gao W, Tang LAntidiabetic herbal drugs officially approved in ChinaPhytother Res.(2003 Dec)

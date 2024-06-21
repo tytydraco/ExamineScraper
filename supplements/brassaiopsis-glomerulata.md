@@ -70,3 +70,4 @@ Testosterone
 
 It has been noted that active components of Brassaiopsis glomerulata can inhibit the aromatase enzyme in vitro,[2] but no evidence currently exists to support an increase in testosterone or decrease in estrogen in a living system.
 
+References^Kiem PV, Dat NT, Minh CV, Lee JJ, Kim YHLupane-triterpenes from the leaves of Brassaiopsis glomerulataArch Pharm Res.(2003 Aug)^Balunas MJ, Su B, Riswan S, Fong HH, Brueggemeier RW, Pezzuto JM, Kinghorn ADIsolation and Characterization of Aromatase Inhibitors from Brassaiopsis glomerulata (Araliaceae)Phytochem Lett.(2009 Feb 19)^Balunas MJ, Su B, Landini S, Brueggemeier RW, Kinghorn ADInterference by naturally occurring fatty acids in a noncellular enzyme-based aromatase bioassayJ Nat Prod.(2006 Apr)
