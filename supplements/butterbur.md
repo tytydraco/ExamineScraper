@@ -1,0 +1,1 @@
+References^Lennox Din, Forshing LuiButterbur^Andreas Schapowal, Petasites Study GroupButterbur Ze339 for the treatment of intermittent allergic rhinitis: dose-dependent efficacy in a prospective, randomized, double-blind, placebo-controlled studyArch Otolaryngol Head Neck Surg.(2004 Dec)
