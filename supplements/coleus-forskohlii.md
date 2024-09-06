@@ -1,1 +1,1 @@
-References^Coleus forskohlii. Monograph.Altern Med Rev.(2006 Mar)
+None

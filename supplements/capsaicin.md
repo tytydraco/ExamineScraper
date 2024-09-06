@@ -1,1 +1,1 @@
-References^Lejeune MP, Kovacs EM, Westerterp-Plantenga MSEffect of capsaicin on substrate oxidation and weight maintenance after modest body-weight loss in human subjects.Br J Nutr.(2003-Sep)
+None

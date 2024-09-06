@@ -1,1 +1,1 @@
-References^Devangan S, Varghese B, Johny E, Gurram S, Adela RThe effect of Gymnema sylvestre supplementation on glycemic control in type 2 diabetes patients: A systematic review and meta-analysis.Phytother Res.(2021-Dec)
+None

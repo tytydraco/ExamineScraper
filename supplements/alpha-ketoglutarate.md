@@ -1,1 +1,1 @@
-References^Gyanwali B, Lim ZX, Soh J, Lim C, Guan SP, Goh J, Maier AB, Kennedy BKAlpha-Ketoglutarate dietary supplementation to improve health in humans.Trends Endocrinol Metab.(2022-Feb)^Naeini SH, Mavaddatiyan L, Kalkhoran ZR, Taherkhani S, Talkhabi MAlpha-ketoglutarate as a potent regulator for lifespan and healthspan: Evidences and perspectives.Exp Gerontol.(2023-May)
+None

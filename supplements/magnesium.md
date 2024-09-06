@@ -1,1 +1,1 @@
-References^Walker AF, Marakis G, Christie S, Byng MMg citrate found more bioavailable than other Mg preparations in a randomised, double-blind studyMagnes Res.(2003 Sep)^Ranade VV, Somberg JCBioavailability and pharmacokinetics of magnesium after administration of magnesium salts to humansAm J Ther.(2001 Sep-Oct)^Gröber U, Werner T, Vormann J, Kisters KMyth or Reality-Transdermal Magnesium?Nutrients.(2017-Jul-28)
+None

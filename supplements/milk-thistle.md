@@ -1,1 +1,1 @@
-References^Saller R, Brignoli R, Melzer J, Meier RAn updated systematic review with meta-analysis for the clinical evidence of silymarin.Forsch Komplementmed.(2008-Feb)^Anton Gillessen, Hartmut H-J SchmidtSilymarin as Supportive Treatment in Liver Diseases: A Narrative ReviewAdv Ther.(2020 Apr)
+None

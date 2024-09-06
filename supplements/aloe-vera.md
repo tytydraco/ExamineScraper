@@ -1,1 +1,1 @@
-References^N Suksomboon, N Poolsup, S PunthanitisarnEffect of Aloe vera on glycaemic control in prediabetes and type 2 diabetes: a systematic review and meta-analysisJ Clin Pharm Ther.(2016 Apr)^Yiyi Zhang, Wen Liu, Dan Liu, Tieyun Zhao, Haoming TianEfficacy of Aloe Vera Supplementation on Prediabetes and Early Non-Treated Diabetic Patients: A Systematic Review and Meta-Analysis of Randomized Controlled TrialsNutrients.(2016 Jun 23)
+None

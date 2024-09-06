@@ -1,2 +1,1 @@
-References^Hadley S, Petry JJValerian.Am Fam Physician.(2003-Apr-15)^Shinjyo N, Waddell G, Green JValerian Root in Treating Sleep Problems and Associated Disorders-A Systematic Review and Meta-Analysis.J Evid Based Integr Med.(2020)^European Union herbal monograph on Valeriana officinalis
-L., radix: European Medicines Agency(February 2016)
+None

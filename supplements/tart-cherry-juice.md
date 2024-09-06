@@ -1,1 +1,1 @@
-References^McHugh MP"Precovery" versus recovery: Understanding the role of cherry juice in exercise recovery.Scand J Med Sci Sports.(2022-Jun)^Gao R, Chilibeck PDEffect of Tart Cherry Concentrate on Endurance Exercise Performance: A Meta-analysis.J Am Coll Nutr.(2020)^Jessica Amie Hill, Karen Mary Keane, Rebecca Quinlan, Glyn HowatsonTart Cherry Supplementation and Recovery From Strenuous Exercise: A Systematic Review and Meta-AnalysisInt J Sport Nutr Exerc Metab.(2021 Jan 13)
+None

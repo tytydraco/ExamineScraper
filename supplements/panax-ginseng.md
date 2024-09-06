@@ -1,1 +1,1 @@
-References^Geng J, Dong J, Ni H, Lee MS, Wu T, Jiang K, Wang G, Zhou AL, Malouf RGinseng for cognition.Cochrane Database Syst Rev.(2010-Dec-08)^Park SH, Chung S, Chung MY, Choi HK, Hwang JT, Park JHEffects of on hyperglycemia, hypertension, and hyperlipidemia: A systematic review and meta-analysis.J Ginseng Res.(2022-Mar)^de Andrade E, de Mesquita AA, Claro Jde A, de Andrade PM, Ortiz V, Paranhos M, Srougi MStudy of the efficacy of Korean Red Ginseng in the treatment of erectile dysfunctionAsian J Androl.(2007 Mar)
+None

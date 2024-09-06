@@ -1,1 +1,1 @@
-References^Yi L, Maier AB, Tao R, Lin Z, Vaidya A, Pendse S, Thasma S, Andhalkar N, Avhad G, Kumbhar VThe efficacy and safety of β-nicotinamide mononucleotide (NMN) supplementation in healthy middle-aged adults: a randomized, multicenter, double-blind, placebo-controlled, parallel-group, dose-dependent clinical trial.Geroscience.(2023-Feb)
+None

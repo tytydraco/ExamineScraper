@@ -84,7 +84,7 @@ Luteinizing Hormone
 
 8.4
 
-Follicle-Stimulating Hormone
+Follicle\-Stimulating Hormone
 
 8.5
 
@@ -108,7 +108,7 @@ Bladder and Urinary Tract
 
 10
 
-Nutrient-Nutrient Interactions
+Nutrient\-Nutrient Interactions
 
 10.1
 
@@ -136,15 +136,15 @@ Boron is a dietary mineral that, although it has a daily intake, has not been ac
 
 Sources
 
-The most prominent sources of Boron in the diet are fruits, vegetables, tubers, and drinking water.[1] It is also used in some industrial products, and the possibility of serum levels of boron being increased secondary to these is plausible, especially if coming into contact with wounds.[2] Good sources of Boron are:[1]
+The most prominent sources of Boron in the diet are fruits, vegetables, tubers, and drinking water.\[1] It is also used in some industrial products, and the possibility of serum levels of boron being increased secondary to these is plausible, especially if coming into contact with wounds.\[2] Good sources of Boron are:\[1]
 
-Avocado (about 1.11mg/0.102mmol per avocado)[3]Flaked onions, dehydrated (6.573+/-3.228mcg/g)Ground Cinnamon (10.37+/-0.661mcg/g)Parsely (26.878+/-1.778mcg/g)Apple Juice (1.881+/-0.082mcg/g) and Sauce (2.828+/-0.12mcg/g)Cherries (1.482+/-0.243mcg/g)Grape Juice (2.020+/-0.265mcg/g)Peaches (1.872+/-0.112mcg/g)Beef boullion (1.264+/-0.609mcg/g)Ice Cream (0.192+/-0.03mcg/g)Flour (0.275+/-0.139)Fortified Cornflakes (0.314+/-0.079mcg/g)Enriched White Bread (0.202+/-0.07mcg/g)Broccoli stalk (0.889+/-0.039mcg/g)Products with a negligible (less than 0.015mcg/g) are:[1]
+Avocado (about 1\.11mg/0\.102mmol per avocado)\[3]Flaked onions, dehydrated (6\.573\+/\-3\.228mcg/g)Ground Cinnamon (10\.37\+/\-0\.661mcg/g)Parsely (26\.878\+/\-1\.778mcg/g)Apple Juice (1\.881\+/\-0\.082mcg/g) and Sauce (2\.828\+/\-0\.12mcg/g)Cherries (1\.482\+/\-0\.243mcg/g)Grape Juice (2\.020\+/\-0\.265mcg/g)Peaches (1\.872\+/\-0\.112mcg/g)Beef boullion (1\.264\+/\-0\.609mcg/g)Ice Cream (0\.192\+/\-0\.03mcg/g)Flour (0\.275\+/\-0\.139\)Fortified Cornflakes (0\.314\+/\-0\.079mcg/g)Enriched White Bread (0\.202\+/\-0\.07mcg/g)Broccoli stalk (0\.889\+/\-0\.039mcg/g)Products with a negligible (less than 0\.015mcg/g) are:\[1]
 
 Beef and ChickenCheese and Dairy products excluding Ice CreamCornstarchRiceSpaghettiGelatin, Puddings, or Sugar1.2
 
 Biological Significance
 
-Boron is a mineral which also participates as a Lewis acid, binding to hydroxyl groups (an anti-oxidant action, but likely to be insignificant due to low quantities of Boron de novo); when Boron binds to three hydroxyl groups, the structure is referred to as Boric Acid or Boracic Acid.[4]
+Boron is a mineral which also participates as a Lewis acid, binding to hydroxyl groups (an anti\-oxidant action, but likely to be insignificant due to low quantities of Boron de novo); when Boron binds to three hydroxyl groups, the structure is referred to as Boric Acid or Boracic Acid.\[4]
 
 2.
 
@@ -154,9 +154,9 @@ Pharmacology
 
 Absorption
 
-Boron appears to be absorbed from the intestines and is reported to be nearly complete[5] as 84% of a radiolabelled dose has been found in the urine following an oral dose of 10mg in otherwise healthy persons.[6]
+Boron appears to be absorbed from the intestines and is reported to be nearly complete\[5] as 84% of a radiolabelled dose has been found in the urine following an oral dose of 10mg in otherwise healthy persons.\[6]
 
-It is thought that passive transportation may play a role as boron is the smallest known metalloid[7] (this has been noted in plants[8]) although plants have also shown transporters which accept boron selectively.[9][10] In regards to mammals a sodium coupled borate transporter (NaBCl or SLC4A11) has been identified in rat,[11] swine[12] as well as human intestinal tissue[13] and is responsive to dietary boron.[12]
+It is thought that passive transportation may play a role as boron is the smallest known metalloid\[7] (this has been noted in plants\[8]) although plants have also shown transporters which accept boron selectively.\[9]\[10] In regards to mammals a sodium coupled borate transporter (NaBCl or SLC4A11\) has been identified in rat,\[11] swine\[12] as well as human intestinal tissue\[13] and is responsive to dietary boron.\[12]
 
 
 Boron appears to be well absorbed from the intestines, and this may be due to being absorbed (as borate) via the transporter known as SLC4A11
@@ -166,15 +166,15 @@ Boron appears to be well absorbed from the intestines, and this may be due to be
 
 Serum
 
-Oral administration of 11.4mg Boron (via 102.6mg sodium tetra borate decahydrate) alongside a meal can elevate plasma boron concentrations within one hour peaking at 4 hours post-consumption;[14] fluctuating from 0.008-0.016mg/L in placebo yet spiking to 0.058mg/L at 1 hour and peaking at 0.136mg/L at 4 hours.[14] This study failed to note differences in urinary boron concentrations for 2 days of collection. A study measuring effects of Boron in serum noted that standard boron supplementation at 10mg was able to influence select biomarkers according to the same timeline (with peak efficacy at 4 hours and some at 1 hour).[15]
+Oral administration of 11\.4mg Boron (via 102\.6mg sodium tetra borate decahydrate) alongside a meal can elevate plasma boron concentrations within one hour peaking at 4 hours post\-consumption;\[14] fluctuating from 0\.008\-0\.016mg/L in placebo yet spiking to 0\.058mg/L at 1 hour and peaking at 0\.136mg/L at 4 hours.\[14] This study failed to note differences in urinary boron concentrations for 2 days of collection. A study measuring effects of Boron in serum noted that standard boron supplementation at 10mg was able to influence select biomarkers according to the same timeline (with peak efficacy at 4 hours and some at 1 hour).\[15]
 
 2.3
 
 Elimination
 
-It has been noted that at dietary levels of intake boron is minimally lost in the feces (2%) with other routes of loss being urinary and, to a degree, via sweat and breath.[5][16]
+It has been noted that at dietary levels of intake boron is minimally lost in the feces (2%) with other routes of loss being urinary and, to a degree, via sweat and breath.\[5]\[16]
 
-One study conducted in postmenopausal women given 3mg supplemental Boron found that the majority of supplemental born was excreted (primarily via the urine), which failed to support the notion that Boron builds up in the body.[17] Extremely rapid boron excretion via the urine has been noted elsewhere in humans.[18]
+One study conducted in postmenopausal women given 3mg supplemental Boron found that the majority of supplemental born was excreted (primarily via the urine), which failed to support the notion that Boron builds up in the body.\[17] Extremely rapid boron excretion via the urine has been noted elsewhere in humans.\[18]
 
 3.
 
@@ -184,7 +184,7 @@ Neurology and the Brain
 
 Deficiency
 
-A Boron deficiency (intake of less than 0.23mg daily) appears to alter brainwave activity; enhancing delta power in the left parietal and temporal lobes and decreasing frontal lobe activity; similar results to intentional Magnesium deficiency.[19] This state of deficiency is associated with cognitive impairment when paired against an adequate intake of 3mg or more[20] which may be associated with Boron being involved in neuronal membrane stabilization.[21][22]
+A Boron deficiency (intake of less than 0\.23mg daily) appears to alter brainwave activity; enhancing delta power in the left parietal and temporal lobes and decreasing frontal lobe activity; similar results to intentional Magnesium deficiency.\[19] This state of deficiency is associated with cognitive impairment when paired against an adequate intake of 3mg or more\[20] which may be associated with Boron being involved in neuronal membrane stabilization.\[21]\[22]
 
 
 May play a role in preserving neuronal function, but no intervention evidence exists to support supplementation currently
@@ -202,7 +202,7 @@ Glucose Metabolism
 
 Interventions
 
-Oral administration of 11.6mg Boron fails to influence plasma insulin or glucose following a test meal despite serum levels of Boron being increased.[14]
+Oral administration of 11\.6mg Boron fails to influence plasma insulin or glucose following a test meal despite serum levels of Boron being increased.\[14]
 
 6.
 
@@ -212,15 +212,15 @@ Bone and Skeletal Mass
 
 Osteoarthritis
 
-It has been hypothesized that 6mg daily Boron (tetraborate) could alleviate inflammation of the joints,[23] which was followed by a pilot study in 20 patients with confirmed osteoarthritis showed 50% response (half of patients reporting benefit) with 55mg Sodium tetraborate decahydrate (6mg elemental Boron) suggesting some possible benefit to osteoarthritis.[24] This may be related to the observation that the bone and synovial fluid of arthritic persons is less than healthy controls.[23]
+It has been hypothesized that 6mg daily Boron (tetraborate) could alleviate inflammation of the joints,\[23] which was followed by a pilot study in 20 patients with confirmed osteoarthritis showed 50% response (half of patients reporting benefit) with 55mg Sodium tetraborate decahydrate (6mg elemental Boron) suggesting some possible benefit to osteoarthritis.\[24] This may be related to the observation that the bone and synovial fluid of arthritic persons is less than healthy controls.\[23]
 
 6.2
 
 Interventions
 
-In a single-blind study assessing both athletic women and sedentary women given 3mg Boron (mixed chelation of Aspartate, Citrate, and Glycinate) daily for 10 months in conjunction with a Boron sufficient diet, Boron was associated with a slight reduction in circulating phosphorus levels (1.5mmol/L reduced to 1.3mmol/L in athletic; 1.7mmol/L reduced to 1.4mmol/L in sedentary) with no significant influence on calcium or magnesium serum levels.[25] There appeared to be a reduced urination of phosphorus and a slight increase in urinary calcium in female athletes only.[25]
+In a single\-blind study assessing both athletic women and sedentary women given 3mg Boron (mixed chelation of Aspartate, Citrate, and Glycinate) daily for 10 months in conjunction with a Boron sufficient diet, Boron was associated with a slight reduction in circulating phosphorus levels (1\.5mmol/L reduced to 1\.3mmol/L in athletic; 1\.7mmol/L reduced to 1\.4mmol/L in sedentary) with no significant influence on calcium or magnesium serum levels.\[25] There appeared to be a reduced urination of phosphorus and a slight increase in urinary calcium in female athletes only.\[25]
 
-When Magnesium deficient, supplemental Boron still appears to suppress phosphorus urinary levels,[26] the reduction of urinary calcium has been noted in women with low dietary Magnesium intake in another study and this was not noted alongside Magnesium supplementation (non-deficient).[17]
+When Magnesium deficient, supplemental Boron still appears to suppress phosphorus urinary levels,\[26] the reduction of urinary calcium has been noted in women with low dietary Magnesium intake in another study and this was not noted alongside Magnesium supplementation (non\-deficient).\[17]
 
 7.
 
@@ -230,7 +230,7 @@ Inflammation and Immunology
 
 Cytokines
 
-6 days of supplementation of 10mg Boron is able to reduce TNF-a levels in serum by 19.1%, high sensitivity C-Reactive Protein by 45%, and IL-6 by 43.9% in otherwise healthy males.[15]
+6 days of supplementation of 10mg Boron is able to reduce TNF\-a levels in serum by 19\.1%, high sensitivity C\-Reactive Protein by 45%, and IL\-6 by 43\.9% in otherwise healthy males.\[15]
 
 8.
 
@@ -240,53 +240,53 @@ Interactions with Hormones
 
 Testosterone
 
-Mechanistically, concentrations of boron in vitro in testicular homogenates are not associated with conversion rates of androstenedione to testosterone.[27]
+Mechanistically, concentrations of boron in vitro in testicular homogenates are not associated with conversion rates of androstenedione to testosterone.\[27]
 
-One study in otherwise healthy men noted that acute supplementation of Boron, over the period of 6 hours, failed to increase total testosterone levels yet trended to increase free testosterone (+14.7%) and DHT (+9.9%) although neither was statistically significant, yet significantly reduced Sex-Hormone Binding Globulin (SHBG) by 9% at the 6 hour mark yet required 2 hours to reach significance.[15] After 7 days of supplementation, the increase in free testosterone (28.3%) reached significance yet the SHBG decrease was not.[15] Another study using 4 weeks of 10mg Boron supplementation noted a trend towards increased testosterone (11.4%) but failed to reach statistical significance.[6]
+One study in otherwise healthy men noted that acute supplementation of Boron, over the period of 6 hours, failed to increase total testosterone levels yet trended to increase free testosterone (\+14\.7%) and DHT (\+9\.9%) although neither was statistically significant, yet significantly reduced Sex\-Hormone Binding Globulin (SHBG) by 9% at the 6 hour mark yet required 2 hours to reach significance.\[15] After 7 days of supplementation, the increase in free testosterone (28\.3%) reached significance yet the SHBG decrease was not.\[15] Another study using 4 weeks of 10mg Boron supplementation noted a trend towards increased testosterone (11\.4%) but failed to reach statistical significance.\[6]
 
-One study has been conducted on athletic males participating in bodybuilding, using a lower dose. 2.5mg of Boron daily for 9 weeks elevated plasma boron levels (20.1ppb to 32.6ppb; a 62% increase) yet failed to find significant differences between groups for any hormones measured.[28]
+One study has been conducted on athletic males participating in bodybuilding, using a lower dose. 2\.5mg of Boron daily for 9 weeks elevated plasma boron levels (20\.1ppb to 32\.6ppb; a 62% increase) yet failed to find significant differences between groups for any hormones measured.\[28]
 
 
 In healthy male adults, supplemental Boron appears to be have mixed results. It has been implicated in increasing testosterone, but these may be dependent on time or dose as prolonged studies with the same or a lesser dose fail to replicate the increase in free testosterone seen in one study
 
 
-In postmenopausal women on a Boron deficient diet (0.25mg daily), 3mg in supplementation can preserve a decrease in testosterone induced by the diet.[26] The increase appeared to be of greater magnitude when dietary Magnesium was low, suggesting Boron may act on similar mechanisms.
+In postmenopausal women on a Boron deficient diet (0\.25mg daily), 3mg in supplementation can preserve a decrease in testosterone induced by the diet.\[26] The increase appeared to be of greater magnitude when dietary Magnesium was low, suggesting Boron may act on similar mechanisms.
 
 
 Boron deficiency appears to reduce androgen status in women, and sufficiency can restore levels; a similar phenomena as seen with Zinc
 
 
-One toxicological study in rats noted that, as it pertains to testosterone, that over 30 days of observation that there was an increase in testosterone in a dose-dependent manner up to 122% elevations (2000ppm) but that the progression of toxicological effects over 60 days reversed the increase in testosterone in the highest group to a decline while the lowest group (500mg) experiencing a 10.5% increase at day 30 increased this to 158% at day 60.[29] These results suggest that boron accumulation in the testes contributes to an increase in testosterone, and time or dose can be contributing factors and have been replicated with 25mg/kg over 6 weeks (toxicity) while 2-12.5mg/kg were associated with improvements in testosterone.[27]
+One toxicological study in rats noted that, as it pertains to testosterone, that over 30 days of observation that there was an increase in testosterone in a dose\-dependent manner up to 122% elevations (2000ppm) but that the progression of toxicological effects over 60 days reversed the increase in testosterone in the highest group to a decline while the lowest group (500mg) experiencing a 10\.5% increase at day 30 increased this to 158% at day 60\.\[29] These results suggest that boron accumulation in the testes contributes to an increase in testosterone, and time or dose can be contributing factors and have been replicated with 25mg/kg over 6 weeks (toxicity) while 2\-12\.5mg/kg were associated with improvements in testosterone.\[27]
 
 8.2
 
 Estrogen
 
-In otherwise healthy adult men, 10mg of Boron daily for a week significantly reduces serum estradiol (an estrogen) from 42.33pg/mL to 25.81pg/mL (39%), although no significant effect was seen after a single dose when measured for 6 hours afterwards.[15] Conversely, another study found 4 weeks of 10mg Boron found increases of serum estradiol from 51.9pmol/mL to 73.9pmol/L in 18 apparently healthy men.[6]
+In otherwise healthy adult men, 10mg of Boron daily for a week significantly reduces serum estradiol (an estrogen) from 42\.33pg/mL to 25\.81pg/mL (39%), although no significant effect was seen after a single dose when measured for 6 hours afterwards.\[15] Conversely, another study found 4 weeks of 10mg Boron found increases of serum estradiol from 51\.9pmol/mL to 73\.9pmol/L in 18 apparently healthy men.\[6]
 
 
 Two studies on males and estrogen, with dichotomous results at the same dose in the same population
 
 
-In postmenopausal women on a Boron deficienct diet, supplementation of Boron at 3mg/day is able to preserve estrogen levels that drop during boron deficiency.[26]
+In postmenopausal women on a Boron deficienct diet, supplementation of Boron at 3mg/day is able to preserve estrogen levels that drop during boron deficiency.\[26]
 
 8.3
 
 Luteinizing Hormone
 
-10mg of Boron daily for a week does not significantly influence LH in adult males[15] and varying doses in rats ranging into toxic doses also fail to influence LH.[29]
+10mg of Boron daily for a week does not significantly influence LH in adult males\[15] and varying doses in rats ranging into toxic doses also fail to influence LH.\[29]
 
 8.4
 
-Follicle-Stimulating Hormone
+Follicle\-Stimulating Hormone
 
-In rats fed 500, 1000, or 2000ppm Boron for 60 days, a time and dose dependent increase in FSH was seen in all groups.[29]
+In rats fed 500, 1000, or 2000ppm Boron for 60 days, a time and dose dependent increase in FSH was seen in all groups.\[29]
 
 8.5
 
 Cortisol
 
-A week of 10mg Boron supplementation in otherwise healthy males fails to influence cortisol.[15]
+A week of 10mg Boron supplementation in otherwise healthy males fails to influence cortisol.\[15]
 
 9.
 
@@ -296,19 +296,19 @@ Interactions with Organ Systems
 
 Testicles
 
-One rat study noted that higher doses (associated with testicular toxicity) had elevated testicular concentrations of boron, indicative of either selective accumulation of boron in the testicles or perhaps the concentration was skewed due to testicular atrophy; it was not noted with a lower dose of 500ppm.[29]
+One rat study noted that higher doses (associated with testicular toxicity) had elevated testicular concentrations of boron, indicative of either selective accumulation of boron in the testicles or perhaps the concentration was skewed due to testicular atrophy; it was not noted with a lower dose of 500ppm.\[29]
 
 9.2
 
 Prostate
 
-In assessing a cohort of 35,222 men with 832 confirmed cases of prostate cancer over 3 years of surveillance, it was noted that the highest quartile was not significantly protected against prostate cancer when compared to the lowest quartile; respective RR was 1.17 (CI 0.85-1.61).[30] This is in contrast to a previous study finding a RR of 0.63 indicating close to half the risk with a higher boron diet.[31]
+In assessing a cohort of 35,222 men with 832 confirmed cases of prostate cancer over 3 years of surveillance, it was noted that the highest quartile was not significantly protected against prostate cancer when compared to the lowest quartile; respective RR was 1\.17 (CI 0\.85\-1\.61\).\[30] This is in contrast to a previous study finding a RR of 0\.63 indicating close to half the risk with a higher boron diet.\[31]
 
 9.3
 
 Bladder and Urinary Tract
 
-A letter to the editor of the Journal of Alternative and Complementary Medicine makes note of a small study with 14 participants.[32] 10mg of Boron daily was given to persons with confirmed urolithiasis (kidney stones) and patients tended to report pain reduction after 2-3 days of treatment and multiple patients noted passing of kidney stones within a few weeks of treatmetn; the time to pass kidney stones was highly variable.[32]
+A letter to the editor of the Journal of Alternative and Complementary Medicine makes note of a small study with 14 participants.\[32] 10mg of Boron daily was given to persons with confirmed urolithiasis (kidney stones) and patients tended to report pain reduction after 2\-3 days of treatment and multiple patients noted passing of kidney stones within a few weeks of treatmetn; the time to pass kidney stones was highly variable.\[32]
 
 
 Preliminary evidence that Boron may aid kidney stone excretion and associated pain
@@ -316,15 +316,15 @@ Preliminary evidence that Boron may aid kidney stone excretion and associated pa
 
 10.
 
-Nutrient-Nutrient Interactions
+Nutrient\-Nutrient Interactions
 
 10.1
 
 Vitamin D
 
-Boron supplementation interacts with Vitamin D metabolism.[33] This is exemplified by a boron-deficient diet (marginal in Magnesium and copper) reducing Vitamin D levels to 44.9nM 25-hyroxyvitamin D after 63 days but being increased back to 62.4nM after 49 days of repletion with 3mg Boron[34] and an intervention using 6mg fructoborate (fruit storage form of boron) noting a 20% increase in 25-hydroxyvitamin D in Vitamin D deficient individuals, and was said to not be due to seasonal fluctuations.[33]
+Boron supplementation interacts with Vitamin D metabolism.\[33] This is exemplified by a boron\-deficient diet (marginal in Magnesium and copper) reducing Vitamin D levels to 44\.9nM 25\-hyroxyvitamin D after 63 days but being increased back to 62\.4nM after 49 days of repletion with 3mg Boron\[34] and an intervention using 6mg fructoborate (fruit storage form of boron) noting a 20% increase in 25\-hydroxyvitamin D in Vitamin D deficient individuals, and was said to not be due to seasonal fluctuations.\[33]
 
-Currently, these observations do not have proven mechanisms; one author hypothesized that boron may be reacting with a vitamin D metabolite to form a competitive inhibitor of 24-hydroxylase, an enzyme in Vitamin D synthesis, or otherwise directly inhibiting the enzyme.[33] These hypothesis' has not been tested.
+Currently, these observations do not have proven mechanisms; one author hypothesized that boron may be reacting with a vitamin D metabolite to form a competitive inhibitor of 24\-hydroxylase, an enzyme in Vitamin D synthesis, or otherwise directly inhibiting the enzyme.\[33] These hypothesis' has not been tested.
 
 
 Appears to elevate levels of an intermediate between Vitamin D3 and hormonally active Vitamin D3, via unknown mechanisms
@@ -338,22 +338,22 @@ Safety and Toxicology
 
 General
 
-The Tolerable Upper Limit (TUL) of Boron has been set at 20mg daily for persons over the age of 18.[35] This is slightly higher than the No Observable Adverse Upper Limit (NOAEL) of 17.5mg based on rat studies.[36]
+The Tolerable Upper Limit (TUL) of Boron has been set at 20mg daily for persons over the age of 18\.\[35] This is slightly higher than the No Observable Adverse Upper Limit (NOAEL) of 17\.5mg based on rat studies.\[36]
 
-It has been noted[37] that there is no clear evidence for testicular harm from excess boron exposure, which is in contrast to many dietary metals. Water levels of 6.5mg/L in a boron mining area are not associated with testicular harm[38] and when serum levels were confirmed at 499.2ppb and concentrated in seminal fluid there was no adverse harm on seminal parameters[39] nor have they been observed in a cohort averaging 14.45mg daily, with a range of intake exceeding 30mg.[36]
+It has been noted\[37] that there is no clear evidence for testicular harm from excess boron exposure, which is in contrast to many dietary metals. Water levels of 6\.5mg/L in a boron mining area are not associated with testicular harm\[38] and when serum levels were confirmed at 499\.2ppb and concentrated in seminal fluid there was no adverse harm on seminal parameters\[39] nor have they been observed in a cohort averaging 14\.45mg daily, with a range of intake exceeding 30mg.\[36]
 
-These lack of toxic effects on the testicles have been extended to rats receiving 500ppm daily for 60 days, although 1000-2000ppm were associated with accumulation of testicular boron and testicular atrophy.[29] These effects were replicated in rats exposed to 1173mg for 90 days.[40]
+These lack of toxic effects on the testicles have been extended to rats receiving 500ppm daily for 60 days, although 1000\-2000ppm were associated with accumulation of testicular boron and testicular atrophy.\[29] These effects were replicated in rats exposed to 1173mg for 90 days.\[40]
 
 
-Testicular harm from excess Boron levels appears to be at least three-fold higher than standard supplemental doses, and are likely not a concern with proper supplementation
+Testicular harm from excess Boron levels appears to be at least three\-fold higher than standard supplemental doses, and are likely not a concern with proper supplementation
 
 
 11.2
 
 Boron Acute Toxicity
 
-It has been reported (no cited case studies) that oral doses of 5-6g Boron (5,000-6,000mg) in infants or 15-20g in adults (15,000-20,000mg) causes acute death in humans.[29]
+It has been reported (no cited case studies) that oral doses of 5\-6g Boron (5,000\-6,000mg) in infants or 15\-20g in adults (15,000\-20,000mg) causes acute death in humans.\[29]
 
 Boron, being used in pesticides, has some toxicological information in animals who are greatly overexposed to Boron.
 
-References^Hunt CD, Shuler TR, Mullen LMConcentration of boron and other elements in human foods and personal-care productsJ Am Diet Assoc.(1991 May)^Siegel E, Wason SBoric acid toxicityPediatr Clin North Am.(1986 Apr)^Concentrations and intakes of H, B, S, K, Na, Cl, and NaCl in foods^Loomis WD, Durst RWChemistry and biology of boronBiofactors.(1992 Apr)^Devirian TA1, Volpe SLThe physiological effects of dietary boronCrit Rev Food Sci Nutr.(2003)^Naghii MR1, Samman SThe effect of boron supplementation on its urinary excretion and selected cardiovascular risk factors in healthy male subjectsBiol Trace Elem Res.(1997 Mar)^Zangi R1, Filella MTransport routes of metalloids into and out of the cell: a review of the current knowledgeChem Biol Interact.(2012 Apr 15)^Dordas C1, Brown PHPermeability of boric acid across lipid bilayers and factors affecting itJ Membr Biol.(2000 May 15)^NIP6;1 Is a Boric Acid Channel for Preferential Transport of Boron to Growing Shoot Tissues in Arabidopsis^Dordas C1, Chrispeels MJ, Brown PHPermeability and channel-mediated transport of boric acid across membrane vesicles isolated from squash rootsPlant Physiol.(2000 Nov)^Park M1, Li Q, Shcheynikov N, Zeng W, Muallem SNaBC1 is a ubiquitous electrogenic Na+ -coupled borate transporter essential for cellular boron homeostasis and cell growth and proliferationMol Cell.(2004 Nov 5)^Liao SF1, Monegue JS, Lindemann MD, Cromwell GL, Matthews JCDietary supplementation of boron differentially alters expression of borate transporter (NaBCl) mRNA by jejunum and kidney of growing pigsBiol Trace Elem Res.(2011 Nov)^Damkier HH1, Nielsen S, Praetorius JMolecular expression of SLC4-derived Na+-dependent anion transporters in selected human tissuesAm J Physiol Regul Integr Comp Physiol.(2007 Nov)^Wallace JM, Hannon-Fletcher MP, Robson PJ, Gilmore WS, Hubbard SA, Strain JJBoron supplementation and activated factor VII in healthy menEur J Clin Nutr.(2002 Nov)^Naghii MR, Mofid M, Asgari AR, Hedayati M, Daneshpour MSComparative effects of daily and weekly boron supplementation on plasma steroid hormones and proinflammatory cytokinesJ Trace Elem Med Biol.(2011 Jan)^Samman S1, Naghii MR, Lyons Wall PM, Verus APThe nutritional and metabolic effects of boron in humans and animalsBiol Trace Elem Res.(1998 Winter)^Hunt CD, Herbel JL, Nielsen FHMetabolic responses of postmenopausal women to supplemental dietary boron and aluminum during usual and low magnesium intake: boron, calcium, and magnesium absorption and retention and blood mineral concentrationsAm J Clin Nutr.(1997 Mar)^Vanderpool RA, Hoff D, Johnson PEUse of inductively coupled plasma-mass spectrometry in boron-10 stable isotope experiments with plants, rats, and humansEnviron Health Perspect.(1994 Nov)^Penland JGQuantitative analysis of EEG effects following experimental marginal magnesium and boron deprivationMagnes Res.(1995 Dec)^Penland JGDietary boron, brain function, and cognitive performanceEnviron Health Perspect.(1994 Nov)^The saga of boron in food: from a banished food preservative to a beneficial nutrient for humans^Naghii MR, Samman SThe role of boron in nutrition and metabolismProg Food Nutr Sci.(1993 Oct-Dec)^Newnham REEssentiality of boron for healthy bones and jointsEnviron Health Perspect.(1994 Nov)^Boron and Arthritis: The Results of a Double-blind Pilot Study^Meacham SL, Taper LJ, Volpe SLEffect of boron supplementation on blood and urinary calcium, magnesium, and phosphorus, and urinary boron in athletic and sedentary womenAm J Clin Nutr.(1995 Feb)^Nielsen FH, Hunt CD, Mullen LM, Hunt JREffect of dietary boron on mineral, estrogen, and testosterone metabolism in postmenopausal womenFASEB J.(1987 Nov)^The effect of boron supplementation on the distribution of boron in selected tissues and on testosterone synthesis in rats^Ferrando AA, Green NRThe effect of boron supplementation on lean body mass, plasma testosterone levels, and strength in male bodybuildersInt J Sport Nutr.(1993 Jun)^Lee IP, Sherins RJ, Dixon RLEvidence for induction of germinal aplasia in male rats by environmental exposure to boronToxicol Appl Pharmacol.(1978 Aug)^Gonzalez A, Peters U, Lampe JW, White EBoron intake and prostate cancer riskCancer Causes Control.(2007 Dec)^Barranco WT, Hudak PF, Eckhert CDEvaluation of ecological and in vitro effects of boron on prostate cancer risk (United States)Cancer Causes Control.(2007 Feb)^Naghii MR, Einollahi B, Rostami ZPreliminary evidence hints at a protective role for boron in urolithiasisJ Altern Complement Med.(2012 Mar)^Miljkovic D, Miljkovic N, McCarty MFUp-regulatory impact of boron on vitamin D function -- does it reflect inhibition of 24-hydroxylaseMed Hypotheses.(2004)^Effect of Boron depletion and repletion on blood indicators of calcium status in Humans fed a Magnesium-low diet^Trumbo P, Yates AA, Schlicker S, Poos MDietary reference intakes: vitamin A, vitamin K, arsenic, boron, chromium, copper, iodine, iron, manganese, molybdenum, nickel, silicon, vanadium, and zincJ Am Diet Assoc.(2001 Mar)^Duydu Y, Başaran N, Üstündağ A, Aydin S, Ündeğer Ü, Ataman OY, Aydos K, Düker Y, Ickstadt K, Waltrup BS, Golka K, Bolt HMReproductive toxicity parameters and biological monitoring in occupationally and environmentally boron-exposed persons in Bandirma, TurkeyArch Toxicol.(2011 Jun)^Pizent A, Tariba B, Živković TReproductive toxicity of metals in menArh Hig Rada Toksikol.(2012)^Korkmaz M, Yenigün M, Bakırdere S, Ataman OY, Keskin S, Müezzinoğlu T, Lekili MEffects of chronic boron exposure on semen profileBiol Trace Elem Res.(2011 Nov)^Robbins WA, Xun L, Jia J, Kennedy N, Elashoff DA, Ping LChronic boron exposure and human semen parametersReprod Toxicol.(2010 Apr)^Weir RJ Jr, Fisher RSToxicologic studies on borax and boric acidToxicol Appl Pharmacol.(1972 Nov)
+References^Hunt CD, Shuler TR, Mullen LMConcentration of boron and other elements in human foods and personal\-care productsJ Am Diet Assoc.(1991 May)^Siegel E, Wason SBoric acid toxicityPediatr Clin North Am.(1986 Apr)^Concentrations and intakes of H, B, S, K, Na, Cl, and NaCl in foods^Loomis WD, Durst RWChemistry and biology of boronBiofactors.(1992 Apr)^Devirian TA1, Volpe SLThe physiological effects of dietary boronCrit Rev Food Sci Nutr.(2003)^Naghii MR1, Samman SThe effect of boron supplementation on its urinary excretion and selected cardiovascular risk factors in healthy male subjectsBiol Trace Elem Res.(1997 Mar)^Zangi R1, Filella MTransport routes of metalloids into and out of the cell: a review of the current knowledgeChem Biol Interact.(2012 Apr 15)^Dordas C1, Brown PHPermeability of boric acid across lipid bilayers and factors affecting itJ Membr Biol.(2000 May 15)^NIP6;1 Is a Boric Acid Channel for Preferential Transport of Boron to Growing Shoot Tissues in Arabidopsis^Dordas C1, Chrispeels MJ, Brown PHPermeability and channel\-mediated transport of boric acid across membrane vesicles isolated from squash rootsPlant Physiol.(2000 Nov)^Park M1, Li Q, Shcheynikov N, Zeng W, Muallem SNaBC1 is a ubiquitous electrogenic Na\+ \-coupled borate transporter essential for cellular boron homeostasis and cell growth and proliferationMol Cell.(2004 Nov 5)^Liao SF1, Monegue JS, Lindemann MD, Cromwell GL, Matthews JCDietary supplementation of boron differentially alters expression of borate transporter (NaBCl) mRNA by jejunum and kidney of growing pigsBiol Trace Elem Res.(2011 Nov)^Damkier HH1, Nielsen S, Praetorius JMolecular expression of SLC4\-derived Na\+\-dependent anion transporters in selected human tissuesAm J Physiol Regul Integr Comp Physiol.(2007 Nov)^Wallace JM, Hannon\-Fletcher MP, Robson PJ, Gilmore WS, Hubbard SA, Strain JJBoron supplementation and activated factor VII in healthy menEur J Clin Nutr.(2002 Nov)^Naghii MR, Mofid M, Asgari AR, Hedayati M, Daneshpour MSComparative effects of daily and weekly boron supplementation on plasma steroid hormones and proinflammatory cytokinesJ Trace Elem Med Biol.(2011 Jan)^Samman S1, Naghii MR, Lyons Wall PM, Verus APThe nutritional and metabolic effects of boron in humans and animalsBiol Trace Elem Res.(1998 Winter)^Hunt CD, Herbel JL, Nielsen FHMetabolic responses of postmenopausal women to supplemental dietary boron and aluminum during usual and low magnesium intake: boron, calcium, and magnesium absorption and retention and blood mineral concentrationsAm J Clin Nutr.(1997 Mar)^Vanderpool RA, Hoff D, Johnson PEUse of inductively coupled plasma\-mass spectrometry in boron\-10 stable isotope experiments with plants, rats, and humansEnviron Health Perspect.(1994 Nov)^Penland JGQuantitative analysis of EEG effects following experimental marginal magnesium and boron deprivationMagnes Res.(1995 Dec)^Penland JGDietary boron, brain function, and cognitive performanceEnviron Health Perspect.(1994 Nov)^The saga of boron in food: from a banished food preservative to a beneficial nutrient for humans^Naghii MR, Samman SThe role of boron in nutrition and metabolismProg Food Nutr Sci.(1993 Oct\-Dec)^Newnham REEssentiality of boron for healthy bones and jointsEnviron Health Perspect.(1994 Nov)^Boron and Arthritis: The Results of a Double\-blind Pilot Study^Meacham SL, Taper LJ, Volpe SLEffect of boron supplementation on blood and urinary calcium, magnesium, and phosphorus, and urinary boron in athletic and sedentary womenAm J Clin Nutr.(1995 Feb)^Nielsen FH, Hunt CD, Mullen LM, Hunt JREffect of dietary boron on mineral, estrogen, and testosterone metabolism in postmenopausal womenFASEB J.(1987 Nov)^The effect of boron supplementation on the distribution of boron in selected tissues and on testosterone synthesis in rats^Ferrando AA, Green NRThe effect of boron supplementation on lean body mass, plasma testosterone levels, and strength in male bodybuildersInt J Sport Nutr.(1993 Jun)^Lee IP, Sherins RJ, Dixon RLEvidence for induction of germinal aplasia in male rats by environmental exposure to boronToxicol Appl Pharmacol.(1978 Aug)^Gonzalez A, Peters U, Lampe JW, White EBoron intake and prostate cancer riskCancer Causes Control.(2007 Dec)^Barranco WT, Hudak PF, Eckhert CDEvaluation of ecological and in vitro effects of boron on prostate cancer risk (United States)Cancer Causes Control.(2007 Feb)^Naghii MR, Einollahi B, Rostami ZPreliminary evidence hints at a protective role for boron in urolithiasisJ Altern Complement Med.(2012 Mar)^Miljkovic D, Miljkovic N, McCarty MFUp\-regulatory impact of boron on vitamin D function \-\- does it reflect inhibition of 24\-hydroxylaseMed Hypotheses.(2004)^Effect of Boron depletion and repletion on blood indicators of calcium status in Humans fed a Magnesium\-low diet^Trumbo P, Yates AA, Schlicker S, Poos MDietary reference intakes: vitamin A, vitamin K, arsenic, boron, chromium, copper, iodine, iron, manganese, molybdenum, nickel, silicon, vanadium, and zincJ Am Diet Assoc.(2001 Mar)^Duydu Y, Başaran N, Üstündağ A, Aydin S, Ündeğer Ü, Ataman OY, Aydos K, Düker Y, Ickstadt K, Waltrup BS, Golka K, Bolt HMReproductive toxicity parameters and biological monitoring in occupationally and environmentally boron\-exposed persons in Bandirma, TurkeyArch Toxicol.(2011 Jun)^Pizent A, Tariba B, Živković TReproductive toxicity of metals in menArh Hig Rada Toksikol.(2012)^Korkmaz M, Yenigün M, Bakırdere S, Ataman OY, Keskin S, Müezzinoğlu T, Lekili MEffects of chronic boron exposure on semen profileBiol Trace Elem Res.(2011 Nov)^Robbins WA, Xun L, Jia J, Kennedy N, Elashoff DA, Ping LChronic boron exposure and human semen parametersReprod Toxicol.(2010 Apr)^Weir RJ Jr, Fisher RSToxicologic studies on borax and boric acidToxicol Appl Pharmacol.(1972 Nov)
