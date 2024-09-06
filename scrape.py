@@ -34,7 +34,7 @@ for supp_a in all_supplement_links:
     supp_content_html = requests.get(url)
     supp_content_soup = BeautifulSoup(supp_content_html.content, 'html.parser')
     research_breakdown = supp_content_soup.find(class_='w-screen')
-    research_breakdown.find('form').decompose()
+    # research_breakdown.find('form').decompose()
     content = markdownify(str(research_breakdown), convert=['p'])
 
     with open(f'supplements/{name}.md', 'w') as f:
